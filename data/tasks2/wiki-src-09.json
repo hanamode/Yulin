@@ -1,0 +1,48 @@
+{
+ "batch": 9,
+ "out": "data/gen2/wiki-src/wiki-src-09.json",
+ "entries": [
+  {
+   "id": "sino-tibetan",
+   "title": "汉藏语系",
+   "en": "Sino-Tibetan",
+   "category": "writing",
+   "summary": "汉藏语系是使用人口仅次于印欧语系的大语系，通行于中国、东南亚与喜马拉雅地区，一般认为包括汉语族与藏缅语族诸语言。其语言多为单音节词根语、有声调、缺少严格意义的形"
+  },
+  {
+   "id": "sociolinguistics",
+   "title": "社会语言学",
+   "en": "Sociolinguistics",
+   "category": "branches",
+   "summary": "社会语言学研究语言与社会结构、社会因素之间的相互关系，关注语言变异如何与社会阶层、性别、年龄、族群和交际场景相关联，也关注语言在身份建构、语言接触与语言规划中的"
+  },
+  {
+   "id": "sound-change",
+   "title": "音变",
+   "en": "Sound Change",
+   "category": "concepts",
+   "summary": "音变是语言在历史发展中语音系统发生的规律性变化，是历史语言学与音系学共同关注的核心对象。新语法学派主张音变具有无例外的规律性，类比、借用与社会因素则解释其例外，"
+  },
+  {
+   "id": "speech-act",
+   "title": "言语行为",
+   "en": "Speech Act",
+   "category": "concepts",
+   "summary": "言语行为理论主张说话即行动，说出话语的同时也在完成陈述、请求、许诺、命令等行为。奥斯汀区分表述句与施为句，塞尔将其系统化为发话行为、命题行为与语旨行为三层结构，"
+  },
+  {
+   "id": "structuralism",
+   "title": "结构主义语言学",
+   "en": "Structuralism",
+   "category": "theories",
+   "summary": "结构主义语言学是20世纪影响最深远的语言学思潮，由索绪尔奠基。它主张语言是一个由差别与对立构成的自足关系系统，应从共时角度加以描写，并区分语言与言语、能指与所指"
+  },
+  {
+   "id": "syntactic-tree",
+   "title": "句法树",
+   "en": "Syntactic Tree",
+   "category": "concepts",
+   "summary": "句法树是用树形图表示句子层级结构的描写工具，节点代表词、语素或短语范畴，连线表示成分之间的直接组成关系。它直观呈现句法的层级性与递归性，是生成语法与依存语法等理"
+  }
+ ]
+}

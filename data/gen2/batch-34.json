@@ -1,0 +1,234 @@
+{
+ "batch": 34,
+ "entries": [
+  {
+   "id": "firth",
+   "title": "约翰·弗斯",
+   "en": "J. R. Firth",
+   "category": "people",
+   "tags": ["伦敦学派", "韵律分析", "搭配", "情境语境", "语音学"],
+   "summary": "约翰·弗斯（1890—1960）是英国语言学家，伦敦学派的创立者，1944年起任伦敦大学亚非学院首位普通语言学教授。他提出韵律分析法，主张许多语音特征跨越音段，应在音节、词等不同层级上描写；又把马林诺夫斯基的情境语境引入语义研究，认为意义即语境中的功能。他提出的搭配概念强调观其伴、知其义，为后来的语料库语言学奠定基础。其思想经韩礼德等人发展为系统功能语法。",
+   "summaryEn": "John Rupert Firth (1890-1960) was a British linguist and the founder of the London School. As the first professor of general linguistics at SOAS, he developed prosodic analysis, treating features such as aspiration or palatalisation as spanning syllables rather than single segments, and he insisted that meaning is function in context, drawing on Malinowski's context of situation. His notion of collocation, summed up as knowing a word by the company it keeps, shaped later corpus linguistics and influenced Halliday's systemic functional grammar.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "约翰·鲁珀特·弗斯1890年生于英国约克郡基斯利，先在利兹大学学习历史，后在伦敦大学学院师从丹尼尔·琼斯学习语音学。他曾在印度旁遮普和非洲从事教育工作多年，接触到乌尔都语、泰米尔语等非印欧语言，这使他对仅以英语为基础建立的语音理论保持警惕。1944年，他成为伦敦大学亚非学院首位普通语言学教授，并在此建立后来被称为伦敦学派的研究传统。"
+     ],
+     "pEn": [
+      "John Rupert Firth was born in 1890 in Keighley, Yorkshire. He first studied history at the University of Leeds and later phonetics under Daniel Jones at University College London. Years spent teaching in the Punjab and in Africa brought him into contact with Urdu, Tamil and other non-Indo-European languages, which left him sceptical of phonetic theory based on English alone. In 1944 he became the first Professor of General Linguistics at the School of Oriental and African Studies, where he established what came to be known as the London School."
+     ]
+    },
+    {
+     "h": "韵律分析法",
+     "hEn": "Prosodic Analysis",
+     "p": [
+      "弗斯反对把话语切分为一个个音位并逐个赋值的做法。他主张许多语音特征的作用范围大于单个音段，应作为韵律特征在音节、词或更长单位上描写。例如英语的送气并不是 p、t、k 固有的属性，而是重读首音节的韵律；keen [kʲiːn] 与 cool [kuːɫ] 中 k 在腭化与软腭化上的差别，也取决于其后的元音，属于整个词的韵律，而不是两个独立音位。这种多系统分析认为，不同位置上可以存在不同的对立系统。"
+     ],
+     "pEn": [
+      "Firth rejected the practice of cutting speech into phonemes and assigning each a fixed value. He argued that many phonetic features extend beyond a single segment and should be described as prosodies operating over syllables, words or longer stretches. English aspiration, for instance, is not an inherent property of p, t, k but a prosody of the stressed syllable onset, and the palatalised versus velarised [k] in keen [kʲiːn] and cool [kuːɫ] belongs to the word as a whole rather than to two separate phonemes. This polysystemic view allows different oppositions to operate in different positions."
+     ]
+    },
+    {
+     "h": "搭配与情境语境",
+     "hEn": "Collocation and Context of Situation",
+     "p": [
+      "在语义问题上，弗斯接受马林诺夫斯基的情境语境概念，认为意义不是词本身固有的内容，而是词在语境中所实现的功能。他由此提出搭配这一概念：一个词的意义部分地由它与哪些词常见连用所决定，其名言是观其伴、知其义。例如 night 的一个意义就在于它与 dark 的搭配，而英语说 strong tea 而不说 powerful tea，这种搭配限制是母语者词汇知识的一部分。"
+     ],
+     "pEn": [
+      "On meaning, Firth adopted Malinowski's notion of the context of situation and held that meaning is not a fixed content inside a word but the function it performs in context. From this he derived the concept of collocation: part of a word's meaning is determined by the words it habitually keeps company with, summed up in his maxim that you shall know a word by the company it keeps. One meaning of night, for example, lies in its collocability with dark, and the fact that English prefers strong tea to powerful tea is part of a speaker's lexical knowledge."
+     ]
+    },
+    {
+     "h": "代表著作",
+     "hEn": "Major Works",
+     "p": [
+      "弗斯的重要著作包括1930年出版的《言语》（Speech）与《人类的语言》（The Tongue of Men），以及1957年结集的《语言学论文集1934—1951》（Papers in Linguistics 1934-1951）。同年发表的《语言学理论概要，1930—1955》系统总结了他的理论立场，其中对搭配、情境语境与韵律分析的论述影响最大。他为亚非学院主编的语言学丛书也为描写语言学研究提供了大量材料。"
+     ],
+     "pEn": [
+      "Firth's main publications include Speech (1930), The Tongue of Men and the collected Papers in Linguistics 1934-1951 (1957). In the same year, A Synopsis of Linguistic Theory, 1930-1955 set out his theoretical position, above all his treatments of collocation, context of situation and prosodic analysis. The linguistics series he edited for SOAS made a great deal of descriptive material available to the field and trained a generation of descriptive linguists."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "弗斯的思想通过韩礼德、辛克莱等人发展为系统功能语法与语料库语言学，其搭配观直接启发了现代搭配研究与搭配词典的编纂。批评者则认为，韵律分析缺乏明晰的操作程序，概念界定模糊，研究难以复现；对情境语境的强调也偏于印象式，不易检验。尽管如此，他把语料与语境置于语言研究中心的立场，深刻影响了20世纪后半叶的英国语言学。"
+     ],
+     "pEn": [
+      "Firth's ideas were carried forward by Halliday and Sinclair into systemic functional grammar and corpus linguistics, and his view of collocation directly inspired modern collocation research and collocational dictionaries. Critics have complained that prosodic analysis lacks explicit procedures, that its categories are loosely defined and hard to replicate, and that the appeal to context of situation remains impressionistic. Even so, his insistence that corpus and context belong at the centre of linguistics deeply shaped British linguistics in the second half of the twentieth century."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "韵律分析", "tEn": "Prosodic Analysis", "d": "把跨越多个音段的语音特征作为韵律在音节或词层面描写的分析方法。", "dEn": "An approach that describes features spanning more than one segment as prosodies at syllable or word level."},
+    {"t": "搭配", "tEn": "Collocation", "d": "词与词之间习惯性的共现关系，被看作词汇意义的一部分。", "dEn": "The habitual co-occurrence of words, treated as part of lexical meaning."},
+    {"t": "情境语境", "tEn": "Context of Situation", "d": "言语发生的具体社会与物质环境，意义在此环境中实现。", "dEn": "The social and physical setting of an utterance, in which meaning is realized."},
+    {"t": "多系统分析", "tEn": "Polysystemic Analysis", "d": "认为语言在不同位置或层级上拥有不同对立系统的观点。", "dEn": "The view that a language has different systems of oppositions at different places or levels."},
+    {"t": "伦敦学派", "tEn": "London School", "d": "以弗斯为核心、强调语境、韵律与语料的英国语言学传统，与韩礼德一脉相承。", "dEn": "The British tradition centred on Firth, stressing context, prosody and corpus data, later continued by Halliday."},
+    {"t": "搭配意义", "tEn": "Meaning by Collocation", "d": "由经常共同出现的词所界定的词汇意义，如 night 与 dark 之间的固定联系。", "dEn": "Lexical meaning defined by the words with which an item frequently occurs, as with night and dark."}
+   ],
+   "related": ["halliday", "phonology", "corpus-linguistics", "structuralism", "sociolinguistics"],
+   "sources": [
+    "Wikipedia, \"John Rupert Firth\", https://en.wikipedia.org/wiki/John_Rupert_Firth",
+    "Firth, Papers in Linguistics 1934-1951, Oxford University Press, 1957",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "brown-levinson",
+   "title": "布朗与列文森",
+   "en": "Brown and Levinson",
+   "category": "people",
+   "tags": ["礼貌理论", "面子", "语用学", "威胁面子的行为", "跨文化比较"],
+   "summary": "布朗与列文森指美国人类学家佩内洛普·布朗与英国语言学家斯蒂芬·列文森（1947—2024），他们的礼貌理论是语用学的经典成果。理论以戈夫曼的面子概念为基础，区分积极面子与消极面子，认为许多言语行为本质上是威胁面子的行为；说话人依社会距离、权势与强加程度选择直接、积极礼貌、消极礼貌或非公开策略。他们比较英语、策尔塔尔语和泰米尔语后主张这一机制具有普遍性。",
+   "summaryEn": "Penelope Brown (b. 1944) and Stephen C. Levinson (1947-2024) developed the best-known theory of politeness in pragmatics. Building on Goffman's concept of face, they distinguished positive from negative face and treated many speech acts as intrinsically face-threatening. Speakers choose among bald-on-record, positive-politeness, negative-politeness and off-record strategies according to social distance, relative power and the rank of the imposition. Their comparison of English, Tzeltal and Tamil led them to claim that this machinery is universal.",
+   "sections": [
+    {
+     "h": "生平与合作",
+     "hEn": "Lives and Collaboration",
+     "p": [
+      "佩内洛普·布朗是美国人类学语言学家，先后在加州大学伯克利分校和伦敦大学亚非学院接受训练，长期任职于荷兰奈梅亨的马克斯·普朗克心理语言学研究所，以墨西哥恰帕斯州策尔塔尔语的田野研究著称。斯蒂芬·列文森1947年生，是英国语言学家，著有《语用学》（1983），研究涵盖语用学、语言类型学与语言起源演化，同样长期在马克斯·普朗克研究所工作。两人的合作始于20世纪70年代，重点是比较不同语言中的礼貌与语言使用。"
+     ],
+     "pEn": [
+      "Penelope Brown is an American anthropological linguist who trained at Berkeley and at SOAS and spent her career at the Max Planck Institute for Psycholinguistics in Nijmegen; she is best known for fieldwork on Tzeltal Maya in Chiapas, Mexico. Stephen C. Levinson (1947-2024) was a British linguist, author of Pragmatics (1983), whose research spanned pragmatics, linguistic typology and the evolution of language, and who also worked at the Max Planck Institute. Their collaboration began in the 1970s and focused on the cross-linguistic comparison of politeness and language use."
+     ]
+    },
+    {
+     "h": "核心概念：面子与威胁面子的行为",
+     "hEn": "Face and Face-threatening Acts",
+     "p": [
+      "理论的核心是面子，即个人在公众面前主张的自我形象，这一概念取自戈夫曼。布朗与列文森区分积极面子（希望被喜欢、赞许和认同）与消极面子（希望行动自由、不受强加）。据此，许多言语行为被视为威胁面子的行为：命令威胁听者的消极面子，批评威胁听者的积极面子，道歉则威胁说话人自己的积极面子。说话人在实施这类行为时通常会采取补救措施，以维护双方的公共形象。"
+     ],
+     "pEn": [
+      "The theory rests on face, the public self-image that every person claims, a concept taken from Goffman. Brown and Levinson distinguish positive face, the desire to be liked, approved of and valued, from negative face, the desire that one's actions be unimpeded. Many speech acts are therefore treated as face-threatening: a command threatens the hearer's negative face, criticism threatens the hearer's positive face, and an apology threatens the speaker's own positive face. In performing such acts speakers normally resort to redressive action in order to protect both parties' face."
+     ]
+    },
+    {
+     "h": "礼貌策略与权重公式",
+     "hEn": "Politeness Strategies and the Weightiness Formula",
+     "p": [
+      "两人提出五类策略：不加补救地直接实施、积极礼貌（表达认同与亲近）、消极礼貌（表示尊重并避免强加）、非公开方式（通过暗示或反语让听者自行推断），以及干脆不实施该行为。选择何种策略取决于对三种社会因素的评估：说话人与听者的社会距离、听者相对于说话人的权势，以及该行为强加于听者的程度。三者之和被称为行为的权重，数值越大，说话人越倾向于使用更委婉间接的策略。"
+     ],
+     "pEn": [
+      "They posit five strategy types: baldly on record without redress; positive politeness, expressing approval and closeness; negative politeness, showing respect and avoiding imposition; off record, as in hints and irony, where the hearer infers the intent; and simply not performing the act. The choice depends on three social factors: the social distance between speaker and hearer, the hearer's relative power, and the ranking of the imposition. Their sum, the weightiness of the act, predicts how indirect a speaker will be."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "最常引用的例子是英语中借盐的请求。直接说 Give me the salt 是不加补救的直接策略；说 I wonder if you could possibly pass me the salt，则通过过去时、情态动词与缓冲语表达消极礼貌，明显降低了强加感。在泰米尔语中，对上级或陌生人的请求更为间接，这支持了权势因素的作用。策尔塔尔语的材料显示，地位大致平等的说话人之间请求往往直接得多，原因在于当地社会对强加程度的评估不同。"
+     ],
+     "pEn": [
+      "The most cited example is asking for salt in English. Give me the salt is bald on record, whereas I wonder if you could possibly pass me the salt uses past tense, a modal and hedging to signal negative politeness and to lower the sense of imposition. In Tamil, requests addressed to superiors or strangers take markedly more indirect forms, which supports the role of power. Tzeltal data show that requests between roughly equal speakers are often much more direct, because the local ranking of the imposition differs."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "该理论在语用学、跨文化交际和外语教学中被广泛引用，也引发大量跨文化检验。批评集中在三点：一是以英语为中心的预设，松本和井出指出日语更重视辨别的礼貌而非个人面子，顾曰国也认为汉语礼貌受制于贬己尊人的规范，面子与礼的关系并不等同于英美模式；二是面子概念偏重个体，忽略了社群的规范；三是三大因素缺乏独立的测量方法，理论难以证伪。尽管如此，它至今仍是礼貌研究的起点。"
+     ],
+     "pEn": [
+      "The theory is widely cited in pragmatics, intercultural communication and language teaching, and it has prompted extensive cross-cultural testing. Three criticisms recur. First, its assumptions are Anglocentric: Matsumoto and Ide argue that Japanese politeness rests on discernment rather than individual face, and Gu (1990) shows that Chinese politeness is governed by norms of denigrating the self and respecting the other. Second, the notion of face is individualistic and neglects communal norms. Third, the three factors are not independently measured, which makes the theory hard to falsify. It nevertheless remains the starting point for work on politeness."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "面子", "tEn": "Face", "d": "个人在公众面前主张的自我形象，包含被认可与不受干预两种愿望。", "dEn": "The public self-image a person claims, involving desires for approval and for non-imposition."},
+    {"t": "积极面子", "tEn": "Positive Face", "d": "希望自己的愿望、行为与所有物得到他人认可、赞许和喜爱的需求。", "dEn": "The desire that one's wants, actions and possessions be approved of and liked by others."},
+    {"t": "消极面子", "tEn": "Negative Face", "d": "希望自己的行动自由、不受他人强加与打扰的需求，突出体现在请求和命令中。", "dEn": "The desire that one's actions be unimpeded and free from imposition by others, as in requests."},
+    {"t": "威胁面子的行为", "tEn": "Face-threatening Act", "d": "本质上会损害说话人或听者面子的言语行为，如命令、批评和道歉。", "dEn": "A speech act that intrinsically damages the face of speaker or hearer, such as a command."},
+    {"t": "消极礼貌", "tEn": "Negative Politeness", "d": "通过表示尊重、间接表达与避免强加来维护听者消极面子的补救性策略。", "dEn": "Redressive strategies that show respect, use indirectness and avoid imposing on the hearer."},
+    {"t": "积极礼貌", "tEn": "Positive Politeness", "d": "通过表达认同、关心与亲近感来维护听者积极面子的补救性策略。", "dEn": "Redressive strategies that claim common ground and express approval, concern and closeness."},
+    {"t": "权重", "tEn": "Weightiness", "d": "社会距离、权势与强加程度之和，用以预测礼貌策略的选择。", "dEn": "The sum of distance, power and imposition that predicts the choice of politeness strategy."},
+    {"t": "非公开策略", "tEn": "Off-record Strategy", "d": "以暗示、夸张或反语等方式实施行为，让听者自行推断意图的间接策略。", "dEn": "An indirect strategy, such as hinting or irony, that leaves the intent to be inferred."}
+   ],
+   "related": ["politeness", "grice", "speech-act", "pragmatics", "cooperative-principle"],
+   "sources": [
+    "Wikipedia, \"Politeness theory\", https://en.wikipedia.org/wiki/Politeness_theory",
+    "Brown & Levinson, Politeness: Some Universals in Language Usage, Cambridge University Press, 1987",
+    "Goffman, Interaction Ritual: Essays on Face-to-Face Behavior, 1967"
+   ]
+  },
+  {
+   "id": "niger-congo",
+   "title": "尼日尔-刚果语系",
+   "en": "Niger-Congo",
+   "category": "writing",
+   "tags": ["语系", "非洲语言", "班图语", "名词类别", "声调"],
+   "summary": "尼日尔-刚果语系是非洲最大的语系，也是世界上语言数量最多的语系之一，包含约1400至1500种语言，通行于撒哈拉以南非洲的大部分地区，使用者数以亿计。其主要分支包括曼德语与大西洋-刚果语，班图语支是其中扩散最广的一支。多数成员具有以名词前缀和一致关系为特征的名词类别系统，并普遍使用声调。该语系由格林伯格在1963年系统归类，其内部划分与起源地至今仍有争论。",
+   "summaryEn": "Niger-Congo is the largest language family of Africa and one of the largest in the world, with roughly 1,400 to 1,500 languages spoken across most of sub-Saharan Africa by hundreds of millions of people. Its major branches include Mande and Atlantic-Congo, the latter containing the far-flung Bantu languages. Most members have noun-class systems marked by prefixes and agreement and make extensive use of tone. Greenberg's 1963 classification established the family in its modern form, yet its internal structure and homeland remain disputed.",
+   "sections": [
+    {
+     "h": "定义与分布",
+     "hEn": "Definition and Distribution",
+     "p": [
+      "尼日尔-刚果语系分布在撒哈拉以南非洲，从塞内加尔的沃洛夫语、马里的班巴拉语，到尼日利亚的约鲁巴语、伊博语，再到东非和中非的斯瓦希里语、祖鲁语、绍纳语。按语言数量计算，它是世界上最大的语系，通常估计有1400至1500种语言，占非洲语言总数的三分之二以上，使用人口合计常被估计在六亿以上。由于许多语言缺少书面传统和详细描写，语系的边界与内部分类仍在不断修订。"
+     ],
+     "pEn": [
+      "The Niger-Congo family stretches across sub-Saharan Africa, from Wolof in Senegal and Bambara in Mali to Yoruba and Igbo in Nigeria and on to Swahili, Zulu and Shona in East and Central Africa. Measured by the number of languages it is the largest family in the world, commonly estimated at 1,400 to 1,500 languages, more than two thirds of Africa's total. The number of speakers is usually put above 600 million. Because many members lack written traditions and remain poorly described, the family's boundaries and internal classification are still being revised."
+     ]
+    },
+    {
+     "h": "分类与主要分支",
+     "hEn": "Classification and Major Branches",
+     "p": [
+      "在格林伯格的分类中，尼日尔-刚果语系包含曼德语、大西洋-刚果语、克瓦语、古尔语、阿达马瓦-乌班吉语等分支，有时还包括科尔多凡语。其中大西洋-刚果语是最大的分支，贝努埃-刚果语隶属于它，而班图语支又属于贝努埃-刚果语。班图语支约有五百种语言，是农业人群在过去数千年间向中南部非洲扩散的结果，Guthrie曾把它划分为A至S的地区编号。曼德语则缺少名词类别系统，与其他分支差异明显。"
+     ],
+     "pEn": [
+      "In Greenberg's classification Niger-Congo comprises Mande, Atlantic-Congo, Kwa, Gur, Adamawa-Ubangi and sometimes Kordofanian. Atlantic-Congo is much the largest branch; Benue-Congo belongs within it, and the Bantu languages in turn form part of Benue-Congo. Bantu numbers some five hundred languages and reflects the spread of farming populations into central and southern Africa over recent millennia, which Guthrie organised into lettered zones A to S. Mande, by contrast, lacks noun classes and differs markedly from the rest of the family."
+     ]
+    },
+    {
+     "h": "结构特征",
+     "hEn": "Structural Characteristics",
+     "p": [
+      "尼日尔-刚果语言最显著的共同特征是名词类别系统。名词按语义和形式分为若干类别，通过前缀标记，并触发形容词、代词和动词的一致关系。许多语言还是声调语言，用音高差别区分词汇甚至语法意义。西非语言普遍具有圆唇软腭塞音，例如约鲁巴语的 gbà（拿）以 gb 起首。音节结构上以开音节为主，辅音丛较少，这也是该语系许多语言的共同倾向。"
+     ],
+     "pEn": [
+      "The most characteristic shared feature is the noun-class system. Nouns are divided into classes marked by prefixes, and these trigger agreement on adjectives, pronouns and verbs. Many members are tone languages in which pitch distinguishes lexical and even grammatical meaning. West African languages commonly have labial-velar stops, as in Yoruba gba, where the initial gb is a single consonant. Open syllables predominate and consonant clusters are rare, a tendency shared by many languages of the family."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "斯瓦希里语的句子可同时展示名词类别与一致关系：kitabu kikubwa kinaanguka，意为那本大书掉下来了。kitabu（书）属类别7，kikubwa（大的）与 kinaanguka（掉落）都带 ki- 前缀；复数 vitabu vikubwa vinaanguka 全部换成 vi-。动词还可用中缀标示宾语，ni-na-ki-soma 意为我正在读它，其中 ki- 与类别7名词呼应。这类一致模式在班图语言中十分普遍。"
+     ],
+     "pEn": [
+      "A single Swahili sentence can display both noun class and agreement: kitabu kikubwa kinaanguka, meaning the big book is falling. Kitabu belongs to class 7, and both kikubwa (big) and kinaanguka (is falling) carry the matching ki- prefix; in the plural, vitabu vikubwa vinaanguka, all three take vi-. Verbs may also mark the object with an infix, as in ni-na-ki-soma, I am reading it, where ki- refers back to a class 7 noun. Comparable agreement patterns are widespread among the Bantu languages."
+     ]
+    },
+    {
+     "h": "研究简史与争议",
+     "hEn": "History of Research and Controversies",
+     "p": [
+      "该语系的归纳始于19世纪：科依勒和布莱克曾依据名词类别把南部非洲的语言归为班图语；20世纪中叶，格林伯格以多学科证据把西非诸语言与班图语合并为尼日尔-刚果语系，取代了苏丹语等笼统名称。此后的争论集中在两点：曼德语、伊乔语和多贡语究竟是独立分支还是应归入大西洋-刚果语；以及科尔多凡语是否应当并入，若并入则称为尼日尔-科尔多凡语系。由于许多语言缺少历史文献，原始尼日尔-刚果语的构拟仍相当初步。"
+     ],
+     "pEn": [
+      "The family was assembled in the nineteenth century, when Koelle and Bleek grouped the noun-class languages of southern Africa as Bantu, and in the mid-twentieth century Greenberg combined the languages of West Africa with Bantu into Niger-Congo, replacing vaguer labels such as Sudanic. Debate since then has centred on two questions: whether Mande, Ijoid and Dogon are independent branches or belong inside Atlantic-Congo, and whether Kordofanian should be included, in which case the family is called Niger-Kordofanian. Because historical records are scarce, the reconstruction of Proto-Niger-Congo remains rudimentary."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "名词类别", "tEn": "Noun Class", "d": "通过前缀标记名词并控制形容词与动词一致关系的语法类别。", "dEn": "A grammatical class marked by prefixes on nouns and controlling agreement on modifiers and verbs."},
+    {"t": "班图语支", "tEn": "Bantu", "d": "尼日尔-刚果语系中分布于中南部非洲的最大语支之一。", "dEn": "A large branch of Niger-Congo spread across central and southern Africa."},
+    {"t": "一致关系", "tEn": "Agreement", "d": "修饰语、代词或动词在词形上与其名词所属类别保持一致的语法现象。", "dEn": "The formal matching of modifiers, pronouns or verbs with the class of the noun they relate to."},
+    {"t": "曼德语", "tEn": "Mande", "d": "西非的一个分支，缺少名词类别系统，与其他分支差异显著。", "dEn": "A West African branch lacking noun classes and sharply distinct from the rest of the family."},
+    {"t": "声调", "tEn": "Tone", "d": "用音高的高低或升降差别区分词汇意义或语法意义的语音特征。", "dEn": "The use of pitch differences to distinguish lexical or grammatical meaning."},
+    {"t": "圆唇软腭塞音", "tEn": "Labial-velar Stop", "d": "双唇与软腭同时闭塞发出的辅音，如约鲁巴语的 gb。", "dEn": "A consonant articulated with simultaneous bilabial and velar closure, as in Yoruba gb."},
+    {"t": "原始尼日尔-刚果语", "tEn": "Proto-Niger-Congo", "d": "通过比较法构拟出的该语系共同祖语，目前复原程度仍很有限。", "dEn": "The reconstructed common ancestor of the Niger-Congo family, known only tentatively."},
+    {"t": "贝努埃-刚果语", "tEn": "Benue-Congo", "d": "大西洋-刚果语内部的重要分支，班图语支即隶属于该分支之下。", "dEn": "A major branch of Atlantic-Congo that contains the Bantu languages."}
+   ],
+   "related": ["language-family", "indo-european", "afroasiatic", "austronesian", "comparative-method"],
+   "sources": [
+    "Wikipedia, \"Niger–Congo languages\", https://en.wikipedia.org/wiki/Niger%E2%80%93Congo_languages",
+    "Greenberg, The Languages of Africa, Indiana University Press, 1963",
+    "Williamson & Blench, \"Niger-Congo\", in African Languages: An Introduction, 2000"
+   ]
+  }
+ ]
+}

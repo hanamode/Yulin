@@ -1,0 +1,24 @@
+{
+ "batch": 16,
+ "out": "data/gen2/batch-16.json",
+ "entries": [
+  {
+   "id": "semantic-field",
+   "title": "语义场",
+   "en": "Semantic Field",
+   "category": "concepts"
+  },
+  {
+   "id": "metaphor-metonymy",
+   "title": "隐喻与转喻",
+   "en": "Metaphor and Metonymy",
+   "category": "concepts"
+  },
+  {
+   "id": "prototype",
+   "title": "原型范畴",
+   "en": "Prototype",
+   "category": "concepts"
+  }
+ ]
+}

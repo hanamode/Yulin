@@ -1,0 +1,4 @@
+# Appendix 1: PSRs and Flat Tree Structures
+
+This appendix is provided as an alternative to the second half of the syntax chapter (Sections 6.14-6.21), teaching flat tree structures instead of x-bar. It is written to follow Section 6.13.
+It is recommended to use this alternative for one-semester introductory courses, as well as any introductory courses that have two weeks or fewer to cover syntax.

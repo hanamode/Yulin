@@ -1,0 +1,24 @@
+{
+ "batch": 13,
+ "out": "data/gen2/batch-13.json",
+ "entries": [
+  {
+   "id": "argument-structure",
+   "title": "论元结构",
+   "en": "Argument Structure",
+   "category": "concepts"
+  },
+  {
+   "id": "agreement",
+   "title": "一致关系",
+   "en": "Agreement",
+   "category": "concepts"
+  },
+  {
+   "id": "grammatical-case",
+   "title": "格",
+   "en": "Grammatical Case",
+   "category": "concepts"
+  }
+ ]
+}

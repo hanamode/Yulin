@@ -1,0 +1,13 @@
+{
+ "batch": 40,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-40.json",
+ "sections": [
+  {
+   "id": "chapter-088-exercises-7",
+   "title": "7.15 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-088-exercises-7.txt",
+   "chars": 756
+  }
+ ]
+}

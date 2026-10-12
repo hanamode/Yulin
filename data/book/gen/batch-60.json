@@ -1,0 +1,287 @@
+{
+ "batch": 60,
+ "sections": {
+  "part-012-chapter-12-adult-language-learning": {
+   "title": {
+    "en": "Chapter 12: Adult Language Learning",
+    "zh": "第 12 章：成人语言学习"
+   },
+   "summary": {
+    "en": "Many linguistics students already know more than one language, and the metalinguistic awareness that comes with bilingualism or language learning often draws them to the field. Chapter 11 examined how humans acquire language from birth; this chapter turns to learning a language after the first one, outlining the differences, motivations, challenges, and typical processes involved.",
+    "zh": "许多语言学学生本身就不止掌握一种语言，双语、多语或语言学习带来的元语言意识往往正是他们被语言学吸引的原因。第 11 章考察人类如何从出生起习得语言，本章则转向第一种语言之后的语言学习，概述其中的差异、动机、挑战与常见过程。"
+   },
+   "points": [
+    {
+     "en": "Adult language learning differs from acquiring a language from birth in several key ways.",
+     "zh": "成人语言学习与从出生起习得语言在若干关键方面存在差异。"
+    },
+    {
+     "en": "Learners of additional languages have varied motivations and face varied challenges.",
+     "zh": "额外语言的学习者动机各异，所面对的挑战也各不相同。"
+    },
+    {
+     "en": "Certain processes are typical of learning any language as an adult.",
+     "zh": "有些过程是成人学习任何语言时都会出现的典型现象。"
+    },
+    {
+     "en": "A learner's first language can shape how they learn an additional language.",
+     "zh": "学习者的第一语言会影响其学习额外语言的方式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "metalinguistic awareness",
+     "zh": "元语言意识",
+     "defEn": "the ability to reflect consciously on language as an object.",
+     "defZh": "有意识地反思语言本身、把语言当作对象来思考的能力。"
+    },
+    {
+     "en": "bilingualism",
+     "zh": "双语现象",
+     "defEn": "the regular use of two languages by an individual or community.",
+     "defZh": "个人或社群经常使用两种语言的状态。"
+    },
+    {
+     "en": "multilingualism",
+     "zh": "多语现象",
+     "defEn": "the regular use of three or more languages.",
+     "defZh": "经常使用三种或更多语言的状态。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Students of linguistics frequently arrive with more than one language already in hand, and it is often the metalinguistic awareness accompanying bilingualism, multilingualism, or earlier language learning that first attracted them to the discipline. Where Chapter 11 asked how humans acquire language from birth, this chapter asks a different question: how do we learn a language once a first one is already established?",
+     "zh": "学习语言学的人往往已经掌握不止一种语言，而伴随双语、多语或以往语言学习而来的元语言意识，常常正是最初吸引他们进入这一学科的原因。第 11 章追问的是人类如何从出生起习得语言，本章则提出另一个问题：当第一种语言已经建立之后，我们又是如何学习一门语言的？"
+    },
+    {
+     "en": "The chapter sets out four learning goals. Readers should be able to discuss how learning a language as an adult differs from acquiring one from birth, to understand some motivations and challenges of learning an additional language, to identify processes typical of adult learning of any language, and to predict how a learner's first language may affect the learning of a later one.",
+     "zh": "本章提出四项学习目标：能够讨论成人学习语言与从出生起习得语言有何不同；能够理解学习额外语言的一些动机与挑战；能够识别成人学习任何语言时都典型的过程；能够预测学习者的第一语言会如何影响后续语言的学习。"
+    },
+    {
+     "en": "These goals frame the units that follow, which move from cognitive, linguistic, and socioemotional differences between adults and children to the varied reasons adults take up a later language.",
+     "zh": "这些目标框定了随后的单元：先讨论成人与儿童在认知、语言和社会情感方面的差异，再讨论成人学习后续语言的各种原因。"
+    },
+    {
+     "en": "These goals frame the two units that follow, which move from the differences between adults and children to the varied reasons adults take up a later language, such as migration, employment, education, cultural enrichment, and community connection.",
+     "zh": "这些目标框定了随后的两个单元：先讨论成人与儿童之间的差异，再讨论成人学习后续语言的各种原因，如移民、就业、教育、文化充实与社群联结。"
+    }
+   ]
+  },
+  "chapter-139-slug-12-1-adults-are-not-children": {
+   "title": {
+    "en": "12.1 Adults are not children",
+    "zh": "12.1 成人不是儿童"
+   },
+   "summary": {
+    "en": "Textbooks usually call this subfield Second Language Acquisition (SLA), but that label assumes a learner knows exactly one language already and that the next one is therefore second, an assumption that is narrow and Anglocentric. This unit proposes L1 or first language and later language instead, then compares adults with children in cognitive, linguistic, and socioemotional terms.",
+    "zh": "教科书通常把这一分支称为第二语言习得（SLA），但这一标签预设学习者已精通且仅精通一种语言、下一门语言因此是第二语言，这种预设既狭窄又以英语世界为中心。本单元改用 L1 或第一语言与后续语言的说法，并从认知、语言和社会情感三个方面比较成人与儿童。"
+   },
+   "points": [
+    {
+     "en": "The term SLA wrongly assumes the learner already has exactly one language.",
+     "zh": "第二语言习得这一术语错误地预设学习者已恰好掌握一种语言。"
+    },
+    {
+     "en": "About one-third of the world's people use two languages regularly.",
+     "zh": "世界上约有三分之一的人经常使用两种语言。"
+    },
+    {
+     "en": "Terms like foreign language and ESL reveal the field's Anglocentrism.",
+     "zh": "外语、英语作为第二语言等说法暴露出该领域的英语中心倾向。"
+    },
+    {
+     "en": "Adults have less neural plasticity, so learning takes more effort.",
+     "zh": "成人的神经可塑性较低，因此学习需要付出更多努力。"
+    },
+    {
+     "en": "Adults can draw on metacognitive skills and metalinguistic awareness.",
+     "zh": "成人可以运用元认知技能和元语言意识。"
+    },
+    {
+     "en": "Self-consciousness and socioemotional factors can also hinder adults.",
+     "zh": "自我意识和社恐等社会情感因素也会妨碍成人学习。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Second Language Acquisition (SLA)",
+     "zh": "第二语言习得",
+     "defEn": "the subfield of linguistics that studies adult language learning.",
+     "defZh": "语言学的分支领域，研究成人的语言学习。"
+    },
+    {
+     "en": "L1",
+     "zh": "第一语言",
+     "defEn": "any language learned from early childhood, even more than one at once.",
+     "defZh": "任何从幼儿期习得的语言，即使同时习得不止一种。"
+    },
+    {
+     "en": "later language",
+     "zh": "后续语言",
+     "defEn": "any language learned after the first one or ones.",
+     "defZh": "在第一种（或几种）语言之后习得的任何语言。"
+    },
+    {
+     "en": "neural plasticity",
+     "zh": "神经可塑性",
+     "defEn": "the brain's readiness to form new connections from experience.",
+     "defZh": "大脑根据经验建立新神经连接的灵敏程度。"
+    },
+    {
+     "en": "metacognitive skills",
+     "zh": "元认知技能",
+     "defEn": "conscious strategies for managing and monitoring one's own learning.",
+     "defZh": "有意识地管理和监控自身学习过程的策略。"
+    },
+    {
+     "en": "metalinguistic awareness",
+     "zh": "元语言意识",
+     "defEn": "the ability to consciously reflect on and analyse language.",
+     "defZh": "有意识地反思和分析语言的能力。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Most introductory textbooks would title this chapter Second Language Acquisition (SLA), the usual name for the subfield studying adult language learning. That label assumes the typical learner is proficient in exactly one language, acquired natively, so whatever comes next must be the second. The assumption is narrow: about one third of the world's people use two languages regularly, and many use three or more (Wei, 2007).",
+     "zh": "多数入门教科书会把本章命名为第二语言习得（SLA），这是研究成人语言学习这一分支的常用名称。这个标签预设典型学习者恰好精通一种从幼年自然习得的语言，因此接下来学的必然是第二种。这一预设相当狭窄：全世界约三分之一的人经常使用两种语言，其中许多人还使用三种或更多（Wei, 2007）。"
+    },
+    {
+     "en": "The same assumption sits inside English as a Second Language (ESL). Some teachers say additional language instead, and so-called foreign languages are now often called world languages. As Chapter 2 showed, few terms are truly neutral. This chapter uses L1, or first language, for anything learned from early childhood, and later language for anything learned afterwards. One key difference from first language learning is that you already have a mental grammar when you begin another; the other is that adults are not children.",
+     "zh": "同样的预设也存在于英语作为第二语言（ESL）这一说法中。有些教师改用额外语言，而所谓的外语如今常被称作世界语言。正如第 2 章所示，真正中立的术语少之又少。本章用 L1 或第一语言指称任何从幼儿期习得的语言，用后续语言指称之后习得的语言。与第一语言学习相比，一个关键差别是你在开始学另一门语言时已经拥有一个心理语法；另一个差别是成人不是儿童。"
+    },
+    {
+     "en": "Children learn language quickly and without much effort as long as adult language is available, partly because of neural plasticity: their brains eagerly build new connections from experience. For older learners, new neural pathways are harder to grow, so learning takes more effort, though it is far from impossible. Adults hold advantages too. We can apply metacognitive skills, memorizing vocabulary and morphology or seeking out books, movies and podcasts, and we can use metalinguistic awareness, practicing new articulator positions or comparing structures with our L1.",
+     "zh": "只要有机会接触成人使用的语言，儿童就能迅速而毫不费力地学会，部分原因在于神经可塑性：他们的大脑乐于根据经验建立新连接。年龄较大的学习者较难长出新的神经通路，因此学习需要更多努力，尽管绝非不可能。成人也有优势：我们可以运用元认知技能，背诵词汇和形态，或寻找书籍、电影和播客；我们还能运用元语言意识，练习发音器官的新位置，或比较新语言与母语的结构。"
+    },
+    {
+     "en": "Adults also face self-consciousness. Learning a language usually means interacting with more proficient people, and for an adult used to being seen as competent, feeling like a beginner and making mistakes can be embarrassing. The subfield has often focused narrowly on grammar, especially phonetics, morphology and syntax, an approach tied to colonial thinking that treats language as an object separable from people and communities. Yet our use of language is interwoven with emotions and identities, and adult learners bring cultural knowledge and emotions they may not fully recognize.",
+     "zh": "成人还要面对自我意识的问题。学习一门语言通常意味着与更熟练的人互动，而对一个习惯被看作能干的人来说，感到自己像初学者、不断犯错会令人难堪。这一分支常常只盯着语法，尤其是语音、形态和句法，这种取向与殖民式思维有关，把语言当作可以脱离人和社群的物品。然而我们对语言的使用与情感和身份交织在一起，成人学习者带着各种文化知识和情绪进入学习，而他们未必都能意识到这些。"
+    }
+   ]
+  },
+  "chapter-140-slug-12-2-motivations-for-adult-language-learning": {
+   "title": {
+    "en": "12.2 Motivations for adult language learners",
+    "zh": "12.2 成人语言学习者的动机"
+   },
+   "summary": {
+    "en": "Infants cannot help learning whatever language surrounds them, but adults learn for many different reasons, and those reasons shape how they learn. This unit examines three broad motivations: migration, employment and education; cultural enrichment; and community connection, especially the reclamation of Indigenous languages and the barriers and health benefits associated with it.",
+    "zh": "婴儿无法不去学习周围的语言，而成人学习语言的原因多种多样，这些原因又影响着他们学习的方式。本单元考察三类主要动机：移民、就业与教育；文化充实；以及社群联结，尤其是原住民语言的 reclaim（重拾），及其伴随的障碍与健康收益。"
+   },
+   "points": [
+    {
+     "en": "Adult learners have many different motivations, unlike infants, and these shape their learning.",
+     "zh": "与婴儿不同，成人学习者动机多样，而这些动机塑造了他们的学习方式。"
+    },
+    {
+     "en": "Economic migration creates a clear motivation to learn English in Canada.",
+     "zh": "出于经济目的的移民在加拿大有明确的英语学习动机。"
+    },
+    {
+     "en": "ESL teaching often rests on prescriptive, racist and colonial assumptions about correctness.",
+     "zh": "ESL 教学常常建立在关于正确性的规定式、种族主义与殖民式预设之上。"
+    },
+    {
+     "en": "World language curricula often assume a white English-speaking learner.",
+     "zh": "世界语言课程常常预设学习者是讲英语的白人。"
+    },
+    {
+     "en": "Indigenous adults reclaim their languages for Elders' teachings and for their children.",
+     "zh": "原住民成人重拾本族语言，是为了长老的教诲，也是为了自己的孩子。"
+    },
+    {
+     "en": "Higher language proficiency correlates with lower diabetes and youth suicide rates.",
+     "zh": "较高的语言熟练度与较低的糖尿病率和青少年自杀率相关。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "standard language ideologies",
+     "zh": "标准语言意识形态",
+     "defEn": "beliefs that treat one prescribed variety as the only correct one.",
+     "defZh": "把某一种规定性变体视为唯一正确形式的观念。"
+    },
+    {
+     "en": "raciolinguistic stigma",
+     "zh": "种族语言污名",
+     "defEn": "stigmatizing people's speech in ways tied to race and appearance.",
+     "defZh": "与种族和外貌相关联、针对他人言语的污名化。"
+    },
+    {
+     "en": "language reclamation",
+     "zh": "语言重拾",
+     "defEn": "reviving a language and its connections to community and land.",
+     "defZh": "复兴一门语言及其与社群、土地之间联系的工作。"
+    },
+    {
+     "en": "survivance",
+     "zh": "存续抵抗",
+     "defEn": "blending survival of a language with resistance to colonial oppression.",
+     "defZh": "把语言的存续与对殖民压迫的抵抗结合起来。"
+    },
+    {
+     "en": "bound morpheme",
+     "zh": "黏着语素",
+     "defEn": "a morpheme that cannot stand alone and must attach to another.",
+     "defZh": "不能单独出现、必须附着于其他成分的语素。"
+    },
+    {
+     "en": "multi-generational trauma",
+     "zh": "代际创伤",
+     "defEn": "trauma passed down through generations, here about language.",
+     "defZh": "在代际之间传递的创伤，此处特指与语言相关者。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "–aatawee–",
+     "noteEn": "The myaamia verb meaning 'to speak a language', a bound morpheme.",
+     "noteZh": "myaamia 语中表示“说一门语言”的动词，是黏着语素。"
+    },
+    {
+     "text": "the verb –aatawee– “can’t stand alone; we have to attach it to the people” (Leonard, 2017, p. 30)",
+     "noteEn": "A myaamia speaker links the bound verb to community and people.",
+     "noteZh": "一位 myaamia 语使用者把这个黏着动词与社群和人联系起来。"
+    },
+    {
+     "text": "Oster et al. (2014)’s quantitative analysis of 31 First Nations in Alberta showed that the Nations with higher language proficiency had lower rates of diabetes.",
+     "noteEn": "Evidence linking language proficiency with community health outcomes.",
+     "noteZh": "把语言熟练度与社群健康结果联系起来的一项证据。"
+    },
+    {
+     "text": "Hallett et al. (2007) found that the communities with the highest numbers of speakers of the language had the lowest suicide rates among youth.",
+     "noteEn": "A British Columbia finding on speakers and youth suicide rates.",
+     "noteZh": "不列颠哥伦比亚省关于语言使用者数量与青少年自杀率的发现。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Infant learners cannot help learning whatever language surrounds them, so asking about their motivation is pointless. Adults take up a language for many reasons, and those reasons shape how they learn. Migration, employment and education give one clear case: many Canadian employers expect proficiency in English, so people who immigrate for work or school have an obvious economic motivation. Too often, however, courses for adults rest on standard language ideologies with racist and colonialist assumptions, treating English as a fixed asset contained in textbooks.",
+     "zh": "婴儿只要有语言输入就必然学会，追问其动机没有意义。成人学习语言的动机多种多样，而这些动机塑造了他们的学习方式。移民、就业与教育是明显的一类：加拿大许多雇主都要求精通英语，为工作或学业移民的人因此有明确的经济动机。但成人英语课程往往建立在带有种族主义与殖民主义预设的标准语言意识形态之上，把英语当作教科书里的固定资产。"
+    },
+    {
+     "en": "Swift (2022) argues that the language students saw and heard seemed designed to represent prescriptive norms rather than believable examples of real-life practice, with the teacher as the ultimate arbiter of correctness; Ramjattan (2019b) shows white people are perceived as better teachers than people of colour. Rosa and Flores (2021) note that prescriptivism is usually meant benevolently, but even linguistic practices matching mainstream standards kept being perceived as deficient and in need of remediation (2021, p. 1164), and listeners' perception of a foreign accent depends on the speaker's appearance as much as on their speech (Babel & Russell, 2015).",
+     "zh": "Swift（2022）指出，学生看到和听到的语言似乎意在呈现规定性规范，而非真实生活的可信示例，教师则成为正确性的最终裁决者；Ramjattan（2019b）表明，白人被认为比有色人种更适合当老师。Rosa 与 Flores（2021）指出，规定式教学通常出于善意，但即使语言实践符合主流标准，也仍被视为有缺陷、需要补救（2021, p. 1164），而听者对外国口音的感知既取决于言语，也同样取决于说话人的外貌（Babel & Russell, 2015）。"
+    },
+    {
+     "en": "A second motivation is cultural enrichment: learning another culture can expand one's worldview, with incentives of travel, exchange or a semester abroad. Such languages were once called foreign languages, implying that anything not English is foreign. Curricular materials nonetheless tend to assume a white English-speaking learner. Anya (2021) showed that college Spanish curricula in the USA systematically excluded Black learners, disregarding African-American cultural occasions and news and even omitting vocabulary for describing African descendants' appearance.",
+     "zh": "第二种动机是文化充实：了解另一种文化可以拓展世界观，还有旅行、交换项目或海外学期的激励。这类语言过去被称为外语，隐含凡非英语者皆为外来之意。然而课程与教材仍倾向于预设学习者是以英语为母语的白人。Anya（2021）表明，美国大学西班牙语课程系统性地排斥黑人学习者：既忽视非裔美国人的文化节日与新闻，连描述非洲裔外貌的词汇也没有恰当说法。"
+    },
+    {
+     "en": "A third motivation, community connection, concerns the Indigenous languages of North America, which the colonial Canadian government worked systematically and often violently to eradicate. Learning their Nation's language as an adult is therefore vitally important for many Indigenous people denied that chance in childhood: it allows a connection with their Elders' stories and teachings, and many strive for enough proficiency that their children can learn the language at home. Ferguson and Weaselboy (2020) argue that land must be experienced through Indigenous language to appreciate its layers of meaning, and Davis (2017) calls reclamation work survivance.",
+     "zh": "第三种动机是社群联结，涉及北美原住民语言；殖民时期的加拿大政府曾系统性地、往往以暴力手段铲除这些语言。因此，对许多童年时被剥夺学习机会的原住民来说，以成人身份学习本民族的语言至关重要：这让他们与长老的故事和教诲相连，许多人努力达到足够熟练度，好让孩子在家里学会这门语言。Ferguson 与 Weaselboy（2020）主张，必须通过原住民语言体验土地，才能领会其中的层层含义；Davis（2017）把重拾语言称为存续抵抗。"
+    },
+    {
+     "en": "One myaamia speaker made the point through morphology: the verb –aatawee– cannot stand alone and must be attached to the people (Leonard, 2017, p. 30). Learners also face particular barriers: few chances to practice, because speakers and materials are scarce, and multi-generational trauma about their languages from colonial schools (McIvor, 2020). Universities built on Euro-Western colonial ideals may not be the right venue; the University of Victoria programme aims to respond to the needs expressed by First Nations community partners.",
+     "zh": "一位 myaamia 语使用者用形态学说明了这一点：动词 –aatawee– 不能单独存在，必须附着于人（Leonard, 2017, p. 30）。学习者还面临特殊障碍：使用者和材料稀少、练习机会有限，而且常因殖民学校的经历背负与语言相关的代际创伤（McIvor, 2020）。建立在欧美殖民理想之上的大学未必合适；维多利亚大学的语言项目力求回应原住民社群伙伴的需求。"
+    },
+    {
+     "en": "Yet some learners report substantial mental and physical health benefits as they gain proficiency. Oster et al. (2014) found that Alberta First Nations with higher language proficiency had lower rates of diabetes, and Hallett et al. (2007) found that British Columbia communities with the most speakers had the lowest youth suicide rates. These results should not be read as grammar causing good health; they align with what Elders say about the deep connections between their languages and their cultures.",
+     "zh": "不过，一些学习者在提高熟练度的过程中报告了显著的身心健康收益。Oster 等（2014）发现，语言熟练度较高的阿尔伯塔原住民族群糖尿病发病率较低；Hallett 等（2007）发现，使用者最多的不列颠哥伦比亚社群青少年自杀率最低。这些结果不应被解读为语法带来健康，而是与长老们关于语言和本族文化深层联系的说法相呼应。"
+    }
+   ]
+  }
+ }
+}

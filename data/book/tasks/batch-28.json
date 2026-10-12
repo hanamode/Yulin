@@ -1,0 +1,25 @@
+{
+ "batch": 28,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-28.json",
+ "sections": [
+  {
+   "id": "chapter-054-phrases-structure-within-the-sentence",
+   "title": "6.3 Structure within the sentence: Phrases, heads, and selection",
+   "src": "data/book/src/chapter-054-phrases-structure-within-the-sentence.txt",
+   "chars": 8011
+  },
+  {
+   "id": "chapter-055-identifying-phrases-constituency-tests",
+   "title": "6.4 Identifying phrases: Constituency tests",
+   "src": "data/book/src/chapter-055-identifying-phrases-constituency-tests.txt",
+   "chars": 15549
+  },
+  {
+   "id": "chapter-056-functional-categories",
+   "title": "6.5 Functional categories",
+   "src": "data/book/src/chapter-056-functional-categories.txt",
+   "chars": 12463
+  }
+ ]
+}

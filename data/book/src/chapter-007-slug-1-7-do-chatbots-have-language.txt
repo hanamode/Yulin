@@ -1,0 +1,41 @@
+# 1.7 Do ChatBots have Language?
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=5753#oembed-1
+In the previous sections we learned that generativity is a key attribute of human grammar. You have some idea in your mind, and you do something with your body (your voice or your hands) to generate a signal and send it out into the world. Your friend receives that signal with their senses, and they interpret it. And if all goes well, their interpretation is pretty similar to the idea you started with. And they can do the same in return. You can both generate an infinite number of new words and new sentences all the time, and you can trust that you’ll understand each other because you share a mental grammar.
+But lately that word generative also gets used a lot in the phrase “Generative AI”, and it kind of feels like ChatGPT and Claude and Gemini are generating human language, doesn’t it? Let’s look more closely at what so-called generative AI can do.
+In their book The AI Con, Emily Bender and Alex Hanna (2025) point out that the label “artificial intelligence” is pretty vague, and gets applied to a bunch of different computerized tasks. The main thing these functions have in common is that they have typically relied on human judgment. The term “AI” is used to refer to systems that:
+- make decisions, like “should we offer this candidate an interview, based on their resume”
+- classify inputs, like when you upload a photo and the app automatically tags you and your friends
+- make recommendations: users who listened to these songs also like these other artists
+- translate from one language to another, or from speech to text
+- generate images or text.
+
+Let’s focus on this last one, text generation, since this is Linguistics class. How does text generation work? It relies on Large Language Models (LLMs). A Large Language Model is a program that calculates the probability that given pieces of language (words, letters, syllables, morphemes) are related to each other. It can do these calculations because it has been trained on a huge, vast corpus of existing text. Some LLMs (BigScience Workshop, 2023; Langlais et al., 2025) use open-source training data, that is, texts that are not under copyright or that the creators have permission to use. But the most popular LLMs – the big commercial ones you’ve heard of – train their models by scraping text from millions of copyrighted sources, whose authors have not consented to have their work used in this way.
+When you use language, you have a conceptual representation in your mind of the meaning of your message. If you’re talking to your housemate about cooking the mushrooms you foraged, your concept of mushroom includes your factual knowledge about them (they’re a fungus, they grow in cool, dark, moist conditions) and your embodied knowledge – their texture, what they smell like when you’re sautéing them, the taste of the mushroom soup you ate for lunch when you were a kid.
+In contrast, an LLM has no mind so it has no mental representation. Instead, when you type in a prompt about mushrooms (“suggest a recipe that uses foraged mushrooms”) it makes a prediction based on its training data. (Consult the next section to learn more about how it makes these predictions.) Since your prompt uses the word recipe, the LLM will probably generate text that is similar in format to the recipes it was trained on, with ingredients and steps. The mentions of mushroom dishes in the training data are maybe likelier to be savory dishes than sweet ones, so it’s more likely to generate an omelet recipe than one for cupcakes. But that’s not because the model “knows” that mushroom cupcakes would be disgusting; it’s just because in the training data certain words (eggs, cheese, onions) are calculated to have a higher-probability relationship to mushroom than words like icing, birthday, sprinkles. The LLM responds to your prompt with a combination of words that is statistically plausible based on its training.
+When you get that response, you can’t help but interpret it! Humans have so much experience assigning meaning to a physical language signal that it’s almost impossible to turn it off. It’s kind of like the phenomenon of pareidolia, where we interpret anything even vaguely face-shaped as a face.
+So when the machine synthesizes some strings of words that resemble a recipe, you assign meaning to that string of words. But this is a qualitatively different process from what happens when you and your housemate talk about what to make for dinner: in that conversation, the two of you have a shared goal and a shared understanding.
+Michael Townsen Hicks and his colleagues describe this difference really bluntly in a paper published in the journal Ethics and Information Technology in 2024. They conclude:
+> “it’s not surprising that LLMs have a problem with the truth. Their goal is to provide a normal-seeming response to a prompt, not to convey information that is helpful to their interlocutor” (Hicks et al., 2024).
+
+The title of their paper is even more blunt: “ChatGPT is bullshit”.
+So let’s compare human language with the output of Large Language Models:
+Human language is generative in the sense that users can always do new things with it.
+It’s governed by systematic principles, which we’ll explore throughout this whole book.
+Language is shared among humans: we use it to communicate meaning to each other, to share our ideas and feelings, and to understand each other.
+On the other hand, Large Language Models are combinatorial.
+Using the relationships between words in their training data, they can produce strings of words that behave like sentences.
+But an LLM has no intention to communicate a message: it just combines words in a likely sequence. The only meaning their outputs have is the meaning that humans attribute to them.
+So when you encounter the term generative AI, ask yourself what is meant by generative. For that matter, what is meant by intelligence? And remind yourself that the word artificial is the most accurate part of that term.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=5753#h5p-156
+
+## References
+
+Bender, E. M., & Hanna, A. (2025). The AI Con: How to fight big tech’s hype and create the future we want. HarperCollins.
+BigScience Workshop. (2023). BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (arXiv:2211.05100). arXiv.
+Hicks, M. T., Humphries, J., & Slater, J. (2024). ChatGPT is bullshit. Ethics and Information Technology, 26(2), 38.
+Langlais, P.-C., Hinostroza, C. R., Nee, M., Arnett, C., Chizhov, P., Jones, E. K., Girard, I., Mach, D., Stasenko, A., & Yamshchikov, I. P. (2025). Common Corpus: The Largest Collection of Ethical Data for LLM Pre-Training (arXiv:2506.01732). arXiv

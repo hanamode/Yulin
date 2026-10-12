@@ -1,0 +1,25 @@
+{
+ "batch": 63,
+ "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics",
+ "out": "data/book/gen/batch-63.json",
+ "sections": [
+  {
+   "id": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "title": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics",
+   "src": "data/book/src/part-013-chapter-13-psycholinguistics-and-neurolinguistics.txt",
+   "chars": 583
+  },
+  {
+   "id": "chapter-147-the-mind-makes-language",
+   "title": "13.1 The mind makes language",
+   "src": "data/book/src/chapter-147-the-mind-makes-language.txt",
+   "chars": 2746
+  },
+  {
+   "id": "chapter-148-evidence-for-phonemes-as-mental-categories",
+   "title": "13.2 Evidence for phonemes as mental categories",
+   "src": "data/book/src/chapter-148-evidence-for-phonemes-as-mental-categories.txt",
+   "chars": 9809
+  }
+ ]
+}

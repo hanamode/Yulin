@@ -1,0 +1,48 @@
+{
+ "batch": 2,
+ "out": "data/gen2/wiki-src/wiki-src-02.json",
+ "entries": [
+  {
+   "id": "comparative-method",
+   "title": "比较法",
+   "en": "Comparative Method",
+   "category": "methods",
+   "summary": "比较法是历史语言学通过比较亲属语言的同源词与语音对应关系，重建其共同母语并确定亲属关系的方法。它建立在语音演变具有规律性这一假设之上，操作上遵循寻找同源词、建立"
+  },
+  {
+   "id": "computational-linguistics",
+   "title": "计算语言学",
+   "en": "Computational Linguistics",
+   "category": "branches",
+   "summary": "计算语言学运用计算机与统计方法处理自然语言，涵盖分词、词性标注、句法分析、语义理解、机器翻译与语音识别等任务，是人工智能、语料库与语言工程交叉形成的应用与理论并"
+  },
+  {
+   "id": "constituent",
+   "title": "句法成分",
+   "en": "Constituent",
+   "category": "concepts",
+   "summary": "句法成分是句法结构中作为一个整体参与语法操作的单位，可以是一个词，也可以是由若干词组合而成的短语。它由直接成分分析法与生成语法共同确立，是描写句子层级结构、判定"
+  },
+  {
+   "id": "construction-grammar",
+   "title": "构式语法",
+   "en": "Construction Grammar",
+   "category": "theories",
+   "summary": "构式语法是20世纪80年代兴起、以「构式」为基本单位的语法理论，认为语法知识由形式与意义的配对体构成，既包括词与习语，也包括抽象的句法格式。它强调语法的心智表征"
+  },
+  {
+   "id": "cooperative-principle",
+   "title": "合作原则",
+   "en": "Cooperative Principle",
+   "category": "concepts",
+   "summary": "合作原则由格莱斯提出，指会话参与者为使交际顺利进行而共同遵守的一般准则，并具体化为数量、质量、关联与方式四条准则。说话人有意违反或公然利用这些准则，正是会话含义"
+  },
+  {
+   "id": "corpus-linguistics",
+   "title": "语料库语言学",
+   "en": "Corpus Linguistics",
+   "category": "methods",
+   "summary": "语料库语言学是以大规模真实文本为对象、借助计算机检索与统计来研究语言的方法论取向。它强调以可复核的频率与语境证据描写语言使用，广泛用于词典编纂、语法研究、语言教"
+  }
+ ]
+}

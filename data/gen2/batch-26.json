@@ -1,0 +1,371 @@
+{
+ "batch": 26,
+ "entries": [
+  {
+   "id": "part-of-speech-tagging",
+   "title": "词性标注",
+   "en": "Part-of-Speech Tagging",
+   "category": "concepts",
+   "tags": [
+    "自然语言处理",
+    "词类",
+    "语料标注",
+    "序列标注",
+    "消歧"
+   ],
+   "summary": "词性标注是自然语言处理中的一项基础任务，指依据词在具体语境中的句法功能，为文本中的每个词或词元赋予名词、动词、形容词等词类标签。由于同一词形常兼属多个词类，标注必须依赖上下文进行消歧。标注结果是句法分析、信息抽取、机器翻译等任务的预处理输入，通常以人工标注的语料库作为训练与评测依据，其准确率也常被视为衡量语言分析系统性能的基本指标。",
+   "summaryEn": "Part-of-speech tagging is a fundamental task in natural language processing: it assigns each word or token in a text a grammatical category label such as noun, verb or adjective according to the syntactic function it performs in context. Because a single word form often belongs to several lexical categories, tagging requires contextual disambiguation. Tagged corpora serve as training and evaluation data, and the output feeds downstream tasks such as parsing, information extraction and machine translation, with tagging accuracy widely treated as a basic measure of system performance.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "词性标注指按照词在具体语句中承担的句法功能，为切分后的每个词元赋予一个词类标记，例如名词、动词、形容词、介词、连词等。它处在形态分析、句法分析与语义分析的接口上：词类信息决定了词能够进入哪些句法结构，也常被用作其他任务的输入特征。标注的基本单位通常是由分词确定的词，因此在汉语处理中，分词与词性标注往往在同一阶段完成。"
+     ],
+     "pEn": [
+      "Part-of-speech tagging assigns a grammatical category label, such as noun, verb, adjective, preposition or conjunction, to every token of an analysed sentence on the basis of the syntactic function it performs there. The task sits at the interface between morphology, syntax and semantics, since category membership determines which syntactic structures a word may enter, and category information is widely used as an input feature in other tasks. Because Chinese words are not separated by spaces, segmentation and tagging are usually carried out together in a single processing step."
+     ]
+    },
+    {
+     "h": "标注体系与标记集",
+     "hEn": "Tag Sets and Annotation Schemes",
+     "p": [
+      "不同项目采用不同的标记集。英语宾州树库使用三十六个标签，如 DT 限定词、JJ 形容词、NN 名词、VBZ 动词，因此 The quick brown fox jumps 可标注为 The/DT quick/JJ brown/JJ fox/NN jumps/VBZ。汉语多采用北京大学的标记集，用 n、v、a、d、r、p、u 分别表示名词、动词、形容词、副词、代词、介词与助词，例如「他/r 在/p 图书馆/n 看/v 书/n」。"
+     ],
+     "pEn": [
+      "Projects differ in the tag sets they adopt. The Penn Treebank tag set for English contains thirty-six tags, including DT for determiner, JJ for adjective, NN for singular noun and VBZ for third-person singular verb, so that The quick brown fox jumps becomes The/DT quick/JJ brown/JJ fox/NN jumps/VBZ. Chinese work commonly follows the tag set of the Peking University Institute of Computational Linguistics, in which n, v, a, d, r, p and u mark nouns, verbs, adjectives, adverbs, pronouns, prepositions and particles, as in 他/r 在/p 图书馆/n 看/v 书/n. The granularity of a tag set strongly affects annotation difficulty and reported accuracy."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods",
+     "p": [
+      "早期系统依靠手工编写的规则与词典消解歧义，代表性工作是二十世纪八十年代的 CLAWS 系统。九十年代以后统计方法成为主流：隐马尔可夫模型与条件随机场把标注视为序列标注问题，利用上下文词形、相邻标签与词汇概率估计最优标签序列。近年来，基于循环神经网络和预训练语言模型的双向编码方法进一步降低了错误率，在英语宾州树库上的标注准确率已普遍超过百分之九十七。"
+     ],
+     "pEn": [
+      "Early taggers relied on hand-written rules and dictionaries to resolve ambiguity, the CLAWS system of the 1980s being a representative example. From the 1990s statistical approaches became dominant: hidden Markov models and conditional random fields treat tagging as sequence labelling and estimate the most probable tag sequence from context words, neighbouring tags and lexical probabilities. More recently, bidirectional recurrent networks and pretrained contextual language models have further reduced error rates, and accuracies above ninety-seven per cent are now routine on the English Penn Treebank."
+     ]
+    },
+    {
+     "h": "应用与困难",
+     "hEn": "Applications and Challenges",
+     "p": [
+      "标注结果广泛用于句法分析、命名实体识别、信息检索、语音合成与机器翻译。主要困难来自兼类现象与标注一致性：英语 book 既可作名词也可作动词，汉语「把」可作介词、量词或动词，「在」可作介词、副词或动词，只有依靠语境才能确定其类别。此外，不同语料库之间标记集的映射、领域迁移，以及跨语言标注标准不统一，也仍是评测与比较中的实际问题。"
+     ],
+     "pEn": [
+      "Tagged output supports parsing, named entity recognition, information retrieval, speech synthesis and machine translation. The chief difficulties are categorial ambiguity and annotation consistency: English book may be a noun or a verb, and Chinese 把 may serve as a preposition, a measure word or a verb, so the category can be fixed only by context. Mapping between the tag sets of different corpora, domain transfer, and the absence of harmonised cross-linguistic annotation standards likewise remain practical problems for evaluation and comparison."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "词性标注",
+     "tEn": "Part-of-speech tagging",
+     "d": "依据具体语境为文本中每个词元赋予词类标签的语言分析任务。",
+     "dEn": "The task of assigning a category label to each token in context."
+    },
+    {
+     "t": "标记集",
+     "tEn": "Tag set",
+     "d": "某一标注项目或语料库所固定采用的词类标签的完整清单。",
+     "dEn": "The inventory of category labels adopted by an annotation project."
+    },
+    {
+     "t": "兼类词",
+     "tEn": "Categorial ambiguity",
+     "d": "同一词形可以在不同语境中被归入两个以上词类的现象。",
+     "dEn": "The phenomenon of one word form belonging to several lexical categories."
+    },
+    {
+     "t": "隐马尔可夫模型",
+     "tEn": "Hidden Markov model",
+     "d": "以隐含状态序列的概率对观测序列进行建模的统计模型。",
+     "dEn": "A statistical model that labels sequences through hidden state probabilities."
+    },
+    {
+     "t": "条件随机场",
+     "tEn": "Conditional random field",
+     "d": "直接对给定观测序列的标签条件概率建模的判别式模型。",
+     "dEn": "A discriminative model of the conditional probability of a label sequence."
+    },
+    {
+     "t": "宾州树库",
+     "tEn": "Penn Treebank",
+     "d": "英语中带有句法结构与词性标注的经典人工标注语料库。",
+     "dEn": "A classic manually annotated English corpus carrying syntactic and category labels."
+    },
+    {
+     "t": "序列标注",
+     "tEn": "Sequence labelling",
+     "d": "为输入序列中的每一个单元预测其对应标签的任务类型。",
+     "dEn": "The task type of predicting a label for every unit of an input sequence."
+    },
+    {
+     "t": "标注准确率",
+     "tEn": "Tagging accuracy",
+     "d": "标注器输出结果与人工标注结果相一致的词元所占比例。",
+     "dEn": "The proportion of tokens on which a tagger agrees with the gold annotation."
+    }
+   ],
+   "related": [
+    "lexical-category",
+    "corpus-annotation",
+    "computational-linguistics",
+    "machine-translation",
+    "language-model"
+   ],
+   "sources": [
+    "Wikipedia, \"Part-of-speech tagging\", https://en.wikipedia.org/wiki/Part-of-speech_tagging",
+    "Jurafsky, D. & Martin, J. H., Speech and Language Processing, 3rd ed., 2023"
+   ]
+  },
+  {
+   "id": "diglossia",
+   "title": "双言制",
+   "en": "Diglossia",
+   "category": "concepts",
+   "tags": [
+    "社会语言学",
+    "语言变体",
+    "功能分工",
+    "双语现象",
+    "语言态度"
+   ],
+   "summary": "双言制指同一语言社区中并存两种功能分工明确的语言变体的现象：地位较高的高变体用于正式场合、文学与教育，地位较低的低变体用于日常会话。该概念由弗格森于一九五九年提出，最初用于描写阿拉伯语、希腊语、瑞士德语与海地克里奥尔语等情形，后经费什曼扩展为涵盖不同语言之间的功能分层。双言制的稳定性、习得方式与语言态度，至今仍是社会语言学的重要研究课题。",
+   "summaryEn": "Diglossia describes a situation in which one speech community uses two varieties of a language with sharply differentiated functions: a prestigious high variety for formal, literary and educational settings, and a low variety for ordinary conversation. The concept was introduced by Ferguson in 1959 and illustrated with Arabic, Greek, Swiss German and Haitian Creole; Fishman later extended it to functional stratification between distinct languages. The stability of diglossia, the acquisition of the two varieties and speakers' attitudes towards them remain central sociolinguistic questions.",
+   "sections": [
+    {
+     "h": "定义与提出",
+     "hEn": "Definition and Origin",
+     "p": [
+      "双言制是弗格森在一九五九年发表的论文《双言制》中提出的概念，用来描写一种稳定的语言格局：同一社区内并存两种同源变体，各有固定的使用场合，任何一方都不能取代另一方。高变体具有文学传统与规范化的语法，主要通过学校教育获得；低变体是儿童的母语，用于家庭、市集等非正式交际。二者在功能上互补，同时在语法、词汇和语音上都存在系统差异。"
+     ],
+     "pEn": [
+      "Diglossia was proposed by Ferguson in his 1959 article Diglossia to describe a stable language situation in which two genetically related varieties coexist within one community, each reserved for particular occasions and neither displacing the other. The high variety possesses a literary heritage and a codified grammar and is learned mainly through schooling, whereas the low variety is acquired natively and used informally at home and in the marketplace. The two are functionally complementary and differ systematically in grammar, lexicon and phonology."
+     ]
+    },
+    {
+     "h": "典型个案",
+     "hEn": "Classic Cases",
+     "p": [
+      "阿拉伯语世界是最常被引用的例子：正式书面语使用古典阿拉伯语或现代标准阿拉伯语，即高变体，日常口语则使用埃及、黎凡特等地方言作为低变体，说话人通常不会用方言朗读新闻。希腊曾长期并存仿古的卡萨雷武萨语与口语迪莫蒂基语，直到一九七六年后者被定为官方语言。瑞士德语区以标准德语为高变体、瑞士德语方言为低变体；海地则以法语为高变体、海地克里奥尔语为低变体。"
+     ],
+     "pEn": [
+      "The Arabic-speaking world is the most frequently cited example: formal writing uses Classical or Modern Standard Arabic as the high variety, while everyday speech uses regional dialects such as Egyptian or Levantine Arabic, and speakers would not normally read the news in the colloquial form. Greek long maintained the archaising Katharevousa alongside spoken Dhimotiki until the latter became the official language in 1976. In German-speaking Switzerland, Standard German functions as the high variety and Swiss German dialects as the low; in Haiti, French and Haitian Creole stand in the same relation."
+     ]
+    },
+    {
+     "h": "费什曼的扩展",
+     "hEn": "Fishman's Extension",
+     "p": [
+      "费什曼在一九六七年提出，功能分层并不限于同源变体，也可以出现在两种不同的语言之间，从而把双言制与双语现象区分开来：一个社区可以只有双言而无双语，也可以只有双语而无双言。他据此区分出「有双语的双言制」与「无双语的双言制」等类型，巴拉圭的西班牙语与瓜拉尼语属于前者。此后研究还讨论了「三言制」以及社会变迁中变体功能的重新分配。"
+     ],
+     "pEn": [
+      "Fishman argued in 1967 that functional stratification is not restricted to genetically related varieties but may also hold between two distinct languages, which allowed diglossia to be distinguished from bilingualism: a community may be diglossic without being bilingual, or bilingual without being diglossic. He accordingly distinguished types such as diglossia with and without bilingualism, the Paraguayan pairing of Spanish and Guarani illustrating the former. Later work has also discussed triglossia and the redistribution of variety functions under social change."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debate and Criticism",
+     "p": [
+      "批评者指出，经典定义所要求的稳定性与功能互补过于理想化。在实际语言生活中，高变体不断侵入低变体的使用领域，低变体也逐渐进入书面语与广播电视，二者之间常出现中间变体，例如阿拉伯语口语与标准语之间的混合形式。此外，双言制概念有时被用来为语言等级化辩护，忽视了权力关系与语言意识形态的作用，因此社会语言学家主张把它放回具体的历史与政治语境中考察。"
+     ],
+     "pEn": [
+      "Critics argue that the classical definition idealises stability and functional complementarity. In practice the high variety continually encroaches on domains of the low one, the low variety enters writing and broadcasting, and intermediate forms emerge, as with the mixed Arabic registers between colloquial and standard usage. The notion has also been used to justify linguistic hierarchies while obscuring power relations and language ideologies, so sociolinguists prefer to examine diglossia within specific historical and political contexts."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "双言制",
+     "tEn": "Diglossia",
+     "d": "同一语言社区中两种变体按不同功能分工并存的稳定格局。",
+     "dEn": "The coexistence of two functionally differentiated varieties in one community."
+    },
+    {
+     "t": "高变体",
+     "tEn": "High variety",
+     "d": "通常用于正式场合并具有文学传统与规范语法的语言变体。",
+     "dEn": "The prestigious variety reserved for formal, literary and educational functions."
+    },
+    {
+     "t": "低变体",
+     "tEn": "Low variety",
+     "d": "用于日常口语交际、不经正式教授而自然习得的语言变体。",
+     "dEn": "The colloquial variety used informally and acquired without formal instruction."
+    },
+    {
+     "t": "功能互补",
+     "tEn": "Functional complementarity",
+     "d": "两种语言变体的功能场合严格互不重叠而彼此补充的关系。",
+     "dEn": "The relation in which the domains of two varieties do not overlap."
+    },
+    {
+     "t": "双语现象",
+     "tEn": "Bilingualism",
+     "d": "个人或语言社区掌握并在日常中并用两种语言的社会状态。",
+     "dEn": "The state of an individual or community using two languages."
+    },
+    {
+     "t": "现代标准阿拉伯语",
+     "tEn": "Modern Standard Arabic",
+     "d": "阿拉伯语世界在正式书面语与新闻中使用的标准化高变体。",
+     "dEn": "The high variety used in formal writing across the Arab world."
+    },
+    {
+     "t": "语言意识形态",
+     "tEn": "Language ideology",
+     "d": "关于语言优劣、纯正与正确用法的一整套社会观念体系。",
+     "dEn": "Socially shared beliefs about the value and proper use of languages."
+    },
+    {
+     "t": "语码转换",
+     "tEn": "Code-switching",
+     "d": "同一交际中在两种语言或语言变体之间交替使用的现象。",
+     "dEn": "Alternating between two languages or language varieties within a single interaction."
+    }
+   ],
+   "related": [
+    "bilingualism",
+    "language-contact",
+    "standard-language",
+    "dialect",
+    "language-ideology"
+   ],
+   "sources": [
+    "Wikipedia, \"Diglossia\", https://en.wikipedia.org/wiki/Diglossia",
+    "Ferguson, C. A., \"Diglossia\", Word 15(2), 1959",
+    "Fishman, J. A., \"Bilingualism With and Without Diglossia\", Journal of Social Issues 23(2), 1967"
+   ]
+  },
+  {
+   "id": "sign-language",
+   "title": "手语",
+   "en": "Sign Language",
+   "category": "concepts",
+   "tags": [
+    "聋人语言",
+    "视觉—手势通道",
+    "手语音系",
+    "空间语法",
+    "语言习得"
+   ],
+   "summary": "手语是聋人社区使用的、以视觉与手势通道表达的自然语言，拥有自己的音系、形态与句法系统。它不是口语的手势转写，也不是世界通用，而是随社区历史分化出美国手语、中国手语等不同语言。手语研究始于斯托科一九六零年对美国手语结构的分析，此后逐渐成为语言学的重要领域，涉及语言普遍性、语言习得、神经机制与语言起源等一系列核心问题。",
+   "summaryEn": "Sign languages are the natural languages of deaf communities, produced and perceived through the visual-gestural channel and possessing their own phonological, morphological and syntactic systems. They are not gestural transcriptions of spoken languages, nor are they universal, but have diversified historically into languages such as American Sign Language and Chinese Sign Language. Modern research began with Stokoe's 1960 structural analysis of ASL and now addresses language universals, acquisition, neural organisation and the origins of language.",
+   "sections": [
+    {
+     "h": "定义与常见误解",
+     "hEn": "Definition and Common Misconceptions",
+     "p": [
+      "手语是聋人社区自然形成的完整语言，用手部动作、面部表情和身体姿态表达意义，其语言地位与口语完全相同。常见的误解有三种：认为手语只是把口语逐字比划出来，认为全世界手语通用，认为手语缺乏抽象表达能力。事实上各国手语差异很大，美国手语与英国手语的使用者无法直接交谈；手语同样可以表达哲学、诗歌与科学论述，社区内部也存在方言与风格差异。"
+     ],
+     "pEn": [
+      "Sign languages are full natural languages created within deaf communities, expressing meaning through hand movements, facial expression and body posture, and they enjoy the same status as spoken languages. Three misconceptions are common: that signing merely spells out spoken words, that one sign language serves the whole world, and that sign languages lack abstract expressive power. In fact they differ greatly across countries, users of American and British Sign Language being mutually unintelligible, and they readily express philosophy, poetry and science, with internal dialect and stylistic variation."
+     ]
+    },
+    {
+     "h": "音系与形态结构",
+     "hEn": "Phonological and Morphological Structure",
+     "p": [
+      "手语词可以按手形、位置、动作与手掌朝向等参数加以分解，这些参数相当于口语音系中的区别特征。美国手语中 MOTHER（母亲）与 FATHER（父亲）的手形与动作相同，仅在位置上相区别：前者触及下颌，后者触及前额，二者构成最小对立对。手语也有丰富的构词手段，例如美国手语中表示「给予」的动词可通过改变移动方向标示不同的参与者，是典型的屈折形态。"
+     ],
+     "pEn": [
+      "Signs can be analysed into parameters such as handshape, location, movement and palm orientation, which function much like distinctive features in spoken phonology. In American Sign Language MOTHER and FATHER share handshape and movement and differ only in location, the chin versus the forehead, thus forming a minimal pair. Sign languages also possess rich word formation: the ASL verb meaning give, for instance, inflects for different participants by changing the direction of movement, a clear instance of inflectional morphology."
+     ]
+    },
+    {
+     "h": "句法与空间",
+     "hEn": "Syntax and Space",
+     "p": [
+      "手语利用三维空间组织句法关系。在美国手语中，说话人可以先为两个论元在身体的左右两侧设定位置，随后动词向其中一方移动，标明施事与受事，这种机制与口语中的格标记或动词一致关系相似。语序可以因话题化而调整，面部表情同时承担句法功能：眉毛上抬标记疑问句，点头、眉毛下压与头部后仰则区分不同的小句类型。"
+     ],
+     "pEn": [
+      "Sign languages exploit three-dimensional space to organise syntactic relations. In ASL a signer may first assign two referents to locations on the left and right, after which the verb moves towards one of them to mark agent and patient, a device comparable to case marking or verbal agreement in spoken languages. Word order shifts under topicalisation, and facial expression carries syntactic information: raised eyebrows mark questions, while nodding, brow lowering and head tilt distinguish clause types."
+     ]
+    },
+    {
+     "h": "习得与神经基础",
+     "hEn": "Acquisition and Neural Basis",
+     "p": [
+      "聋童若在早期接触手语，其习得里程碑与口语儿童大体同步，先出现单符号阶段，再进入双符号组合阶段。若错过早期语言输入，则可能出现与口语习得相似的迟缓。尼加拉瓜手语在二十世纪七十年代由多批入学的聋童自发形成并迅速语法化，被视为研究语言起源的自然实验。神经影像研究表明，手语加工主要由左半球语言区承担，左脑损伤会导致手语失语症。"
+     ],
+     "pEn": [
+      "Deaf children exposed to a sign language early pass through milestones broadly parallel to those of hearing children, moving from single signs to two-sign combinations. Deprivation of early linguistic input produces delays comparable to those found in spoken-language acquisition. Nicaraguan Sign Language, which emerged spontaneously among successive cohorts of deaf pupils in the 1970s and grammaticalised rapidly, has been treated as a natural experiment on language genesis. Neuroimaging indicates that left-hemisphere language areas support signing, and left-hemisphere damage causes sign aphasia."
+     ]
+    },
+    {
+     "h": "多样性与语言政策",
+     "hEn": "Diversity and Language Policy",
+     "p": [
+      "手语存在谱系分化，美国手语与法国手语有历史亲缘关系，中国手语则在学校与残疾人联合会的推广下形成国家通用形式，同时保留各地方言差异。二十世纪后期以来，手语逐渐被承认为语言，多国通过立法保障聋人使用手语的权利，课堂上手口并用与纯手语教学之争持续至今。手语翻译、手语识别与手语语料库建设也成为应用语言学的新课题。"
+     ],
+     "pEn": [
+      "Sign languages diversify into families: American Sign Language is historically related to French Sign Language, while Chinese Sign Language has been promoted as a national standard form through schools and the disabled persons' federation, alongside regional variants. Since the late twentieth century, sign languages have increasingly been recognised as languages and legislation in many countries protects their use by deaf people, though debates over simultaneous communication versus sign-only instruction continue. Sign interpreting, automatic sign recognition and sign corpora are growing applied fields."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "手语",
+     "tEn": "Sign language",
+     "d": "聋人社区所使用、以视觉与手势为通道的完整自然语言。",
+     "dEn": "A natural language of a deaf community produced and perceived in the visual-gestural channel."
+    },
+    {
+     "t": "美国手语",
+     "tEn": "American Sign Language",
+     "d": "北美聋人社区使用的主要手语，历史上源自法国手语体系。",
+     "dEn": "The primary sign language of deaf communities in North America."
+    },
+    {
+     "t": "手形",
+     "tEn": "Handshape",
+     "d": "手语符号中由手指与手掌形状构成的基本音系参数之一。",
+     "dEn": "The configuration of the hand serving as a phonological parameter in signing."
+    },
+    {
+     "t": "最小对立对",
+     "tEn": "Minimal pair",
+     "d": "其间仅有一个音系参数不同而意义相异的一对手语符号。",
+     "dEn": "A pair of signs differing in one phonological parameter and in meaning."
+    },
+    {
+     "t": "空间语法",
+     "tEn": "Spatial grammar",
+     "d": "手语中利用三维空间位置表达语法关系的一套重要手段。",
+     "dEn": "The use of three-dimensional space to encode grammatical relations in sign languages."
+    },
+    {
+     "t": "手语失语症",
+     "tEn": "Sign aphasia",
+     "d": "左侧脑损伤后造成的对手语理解或产出能力的语言障碍。",
+     "dEn": "Impaired comprehension or production of signs following damage to the language areas."
+    },
+    {
+     "t": "尼加拉瓜手语",
+     "tEn": "Nicaraguan Sign Language",
+     "d": "由多批聋童自发形成并迅速语法化的一支中美洲新生手语。",
+     "dEn": "A young sign language that emerged spontaneously among deaf children."
+    },
+    {
+     "t": "手指语",
+     "tEn": "Fingerspelling",
+     "d": "常用手指的手形逐字母拼写词语的一套辅助性书写系统。",
+     "dEn": "A system that spells words letter by letter using hand shapes."
+    }
+   ],
+   "related": [
+    "language-acquisition",
+    "aphasia",
+    "critical-period",
+    "universal-grammar",
+    "duality-of-patterning"
+   ],
+   "sources": [
+    "Wikipedia, \"Sign language\", https://en.wikipedia.org/wiki/Sign_language",
+    "Stokoe, W. C., Sign Language Structure, 1960",
+    "Klima, E. & Bellugi, U., The Signs of Language, 1979"
+   ]
+  }
+ ]
+}

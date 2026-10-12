@@ -1,0 +1,77 @@
+# 14.2 Lexical change
+
+## Sporadic change
+
+Many internal language changes are sporadic, which means that they affect only one, or maybe a few, individual words or expressions. For example, the shortened form app for application in English is due to a sporadic shortening change, because most other similar words, like complication, implication, and multiplication, are not shortened to *comp, *imp, or *multip.
+Furthermore, the shortened form app is not used for all possible meanings of application. We can use app when referring to computer programs, but we would not normally shorten an expression like daily application of ointment to *daily app of ointment, because this use of application has a different meaning, the addition of a substance to the exterior surface of some object.
+Another example of sporadic change is the shift from two-handed to one-handed signs in American Sign Language (ASL). Some two-handed signs, such as COW, have changed over time, from using two hands, as in (1a), to using just one hand, as in (1b) (Frishberg 1975). However, this change did not affect most other two-handed signs, like BOOK (2) or HALLOWEEN (3).
+
+[表格]
+| | | (1) | | a. | | COW (older): | https://www.signingsavvy.com/media2/mp4-ld/34/34463.mp4 | | | | | | | b. | | COW (newer): | https://www.signingsavvy.com/media2/mp4-ld/34/34462.mp4 | | | | | (2) | | | | BOOK: | https://www.signingsavvy.com/media2/mp4-ld/33/33696.mp4 | | | | | (3) | | | | HALLOWEEN: | https://www.signingsavvy.com/media2/mp4-ld/23/23070.mp4 | | | |
+
+An important kind of sporadic change is lexical change, which is a change to a language’s lexicon, especially through the addition of new words. See Sections 1.1, 7.4, and 7.5 for further discussion of the lexicon.
+
+## Root creation
+
+When a new word is created entirely within a language without direct influence from another language, the new word is called a neologism. We often say that the act of creating a neologism is coining it, especially when we know who first did so. The most basic type of neologism is root creation, where the new word is not derived from any other existing word. Root creation is relatively rare, as it is difficult for humans to coin completely new words without some influence from other words.
+Root creation often gets its influence from being imitative or echoic, so that the articulation of the word mirrors its meaning in some way. An example of imitative root creation is the English word zap, which was coined in 1929 for Phillip Francis Nowlan and Dick Calkins’s newspaper comic strip adaptation of Nowlan’s 1928 and 1929 novellas starring pulp science fiction hero Buck Rogers. The buzzing [z] at the beginning of the word and the short sudden end with a voiceless plosive work together to evoke the sound of a short energetic burst, used by Nowlan as the sound of a laser pistol. Other examples of imitative root creation in English include glug, cuckoo, oink, and other instances of onomatopoeia.
+Imitative root creation is very common in signed languages, because much more of the world is visible than it is audible. Lots of signs in ASL are clearly imitative, and that imitation may even change if the nature of the object itself changes. A notable example is PHONE, which was originally signed with two hands (4a) to match how a user handled original two-handed telephones in the early 1900s (Figure 14.3, left). Over time, telephones changed to a different shape that required only one hand (Figure 14.3, centre), so the ASL sign changed as well, this time with one hand imitating the new shape of the phone rather than how it was handled (4b). But as smartphones replaced corded phones in the early 2000s (Figure 14.3, right), a new version of the ASL sign emerged, with one hand imitating how the phone is handled (4c).
+
+[表格]
+| | | (4) | | a. | | PHONE (original): | https://www.signingsavvy.com/media2/mp4-ld/33/33587.mp4 | | | | | | | b. | | PHONE (newer): | https://www.signingsavvy.com/media2/mp4-ld/33/33586.mp4 | | | | | | | c. | | PHONE (newest): | https://www.signingsavvy.com/media2/mp4-ld/27/27823.mp4 | | | |
+
+[图片：14.3-phones.png]
+
+Figure 14.3. Evolution of the shape and handling of the telephone: original two-handed telephones (left), newer one-handed telephones with a large receiver (centre), and the newest small smartphones (right).
+Other examples of root creation have no obvious imitative origin and are sometimes said to have been coined ex nihilo. An example of ex nihilo root creation in English is the word googol, which was coined in 1938 when Edward Kasner asked his nine-year-old nephew, Milton Sirotta, to invent a new word for the number 10100, a very large number that can be expressed as the digit 1 followed by one hundred zeroes (Kasner and Newman 1940). Ex nihilo root creation is also the origin of the English words in (5).
+
+[表格]
+| | | (5) | | a. | | | yahoo | ‘brute’ > ‘uncultured or unintelligent person’ (coined by Swift 1726) | | | | | | b. | | | blurb | ‘short summary or description’ (coined by Matthews 1906) | | | | | | c. | | | grok | ‘understand’ (coined by Heinlein 1961) | | |
+
+## Derived neologisms
+
+More frequently, neologisms are derived in some way from other words that already exist in the language. Proper names are a particularly rich source of neologisms, and some come about in surprising ways.
+The Canary Islands are a group of islands off the coast of Morocco. They are home to a particular species of bird called canary in English, which is named after the islands. Interestingly, the English name Canary Islands itself is derived from the Latin name for the islands, Canariæ Insulæ, which means ‘Islands of the Dogs’. The Latin name was given to the islands by Pliny the Elder in his encyclopedia Naturalis Historia (AD 77) due to the presence of large dogs on one of the main islands. Thus, canaries are indirectly named after dogs, by way of a Latin proper name for a group of islands they are both native to.
+Sometimes, a brand name for a specific product is the source of a neologism. If the neologism shifts the meaning of the brand name to refer to any similar product regardless of brand, this is called genericization. This has happened with English words such as dry ice, dumpster, escalator, heroin, and zipper, each of which was originally a trademarked brand name that referred to a specific company’s product. But due to genericization, any dumpster is called dumpster, regardless of which company actually manufactured it.
+In some cases of genericization, the trademark still exists. This is the case for chapstick, frisbee, realtor, thermos, and velcro. So there is technically a legal difference between true ChapStick (which is manufactured by the company Haleon) and generic lip balm (which can be manufactured by any company), but few people bother to make this distinction and refer to both with chapstick.
+There are many other ways that new words can be created from existing words. One important type is a compound, which is a neologism derived from putting two or more individual words together, often with a resulting meaning that is non-compositional or idiomatic. That is, the meaning of the compound is not predictable as a transparent combination of the meanings of the component words. See Sections 5.8 and 7.4 for further discussion of compounds.
+Clipping (also called compression or truncation) is a neologism derived by shortening a longer word. The creation of the neologism app from application is clipping, and there are many other examples from English. Clippings can come from the front of a word, as in English exam < examination, or from the end of a word, as in English burger < hamburger. In some very rare cases, clippings can even come from the middle of a word, as in flu < influenza. Other examples of clippings in English are given in (6).
+
+[表格]
+| | | (6) | | a. | | | gym | < | | gym | nasium | | | | | | | b. | | | lab | < | | lab | oratory | | | | | | | c. | | | bot | < | ro | bot | | | | | | | | d. | | | phone | < | tele | phone | | | | | | | | e. | | | fridge | < | re | frig | erator | | | | | | | f. | | | rona | < | co | rona | virus | | | |
+
+A blend (sometimes called a portmanteau) is a neologism derived by putting together pieces of two or more words to create a new word that shares pronunciation and meaning with the original words. This is like a combination of clipping and compounding. For example, the English word brunch is a blend of breakfast and lunch, with [br-] and [-ʌnt͡ʃ] as the clipped forms that are put together as [brʌnt͡ʃ], and with a meaning that combines the meanings of breakfast and lunch: a breakfast-style meal served around lunchtime. Other examples of blends in English are given in (7).
+
+[表格]
+| | | (7) | | a. | | | blog | < | we | b | | + | | log | | | | | | | | b. | | | frenemy | < | | frien | d | + | | enemy | | | | | | | | c. | | | guesstimate | < | | guess | | + | | estimate | | | | | | | | d. | | | mansplain | < | | man | | + | e | xplain | | | | | | | | e. | | | podcast | < | i | Pod | | + | broad | cast | | | | | | | | f. | | | romcom | < | | rom | antic | + | | com | edy | | | | | | | g. | | | smog | < | | sm | oke | + | f | og | | | | | | | | h. | | | soylent | < | | soy | | + | | lent | ils | (coined by Harrison 1966) | | |
+
+In some blends, all of the original words may be clipped (podcast, romcom, etc.), but in other blends, some of the original words may remain whole (blog, frenemy, etc.). In addition, sometimes a blend contains overlap between the original words (frenemy, guesstimate, etc.), but not always (blog, podcast, etc.). If none of the original words are clipped, and if there is no overlap between the original words, then the resulting neologism is an ordinary compound rather than a blend.
+Acronyms are neologisms derived from pieces of the spelling of a word or phrase rather than from its pronunciation. Acronyms may be pronounced as a normal word based on the derived spelling, as with the English acronym scuba < self-contained underwater breathing apparatus, which is pronounced [skubə].
+Acronyms may instead be pronounced letter by letter, in which case, they are sometimes called initialisms. An example of an initialism in English is the word SO < significant other, which is pronounced [ɛs o], letter by letter, rather than *[so], like the ordinary word so. An initialism may even be respelled to better match the pronunciation, as with MC < master of ceremonies, which is pronounced [ɛm si] and so is sometimes spelled with the alternate spelling emcee.
+Some acronyms may be pronounced either way, as with ASAP < as soon as possible, which can be pronounced either [esæp] or [e ɛs e pi]. Finally, some acronyms may be pronounced as a mixture of the two methods, as with HVAC < heating, ventilation, and air-conditioning, which is commonly pronounced [aɪt͡ʃ væk] (though [aɪt͡ʃ vi e si] is usually preferred by HVAC professionals). Other examples of acronyms, initialisms, and mixed types in English are given in (8)–(10).
+
+[表格]
+| | | (8) | | a. | | | fomo | [fomo] < | | f | ear | o | f | m | issing | o | ut | | | | | | | b. | | | laser | [lezr̩] < | | l | ight | a | mplification by | s | timulated | e | mission of | r | adiation | | | | | | | c. | | | snafu | [snæfu] < | | s | ituation | n | ormal, | a | ll | f | ucked | u | p | | | | | (9) | | a. | | | ASL | [e ɛs ɛl] < | | A | merican | S | ign | L | anguage | | | | | | | b. | | | BLT | [bi ɛl ti] < | | b | acon, | l | ettuce, and | t | omato | | | | | | | c. | | | POV | [pi o vi] < | | p | oint | o | f | v | iew | | | | | (10) | | a. | | | MCAT | [ɛm kæt] < | | M | edical | C | ollege | A | dmission | T | est | | | | | | | b. | | | CD-ROM | [si di rɒm] < | | c | ompact | | d | isk | | r | ead- | | o | nly | | m | emory | | | | | | | | | | | c. | | | JPEG | [d͡ʒe pɛɡ] < | | J | oint | | P | hotographic | | E | xperts | | G | roup | | | | | | |
+
+Acronyms are relatively modern phenomena, and nearly all claims about acronym-based etymologies for words before the mid-20th century are usually false. For example, coma is sometimes claimed to be an acronym for cessation of motor activity, but it actually comes from the Greek word κῶμα (kôma) ‘deep sleep’. One of the few possible early English acronyms is OK, which was coined in the early 1800s and might have been an acronym for oll korrect, a joking misspelling of all correct. But the actual etymology of OK is unknown!
+As discussed in Section 2.2, taboo avoidance is another way that the lexicon can change. Taboo words can be replaced with existing words (as with sugar and shoot for English shit), which effectively adds a new meaning to the replacement, a type of semantic change (see Section 14.6 for further discussion). However, taboo avoidance may be accomplished by creating a neologism rather than using an existing word. This is how the neologisms dang and gosh entered English, as they were coined as alternatives to damn and God, respectively.
+
+## Other lexical changes
+
+In this section, we have focused on internal neologisms. However, words and morphemes that already exist in the lexicon can also undergo various other kinds of internal change that affect their pronunciation, structure, position, or meaning. These changes are discussed in Sections 14.3, 14.4, 14.5, and Section 14.6. In addition, there are many ways that the lexicon can be affected by external change, which is covered in Section 14.7.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3892#h5p-146
+
+## References
+
+Frishberg, Nancy. 1975. Arbitrariness and iconicity: Historical change in American Sign Language. Language 51(3): 696–719.
+Harrison, Harry. 1966. Make room! Make room! New York: Doubleday.
+Heinlein, Robert A. 1961. Stranger in a strange land. New York: G. P. Putnam’s Sons.
+Kasner, Edward, and James Newman. 1940. Mathematics and the imagination. New York: Simon & Schuster.
+Matthews, Brander. 1906. American character. New York: Thomas Y. Crowell.
+Nowlan, Phillip Francis. 1928. Armageddon 2419 A.D. Amazing Stories 3(5): 422–449.
+Nowlan, Phillip Francis. 1929. The Airlords of Han. Amazing Stories 3(12): 1106–1136.
+Swift, Jonathan. 1726. Travels into several remote nations of the world. In four parts. By Lemuel Gulliver, first a surgeon, and then a captain of several ships. London: Benjamin Motte.

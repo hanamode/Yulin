@@ -1,0 +1,69 @@
+# A1.3 Properties of PSR Trees
+
+## Headedness
+
+One thing that we can notice about the phrase structure rules is that most phrases must have a head. Recall from Section 6.3 that a head is the word in a phrase that determines the properties of the entire phrase.
+In our PSRs, repeated below in (1), the label of the phrase is usually named after the head of the phrase. The only exception is S in (1a).
+
+[表格]
+| | | (1) | | a. | | S → (AdvP) NP/CP (Aux) (Neg) VP (AdvP) | | | | | | b. | | CP → (Comp) S | | | | | | c. | | NP → (Det) (Num) (AdjP+) N (PP+) | | | | | | d. | | VP → (AdvP+) V (NP) (NP/CP) (AdvP+) (PP+) (AdvP+) | | | | | | e. | | PP → (Deg) P (NP) | | | | | | f. | | AdvP → (AdvP) Adv | | | | | | g. | | AdjP → (AdvP) Adj (PP) | | |
+
+Another property of heads in PSRs is that the head is the only part of the PSR that is not a phrase (an XP). So in the VP rule in (1d), for example, the AdvPs, the NPs, the CP, and the PPs all have that P at the end to indicate it is a phrase. The only member of the VP rule that is not a phrase is the verb. The only exceptions to this are Aux and Neg in the S rule (1a) and Det and Num in the NP rule (1c). S in (1b) looks like an exception because it doesn’t have a P, but it really is a phrase (it includes more than one word); it just has an unusual label.
+The final property of heads is that they are usually the only part of the phrase that is obligatory. The exceptions to this are the subject and VP in the S rule in (1a), and both the Comp and the S in the CP rule in (1b). In the CP, the head is optional while the non-head S is obligatory!
+If the exceptions to the properties of heads in these rules are bothering you, you’re in good company! If you take some more advanced syntax courses, you will probably learn about some explanations about these exceptions.
+These properties of heads can also help us identify a head in a tree diagram, such as in Figures A1.5 and A1.6.
+
+[图片：very-red-192x300.png]
+
+Figure A1.5: Tree diagram of ‘very red’
+
+[图片：very-quickly-219x300.png]
+
+Figure A1.6: Tree diagram of ‘very quickly’
+The adverb phrase very red in Figure A1.5, for example, has the adjective head quickly. It is modified by the AdvP very, which only has a single word which is also the head, very. You can tell that red is the head of the main AdvP, and not very, because the category of red matches the category of the phrase (adjective) and because there is an extra AdvP layer above very.
+On the other hand, in very quickly in Figure A1.6, we have an adverb modifying another adverb. The head of the main adverb phrase is quickly, with another AdvP very modifies it. This has the same structure as very red in Figure A1.5, except that quickly is an adverb, instead of an adjective like red, so we cannot use the category label to determine which one is the head. But we can still use the number of layers to figure it out. Quickly is the head of the main AdvP and it is modified by very, which appears in its own AdvP.
+Watch out that you never draw something like in Figure A1.7. A phrase will never have two heads like this. (Note the asterisk to indicate that this is an ungrammatical structure).
+
+[图片：star-very-quickly-two-heads.png]
+
+A1.7: An ill-formed AdvP structure with two heads
+Every phrase must have a head and one head (except the S rule, which doesn’t have a head at all).
+We can describe this pattern with the Principle of Modification in (2).
+
+[表格]
+| | | (2) | | | Principle of Modification | | | | | | | If an XP modifies a head Y, then XP must be Y’s sister, or, in other words, XP must be the daughter of YP | | |
+
+According to the Principle of Modification, if an XP modifies some head, then XP must be Y’s sister. According to the way the principle of modification is written, all modifiers must be phrases. Modifiers are always attached inside the phrase they modify.
+Another common mistake is to mix up the head and the modifier in a tree diagram. Modifiers are attached inside the phrase they modify, not the other way around. For example, the phrase very quickly must be drawn as in Figure A1.6 and not as in Figure A1.8.
+
+[图片：star-very-quickly-wrong-head-212x300.png]
+
+Figure A1.8: An ill-formed AdvP structure with ‘very’ as the head instead of ‘quickly’
+
+## Recursion and the Power of PSRs
+
+We saw in Section 6.6 that sentences could be placed inside of another sentence. You can also put other kinds of phrases inside of each other. For example, you can put an NP inside of an NP, as in (3).
+
+[表格]
+| | | (3) | | a. | | the yard | | | | | | b. | | the tree in [the yard] | | | | | | c. | | the branch on [the tree in [the yard]] | | | | | | d. | | the leaf on [the branch on [the tree in [the yard]]] | | | | | | | | | and so on… | | | |
+
+Putting something inside of itself is called recursion, and it is what allows language to be infinite.
+
+[图片：recursive-triangle-300x260.png]
+
+Figure A1.9: The Sierpiński triangle is an example of a visual recursive structure. The triangle pattern repeats inside of each triangle. Image by Beojan Stanislaus is licenced under CC BY-SA 3.0.
+Recursion is built into our phrase structure rules. For example, the NP rule consists of an N and an optional PP, and the PP rule consists of a P and usually an NP, as shown in the simplified PSRs in (4)
+
+[表格]
+| | | (4) | | a. | | NP → (Det) N (PP+) | | | | | | b. | | PP → P (NP) | | |
+
+Because the NP rule has a PP after the arrow, and because the PP rule has an NP after the arrow, you could repeat these two rules forever.
+
+[图片：recursive-PPs-and-NPs-300x208.png]
+
+Figure A1.10: Tree of recursive NPs and PPs
+Any pair of rules that contain each other’s phrases work the same. Because of this, recursion is built into our PSRs.
+The properties of language, including recursion, constituency, and hierarchical structure, are captured by phrase structure rules. Phrase structure rules also captured the fact that language is recursive and therefore infinite. Phrase structure rules have a lot of power!
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3153#h5p-124

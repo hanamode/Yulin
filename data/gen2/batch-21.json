@@ -1,0 +1,340 @@
+{
+ "batch": 21,
+ "entries": [
+  {
+   "id": "language-transfer",
+   "title": "语言迁移",
+   "en": "Language Transfer",
+   "category": "concepts",
+   "tags": [
+    "语言迁移",
+    "二语习得",
+    "母语影响",
+    "正迁移",
+    "负迁移",
+    "对比分析"
+   ],
+   "summary": "语言迁移指学习者习得和使用第二语言时，把母语或已掌握语言的知识、规则与习惯带入目标语的现象。两种语言规则相似时产生正迁移，促进学习；规则冲突时产生负迁移，形成偏误与干扰。迁移可发生于语音、词汇、句法、语篇与语用各个层面，是第二语言习得、语言接触与语言教学研究的核心议题，也与对比分析假说和中介语理论密切相关。",
+   "summaryEn": "Language transfer refers to the influence of a learner's first language, or of any previously acquired language, on the acquisition and use of a second language. When the two systems resemble each other, positive transfer facilitates learning; when their rules conflict, negative transfer produces errors traditionally called interference. Transfer operates at the phonological, lexical, syntactic, discourse and pragmatic levels, and it remains a central concern of second language acquisition research, contact linguistics and language teaching.",
+   "sections": [
+    {
+     "h": "定义与研究范围",
+     "hEn": "Definition and Scope",
+     "p": [
+      "语言迁移指学习者在学习和使用第二语言时，把母语或此前已掌握的其他语言的知识、规则与习惯带入目标语的现象与结果。它既包括语音、词汇、句法层面的影响，也涉及语篇组织与语用规约。美国语言学家拉多于1957年提出对比分析假说，主张通过比较母语与目标语的异同来预测学习难点；奥德林在1989年的专著《语言迁移》中则把迁移界定为目标语与先前习得语言之间的异同所产生的影响，强调迁移是涉及注意与认知加工的过程，而非单纯的习惯转移。"
+     ],
+     "pEn": [
+      "Language transfer is the influence exerted by a learner's first language, or by any previously acquired language, on the learning and use of a second language. It surfaces in phonology, vocabulary and syntax, and also in discourse organisation and pragmatic conventions. Robert Lado's contrastive analysis hypothesis of 1957 proposed comparing the learner's native language with the target language in order to predict difficulty. In his 1989 book Language Transfer, Terence Odlin defined transfer as the influence resulting from similarities and differences between the target language and any other previously acquired language, stressing that it is a cognitive process involving attention and restructuring rather than mere habit shifting."
+     ]
+    },
+    {
+     "h": "迁移的类型与表现",
+     "hEn": "Types and Manifestations",
+     "p": [
+      "按结果可分为正迁移与负迁移。母语与目标语规则一致时产生正迁移，能加快学习速度、减少偏误，例如法语使用者学习英语时可借助大量同源词迅速扩大词汇量；规则冲突时产生负迁移，即干扰，往往形成系统性偏误。按方向可分为顺向迁移与反向迁移，后者指第二语言反过来影响母语的使用。按层面则可分为语音迁移、词汇迁移、句法迁移、语篇迁移与语用迁移，例如母语为汉语的学习者常在英语中省略冠词，母语为日语的学习者则容易在英语辅音丛中插入元音。"
+     ],
+     "pEn": [
+      "In terms of outcomes, transfer may be positive or negative. Positive transfer occurs when the two languages share a rule or pattern, speeding up learning and reducing errors; French learners of English, for instance, can exploit the large stock of cognates to expand their vocabulary quickly. Negative transfer, traditionally called interference, arises from conflicting rules and typically yields systematic errors. Transfer may also be forward, from the first to the second language, or reverse, when the second language reshapes the first. Structurally, researchers distinguish phonological, lexical, syntactic, discourse and pragmatic transfer, as when Chinese-speaking learners of English omit articles or Japanese speakers insert vowels into English consonant clusters."
+     ]
+    },
+    {
+     "h": "具体语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "语音迁移常见。汉语普通话无词末清浊对立，学习者常把英语 bag [bæɡ] 读得接近 [bæk]；日语母语者习惯开音节，常把 strike [straɪk] 说成 [sutoɾaiku]。西班牙语 Tengo 25 años 常被直译为 I have 25 years，而非 I am 25 years old；汉语的「虽然……但是……」也会造成 Although it was raining, but we went out 这类偏误。"
+     ],
+     "pEn": [
+      "Phonological transfer is easily observed. Because Mandarin lacks a word-final voiced versus voiceless contrast in stops, learners often pronounce English bag [bæɡ] close to [bæk]; Japanese speakers, whose language favours open syllables, typically render strike [straɪk] as [sutoɾaiku]. Lexical and syntactic transfer appears in the Spanish sentence Tengo 25 años, literally carried into English as I have 25 years instead of I am 25 years old. Likewise, the Chinese correlative pattern 虽然……但是…… is sometimes transferred as Although it was raining, but we went out. Such cases show that transfer frequently operates on several levels of the system at once."
+     ]
+    },
+    {
+     "h": "理论发展与争议",
+     "hEn": "Development and Controversy",
+     "p": [
+      "语言迁移研究经历了从行为主义到认知主义的转变。20世纪50年代的对比分析假说把迁移视为习惯的机械转移，认为两种语言的差异可以预测全部错误；70年代以后，杜雷与伯特、克拉申等人发现许多偏误源于语言发展的普遍顺序，而非母语干扰，此后研究转向迁移的认知条件与限制，如标记性、感知显著性和语言距离的作用。施瓦茨与斯波罗斯1996年提出的「全迁移/全可及」假设则认为，学习者起初会把母语的全部句法结构迁入中介语，再依据目标语输入逐步调整。"
+     ],
+     "pEn": [
+      "Research on transfer has moved from behaviourism to cognitivism. The contrastive analysis hypothesis of the 1950s treated transfer as the mechanical shifting of habits and claimed that differences between the two languages could predict all learner errors. From the 1970s onward, Dulay and Burt, Krashen and others showed that many errors reflect universal developmental sequences rather than native-language interference, and the hypothesis lost much of its predictive power. Later work examines the cognitive conditions that license transfer, including markedness, perceptual salience and perceived language distance. The Full Transfer/Full Access hypothesis of Schwartz and Sprouse (1996) holds that learners initially transfer the whole of their first-language syntax into the interlanguage and then restructure it in response to target-language input."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语言迁移",
+     "tEn": "language transfer",
+     "d": "母语或已有语言知识对第二语言学习与使用产生的影响。",
+     "dEn": "The influence of a previously acquired language on second language learning and use."
+    },
+    {
+     "t": "正迁移",
+     "tEn": "positive transfer",
+     "d": "母语与目标语规则一致时对学习的促进作用，表现为学习加快、偏误减少。",
+     "dEn": "Facilitative influence when first and second language rules coincide, speeding learning and reducing errors."
+    },
+    {
+     "t": "负迁移",
+     "tEn": "negative transfer",
+     "d": "母语与目标语规则冲突时产生的干扰，常导致系统性偏误。",
+     "dEn": "Interference caused by conflicting rules, typically producing systematic learner errors."
+    },
+    {
+     "t": "对比分析假说",
+     "tEn": "contrastive analysis hypothesis",
+     "d": "主张通过比较母语与目标语的异同来预测学习难点的理论。",
+     "dEn": "The claim that comparing native and target languages predicts where learners will have difficulty."
+    },
+    {
+     "t": "中介语",
+     "tEn": "interlanguage",
+     "d": "学习者自建的、介于母语与目标语之间的过渡性语言系统。",
+     "dEn": "The learner's evolving internal system, intermediate between the native and target languages."
+    },
+    {
+     "t": "反向迁移",
+     "tEn": "reverse transfer",
+     "d": "第二语言知识反过来影响母语的使用、判断与语感的迁移现象。",
+     "dEn": "Influence of a second language on the use and judgement of the first language."
+    }
+   ],
+   "related": [
+    "interlanguage",
+    "language-acquisition",
+    "bilingualism",
+    "code-switching"
+   ],
+   "sources": [
+    "Wikipedia, \"Language transfer\", https://en.wikipedia.org/wiki/Language_transfer",
+    "Odlin, Language Transfer: Cross-Linguistic Influence in Language Learning, Cambridge University Press, 1989",
+    "Lado, Linguistics Across Cultures, University of Michigan Press, 1957"
+   ]
+  },
+  {
+   "id": "universal-grammar",
+   "title": "普遍语法",
+   "en": "Universal Grammar",
+   "category": "concepts",
+   "tags": [
+    "普遍语法",
+    "生成语法",
+    "天赋论",
+    "原则与参数",
+    "语言习得",
+    "刺激贫乏"
+   ],
+   "summary": "普遍语法是乔姆斯基提出的语言学理论主张，认为人类先天具备一套构成语言能力的普遍原则与机制，儿童之所以能在有限语料中迅速掌握复杂的母语，正是依靠这一生物禀赋。它主张语言官能是人类心智的独立模块，各语言之间的差异被归结为有限参数的设置。普遍语法与生成语法、语言习得研究和生物语言学紧密相关，也因天赋假设与刺激贫乏论证而长期备受争议。",
+   "summaryEn": "Universal Grammar is Noam Chomsky's hypothesis that the human mind contains an innate, species-specific system of principles that constrains the form of possible human languages. Children acquire their first language rapidly and uniformly on the basis of limited and imperfect input, a fact Chomsky explains by appealing to this biological endowment rather than to instruction or general learning. Differences among languages are attributed to a finite set of parameters. Universal Grammar underpins generative grammar, biolinguistics and much work on language acquisition, and its innatist assumptions remain widely debated.",
+   "sections": [
+    {
+     "h": "定义与理论背景",
+     "hEn": "Definition and Theoretical Background",
+     "p": [
+      "普遍语法是乔姆斯基提出的理论主张：人类先天拥有一套由生物遗传决定的语言原则与机制，它限定了可能的人类语言的形式，使儿童能在有限而不完美的输入中迅速掌握母语。这一思想在1957年的《句法结构》中初具雏形，1965年的《句法理论面面观》作了系统阐述。乔姆斯基对斯金纳行为主义语言观的批评与「刺激贫乏」论证构成其主要依据：儿童接触的语料既缺少系统性的否定证据，也不足以唯一确定语法规则，因此必须假设某种先天的语言官能。"
+     ],
+     "pEn": [
+      "Universal Grammar is Noam Chomsky's claim that human beings are born with a biologically determined set of linguistic principles and mechanisms that delimits the form of possible human languages and enables children to master their mother tongue rapidly on the basis of limited and imperfect input. The idea took shape in Syntactic Structures (1957) and was developed systematically in Aspects of the Theory of Syntax (1965). Chomsky's critique of Skinner's behaviourist account of language, together with the poverty of the stimulus argument, provides its main support: the data available to the child contain no systematic negative evidence and do not uniquely determine a grammar, so some innate language faculty must be assumed."
+     ]
+    },
+    {
+     "h": "原则与参数",
+     "hEn": "Principles and Parameters",
+     "p": [
+      "在原则与参数框架下，普遍语法由适用于所有语言的普遍原则和允许有限变异的参数构成，习得语言即依据输入为参数赋值。以语序为例，英语是中心语前置语言，说 the book on the table；日语是中心语后置语言，说「机の上に本がある」。又如主语脱落参数：意大利语可以说 Parlo italiano 而无需显性主语，英语则必须出现主语，如 I speak Italian。参数设定的连锁后果被视为习得效率的有力解释。"
+     ],
+     "pEn": [
+      "Within the principles-and-parameters framework, Universal Grammar consists of principles common to all languages plus parameters that permit limited variation; acquisition is understood as the setting of parameters on the basis of input. Word order offers a clear illustration: English is head-initial, as in the book on the table, whereas Japanese is head-final, as in 机の上に本がある ('there is a book on the table'). The pro-drop parameter works similarly: Italian allows Parlo italiano ('I speak Italian') with no overt subject, while English requires one, as in I speak Italian. Because a single parameter setting has clustered syntactic consequences, the model is often presented as an explanation of how acquisition can be so efficient."
+     ]
+    },
+    {
+     "h": "语言习得证据与实例",
+     "hEn": "Evidence from Language Acquisition",
+     "p": [
+      "经典证据之一是儿童语言中的「结构依赖」。英语儿童把 The man who is tall is happy 变成疑问句时，会说 Is the man who is tall happy?，而非违反结构依赖的 Is the man who is tall is happy?，尽管从未受过指导。过度规则化也表明儿童在构建规则：他们说 goed、foots。儿童能掌握极复杂的语法而成人多难达到母语水平，这一差异常被用来支持关键期假说。"
+     ],
+     "pEn": [
+      "Classic evidence for Universal Grammar comes from structure dependence in child language. Asked to turn The man who is tall is happy into a question, English-speaking children produce Is the man who is tall happy? and essentially never the structure-independent form Is the man who is tall is happy?, even though they have received no instruction on the point. Overregularisation provides further evidence: children say goed and foots, showing that they construct rules rather than imitate adult forms. Children also master grammars of enormous complexity, whereas adult learners rarely reach native-like attainment, a contrast often used to support the critical period hypothesis."
+     ]
+    },
+    {
+     "h": "争论与批评",
+     "hEn": "Debates and Criticism",
+     "p": [
+      "普遍语法自提出以来一直是理论语言学争论的焦点。基于用法的语言学家如托马塞洛认为，儿童的语言能力可以从通用的认知学习机制和大量语言使用经验中涌现，无需专门的先天语法模块；埃弗里特对皮拉罕语缺乏递归的描写，则被用来质疑普遍语法所主张的普遍性。生成语法内部也发生了变化，最简方案把研究重心从规则和参数转向合并等基本运算，并尝试与生物语言学、神经科学的证据对接。批评者还指出，普遍语法的许多主张难以直接检验，其跨语言证据的取样也存在偏差。"
+     ],
+     "pEn": [
+      "Universal Grammar has remained a focus of controversy. Usage-based linguists such as Michael Tomasello argue that children's linguistic knowledge emerges from general cognitive learning mechanisms and extensive experience of language use, with no need for a dedicated innate module. Daniel Everett's description of Pirahã as lacking recursion has been used to question the universality that Universal Grammar claims. Generative theory has itself shifted: the Minimalist Program replaces rules and parameters with basic operations such as Merge and seeks contact with biolinguistics and neuroscience. Critics also observe that many of its claims are difficult to test directly and that the cross-linguistic sample on which they rest is skewed."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "普遍语法",
+     "tEn": "Universal Grammar",
+     "d": "乔姆斯基提出的先天语言原则系统，限定可能的人类语言形式。",
+     "dEn": "Chomsky's postulated innate system of principles delimiting the form of possible human languages."
+    },
+    {
+     "t": "语言官能",
+     "tEn": "language faculty",
+     "d": "人类心智中专门负责语言习得与语言使用的先天认知系统。",
+     "dEn": "The cognitive system in the human mind dedicated to acquiring and using language."
+    },
+    {
+     "t": "原则与参数",
+     "tEn": "principles and parameters",
+     "d": "由普遍原则与允许有限变异的参数构成的语言理论框架。",
+     "dEn": "A framework combining universal principles with parameters that permit limited cross-linguistic variation."
+    },
+    {
+     "t": "刺激贫乏",
+     "tEn": "poverty of the stimulus",
+     "d": "儿童所获语言输入不足以唯一确定语法规则，故需假设先天知识。",
+     "dEn": "The argument that children's input underdetermines grammar, so innate knowledge must be assumed."
+    },
+    {
+     "t": "参数",
+     "tEn": "parameter",
+     "d": "普遍语法中允许跨语言有限变异的选项，由输入触发设定。",
+     "dEn": "A limited option within Universal Grammar whose value is fixed by exposure to input."
+    },
+    {
+     "t": "结构依赖",
+     "tEn": "structure dependence",
+     "d": "句法操作依据句子的层级结构而非线性顺序进行的性质。",
+     "dEn": "The property that syntactic operations apply to hierarchical structure rather than linear order."
+    },
+    {
+     "t": "合并",
+     "tEn": "Merge",
+     "d": "最简方案中的基本句法运算，把两个成分组合成新的成分。",
+     "dEn": "The basic syntactic operation of the Minimalist Program, combining two elements into one."
+    }
+   ],
+   "related": [
+    "chomsky",
+    "generativism",
+    "language-acquisition",
+    "minimalism",
+    "deep-structure"
+   ],
+   "sources": [
+    "Wikipedia, \"Universal grammar\", https://en.wikipedia.org/wiki/Universal_grammar",
+    "Chomsky, Syntactic Structures, Mouton, 1957",
+    "Chomsky, Aspects of the Theory of Syntax, MIT Press, 1965"
+   ]
+  },
+  {
+   "id": "grammaticalization",
+   "title": "语法化",
+   "en": "Grammaticalization",
+   "category": "concepts",
+   "tags": [
+    "语法化",
+    "虚化",
+    "语法演变",
+    "语义漂白",
+    "单向性",
+    "语法化斜坡"
+   ],
+   "summary": "语法化指语言中实义词或结构逐渐演变为语法成分、语法范畴或语法标记的历时过程，也指研究这一过程的理论框架。法国语言学家梅耶在1912年首次使用这一术语。典型表现包括语义漂白、范畴降级、语音弱化与搭配固化，并常沿「词汇词—功能词—附着成分—屈折词缀」的斜坡推进。语法化是历史语言学、语言类型学与功能语言学共同关注的焦点，其单向性假设也引发持续争论。",
+   "summaryEn": "Grammaticalization is the diachronic process whereby lexical words and constructions gradually develop into grammatical morphemes, categories and markers, as well as the theoretical framework that studies this change. The term was introduced by the French linguist Antoine Meillet in 1912. Typical correlates include semantic bleaching, decategorialisation, phonological erosion and increasing bondedness, often arranged along a cline from content word to inflectional affix. Grammaticalization is central to historical linguistics, typology and functional approaches, and its unidirectionality hypothesis remains contested.",
+   "sections": [
+    {
+     "h": "定义与研究史",
+     "hEn": "Definition and History of Research",
+     "p": [
+      "语法化指实义词或结构在历时演变中逐渐获得语法功能、演变为语法标记或语法范畴的过程，也指研究这一过程的理论框架。法国语言学家梅耶在1912年的论文《语法形式的演化》中首次使用这一术语，用来解释新的语法形式如何从词汇形式产生。中国传统的虚字研究以及欧洲的语法化个案研究都为这一领域提供了材料。20世纪70年代以后，吉冯、莱曼、霍珀与特劳戈特等人的工作使语法化成为历史语言学与功能语言学的重要课题。"
+     ],
+     "pEn": [
+      "Grammaticalization is the diachronic process by which lexical words or constructions gradually acquire grammatical functions and develop into grammatical markers or categories; the term also names the theoretical framework that studies such change. The French linguist Antoine Meillet introduced it in his 1912 paper L'évolution des formes grammaticales to explain how new grammatical forms arise out of lexical ones. Earlier Chinese scholarship on function words and European case studies supplied much of the descriptive material. From the 1970s the work of Talmy Givón, Christian Lehmann, Paul Hopper and Elizabeth Traugott established grammaticalization as a central topic in historical and functional linguistics."
+     ]
+    },
+    {
+     "h": "演变机制与参数",
+     "hEn": "Mechanisms and Parameters",
+     "p": [
+      "语法化通常表现为若干相互关联的变化：语义漂白或泛化，即具体词汇意义减弱；范畴降级，如名词或动词失去典型的形态句法特征；语音弱化，如辅音脱落、元音央化；以及搭配的固化和黏着度提高。霍珀提出的语法化原则包括层次叠加、分化、专门化与滞留，分别指新旧形式共存、同一来源分化出不同功能、功能表达逐渐集中到某一形式，以及原有语义痕迹的保留。莱曼则用聚合化与组合化等参数来衡量语法化程度的高低。"
+     ],
+     "pEn": [
+      "Grammaticalization typically involves a cluster of interrelated changes: semantic bleaching or generalisation, whereby concrete lexical meaning fades; decategorialisation, in which nouns or verbs lose their typical morphosyntactic properties; phonological erosion, such as consonant loss and vowel reduction; and increasing bondedness in fixed collocations. Hopper's principles of grammaticalization include layering, divergence, specialisation and persistence: the coexistence of old and new forms, the splitting of one source into several functions, the narrowing of a function to a single form, and the retention of traces of earlier meaning. Lehmann measures the degree of grammaticalization with parameters such as paradigmaticisation and syntagmatic bonding."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "英语的将来表达 be going to 由表示空间移动的 go 演变而来，口语中弱化为 gonna，如 I'm gonna leave。古英语的 willan（想要）发展为将来助动词 will，如 I will help you。法语的否定词 pas 原指「一步」，在 ne…pas 结构中虚化为否定标记。汉语的「了」由「完结」义动词虚化为完成体标记，如「他吃了饭」；「被」由「覆盖、蒙受」义演变为被动标记，如「杯子被他打破了」。"
+     ],
+     "pEn": [
+      "The English future expression be going to developed from the motion verb go and is further reduced to gonna in speech, as in I'm gonna leave. The Old English verb willan 'to want' became the future auxiliary will, as in I will help you. The French negator pas was originally the noun meaning 'step' and was bleached into the core marker of negation in the ne…pas construction. In Chinese, the verb 了 'to finish' grammaticalized into the perfective aspect marker, as in 他吃了饭 ('he has eaten'), while 被, originally 'to cover, to suffer', became the passive marker, as in 杯子被他打破了 ('the cup was broken by him')."
+     ]
+    },
+    {
+     "h": "理论争议",
+     "hEn": "Theoretical Debates",
+     "p": [
+      "语法化研究最具争议的问题是单向性假设，即演变只能由词汇成分走向语法成分，而不能反向进行。批评者如纽迈耶认为，语法化并非独立机制，而是重新分析、类比等一般语言变化的附带结果；他们还举出反向语法化与词汇化的例子，主张单向性只是统计倾向而非普遍规律。支持者则回应说，跨语言的系统性证据表明演变方向确实受到强烈约束，语义漂白与黏着度提高之间存在稳定的相关性。此外，如何区分语法化与词汇化、如何处理语法化过程中的语用动因，仍是争论未决的问题。"
+     ],
+     "pEn": [
+      "The most contested issue in grammaticalization research is the unidirectionality hypothesis, according to which change proceeds from lexical to grammatical material and not the reverse. Critics such as Frederick Newmeyer argue that grammaticalization is not an independent mechanism but a by-product of ordinary changes such as reanalysis and analogy, and they cite instances of degrammaticalization and lexicalisation as evidence that unidirectionality is a statistical tendency rather than a universal law. Defenders reply that cross-linguistic evidence shows the direction of change to be strongly constrained and that bleaching correlates reliably with increasing bondedness. How to distinguish grammaticalization from lexicalisation, and how to model its pragmatic motivation, remain unresolved."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语法化",
+     "tEn": "grammaticalization",
+     "d": "词汇成分在历时演变中变为语法成分或语法标记的过程。",
+     "dEn": "The diachronic development of lexical material into grammatical material or markers."
+    },
+    {
+     "t": "语义漂白",
+     "tEn": "semantic bleaching",
+     "d": "语法化过程中词语的具体词汇意义逐渐减弱或泛化的现象。",
+     "dEn": "The weakening or generalisation of concrete lexical meaning during grammaticalization."
+    },
+    {
+     "t": "范畴降级",
+     "tEn": "decategorialization",
+     "d": "实词在语法化中失去原有词类典型形态句法特征的过程。",
+     "dEn": "Loss of the typical morphosyntactic properties of a word class during grammaticalization."
+    },
+    {
+     "t": "单向性",
+     "tEn": "unidirectionality",
+     "d": "演变只能由词汇成分走向语法成分而不能反向进行的假设。",
+     "dEn": "The hypothesis that change runs only from lexical to grammatical material, never the reverse."
+    },
+    {
+     "t": "语法化斜坡",
+     "tEn": "cline",
+     "d": "语法化由实词经功能词到附着成分与词缀的渐变连续序列。",
+     "dEn": "The gradual scale from content word through function word to clitic and affix."
+    },
+    {
+     "t": "重新分析",
+     "tEn": "reanalysis",
+     "d": "听话者对结构的切分与底层关系作出新解释的演变机制。",
+     "dEn": "A change mechanism in which hearers assign a new structure or underlying relation."
+    },
+    {
+     "t": "滞留",
+     "tEn": "persistence",
+     "d": "语法化后的形式仍保留原有语义或搭配痕迹的语言现象。",
+     "dEn": "The retention of traces of earlier meaning or collocation in a grammaticalized form."
+    }
+   ],
+   "related": [
+    "historical-linguistics",
+    "metaphor-metonymy",
+    "usage-based-linguistics",
+    "morpheme",
+    "semantic-field"
+   ],
+   "sources": [
+    "Wikipedia, \"Grammaticalization\", https://en.wikipedia.org/wiki/Grammaticalization",
+    "Meillet, L'évolution des formes grammaticales, 1912",
+    "Hopper & Traugott, Grammaticalization, Cambridge University Press, 2003"
+   ]
+  }
+ ]
+}

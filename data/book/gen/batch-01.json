@@ -1,0 +1,98 @@
+{
+ "batch": 1,
+ "sections": {
+  "front-matter-001-accessibility-statement": {
+   "title": {
+    "en": "Accessibility Statement",
+    "zh": "无障碍声明"
+   },
+   "summary": {
+    "en": "This statement explains how Essentials of Linguistics, 2nd edition meets eCampusOntario's Virtual Learning Strategy accessibility requirements, and how the authors aim to go beyond the minimum standards by developing conventions for linguistic diagrams, formalisms, and notation. It lists the measures already taken, the formats the ebook can be exported to, and the ways readers can send feedback.",
+    "zh": "本节说明《语言学基础》第二版如何满足 eCampusOntario“虚拟学习策略”的无障碍要求，并交代作者不满足于最低标准，还针对语言学图表、形式化表达和符号系统研究更专门的无障碍规范。文中列举了已经采取的各项措施、电子书可导出的格式，以及读者反馈的渠道。"
+   },
+   "points": [
+    {
+     "en": "The textbook conforms to eCampusOntario's Virtual Learning Strategy accessibility requirements for digital learning content.",
+     "zh": "教材符合 eCampusOntario“虚拟学习策略”对数字学习内容提出的无障碍要求。"
+    },
+    {
+     "en": "Pages are navigable by screenreader, and every non-decorative image and diagram carries alt-text.",
+     "zh": "页面可用屏幕阅读器浏览，所有非装饰性的图片和图表都配有替代文本。"
+    },
+    {
+     "en": "Syntax and morphology trees use bracketed alt-text while easier audio-friendly ways of conveying hierarchy are explored.",
+     "zh": "句法与形态树形图目前采用括号式替代文本，作者正探索更便于音频理解层级结构的表达方式。"
+    },
+    {
+     "en": "Glossed examples sit in tab-navigable tables, are tagged as non-English, and high contrast colour is used throughout.",
+     "zh": "带注释的例子放在可用 Tab 键浏览的表格中，并在适用时标记为非英语，全书采用高对比度配色。"
+    },
+    {
+     "en": "The ebook exports to PDF or EPUB, and Pressbooks supports zooming the font size by 200% on all platforms.",
+     "zh": "电子书可导出为 PDF 或 EPUB，Pressbooks 在所有平台均支持把字号放大约 200%。"
+    },
+    {
+     "en": "As of the February 28th, 2022 soft launch some features were still pending, and feedback by email is welcome.",
+     "zh": "截至 2022 年 2 月 28 日软启动时，部分功能尚未实现，作者欢迎读者通过邮件反馈。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "accessibility",
+     "zh": "无障碍（可及性）",
+     "defEn": "The degree to which content can be used by people with disabilities and other diverse users.",
+     "defZh": "指内容能被残障人士及其他各类用户顺利获取和使用的程度。"
+    },
+    {
+     "en": "screenreader",
+     "zh": "屏幕阅读器",
+     "defEn": "Software that reads on-screen text aloud for users who cannot read it visually.",
+     "defZh": "一种把屏幕上的文字朗读出来的辅助软件，供无法用视觉阅读屏幕的用户使用。"
+    },
+    {
+     "en": "alt-text",
+     "zh": "替代文本",
+     "defEn": "A short written description attached to a non-decorative image or diagram.",
+     "defZh": "附加在非装饰性图片或图表上的简短文字说明，供屏幕阅读器朗读。"
+    },
+    {
+     "en": "International Phonetic Alphabet (IPA)",
+     "zh": "国际音标",
+     "defEn": "A standard set of symbols for representing the sounds of spoken language.",
+     "defZh": "一套用统一符号记录人类语言语音的国际通用标音系统，即通常所说的音标。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Pages are navigable by screenreader. (Note: Firefox does not seem to work well.)",
+     "noteEn": "One listed measure, with a caveat about browser support for screenreader navigation.",
+     "noteZh": "所列措施之一，并附带说明某个浏览器在屏幕阅读器导航方面表现不佳。"
+    },
+    {
+     "text": "For syntax and morphology trees, the alt-text is currently formatted as a bracketed diagram",
+     "noteEn": "Shows how tree diagrams are described textually for now, pending a better audio format.",
+     "noteZh": "说明树形图目前以何种文字方式描述，更好的音频呈现方式仍在探索中。"
+    },
+    {
+     "text": "Pressbooks supports zooming the font size by 200% across all of its platforms.",
+     "noteEn": "A platform-level feature that makes the text easier to enlarge for low-vision readers.",
+     "noteZh": "平台层面的功能，便于低视力读者把正文字号放大到两倍。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This textbook meets the accessibility requirements of eCampusOntario's Virtual Learning Strategy. The authors also say that they want to go beyond the minimum standards: they are researching and developing accessibility conventions specific to linguistic diagrams, formalisms, and notation, and they list several measures taken so far to improve access.",
+     "zh": "本教材符合 eCampusOntario“虚拟学习策略”的无障碍要求。作者同时表示，他们并不止步于最低标准，还要针对语言学图表、形式化表达和符号系统研究并制定专门的无障碍规范，并列举了为提升可及性已经采取的若干措施。"
+    },
+    {
+     "en": "Pages can be navigated with a screenreader, and alt-text is provided for every non-decorative image and diagram. The alt-text for syntax and morphology trees currently takes the form of a bracketed diagram, though the authors are looking for ways to convey hierarchical structure that are easier to follow in audio. A definition file covering special characters of the International Phonetic Alphabet is planned for screenreaders. Graphs, charts, and maps are described in writing, glossed linguistic examples are placed in tables that can be reached by tabbing, high contrast colour is used, and many passages also appear in parallel video format, where the text serves as a transcript.",
+     "zh": "页面可以用屏幕阅读器浏览，所有非装饰性的图片和图表都提供替代文本。句法和形态树形图的替代文本目前采用括号式图表达，作者正探索更便于音频理解层级结构的方式。国际音标特殊字符的屏幕阅读器定义文件即将推出。图形、图表和地图在正文中用文字加以描述；带注释的语言学例子以可用 Tab 键浏览的表格呈现，并在适用时标记为非英语；全书使用高对比度配色；许多内容还配有并行视频，文字即视频的文字稿。"
+    },
+    {
+     "en": "The ebook can be exported as PDF or EPUB, PDF versions can be printed, and all interactive content is available in the backmatter of exported copies. Pressbooks supports zooming the font size by 200% on every platform. Feedback is welcome, both about what is working well and about issues that were overlooked or could be improved, by email at teaching.in.linguistics@gmail.com. As of the soft launch on February 28th, 2022, not all of these accessibility features had been implemented, but the authors plan to keep working on them through the rest of 2022.",
+     "zh": "电子书可导出为 PDF 或 EPUB，PDF 版本可以打印，导出副本中的所有交互内容都放在书末附录中。Pressbooks 在所有平台上都支持把字号放大约 200%。作者欢迎读者通过 teaching.in.linguistics@gmail.com 反馈意见，无论是做得好的地方，还是被忽略或仍可改进的问题。截至 2022 年 2 月 28 日“软启动”时，这些无障碍功能尚未全部实现，但作者计划在 2022 年余下的时间里继续推进。"
+    }
+   ]
+  }
+ }
+}

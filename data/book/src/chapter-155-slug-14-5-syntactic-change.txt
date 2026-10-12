@@ -1,0 +1,70 @@
+# 14.5 Syntactic change
+
+## Change in type of morphosyntactic pattern
+
+As discussed in Section 5.3, some languages may express a particular grammatical function synthetically (as a bound morpheme within the same word as the root), while others may express it analytically (that is, as a free morpheme separate from the root). Analytic morphosyntax is sometimes called isolating, though some linguists make a distinction between the two terms, with analytic allowing for bound derivational morphemes and isolating allowing no bound morphemes at all (see Section 5.6 for more discussion of derivational morphology). For simplicity in this discussion, we will ignore that distinction and use only the term analytic.
+Note that these terms are sometimes used to describe an entire language, but in reality, languages tend to have a mixture of different morphosyntactic types in different circumstances. For example, in English, the past tense is ordinarily formed synthetically with a suffix, while the future tense is formed analytically with a separate word. Thus, these terms are usually more accurately used only for specific morphosyntactic patterns within a language rather than for an entire language.
+Contrast English with Malagasy (a Greater Barito language of the Austronesian family, spoken in Madagascar), in which both the past and future tenses are synthetic (with the bound tense morphemes being prefixes), and with Māori (a Tahitic language of the Austronesian family, spoken in New Zealand), in which both tenses are analytic (with the separate tense words preceding the verb).
+The different patterns for these three languages are demonstrated in Table 14.8, with data adapted from Richardson 1885 (for Malagasy) and from Williams 1917 (for Māori).
+
+[表格]
+| Table 14.8. Comparison of tense in English, Malagasy, and Māori | | | | | language | | | | past tense | | | | future tense | | | | type | | | | | | | English | | [ple | | d | | ] | | [ | | wɪl | | ple] | | | | synthetic | | / | | analytic | | | | | | Malagasy | | [ | | ni | | lalao] | | [ | | hi | | lalao] | | | | synthetic | | | | | | Māori | | [ | | i | | taːkaro] | | [ | | ka | | taːkaro] | | | | analytic | | | | | | | | ‘played’ | | ‘will play’ | | | | |
+
+Over time, a morphosyntactic pattern in a language can change from analytic to synthetic and vice versa, because of the deep inherent connection between morphology and syntax. Separate words in an analytic pattern can undergo phonological reduction and eventually collapse together, remaining as separate morphemes but now bound within the same single word.
+This change from analytic to synthetic can be seen in Modern English contractions of the negative word not. In casual speech, this separate word can become a suffix that joins up with the preceding auxiliary verb, as in have not > haven’t (1). We can tell that -n’t is a true suffix and not still a separate word like not based on the formation of yes-no questions. Yes-no questions involve subject-aux inversion (see Section 6.7 for discussion). Since not is a separate word that is not an auxiliary verb, it remains in place after the subject (2a) and does not undergo subject-aux inversion along with the auxiliary verb (2b). In contrast, -n’t is required to invert as part of the auxiliary verb (3a) and cannot remain after the subject, neither separately (3b) nor as a suffix (3c).
+
+[表格]
+| | | (1) | | a. | | They have not left. | | | | | | b. | | They haven’t left. | | | | (2) | | a. | | Have they not left? | | | | | | b. | | *Have not they left? | | | | (3) | | a. | | Haven’t they left? | | | | | | b. | | *Have they n’t left? | | | | | | c. | | *Have theyn’t left? | | |
+
+Morphemes can then undergo further reduction and get deleted, requiring the information to be expressed in a new way with separate words, causing a synthetic morphosyntactic pattern to become analytic. This change from synthetic to analytic can be seen in the development of infinitives in English. Basic Old English infinitives used to be marked with a suffix -an, as in plegian ‘to play’ and lǣfan ‘to leave’. A second version of the infinitive was also used in certain circumstances with a specialized meaning, and it was formed with the separate word tō and a different suffix, as in tō plegienne ‘to play’ and tō lǣfenne ‘to leave’. Throughout Middle English, the suffixes weakened and eventually disappeared, and the use of the two-word analytic infinitive increased, and now in Modern English, it is the only way to express the infinitive: to play and to leave.
+
+## Grammaticalization
+
+Another important syntactic change is grammaticalization, which is when a word shifts from an ordinary lexical category like a noun, verb, or adjective (see Section 5.1 for discussion of lexical categories) to have a more abstract grammatical function, with a corresponding shift in category (usually to a preposition, adverb, auxiliary verb, or other similar functional category; see Section 6.5 for discussion of functional categories). Grammaticalization usually also involves at least some kind of shift in meaning (see Section 14.6 for discussion of semantic change), but the change in syntactic function is what defines grammaticalization.
+Grammaticalization can be seen in the history of the Modern English word still, which derives from the Old English adjective stille ‘quiet, calm, motionless’. Due to grammaticalization, Modern English still can now be used as an aspectual adverb that indicates that an action is continuing (as in it is still raining). The original adjective usage is still available (as in the expression stand still), though this usage is less common.
+Other examples of grammaticalization in English and other languages are given in (4) and (5), respectively.
+
+[表格]
+| | | (4) | | a. | | | verb > auxiliary verb (tense) | | Old English | willan | ‘to want, wish’ > Modern English | will | ‘FUTURE’ | | | | | | b. | | | noun > conjunction | | Old English | hwīl | ‘period of time’ > Modern English | while | ‘at the same time, although’ | | | | | | c. | | | adjective > degree word | | Middle English | verray | ‘true, real’ > Modern English | very | ‘greatly’ | | | | (5) | | a. | | | noun > preposition | | Latin | casa | ‘cottage, hut’ > French | chez | ‘at/to the home of’ | | | | | | b. | | | verb > conjunction | | Old Chinese | 及 | ‘reach, capture’ > Mandarin | 及 (jí) | ‘and’ (Chang 2023) | | | | | | c. | | | adjective > adverb | | Old High German | hlūtar | ‘clean, pure’ > Modern German | lauter | ‘only, just’ | | |
+
+## Change in basic word order
+
+For sentences of the type the woman saw the man, consisting of a subject (S), object (O), and verb (V) as separate words or phrases, languages can generally have any of six possible basic word orders: SVO, SOV, OSV, OVS, VSO, and VOS (see Section 6.2 for discussion). Note that some of these orders are more common than others (especially SVO and SOV, in which the subject is always first), but all six orders can be found in the world’s languages. Over time, a language can shift from one order to another, and like many language changes, such a shift usually goes though a stage of variation, in which both orders are possible, perhaps with slightly different uses.
+For example, a common word order in Old English was SVO, as in (6), but other orders were also possible in certain situations. SOV word order was often used instead when the object was a pronoun, as in (7), which word for word would be ‘he it had’. By the end of Middle English, basic word order had mostly shifted to rigid SVO, regardless of whether the object was a pronoun or not. That is the order that continued into Modern English (8a,9a), with SOV now normally being ungrammatical (8b,9b). For ease of identification, the verbs and objects in (6)–(9) are in bold, and the objects are also underlined. The Old English data in (6)–(7) are adapted from Carlton 1970.
+
+[表格]
+| | | (6) | | | | Ic | hæbbe | geleuan | | . | ‘I have confidence.’ | | (SVO) | | | | (7) | | | | He | | hit | hæfde | . | ‘He had it.’ | | (SOV) | | | | (8) | | a. | | I | have | confidence | | . | | (SVO) | | | | | | b. | | *I | | confidence | have | . | | | | | | (9) | | a. | | He | had | it | | . | | (SVO) | | | | | | b. | | *He | | it | had | . | | | | |
+
+However, we now also have the possibility for OSV order when making an emphatic or contrastive statement. For example, we can say I like chicken, but fish, I hate, where the second clause has OSV order (along with a very distinct intonation). This could be the beginning of a new change in basic word order! Perhaps over the next few hundreds of years, OSV order will be used more and more frequently and in a greater variety of situations, until it eventually replaces SVO.
+But instead, OSV could just continue to be highly restricted, or it may even eventually stop being used at all in any situation. Even though language is constantly changing, specific language changes may or may not happen. We can make educated guesses about how a language might change in the future, but we cannot know for certain. There are common patterns, but there are no guarantees.
+
+## Other changes in word order
+
+There are many other ways that the order of words in a language’s syntax can change. In Middle English, the adverb neuer ‘never’ could intervene between a main verb and its direct object, as in the example in (10) (Malory 1485: Book 8, Chapter 14), but that order is ungrammatical in Modern English (11), which normally requires never to be before the main verb (12).
+
+[表格]
+| | | (10) | | | | But as longe as kynge Marke lyued / he | loued | neuer | | sire Trystram after that […] | | | | (11) | | | | *But as long as King Mark lived, he | loved | never | | Sir Tristram after that […] | | | | (12) | | | | But as long as King Mark lived, he | | never | loved | Sir Tristram after that […] | | |
+
+Such changes are not just random rearrangements of the words in a sentence. They are tied directly into fundamental principles of constituency and movement of the kind discussed in Chapter 6. In this particular case, using the syntactic models used in this textbook, we could argue that Middle English had V-to-T movement for all main verbs, which moves the verb loued beyond the adverb neuer adjoined to V′ (Figure 14.9), but this movement is not allowed for verbs like loved in Modern English, so it remains inside the VP (Figure 14.10). (See further discussion of V-to-T movement in Section 6.20). Our syntactic theories can thus provide insight into diachronic syntactic patterns, which themselves can be used as additional evidence for constructing better syntactic theories or choosing between competing theories.
+
+[图片：14.x-V-to-T-MidEng.png]
+
+Figure 14.9. V-to-T movement in Middle English he loued neuer sire Trystam.
+
+[图片：14.x-V-to-T-ModEng.png]
+
+Figure 14.10. Lack of V-to-T movement in Modern English he never loved Sir Tristam.
+There are many other possibilities for similar syntactic changes in a language’s history. For example, since we can analyze some languages as having wh-movement and others as not having it (Section 6.19), this is also something we expect could change over time within a language. Thus, a language may have wh-movement at one point in time but not at some later point, or vice versa. The same should be true for any difference in syntactic patterns: synchronic differences in syntax between different languages are also possible diachronic changes we could find within a single language’s syntactic history.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3898#h5p-149
+
+## References
+
+Carlton, Charles. 1970. Descriptive syntax of the Old English charters. Janua Linguarum: Series Practica 111. The Hague: Mouton.
+Chang, Jung-Im. 2023. The grammaticalization of verbs of location movement into noun-phrase conjunctions in Archaic Chinese. Language and Linguistics 24(2): 183–215.
+Malory, Syr Thomas. 1485. La morte Darthur. London: William Caxton.
+Richardson, James (ed.) 1885. A new Malagasy-English dictionary. Antananarivo: London Missionary Society.
+Williams, Herbert W. 1917. A dictionary of the Maori language. Wellington: Marcus F. Marks.

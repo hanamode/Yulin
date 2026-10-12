@@ -1,0 +1,124 @@
+# 5.7 Inflectional morphology
+
+Video Part 1:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2334#oembed-1
+Video Part 2:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2334#oembed-2
+So far we’ve focused on derivational morphology. The next kind of morphology we’ll discuss is inflectional morphology.
+Unlike derivational morphology, inflectional morphology never changes the category of its base. Instead it simply suits the category of its base, expressing grammatical information that’s required in a particular language.
+In English we find a very limited system of inflectional morphology:
+- Nouns Number: singular vs. plural
+- Case (only on pronouns) Nominative: I, we, you, he, she, it, they
+- Accusative: me, us, you, him, her, it, them
+- Possessive: my, our, your, his, her, its, their
+Verbs
+- Agreement: most verbs agree with third person singular subjects only in the present tense (-s), but the verb to be has more forms.
+- Tense: Past vs. Present
+- Perfect/Passive Participle: -ed or -en (Perfect after auxiliary have, Passive after auxiliary be)
+- Progressive -ing (after auxiliary be)
+Adjectives
+- Comparative -er, Superlative -est (Arguable! Some people might treat this as derivational)
+
+That’s all of it! But if we look at other languages, we find more types of inflectional morphology.
+One thing about inflectional morphology is that lots of it can be expressed syntactically instead of morphologically. So some languages have tense, but express it with a particle (a separate word) rather than with an affix on the verb. This is still tense, but it’s not part of inflectional morphology.
+The rest of this section gives a general survey of types of inflectional distinctions commonly made in the world’s languages, but there are many types of inflection that aren’t mentioned here.
+
+## Number
+
+Most languages, if they have grammatical number, just distinguish singular (“one”) vs. plural (“more than one”), but number systems can be more complex as well.
+For example, many languages have dual in addition to singular and plural. Dual number is used for groups of exactly two things; we have a tiny bit of dual in English with determiners like both, which means “strictly two”. You have to replace both with all if a group has three or more things in it. But in English we don’t have any morphological marking of dual.
+An example of a language that distinguishes dual morphologically is Inuktitut, one of the languages spoken by the Inuit people who live in the Arctic region. There is a good deal of dialect variation across the Inuit languages; examples here are drawn from Inuktut Tusaalangaa, and represent the dialect South Qikiqtaaluk, spoken in parts of Nunavut that include the city Iqaluit.
+
+[表格]
+| | | (1) | | | | | gloss | | | | singular | | | dual (2) | | plural (3+) | | | | | | | | “pen” | | titiraut | | titirautiik | | titirautit | | | | | | | | “cloud” | | nuvuja | | nuvujaak | | nuvujait | | | | | | | | “computer” | | qaritaujaq | | qaritaujaak | | qaritaujait | | |
+
+The three-way distinction between singular, dual, and plural in Inuktitut applies not only to nouns but also to verbs that agree with their noun subjects. The examples in (2) are from the Inuktitut Reference Grammar produced by Inuit Uqausinginnik Taiguusiliuqtiit.
+
+[表格]
+| | | (2) | | first person | | singular | | anijunga | | “I go out” | | | | | | | | dual | | anijuguk | | “the two of us go out” | | | | | | | | plural | | anijugut | | “we (three or more) go out” | | | | | | second person | | singular | | anijutit | | “you (one of you) go out” | | | | | | | | dual | | anijusik | | “you two go out” | | | | | | | | plural | | anijusi | | “you (three or more) go out” | | | | | | third person | | singular | | anijuq | | “they (sg) go out” | | | | | | | | dual | | anijuuk | | “the two of them go out” | | | | | | | | plural | | anijut | | “they (three or more) go out” | | |
+
+A small number of languages go further and also have a trial (pronounced [tri.əl]), usually only on pronouns. This is used for groups of exactly three.
+A language can also have paucal number, used for small groups. Other number distinctions are possible, but these are some of the common ones.
+
+## Person
+
+Person distinctions are those between first person (I, we), second person (you), and third person (he, she, it, they).
+Some languages make a further distinction in the first person plural between a first person inclusive (me + you, and maybe some other people) and a first person exclusive (me + one or more other people, not you). Anishnaabemowin (Ojibwe), which has about 20,000 speakers in the Great Lakes region of North America, makes this kind of distinction. The pronoun niinawind refers to the speaker plus other people, but not the person being addressed (that is, “we excluding you”). This is known as the exclusive we. The pronoun for inclusive we (“we including you”) in Anishinaabemowin is giinawind. The distinction between inclusive and exclusive we is sometimes referred to as clusivity. (Ojibwe examples are drawn from Valentine 2001.)
+In Odawa and Algonquin varieties of Anishinaabemowin, spoken near Lake Huron and in Eastern Ontario and Quebec, these pronouns are niinwi and giinwi, respectively, but make the same contrast in meaning. Cree, which belongs to the same language family as Ojibwe (the Algonquian family), also makes an inclusive/exclusive distinction in the first-person plural. The inclusive form is niyanân and the exclusive form is kiyânaw.
+
+## Case
+
+Case refers to marking on nouns that reflects their grammatical role in the sentence. Most case systems have ways to distinguish the subject from the object of a sentence, as well as special marking for possessors and indirect objects.
+In modern English, case is only marked on pronouns. The case found on subject pronouns is called nominative, the case found on object pronouns (and in most other positions) is called accusative, and the case found on possessors is called genitive (or sometimes just “possessive”). It is also common to have a case found primarily on indirect objects, which is called dative. There is no morphological dative case in English, but French does distinguish dative from accusative on third person pronouns, as you can see in (3) (dative case often translates into English with the preposition to):
+
+[表格]
+| | | (3) | | Je | | le | | leur | | ai | | donné | | | | | | 1SG.NOM | | 3SG.ACC | | 3PL.DAT | | have.1SG.PRES | | given | | | | | | “I gave it to them.” | | |
+
+Some languages have many more case distinctions than this; usually many of the case forms express meanings that in languages like English we express using prepositions. Estonian and Finnish are known for having especially many cases (14 in Estonian and 15 in Finnish): the Wikipedia article on Finnish cases is a good source if you’d like to learn more.
+
+## Agreement
+
+Agreement refers to any inflectional morphology that reflects the properties of a different word in a sentence, usually a noun.
+The most common type of agreement is verbs agreeing with their subject, though verbs in some languages might also agree with their object (or might sometimes agree with their object instead of their subject). Verbs usually agree with nouns for their number and person, but they can agree for other properties as well.
+Determiners, numerals, and adjectives often agree with the noun they modify, usually for some combination of number, case, and gender—assuming a language has some or all of these types of inflection in the first place!
+
+## Tense and Aspect
+
+Tense refers to the contrast between present and past (or sometimes between future and non-future) and is typically marked on verbs.
+Aspect is a bit harder to define, but is usually characterized as the perspective we take on an event: do we describe it as complete, or as ongoing? In English we have progressive (marked with be + –ing) and perfect aspect (have + –ed/-en).
+French has a slightly different contrast in the past tense between the imparfait and the passé composé—these both locate things in the past, but the imparfait describes them as habitual or ongoing (imperfective aspect), while the other describes them as complete (perfective aspect).
+The Mandarin particle le (了) also expresses perfective aspect, describing an event as complete, and zài (在) expresses progressive aspect, describing an event as in progress. But these are not examples of inflectional morphology, because these particles (small words) are separate from the verb and do not act as affixes.
+Terminology for aspectual distinctions can be confusing. In particular, the English “perfect” is not quite the same as the French or Mandarin “perfective”—though just as their names overlap, some of their uses are also similar.
+
+## Negation
+
+In English we have derivational negative morphology (as in the prefixes in- or non-), which negates the meaning of a base or root.
+Inflectional negation, by contrast, makes a whole sentence negative. In English we express inflectional negation syntactically, with either the word not (or its contracted clitic form –n’t). In other languages, however, negation can be expressed by inflectional affixes.
+
+## Other inflectional distinctions
+
+What other types of distinctions can be marked in the verbal inflection of a language? Here we review a non-exhaustive set of inflectional distinctions made in some of the languages of the world.
+OBVIATION: Algonquian languages, including Cree and Anishinaabemowin, make a distinction between proximate and obviative third person. You might think of this distinction as something similar to the near/far distinction between this and that in English, where this is used for something that is closer to the speaker and that is for something farther away. But, like in English, the proximate/obviative distinction is not just about physical distance; it can also allude to distance in time, or within a conversation, to someone that is the topic of discussion (proximate) versus someone that is a secondary character (obviative). The distinction is marked on the verbal morphology, as illustrated below with examples from Cree:
+
+[表格]
+| | | (3) | | | | | proximate | | | | | | obviative | | | | | | | a. | | Regina wîkiwak. | | | | Regina wîkiyiwa. | | | | | | | | “They live in Regina.” | | | | “Their friend/someone else lives in Regina.” | | | | | | a. | | kiskinwahamâkosiwak. | | | | kiskinwahamâkosiyiwa. | | | | | | | | “They are in school.” | | | | “Their friend/someone else is in school.” | | |
+
+CAUSATIVES: A causative is a construction that expresses that an event was caused by an outside actor. In English we have a few constructions that express causativity, using verbs like make, have, and get:
+
+[表格]
+| | | (4) | | a. | | English causative with | make | : | | | | | | | | | | | | The tree fell. | | → | | I made the tree fall. | | | | | | b. | | English causative with | have | : | | | | | | | | | | | | The actors exited stage right. | | → | | The director had the actors exit stage right. | | | | | | c. | | English causative with | get | : | | | | | | | | | | | | The teacher cancelled the exam. | | → | | The students got the teacher to cancel the exam. | | |
+
+When a language has a morphological causative, it expresses these types of meanings by adding a morpheme onto the main verb. For example, in Kinande, a Bantu language spoken in the Democratic Republic of the Congo, the verb erisóma means “to read”, but erisómesya means “to make (someone) read”.
+This is a type of morphology that changes the argument structure of a verb—the pattern of arguments (subjects, objects, indirect objects) that it combines with. Other types of argument changing morphology are applicative or benefactive (to do something to or for someone) and passive. We discuss the syntax of argument changing in Section 6.11, which also gives an example of a morphological causative in Japanese.
+Causative morphology is often classified as derivational, rather than inflectional, because it changes the meaning of a verb. It’s included in this section because it fits into the general discussion of types of morphology you might encounter in the analysis of other languages.
+EVIDENTIALITY: Many languages use morphology to indicate a speaker’s certainty about what they’re saying, or the source of their evidence for what they say. This is called evidential marking.
+For example, in Turkish there is a distinction between the “direct past” marker –di, used to mark things you are certain of or that you directly witnessed, and the “indirect past” –miş, used to mark things you have only indirect evidence for.
+
+[表格]
+| | | (5) | | a. | | gel-di | | | | | | | | come-PAST | | | | | | | | “came” | | | | | | b. | | gel-miş | | | | | | | | come-INDIRECT.PAST | | | | | | | | “came, apparently” | | |
+
+In English we don’t have any grammatical marking of evidentiality. We can still express our evidence or certainty, but we do this with the lexical meanings of nouns, verbs, adjectives, and adverbs. For example, “I saw that…” would express that the source of your evidence is something you saw; “Apparently” would express that you aren’t 100% certain, and so on.
+MODALITY: Many languages express the possibility or necessity of something happening via morphology on the main verb. This is called modality. Examples of this include categories like the conditionnel or the futur in French.
+GENDER: In English we mark gender on third person pronouns, and we also have some words that have derivational gender suffixes (like –ess on actress or waitress).
+By contrast, gender in a language like French is best treated as inflectional. Not only do all nouns have a semantically arbitrary gender, but determiners and adjectives (and sometimes verbs) also show agreement with the grammatical gender of the noun they’re associated with to. For example, the noun chat “cat” in French is masculine (abbreviated M), and so it appears with a masculine determiner and adjective; the noun abeille “bee” is feminine (abbreviated F), so it appears with a feminine determiner and adjective. This is independent of the actual sex of a cat or bee.
+
+[表格]
+| | | (6) | | a. | | le | | petit | | chat | | | | | | | | the.M | | small.M | | cat(M) | | | | | | | | “the small cat” | | | | | | b. | | la | | petite | | abeille | | | | | | | | the.F | | small.F | | bee(F) | | | | | | | | “the small bee” | | |
+
+Many European languages have this type of gender system, which divides nouns into masculine, feminine, and sometimes neuter. It’s also found elsewhere in the world: for example, Kanien’kéha (Mohawk), spoken by about 3,500 people in Ontario, Quebec, and New York, has a gender system that includes masculine, feminine/indefinite, and feminine/neuter.
+Other languages of the world have different noun class or noun classification systems, which also divide nouns into somewhat arbitrary classes, but categories that don’t match the gender categories used for humans.
+For example, the languages in the Bantu family of languages (a subgroup of the Niger-Congo language family spoken across the southern half of Africa, and which includes Kinande, Zulu, and Swahili, among many others) put all humans into one class, but have somewhere between 4 and 10 classes in total, which (just like gender in French) can be reflected by agreement on other words in a sentence.
+Algonquian languages, including Anishinaabemowin, divide nouns into animate and inanimate. Animate nouns are usually those that are alive, whether animals or plants, or some spiritually important things like asemaa (“tobacco”). Inanimate nouns usually refer to physical objects that aren’t alive, like nibi (“water”). Sometimes the same noun can be animate or inanimate with slightly different meanings: for example mitig means “tree” when it’s animate but “stick” when it’s inanimate. There are other nouns that are less predictable: for example, miskomin “raspberry” is animate, but ode’imin “strawberry” is inanimate.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2334#h5p-108
+
+## References
+
+Inuit Uqausinginnik Taiguusiliuqtiit. (2018). Inuktut Uqausiup Aaqqiksuutingit [Inuktut Reference Grammar]. Available at: https://uqausiit.ca/grammar-book
+Piruvik. (2022, August 4). 16. The Dual and 17. The Plural. Inuktut Tusaalanga. https://tusaalanga.ca/index.php/node/1108 and https://tusaalanga.ca/index.php/node/1102
+Valentine, J. Randolph. (2001). Nishnaabemwin Reference Grammar. University of Toronto Press.

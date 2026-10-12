@@ -1,0 +1,29 @@
+# 7.8 Individual- vs. stage-level predicates
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=815#oembed-1
+One interesting aspect of the meaning of adjectives is that it seems to matter whether the state that the adjective points to has a temporal limit or not. That is, is the adjective describing something that can be “on” or “off” with an individual, or does it point to something that is relatively more persistent? Consider (1).
+
+[表格]
+| | | (1) | | a. | | ? | | | When Ash is { tall / Canadian / talented }, I get worried. | | | | | | | b. | | | | | When Ash is { excited / bored / sick }, I get worried. | | | |
+
+The reason that (1a) sounds slightly odd is because predicates like tall, Canadian, and talented are adjectives that generally hold of individuals persistently. The when clause makes the eventuality sound temporary, which is why it sounds odd. These kinds of adjectives are classified as individual-level predicates, because they are true of individuals as a whole. Individual-level predicates give rise to the inference that the predicate will continue to be true of the individual unless otherwise specified (Condoravdi 1992). For example, when you say Ash is tall, hearers infer that Ash is going to continue to be tall, unless otherwise specified.
+The adjectives in (1b) are classified as stage-level predicates. Unlike individual-level predicates, stage-level predicates are only true of individuals during a certain period, or at certain stages (hence the name). It is felicitous to use when phrases with stage-level predicates as in (7b), because it’s possible for someone to be excited, bored, sick, etc. for just a specified interval of time. With stage-level predicates, there is no inference that the eventuality will continue to hold indefinitely. For example, when someone says Ash is bored, you don’t by default assume that Ash will continue to be bored forever.
+In English the copula used for adjectives is the verb be regardless of the kind of adjective it is, as in Ash is tall and Ash is bored. In some languages like Spanish, the form of the copula depends on whether the adjective is an individual-level or stage-level predicate (Luján, 1981; Fernández Leborans, 1999). The two copulas are ser and estar. In (2), ser is inflected as es and estar as está. (2a) shows some examples of Spanish adjectives that can only be used with the copula ser. In (2b) are some Spanish adjectives that can only be used with the copula estar. (2c) shows examples of Spanish adjectives that be used with either ser or estar.
+
+[表格]
+| | | (2) | | a. | | | | Juan | | | {es / *está} | | | | { leal / inmoral / inteligente / odioso }. | | | | | | | | | | | Juan | | {is (ser) / is (estar)} | | | { loyal / immoral / intelligent / hateful }. | | | | | | | | | | | | ‘Juan is { loyal / immoral / intelligent / hateful }.’ | | | | | | | b. | | | | Eva | | {*es / | está | } | | | { contenta / enferma / perpleja / sola }. | | | | | | | | | | | Eva | | {is (ser) / is (estar)} | | | { content / ill / perplexed / alone }. | | | | | | | | | | | | ‘Eva is { content / ill / perplexed / alone }.’ | | | | | | | c. | | | | Tu hermano | | {es / | está | } | | | { alegre / inquieto / nervioso }. | | | | | | | | | | | your brother | | {is (ser) / is (estar)} | | | { happy / restless / nervous }. | | | | | | | | | | | | ‘Your brother is { happy / restless / nervous }.’ | | | |
+
+The adjectives in (2a), compatible with ser, are individual-level predicates. The adjectives in (2b), compatible with estar, are stage-level predicates. The adjectives in (2c) are sometimes called ambivalent predicates that can take on individual-level or stage-level interpretations depending on context (at least in Spanish).
+Conceptually, we can think of stage-level predicates as being bounded: there’s a beginning point and an ending point to them. Individual-level predicates are unbounded: they’re not contained within a certain interval of time. You may remember that boundedness was a conceptual notion that was also used to characterise count vs. mass nouns in the previous section. What we see is an interesting pattern of what concept lexical meaning is sensitive to cross-categorically: whether something has bounds and limits.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=815#h5p-61
+
+## References
+
+Condoravdi, C. (1992). Individual-level predicates in conditional clauses. Talk presented at the Linguistic Society of America.
+Fernández Leborans, M.J. (1995). Las construcciones con el verbo estar: Aspectos sintácticos y semánticos. Verba, 22, 253–284.
+Luján, M. (1981). The Spanish copulas as aspectual indicators. Lingua, 54(2-3), 165-210.
+Marín, R. (2010). Spanish adjectives within bounds. Formal Analyses in Syntax and Semantics, 307-331.

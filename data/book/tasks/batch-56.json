@@ -1,0 +1,25 @@
+{
+ "batch": 56,
+ "chapter": "Chapter 11: Child Language Acquisition",
+ "out": "data/book/gen/batch-56.json",
+ "sections": [
+  {
+   "id": "part-011-chapter-11-child-language-acquisition",
+   "title": "Chapter 11: Child Language Acquisition",
+   "src": "data/book/src/part-011-chapter-11-child-language-acquisition.txt",
+   "chars": 670
+  },
+  {
+   "id": "chapter-128-slug-11-1-tiny-powerful-language-learners",
+   "title": "11.1 Tiny, powerful language learners",
+   "src": "data/book/src/chapter-128-slug-11-1-tiny-powerful-language-learners.txt",
+   "chars": 7743
+  },
+  {
+   "id": "chapter-129-slug-11-2-when-does-language-learning-start",
+   "title": "11.2 When does language learning start?",
+   "src": "data/book/src/chapter-129-slug-11-2-when-does-language-learning-start.txt",
+   "chars": 5418
+  }
+ ]
+}

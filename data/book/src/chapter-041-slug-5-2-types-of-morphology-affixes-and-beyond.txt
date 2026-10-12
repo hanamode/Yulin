@@ -1,0 +1,69 @@
+# 5.2 Roots, bases, and affixes
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2321#oembed-1
+
+## Affixes vs roots
+
+Morphemes can be of different types, and can come in different shapes. Some morphemes are affixes: they can’t stand on their own, and have to attach to something. The morphemes -s (in cats) and inter– and -al (in international) are all affixes.
+The thing an affix attaches to is called a base. Just like whole words, some bases are morphologically simple, while others are morphologically complex.
+For example, consider the word librarian. This word is formed by attaching the affix -ian to the base library.
+We can ignore the fact that ‘y’ turns into an ‘i’ when a suffix attaches to library. There’s a convention of English spelling that ‘y’ becomes ‘i’ before an affix; it doesn’t reflect any change in phonological shape.
+Librarian can then itself be the base for another affix: for example, the word librarianship, the state or role of being a librarian, is formed by attaching the affix -ship to the base librarian.
+There is a special name for simple bases: root. A root is the smallest possible base, which cannot be divided, what we might think of as the core of a word. Roots in English we’ve seen so far in this chapter include cat, library, and nation.
+If you look at the history of the words library and nation, they both trace back to Latin (by way of French), and in Latin the relevant words were morphologically complex: library traces back to the Latin root libr- (meaning “book”), and nation traces back to the Latin root nat- (meaning “be born”). When a child first encounters a word like library or nation, however, the word doesn’t come annotated with this historical information! In the minds of most contemporary English speakers, it is likely that library and nation are treated as simple roots; in Chapter 13, you’ll learn about how this kind of hypothesis could be tested experimentally.
+Turning back to affixes, an affix is any morpheme that needs to attach to a base. We use the term “affix” when we want to refer to all of these together, but we often specify what type of affix we’re talking about. A prefix is an affix that attaches before its base, like inter- in international. A suffix is an affix that follows its base, like -s in cats. A circumfix is an affix that attaches around its base. An infix is an affix that attaches inside its base. A simultaneous affix is an affix that takes place at the same time as its base.
+Prefixes and suffixes are very common, not only in English but also in other languages. Circumfixes, infixes, and simultaneous affixes are less common, and so we’ll look at examples of each in order.
+
+## Circumfix
+
+An example of a circumfix can be found in the marking of plural possessors in many Algonquian languages. The following examples are from Meskwaki, spoken in parts of the Midwest of the US and in Northern Mexico; the source of these examples is Oxford (2020), who adapted them from an in-preparation grammar by Amy Dahlstrom (A grammar of Meskwaki, an Algonquian language). These examples are presented in Meskwaki orthography; “a·” indicates a long vowel.
+
+[表格]
+| | | (2) | | a. | | ne-ta·nes-aki | | | | | | | | 1-daughter-AN.PL | | | | | | | | “my daughters” | | | | (2) | | b. | | | ne | -ta·nes- | ena·n | -aki | | | | | | | | | 1 | -daughter- | 1PL | -AN.PL | | | | | | | | “ | our | daughters” | | |
+
+What you can see here is that the singular possessor in “my daughters” is marked only by a prefix, but the plural possessor in “our daughters” is marked by the combination of the prefix ne- and the suffix -ena·n—or, in other words, by a circumfix.
+
+These examples have morpheme-by-morpheme glosses, which means that the morphological analysis has been done for you; in Section 5.11 we’ll discuss how we figure out the boundaries between morphemes in a language we aren’t already familiar with.
+Glossed examples include at least three lines: the first line gives the example in the original language, usually in either a phonetic transcription or the language’s own orthography. The second line gives the meaning or function of each word or each morpheme (if the words are divided into morphemes). The third line gives a translation of the whole example into the language the author is writing in, which in this textbook is English.
+Morpheme-by-morpheme glosses use standard abbreviations:
+- 1 stands for “first person” (I, me, my / we, us, our)
+- PL stands for “plural” (so 1PL means “we, us, our”)
+- AN stands for “animate”. Algonquian languages distinguish all nouns as “animate” or “inanimate”, and this is reflected in its morphology.
+
+## Infix
+
+Infixes are affixes that appear in the middle of another morpheme. For example, in Tagalog (a language with about 24 million speakers, most of them in the Philippines) the infix -um- appears immediately after the first consonant of the base to which it attaches. This infix expresses perfective aspect for verbs. Perfective aspect indicates completed action, usually translated with the English simple past:
+
+[表格]
+| | | (3) | | a. | | [takbuh] | | | run | | | [tumakbuh] | | | ran | | | | | | | b. | | [lakad] | | | walk | | | [lumakad] | | | walked | | | | | | | c. | | [bili] | | | buy | | | [bumili] | | | bought | | | | | | | d. | | [kain] | | | eat | | | [kumain] | | | ate | | | |
+
+For an affix to be an infix, it must appear inside another morpheme, not just in the middle of a word. If you look at the word unluckiness (un-luck-y-ness), for example, -y is a suffix that just happens to appear in the middle of the word because another suffix (-ness) attaches after it. But -y still isn’t an infix, because it attaches after its base (luck), not inside its base.
+
+## Simultaneous affix
+
+Simultaneous affixes are common in signed languages and in languages with tone. When signing, it’s possible to do things with multiple articulators (a second hand, or your face), or to add motion on top of a sign, in a way that is not possible with oral articulations in spoken languages.
+For example, in ASL there is a morpheme that attaches to verbs to express continuative aspect (the meaning that something happens continuously for a while, or for a long time). This morpheme involves adding a particular circular motion to the base sign for the verb; this circular motion doesn’t happen before or after the verb, but simultaneously with it. You can see the application of this affix in the first and last videos for the verb STUDY in this linked article from the online Handspeak ASL dictionary (Lapiak 1995–2022) (the second video in that post shows the application of a different simultaneous affix, one for iterative aspect).
+There is morphology in some spoken languages that has a similar profile. For example, languages with tone sometimes have tonal morphemes, where a change in tone expresses grammatical information, while the consonants and vowels of the base stay the same.
+English isn’t a tonal language, but we have some pairs of words that clearly involve the same root, but where the stress has shifted. These are noun-verb pairs where the noun has stress on the first syllable, but the verb has stress on the second syllable.
+
+[表格]
+| | | (4) | | a. | | They used to use | ré | cords to re | córd | music. | | | | | | b. | | I have a | pér | mit that per | míts | me to drive. | | | | | | c. | | I receive mail at my home | ádd | ress, at least when it’s add | réssed | properly. | | |
+
+Not all English speakers have stress shift in the same pairs of words. For example, while I pronounce address with stress on the first syllable when it’s a noun, many people pronounce it with stress on the second syllable (addréss) for both the noun and the verb.
+
+## Free and bound morphemes
+
+Another way to divide morphemes is by whether they are free or bound. A free morpheme is one that can occur as a word on its own. For example, cat is a free morpheme. A bound morpheme, by contrast, can only occur in words if it’s accompanied by one or more other morphemes.
+Because affixes by definition need to attach to a base, only roots can be free. In English most roots are free, but we do have a few roots that can’t occur on their own. For example, the root -whelmed, which occurs in overwhelmed and underwhelmed, can’t occur on its own as *whelmed.
+In many other languages, though, all (or most) roots are bound, because they always have to occur with at least some morphology. This is the case for verbs in French and the other Romance languages, for example; it was also the case for Latin, which is why the roots nat- and libr- were shown with hyphens above.
+We show that morphemes are bound by putting hyphens either before or after them, on the side that they attach to other morphemes. This applies to bound roots as well as to affixes.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2321#h5p-103
+
+## References
+
+Lapiak, Jolanta. 1995–2022. Handspeak. https://www.handspeak.com/
+Oxford, William R. 2020. Algonquian. In Routledge handbook of North American languages, ed. Daniel Siddiqi , Michael Barrie, Carrie Gillon, and Éric Mathieu. Routledge.

@@ -1,0 +1,199 @@
+{
+ "batch": 64,
+ "sections": {
+  "chapter-149-in-progress-evidence-for-language-specific-phonology": {
+   "title": {
+    "en": "13.3 Evidence for language-specific phonology",
+    "zh": "13.3 语言特定音系学的证据"
+   },
+   "summary": {
+    "en": "Evidence from behavioural and electrophysiological studies shows that speakers hear speech through the phonology of their native language. English and Bengali both nasalize vowels, but only Bengali makes nasality phonemic, so Bengali listeners reach a word's recognition point later than English listeners. Japanese and French listeners likewise differ on illegal codas.",
+    "zh": "来自行为实验与电生理实验的证据表明，母语音系左右着人们听辨语音的方式。英语和孟加拉语都会使元音鼻化，但只有孟加拉语把鼻化对立当作音位区别，因此孟加拉语听者到达词语识别点的时间晚于英语听者。日本语与法语听者在处理非法韵尾时也表现出差异。"
+   },
+   "points": [
+    {
+     "en": "English nasal vowels are allophones of one phoneme; Bengali has a nasal/oral minimal pair.",
+     "zh": "英语的鼻化元音是同一音位的变体；孟加拉语则存在鼻化/口元音的最小对立对。"
+    },
+    {
+     "en": "English listeners identify ban or bad before the final consonant, using vowel nasality predictively.",
+     "zh": "英语听者在听到末尾辅音之前就能分辨 ban 与 bad，依靠元音鼻化作出预测。"
+    },
+    {
+     "en": "Bengali listeners need more input before recognising a word with a nasal vowel.",
+     "zh": "孟加拉语听者需要更多输入才能识别含鼻化元音的词语。"
+    },
+    {
+     "en": "Japanese phonotactics ban oral codas, so listeners mentally insert a vowel into igmo.",
+     "zh": "日本语的音位配列禁止口辅音作韵尾，听者会在心里给 igmo 增补一个元音。"
+    },
+    {
+     "en": "The Mismatch Negativity response reflected French but not Japanese speakers' sensitivity to the /u/.",
+     "zh": "失匹配负波的脑反应显示只有法语听者察觉 /u/ 的有无，日本语听者则不然。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "nasalization",
+     "zh": "鼻化",
+     "defEn": "A process making a vowel nasal under the influence of a neighbouring nasal consonant.",
+     "defZh": "在相邻鼻辅音的影响下，使元音带上鼻音成分的音系过程。"
+    },
+    {
+     "en": "allophone",
+     "zh": "音位变体",
+     "defEn": "A predictable variant of a phoneme, such as nasalized and oral [æ] in English.",
+     "defZh": "某个音位可预测的变体形式，如英语中鼻化与口元音版本的 [æ]。"
+    },
+    {
+     "en": "minimal pair",
+     "zh": "最小对立对",
+     "defEn": "Two words differing in one sound that nevertheless carry different meanings.",
+     "defZh": "只在一个语音上不同、但意义不同的两个词，用于证明该音位地位。"
+    },
+    {
+     "en": "phonotactics",
+     "zh": "音位配列（语音组合法）",
+     "defEn": "Language-specific restrictions on which sounds may combine in a syllable.",
+     "defZh": "某一语言对音节内音素组合方式的限制规则，如禁止某类韵尾。"
+    },
+    {
+     "en": "epenthesis",
+     "zh": "增音",
+     "defEn": "Insertion of a sound, here a vowel that repairs an illegal syllable coda.",
+     "defZh": "插入一个音（此处为元音）以修补不合法的音节韵尾。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[bæ̃n]",
+     "noteEn": "English ban, where the vowel is nasal because of the following /n/.",
+     "noteZh": "英语 ban 的发音，元音因后面的 /n/ 而鼻化。"
+    },
+    {
+     "text": "/bãd/ (which means ‘dam’) and /bad/ (which means ‘difference’)",
+     "noteEn": "The Bengali minimal pair showing that nasality is phonemic.",
+     "noteZh": "孟加拉语最小对立对，说明鼻化在该语言中具有音位地位。"
+    },
+    {
+     "text": "/ɹipoʊɹt/",
+     "noteEn": "report, used to illustrate how an onset cohort shrinks as more sounds arrive.",
+     "noteZh": "report，用来演示音节首候选集如何随语音输入增加而缩小。"
+    },
+    {
+     "text": "igumo and igmo",
+     "noteEn": "Fake words contrasting legal and illegal codas in Japanese phonotactics.",
+     "noteZh": "两个假词，对比日本语音位配列中合法与不合法的韵尾。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Both English and Bengali nasalize vowels before nasal consonants, yet the status of that nasality differs sharply. In English the oral and nasal versions of a vowel never distinguish words, so they count as allophones of a single phoneme. Bengali instead pairs /bãd/ ‘dam’ with /bad/ ‘difference’, a minimal pair proving that /a/ and /ã/ are separate phonemes stored in the mental grammar.",
+     "zh": "英语和孟加拉语都会在鼻辅音前使元音鼻化，但鼻化在两种语言中的地位截然不同。在英语中，元音的口音与鼻音版本从不对立成词，因此它们只是同一个音位的音位变体。孟加拉语则把表示‘堤坝’的 /bãd/ 与表示‘差别’的 /bad/ 配成最小对立对，证明 /a/ 与 /ã/ 是心理语法中彼此独立的音位。"
+    },
+    {
+     "en": "Marslen-Wilson and Lahiri tested whether this phonological difference shapes spoken word recognition. Because words unfold over time, listeners activate an onset cohort and eliminate candidates as evidence accumulates, until they reach the word's recognition point. Using a gating task, in which progressively longer fragments are played for identification, they found that English listeners could decide between ban and bad before the final consonant arrived, exploiting the vowel's nasality to anticipate it. Bengali listeners, for whom a nasal vowel may precede either a nasal or an oral consonant, required more of the signal and reached a later recognition point.",
+     "zh": "Marslen-Wilson 与 Lahiri 检验了这一音系差异是否会影响口语词汇识别。由于词语随时间展开，听者会激活一个音节首候选集，并随证据增加排除候选，直至到达该词的识别点。他们采用门控任务，把录音切成越来越长的片段让被试辨认，结果发现英语听者在末尾辅音出现之前就能在 ban 与 bad 之间作出判断，利用元音鼻化来预判后接辅音；而孟加拉语听者面对既可接鼻辅音又可接口辅音的鼻化元音，需要更多信号，识别点因而更晚。"
+    },
+    {
+     "en": "A second line of evidence comes from event-related potentials. Dehaene-Lambertz and colleagues presented French and Japanese listeners with fake words such as igumo and igmo. Since /gm/ cannot begin a syllable, igmo would have to be syllabified ig.mo, which French allows but Japanese forbids because oral consonants cannot be codas. When a sequence changed only by the presence or absence of /u/, French listeners judged the final item different and produced a Mismatch Negativity; Japanese listeners largely judged the items the same and showed no such response. The likely explanation is that Japanese listeners mentally repaired the illegal form by inserting a vowel, effectively hearing igumo. Native phonology thus shapes perception itself.",
+     "zh": "第二类证据来自事件相关电位。Dehaene-Lambertz 等人让法语与日本语听者听 igumo、igmo 这样的假词。由于 /gm/ 无法充当音节首，igmo 只能切分为 ig.mo，这在法语中允许，在日本语中却因口辅音不能作韵尾而被禁止。当序列仅在 /u/ 的有无上发生变化时，法语听者判断最后一个词不同，并产生失匹配负波；日本语听者大多认为两者相同，也没有出现该反应。最可能的解释是，日本语听者在心里通过增音修补了非法形式，实际上听到的是 igumo。可见母语音系直接影响知觉本身。"
+    }
+   ]
+  },
+  "chapter-150-slug-13-4-evidence-for-top-down-effects-of-word-knowledge-on-perception": {
+   "title": {
+    "en": "13.4 Evidence for ‘top-down’ effects of word knowledge on perception",
+    "zh": "13.4 词语知识对知觉的‘自上而下’效应的证据"
+   },
+   "summary": {
+    "en": "Categorical perception makes listeners hearing a continuum of Voice Onset Time report either [d] or [t] with a sharp boundary, yet the effect is not phonological knowledge, since infants and chinchillas show it too. Ganong showed that word knowledge biases the judgement: ambiguous stops are heard as the sound that yields a real English word. Such top-down effects show knowledge shaping early perceptual processing.",
+    "zh": "范畴感知使听者在聆听连续的嗓音起始时间时，会在一个清晰边界两侧分别报告 [d] 或 [t]，但该效应并不源于音系知识，因为婴儿和毛丝鼠也表现出同样现象。Ganong 证明词语知识会偏斜判断：歧义的塞音被听成能够构成真实英语单词的那个音。这类自上而下效应表明知识会影响早期的知觉加工。"
+   },
+   "points": [
+    {
+     "en": "Voice Onset Time varies continuously, but listeners hear a sharp [d]/[t] boundary.",
+     "zh": "嗓音起始时间是连续变化的，但听者感知到的是 [d] 与 [t] 之间的清晰边界。"
+    },
+    {
+     "en": "Categorical perception also occurs for non-native contrasts, infants, and non-human animals.",
+     "zh": "范畴感知也出现在非母语对立、婴儿以及非人类动物身上。"
+    },
+    {
+     "en": "Ganong found ambiguous sounds are more often labelled as the member of a real word.",
+     "zh": "Ganong 发现歧义音更容易被归入那个能构成真实单词的类别。"
+    },
+    {
+     "en": "The Ganong effect demonstrates that word knowledge biases which speech sound is heard.",
+     "zh": "Ganong 效应表明词语知识会左右人们实际听到的是哪个语音。"
+    },
+    {
+     "en": "Bottom-up information comes from sensory surfaces; top-down influences come from knowledge.",
+     "zh": "自下而上的信息来自感觉表面；自上而下的影响则来自听者的知识。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Voice Onset Time",
+     "zh": "嗓音起始时间",
+     "defEn": "The interval between the release of a stop closure and the start of voicing.",
+     "defZh": "塞音除阻时刻与后续元音声带振动开始之间的时间间隔。"
+    },
+    {
+     "en": "categorical perception",
+     "zh": "范畴感知",
+     "defEn": "Hearing a continuous acoustic continuum as discrete categories with a sharp boundary.",
+     "defZh": "把连续变化的声学连续统听成边界清晰的离散范畴的现象。"
+    },
+    {
+     "en": "bottom-up information",
+     "zh": "自下而上的信息",
+     "defEn": "Information entering the brain from sensory surfaces such as the inner ear or retina.",
+     "defZh": "经由内耳、视网膜等感觉表面进入大脑的外部信息。"
+    },
+    {
+     "en": "top-down influence",
+     "zh": "自上而下的影响",
+     "defEn": "An effect of the listener's knowledge, such as word knowledge, on perceptual processing.",
+     "defZh": "听者已有知识（如词语知识）对知觉加工过程产生的效应。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[d]",
+     "noteEn": "The voiced stop at the low end of the continuum.",
+     "noteZh": "连续统低端的有声塞音。"
+    },
+    {
+     "text": "[t]",
+     "noteEn": "The voiceless stop at the high end of the continuum.",
+     "noteZh": "连续统高端的清塞音。"
+    },
+    {
+     "text": "dash",
+     "noteEn": "A real English word chosen for one end of the continuum.",
+     "noteZh": "连续统一端所选的真实英语单词。"
+    },
+    {
+     "text": "tash",
+     "noteEn": "A pronounceable but non-existent English word at the other end.",
+     "noteZh": "另一端可发音但并非真实英语单词的形式。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier sections showed that phonological knowledge shapes speech perception. Word knowledge does the same. A useful starting point is categorical perception. The voiced stop [d] and the voiceless stop [t] differ in Voice Onset Time, the lag between the release of the stop closure and the onset of the following vowel. Although this variable is continuous and can take any millisecond value, listeners who hear a series of tokens report one category below a boundary and the other above it, with only a narrow band of uncertainty in between.",
+     "zh": "前文表明音系知识会塑造语音知觉，词语知识同样如此。可以从范畴感知谈起：有声塞音 [d] 与清塞音 [t] 的差别在于嗓音起始时间，即塞音除阻与后续元音开始之间的时间差。尽管这一变量是连续的、可以取任意毫秒值，听者在听一系列刺激时却会在某个边界以下报告同一范畴、在边界以上报告另一范畴，中间只有一条狭窄的不确定地带。"
+    },
+    {
+     "en": "Categorical perception was once taken as evidence for phonology, but that view met counterevidence. The same sharp boundary appears for contrasts absent from a listener's language, for babies whose mental grammars are not yet tuned, and even for non-human animals such as chinchillas, which presumably lack human phonology. Hence the square brackets for [d] and [t] here: the contrast is phonetic rather than phonemic.",
+     "zh": "范畴感知一度被视为音系知识的证据，但这一解释遇到了反证。同样的清晰边界也出现在听者母语中并不存在的对立上，出现在心理语法尚未定型的婴儿身上，甚至出现在毛丝鼠等大概不具备人类音系能力的非人类动物身上。因此本节对 [d] 与 [t] 使用方括号：这里的对立属于语音层面而非音位层面。"
+    },
+    {
+     "en": "Ganong built on these robust findings by embedding the continuum in words. One end of a continuum formed a real English word such as dash, while the other formed a pronounceable non-word such as tash. Listeners were more likely to label a sound near the threshold as the stop that made a genuine word: they heard dash rather than tash, and task rather than dask. This is the Ganong effect. Sensory input arriving from the ears is bottom-up information, and knowledge acting upon it, as word knowledge does here, is a top-down influence. The chapter's examples all show language knowledge at work very early in perception.",
+     "zh": "Ganong 在这些稳固发现的基础上，把连续统嵌入单词之中。连续统的一端构成 dash 这样的真实英语单词，另一端构成 tash 这样可发音但并非单词的形式。结果，听者更倾向于把接近阈值的音归为那个能造出真实单词的塞音：他们听到的是 dash 而非 tash，是 task 而非 dask，这就是 Ganong 效应。来自耳朵的感觉输入是自下而上的信息，而像词语知识这样作用于其上的知识则属于自上而下的影响。本章各例都说明语言知识在知觉的极早阶段就已发挥作用。"
+    }
+   ]
+  }
+ }
+}

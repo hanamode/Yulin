@@ -1,0 +1,9 @@
+# [In progress] Chapter 13: Psycholinguistics and Neurolinguistics
+
+In this chapter, we will explore experiments in psycholinguistics and neurolinguistics that give us information about the way language works in the human mind. We will show how experimental evidence can support the concepts in linguistic theory introduced in the previous chapters.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Describe several important experimental methods in psycholinguistics and neurolinguistics,
+- Support claims from theoretical linguistics using experimental evidence, and
+- Explain why the field of linguistics is viewed as a part of cognitive science.

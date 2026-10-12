@@ -1,0 +1,100 @@
+{
+ "batch": 59,
+ "sections": {
+  "chapter-136-slug-11-9-growing-up-bilingual-or-multilingual": {
+   "title": {"en": "11.9 Growing up bilingual (or multilingual!)", "zh": "11.9 在双语（或多语）环境中成长"},
+   "summary": {
+    "en": "Much of the child language literature studies monolinguals, yet growing up with two or more languages is at least as common worldwide. Because mental grammars are built from input, bilingual children receive less of each language, which can produce slight delays when measured in one language. The evidence shows no harm, possible benefits for executive function, and real value in keeping family connections.",
+    "zh": "儿童语言研究多以单语儿童为对象，但在世界范围内，同时接触两种或更多语言成长同样普遍。由于心理语法由语言输入建构，双语儿童在每种语言上获得的输入量较少，若只用单一语言衡量，发展可能略有延迟。证据表明这并无害处，反而可能有利于执行功能，并能维系与家人的联系。"
+   },
+   "points": [
+    {"en": "Monolingual children are not the global norm; many children grow up with two or more languages around them.", "zh": "单语儿童并非世界范围内的常态，许多儿童在两种或更多语言的环境中成长。"},
+    {"en": "Children build a mental grammar from the input available, so less input in a language means slower development in it.", "zh": "儿童依据可获得的输入建构心理语法，因此某一语言的输入较少，该语言的发展就较慢。"},
+    {"en": "Measured in one language, bilinguals may lag slightly, but their combined vocabulary across both languages is equal or larger.", "zh": "只按一种语言衡量，双语儿童可能略滞后，但两种语言合起来的总词汇量与单语儿童相当甚至更大。"},
+    {"en": "Slight delays are within normal variation and most bilingual children catch up with monolingual peers by about age ten.", "zh": "轻微滞后属于正常个体差异，多数双语儿童到十岁左右便能赶上单语同伴。"},
+    {"en": "Advice to speak only English at home reflects power and privilege and stigma about accents, not evidence about development.", "zh": "要求在家只说英语的建议反映的是权力、特权以及对口音的污名，而非发展方面的证据。"},
+    {"en": "Evidence links bilingualism to executive function advantages and to less racial bias, though the debate continues.", "zh": "有证据将双语与执行功能优势及更少的种族偏见联系起来，但相关争论仍在继续。"}
+   ],
+   "terms": [
+    {"en": "bilingual", "zh": "双语的", "defEn": "Describing a person or environment that involves two languages.", "defZh": "指涉及两种语言的人或语言环境。"},
+    {"en": "monolingual", "zh": "单语的", "defEn": "Describing a child or environment with only one language.", "defZh": "指只使用或只接触一种语言的儿童或环境。"},
+    {"en": "mental grammar", "zh": "心理语法", "defEn": "The unconscious linguistic knowledge a speaker builds from input.", "defZh": "说话者依据输入建构起来的、无意识的语言知识系统。"},
+    {"en": "input", "zh": "输入", "defEn": "The language a child hears or sees in the environment.", "defZh": "儿童在环境中听到或看到的语言材料。"},
+    {"en": "executive function", "zh": "执行功能", "defEn": "Mental processes governing attention and the control of impulses.", "defZh": "支配注意力并控制冲动的心理过程。"}
+   ],
+   "examples": [
+    {"text": "six hours of Language A and six hours of Language B", "noteEn": "The hypothetical bilingual environment, which gives less input in each language.", "noteZh": "假设的双语环境，儿童在两种语言上各获得一半输入。"},
+    {"text": "speak English at home so their child doesn’t get confused", "noteEn": "Advice sometimes given to immigrant parents, based on bias rather than evidence.", "noteZh": "有时给予移民家长的建议，其依据是偏见而非证据。"}
+   ],
+   "body": [
+    {"en": "Most child language research studies children acquiring a single language, yet monolingual children are not the norm worldwide. Growing up with more than one language is just as common: one language at home and another at daycare, different adults speaking different languages, or adults switching among two or three. In Canada and the US, where English has privileged status, bilingualism has often been treated as a disadvantage.", "zh": "多数儿童语言研究考察的是只习得一种语言的儿童，但单语儿童并非世界范围内的常态。在多种语言中成长同样普遍：在家用一种语言、在日托中心用另一种；不同成人说不同语言；或成人交替使用两三种语言。在英语享有特权地位的加拿大和美国，双语常被视为一种劣势。"},
+    {"en": "Because children build a mental grammar from the language they encounter, the quantity of input matters. Picture two children awake twelve hours a day and always exposed to language: the monolingual hears twelve hours of Language A, while the bilingual hears, say, six hours of A and six of B. Measured in one language, a bilingual may therefore have a slightly smaller vocabulary and reach grammatical milestones a little later (Hoff et al., 2011). Across both languages, however, total vocabulary is the same or larger than a monolingual’s at the same age (Hoff et al., 2014).", "zh": "由于儿童依据所接触的语言建构心理语法，输入量十分重要。设想两个孩子每天醒着十二小时且始终接触语言：单语儿童听到十二小时的语言 A，双语儿童则听到比如六小时 A 和六小时 B。若只按一种语言衡量，双语儿童的词汇量可能略小，达到语法里程碑也稍晚（Hoff 等，2011）。但把两种语言合起来，其总词汇量与同龄单语儿童相当甚至更大（Hoff 等，2014）。"},
+    {"en": "Language acquisition is not a race, and a few weeks’ difference is no cause for concern. Children and environments vary widely; some research places the delay within the normal range for monolinguals, and much of it suggests that most bilingual children catch up in both languages by about age ten. Pressure on immigrant families to speak English at home reflects power, privilege and the stigma attached to non-English languages and accents rather than children’s development.", "zh": "语言习得不是比赛，相差几周并不值得担忧。儿童与语言环境的差异很大，有研究认为这种延迟仍在单语儿童的正常变异范围内，也有研究显示多数双语儿童到十岁左右会在两种语言上赶上。要求移民家庭在家说英语的压力，反映的是权力、特权以及加在非英语语言和口音上的污名，而非儿童发展的需要。"},
+    {"en": "The evidence shows no harm and some advantages. Bilinguals tend to score higher on executive function, the processes governing attention and impulse control, perhaps because they constantly suppress one language while using the other, though researchers still debate these effects (Bialystok, 2009; Valian, 2015). Bilingual 14-month-olds remain surprised by uncooperative unfamiliar speech, while monolinguals do not (Colomer & Sebastian-Galles, 2020), and bilingual toddlers show less racial bias (Singh, Quinn, et al., 2020). Most importantly, bilingualism preserves relationships with grandparents.", "zh": "证据表明双语并无害处，反而有一些优势。双语者在执行功能（即支配注意力、抑制冲动的心理过程）上得分往往更高，这或许是因为他们使用一种语言时不断抑制另一种语言，但研究者对这些效应仍有争论（Bialystok，2009；Valian，2015）。14 个月大的双语婴儿面对用陌生语言进行的不合作行为仍会惊讶，单语婴儿则不会（Colomer 与 Sebastian-Galles，2020）；双语幼儿的种族偏见也更少（Singh、Quinn 等，2020）。最重要的是，双语让儿童得以与祖辈保持联系。"}
+   ]
+  },
+  "chapter-137-slug-11-10-language-milestones-in-the-first-two-years": {
+   "title": {"en": "11.10 Language milestones in the first two years", "zh": "11.10 生命头两年的语言里程碑"},
+   "summary": {
+    "en": "This section presents a table of typical language milestones from before birth to age 2;0. It covers hearing fetuses responding to the pregnant parent’s voice, babbling with syllable structure, first words, phoneme categorization, word comprehension, two- and three-word utterances, and the use of syntactic structure to interpret novel words and verbs. The section stresses that children vary immensely and that language learning is not a race.",
+    "zh": "本节以表格列出从出生前到 2;0 的典型语言发展里程碑，包括胎儿对孕母声音的反应、具有音节结构的咿呀语、首批词、音位范畴化、词汇理解、两三个词的语句，以及依据句法结构解读新词和新动词等。本节强调儿童之间差异极大，语言学习不是比赛。"
+   },
+   "points": [
+    {"en": "Before birth, hearing fetuses already respond differently to the pregnant parent’s voice than to other voices.", "zh": "出生前，有听力的胎儿对孕母的声音就已表现出与其他声音不同的反应。"},
+    {"en": "At 0;6 babies notice differences in handshapes or speech segments and begin rhythmic babbling with syllable structure.", "zh": "在 0;6，婴儿能注意到手形或语音音段的差异，并开始发出带音节结构、有节奏的咿呀语。"},
+    {"en": "Sign-acquiring babies produce first words around 0;9, while speech-acquiring babies do so around 1;0.", "zh": "习得手语的婴儿约在 0;9 说出首批词，习得口语的婴儿约在 1;0 说出首批词。"},
+    {"en": "Around 1;0 babies categorize segments into the phoneme categories of the ambient language and understand about ten words.", "zh": "约在 1;0，婴儿能把音段归入周围语言的音位范畴，并理解约十个常用词。"},
+    {"en": "Between 1;2 and 2;0 children use syntactic category, structure and frames to interpret novel words and verbs.", "zh": "在 1;2 到 2;0 之间，儿童利用句法类别、结构和框架来解读新词与新动词。"}
+   ],
+   "terms": [
+    {"en": "milestone", "zh": "里程碑", "defEn": "A typical developmental achievement used to track children’s progress.", "defZh": "用于追踪儿童发展进程的典型发展成就。"},
+    {"en": "babbling", "zh": "咿呀语", "defEn": "Rhythmically produced early vocalizations that have syllable structure.", "defZh": "婴儿早期发出的、具有音节结构且富有节奏的语音。"},
+    {"en": "prosody", "zh": "韵律", "defEn": "The rhythm, stress and intonation patterns of spoken language.", "defZh": "口语中的节奏、重音和语调模式。"},
+    {"en": "ambient language", "zh": "周围语言", "defEn": "The language or languages present in a child’s environment.", "defZh": "儿童所处环境中出现的语言。"},
+    {"en": "syntactic frame", "zh": "句法框架", "defEn": "The sentence structure surrounding a word that helps guide interpretation.", "defZh": "围绕某个词的句子结构，可帮助推断其意义。"}
+   ],
+   "examples": [
+    {"text": "respond differently to pregnant parent’s voice than other voices (hearing fetuses only).", "noteEn": "The earliest milestone in the table, before birth, limited to hearing fetuses.", "noteZh": "表中最早的里程碑，出现在出生前，仅适用于有听力的胎儿。"},
+    {"text": "begin to produce rhythmic babbling with syllable structure.", "noteEn": "Babbling at 0;6 already shows the organization of syllables.", "noteZh": "到 0;6，咿呀语已表现出音节的组织方式。"},
+    {"text": "produce utterances of two or three words.", "noteEn": "At 1;6, early multi-word speech appears alongside comprehension of about 50 words.", "noteZh": "1;6 时出现早期多词语句，同时能理解约五十个词。"},
+    {"text": "interpret meanings for novel verbs depending on syntactic frames.", "noteEn": "At 2;0 children use sentence structure as a clue to verb meaning.", "noteZh": "到 2;0，儿童把句子结构当作推断动词意义的线索。"}
+   ],
+   "body": [
+    {"en": "The table in this section collects some typical language development milestones of the first two years of life. Even before birth, hearing fetuses respond differently to the pregnant parent’s voice than to other voices, and hearing newborns respond differently to the prosody of that spoken language than to another language. By 0;6, sighted infants notice differences in handshapes and hearing infants notice differences in speech segments, and babies begin to produce rhythmic babbling that already has syllable structure.", "zh": "本节表格汇总了生命头两年的一些典型语言发展里程碑。早在出生前，有听力的胎儿对孕母声音的反应就不同于对其他声音的反应；有听力的新生儿对该口语的韵律反应也不同于对另一种语言的反应。到 0;6，视力正常的婴儿能注意到手形差异，有听力的婴儿能注意到语音音段的差异，并开始发出已具备音节结构、富有节奏的咿呀语。"},
+    {"en": "The milestones then move from production to comprehension and to the use of grammar. Sign-acquiring babies produce their first words around 0;9 and speech-acquiring babies around 1;0. At about 1;0 children categorize phonetically different segments into the phoneme categories of the ambient language and understand the meanings of roughly ten common words. Later, at 1;2 they interpret novel words differently depending on syntactic category, at 1;3 they assign compositional meaning depending on syntactic structure, and at 1;6 they produce two- or three-word utterances and understand about 50 words. By 2;0 they interpret novel verbs using syntactic frames and ask questions. The section reminds us that children vary immensely and that nearly every child with appropriate access to other humans using language will develop a mental grammar in due time.", "zh": "这些里程碑随后从产出转向理解，再转向语法的运用。习得手语的婴儿约在 0;9 说出首批词，习得口语的婴儿约在 1;0 说出首批词。约 1;0 时，儿童能把语音上不同的音段归入周围语言的音位范畴，并理解约十个常用词的意义。此后，1;2 时他们会依据句法类别对生词作不同解读，1;3 时依据句法结构赋予组合性意义，1;6 时能说出两三个词的语句并理解约五十个词。到 2;0，他们能借助句法框架解读生疏动词的意义，并会提问。本节提醒我们，儿童之间差异极大，只要能够适当接触使用语言的其他人类，几乎所有儿童都会在适当时候发展出心理语法。"}
+   ]
+  },
+  "chapter-138-slug-11-11-exercise-your-linguistics-skills": {
+   "title": {"en": "11.11 Exercise your linguistics skills", "zh": "11.11 锻炼你的语言学技能"},
+   "summary": {
+    "en": "Three exercises apply the chapter’s ideas. The first asks students to compare children’s unusual uses of words, reported by Bowerman (1988), with adult grammar. The second uses an elicitation experiment by Ambridge et al. (2006) on wh-questions, asking for a tree diagram of the adult form and a comparison with children’s errors. The third asks students to analyse the power structures and biases behind a teacher’s advice that an immigrant family speak English at home.",
+    "zh": "本节三道练习运用本章所学。第一题要求比较 Bowerman（1988）所记录儿童对词语的不寻常用法与成人语法。第二题依据 Ambridge 等（2006）关于 wh-问句的诱发实验，要求为成人的问句画出树形图，并与儿童的错误作比较。第三题要求分析教师建议移民家庭在家说英语这一做法背后的权力结构与偏见。"
+   },
+   "points": [
+    {"en": "Exercise 1 compares a child’s unusual word use with the word’s category in adult grammar.", "zh": "练习一比较儿童不寻常的用词与该词在成人语法中的词类。"},
+    {"en": "Children used nouns like button and cough as verbs, and the adjective comfortable as a verb.", "zh": "儿童把 button、cough 等名词当动词用，把形容词 comfortable 也当动词用。"},
+    {"en": "Exercise 2 examines wh-question errors: missing inversion and a doubled auxiliary.", "zh": "练习二考察 wh-问句错误：缺少主谓倒装，以及助动词重复。"},
+    {"en": "Exercise 3 asks what power structures and biases shape advice to drop a home language.", "zh": "练习三追问：是什么样的权力结构与偏见塑造了放弃家庭语言的建议。"},
+    {"en": "Students should draw a tree diagram of the adult question and compare it with the children’s errors.", "zh": "学生应为成人的问句画出树形图，并与儿童错误句作比较。"}
+   ],
+   "terms": [
+    {"en": "elicitation experiment", "zh": "诱发实验", "defEn": "A task designed to prompt children to produce a particular structure.", "defZh": "旨在引导儿童产出特定结构的实验任务。"},
+    {"en": "wh-question", "zh": "wh-问句", "defEn": "A question formed with a wh-word such as what or who.", "defZh": "用 what、who 等 wh-词构成的问句。"},
+    {"en": "inversion", "zh": "倒装", "defEn": "The placement of the auxiliary before the subject in questions.", "defZh": "问句中把助动词置于主语之前的操作。"},
+    {"en": "tree diagram", "zh": "树形图", "defEn": "A branching representation of the syntactic structure of a sentence.", "defZh": "用分支方式表示句子句法结构的图形。"},
+    {"en": "subcategory", "zh": "次类", "defEn": "A narrower class within a lexical category, such as transitive verb.", "defZh": "词类内部更细的分类，如及物动词。"}
+   ],
+   "examples": [
+    {"text": "Button me the rest.", "noteEn": "The child uses a noun where adult grammar requires a verb.", "noteZh": "儿童把名词用在成人语法要求动词的位置上。"},
+    {"text": "They just cough me.", "noteEn": "Another noun used verbally, showing an unusual subcategory.", "noteZh": "又一名词被当动词使用，显示出异常的次类。"},
+    {"text": "I want to comfortable you.", "noteEn": "The adjective comfortable appears in a verb position.", "noteZh": "形容词 comfortable 出现在动词的位置上。"},
+    {"text": "What they are drinking?", "noteEn": "A child wh-question lacking the required subject-auxiliary inversion.", "noteZh": "儿童 wh-问句中缺少必需的主语—助动词倒装。"}
+   ],
+   "body": [
+    {"en": "The first exercise presents utterances by young children reported by Bowerman (1988) and asks the student to describe each bolded word’s category or subcategory in adult grammar, then compare the child’s use with it. The child says Button me the rest, They just cough me, and I want to comfortable you. In each case the word is used in a way that is unusual relative to adult English grammar, so the task is to work out what category the word belongs to for adults and how the child’s grammar differs.", "zh": "第一题给出 Bowerman（1988）记录的幼儿话语，要求学生说明每个黑体词在成人语法中的词类或次类，再比较儿童的用法与之有何不同。儿童说的话包括 Button me the rest、They just cough me 和 I want to comfortable you。这些词的使用方式相对于成人英语语法都不寻常，因此任务是弄清这些词在成人语法中属于什么词类，以及儿童的语法有何差异。"},
+    {"en": "The second exercise draws on an elicitation experiment by Ambridge et al. (2006) on preschool children’s production of wh-questions. The researcher tells the child that Mickey and Minnie are drinking something, says I wonder what they are drinking, and then asks the child to ask the dog what they are drinking. Children often answer with an adult-like What are they drinking?, but sometimes produce errors such as What they are drinking? or What are they are drinking?. Students must draw a tree diagram for the adult question and compare the children’s grammars with it, using the errors as evidence of how those grammars differ.", "zh": "第二题取材于 Ambridge 等（2006）关于学前儿童 wh-问句产出的诱发实验。研究者先告诉儿童 Mickey and Minnie are drinking something，接着说 I wonder what they are drinking，然后让儿童去问小狗它们在喝什么。儿童常给出与成人相近的 What are they drinking?，但有时也会说出 What they are drinking? 或 What are they are drinking? 这类错误。学生需为成人的问句画出树形图，并以这些错误为证据，比较儿童语法与成人语法的差异。"},
+    {"en": "The third exercise is a scenario for reflection rather than data analysis. A cousin’s child starts kindergarten at age 3;10, having spent half-days in an English-language daycare and the rest of the time at home with parents and grandparents who mostly speak Farsi. At the first parent-teacher interview the teacher says the child is behind on some typical milestones and advises the parents to speak English at home. Students are asked what power structures are at play in that advice, what biases the teacher holds, and what advice they could give their cousin, informed by what they know about language acquisition and about power and privilege.", "zh": "第三题是一个用于反思而非数据分析的情境。表亲的孩子 3;10 开始上幼儿园，此前半天在英语日托中心度过，其余时间在家与父母和祖父母相处，家中成人大多说波斯语。第一次家长会上，教师指出孩子在某些典型里程碑上落后于其他儿童，并建议家长在家说英语。题目要求学生思考：这一建议背后有哪些权力结构在起作用，教师持有什么偏见，以及依据语言习得、权力与特权的知识，他们可以给表亲提出什么建议。"}
+   ]
+  }
+ }
+}

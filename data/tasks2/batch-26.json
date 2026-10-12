@@ -1,0 +1,24 @@
+{
+ "batch": 26,
+ "out": "data/gen2/batch-26.json",
+ "entries": [
+  {
+   "id": "part-of-speech-tagging",
+   "title": "词性标注",
+   "en": "Part-of-Speech Tagging",
+   "category": "concepts"
+  },
+  {
+   "id": "diglossia",
+   "title": "双言制",
+   "en": "Diglossia",
+   "category": "concepts"
+  },
+  {
+   "id": "sign-language",
+   "title": "手语",
+   "en": "Sign Language",
+   "category": "concepts"
+  }
+ ]
+}

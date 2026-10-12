@@ -1,0 +1,337 @@
+{
+ "batch": 8,
+ "sections": {
+  "chapter-006-slug-1-6-doing-good-with-language-science": {
+   "title": {
+    "en": "1.6 Doing good with language science",
+    "zh": "1.6 用语言科学做有益的事"
+   },
+   "summary": {
+    "en": "Besides acknowledging the harms that linguistics has caused, the book asks how the tools of language science can be used to do good. Linguistics training prepares people for work in technology, in language-learning apps, in Indigenous language revitalization, in language teaching and in speech-language pathology. Linguists are also paid to interpret contracts, study how customers understand products, identify authors, name medications and create languages for film and television.",
+    "zh": "除了承认语言学曾造成的伤害，本节更关心如何用语言科学的工具去做一些有益的事。语言学的训练可以为技术行业、语言学习应用、原住民语言复兴、语言教学和言语病理学等领域做准备。语言学家还被雇来解读合同与政策、研究顾客如何理解产品、鉴定作者身份、为新药命名，并为影视作品创造全新的语言。语言无处不在，理解语言也是理解人的一部分。"
+   },
+   "points": [
+    {
+     "en": "Linguistics skills improve software for summarizing texts, translating, synthesizing speech and recognizing speech.",
+     "zh": "语言学的技能可用于改进文本摘要、翻译、语音合成与语音识别等软件。"
+    },
+    {
+     "en": "Speech recognition handles standardized American English and lower voices better than higher voices and other accents.",
+     "zh": "语音识别对标准美式英语和较低嗓音的准确率较高，对较高嗓音和其他口音则差得多。"
+    },
+    {
+     "en": "Linguists design language-learning apps, and metalinguistic awareness from linguistics can enhance language learning.",
+     "zh": "语言学家参与设计语言学习应用，而语言学带来的元语言意识也能促进语言学习。"
+    },
+    {
+     "en": "Linguistic analysis supports Indigenous communities reclaiming or revitalizing their languages, following community leadership.",
+     "zh": "语言分析可支持原住民社群收回或振兴本族语言，但应以社群成员的引导为准。"
+    },
+    {
+     "en": "Linguistics is a good entry point to ESL teaching certification and to clinical careers in speech-language pathology.",
+     "zh": "语言学是取得 ESL 教学资格的良好起点，也是进入言语病理学临床职业的途径。"
+    },
+    {
+     "en": "Linguists are paid to interpret contracts, identify authors, name medications and invent languages for film and TV.",
+     "zh": "语言学家可受雇解读合同、鉴定作者身份、为新药命名，并为影视作品创造语言。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "metalinguistic awareness",
+     "zh": "元语言意识",
+     "defEn": "Awareness of language itself as a system, which can support learning another language.",
+     "defZh": "把语言本身当作系统来审视的意识，有助于学习和教授另一种语言。"
+    },
+    {
+     "en": "speech synthesis",
+     "zh": "语音合成",
+     "defEn": "Technology that produces natural-sounding spoken output for voice assistants and GPS devices.",
+     "defZh": "为语音助手、导航等设备生成听上去自然的语音输出的技术。"
+    },
+    {
+     "en": "speech recognition",
+     "zh": "语音识别",
+     "defEn": "Technology that converts a person's speech into text or commands for a system.",
+     "defZh": "把人的话语转换为文本或系统指令的技术，其准确率会因口音和嗓音而异。"
+    },
+    {
+     "en": "speech-language pathology",
+     "zh": "言语病理学",
+     "defEn": "A clinical field that assesses and treats impairments in producing or understanding language.",
+     "defZh": "评估并治疗语言产出或理解障碍的临床领域，如脑损伤后的言语治疗。"
+    },
+    {
+     "en": "Indigenous language",
+     "zh": "原住民语言",
+     "defEn": "A language of an Indigenous people, often the target of reclaiming or revitalization efforts.",
+     "defZh": "原住民群体所使用的语言，常成为收回、复兴或振兴努力的对象。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "That owl that scolds you if you skip your daily Esperanto practice was designed by linguists!",
+     "noteEn": "Example of linguists designing the language-learning apps that many learners use.",
+     "noteZh": "语言学家参与设计语言学习应用的例子，许多人正是通过这类应用学习语言。"
+    },
+    {
+     "text": "speech therapy can sometimes recover some of that function",
+     "noteEn": "Illustration of how evidence from language science informs clinical treatment after brain injury.",
+     "noteZh": "说明语言科学的证据如何为脑损伤后的临床治疗提供依据。"
+    },
+    {
+     "text": "identifying the author of a disputed document",
+     "noteEn": "One of the paid consulting activities that linguists the author knows have undertaken.",
+     "noteZh": "作者所认识的语言学家受雇承担的咨询工作之一，属于司法语言学的应用。"
+    },
+    {
+     "text": "creating entirely new languages for film and TV series",
+     "noteEn": "Another industry use of linguistics training listed at the end of the section.",
+     "noteZh": "本节末尾列出的另一项产业应用：为电影和电视剧创造全新的语言。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Linguistics, like many fields of academic inquiry, has done harm, and the previous section acknowledged that. Acknowledging those harms is only part of our responsibility. This book focuses on how the tools of language science can address some of them and do good in the world, and on what a background in linguistics can prepare you to do.",
+     "zh": "语言学像许多学术领域一样曾经造成伤害，上一节对此已作承认。但承认伤害只是责任的一部分。本书关注的是如何运用语言科学的工具去回应其中一些问题并在世界上做一些有益的事，同时也思考语言学的训练能让你从事什么。"
+    },
+    {
+     "en": "In the tech sector, linguists improve software that summarizes texts, translates between languages, synthesizes natural-sounding speech for voice assistants and GPS, and helps those assistants understand speech. As the author notes, speech recognition does an okay job on standardized American English accents, especially lower voices, but is much less accurate for higher voices and for the many accents speakers actually use. Linguists also design language-learning apps, and the metalinguistic awareness gained from studying linguistics can enhance language learning.",
+     "zh": "在技术行业，语言学家改进文本摘要、跨语言翻译、为语音助手和导航合成自然语音，以及让语音助手听懂人话的软件。正如作者所说，语音识别对标准美式英语口音的处理尚可，对较低沉的嗓音尤其如此，但对较高的嗓音以及说话人实际使用的众多口音则准确度差得多。语言学家还参与设计语言学习应用，而学习语言学所获得的元语言意识也能促进语言学习。"
+    },
+    {
+     "en": "Linguistics also supports Indigenous people who want to reclaim, revive or revitalize their languages, because analysis of these grammars helps create teaching materials and support adult learners who did not learn the language as children. Speaking as a settler, the author stresses following the lead of Indigenous community members rather than positioning oneself as the expert who saves the language. Linguistics training is likewise useful for language teaching and is a common entry point into ESL certification or into a clinical career in speech-language pathology, where language science informs treatment after brain injury or during a voice transition.",
+     "zh": "语言学还支持希望收回、复兴或振兴本族语言的原住民群体：对这些语法的分析有助于编写教学材料，帮助幼年没有机会学习本族语言的成年学习者。作者以定居者的身份强调，应追随原住民社群成员的引导，而不是把自己摆成拯救语言的专家。语言学的训练同样有益于语言教学，通常是取得 ESL 教师资格的切入点，也是进入言语病理学临床职业的常见途径；在那里，语言科学的证据指导着脑损伤后或声音转变过程中的治疗。"
+    },
+    {
+     "en": "Linguists are called on in many other industries as well: testifying in court about the interpretation of contracts and policies, interpreting how customers understand the products they use, identifying the author of a disputed document, consulting on potential brand names for new medications, and creating entirely new languages for film and television. Language is everywhere and fundamental to how humans interact, so understanding how language works is part of understanding people.",
+     "zh": "语言学家的技能还被许多其他行业需要：在法庭上就合同与政策的解释作证、解读顾客如何理解他们使用的产品、鉴定争议文件的作者、为新药的品牌名称提供咨询，以及为电影和电视剧创造全新的语言。语言无处不在，是人类互动的基础，因此理解语言如何运作，也是理解人的一部分。"
+    }
+   ]
+  },
+  "chapter-007-slug-1-7-do-chatbots-have-language": {
+   "title": {
+    "en": "1.7 Do ChatBots have Language?",
+    "zh": "1.7 聊天机器人有语言吗？"
+   },
+   "summary": {
+    "en": "Human language is generative because speakers share a mental grammar and can always produce and understand new words and sentences. Large language models are only combinatorial: they calculate which pieces of language are likely to be related, based on a huge corpus of existing text, often scraped from copyrighted sources without consent. An LLM has no mind and no mental representation, so it cannot intend to communicate; any meaning in its output is meaning that human readers attribute to it.",
+    "zh": "人类语言具有生成性，因为说话人共享一套心理语法，能够不断产出并理解新的词句。大语言模型则只是组合性的：它依据一个庞大的既有文本语料库，计算哪些语言片段可能彼此相关，而这些语料常常未经作者同意就从受版权保护的材料中抓取。大语言模型没有心智，也就没有心理表征，无法有意图地传达信息；其输出中的意义只是人类读者赋予它的意义。"
+   },
+   "points": [
+    {
+     "en": "Human language is generative: speakers use a shared mental grammar to produce and understand endless new words and sentences.",
+     "zh": "人类语言具有生成性：说话人凭共享的心理语法不断产出并理解无穷的新词新句。"
+    },
+    {
+     "en": "The label artificial intelligence is vague and covers systems that decide, classify, recommend, translate and generate text or images.",
+     "zh": "「人工智能」这个标签很含糊，涵盖做决定、分类、推荐、翻译以及生成文本或图像的系统。"
+    },
+    {
+     "en": "A Large Language Model calculates the probability that given pieces of language are related, having been trained on a huge corpus.",
+     "zh": "大语言模型计算给定语言片段之间相关的概率，其训练依赖一个庞大的语料库。"
+    },
+    {
+     "en": "The most popular commercial LLMs scrape millions of copyrighted sources whose authors have not consented to that use.",
+     "zh": "最流行的商业大语言模型从数百万受版权保护的来源抓取文本，作者从未同意这种使用方式。"
+    },
+    {
+     "en": "A prompt about foraged mushrooms yields recipes only because cooking words co-occur with mushroom in the training data.",
+     "zh": "关于采摘蘑菇的提示会生成食谱，只是因为训练数据中烹饪类词语与 mushroom 经常共同出现。"
+    },
+    {
+     "en": "Humans cannot help interpreting output, as with pareidolia, but an LLM has no intention and no shared understanding.",
+     "zh": "人总会不由自主地解读输出，就像空想性错视；而大语言模型没有意图，也没有共同的理解。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "generativity",
+     "zh": "生成性",
+     "defEn": "The property of human language that lets users always do new things with it.",
+     "defZh": "人类语言的属性，使使用者总能用它做新的事，不断产出并理解从未见过的话语。"
+    },
+    {
+     "en": "Large Language Model (LLM)",
+     "zh": "大语言模型",
+     "defEn": "A program that calculates the probability that given pieces of language are related to each other.",
+     "defZh": "一种通过海量文本训练、计算给定语言片段之间相关概率的程序。"
+    },
+    {
+     "en": "corpus",
+     "zh": "语料库",
+     "defEn": "A large body of texts used as the data for training or analysis.",
+     "defZh": "为训练或分析而汇集的大量文本，大语言模型据此计算词语共现的概率。"
+    },
+    {
+     "en": "mental representation",
+     "zh": "心理表征",
+     "defEn": "The conceptual knowledge of meaning that a language user holds in mind.",
+     "defZh": "语言使用者头脑中持有的关于意义的概念性知识，兼含事实知识与身体经验。"
+    },
+    {
+     "en": "pareidolia",
+     "zh": "空想性错视",
+     "defEn": "The tendency to interpret anything even vaguely face-shaped as a face.",
+     "defZh": "把任何略像人脸的形状都看成一张脸的倾向，用以说明人会不由自主地赋予意义。"
+    },
+    {
+     "en": "prompt",
+     "zh": "提示词",
+     "defEn": "Text that a user types into a chatbot in order to obtain a response.",
+     "defZh": "用户输入聊天机器人以获取回复的文本，如请它推荐一个用采摘蘑菇做的食谱。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "suggest a recipe that uses foraged mushrooms",
+     "noteEn": "The prompt used to show that an LLM predicts rather than knows anything.",
+     "noteZh": "用于说明大语言模型只是在预测、而非真正「知道」什么的提示词。"
+    },
+    {
+     "text": "users who listened to these songs also like these other artists",
+     "noteEn": "An example of an AI recommendation system listed early in the section.",
+     "noteZh": "本节开头所列人工智能推荐系统的例子，依据用户行为向用户推荐其他歌手。"
+    },
+    {
+     "text": "it's not surprising that LLMs have a problem with the truth. Their goal is to provide a normal-seeming response to a prompt, not to convey information that is helpful to their interlocutor",
+     "noteEn": "The conclusion Hicks and his colleagues reach about LLMs and truth.",
+     "noteZh": "Hicks 及其同事关于大语言模型与真相的结论：其目标是回复看似正常，而非传达有用信息。"
+    },
+    {
+     "text": "ChatGPT is bullshit",
+     "noteEn": "The blunt title of the Hicks et al. paper cited in this section.",
+     "noteZh": "本节所引 Hicks 等人论文的标题，措辞直白，概括了他们对该模型的判断。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Previous sections showed that generativity is a key attribute of human grammar: you have an idea, generate a signal with your voice or hands, and your friend interprets it because you share a mental grammar. Lately, though, generative appears in the phrase generative AI, and it can feel as though ChatGPT, Claude and Gemini are generating human language. Bender and Hanna point out that artificial intelligence is a vague label covering computerized tasks that once relied on human judgment: deciding, classifying, recommending, translating and generating text.",
+     "zh": "前几节说明，生成性是人类语法的关键属性：你有一个想法，用声音或双手生成信号，朋友因为与你共享心理语法而能解读它。近来 generative 又出现在「生成式人工智能」中，让人感觉 ChatGPT、Claude 和 Gemini 真的在生成人类语言。Bender 和 Hanna 指出，「人工智能」是个含糊的标签，涵盖许多过去依赖人类判断的计算机任务：做决定、分类、推荐、翻译以及生成文本。"
+    },
+    {
+     "en": "Text generation relies on Large Language Models, which calculate the probability that given pieces of language are related to each other, having been trained on a huge corpus of existing text. Some LLMs use open-source training data, but the most popular commercial ones scrape text from millions of copyrighted sources whose authors have not consented to that use.",
+     "zh": "文本生成依赖大语言模型，即在海量既有文本语料库上训练、计算给定语言片段之间相关概率的程序。有些模型使用开源训练数据，但最流行的商业模型却从数百万受版权保护的来源抓取文本，作者从未同意这种使用方式。"
+    },
+    {
+     "en": "When you use language, you hold a conceptual representation of your message, including factual and embodied knowledge. An LLM has no mind, so it has no mental representation; prompted to suggest a recipe that uses foraged mushrooms, it predicts from its training data, where eggs, cheese and onions have a higher-probability relationship to mushroom than icing or sprinkles. That is not because the model knows mushroom cupcakes would be disgusting. Reading the response, you cannot help interpreting it, much as pareidolia makes us see a face in anything vaguely face-shaped.",
+     "zh": "你使用语言时，头脑中持有关于所传达意义的概念表征，兼含事实知识与身体经验。大语言模型没有心智，也就没有心理表征；当你提示它推荐一个用采摘蘑菇做的食谱，它只是根据训练数据预测——在数据中，eggs、cheese、onions 与 mushroom 的概率关系高于 icing、sprinkles。这并不是因为模型「知道」蘑菇纸杯蛋糕会很难吃。读到输出时，你仍会不由自主地解读它，就像空想性错视让我们在模糊形状中看到人脸。"
+    },
+    {
+     "en": "That is quite different from talking with your housemate about dinner, where you share a goal and an understanding. Hicks and his colleagues put it bluntly: an LLM aims to give a normal-seeming response, not to convey information helpful to its interlocutor. Human language is generative, systematic and shared; LLMs are merely combinatorial, combining words into likely sequences. So when you meet generative AI, ask what generative and intelligence mean, and remember that artificial is the most accurate part of the term.",
+     "zh": "这与和室友讨论晚饭吃什么截然不同：你们有共同的目标和共同的理解。Hicks 及其同事说得很直白：大语言模型追求对提示给出看似正常的回复，而不是向对话者传达有用信息。人类语言具有生成性、系统性，并在人与人之间共享；大语言模型只是组合性的，把词拼成可能出现的序列。所以遇到「生成式人工智能」时，不妨追问 generative 与 intelligence 究竟指什么，并记住 artificial 才是这个说法中最准确的部分。"
+    }
+   ]
+  },
+  "chapter-008-slug-1-8-how-do-chatbots-synthesize-sentences": {
+   "title": {
+    "en": "1.8 How do ChatBots Synthesize Sentences?",
+    "zh": "1.8 聊天机器人如何合成句子？"
+   },
+   "summary": {
+    "en": "This section explains how large language models synthesize realistic-looking sentences. The logic goes back to Shannon's work, inspired by Markov, and to the notion of an n-gram: a sequence of items occurring in a given order in a corpus. Bigram and trigram probabilities show how likely one token is given the preceding ones. Real LLMs, however, use neural networks, and their outputs are further shaped by reinforcement learning from human feedback.",
+    "zh": "本节说明大语言模型如何合成看似真实的句子。其逻辑可追溯到 Shannon 受 Markov 启发的工作，以及 n 元组的概念：在一个语料库中按特定顺序出现的条目序列。二元组与三元组的概率说明在给定前面若干词元时，下一个词元出现的可能性。不过真正的大语言模型使用神经网络，其输出还受到「基于人类反馈的强化学习」的调整。"
+   },
+   "points": [
+    {
+     "en": "An n-gram is a sequence of items occurring in a given order in a given corpus; a bigram has two items.",
+     "zh": "n 元组是在特定语料库中按特定顺序出现的条目序列，二元组包含两个条目。"
+    },
+    {
+     "en": "In English text Q is followed by U about 99% of the time, while E can be followed by any letter.",
+     "zh": "在英语文本中，Q 之后约 99% 的情况是 U，而 E 之后可以接任何字母。"
+    },
+    {
+     "en": "Inside an LLM the items are tokens, usually words, morphemes or punctuation marks rather than single letters.",
+     "zh": "在大语言模型内部，这些条目是词元，通常是词、语素或标点，而不是单个字母。"
+    },
+    {
+     "en": "After the trigram proud of, the next token is likely to be you, but a proper name lowers that probability.",
+     "zh": "在三元组 proud of 之后，下一个词元很可能是 you，但换成专有名词会降低该序列的概率。"
+    },
+    {
+     "en": "LLMs do not actually use n-grams; they use neural networks whose weighted perceptrons link inputs to outputs.",
+     "zh": "大语言模型实际并不使用 n 元组，而是使用由带权重的感知机连接输入与输出的神经网络。"
+    },
+    {
+     "en": "Reinforcement learning from human feedback lets underpaid workers shape outputs, at a serious cost to their mental health.",
+     "zh": "基于人类反馈的强化学习让低薪工人参与塑造输出，却以他们的心理健康为沉重代价。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "n-gram",
+     "zh": "n 元组",
+     "defEn": "A sequence of items that occur in a given order in a given corpus.",
+     "defZh": "在特定语料库中按特定顺序出现的条目序列，其概率由该序列出现的频率算出。"
+    },
+    {
+     "en": "bigram",
+     "zh": "二元组",
+     "defEn": "Two items, such as two letters or two words, that occur together in a corpus.",
+     "defZh": "在语料库中共同出现的两个条目，例如相邻的两个字母或两个词。"
+    },
+    {
+     "en": "token",
+     "zh": "词元",
+     "defEn": "A unit that an LLM treats as an item, such as a word, morpheme or punctuation mark.",
+     "defZh": "大语言模型处理的基本单位，可能是词、语素或标点符号，而不一定是字母。"
+    },
+    {
+     "en": "perceptron",
+     "zh": "感知机",
+     "defEn": "A mathematical function that takes multiple inputs and calculates a value to output.",
+     "defZh": "接受多个输入并据此计算输出数值的数学函数，是神经网络的组成单元。"
+    },
+    {
+     "en": "neural network",
+     "zh": "神经网络",
+     "defEn": "A connected network of perceptrons whose weighted links carry influence from one to the next.",
+     "defZh": "由感知机相互连接而成的网络，各连接的权重表示一个单元对下一个单元的影响强度。"
+    },
+    {
+     "en": "reinforcement learning from human feedback",
+     "zh": "基于人类反馈的强化学习",
+     "defEn": "Training in which human workers rate outputs and their ratings are fed back into the model.",
+     "defZh": "由人工评分员对模型输出评分并加标签，再把评分反馈回模型以调整其行为的训练方式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "This cake is ___",
+     "noteEn": "A context for which the model gives high probability to delicious, moist or chocolatey.",
+     "noteZh": "在此语境中，delicious、moist 等词概率高，crunchy 等词概率低。"
+    },
+    {
+     "text": "Do you want me to give you a full step-by-step baked mac & cheese recipe?",
+     "noteEn": "A sentence Copilot synthesized after the author's prompt about baking mac and cheese.",
+     "noteZh": "作者询问烤通心粉奶酪后，Copilot 合成的一句话，用 I 和 you 使输出像对话。"
+    },
+    {
+     "text": "how long do I bake nana’s mac & cheese for",
+     "noteEn": "The example of texting your mom, compared with prompting a chatbot the same question.",
+     "noteZh": "给妈妈发短信的示例，用来说明与向聊天机器人提出同一个问题时的相似感受。"
+    },
+    {
+     "text": "You have to spend your whole day looking at dead bodies and crime scenes. Mental health support was not provided",
+     "noteEn": "A data labeller describing the trauma behind reinforcement learning work.",
+     "noteZh": "一位数据标注员描述强化学习背后劳动的创伤，出自 Kanyugi 被引用的陈述。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This section digs into the word-combining process: how do LLMs synthesize realistic sentences? It considers only written text. The logic goes back to Shannon's work, inspired by Markov, and to the n-gram: a sequence of items occurring in a given order in a corpus. In a corpus of English text, Q is followed by U about 99% of the time and by any other letter less than 1%, making QU a high-probability bigram. E is far more frequent and can be followed by any letter at all. Bigram probabilities tell us how likely Thing 2 is, given that Thing 1 has just happened.",
+     "zh": "本节深入探讨这种组词过程：大语言模型究竟如何合成看似真实的句子？这里只讨论书面文本。其逻辑可追溯到受 Markov 启发的 Shannon 的工作，以及 n 元组的概念：在一个语料库中按特定顺序出现的条目序列。在英语文本语料库中，Q 之后约 99% 的情况是 U，其他字母不到 1%，因此 QU 是一个高概率二元组。E 常见得多，后面可以接任何字母。二元组概率告诉我们的是：在条目一刚刚出现的情况下，条目二有多可能。"
+    },
+    {
+     "en": "Inside an LLM, those things are tokens, and a token is more likely to be a word, a morpheme or a punctuation mark than a letter. With word tokens we calculate trigrams, the probability of Token 3 given that Tokens 1 and 2 have just occurred; after proud of, the next token is pretty likely to be you. An n-gram extends the same logic to N items, but exact probabilities over billions of texts become unwieldy, so LLMs use neural networks: composites of perceptrons whose weighted connections set the strength of influence between units. Those weights make delicious, moist or chocolatey likely after This cake is.",
+     "zh": "在大语言模型内部，这些条目称为词元，它更可能是词、语素或标点符号，而不是字母。以词为词元时，可以计算三元组，即在词元一和词元二出现后词元三的概率；proud of 之后很可能是 you。n 元组把同样的逻辑扩展到 N 个条目，但在数十亿文本上计算精确概率很快会变得难以处理，所以大语言模型改用神经网络：由感知机构成的复合体，各连接的权重决定单元之间影响的强弱。这些权重让模型判断 This cake is 后面很可能是 delicious、moist 或 chocolatey。"
+    },
+    {
+     "en": "Once trained, a model synthesizes text token by token, choosing from many high-probability words rather than always the single likeliest one, so its outputs vary. Creators also add safety filters or guardrails and refine the model with reinforcement learning from human feedback: workers rate and tag outputs, and their ratings feed back into the model. Those workers are often severely underpaid and must view horrific content; one data labeller reported spending whole days looking at dead bodies and crime scenes without mental health support. Released chatbots use I and you to feel like conversation, but a conversation involves shared intentions and understanding, which a chatbot lacks.",
+     "zh": "模型训练完成后逐个词元地合成文本，并且不总选概率最高的那个，而是在许多高概率词中挑选，因此输出会有变化。创作者还会加入安全过滤器或护栏，并用「基于人类反馈的强化学习」改进模型：工人为输出评分并加标签，评分再反馈回模型。这些工人往往报酬极低，还必须观看可怕的内容；一位数据标注员说，自己整天都在看尸体和犯罪现场，却得不到心理健康支持。模型发布后会用 I 和 you 让输出像对话，但真正的对话包含共同意图与相互理解，而聊天机器人并不具备这些。"
+    }
+   ]
+  }
+ }
+}

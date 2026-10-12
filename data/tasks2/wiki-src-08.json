@@ -1,0 +1,48 @@
+{
+ "batch": 8,
+ "out": "data/gen2/wiki-src/wiki-src-08.json",
+ "entries": [
+  {
+   "id": "pragmatics",
+   "title": "语用学",
+   "en": "Pragmatics",
+   "category": "branches",
+   "summary": "语用学研究语言符号与使用者、语境之间的关系，关注说话人如何借助语境传达字面之外的意图，以及听话人如何推断这些意图。其核心议题包括指示、言语行为、会话含义、预设与"
+  },
+  {
+   "id": "psycholinguistics",
+   "title": "心理语言学",
+   "en": "Psycholinguistics",
+   "category": "branches",
+   "summary": "心理语言学研究人类理解与产生语言的心理机制和认知过程，探讨语言知识如何表征、如何被实时加工，以及儿童如何习得语言。它融合语言学、认知心理学与实验方法，借助反应时"
+  },
+  {
+   "id": "questionnaire",
+   "title": "问卷调查法",
+   "en": "Questionnaire Survey",
+   "category": "methods",
+   "summary": "问卷调查法是以书面或电子形式向受试者提出标准化问题，系统收集语言使用、语言态度与社会背景数据的量化方法。它便于在较大样本上取得可比数据，常与社会语言学的抽样设计"
+  },
+  {
+   "id": "sapir",
+   "title": "爱德华·萨丕尔",
+   "en": "Edward Sapir",
+   "category": "people",
+   "summary": "爱德华·萨丕尔（1884—1939）是德裔美国语言学家、人类学家，美国描写语言学与语言人类学的奠基人之一。他研究美洲印第安语言，强调语言的系统性与心理现实性，提"
+  },
+  {
+   "id": "saussure",
+   "title": "费尔迪南·德·索绪尔",
+   "en": "Ferdinand de Saussure",
+   "category": "people",
+   "summary": "费尔迪南·德·索绪尔（1857—1913）是瑞士语言学家，现代语言学的奠基人。他在《普通语言学教程》中提出语言是一个由差别构成的关系系统，区分语言与言语、能指与"
+  },
+  {
+   "id": "semantics",
+   "title": "语义学",
+   "en": "Semantics",
+   "category": "branches",
+   "summary": "语义学是研究语言意义的学科，探讨词义、句义及意义与指称、真值的关系。它借助组合原则、语义特征与逻辑形式分析意义的结构，形成词汇语义学、形式语义学、认知语义学等取"
+  }
+ ]
+}

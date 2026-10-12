@@ -1,0 +1,25 @@
+{
+ "batch": 52,
+ "chapter": "Chapter 10: Language Variation and Change",
+ "out": "data/book/gen/batch-52.json",
+ "sections": [
+  {
+   "id": "chapter-118-slug-10-3-language-changes",
+   "title": "10.3 Language changes",
+   "src": "data/book/src/chapter-118-slug-10-3-language-changes.txt",
+   "chars": 5458
+  },
+  {
+   "id": "chapter-119-slug-10-4-language-conveys-more-than-semantic-meaning",
+   "title": "10.4 Language conveys more than semantic meaning",
+   "src": "data/book/src/chapter-119-slug-10-4-language-conveys-more-than-semantic-meaning.txt",
+   "chars": 10707
+  },
+  {
+   "id": "chapter-120-slug-10-5-variationist-methods-and-concepts",
+   "title": "10.5 Variationist methods and concepts",
+   "src": "data/book/src/chapter-120-slug-10-5-variationist-methods-and-concepts.txt",
+   "chars": 16036
+  }
+ ]
+}

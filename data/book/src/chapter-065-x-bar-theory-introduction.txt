@@ -1,0 +1,105 @@
+# 6.14 Trees: Introducing X-bar theory
+
+Constituency tests and phrase structure rules provide a useful starting point for thinking about the structure of possible sentences, but they don’t really start explaining why certain structures are grammatical, or predicting what possible and impossible grammars might look like. In this section we introduce X-bar theory, which aims to make stronger predictions by restricting the shape of possible trees. It’s called that because it introduces an extra layer of structure inside phrases called the “bar level”.
+To see why we might want to constrain what trees are possible, let’s begin by thinking about a type of structure that’s really easy to describe using a phrase structure rule:
+- Weird phrase structure rule: NP → V (Adj) PP
+
+This rule is weird because it’s a noun phrase that’s missing the noun: we already saw in Section 6.3 is that what makes something a noun phrase is precisely that it has a noun inside it. The restriction that all natural languages phrases have heads of the same category is the first limit we’ll put on possible structures in X-bar theory:
+- Every phrase (XP) has a head of the same category (X)
+
+And this goes the other way as well: all heads (words) project (or “occur inside”) a phrase of their category:
+- Every head (X) projects a phrase of the same category (XP)
+
+What this means is that even when a noun or verb—or any other category—doesn’t obviously have any other words in the same phrase as it, it’s still part of a phrase, an NP or a VP, just a one-word phrase. In other words, while the two sentences in (1) are in one sense very different (one has two words, the other has 11), in another sense they have the same structure: both sentences consist of an NP followed by a VP.
+
+[表格]
+| | | (1) | | a. | | Cats sleep. | | | | | | b. | | The many very fast spaceships carried a lot of valuable cargo. | | |
+
+By default, in X-bar theory we assume that the same constraints apply to all categories and phrases, and that they apply in all languages. In the absence of evidence to the contrary, we assume that determiners occur inside determiner phrases (DPs), degree words occur inside degree phrases (DegPs), and so on.
+The assumption that all phrases involve the same structure, and that this is true in all languages, is a hypothesis. If we encounter evidence that is inconsistent with this hypothesis, we would revise the theory to account for new data. Active research in syntax consists of investigating grammatical patterns in languages, and showing how they do (or do not) require specific revisions to current syntactic theories.
+The key feature of X-bar theory (and the source of its name) arises from the observation that phrases aren’t just a flat structure.
+Our phrase structure rule for NPs, for example, could build NPs that contain a determiner (or DP), a noun, and a PP, but there was no sub-grouping. The tree diagram in Figure 6.5 shows this. (the triangle over robots indicates that we have abbreviated structure inside this constituent.)
+
+[图片：614_tree1_apictureofrobots-255x300.png]
+
+Figure 6.5 Tree diagram for [a picture of robots]
+What we find if we look at phrases of all types, in many languages, is that head is always in a closer relationship with one other element inside the phrase, than with anything else. Specifically, heads are in a closer relationship with their complement—remember that in English the complement follows the head of the phrase, while it can come before the head in other languages. We saw in Section 6.3, for example, that verbs determine whether and how many objects they combine with. Above we saw that adjectives generally combine with PP complements, but that a few adjectives idiosyncratically allow NP complements.
+This means that there are units—constituents—inside phrases. So not only do all heads have phrases, and all phrases have heads, but there is what we might call a “mid sized sub-phrase” in every phrase (or an “intermediate phrase”). This mid-sized phrase is called X-bar (originally written
+[图片：065147495e0556600d2177b728fe23cb.png]
+, but now more commonly written X′ or X’ for typographical ease), which is where the theory gets its name.
+So we expand X-bar theory to the following generalizations, expressed in phrase structure rules:
+- XP → (YP) X’
+- X’ → X (ZP)
+
+XP, YP, and ZP are all variables over any category of phrase. These rules can be read as saying:
+> Every phrase (XP) must have a bar-level of the same category (X’) within it, optionally preceded by another phrase (YP). Every bar-level (X’) must have a head of the same category within it, optionally followed by another phrase (ZP).
+
+The positions occupied by YP and ZP are argument positions, and they have special names. The names for structural relations in trees are adapted from family relationships: parent, child, etc.
+The sibling of the head is the copmlement (with an “e”), not the compliment (with an “i”)! This is complement as in set theory, not as in saying nice things to someone. Complement: Sibling of the head X (child of X’) is its complement Heads select their complement (including if they take a complement) Specifier: The child of XP, sister of X’ is the specifier of the phrase
+If we put these labels in the tree in place os “YP” and “ZP” above, we get a general X-bar template for English (specific to English because it includes the linear order found in English).
+
+[图片：614_tree2_Xbarschema-300x193.png]
+
+Figure 6.6 Generalized X-bar template (for English, head initial)
+What is the evidence for bar levels? In the remainder of this section we review the evidence for sub-constituents inside NPs and VPs.
+
+## Evidence for N’
+
+The evidence for N’ (“N-bar”) involves showing that a noun is in a closer relationship with a PP that follows it than it is with a previous determiner.
+We can show this with constituency tests that target this sub-NP unit. These tests are a bit trickier to apply than the constituency tests covered in Section 6.4, but they follow the same general principle.
+Here we will only go through one of these tests: one-replacement. Just as a pronoun can replace a whole NP, the word “one” can (for at least some speakers of English) replace a noun and a following prepositional phrase, leaving behind anything before the noun. Like other kinds of replacement, especially replacement with do for VPs, one-replacement requires that there’s an earlier NP that “fills in” what’s being replaced.
+
+[表格]
+| | | (2) | | | | [ | NP | Yesterday’s | launch of a spaceship | ] was exciting, but [ today’s | one | ] was not. (where [ | one | ]=[ | launch of a spaceship | ]) | | |
+
+By contrast, you can’t replace a determiner and an N with one, leaving the PP behind:
+
+[表格]
+| | | (3) | | | | *[ | NP | | The launch | of a spaceship ] is exciting, but [ | one | of a mining drone ] is not. (where [ | one | ]=[ | the launch | ]) | | |
+
+Recall from Section 6.5 that determiners and possessors are in complementary distribution, which we account for by putting them in the same structural position: NP only has one specifier, so it can only hold one determiner or possessor.
+This gives us the following overall structure of an NP, showing a closer relationship between the N and a following PP than between either of those and the preceding determiner or possessor.
+
+[图片：614_tree3_yesterdayslaunch-272x300.png]
+
+Figure 6.7 Tree diagram for [ yesterday’s launch of a spaceship ]. The noun and its PP complement are collected together as a constituent under an N’ node.
+
+## Evidence for V’
+
+We can do similar tests to find a constituent inside VP, consisting of the verb and its object. For example, as shown in (4a), we can elide a verb and its object, leaving a previous AdvP behind, but (4b) is ungrammatical because we cannot similarly elide AdvP + V, leaving the NP object behind. (For 4a to be grammatical, the two subjects need to be contrastively stressed. Listen to the examples in the video version of this section if you’d like to hear what that sounds like.)
+
+[表格]
+| | | (4) | | a. | | THEY will [ | VP | quickly | build a spaceship | ], and WE will [ | VP | slowly _ ] | | | | | | b. | | *THEY will [ | VP | | quickly build | a spaceship], and WE will [ | VP | _ an orbital station ] | | | | | | | | (ungrammatical if what’s missing is [quickly build]) | | |
+
+For many speakers the contrast is clearer with do so replacement: do so can replace a verb and its object, as shown in (5a), but can’t replace an adverb and verb if this strands the object, as shown by the ungrammaticality of (5b).
+
+[表格]
+| | | (5) | | a. | | They will [ | VP | QUICKLY | build a spaceship | ], and we will [ | VP | SLOWLY | do so | ] | | | | | | b. | | *They will [ | VP | | quickly build | a spaceship], and we will [ | VP | | do so | an orbital station ] | | | | | | | | (ungrammatical if what’s missing is [quickly build]) | | |
+
+As with noun phrases, we can represent the fact that the verb and its object form a constituent, to the exclusion of any adverbs, by putting them both under a single node (labelled V’) in our tree diagram.
+
+[图片：614_tree4_quicklybuildaspaceship-251x300.png]
+
+Figure 6.8 Tree diagram for [ quickly build a spaceship ]. The verb and its object are collected together as a constituent under a V’ node.
+For both NPs and VPs, the bar levels represent a mid-sized constituent inside each phrase. The notation for this mid-sized constituent is just a convention—it could have been called “intermediate noun phrase” or “intermediate verb phrase” instead, and it might help you understand the hypothesis if you think about it in those terms.
+
+## “Empty” bar levels
+
+As with the hypothesis that all heads project phrases, even when there are no other words in the phrase, X-bar theory assumes that all phrases contain at least one bar level, even when it is not needed to host a complement.
+So for the sentence in (6), we would have the tree in Figure 6.9, where every phrase has a bar level even though none of the phrases we’ve drawn includes a complement:
+
+[表格]
+| | | (6) | | | | The spaceships landed. | | |
+
+[图片：614_tree5_thespaceshipslanded-239x300.png]
+
+Figure 6.9 Tree diagram for The spaceships landed.
+This tree also illustrates something that’s still missing from our implementation of X-bar theory: we’ve said that every phrase has to have a head, but our sentences are currently headless. In the next section we turn to the proposal that all sentences are projected from a tense head.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through the chapter that interleaves core concepts with tree structures, the previous section was 6.13 From constituency to tree diagrams and the next section is 6.15 Trees: Sentences as TPs.

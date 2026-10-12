@@ -1,0 +1,53 @@
+# 7.2 Compositionality: Why not just syntax?
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=808#oembed-1
+Consider the following sentence.
+
+[表格]
+| | | (1) | | | | | The raccoon clothing store was doing a photo contest so I submitted a picture of a Toronto raccoon wearing a bright pink bandana with lime green polka dots on it. | | | |
+
+This is likely a sentence you have never heard before in your life, but you are still able to comprehend it and understand what it means. The reason for this is because you have the meaning of each morpheme that appears in this sentence stored in your head, and by combining those meanings, you are able to get the meaning of the overall sentence. This is the principle of compositionality: the meaning of a complex linguistic unit results from the individual meanings of its subparts, and how these subparts were combined. This means that the meaning of a sentence is determined by the meaning of the words that it contains, and how these words were put together. It also means that the meaning of a multi-morphemic word is determined by the meaning of the morphemes it contains, and how they were put together. So for example, the meaning of the word unhelpfulness is the combination of the meaning of un-, help, -ful, and -ness, put together as [ [ un- [ help -ful ] ] -ness ].
+
+[图片：cat-tree-895x1024.png]
+
+Figure 7.3. Syntactic structure for That fluffy cat will chase the raccoon.
+Compositionality is not just a matter of what linguistic pieces you put together: it also matters how you put the pieces together, too. This is relevant to the notion of constituency, or unithood, from Chapter 6 (Syntax). For example, per compositionality, the meaning of the sentence That fluffy cat will chase the raccoon is the combination of the meaning of the words that, fluffy, cat, will, chase, the, and raccoon. What Chapter 6 taught us is that you don’t just string these words together like a necklace to form a sentence: the composition of a sentence happens in a more systematic way, with smaller substructures within. For example, that fluffy cat and the raccoon are syntactic units, or constituents in this sentence. That fluffy cat will is not a constituent in this sentence, but chase the raccoon is. Following this syntax (see Figure 7.3), we can analyse that word meanings combine in the same structured way, too. The meaning of the and raccoon will combine first, then the meaning of the raccoon will combine with the meaning of chase, and so on. Keep this in mind as you read this chapter. If you need a refresher on syntax, you may want to reread Chapter 6 (Syntax) before proceeding with the rest of this chapter. This chapter will assume that you have completed Chapter 6 (Syntax) already.
+We just said that compositionality is about how linguistic pieces are put together. Since we talked about this notion in detail in Chapter 6 (Syntax), you may be wondering how this chapter on semantics is different. To a large extent, syntax and semantics go hand-in-hand. If two words go together as a syntactic unit, it’s fair to hypothesise that they form a semantic unit, too, and vice versa. For example, in our sentence That fluffy cat will chase the raccoon, fluffy and cat form a syntactic unit: it’s a noun phrase. Fluffy cat is also a semantic unit: the meaning of fluffy gives us more information about what kind of cat we are talking about. So then, why do we need to talk about semantic composition when we’ve already talked about syntactic composition? Put another way, we know that an adjective and a noun form a unit (NP), a determiner and a noun phrase form a unit (DP), a verb and a determiner phrase can form a unit (VP), and so on — so what more is there to say about compositionality? If we know the syntax, doesn’t the semantics naturally follow?
+The answer is “no, not necessarily.” We see places in language where the syntactic categorisation of a linguistic expression does not predict everything about the semantics of it. Consider the determiner phrases (DPs) a scientist in (2) and (3), for example.
+
+[表格]
+| | | (2) | | | | | Vera greeted | | | | a scientist | | | | . | | | | | (3) | | | | | Vera became | | a scientist | | . | | | |
+
+Syntactically, a scientist is a DP in both (2) and (3). However, just because they have the same syntactic form does not mean that their semantics is the same: a scientist in (2) does not mean the same thing as a scientist in (3). The meaning of a scientist in (2) is referential: it refers to some existing scientist. If this scientist is named Gladys, (2) is equivalent in meaning to Vera greeted Gladys. A scientist in (3) is not referential; this time, it is not pointing to some existing scientist. A scientist in (3) is predicative: it expresses a property about the subject, which in this case is Vera. Adjectives are often predicative and can be seen in a construction like (3), too: e.g., Vera became cheerful. In English, sentences with a referential DP can be passivized as in (4), but sentences with a predicative DP cannot be passivised, as (5) shows (Williams 1980, 1983).
+
+[表格]
+| | | (4) | | | | | | | A scientist | | | | was greeted by Vera. | | | | | (5) | | * | | | | | A scientist | | | | was become by Vera. | | | |
+
+The point of these examples is that we might expect (5) to be grammatical based on the syntax of a scientist: it’s still a DP, after all. However, the reality is that (5) is ungrammatical. Clearly, this ungrammaticality is not due to the syntax of a scientist: we know that some DPs can be the subject of a passive construction, as seen in (4). Rather, it is the meaning of the DP that is causing the ungrammaticality in (5): DPs that are predicative in their meaning cannot be passivised. This is one example of how the meaning of a linguistic expression really matters in language, not just the syntax.
+There are also places in language where the reverse is true: we might expect something to be grammatical based on the semantics of the expression, but it winds up being ungrammatical due to the syntax. Consider the prepositions before and during in (6) and (7), respectively.
+
+[表格]
+| | | (6) | | | | | Alan sneezed | | | | before | | | | { the meeting with his student / the race / the party / the event }. | | | | | (7) | | | | | Alan sneezed | | | | during | | | | { the meeting with his student / the race / the party / the event }. | | | |
+
+Based on this data, the prepositions before and during seem to be semantically compatible with expressions that point to an event of some sort. For before, the syntactic type of this event does not seem to matter. For example, it can also take a full clause (TP/CP) as an object:
+
+[表格]
+| | | (8) | | | | | Alan sneezed | | | | before | | | | { he met with his student / he raced / he partied / he attended the event }. | | | |
+
+During, however, is syntactically pickier. It does not allow for a clausal complement:
+
+[表格]
+| | | (9) | | * | | | Alan sneezed | | | | during | | | | { he met with his student / he raced / he partied / he attended the event }. | | | |
+
+The DP the meeting with his student and the sentence he met with his student semantically both point to the event of Alan meeting with his student, but syntactically they are different types of units. (9) is an instance in language where just the semantics is not sufficient for explaining the descriptive patterns; the syntax clearly matters too.
+To summarise, syntax certainly is important when thinking about how sentences are composed, but it’s also important for us to examine the semantics separately, too.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=808#h5p-58
+
+## References
+
+Williams, E. (1980). Predication. Linguistic Inquiry, 11(1), 203-238.
+Williams, E. (1983). Semantic vs. syntactic categories. Linguistics and Philosophy, 423-446.

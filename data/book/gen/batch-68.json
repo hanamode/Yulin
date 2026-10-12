@@ -1,0 +1,99 @@
+{
+ "batch": 68,
+ "sections": {
+  "part-016-appendix-1-alternative-to-6-14-6-21": {
+   "title": {"en": "Appendix 1: PSRs and Flat Tree Structures", "zh": "附录 1：短语结构规则与平坦树形结构"},
+   "summary": {
+    "en": "This appendix is offered as an alternative to the second half of the syntax chapter, Sections 6.14 to 6.21. It teaches flat tree structures instead of X-bar theory, and it is written to follow Section 6.13. It is recommended for one-semester introductory courses, and for any introductory course that has two weeks or fewer to cover syntax.",
+    "zh": "本附录是句法章节后半部分（第 6.14 至 6.21 节）的替代方案，用平坦树形结构代替 X 杠理论进行教学，内容承接第 6.13 节。它适合一学期的入门课程使用，也推荐给只有两周或更少时间讲授句法的入门课程，供教师根据课时安排灵活选择。"
+   },
+   "points": [
+    {"en": "This appendix replaces the second half of the syntax chapter, that is, Sections 6.14 to 6.21.", "zh": "本附录作为替代方案，取代句法章节的后半部分，也就是第 6.14 节至第 6.21 节。"},
+    {"en": "It teaches flat tree structures instead of the X-bar structures used in the main chapter.", "zh": "它讲授的是平坦树形结构，而不是正文句法章节所使用的 X 杠结构。"},
+    {"en": "The material is written to follow directly from Section 6.13 of the syntax chapter.", "zh": "本材料的内容直接承接句法章节第 6.13 节，便于学生在学完后接着学习。"},
+    {"en": "It is recommended for one-semester introductory courses and for courses with two weeks or fewer for syntax.", "zh": "推荐用于一学期的入门课程，以及只有两周或更少时间讲授句法的入门课程。"}
+   ],
+   "terms": [
+    {"en": "phrase structure rule (PSR)", "zh": "短语结构规则", "defEn": "A rule stating which elements a given kind of constituent must and may contain.", "defZh": "规定某一类句法成分必须包含以及可以包含哪些元素的规则。"},
+    {"en": "flat tree structure", "zh": "平坦树形结构", "defEn": "A tree diagram whose phrases are not organized into intermediate X-bar levels.", "defZh": "不把短语组织成中间 X 杠层级的树形图，各成分直接附于短语节点之下。"},
+    {"en": "X-bar theory", "zh": "X 杠理论", "defEn": "A theory of phrase structure that posits intermediate bar levels between words and phrases.", "defZh": "一种短语结构理论，主张在词与短语之间存在中间的杠层级结构。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "This appendix is provided as an alternative to the second half of the syntax chapter, covering Sections 6.14 to 6.21. Instead of X-bar theory, it teaches flat tree structures, in which phrases are not organized into intermediate bar levels. The material is written to follow Section 6.13, so it builds directly on the phrase structure rules developed there.", "zh": "本附录作为句法章节后半部分（第 6.14 至 6.21 节）的替代方案。它讲授的不是 X 杠理论，而是平坦树形结构，即不把短语组织成中间杠层级的结构。材料承接第 6.13 节，因此直接建立在那一节所建立的短语结构规则之上。"},
+    {"en": "It is recommended to use this alternative for one-semester introductory courses, as well as any introductory courses that have two weeks or fewer to cover syntax.", "zh": "对于一学期的入门课程，以及只有两周或更少时间讲授句法的入门课程，都建议采用这一替代方案。"}
+   ]
+  },
+  "chapter-159-a1-1-drawing-phrase-structure-rule-trees": {
+   "title": {"en": "A1.1 Phrase Structure Rules", "zh": "A1.1 短语结构规则"},
+   "summary": {
+    "en": "Phrase structure rules (PSRs) are the rules used to build tree diagrams and to record which phrases may occur inside or modify other phrases. They are formal hypotheses about constituency, indicating what each constituent must and may optionally contain. This section presents the textbook's final PSR list, the general template, the new CP rule for embedded clauses, and the contrasting structures of similar-looking phrases.",
+    "zh": "短语结构规则是构建树形图、记录哪些短语可以出现在其他短语内部或修饰其他短语的规则。它们是关于句法成分构成的形式化假设，说明每类成分必须包含什么、可以任选包含什么。本节给出全书最终采用的短语结构规则列表、通用模板、引入嵌入小句的新 CP 规则，以及表面相似短语在结构上的差异。"
+   },
+   "points": [
+    {"en": "Phrase structure rules describe which kinds of phrases can occur inside and modify which other kinds of phrases.", "zh": "短语结构规则描述哪些类型的短语可以出现在其他类型的短语内部并修饰它们。"},
+    {"en": "In the template, elements without parentheses are obligatory and elements inside them are optional.", "zh": "在通用模板中，不带括号的元素是必需的，括号内的元素则是可选的。"},
+    {"en": "A plus sign shows that a constituent may be repeated as many times as the data requires.", "zh": "加号表示这类成分可以根据需要重复出现，数量不限，可以不止一个。"},
+    {"en": "The new CP rule introduces embedded clauses, and C stands for complementizer, including words like that, for, if and whether.", "zh": "本附录新增的 CP 规则用来引入嵌入小句，其中 C 代表标句词，包括 that、for、if、whether 等词。"},
+    {"en": "An embedded clause must always contain both a CP layer and an S layer, even when the complementizer is silent.", "zh": "嵌入小句无论标句词是否在语音上出现，都必须同时具有 CP 层和 S 层。"},
+    {"en": "Similar-looking phrases may have different structures, so a tree diagram must reflect what the sentence actually means.", "zh": "表面相似的短语可能具有不同结构，因此画树形图时必须考虑句子的实际意义。"}
+   ],
+   "terms": [
+    {"en": "phrase structure rule (PSR)", "zh": "短语结构规则", "defEn": "A formal rule stating what each kind of constituent must and may contain.", "defZh": "说明每一类句法成分必须包含以及可以包含哪些元素的形式化规则。"},
+    {"en": "constituent", "zh": "句法成分", "defEn": "A word or group of words that functions as a unit within a larger structure.", "defZh": "在更大结构中作为一个单位起作用的词或词组，即句法成分。"},
+    {"en": "complementizer (Comp)", "zh": "标句词（complementizer）", "defEn": "A word such as that, for, if or whether that introduces an embedded clause.", "defZh": "用来引导嵌入小句的一类功能词，例如英语中的 that、for、if、whether 等，本书记作 C 或 Comp。"},
+    {"en": "embedded clause", "zh": "嵌入小句", "defEn": "A clause that appears inside another clause, most often in object position.", "defZh": "出现在另一个小句内部的小句，最常见的句法位置是宾语位置。"},
+    {"en": "Complementizer Phrase (CP)", "zh": "标句词短语", "defEn": "The phrase layer headed by a complementizer that contains an embedded clause.", "defZh": "以标句词为中心语并包含嵌入小句的短语层级，在本书的规则中写作 CP。"}
+   ],
+   "examples": [
+    {"text": "I know [that syntax is fun].", "noteEn": "An embedded clause in object position, introduced by the complementizer that.", "noteZh": "这是位于宾语位置的嵌入小句，由标句词 that 引导而成。"},
+    {"text": "I know [syntax is fun].", "noteEn": "The complementizer is silent here, but the clause still needs a CP layer and an S layer.", "noteZh": "这里的标句词是隐性的，但该小句仍然需要 CP 层和 S 层。"},
+    {"text": "the big yellow balloon", "noteEn": "Both big and yellow modify balloon, so they are two separate adjective phrases.", "noteZh": "big 和 yellow 都修饰 balloon，因此它们是两个各自独立的形容词短语。"},
+    {"text": "the very yellow balloon", "noteEn": "Here very modifies yellow, so the adverb phrase is inside the adjective phrase.", "noteZh": "这里的 very 修饰 yellow，因此副词短语位于形容词短语内部。"}
+   ],
+   "body": [
+    {"en": "Phrase structure rules, or PSRs, are the rules we use to build tree diagrams. They describe and record which kinds of phrases can occur inside and modify which other kinds of phrases. Because they are hypotheses, a sentence that does not fit them is not a disaster: we double-check our analysis first, and revise the hypothesis if the analysis was right. The final PSR list in this textbook resembles the rules from Section 6.13, with a few small additions.", "zh": "短语结构规则（PSR）是我们用来构建树形图的规则。它们描述并记录哪些类型的短语可以出现在其他类型的短语内部，以及可以修饰哪些短语。由于这些规则是假设，遇到不符合规则的句子不必慌张：先检查我们是否把句子分析对了；如果分析无误，就修订假设。本书最终采用的短语结构规则列表与第 6.13 节建立的规则十分相似，只增加了少数内容。"},
+    {"en": "PSRs take a general template form: the constituent's name appears before the arrow, and its elements are listed after the arrow from left to right. X, Y and Z are variables standing for any category. Elements without parentheses are obligatory, elements in parentheses are optional, and a plus sign allows repetition.", "zh": "短语结构规则采用一种通用模板形式：箭头之前是成分的名称，箭头之后按从左到右的顺序列出该成分内部的元素。其中 X、Y、Z 是变量，可以代表名词、动词、形容词、介词、限定词等任何类别。不带括号的元素是必需的，括号内的元素是可选的，加号则表示该成分可以按需重复任意多次。"},
+    {"en": "The CP rule is completely new here: C, or Comp, stands for complementizer and includes words like that, for, if and whether. Embedded clauses most commonly appear in object position, replacing the NP object inside the VP or the second object of a ditransitive. That is why the VP rule lists NP/CP in the second object position: the second object can be an NP or a CP, but not both. A subject embedded clause is inserted by the S rule, which also lists NP/CP.", "zh": "CP 规则是本附录中全新的内容：C（即 Comp）代表标句词，包括 that、for、if、whether 等词。嵌入小句可以出现在多个位置，但最常见的是宾语位置，用来替代 VP 内的 NP 宾语，或者替代双及物结构中的第二个宾语。这正是 VP 规则在第二个宾语位置列出 NP/CP 的原因：第二个宾语可以是 NP 或 CP，但不能同时是两者。嵌入小句也可以出现在主语位置，S 规则通过在该位置列出 NP/CP 来允许这一点。"},
+    {"en": "A common mistake when drawing embedded clauses is to miss a layer, because the complementizer can be silent in English. An embedded clause must always have both a CP layer and an S layer.", "zh": "画嵌入小句时一个常见的错误是漏掉一个层级，因为英语中的标句词可以是隐性的。我们的规则不允许把 S 直接放入 VP，因此嵌入小句必须同时具有 CP 层和 S 层。"},
+    {"en": "Two phrases may look very similar yet have different structures, so a tree diagram cannot be drawn robotically. In the big yellow balloon, big and yellow are separate adjective phrases, both attached to the NP. In the very yellow balloon, very modifies yellow, so the adverb phrase sits inside the adjective phrase, which modifies the noun.", "zh": "两个短语可能看起来非常相似，结构却大不相同，因此不能机械地画树形图，而必须考虑句子的意义。在 the big yellow balloon 中，big 并不描述 yellow，所以 big 和 yellow 是两个各自独立的形容词短语，都直接附接到 NP 上。而在 the very yellow balloon 中，very 描述的是 yellow，因此副词短语修饰形容词，整个形容词短语再修饰名词。"}
+   ]
+  },
+  "chapter-160-a1-2-phrase-structure-rules-in-other-languages": {
+   "title": {"en": "A1.2 Phrase Structure Rules in Other Languages", "zh": "A1.2 其他语言的短语结构规则"},
+   "summary": {
+    "en": "Linguists often look at unfamiliar languages and describe their word order patterns with phrase structure rules. This section works through Turkish data in four steps: identifying the order of subject, object and verb, adding modifiers to constituents, looking for patterns such as optionality, and putting all the rules together. It also stresses that English translations may not share the original structure, so rules are working hypotheses to be revised.",
+    "zh": "语言学家常通过观察不熟悉的语言，用短语结构规则描述其语序规律。本节按四个步骤处理土耳其语语料：辨认主语、宾语和动词的顺序；为各成分加入修饰语；寻找可选性等规律；最后汇总全部规则。本节还强调，英语译文的结构未必与原语言相同，因此规则只是需要不断修订的工作假设。"
+   },
+   "points": [
+    {"en": "The first step in writing phrase structure rules for another language is to determine constituency in the data.", "zh": "为另一种语言撰写短语结构规则的第一步，是在语料中确定句法成分。"},
+    {"en": "The VP always contains the verb and its object if there is one, but it never contains the subject.", "zh": "VP 总是包含动词，如果有宾语也要把该宾语包含在内，但从不包含主语。"},
+    {"en": "Turkish example (1) shows SOV order, and Turkish object case markers provide useful secondary evidence.", "zh": "土耳其语例（1）显示 SOV 语序，土耳其语的宾语格标记则提供了有用的辅助证据。"},
+    {"en": "English translations may not have the same structure as the original, so linguists form the simplest hypothesis and revise it with more data.", "zh": "英语译文的结构未必与原语言相同，因此语言学家先提出最简单的假设，再用更多语料加以修订。"},
+    {"en": "Because the subject can be omitted in Turkish, the S rule is written as S, with the subject NP in parentheses.", "zh": "由于土耳其语中主语可以省略，S 规则写作 S → (NP) VP，也就是把主语 NP 放入括号。"},
+    {"en": "When listing a constituent's members in a PSR, list only the elements of the next layer of structure.", "zh": "在短语结构规则中列举某成分的成员时，只列出紧邻的下一层结构中的元素。"}
+   ],
+   "terms": [
+    {"en": "SOV word order", "zh": "SOV 语序", "defEn": "A default word order in which the subject precedes the object, which precedes the verb.", "defZh": "一种默认语序，主语在宾语之前，宾语又在动词之前，即主语—宾语—动词。"},
+    {"en": "case marker", "zh": "格标记", "defEn": "A morpheme on a noun that shows its grammatical role, such as object case.", "defZh": "附在名词上、用来标示其语法角色（例如宾语格）的语素，如土耳其语的 -i。"},
+    {"en": "structural subject", "zh": "结构主语", "defEn": "The NP that appears in the subject position of the clause, as the daughter of S.", "defZh": "出现在小句主语位置的 NP，在树形图中充当 S 的直接成分，即结构上的主语。"},
+    {"en": "thematic subject", "zh": "题元主语", "defEn": "The NP that carries the agent theta role in the sentence.", "defZh": "在句子中承担施事题元角色的那个 NP，在被动句中与结构主语并不一致。"},
+    {"en": "vowel harmony", "zh": "元音和谐", "defEn": "A phonological assimilation rule that makes vowels match the backness of other vowels.", "defZh": "一种音系同化规则，使元音的舌位前后特征与词中其他元音一致。"},
+    {"en": "passive", "zh": "被动句", "defEn": "A clause type in which the agent is not in subject position and the patient is not the object.", "defZh": "一种小句类型，其中施事不在主语位置，受事也不在宾语位置。"}
+   ],
+   "examples": [
+    {"text": "Toprak Deniz’-i gör-dü.", "noteEn": "A Turkish sentence showing SOV order, where Toprak is the subject and Deniz is the object.", "noteZh": "这是一个显示 SOV 语序的土耳其语句子，其中 Toprak 是主语，Deniz 是宾语。"},
+    {"text": "Kitap siyah masa-ya dokun-du.", "noteEn": "Here siyah 'black' modifies masaya 'table', so siyah masaya forms one constituent.", "noteZh": "在这个例子中，siyah（黑）修饰 masaya（桌子），因此二者构成一个句法成分。"},
+    {"text": "Deniz’i gör-dü-m", "noteEn": "The subject pronoun is absent, but the agreement marker on the verb still identifies the subject.", "noteZh": "主语代词没有出现，但动词上的一致标记仍能表明主语是谁。"},
+    {"text": "VP → (AdjP) NP V", "noteEn": "An incorrect Turkish VP rule; the adjective siyah belongs inside the NP, not directly in the VP.", "noteZh": "错误的土耳其语 VP 规则；形容词 siyah 属于 NP 内部，而不直接属于 VP。"}
+   ],
+   "body": [
+    {"en": "Linguists often examine unfamiliar languages for word order patterns and describe them with phrase structure rules. The first step is to determine constituency in the data, using the English translation to work out what modifies what. In examples from other languages, the first line is natural, the second glosses each word, and the third gives the English translation.", "zh": "语言学家常常考察自己并不熟悉的语言，寻找其中的语序规律，然后用短语结构规则来描述。第一步是在语料中确定句法成分，借助英语译文的意义判断什么修饰什么。其他语言的例子通常分三行：第一行是原语言的自然写法，第二行逐词给出释义，第三行是英语译文。"},
+    {"en": "Step 1 identifies the order of subject, object and verb. The subject is typically the NP performing the action, while the VP includes the verb and its object, never the subject. In example (1), Toprak does the seeing and Deniz is seen, so Turkish looks like an SOV language. Object case markers can help find the object, but only as secondary evidence, since their use varies.", "zh": "第一步是辨认主语、宾语和动词的顺序。主语通常是执行动作的 NP，而 VP 包含动词以及动作所指向的宾语 NP；VP 从不包含主语。在土耳其语例（1）中，我们看到 Toprak 是看的人，Deniz 是被看的人，于是假设土耳其语是 SOV 语言。土耳其语还有宾语格标记，可以帮助我们找到宾语；不过并非所有语言都使用格标记，格标记的用法有时也出人意料，因此它只能作为辅助证据。"},
+    {"en": "This approach assumes the English translation has an equivalent structure, which is not always true. In passive example (2), the one doing the seeing is not in subject position, so we distinguish the structural subject, the NP in subject position, from the thematic subject, the NP with the agent theta role. Starting from the simplest hypothesis, we gather more data and revise our rules.", "zh": "这种方法假定英语译文具有与原语言相同的结构，但事实并非总是如此。在土耳其语被动句例（2）中，看的人并不在主语位置。因此有必要区分结构主语（位于主语位置的 NP）与题元主语（承担施事题元角色的 NP）；在被动句中两者并非同一个 NP。我们从最简单的假设出发，进一步收集语料，并利用动词上的被动标记、宾语上缺少格标记等线索修订规则，最终断定土耳其语确实是 SOV 语言。"},
+    {"en": "Step 2 adds modifiers to constituents. In example (3), siyah 'black' occurs between two nouns, and the translation shows that it modifies masaya 'table', so siyah masaya forms a constituent. Turkish vowel harmony explains why the past tense marker is sometimes -dü and sometimes -du, but this does not affect the syntax. Since the subject can be omitted, the Turkish S rule places the subject NP in parentheses.", "zh": "第二步为各成分加入修饰语。在例（3）中，形容词 siyah（黑）出现在两个名词之间，而英语译文告诉我们它修饰 masaya（桌子），因此 siyah masaya 构成一个句法成分。土耳其语还有元音和谐，这就是过去时标记有时是 -dü、有时是 -du 的原因，但这一差别不影响句法。由于主语可以省略，土耳其语的 S 规则把主语 NP 放入括号。"},
+    {"en": "With a small data set, assume an element is obligatory if it appears in all relevant places. List only the next layer of structure: rules in (8) wrongly put the same AdjP inside both the VP and the NP, while the correct rules place siyah inside the NP. Step 4 collects all rules, compares them with the data, and checks them by drawing trees.", "zh": "语料较少时，如果某成分在所有相关位置都出现，就应假定它是必需的，直到发现相反证据。此外，只能列出紧邻的下一层结构：例（8）中错误的规则把同一个 AdjP 同时放进 VP 和 NP，而正确的规则把 siyah 放在 NP 内部，因为它只修饰名词。第四步把所有规则汇总，与语料逐条核对，并通过画树形图来检验，最好选择最复杂的句子，因为它最有可能出错。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "batch": 40,
+ "sections": {
+  "chapter-088-exercises-7": {
+   "title": {"en": "7.15 Exercise your linguistics skills", "zh": "7.15 锻炼你的语言学技能"},
+   "summary": {
+    "en": "This closing set of exercises applies the semantic tools of Chapter 7. The first asks students to list ten words denoting members of the vehicle category and to judge which are more or less prototypical, explaining the properties involved. The second imagines a debate opponent who denies that drip meaning ‘style’ is a real word because the Oxford English Dictionary lacks it. The third weighs the pros and cons of sense versus denotation, and of lexical meaning as definitions versus as concepts.",
+    "zh": "本节练习把第 7 章的语义学工具付诸实践。第一题要求列举十个表示 vehicle（交通工具）范畴成员的词，判断哪些是较典型、哪些是较不典型的成员，并说明决定典型程度的属性。第二题设想辩论中有人说，用 drip 表示“风格”不算真词，因为《牛津英语词典》没有这种用法，请思考如何回应。第三题讨论两种意义观的利弊：涵义与指称之别，以及词汇意义究竟是词库中的定义还是概念。"
+   },
+   "points": [
+    {"en": "List ten words that denote members of the vehicle category and rank them by prototypicality.", "zh": "列举十个表示 vehicle 范畴成员的词，并按照典型程度从高到低为它们排出顺序。"},
+    {"en": "Explain which properties make something a more prototypical or a less prototypical member of the category.", "zh": "说明究竟哪些属性使某物成为该范畴较典型或较不典型的成员。"},
+    {"en": "Respond to a debate opponent who denies that drip meaning ‘style’ is a real word because the Oxford English Dictionary omits it.", "zh": "回应辩论对手的说法：他因《牛津英语词典》未收录而否认表示“风格”的 drip 是真词。"},
+    {"en": "Compare the advantages and disadvantages of thinking about linguistic meaning as sense versus as denotation.", "zh": "比较把语言意义看作涵义与看作指称这两种思路各自的优点与缺点。"},
+    {"en": "Compare lexical meaning as definitions stored in the lexicon with lexical meaning as concepts.", "zh": "比较把词汇意义视为词库中储存的定义与视为概念这两种立场的得失。"}
+   ],
+   "terms": [
+    {"en": "prototype", "zh": "原型", "defEn": "The most representative member of a category, against which other members are judged.", "defZh": "范畴中最具代表性的成员，其他成员以它为参照来判断典型程度。"},
+    {"en": "category", "zh": "范畴", "defEn": "A class of things grouped together, such as the class of vehicles.", "defZh": "归为一类的一组事物，例如 vehicle 这一由各类交通工具构成的范畴。"},
+    {"en": "sense", "zh": "涵义", "defEn": "The meaning a word has within the language system and in relation to other words.", "defZh": "词在语言系统内部所具有的意义，尤指它与其他词之间的意义关系。"},
+    {"en": "denotation", "zh": "外延/指称", "defEn": "The set of things in the world that a word or expression refers to.", "defZh": "词或表达式在现实世界中实际指称的对象集合，与涵义相对。"},
+    {"en": "lexicon", "zh": "词库", "defEn": "The store of words and their meanings that a speaker possesses.", "defZh": "说话者或语言使用者所掌握的全部词及其词汇信息的存储库，即词库。"},
+    {"en": "concept", "zh": "概念", "defEn": "A mental representation that a word is taken to stand for.", "defZh": "词所对应的心理表征，即人脑中对某一类事物所形成的概括性概念。"}
+   ],
+   "examples": [
+    {"text": "vehicle", "noteEn": "The category whose ten members students list and rank by prototypicality.", "noteZh": "作为样板的范畴，学生需列举其十个成员并按典型程度排序。"},
+    {"text": "drip to mean ‘style’", "noteEn": "A disputed word use said to be missing from the Oxford English Dictionary.", "noteZh": "一个有争议的词用法，据称未被《牛津英语词典》收录。"},
+    {"text": "Oxford English Dictionary", "noteEn": "The dictionary cited as an authority in the debate scenario.", "noteZh": "辩论场景中被对手当作权威依据加以援引的词典。"},
+    {"text": "Sense vs. denotation", "noteEn": "One of the two contrasts that the advanced exercise asks students to evaluate.", "noteZh": "高级题要求学生评价的两组对立之一，另一组是词汇意义的定义观与概念观。"}
+   ],
+   "body": [
+    {"en": "The exercises in this section apply the chapter's semantic concepts to concrete cases rather than reviewing them in the abstract. The first is a basic task about categorization: students take the category vehicle, list ten words that denote its members, and then decide which of those words name more prototypical vehicles and which name less prototypical ones. The follow-up question asks them to articulate the properties that make something a central rather than a marginal member of the category, so that an intuitive ranking is supported by explicit criteria. The task thus tests the idea that membership in a category comes in degrees.",
+     "zh": "本节练习把本章的语义学概念应用到具体案例上，而不是抽象地复述它们。第一题是基础题，关注范畴化：学生以 vehicle 这一范畴为对象，列举十个表示其成员的词，再判断其中哪些词指称较典型的交通工具、哪些指称较不典型的交通工具。后续问题要求学生说明，究竟是什么属性使某物成为该范畴的中心成员而非边缘成员，从而用明确的标准支持自己的直观排序。该题由此检验“范畴成员资格存在程度差异”这一观点，说明典型性并非全有或全无，而是可以分级的。"},
+    {"en": "The second exercise poses a debate scenario of intermediate difficulty. Someone claims that drip, used to mean ‘style’, is not a real word, on the grounds that this use does not appear in the Oxford English Dictionary. Students must decide how to respond, which requires separating the question of whether a form is used by speakers from the question of whether a particular dictionary has recorded it. A dictionary documents past usage under editorial constraints, so its silence is not proof that a word does not exist.",
+     "zh": "第二题是中等难度题，设定了一个辩论场景。有人主张，用 drip 表示“风格”不算真词，理由是《牛津英语词典》中没有收录这种用法。学生需要考虑如何回应。回答这一问题时，需要把“某个形式是否为说话者所用”与“某部词典是否收录了它”这两个问题区分开来。词典主要记录词的历史使用情况，其收录与否受编纂体例和语料范围的限制，因此某词未被收录并不能证明它不存在；说话者实际使用的词汇远比任何一部词典的收录更为丰富。"},
+    {"en": "The advanced exercise asks for a balanced discussion of two ways of thinking about linguistic meaning. The first contrast is between sense and denotation: sense concerns a word's meaning inside the language system, while denotation concerns what it refers to in the world. The second is between treating lexical meaning as definitions in the lexicon and treating it as concepts. For each pair, students should set out the advantages and disadvantages rather than simply choosing a side, since each position explains some facts well and leaves others unexplained.",
+     "zh": "第三题是高级题，要求对两种思考语言意义的方式作出利弊权衡。第一组对立是涵义与指称：涵义关注词在语言系统内部的意义及其与其他词的关系，指称则关注词与外部世界对象之间的对应。第二组对立是把词汇意义看作词库中的定义，还是看作概念：前者便于形式化和词典编纂，后者更能解释推理与范畴化。对每一组对立，学生都应列出各自的优点与缺点，而不是简单地选边站，因为每种立场都能解释部分语言事实，同时又留下另一些事实未能说明。"}
+   ]
+  }
+ }
+}

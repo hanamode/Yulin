@@ -1,0 +1,29 @@
+# 4.4 Complementary distribution
+
+## Phones without contrastive distribution
+
+Two phones may instead have complementary distribution, with environments that never overlap. This means there is one set of environments for one phone and a completely different set of environments for the other.
+For example, the phones [h] and [ŋ] are in complementary distribution in English for many speakers. For these speakers, [h] can only appear at the beginning of a word, as in [həˈræs] harass, or at the beginning of a stressed syllable, as in [ˌkɒmprəˈhɛnd] comprehend and [ˈt͡ʃaɪldˌhʊd] childhood. We can even see [h] appear and disappear in related words that have different stress patterns: there is an [h] in the stressed syllable of [vəˈhɪkjulr̩] vehicular, but there is no [h] in the corresponding unstressed syllable in [ˈviəkl̩] vehicle.
+Conversely, for the same speakers, [ŋ] can never appear in those positions. It can only appear exactly where [h] cannot, such as in a coda, as in [lɒŋ] long and [fɪŋ.ɡr̩] finger, or at the beginning of an unstressed syllable, as in [ˈsɪ.ŋr̩] singer.
+Further, if we try to replace [h] or [ŋ] with each other in any word, the resulting nonce words would be judged ungrammatical: *[ŋəræs], *[kɒmprəŋɛnd], *[lɒh], *[fɪhɡr̩], etc. Thus, we can never find or create minimal pairs for [h] and [ŋ], so they appear not to contrast with each other.
+And yet, [h] and [ŋ] still seem to function as fundamentally different consonants in English, because they seem to belong to different phonemes, despite being in complementary distribution. No one would confuse one for the other, and in a broad transcription, we would notate them with different symbols. Thus, while contrastive distribution is enough to determine that two phones are allophones of separate phonemes, it is not a requirement.
+Now consider the vowels in most North American pronunciations of English [bid] bead and [bit] beat. In broad transcription, we would normally use the same symbol [i] for both vowels, but in a more narrow transcription, we might want to indicate that the vowel of bead is longer, with [biːd] versus [bit]. Long [iː] and short [i] are different phones in English, with [iː] consistently being about 1.2–1.5 times as long as [i], and if we swap them, pronouncing bead as [bid] and beat as [biːt], it sounds very odd.
+Like [h] and [ŋ], [iː] and [i] are in complementary distribution. Long [iː] must be followed by a coda with only voiced consonants, as in [biːd] bead, [fliːz] fleas, and [biːrd] beard. Compare these to words where one or more of the following consonants in the following coda is voiceless, where we instead find short [i]: [bit] beat, [flis] fleece, and [pirs] pierce.
+So we have two pairs of phones, [h] and [ŋ] versus [iː] and [i]. In each pair, the two phones have complementary distribution, but the pairs behave differently. Despite the complementary distribution, we conceive of [h] and [ŋ] as somehow completely different consonants, needing to be represented differently even in broad transcription, just like any pair of contrasting phones: [p] and [b], [i] and [ɪ], etc. However, [iː] and [i] just seem to be variants of the same fundamental vowel phoneme.
+That is, we want to treat [h] as belonging to a phoneme distinct from [ŋ], while treating [iː] and [i] as two allophones of the same phoneme. So, the phoneme corresponding to [h] would be notated as /h/, the phoneme corresponding to [ŋ] would be notated as /ŋ/, and the single phoneme corresponding to both [iː] and [i] would be notated as /i/.
+
+## Phonetic similarity of allophones
+
+Why should we treat these two pairs differently? We often make the decision based on phonetic similarity, which is how much the relevant phones have in common in terms of their articulation. The phones [h] and [ŋ] are both consonants, but that is where their phonetic similarity ends: they differ in phonation, place of articulation, and manner of articulation, which are the main properties that define a consonant. This lack of phonetic similarity is a good reason to think that [h] and [ŋ] belong to different phonemes, despite being in complementary distribution in English.
+In comparison, [iː] and [i] have a lot of phonetic similarity: they have the same vowel quality in all four respects (height, backness, rounding, and tenseness), and they differ only in vowel length. Complementary distribution and phonetic similarity together are strong evidence that [iː] and [i] are allophones of the same phoneme in English.
+Of course, we have to be careful when looking at phonetic similarity. The two allophones [ɾ] and [tʰ] of the phoneme /t/ discussed in Section 4.1 are both alveolar consonants, but they are otherwise very different in phonation and manner of articulation.
+A key result of phonology is that if two phones are in contrastive distribution, then they are allophones of different phonemes. But as we see here, if two phones are in complementary distribution, they could be allophones of different phonemes, as with [h] and [ŋ] in English, or allophones of the same phoneme, as with [iː] and [i] in English. Knowing how to decide which is which is another fundamental skill in phonology.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=615#h5p-140
+
+## References
+
+Bonvillain, Nancy. 1973. A grammar of Akwesasne Mohawk. Mercury Series, Ethnology Division, Paper no. 8. Ottawa: National Museum of Man, National Museums of Canada.

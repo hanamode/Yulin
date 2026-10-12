@@ -1,0 +1,24 @@
+{
+ "batch": 24,
+ "out": "data/gen2/batch-24.json",
+ "entries": [
+  {
+   "id": "aphasia",
+   "title": "失语症",
+   "en": "Aphasia",
+   "category": "concepts"
+  },
+  {
+   "id": "categorical-perception",
+   "title": "范畴感知",
+   "en": "Categorical Perception",
+   "category": "concepts"
+  },
+  {
+   "id": "phonemic-restoration",
+   "title": "语音复原效应",
+   "en": "Phonemic Restoration Effect",
+   "category": "concepts"
+  }
+ ]
+}

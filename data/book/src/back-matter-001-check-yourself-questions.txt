@@ -1,0 +1,1109 @@
+# Check Yourself Questions
+
+This is a printable version of the interactive Check Yourself questions and answers from the end of each subsection. Chapter 1: Human Language and Language Science
+
+## 1.1 What even is language?
+
+## Questions
+
+Question 1.1-1. The sentence, “Sam bumped the passenger with the rolling suitcase,” has at least two different meanings. It could mean that Sam had the suitcase and bumped the passenger, or that the passenger had the suitcase and Sam bumped them.
+Which part of the grammar leads to these two different meanings?
+- Syntax
+- Phonology
+- Phonetics
+- Morphology
+- Semantics
+
+Question 1.1-2. Newfoundland English has some characteristics that are different from the varieties of English that are more common in the rest of Canada. The following sentences are grammatical in Newfoundland English:
+
+I eats toast for breakfast every day.
+You knows the answer to that question.
+
+In these examples, what part of the grammar is different from that of standardized Canadian English?
+
+- Syntax
+- Phonology
+- Phonetics
+- Morphology
+- Semantics
+
+Question 1.1-3. Which of the following are examples of implicit knowledge?
+- How to recognize your sister’s voice on the phone.
+- How to calculate the area of a circle.
+- How to make your grandmother’s famous chocolate babka.
+- How to blink when you get dust in your eye.
+
+## Answers
+
+Question 1.1-1. Syntax and semantics.
+Question 1.1-2. Morphology.
+Question 1.1-3. How to recognize your sister’s voice on the phone and how to blink when you get dust in your eye.
+
+## 1.2. What grammars are and aren’t
+
+## Question
+
+Question 1.2-1. Given what you’ve learned in the first couple of sections of this book, which of the following do you predict you’re going to learn in linguistics class?
+- Why verbs come at the end of a sentence in Japanese but at the beginning of a sentence in Welsh.
+- The true meaning of the word literally.
+- Why podcasters should stop using vocal fry.
+- Why all English students should study Latin.
+- What Mandarin, ASL, and English all have in common.
+- Why kids sometimes produce words differently from adults.
+- How to use the word whom correctly.
+
+## Answer
+
+Question 1.2-1.
+- Why verbs come at the end of a sentence in Japanese but at the beginning of a sentence in Welsh.
+- What Mandarin, ASL, and English all have in common.
+- Why kids sometimes produce words differently from adults.
+
+## 1.3 Studying language scientifically
+
+## Question
+
+Question 1.3-1. All of the following are statements people make about language. Check off all the ones that are descriptive statements and leave the prescriptive statements unchecked.
+- In addition to singular and plural forms, some languages (for example, Inuktitut and Arabic) also have dual forms that refer to exactly two of something.
+- English words that are derived from Latin should have Latin plural forms.
+- A sentence like, “You ain’t going nowhere,” really has a positive meaning because two negatives make a positive.
+- The English speech sound made with the tongue between the teeth, usually spelled ‘th’, is quite rare across the world’s languages.
+- American Sign Language (ASL) and British Sign Language (BSL) are two distinct languages.
+- It’s annoying when podcasters use so much vocal fry.
+- Spending too much time texting destroys your writing skills.
+
+## Answer
+
+Question 1.3-1.
+- In addition to singular and plural forms, some languages (for example, Inuktitut and Arabic) also have dual forms that refer to exactly two of something.
+- The English speech sound made with the tongue between the teeth, usually spelled ‘th’, is quite rare across the world’s languages.
+- American Sign Language (ASL) and British Sign Language (BSL) are two distinct languages.
+
+## 1.4 Thinking about standards and “proper” grammar
+
+## Questions
+
+Question 1.4-1. True or False: If everyone spoke standardized English, we could eliminate all language biases.
+Question 1.4-2. True or False: Studying linguistics will make your grammar better.
+Question 1.4-3. True or False: People in the United Kingdom speak better English than people in Canada because the British education system is better.
+
+## Answers
+
+Question 1.4-1. False
+Question 1.4-2. False
+Question 1.4-3. False
+
+## 1.5 Doing harm with language science
+
+## Questions
+
+Question 1.5-1. This section describes some ways that language science has done harm to minoritized groups of people. Think about what you know about other social sciences (such as anthropology, sociology, psychology), life sciences (physiology, biology, neuroscience, etc.) or physical sciences (geology, physics, chemistry, etc.).
+
+What are some ways that these sciences have done harm to humans, either inadvertently or deliberately?
+What are some steps scientists in these fields could take to lessen or even repair these harms?
+Question 1.5-2. These sites attempt to show the languages and language families that were Indigenous to various regions before colonization.
+
+Native Land Digital: https://native-land.ca
+Whose Land: https://www.whose.land/en/
+Choose a region from one of these maps to learn about the language groups and/or treaties of that area. You might choose the region where you are right now, or a region where you have relatives, or just a region that interests you.
+
+What name is currently used for the region you chose?
+What languages are Indigenous to the region you’ve chosen?
+
+## Answers
+
+Answers will vary.
+
+## 1.6 Doing good with language science
+
+## Questions
+
+Question 1.6-1. Have you ever had trouble getting your phone or other voice assistant to recognize your speech? What might have been missing in the programming of that device that prevented it from understanding you?
+Question 1.6-2. Imagine you’re trying to come up with a name for a new product you’ve invented. What factors would you consider in deciding whether the name works for your product or not?
+
+Question 1.6-3. What drew you to studying linguistics? What problem(s) do you hope to be able to solve with language science?
+
+## Answers
+
+Answers will vary.
+Chapter 2: Language, Power and Privilege
+
+## 2.1 How are power and privilege connected to language?
+
+## Questions
+
+Question 2.1. Think of a time when someone corrected or judged your language use. What role did power have in this interaction? What was your social status relative to the person correcting you? What kind of social status was the person enacting towards you? What was the effect of their correction or judgment?
+
+## Answers
+
+Answers will vary.
+
+## 2.2 Language change and gender identity
+
+## Questions
+
+Question 2.2-1. How recently has they been used as a singular pronoun in English?
+
+- They has been used as a generic singular for centuries and now it’s changing to also be used as a specific singular.
+- They started being used as a singular around 2015.
+- Never; they is always plural.
+
+Question 2.2-2. How can people stop language from deteriorating?
+
+- Teach correct grammar in schools.
+- No one can stop language from changing!
+- Correct people every time they make a mistake.
+- Publish extensive dictionaries and make them widely available.
+
+## Answers
+
+Question 2.2-1. They has been used as a generic singular for centuries and now it’s changing to also be used as a specific.
+Question 2.2-2. No one can stop language from changing!.
+
+## 2.3 Linguistic discrimination
+
+## Questions
+
+Question 2.3-1. In a study published in a marketing journal, researchers reported an experiment that asked Americans to consider buying a product that was offered with a set sales script. The script was spoken in English by a salesperson with either a standardized American accent or a Greek accent. Which is true of this study?
+
+- The product is the stimulus and the accent is the guise.
+- The product being sold is the stimulus and the sales script is the guise.
+- The script is the stimulus and the accent is the guise.
+- The accent is the stimulus and the product is the guise.
+
+Question 2.3-2. A Canadian study sent résumés to thousands of hiring managers in Montreal, Toronto, and Vancouver. The résumés all listed the same job experience and skills, but varied in whether the job-seeker’s name was an English name, an Indian name, or a Chinese name. The researchers measured how many résumés led to a job interview. Which is true of this study?
+
+- The job interview is the guise and the job-seeker’s name is the stimulus
+- The job-seeker’s name is the guise and the résumé is the stimulus.
+- The hiring manager is the guise and the résumé is the stimulus.
+- The résumé is the guise and the job interview is the stimulus.
+
+Question 2.3-3. Imagine you want to make friends with your new neighbour who recently moved to Canada and has been learning English for about a year. Which technique(s) would a linguist recommend to make it easier for you to understand your neighbour when she speaks?
+
+- Watch some videos or listen to podcasts by other people who are L2 English speakers
+- Correct your neighbour whenever she makes a mistake.
+- Have lots of conversations with your neighbour so you get lots of opportunity to listen to her speak.
+- Encourage your neighbour to speak more slowly.
+
+## Answers
+
+Question 2.3-1. The script is the stimulus and the accent is the guise.
+Question 2.3-2. The job-seeker’s name is the guise and the résumé is the stimulus.
+Question 2.3-3.
+- Watch some videos or listen to podcasts by other people who are L2 English speakers
+- Have lots of conversations with your neighbour so you get lots of opportunity to listen to her speak.
+Chapter 3: Phonetics
+
+## 3.1 Modality
+
+## Questions
+
+Question 3.1-1. Which of the following is the modality of signed languages?
+
+- manual-auditory
+- vocal-visual
+- vocal-auditory
+- manual-visual
+
+Question 3.1-2. What kind of languages can be studied in phonetics?
+
+- spoken languages only
+- both signed and spoken languages
+- signed languages only
+
+Question 3.1-2. Which of the following subfields of phonetics are studied for both signed and spoken languages? Select all correct answers.
+
+- articulatory phonetics
+- perceptual phonetics
+- acoustic phonetics
+
+## Answers
+
+Question 3.1-1. Manual-visual
+Question 3.1-2. Both signed and spoken languages. Other types of languages can be studied in phonetics, too! Phonetics is the study of modality, and every language has a modality.
+Question 3.1-3. Articulatory phonetics and perceptual phonetics.
+
+## 3.2 Speech articulators
+
+## Questions
+
+Question 3.2-1. Which of the following parts of the body is not considered part of the vocal tract, because it is not normally used for phones in spoken languages?
+
+- pharynx
+- oral cavity
+- esophagus
+- nasal cavity
+- trachea
+
+Question 3.2-2. Which of the following ways of producing sound with the body are known to be used to create phones in some spoken languages?
+
+- clapping
+- burping
+- snapping
+- clicking
+
+## Answers
+
+Question 3.2-1. The esophagus. It connects the vocal tract to the stomach, but spoken languages do not ordinarily use airflow into or out of the stomach.
+Question 3.2-2. Clicking. Although many languages do not have clicks as phones, some languages do, such as Hadza and isiZulu.
+
+## 3.3 Describing consonants: Place and phonation
+
+## Questions
+
+Question 3.3-1. Which of the following are including in the tongue front? There are two answers. Select both.
+
+- back
+- hard palate
+- root
+- velum
+- blade
+- tip
+
+Question 3.3-2. Which of the following are passive articulators in the vocal tract? Select all that apply.
+
+- pharynx
+- hard palate
+- alveolar ridge
+- glottis
+- lower lip
+- uvula
+
+Question 3.3-3. How is a consonant’s place of articulation ordinarily defined?
+
+- a constriction in the oral cavity
+- a combination of any two articulators
+- a combination of an active and passive articulator
+- a combination of a part of the tongue and a part of the roof of the mouth
+
+Question 3.3-4. Which somewhat odd place of articulation uses the same articulators needed for phonation?
+
+- palatal
+- labiopharyngeal
+- pharyngeal
+- glottal
+- bilabial
+
+Question 3.3-5. What is another name for vocal fold vibration?
+
+- articulation
+- glottis
+- voicing
+- phonation
+
+## Answers
+
+Question 3.3-1. Blade and tip.
+Question 3.3-2. The hard palate, the alveolar ridge, and the uvula.
+Question 3.3-3. A combination of an active and passive articulator.
+Question 3.3-4. Glottal.
+
+Question 3.3-5. Voicing.
+
+## 3.4 Describing consonants: Manner
+
+## Questions
+
+Question 3.4-1. Which of the following manners of articulation have the widest opening in the oral cavity?
+
+- approximant
+- oral stop
+- fricative
+- nasal stop
+
+Question 3.4-2. Which of the following manners of articulation are included in the class of obstruents? Select all that apply.
+
+- fricative
+- affricate
+- nasal stop
+- oral stop
+- approximant
+
+Question 3.4-3. Which of the following manners of articulation are included in the class of continuants? Select all that apply.
+
+- nasal stop
+- approximant
+- oral stop
+- affricate
+- fricative
+
+Question 3.4-4. Passive articulators do not normally move, though the upper lip is an exception. Which other passive articulator is also an exception, because its position determines whether a stop is oral or nasal?
+
+- velum
+- tongue back
+- hard palate
+- upper teeth
+- alveolar ridge
+
+## Answers
+
+Question 3.4-1. Approximant.
+Question 3.4-2. Fricative, affricate, nasal stop, and oral stop.
+Question 3.4-3. Approximant and fricative.
+Question 3.4-4. Velum.
+
+## 3.5 Describing vowels
+
+## Questions
+
+Question 3.5-1. Which aspect of vowel quality is determined by the vertical position of the tongue within the oral cavity?
+- tenseness
+- height
+- length
+- nasality
+- rounding
+- backness
+
+Question 3.5-2. Because of how the human jaw moves, there is a relationship between vowel height and vowel backness. Which of the following best expresses that relationship?
+- High front vowels tend to be backer than low front vowels.
+- High back vowels tend to be fronter than low back vowels.
+- Low front vowels tend to be backer than high front vowels.
+- Low back vowels tend to be fronter than high back vowels.
+
+Question 3.5-3. What articulation distinguishes an oral vowel from a nasal vowel?
+- Oral vowels have a lowered velum, while nasal vowels have a raised velum.
+- Oral vowels have a raised velum, while nasal vowels have a lowered velum.
+- Oral vowels have a lowered nasal cavity, while nasal vowels have a raised nasal cavity.
+- Oral vowels have a raised nasal cavity, while nasal vowels have a lowered nasal cavity.
+
+## Answers
+
+Question 3.5-1. Height.
+Question 3.5-2. Low front vowels tend to be backer than high front vowels.
+Question 3.5-3. Oral vowels have a raised velum, while nasal vowels have a lowered velum.
+
+## 3.6 The International Phonetic Alphabet
+
+## Questions
+
+Question 3.6-1.What is the IPA symbol for a voiceless velar plosive?
+- [x]
+- [t]
+- [ɡ]
+- [k]
+
+Question 3.6-2. Which of the following IPA symbols represents a consonant with the same place of articulation as the consonant represented by [n]? Select all that apply.
+- [m]
+- [ʒ]
+- [d]
+- [s]
+- [u]
+
+Question 3.6-3. What articulatory properties do [θ] and [ʃ] have in common? Select all that apply.
+- phonation
+- place of articulation
+- manner of articulation
+
+Question 3.6-4. What is the IPA symbol for a mid front unrounded lax vowel?
+- [ɪ]
+- [ɛ]
+- [æ]
+- [e]
+- [ɔ]
+
+Question 3.6-5. Which of the following IPA symbols represents a vowel with the same height as the vowel represented by [u]? Select all that apply. Consider only a three-way height distinction (high, mid, low).
+- [ɑ]
+- [i]
+- [ɔ]
+- [ʊ]
+
+## Answers
+
+Question 3.6-1. [k].
+Question 3.6-2. [d] and [s].
+Question 3.6-3. Phonation and manner of articulation. They are both voiceless fricatives.
+Question 3.6-4. [ɛ].
+
+Question 3.6-4. [i] and [ʊ].
+
+## 3.7–3.12 Coming soon!
+Chapter 4: Phonology
+Coming soon! Chapter 5: Morphology
+Coming soon! Chapter 6: Syntax
+Coming soon! Chapter 7: Semantics
+
+## 7.1 Linguistic meaning
+
+## Question
+
+Question 7.1-1. Which of these sentences describe non-linguistic meaning? Select all that apply.
+
+- When my toddler is this quiet, it usually means trouble.
+- I saw a double rainbow; what does it mean?!
+- Giving you this gift means that I’m sorry.
+- What does swill even mean?
+
+## Answer
+
+Question 7.1-1.
+- When my toddler is this quiet, it usually means trouble. This one designates a relationship between the state of the toddler being quiet and some sort of outcome. This is not linguistic.
+I saw a double rainbow; what does it mean?!
+- This one designates a relationship between the double rainbow (the actual thing in the real world) and some sort of interpretation of the world. This is not linguistic.
+Giving you this gift means that I’m sorry.
+- This one designates a relationship between the act of giving the gift and some sort of sentiment. This is not linguistic.
+What does swill even mean?
+- Note that swill is italicized; this question can be interpreted as ‘What is the sense of the word swill?‘. This is linguistic meaning.
+
+## 7.2 Compositionality: Why not just syntax?
+
+## Questions
+
+Question 7.2-1. What does the principle of compositionality predict? Select all that apply.
+
+- That since there are two possible structures for the sentence The raccoon thought about the food in that trashcan, there should be two possible meanings for it.
+- That language users have to memorize the meaning of most sentences and store them as wholes in their head.
+- That in the word unluckily, the meaning of un-, the meaning of luck, the meaning of -y, and the meaning of -ly should be present.
+
+Question 7.2-2. True or false: All DPs are referential in their meaning.
+
+## Answers
+
+Question 7.2-1.
+- That since there are two possible structures for the sentence The raccoon thought about the food in that trashcan, there should be two possible meanings for it. This one is true. Compositionality cares about how words combine in a sentence too, not just which words were put together. Structural ambiguity like this highlights the “how they combine” part of compositionality.
+That language users have to memorize the meaning of most sentences and store them as wholes in their head.
+- This is not predicted by compositionality. If you know the meaning of the subparts of the sentence (e.g., the meaning of the morphemes), then you shouldn’t have to store sentences as wholes; you can just store the meaning of morphemes in your head. In fact, it would be impossible to store “all of the sentences in a language” in your head, because language can produce an infinite number of sentences. Exceptions include idioms (e.g., raining cats and dogs), which are not compositional, and thus must be stored as a whole unit.
+That in the word unluckily, the meaning of un-, the meaning of luck, the meaning of -y, and the meaning of -ly should be present.
+- This one is true. Compositionality says that the meaning of a complex linguistic unit results from what pieces got put together, and how they got put together. This statement highlights the “what got put together” part of compositionality.
+
+Question 7.2-2. False.
+
+7.3 What does this sentence “mean”? Entailments vs. implicatures
+
+## Questions
+
+Question 7.3-1. Is (2) a regular entailment, a presupposition, or an implicature of (1)?
+
+(1) The professor petted a cat again.
+(2) The professor has previously petted a cat.
+
+Question 7.3-2. Is (2) a regular entailment, a presupposition, or an implicature of (1)?
+
+(1) The professor petted a cat.
+(2) The professor likes cats.
+
+Question 7.3-3. Is (2) a regular entailment, a presupposition, or an implicature of (1)?
+
+(1) The professor adopted a brown cat.
+(2) The professor adopted a cat.
+
+## Answers
+
+Question 7.3-1. Presupposition.
+Question 7.3-2. Implicature.
+Question 7.3-3. Regular entailment.
+
+## 7.4 The mental lexicon
+
+## Questions
+
+Question 7.4-1. Determine if the bracketed portion of the sentence has compositional meaning or non-compositional meaning.
+You need to [prebake] the pie crust.
+Question 7.4-2. Determine if the bracketed portion of the sentence has compositional meaning or non-compositional meaning.
+Do you [brush] your cat daily?
+
+Question 7.4-3. Determine if the bracketed portion of the sentence has compositional meaning or non-compositional meaning.
+When Chenchen was talking about her plans for the new year, she [let the cat out of the bag]: she let it slip that she was quitting her current job.
+Question 7.4-4. Determine if the bracketed portion of the sentence has compositional meaning or non-compositional meaning.
+The [beige notebook on the table] belongs to me.
+
+## Answers
+
+Question 7.4-1. Compositional meaning.
+Question 7.4-2. Non-compositional meaning.
+
+Question 7.4-3. Non-compositional meaning. Based on the context, this is most likely the idiomatic use of “let the cat out of the bag”, not a literal one — it’s an idiom in English that means ‘to reveal a secret’.
+Question 7.4-4. Compositional meaning.
+
+## 7.5 The nature of lexical meaning
+
+## Questions
+
+Question 7.5-1. For chair, “the purpose of it is to seat one person” is listed as a part of the necessary and sufficient conditions. Why do you think we need to specify it’s for one person? What might be miscategorized as a chair if we do not specify “for one person”?
+Question 7.5-2. What does the “cup or bowl” type of experiment say about the nature of categorization?
+
+## Answers
+
+Question 7.5-1. We need to specify “for one person” if we want to exclude benches! But are benches a type of chair? Something to think about.
+Question 7.5-2.It shows that category boundaries are not so sharp, and that they can be fuzzy. The concepts attached to a word seems to be much more than just “necessary and sufficient” conditions.
+
+## 7.6 Events and thematic roles
+
+## Question
+
+Question 7.6-1. Using event semantics in the style of (15), give the lexical meaning of the verb frighten, as in the following sentence.
+The sound will frighten the child.
+
+## Answer
+
+Question 7.6-1.
+
+There is an event e &
+e is a FRIGHTEN event &
+x is the EXPERIENCER of e &
+y is the CAUSER of e.
+
+## 7.7 Countability
+
+## Questions
+
+Question 7.7-1. In the following sentence, is the bolded word used as a count noun or mass noun?
+
+Cracking your egg against the coutner is risky; if you hit it too hard, you’ll get egg everywhere.
+Question 7.7-2. In the following sentence, is the bolded word used as a count noun or mass noun?
+
+If you have a lot of ideas, make sure you write them down somewhere.
+
+## Answers
+
+Question 7.71. Mass noun.
+
+Question 7.72. Count noun.
+
+## 7.8 Individual- vs. stage-level predicates
+
+## Questions
+
+Question 7.8-1. We said that some adjectives in Spanish are ambivalent, meaning they can take on a stage-level or individual-level interpretation depending on context. Given what you have learned about Spanish copulas, what might be a better paraphrase of what the following Spanish sentence means in English?
+
+Tu hermano es inquieto.
+your brother is restless.
+‘Your brother is restless.’
+- ‘Your brother is a restless person (i.e., he’s generally restless all the time).
+- ‘Your brother is being restless (e.g., right now, in this particular situation)’
+
+Question 7.8-2. We said that some adjectives in Spanish are ambivalent, meaning they can take on a stage-level or individual-level interpretation depending on context. Given what you have learned about Spanish copulas, what might be a better paraphrase of what the following Spanish sentence means in English?
+
+Tu hermano está inquieto.
+your brother is restless.
+‘Your brother is restless.’
+
+- ‘Your brother is a restless person (i.e., he’s generally restless all the time).
+- ‘Your brother is being restless (e.g., right now, in this particular situation)’
+
+## Answers
+
+Question 7.8-1. ‘Your brother is a restless person (i.e., he’s generally restless all the time).
+Question 7.8-2. ‘Your brother is being restless (e.g., right now, in this particular situation).
+
+## 7.9 Degrees
+
+## Questions
+
+Question 7.9-1. Based on what you learned about degrees and scales, what might be the reason why (1) is a valid comparison in English, while (2) is a bit more strange?
+
+(1) This shelf is taller than this table is wide.
+(2) ?This shelf is taller than this music is loud.
+Question 7.9-2. We saw that some languages like Washo have no overt comparative morphemes like -er or more. In these languages, ‘x is taller than y’ can be expressed as ‘x is tall, y is not tall’. “Degreeless” languages like this also lack superlative morphemes like -est and most as well. Make an educated guess as to how people might express ‘x is the tallest in this class’ in a language like Washo.
+
+## Answers
+
+Question 7.9-1. In (1), tallness can be compared to width, because both tall and width use the same kind of scale: some sort of length scale. Both the degree of tallness and the degree of width can lie on the same scale. In (2), tallness cannot be compared to loudness, because tall and loud use different kinds of scales: length and intensity of sound, respectively. The degrees that you are trying to compare would lie on different scales.
+Question 7.9-2. In Washo, if you wanted to express ‘x is the tallest in the class’, you can say literally ‘x is tall, everyone else (in the class) is not tall’! (Source: Bochnak 2015)
+
+## 7.10 Why not the dictionary?
+
+## Questions
+
+Question 7.10-1. True or false: If a word that is used by a language community is not in the Oxford English Dictionary, then it isn’t a real word.
+Question 7.10-2. True or false: Dictionaries do not necessarily list all meanings/uses of a word.
+
+## Answers
+
+Question 7.10-1. It is false. A dictionary does not decide what is a “real” word or not. If people use that word, then it is a word!
+Question 7.10-2. It is true. Most words have so many different uses, it’s impossible for lexicographers to list every single use of every single word in a dictionary! They only list enough information so that you get a general idea of how the word is used.
+
+## 7.11 Denotation
+
+## Questions
+
+Question 7.11-1. What is the denotation of the word purple in the following sentence?
+
+Josh’s mug is purple.
+- The set of all purple things in the actual world.
+- T if Josh’s mug is purple in the actual world, F otherwise.
+- The individual Josh in the actual world.
+
+Question 7.11-2. What is the denotation of the following sentence?
+
+The CN Tower is in Toronto.
+- The CN Tower in the actual world
+- The city of Toronto in the actual world
+- The set of things that are in Toronto in the actual world
+- T
+- F
+
+Question 7.11-3. What is the denotation of the name Sandra Oh in the following sentence?
+
+Sandra Oh is an actress.
+
+## Answers
+
+Question 7.11-1. The set of all purple things in the actual world.
+Question 7.11-2. T.
+
+Question 7.11-3. The individual Sandra Oh in the actual world.
+
+## 7.12 Introduction to set theory
+
+## Question
+
+Question 7.12-1. Consider the following sets. Which of the following are true statements in set theory notation? Select all that apply.
+
+A = { a, b, c }
+B = { a, b }
+C = { c, d, e }
+D = { c, d, e }
+
+- C⊂D
+- B⊆A
+- C⊆D
+- B⊂A
+- e∈D
+- B⊆C
+
+## Answer
+
+Question 7.12-1.
+- B⊆A
+- C⊆D
+- B⊂A
+- e∈D
+
+## 7.13 Negative polarity items
+
+## Questions
+
+Question 7.13-1. Consider the environment Nobody ___, as in Nobody dressed up as a dinosaur. Determine if this is a downward-entailing or an upward-entailing environment, following the steps that were described in this section. The first step has been given to you already.
+Step 1: Nobody dressed up as a dinosaur. (superset)
+Step 2:
+Step 3:
+Answer: Downward-entailing or upward-entailing?
+Question 7.13-2. Consider the environment I know that ___, as in I know that you own a broomstick. Determine if this is a downward-entailing or an upward-entailing environment, following the steps that were described in this section. The first step has been given to you already.
+
+Step 1: I know that you own a broomstick. (superset)
+Step 2:
+Step 3:
+Answer: Downward-entailing or upward-entailing?
+
+Question x.x2. Question
+
+## Answers
+
+Question 7.13-1.
+
+Step 1: Nobody dressed up as a dinosaur. (superset)
+Step 2: Nobody dressed up as a T-Rex. (subset)
+Step 3: The superset sentence entails the subset sentence, but not the other way around. (If nobody dressed up as a dinosaur, then it necessarily means that nobody dressed up as a T-Rex. But if nobody dressed up as a T-Rex, it doesn’t necessarily mean that nobody dressed up as a dinosaur — perhaps someone dressed up as a pterodactyl!)
+Answer: Downward-entailing.
+Question 7.13-2.
+
+Step 1: I know that you own a broomstick. (superset)
+Step 2: I know that you own a wooden broomstick. (subset)
+Step 3: The sentence with the subset entails the sentence with the superset, but not the other way around. (If I know that you own a wooden broomstick, then I necessarily know that you own a broomstick. But if I know that you own a broomstick, I don’t necessarily know that you own a wooden broomstick — maybe it’s plastic.)
+Answer: Upward entailing. Chapter 8: Pragmatics
+
+## 8.1 At-issue vs. non-at-issue meaning
+
+## Question
+
+Question 8.1-1. Consider the following meanings that the italicized sentence produces in this context. Which of these are non-asserted meaning? Select all that apply.
+
+(Context: Leela usually touches her hair frequently when she is stressed.)
+Leela is touching her hair again.
+
+- ‘There is an event in which Leela is touching her hair.’
+- ‘Leela is stressed.’
+- ‘Leela has touched her hair before.’
+
+## Answer
+
+Question 8.1-1.
+- ‘Leela is stressed.’ This is an implicature, which is non-asserted.
+- ‘Leela has touched her hair before.’ This is a presupposition, which is non-asserted.
+
+Chapter 9: Reclaiming Indigenous Languages
+Coming soon! Chapter 10: Language Variation and Change
+Coming soon! Chapter 11: Child Language Acquisition
+
+## 11.1 Tiny, powerful language learners
+
+## Questions
+
+Question 11.1-1. Which of the following is good evidence for the importance of the language environment to children’s language acquisition?
+
+- A child who is adopted at birth acquires the language of their adoptive parents.
+- Deaf children naturally learn to sign because they don’t have access to spoken language.
+- A newborn can tell the difference between a child’s voice and an adult’s voice.
+- Children who get a lot of screen time have slower language development.
+
+Question 11.1-2.
+
+In the child language literature, what is the conventional way of representing the age of a child who is two-and-a-half years old?
+
+- 0;30
+- 2;6
+- 2.5
+- 2:6
+- 2, 1/2
+
+## Answers
+
+Question 11.1-1. A child who is adopted at birth acquires the language of their adoptive parents.
+Question 11.1-2. 2;6
+
+## 11.2 When does language learning start?
+
+## Questions
+
+Question 11.2-1. In the high-amplitude sucking paradigm, what observation do researchers interpret to mean that a baby has noticed a difference between stimuli?
+
+- The infant sucks at a high rate.
+- The infant’s sucking rate declines after being high.
+- The infant’s sucking rate increases after declining.
+
+Question 11.2-2. Suppose a pregnant parent is bilingual in two languages that have similar prosodic rhythm patterns. Is it likely or unlikely that this parent’s newborn infant will notice the difference between the two languages?
+
+## Answers
+
+Question 11.2-1. The infant’s sucking rate increases after declining.
+Question 11.2-2. Unlikely
+
+## 11.3 Phonemic contrast
+
+## Questions
+
+Question 11.3-1. The phonology of Thai contains a three-way contrast between voiced /b/, voiceless /p/, and aspirated /ph/. Is it very likely or very unlikely that a six-month-old baby growing up in an English-speaking household would be able to hear the difference between Thai [p] and [ph]?
+Question 11.3-2. Arabic phonology includes a contrast between uvular and pharyngeal fricatives. Is it very likely or very unlikely that a two-year-old growing up in an English-speaking household would be able to hear the difference between these two places of articulation?
+Question 11.3-3. In the various dialects of Chinese, there is no phonemic contrast between tense and lax vowels. Is it very likely or very unlikely that a four-month-old baby growing up in a Mandarin Chinese-speaking household would be able to hear the contrast between English [e] and [ɛ]?
+
+## Answers
+
+Question 11.3-1. Very likely.
+
+Question 11-3.2. Very unlikely.
+Question 11.3-3. Very likely.
+
+## 11.4 Early language production
+
+## Questions
+
+Question 11.4-1. Around age 0;6 both deaf and hearing babies produce vocal babbling. By age 0;10 hearing babies continue to babble vocally but deaf babies’ vocal babbles are less frequent. What’s the likeliest explanation for this difference??
+
+- Deaf babies have less control of the articulators for speech.
+- Deaf babies have signed language in their environment.
+- Deaf babies don’t have access to vocal language to shape their babbles.
+
+Question 11.4-2. A child whose father has a bear refers to anyone with a beard as “Dada”. Is that child’s meaning for the word dada (daddy) overextended or underextended?
+
+Question 11.4-3. A young child in a stroller heard a noisy motorcycle drive past and uttered [ætoʊ], his word for vacuum. Is his meaning for the word vacuum overextended or underextended?
+
+## Answers
+
+Question 11.4-1.Deaf babies don’t have access to vocal language to shape their babbles.
+Question 11-4.2. Overextended.
+Question 11.4-3.Overextended.
+
+## 11.5 The language environment and the so-called word gap
+
+## Questions
+
+Question 11.5. Each of the following describes a metric that a researcher might choose for recording a child’s language use. All metrics have biases. Of the ones presented here, some are biased towards overestimating a child’s grammatical competence, and some are biased towards underestimating it. Rank these metrics in order from most generous to least generous.
+- An audio or video device records all the child’s utterances for the same one-hour period every day for a week.
+- A researcher visits the child’s home for one-hour periods selected randomly over the course of a week. They transcribe all the child’s utterances during those periods.
+- An audio or video device records all the child’s utterances for one-hour periods selected randomly over the course of a week.
+- A researcher visits the child’s home for one-hour periods selected randomly over the course of a week. They transcribe all the child’s recognizable words during those periods.
+- An audio or video device records every utterance the child makes over the course of an entire week, both at home and at school/daycare.
+
+## Answers
+
+Question 11.5.
+- An audio or video device records every utterance the child makes over the course of an entire week, both at home and at school/daycare.
+- An audio or video device records all the child’s utterances for one-hour periods selected randomly over the course of a week.
+- An audio or video device records all the child’s utterances for the same one-hour period every day for a week.
+- A researcher visits the child’s home for one-hour periods selected randomly over the course of a week. They transcribe all the child’s utterances during those periods.
+- A researcher visits the child’s home for one-hour periods selected randomly over the course of a week. They transcribe all the child’s recognizable words during those periods.
+
+## 11.6 Understanding word combinations
+
+## Questions
+
+Image for Questions 11.6-1 and 11.6-2: A grid containing four vegetables: top left is an onion, top right is a summer squash, bottom left is a purple-polka-dotted onion, bottom right is an onion.
+Question 11.6-1. If you showed this picture to a two-year-old and asked them to point to “the feppy one”, which of the four pictures is the child likely to point to?
+- top left (plain onion)
+- top right (summer squash)
+- bottom left (polka-dot onion)
+- bottom right (plain onion)
+
+Question 11.6-2. If you showed this picture to a two-year-old and asked them to point to “the fep”, which of the four pictures is the child likely to point to?
+- top left (plain onion)
+- top right (summer squash)
+- bottom left (polka-dot onion)
+- bottom right (plain onion)
+
+## Answers
+
+Question 11.6-1. Bottom left (polka-dot onion).
+Question 11.6-2. Top right (summer squash).
+
+## 11.7 Syntax in early utterances
+
+## Questions
+
+Question 11.7. None of the following sentences is typical of adult English grammar (in other words, they might count as “errors”), but some of them are likely to be uttered by children and others are not. Which sentences are unlikely errors? Check all that apply.
+- My cereal is very milk.
+- I’m filling some sugar into the bowl.
+- Open me the door.
+- Can you lotion my hands?
+- The want babies some milk.
+- I don’t want a sweater. It always sweats me.
+- I hate you and I’m never going to unhate you.
+
+## Answers
+
+Question 11.7. My cereal is very milk.; The want babies some milk.
+
+## 11.8 Developing word meanings
+
+## Questions
+
+Question 11.8-1. Researchers investigated whether young children could use the semantic restrictions of verbs to figure out the meanings of novel nouns. They presented a novel noun like blick in one of two contexts:
+Constrained context: The blick is crying.
+Unconstrained context: The blick is right here.
+Notice that only animate things can cry, while any kind of object could be right here. The researchers used a preferential looking task with two images: one of a hedgehog and one of a bath sponge. If children can indeed use these semantic constraints, what results would we predict in response to the question, “Where is the blick?” in the constrained context?
+- no difference in looks between the hedgehog and the sponge
+- more looks to the sponge than to the hedgehog
+- more looks to the hedgehog than to the sponge
+
+Question 11.8-2.One of the earliest investigations of children’s understanding of mass/count syntax in English showed children a bowl of noodles and described it with a sentence including a novel word. If children are sensitive to mass/count syntax, the sentence frame should affect their interpretation of the word. For each sentence, drag the answer that represents their interpretation.
+- This is some corvel.
+- This is a corvel.
+- This is my corvel.
+- bowl
+- noodles
+- no difference
+
+## Answers
+
+Question 11.8-1. More looks to the hedgehog than to the sponge.
+Question 11.8-2. some corvel: noodles / a corvel: bowl / my corvel: no difference
+
+## 11.9 Growing up bilingual (or multilingual!)
+
+## Questions
+
+Question 11.9-1. One task used in cognitive assessments is a sorting task. A bin contains coloured shapes: red circles, red squares, blue circles, and blue squares. In the first stage of the task, the child has to sort out the bin by colour, grouping all the reds together and all the blues together. Then in the second stage, they mix up all the shapes again and sort them by shape, grouping all the circles together and all the squares together. To successfully complete the second task, children have to ignore the sorting rule they learned on the first task. If bilingualism does indeed have a positive effect on executive function, what results would we predict for this task?
+- No difference between monolingual and bilingual children on the second task.
+- Monolingual children will complete the second task more quickly and accurately than bilingual children.
+- Bilingual children will complete the second task more quickly and accurately than monolingual children.
+
+Question 11.9-2. Parents of deaf children who are considering cochlear implants for their child are sometimes reluctant to provide access to signed language, because they worry that it will delay the child’s acquisition of spoken language. Given what you now know about language acquisition, do you think their fear is realistic?
+- Yes, because the signed modality will interfere with the spoken modality.
+- Yes, because bilingual children are often delayed relative to monolingual children.
+- No, because the cochlear implant provides such high-quality input that the child will learn spoken language easily after receiving the implant.
+- No, because acquiring a grammar for signed language will facilitate the child’s acquisition of spoken language after receiving the implant.
+
+## Answers
+
+Question 11.9-1.Bilingual children will complete the second task more quickly and accurately than monolingual children.
+Question 11.9-2. No, because acquiring a grammar for signed language will facilitate the child’s acquisition of spoken language after receiving the implant. Chapter 12: Adult Language Acquisition
+Coming soon! Chapter 13: Psycholinguistics and Neurolinguistics
+Coming soon! Appendix 1: PSRs and Flat Tree Structure
+
+## A1.1 Phrase Structure Rules
+
+## Questions
+
+Question A1.1-1. Match the words to the correct blank.
+What is the function of each part of the following PSR?
+XP → WP X (YP+) ZP
+The XP is ______ of the constituent.
+The WP is ______ of the constituent.
+The X is ______ of the constituent.
+The YP is ______ of the constituent.
+The ZP is ______ of the constituent.
+words to match:
+- the head
+- an optional element that can be repeated
+- the label
+- an optional element that cannot be repeated
+- an obligatory element
+
+Question A1.1-2. Match the words to the correct blank.
+
+The following sentence has ______ embedded clause.
+“The very fast red racecar crossed the finished line first in the final competition.”
+
+The following sentence has ______ embedded clause.
+“That the red racecar won surprised the judges.”
+
+The following sentence has ______ embedded clause.
+“One of the judges thinks that the driver cheated.”
+
+Words to match:
+- no
+- a subject
+- an object
+
+Question A1.1-3. Match the words to the correct blank.
+
+Consider the following sentence.
+“The extremely loud child was demanding a large unhealthy candy.”
+
+The word “extremely” is an ______ that modifies the word ______, not ______. The word ‘large’ is an ______ that modifies the word ______, not ______.
+
+Words to match:
+- adverb
+- adjective
+- ‘child’
+- ‘loud’
+- ‘candy’
+- ‘unhealty’
+
+## Answers
+
+Question A1.1-1.
+The XP is the label of the constituent.
+The WP is an obligatory element of the constituent.
+The X is the head of the constituent.
+The YP is an optional element that can be repeated of the constituent.
+The ZP is an optional element that cannot be repeated of the constituent.
+Question A1.1-2.
+The following sentence has no embedded clause.
+“The very fast red racecar crossed the finished line first in the final competition.”
+The following sentence has a subject embedded clause.
+“That the red racecar won surprised the judges.”
+The following sentence has an object embedded clause.
+“One of the judges thinks that the driver cheated.”
+Question A1.1-3.
+The word “extremely” is an adverb that modifies the word ‘loud’, not ‘child’. The word ‘large’ is an adjective that modifies the word ‘candy’, not ‘unhealthy’.
+
+## A1.2 Phrase Structure Rules in Other Languages
+
+Coming soon!
+
+## A1.3 Properties of PSR Trees
+
+## Questions
+
+Question A1.3-1. Which of the following is NOT usually a property of heads?
+- There is only one head per phrase.
+- The label of a phrase is usually named after its head.
+- The head is usually a phrase.
+- The head is usually obligatory.
+
+Question A1.3-2.
+
+[图片：file-630465797e431.jpg]
+
+Which of the tree diagrams in the image above correctly represent the heads of the phrase extremely loud child?
+
+- tree A: [NP [AdjP [AdvP [Adv extremely] ] [Adj loud] ] [N child] ]
+- tree B: [AdvP [Adv extremely] [AdjP [Adj loud] [NP [N child] ] ] ]
+- tree C: [NP [AdjP [Adv extremely] [Adj loud] ] [N child] ]
+- tree D: [AdvP [Adv extremely] [AdjP [Adj loud] [N child] ] ]
+
+Question A1.3-3. Which two of the following groups of rules are recursive?
+
+- AdvP → (AdvP) Adv
+- S → NP VP // VP → V CP // CP → (Comp) S
+- VP → V NP PP // PP → P NP
+- S → NP VP // VP → V NP
+
+## Answers
+
+Question A1.3-1. The head is usually a phrase.
+
+The head is never a phrase! However, most other things inside a constituent are usually phrases.
+
+Question A1.3-2. Tree A.
+
+Question A1.3-3.
+
+- AdvP → (AdvP) Adv
+- S → NP VP // VP → V CP // CP → (Comp) S
+
+## A1.4 Structural Ambiguity
+
+Coming soon!
+
+## A1.5 Head movement in yes-no questions
+
+Coming soon!
+
+## A1.6 Phrasal movement in wh-questions
+
+Coming soon!
+
+## A1.7 Draw a Tree Step-by-Step
+
+## Questions
+
+Question A1.7-1. Select the main verbs in the following sentences. Remember, there can be more than one main verb if the sentence has an embedded clause!
+
+1. My family had spaghetti for dinner last night.
+2. What did you eat for dinner?
+3. My baby sister spilled pasta sauce all over the floor.
+4. I hope that the sauce doesn’t stain the carpet.
+5. It is being scrubbed right now.
+6. Will we find out whether it left a mark?
+7. It somehow hadn’t been ruined already.
+
+Question A1.7-2. For each clause, identify whether it is a statement, a content question, or a yes-no question. There are 3 statements, 3 content questions, and 2 yes-no questions.
+
+1. [What did you eat for dinner]?
+This clause is a ______.
+
+2. [My baby sister spilled pasta sauce all over the floor].
+This clause is a ______.3. [Who hopes [that the sauce doesn’t stain the carpet]]?
+The main clause is a ______ and the embedded clause is a ______.4. [Will we find out [whether it left a mark]]?
+The main clause is a ______ and the embedded clause is a ______.5. I asked [how long should we soak it for].
+The main clause is a ______ and the embedded clause is a ______.
+
+Question A1.7-3. Select the word that the bolded phrase modifies.
+Here is an example:
+1. Let’s throw out the ruined carpet.
+In sentence one, ruined modifies carpet, so you would click on carpet.
+
+2. My family had spaghetti for dinner last night.
+
+3. My baby sister spilled pasta sauce all over the floor.
+4. I ate my spaghetti with a fork .
+5. I ate the spaghetti with basil .
+6. For dessert, we had strawberries with large dollops of whipped cream.
+7. For dessert, we had strawberries with large dollops of whipped cream.
+8. For dessert, we had strawberries with large dollops of whipped cream.
+9. For dessert, we had strawberries with large dollops of whipped cream.
+
+## Answers
+
+Question A1.7-1.
+1. My family had spaghetti for dinner last night.
+2. What did you eat for dinner?
+3. My baby sister spilled pasta sauce all over the floor.
+4. I hope that the sauce doesn’t stain the carpet.
+5. It is being scrubbed right now.
+6. Will we find out whether it left a mark?
+7. It somehow hadn’t been ruined already.
+Question A1.7-2.
+1. [What did you eat for dinner]?
+This clause is a content question.
+2. [My baby sister spilled pasta sauce all over the floor].
+This clause is a statement.
+3. [Who hopes [that the sauce doesn’t stain the carpet]]?
+The main clause is a content question and the embedded clause is a statement.
+4. [Will we find out [whether it left a mark]]?
+The main clause is a yes-no question and the embedded clause is a yes-no question.
+5. I asked [how long should we soak it for].
+The main clause is a statement and the embedded clause is a content question.
+
+Question A1.7-3. The modified words are underlined.
+
+2. My family had spaghetti for dinner last night.
+
+3. My baby sister spilled pasta sauce all over the floor.
+4. I ate my spaghetti with a fork .
+5. I ate the spaghetti with basil .
+6. For dessert, we had strawberries with large dollops of whipped cream.
+7. For dessert, we had strawberries with large dollops of whipped cream.
+8. For dessert, we had strawberries with large dollops of whipped cream .
+9. For dessert, we had strawberries with large dollops of whipped cream .

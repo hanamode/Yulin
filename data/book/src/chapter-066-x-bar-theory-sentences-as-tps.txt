@@ -1,0 +1,85 @@
+# 6.15 Trees: Sentences as TPs
+
+So far we’ve applied X-bar theory to a range of phrase types. But what about sentences? Up to this point we’ve simply been labelling them as “S”, as in Figure 6.10.
+
+[图片：615_tree1_repaired.png]
+
+Figure 6.10 Tree diagram for The robot repaired a spaceship. (to be revised)
+But if a “phrase” is a string of words that form a constituent, then sentences are also phrases—and X-bar theory requires that all phrases have heads, a hypothesis we don’t want to abandon unless we have evidence that it’s incorrect.
+What could the head of the sentence be?
+Recall that we had a phrase structure rule for sentences like the following:
+- S → NP (Aux) VP
+
+This rule allows sentences to include an auxiliary between the subject NP and the predicate VP, as in Figure 6.11:
+
+[图片：615_tree2_willrepair.png]
+
+Figure 6.11 Tree diagram for The robot will repair a spaceship. (to be revised)
+This tree has two problems from the perspective of X-bar theory: now not only does the sentence (S) not have a head, but the auxiliary is a head without a phrase! We could simply put the Aux into an AuxP, as we did with determiners, degree adverbs, and so on. But there’s another option open to us: we can solve both the lack of a phrase for Aux and the lack of a head for S in one stroke, by analyzing the auxiliary itself as the head of the phrase:
+
+[图片：615_tree3_AuxP.png]
+
+Figure 6.12 Tree diagram for The robot will repair a spaceship., with the sentence as category AuxP (to be revised)
+What if there weren’t an auxiliary, though? Are all sentences AuxPs? No. In fact, if we think about what auxiliaries in English express, they are always inflected for tense. Even in the absence of an auxiliary, we see tense on the main verb, and in nonfinite clauses the nonfinite marker to takes the place of an auxiliary.
+Based on this, the proposal in X-bar theory is that sentences aren’t auxiliary phrases, but they are tense phrases (TPs). Tense represents finiteness—we say that sentences when they stand independently are always finite, which is a term meaning that they have tense.
+This is an example of a case where the greater technical detail of X-bar theory motivates us to look at sentences and reconsider whether they are projections of some category, just like all other phrases are. In fact, TP is a very nice phrase from the perspective of X-bar theory, because it always has both a specifier (the subject) and a complement (the predicate).
+What things are of category T in English?
+- The modal auxiliaries (will, would, can, could, may, might, shall, should, must)
+- The non-modal auxiliaries (be, have, do)
+- The nonfinite marker to
+- Abstract tense features ([+PAST] for past tense, [–PAST] for present tense)
+
+So the final version of the tree for The robot will repair the spaceship. is as in Figure 6.13, and the final version of the tree for The robot repaired the spaceship. (without an auxiliary) is as in Figure 6.14.
+
+[图片：615_tree4_TPwillrepair.png]
+
+Figure 6.13 Tree diagram for The robot will repair a spaceship., with the sentence as category TP (final version)
+
+[图片：615_tree5_TPrepaired.png]
+
+Figure 6.14 Tree diagram for The robot repaired a spaceship., with the sentence as category TP (final version)
+
+What about languages that don’t have tense?
+There are different options! We could say that languages that don’t require tense—like Mandarin or Cantonese, for example—don’t have sentences that are TPs, but instead have some other category. (Can you think of any plausible options?)
+The other option is to assume that even though we don’t pronounce tense in all languages, it’s nonetheless the case that something abstract makes a sentence a sentence—something that corresponds to “finiteness”. So even if it doesn’t have the same meaning as English tense, there’s something that does the same grammatical work of anchoring a clause, and gluing the subject and predicate together.
+This second option is fairly widely assumed, in the type of syntactic theory that we’re learning in this class (descendants of X-bar theory). People sometimes use the label “Inflection Phrase” (InflP or IP), but it’s also common to simply use the label “TP” even if you’re assuming that the semantic content of this functional phrase might vary.
+Investigating how basic sentence structures might vary (or not vary) across languages is the type of research question researchers in syntax can pursue.
+
+## X-bar theory and language variation: Head direction
+
+We saw in Section 6.3 that languages can vary systematically in their basic word order, and characterized some differences in terms of the relative order of heads and their complements.
+This analysis is very easy to encode in X-bar theory, by a simple switch in the X-bar template of languages of the two types.
+Recall the basic shape of phrases of several categories in English, repeated in (1) and illustrated in the trees in Figure 6.15.
+
+[表格]
+| | | (1) | | a. | | I [ | VP | ate | V | [ | NP | an apple ]. | | | | | | b. | | [ | PP | to | P | [ | NP | Toronto ] | | | | | | c. | | [ | NP | picture | N | [ | PP | of a robot ] | | |
+
+[图片：615_tree6_headinitialEng.png]
+
+Figure 6.15 Tree diagrams showing head initial word order in English for VP, PP, and NP phrases from (1)
+In contrast to English, Japanese is a strictly SOV language. And in Japanese, heads always follow their complements, the reverse of the order we get in English.
+What X-bar theory allows us to say is that phrases in Japanese have the same structure as phrases in English, but a different order.
+Specifically, in Japanese complements are still the siblings of their heads, but they precede the head instead of following it, as we see in the examples in (2), also repeated from Section 6.3.
+
+[表格]
+| | | (2) | | a. | | Watasi-wa | | [ | VP | | | [ | NP | | | | ringo-o | | | ] | | | tabe-ta | . | | ] | | | | | | | | I-TOPIC | | | | | | apple-ACC | | | | eat-PAST | | | | | | | | | | “I ate (an) apple.” | | | | | | b. | | [ | PP | | | [ | NP | | | | Tokyo | | | ] | | | e | | | ] | | | | | | | | | | | | Tokyo | | | | to | | | | | | | | | | “to Tokyo” | | | | | | c. | | [ | NP | | | [ | PP | | | | robotto | | | | no | | | ] | | | shasin | | | ] | | | | | | | | | | | | robot | | of | | | | picture | | | | | | | | | | “picture of (a) robot” | | |
+
+[图片：615_tree7_headfinalJpn.png]
+
+Figure 6.16 Tree diagrams showing head final word order in Japanese for VP, PP, and NP phrases from (2)
+If we draw a tree for Japanese, we would extend this template to TP, as well as all the other phrases we’ve looked at, as shown in Figure 6.17.
+
+[图片：615_tree8_JpnTP.png]
+
+Figure 6.17 Tree diagram showing a head-final TP structure in Japanese for the sentence in (2a)
+When you’re drawing a tree for another language, it’s important that the words come in the right order if you read the words off the bottom of the tree! If you’re analyzing an unfamiliar language, and need to figure out its word order, one of the first questions you should ask is whether it appears to be head initial or head final.
+In contrast to complements contrast, specifiers don’t show the same variation. In the model of X-bar structure that we will adopt here, specifiers always come before their complements, across all known languages.
+When analyzing a new language, the starting assumption is that all structural relations are the same, but that linear order and the distribution of silent functional heads may be different. Beginning in Section 6.19, we will also see the possibility that languages may exhibit different types of movement.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through the chapter that interleaves core concepts with tree structures, the previous section was 6.14 Trees: Introducing X-Bar theory, and the next section is 6.16 Trees: Modifiers as adjuncts.

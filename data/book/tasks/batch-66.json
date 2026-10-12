@@ -1,0 +1,25 @@
+{
+ "batch": 66,
+ "chapter": "[in progress] Chapter 14: Historical Linguistics",
+ "out": "data/book/gen/batch-66.json",
+ "sections": [
+  {
+   "id": "chapter-153-slug-14-3-phonological-change",
+   "title": "14.3 Phonological change",
+   "src": "data/book/src/chapter-153-slug-14-3-phonological-change.txt",
+   "chars": 24792
+  },
+  {
+   "id": "chapter-154-slug-14-4-morphological-change",
+   "title": "14.4 Morphological change",
+   "src": "data/book/src/chapter-154-slug-14-4-morphological-change.txt",
+   "chars": 20227
+  },
+  {
+   "id": "chapter-155-slug-14-5-syntactic-change",
+   "title": "14.5 Syntactic change",
+   "src": "data/book/src/chapter-155-slug-14-5-syntactic-change.txt",
+   "chars": 11419
+  }
+ ]
+}

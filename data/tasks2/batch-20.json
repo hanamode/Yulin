@@ -1,0 +1,24 @@
+{
+ "batch": 20,
+ "out": "data/gen2/batch-20.json",
+ "entries": [
+  {
+   "id": "sociolinguistic-variable",
+   "title": "社会变项",
+   "en": "Sociolinguistic Variable",
+   "category": "concepts"
+  },
+  {
+   "id": "critical-period",
+   "title": "关键期假说",
+   "en": "Critical Period Hypothesis",
+   "category": "concepts"
+  },
+  {
+   "id": "interlanguage",
+   "title": "中介语",
+   "en": "Interlanguage",
+   "category": "concepts"
+  }
+ ]
+}

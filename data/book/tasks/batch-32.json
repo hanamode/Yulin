@@ -1,0 +1,25 @@
+{
+ "batch": 32,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-32.json",
+ "sections": [
+  {
+   "id": "chapter-066-x-bar-theory-sentences-as-tps",
+   "title": "6.15 Trees: Sentences as TPs",
+   "src": "data/book/src/chapter-066-x-bar-theory-sentences-as-tps.txt",
+   "chars": 7122
+  },
+  {
+   "id": "chapter-067-x-bar-theory-modifiers-as-adjuncts",
+   "title": "6.16 Trees: Modifiers as adjuncts",
+   "src": "data/book/src/chapter-067-x-bar-theory-modifiers-as-adjuncts.txt",
+   "chars": 4419
+  },
+  {
+   "id": "chapter-068-structural-ambiguity",
+   "title": "6.17 Trees: Structural ambiguity in syntax",
+   "src": "data/book/src/chapter-068-structural-ambiguity.txt",
+   "chars": 1664
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "batch": 2,
+ "out": "data/gen2/batch-02.json",
+ "entries": [
+  {
+   "id": "philology",
+   "title": "语文学",
+   "en": "Philology",
+   "category": "branches"
+  },
+  {
+   "id": "semiotics",
+   "title": "符号学",
+   "en": "Semiotics",
+   "category": "branches"
+  },
+  {
+   "id": "ethnolinguistics",
+   "title": "民族语言学",
+   "en": "Ethnolinguistics",
+   "category": "branches"
+  }
+ ]
+}

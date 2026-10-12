@@ -1,0 +1,174 @@
+{
+ "batch": 4,
+ "entries": [
+  {
+   "id": "biolinguistics",
+   "title": "生物语言学",
+   "en": "Biolinguistics",
+   "category": "branches",
+   "tags": ["语言生物基础", "语言器官", "普遍语法", "递归", "语言演化"],
+   "summary": "生物语言学是研究人类语言生物基础的跨学科分支，关注语言能力如何在人脑与基因组中实现、如何被儿童习得以及如何演化而来。它把语言视为一种生物学意义上的器官，考察句法递归、语音感知与产出的神经机制，并从失语症、脑成像、遗传学和动物交际研究中寻找证据。该领域由乔姆斯基与莱尼伯格在二十世纪五六十年代奠基，核心争论在于语言是自然选择塑造的适应性状，还是其他认知能力重组的副产品。",
+   "summaryEn": "Biolinguistics is the interdisciplinary study of the biological foundations of human language. It asks how the faculty of language is implemented in the brain and genome, how children acquire it, and how it evolved. Treating language as a biological organ, the field draws on generative syntax, aphasia research, neuroimaging, genetics and comparative animal communication. Founded in the 1950s and 1960s by Chomsky and Lenneberg, it remains divided over whether language is an adaptation shaped by natural selection or a by-product of other cognitive capacities.",
+   "sections": [
+     {
+       "h": "定义与研究范围",
+       "hEn": "Definition and Scope",
+       "p": ["生物语言学把语言看作自然界的生物现象，研究人类语言能力的物质载体与演化来源。其研究范围包括语言知识在人脑中的表征形式、语言官能的遗传基础、儿童语言习得的生理时间表，以及人类语言与动物交际系统之间的异同。与心理语言学侧重实时加工过程不同，生物语言学更关心语言官能作为一种生物性状的本质、发育与起源。"],
+       "pEn": ["Biolinguistics treats language as a natural biological phenomenon and investigates the physical substrate and evolutionary origins of the human language faculty. Its scope includes how linguistic knowledge is represented in the brain, the genetic basis of the language organ, the maturational timetable of first language acquisition, and the similarities and differences between language and animal communication systems. Whereas psycholinguistics foregrounds real-time processing, biolinguistics asks what kind of biological trait the language faculty is and where it came from."]
+     },
+     {
+       "h": "核心理论：语言器官与递归",
+       "hEn": "Core Theory: The Language Organ and Recursion",
+       "p": ["在生成语法框架下，生物语言学主张人脑存在一个专门的语言器官，其核心是一套计算系统，最简方案把它归结为合并这一基本操作。合并可以无限重复，从而产生递归结构，例如英语 the rat that the cat chased that the dog bit 层层嵌套，汉语「我知道他买的书很有意思」同样依靠嵌套扩展句子长度。这种无界生成能力被广泛视为人类语言区别于动物交际的最重要特征。"],
+       "pEn": ["Within generative grammar, biolinguistics posits a dedicated language organ in the human brain whose core is a computational system, reduced in the Minimalist Program to the single operation Merge. Merge applies without bound and therefore yields recursion: English the rat that the cat chased that the dog bit nests clause inside clause, and Mandarin 我知道他买的书很有意思 expands in the same way. This capacity for unbounded generation is widely taken as the sharpest divide between human language and animal communication."]
+     },
+     {
+       "h": "研究方法与证据",
+       "hEn": "Methods and Evidence",
+       "p": ["生物语言学的证据来自多个层面。失语症研究显示布罗卡区损伤主要影响句法组合，韦尼克区损伤则影响理解；功能性磁共振与事件相关电位等技术可以记录句法违反引发的 P600 成分；遗传学发现 FOXP2 基因突变与特定家族的言语障碍相关；比较研究考察鸟类鸣唱、蜜蜂摇摆舞等系统能否传递移位性信息。音系层面，新生婴儿对 [p] 与 [b] 的范畴感知也常被用来说明语言能力含有先天成分。"],
+       "pEn": ["Evidence comes from several directions. Aphasia studies show that damage to Broca's area chiefly disrupts syntactic combination, while Wernicke's area damage impairs comprehension. Techniques such as fMRI and event-related potentials record the P600 component triggered by syntactic violations. Genetics has linked mutations of FOXP2 to a speech disorder running in one British family. Comparative work asks whether birdsong or the honeybee waggle dance can convey displaced information. In phonology, newborns' categorical perception of [p] versus [b] is likewise cited as evidence for an innate component."]
+     },
+     {
+       "h": "发展简史",
+       "hEn": "Historical Development",
+       "p": ["该领域名称可追溯到二十世纪七十年代马萨诸塞理工学院围绕乔姆斯基与生物学家合作举办的工作坊。更早的奠基著作是莱尼伯格一九六七年的《语言的生物学基础》，他把关键期概念引入语言习得研究。九十年代以后，豪泽、乔姆斯基与菲奇提出语言官能的广义与狭义之分，引发与进化心理学家的长期论战，也使生物语言学成为当代语言学与认知科学交汇的重要阵地。"],
+       "pEn": ["The term emerged in the 1970s from workshops at MIT organised around Chomsky and collaborating biologists. An earlier landmark was Lenneberg's Biological Foundations of Language (1967), which introduced the critical period into acquisition research. From the 1990s, Hauser, Chomsky and Fitch distinguished the faculty of language in the broad and the narrow sense, sparking a prolonged debate with evolutionary psychologists and making biolinguistics a meeting point of linguistics and cognitive science."]
+     },
+     {
+       "h": "争议与批评",
+       "hEn": "Controversies and Criticism",
+       "p": ["主要争议有三。其一，语言官能是否为自然选择塑造的适应器，平克与布鲁姆持肯定态度，乔姆斯基等人则倾向认为它可能是其他认知能力重组的副产品。其二，递归是否为人类语言独有，埃弗里特对皮拉哈语的描写曾引发激烈争论。其三，基因与脑成像证据的解释力有限，批评者认为从 FOXP2 到句法能力的推论跨度过大。此外，大量研究以英语为中心，跨语言验证仍显不足。"],
+       "pEn": ["Three disputes dominate. First, whether the language faculty is an adaptation shaped by natural selection: Pinker and Bloom argue that it is, whereas Chomsky and others suspect it may be a by-product of reconfigured cognitive capacities. Second, whether recursion is unique to language, a claim contested by Everett's descriptions of Pirahã. Third, genetic and neuroimaging evidence is often over-interpreted, critics arguing that the leap from FOXP2 to syntax is too large. Research also remains heavily English-centred, with cross-linguistic verification still thin."]
+     }
+   ],
+   "terms": [
+     {"t": "语言器官", "tEn": "language organ", "d": "生成语法认为人脑中专司语言知识的心智器官。", "dEn": "A dedicated mental organ in the human brain held to subserve linguistic knowledge."},
+     {"t": "普遍语法", "tEn": "Universal Grammar", "d": "人类先天具备的语言知识初始状态，是语言习得的生物基础。", "dEn": "The innate initial state of linguistic knowledge that provides the biological basis for acquisition."},
+     {"t": "合并", "tEn": "Merge", "d": "最简方案中把两个句法对象组合为一个结构的基本操作。", "dEn": "The basic operation that combines two syntactic objects into one in the Minimalist Program."},
+     {"t": "递归", "tEn": "recursion", "d": "同一结构规则反复应用于自身输出，从而生成无限嵌套。", "dEn": "The property whereby a rule applies to its own output, yielding unbounded embedding."},
+     {"t": "关键期", "tEn": "critical period", "d": "语言习得必须在特定年龄之前完成的敏感时间窗口。", "dEn": "A maturational window within which language must normally be acquired."},
+     {"t": "狭义语言官能", "tEn": "faculty of language in the narrow sense", "d": "仅属人类语言的核心计算能力，递归是其代表。", "dEn": "The core computational capacity unique to human language, recursion being its representative."},
+     {"t": "FOXP2 基因", "tEn": "FOXP2 gene", "d": "与言语运动控制及句法加工相关的基因。", "dEn": "A gene associated with speech motor control and aspects of syntactic processing."}
+   ],
+   "related": ["chomsky", "universal-grammar", "neurolinguistics", "language-acquisition", "psycholinguistics"],
+   "sources": [
+     "Wikipedia, \"Biolinguistics\", https://en.wikipedia.org/wiki/Biolinguistics",
+     "Lenneberg, Biological Foundations of Language, 1967",
+     "Chomsky, The Minimalist Program, 1995"
+   ]
+  },
+  {
+   "id": "contact-linguistics",
+   "title": "接触语言学",
+   "en": "Contact Linguistics",
+   "category": "branches",
+   "tags": ["语言接触", "借用", "语码转换", "皮钦语", "语言联盟"],
+   "summary": "接触语言学是研究不同语言在接触中相互影响及其结果的分支，关注借用、语码转换、混合语、皮钦语与克里奥尔语、语言联盟以及语言替换等现象。它既描写词汇、音系、形态与句法层面的具体变化，也解释社会条件如何决定接触的深度与方向。魏因赖希一九五三年的《接触中的语言》奠定现代框架，托马森与考夫曼提出的借用与底层干预两分至今仍是衡量接触强度的核心尺度。",
+   "summaryEn": "Contact linguistics studies what happens when speakers of different languages interact, covering borrowing, code-switching, mixed languages, pidgins and creoles, areal convergence and language shift. It describes concrete changes at the lexical, phonological, morphological and syntactic levels while explaining how social conditions shape the depth and direction of influence. Weinreich's Languages in Contact (1953) established the modern framework, and the distinction between borrowing and substratum interference remains the standard measure of contact intensity.",
+   "sections": [
+     {
+       "h": "定义与研究范围",
+       "hEn": "Definition and Scope",
+       "p": ["接触语言学考察两个或多个语言在同一个言语社区或同一位说话人身上相遇时发生的一切。研究对象既包括短期的词汇借用，如汉语从英语借入「沙发」（sofa）、「咖啡」（coffee），也包括深度的结构趋同，如巴尔干半岛诸语言共享的后置定冠词与不定式缺失。研究还关注接触引发的语言消亡与新兴混合语，因此它与历史语言学、社会语言学关系十分密切。"],
+       "pEn": ["Contact linguistics examines everything that happens when two or more languages meet in one speech community or in one speaker. Its objects range from short-term lexical borrowing, such as Mandarin 沙发 from English sofa and 咖啡 from coffee, to deep structural convergence, such as the postposed definite article and the lost infinitive shared across the Balkans. It also studies contact-induced language death and newly emergent mixed languages, and is therefore closely tied to historical linguistics and sociolinguistics."]
+     },
+     {
+       "h": "基本机制与结果分类",
+       "hEn": "Basic Mechanisms and Outcomes",
+       "p": ["接触结果常按强度排列。借用通常从词汇开始，再逐步扩展到音系与句法：英语从古诺斯语借入 they、them、their 等代词，是接触深度罕见的例子。语码转换指双语者在会话内交替使用两种语言，如「我们明天去 shopping 吧」。皮钦语是接触中形成的简化交际系统，克里奥尔语则是其被儿童习得母语化后的后代，如巴布亚新几内亚的托克皮辛语。语言联盟指地理相邻的语言长期趋同，典型是巴尔干语言联盟。"],
+       "pEn": ["Outcomes are often ranked by intensity. Borrowing typically begins with the lexicon and may spread to phonology and syntax; English took the pronouns they, them and their from Old Norse, a rare case of very deep contact. Code-switching refers to bilinguals alternating between languages within one conversation. A pidgin is a simplified contact medium, and a creole is its nativised descendant, as with Tok Pisin in Papua New Guinea. A Sprachbund covers geographically adjacent languages that converge over time, the Balkans being the classic instance."]
+     },
+     {
+       "h": "研究方法",
+       "hEn": "Research Methods",
+       "p": ["研究者在语料库、访谈与田野记录中识别接触特征，再借助社会史判断其来源。判断借词必须排除同源关系与普遍倾向：汉语「幽默」来自英语 humour，「逻辑」来自 logic 的音译，属明确的借词；日语「パン」来自葡萄牙语 pão，可通过历史文献确认传入时间。对于结构特征，则须证明它在该语言的早期阶段并不存在，且接触群体具备足够的双语程度。语料库语言学与变异社会学的量化方法近年被广泛采用。"],
+       "pEn": ["Researchers identify contact features in corpora, interviews and field records, then use social history to establish their origin. Proving borrowing requires ruling out inheritance and universal tendencies: Mandarin 幽默 from English humour and 逻辑 from logic are clear loans, and Japanese パン from Portuguese pão can be dated through historical documents. For structural features one must show that the trait is absent from earlier stages of the language and that the contact group was sufficiently bilingual. Corpus and variationist methods are now widely used."]
+     },
+     {
+       "h": "主要理论",
+       "hEn": "Major Theories",
+       "p": ["魏因赖希强调双语者的心理表征与社会压力如何共同决定干扰的方向，并提出语言支配与语言声望等概念。托马森与考夫曼区分借用与底层干预，认为大规模结构变化通常需要长期而密集的双语环境，而克里奥尔化则不依赖这一条件。范·库特斯米尔与西尔弗斯坦进一步指出，接触往往加速语言内部已有的语法化路径，而不是凭空创造结构。这些理论为评估接触强度提供了可检验的假设。"],
+       "pEn": ["Weinreich stressed how bilinguals' mental representations and social pressures jointly determine the direction of interference, introducing notions of language dominance and prestige. Thomason and Kaufman separate borrowing from substratum interference, arguing that heavy structural change normally requires long, intense bilingualism, whereas creolisation does not. Van Coetsem and Silverstein further suggest that contact accelerates grammaticalisation paths already available in a language rather than inventing structure from nothing. These theories supply testable hypotheses about contact intensity."]
+     },
+     {
+       "h": "争议与批评",
+       "hEn": "Controversies and Criticism",
+       "p": ["争议集中在如何证明接触是语言变化的动因。批评者指出，许多所谓接触特征其实可由内部演变解释，例如语法化与语言普遍倾向，容易造成循环论证。另一个问题是术语不统一，语言混合、语言联盟与多语制之间的界限相当模糊。此外，早期研究常以单语规范为标准，把混合现象视为污染，现代研究则更强调其创造性与系统性，认为接触是语言变化的常态而非例外。"],
+       "pEn": ["Disputes centre on proving that contact caused a given change. Critics note that many alleged contact features can be explained internally through grammaticalisation or universal tendencies, which invites circular reasoning. Terminology is also unsettled: mixed languages, Sprachbünde and multilingualism shade into one another. Early work often judged mixed speech against a monolingual norm and treated it as contamination, whereas current research stresses its creativity and systematicity, viewing contact as a normal rather than exceptional source of change."]
+     }
+   ],
+   "terms": [
+     {"t": "借用", "tEn": "borrowing", "d": "一种语言把另一语言的成分吸收进自身系统的过程。", "dEn": "The process by which a language absorbs material from another language into its own system."},
+     {"t": "语码转换", "tEn": "code-switching", "d": "双语者在同一会话或句子内交替使用两种语言。", "dEn": "Bilinguals' alternation between two languages within one conversation or sentence."},
+     {"t": "语言联盟", "tEn": "Sprachbund", "d": "地理相邻、亲缘关系不同的语言长期趋同形成的区域。", "dEn": "An area in which unrelated neighbouring languages converge through prolonged contact."},
+     {"t": "皮钦语", "tEn": "pidgin", "d": "接触中形成的词汇有限、语法简化且无母语者的交际系统。", "dEn": "A contact medium with reduced lexicon, simplified grammar and no native speakers."},
+     {"t": "克里奥尔语", "tEn": "creole", "d": "皮钦语被儿童习得母语化之后形成的完整语言。", "dEn": "A full language that develops when a pidgin is nativised by children."},
+     {"t": "底层干预", "tEn": "substratum interference", "d": "转用目标语的人把母语特征带入新语言的接触效应。", "dEn": "Contact effects whereby speakers shifting languages carry first-language features into the target."},
+     {"t": "混合语", "tEn": "mixed language", "d": "由两种语言的成分系统拼接而成的语言，如米奇夫语。", "dEn": "A language systematically combining material from two source languages, such as Michif."}
+   ],
+   "related": ["language-contact", "code-switching", "loanword", "pidgin-creole", "bilingualism"],
+   "sources": [
+     "Wikipedia, \"Language contact\", https://en.wikipedia.org/wiki/Language_contact",
+     "Weinreich, Languages in Contact, 1953",
+     "Thomason & Kaufman, Language Contact, Creolization, and Genetic Linguistics, 1988"
+   ]
+  },
+  {
+   "id": "discourse-analysis",
+   "title": "话语分析",
+   "en": "Discourse Analysis",
+   "category": "branches",
+   "tags": ["语篇", "衔接与连贯", "会话结构", "话轮转换", "语境"],
+   "summary": "话语分析研究大于句子的语言单位在真实语境中的组织方式与交际功能，考察语篇如何借助衔接、连贯、信息结构与话轮转换实现交际目的。它既描写会话中的相邻对、偏好组织与修正机制，也分析书面语篇的指称链与段落结构。研究方法包括自然录音转写、语料库检索与批评话语分析。该领域由哈里斯一九五二年提出，后经萨克斯等人的会话分析与韩礼德的系统功能语法发展成多学科交叉的显学。",
+   "summaryEn": "Discourse analysis studies how language beyond the sentence is organised and used in real contexts. It examines how texts achieve cohesion, coherence and information structure, and how conversation is managed through turn-taking, adjacency pairs and repair. Methods include transcription of naturally occurring talk, corpus searches and critical analysis of ideology in texts. Named by Harris in 1952 and reshaped by Sacks' conversation analysis and Halliday's systemic functional grammar, it is now a broad interdisciplinary enterprise.",
+   "sections": [
+     {
+       "h": "定义与研究内容",
+       "hEn": "Definition and Subject Matter",
+       "p": ["话语分析把话语视为有结构的整体，同时关注其内部衔接与外部语境。它研究指称链如何在语篇中延续，如汉语用「他」或「这个人」回指前文人物，英语用 the、this 等定指形式提示已知信息；它也研究会话中轮次的分配与话题的推进。与研究孤立句子的句法学不同，话语分析必须同时考虑参与者、交际目的、场合与文化规约的制约。"],
+       "pEn": ["Discourse analysis treats discourse as a structured whole and attends both to internal cohesion and to external context. It studies how reference chains persist across a text, as when Mandarin 他 or 这个人 anaphorically picks up an earlier participant, or English the and this mark information as given; it also studies turn allocation and topic progression in conversation. Unlike syntax, which analyses isolated sentences, it must simultaneously take account of participants, purposes, settings and cultural conventions."]
+     },
+     {
+       "h": "主要理论与流派",
+       "hEn": "Major Traditions",
+       "p": ["影响最大的几支包括：哈里斯与派克的语篇结构研究；萨克斯、谢格洛夫与杰斐逊创立的会话分析，主张从录音转写中发现参与者自己取向的有序机制；韩礼德与哈桑的衔接理论，提出指称、替代、省略、连接与词汇衔接五类手段；以及受福柯启发的批评话语分析，关注话语与权力、意识形态的关系。范戴克的社会认知取向则强调语境模型在理解过程中的中介作用。"],
+       "pEn": ["Several traditions dominate. Harris and Pike studied discourse structure formally. Sacks, Schegloff and Jefferson founded conversation analysis, insisting that order be discovered in transcripts of talk as participants themselves orient to it. Halliday and Hasan proposed cohesion through reference, substitution, ellipsis, conjunction and lexical cohesion. Foucault inspired critical discourse analysis, which asks how discourse relates to power and ideology, while van Dijk's socio-cognitive approach stresses the mediating role of context models in comprehension."]
+     },
+     {
+       "h": "研究方法与语料",
+       "hEn": "Methods and Data",
+       "p": ["会话分析使用杰斐逊转写系统记录停顿、重叠与语调，如「A: 你昨天去哪儿了？ B: 我(.)去了医院。」中的停顿与延迟回答本身就具有交际意义。语料库方法借助标注语料统计搭配与话语标记的频率，例如比较汉语「那个」「然后」与英语 well、you know 的分布差异。批评话语分析常选取新闻、广告或政策文本，结合系统功能语法的及物性分析揭示其中的隐含立场。"],
+       "pEn": ["Conversation analysis uses the Jefferson transcription system to record pauses, overlaps and intonation, so that in A: 你昨天去哪儿了？ B: 我(.)去了医院。, the pause and the delayed answer are themselves meaningful. Corpus methods exploit annotated data to count collocations and discourse markers, comparing the distribution of Mandarin 那个 and 然后 with English well and you know. Critical discourse analysis typically selects news, advertising or policy texts and uses systemic functional transitivity analysis to expose implicit stances."]
+     },
+     {
+       "h": "基本概念与示例",
+       "hEn": "Key Concepts and Examples",
+       "p": ["核心概念包括相邻对、偏好组织、修正与会话含义。相邻对指期待成对出现的言语行为，如问候与问候、提问与回答；当回答被延迟或以「嗯」「那个」开头时，听话人往往据此推断出非偏好的应答。衔接的示例可见英语 I bought a car. The car broke down. 中定冠词 the 的回指作用；汉语同样用「那辆车」实现指称衔接，而省略则见于「你喜欢咖啡吗？」「喜欢。」中主语的脱落。"],
+       "pEn": ["Core notions include adjacency pairs, preference organisation, repair and conversational implicature. An adjacency pair is a pair of expectable actions such as greeting and greeting or question and answer; when an answer is delayed or prefaced with 嗯 or 那个, hearers tend to infer a dispreferred response. Cohesion appears in English I bought a car. The car broke down., where the definite article signals anaphora; Mandarin achieves the same with 那辆车, while ellipsis appears in 你喜欢咖啡吗？ 喜欢。, where the subject is omitted."]
+     },
+     {
+       "h": "应用与争议",
+       "hEn": "Applications and Criticism",
+       "p": ["话语分析被广泛用于课堂互动、医患沟通、法庭话语、媒体与网络语言研究，也是语言教学与翻译研究的重要工具。批评主要集中在两点：一是转写本身就是一种解释，不同转写方案会导向不同结论；二是批评话语分析被指带有分析者的政治预设，所选语料难以代表整体。支持者回应说，任何研究都带有视角，关键在于分析过程是否透明、可复核，并能被语料反复检验。"],
+       "pEn": ["Discourse analysis is widely applied to classroom interaction, medical consultations, courtroom talk, media and online language, and serves language teaching and translation studies. Criticism focuses on two points: transcription is itself interpretation, so different conventions lead to different conclusions, and critical discourse analysis is accused of importing the analyst's political assumptions while relying on unrepresentative samples. Supporters reply that every framework has a perspective, and that what matters is a transparent, replicable procedure open to re-checking against the data."]
+     }
+   ],
+   "terms": [
+     {"t": "话语", "tEn": "discourse", "d": "大于句子的、在具体语境中实际使用的语言单位。", "dEn": "Language in use above the level of the sentence within a specific context."},
+     {"t": "衔接", "tEn": "cohesion", "d": "通过指称、替代、省略、连接与词汇手段把语篇连成整体。", "dEn": "The linking of text through reference, substitution, ellipsis, conjunction and lexis."},
+     {"t": "连贯", "tEn": "coherence", "d": "语篇在意义上前后一致、可被理解的总体属性。", "dEn": "The overall semantic unity that makes a text interpretable to its receivers."},
+     {"t": "相邻对", "tEn": "adjacency pair", "d": "成对出现、相互期待的两类言语行为，如提问与回答。", "dEn": "Two mutually expectable actions, such as a question and its answer."},
+     {"t": "话轮转换", "tEn": "turn-taking", "d": "会话参与者轮流取得与让出发言权的组织机制。", "dEn": "The mechanism by which participants allocate and yield the right to speak."},
+     {"t": "修正", "tEn": "repair", "d": "会话中处理听说、理解或表达方面问题的组织方式。", "dEn": "The organisation of troubles in speaking, hearing or understanding during talk."},
+     {"t": "批评话语分析", "tEn": "critical discourse analysis", "d": "揭示话语与权力、意识形态关系的分析取向。", "dEn": "An approach that exposes relations between discourse, power and ideology."},
+     {"t": "话语标记", "tEn": "discourse marker", "d": "如英语 well、汉语「那个」等标示话语结构与态度的成分。", "dEn": "Items such as English well or Mandarin 那个 that signal discourse structure and stance."}
+   ],
+   "related": ["conversation-analysis", "pragmatics", "systemic-functional", "corpus-linguistics", "deixis"],
+   "sources": [
+     "Wikipedia, \"Discourse analysis\", https://en.wikipedia.org/wiki/Discourse_analysis",
+     "Harris, Discourse Analysis, Language 28(1), 1952",
+     "Halliday & Hasan, Cohesion in English, 1976"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 33,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-33.json",
+ "sections": [
+  {
+   "id": "chapter-069-x-bar-structure-embedded-clauses-as-cps",
+   "title": "6.18 Trees: Embedded clauses",
+   "src": "data/book/src/chapter-069-x-bar-structure-embedded-clauses-as-cps.txt",
+   "chars": 3576
+  },
+  {
+   "id": "chapter-070-x-bar-theory-subject-aux-inversion-as-head-movement",
+   "title": "6.19 Trees: Movement",
+   "src": "data/book/src/chapter-070-x-bar-theory-subject-aux-inversion-as-head-movement.txt",
+   "chars": 10209
+  },
+  {
+   "id": "chapter-071-x-bar-theory-question-word-fronting-as-phrasal-movement",
+   "title": "6.20 Trees: Movement beyond questions",
+   "src": "data/book/src/chapter-071-x-bar-theory-question-word-fronting-as-phrasal-movement.txt",
+   "chars": 10039
+  }
+ ]
+}

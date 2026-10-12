@@ -1,0 +1,258 @@
+{
+ "batch": 10,
+ "sections": {
+  "part-002-chapter-2-language-power-privilege": {
+   "title": {
+    "en": "Chapter 2: Language, Power, and Privilege",
+    "zh": "第 2 章：语言、权力与特权"
+   },
+   "summary": {
+    "en": "Language is central to human interaction: we use it to communicate ideas and information, and also to express and construct our identities. This chapter therefore opens the book by examining the social aspects of language, focusing on how power and language relate to each other. It also asks learners to collect real-world examples and to reflect on their own and others' language attitudes.",
+    "zh": "语言是人类互动的核心：我们既用它交流思想与信息，也用它表达并建构身份认同。因此本章作为全书开篇，考察语言的社会面向，重点讨论权力与语言之间的关联。本章还要求学习者搜集现实中的实例，并反思自己与他人的语言态度。"
+   },
+   "points": [
+    {
+     "en": "Through language we communicate ideas and information and also express and construct aspects of our identity.",
+     "zh": "我们借助语言交流思想与信息，同时也表达并建构自身身份认同的各个面向。"
+    },
+    {
+     "en": "This chapter investigates the social aspects of language, beginning with relationships between power and language.",
+     "zh": "本章考察语言的社会面向，并从权力与语言的关系入手展开讨论。"
+    },
+    {
+     "en": "Learners should find real-world examples of power-language relationships and interpret language attitudes metalinguistically.",
+     "zh": "学习者应能找到权力与语言关系的真实案例，并以元语言意识解读自己和他人的语言态度。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "power",
+     "zh": "权力",
+     "defEn": "The social force that shapes whose language is valued, legitimated, or dismissed.",
+     "defZh": "塑造哪些语言被重视、被认可或被贬低的社会力量，也决定说话者在社会中的地位。"
+    },
+    {
+     "en": "identity",
+     "zh": "身份认同",
+     "defEn": "The socially constructed sense of who we are, expressed partly through language.",
+     "defZh": "对自身究竟是谁的社会性建构，部分通过日常语言使用加以表达和维持。"
+    },
+    {
+     "en": "metalinguistic awareness",
+     "zh": "元语言意识",
+     "defEn": "The ability to reflect on and talk about language itself as an object.",
+     "defZh": "把语言本身当作一个对象来加以反思、评价和谈论的能力。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Language is a central part of how human beings interact with one another. We do not only pass along ideas and information; we also express who we are and actively build aspects of our identity through the language we use. Because these social dimensions matter so much, the book begins here, with the social side of language.",
+     "zh": "语言是人类彼此互动的核心组成部分。我们不仅传递思想与信息，也借由所用的语言表达自身是谁，并主动建构身份认同的各个面向。正因这些社会维度极为重要，本书便由此起步，从语言的社会面向谈起。"
+    },
+    {
+     "en": "The chapter examines how power and language are connected across a range of situations, from everyday conversation to the ways institutions talk about people. By the end, readers should be able to describe those relationships, notice real-world examples of them, and use their metalinguistic awareness to interpret the attitudes that they and other people hold about language. The aim is not to catalogue facts about particular languages but to notice how language works socially.",
+     "zh": "本章考察权力与语言在多种情境中的联系，从日常交谈到机构谈论人的方式。读完之后，读者应能描述这些关系，留意现实生活中的相关实例，并运用元语言意识来解读自己与他人对语言所持的态度。其目的不在于罗列个别语言的事实，而在于留意语言在社会中如何运作。"
+    }
+   ]
+  },
+  "chapter-010-slug-2-1-language-and-identity": {
+   "title": {
+    "en": "2.1 Language and identity",
+    "zh": "2.1 语言与身份认同"
+   },
+   "summary": {
+    "en": "Some utterances do not merely describe the world but change it: a wedding vow, a concession, or the words you're hired all bring about real consequences. Austin called these performative speech acts, and their force depends on authority, sincerity, context, and audience uptake. Butler extended performativity to identity, arguing that gender and other identities are accomplishments built through repeated social practice, including language.",
+    "zh": "有些话语不只是描述世界，而是改变世界：婚礼誓词、认输、以及「你被录用了」都会带来真实的后果。奥斯汀把这类话语称为施为性言语行为，其效力取决于说话者的权威、真诚、语境以及受众的接受。巴特勒把施为性扩展到身份认同，主张性别等身份是通过包括语言在内反复进行的社会实践而达成的成就。"
+   },
+   "points": [
+    {
+     "en": "Performative speech acts such as I do and I now pronounce you married change reality rather than describing it.",
+     "zh": "诸如「我愿意」和「我现在宣布你们结为夫妻」这类施为性言语行为改变现实，而非仅仅描述现实。"
+    },
+    {
+     "en": "Their force requires the authority and sincerity of the utterer plus recognition and acceptance by the audience.",
+     "zh": "这类话语的效力需要说话者的权威与真诚，也需要受众的承认与接受。"
+    },
+    {
+     "en": "Children play-acting a wedding, or simply shouting I declare bankruptcy, produces no such effect.",
+     "zh": "孩子在游戏中扮演婚礼，或只是大喊「我宣布破产」，都不会产生同样的效果。"
+    },
+    {
+     "en": "Butler extended performativity to identity, treating gender as a performative accomplishment reinforced by repetition.",
+     "zh": "巴特勒把施为性扩展到身份认同，将性别视为通过反复实践而不断强化的施为性成就。"
+    },
+    {
+     "en": "All identity is socially constructed through sustained practice, as when using eh marks Canadian identity.",
+     "zh": "一切身份认同都通过持续的社会实践被社会性建构，例如使用 eh 标示出加拿大身份。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "performative speech act",
+     "zh": "施为性言语行为",
+     "defEn": "An utterance that does not just convey information but performs an action affecting reality.",
+     "defZh": "不仅传递信息，还同时实施某种能够影响现实之行动的话语。"
+    },
+    {
+     "en": "performativity",
+     "zh": "施为性",
+     "defEn": "The property of language and social practice by which they bring about effects in the world.",
+     "defZh": "语言与社会实践能够在现实世界中产生实际效果的属性。"
+    },
+    {
+     "en": "identity",
+     "zh": "身份认同",
+     "defEn": "A socially constructed sense of self, actively built and expressed through repeated practice.",
+     "defZh": "通过反复实践主动建构并表达出来的、社会性的自我认知。"
+    },
+    {
+     "en": "uptake",
+     "zh": "接受（受众认可）",
+     "defEn": "The audience's recognition and acceptance of an utterance's intended performative force.",
+     "defZh": "受众对某一话语所意图实施的施为效力的承认与接受，是施为成功的关键。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "I now pronounce you married",
+     "noteEn": "Spoken by a licensed officiant, these words actually make two people married.",
+     "noteZh": "由持证主婚人说出的这句话，真正使两人成为夫妻。"
+    },
+    {
+     "text": "I declare bankruptcy!",
+     "noteEn": "Simply shouting this phrase does not erase the credit-card debt you owe.",
+     "noteZh": "仅仅喊出这句话并不能免除你的信用卡债务。"
+    },
+    {
+     "text": "eh",
+     "noteEn": "Using this stereotype of Canadian English constructs and reinforces a Canadian identity.",
+     "noteZh": "使用这个加拿大英语的刻板特征，会建构并强化加拿大身份。"
+    },
+    {
+     "text": "Is that a hint of Cascade hops on the finish?",
+     "noteEn": "Craft beer jargon that stakes a claim to membership in that community.",
+     "noteZh": "精酿啤酒的行话，借此宣称自己属于该社群。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Language does more than carry information: certain utterances actually change the world. At a wedding, the partners' I do and the officiant's I now pronounce you married leave the couple married, with material consequences such as filing taxes together, sharing medical insurance, or gaining spousal privilege. The philosopher J. L. Austin, in How to Do Things With Words, called such utterances performative speech acts: they convey information and at the same time perform an action that affects reality. Conceding a chess game with I concede or hearing you're hired after an interview works the same way.",
+     "zh": "语言不只是传递信息：某些话语确实会改变世界。在婚礼上，新人说出的「我愿意」和主婚人说出的「我现在宣布你们结为夫妻」，使两人真正成为夫妻，并带来共同报税、共享医疗保险或获得配偶特权等实际后果。哲学家奥斯汀在《如何以言行事》中把这类话语称为施为性言语行为：它们既传递信息，又同时实施某种影响现实的行动。下棋时说「我认输」而结束比赛，面试后听到「你被录用了」，作用方式也是如此。"
+    },
+    {
+     "en": "Performativity, however, depends on context and on social recognition. Children acting out a wedding cannot marry anyone no matter how loudly they pronounce the words, and shouting I declare bankruptcy does not erase credit-card debt. The power of words to act rests on the authority and sincerity of the utterer together with the uptake of the audience and the wider population. Society has to agree that particular words can do particular things in particular contexts; where such agreement is lacking, serious conflict can follow.",
+     "zh": "然而，施为性依赖语境和社会承认。孩子们在游戏中扮演婚礼，无论把誓词喊得多响，也不能真的让谁结婚；高喊「我宣布破产」同样无法消除信用卡债务。话语的行动力取决于说话者的权威与真诚，也取决于受众乃至更广泛人群的接受。社会必须一致同意某些话语在特定语境中能够完成某些事情；一旦缺乏这种共识，就可能引发严重的冲突。"
+    },
+    {
+     "en": "Judith Butler extended performativity beyond individual speech acts, arguing that social practices generally, language included, help create and express identity. On her account gender is a performative accomplishment: practices associated with men or women are perceived as masculine or feminine, and repeated expression of them reinforces the link. Extending this idea, every aspect of identity is socially constructed through sustained practice. Swearing in a lecture signals casualness, and craft beer jargon such as asking about a hint of Cascade hops claims membership in that community. Performativity is not stage acting; it is the way we make ourselves through our behaviour.",
+     "zh": "朱迪斯·巴特勒把施为性从个别言语行为扩展到更广的范围，主张包括语言在内的一般社会实践也有助于创造和表达身份认同。在她看来，性别是一种施为性成就：与男性或女性相关联的实践被感知为男性化或女性化，而反复的表达会强化这种联系。把这一思路推广开来，身份认同的每个面向都是通过持续实践被社会性建构的。在课堂上说脏话表示随意，而用「收尾时是不是有一丝卡斯卡特啤酒花的味道？」这样的精酿行话，则是在宣称自己属于该社群。施为性并非舞台表演，而是我们借由行为塑造自身的方式。"
+    }
+   ]
+  },
+  "chapter-011-slug-2-2-language-and-offense": {
+   "title": {
+    "en": "2.2 Language and offence",
+    "zh": "2.2 语言与冒犯"
+   },
+   "summary": {
+    "en": "Language also carries emotional force, and some expressions are taboo: their use is avoided in most circumstances because violating the taboo causes offence. Taboos may rest on negative feelings, as with swear words, or on respect, as when Kambaata women avoid sounds matching their in-laws' names. The section also distinguishes using a word from mentioning it, a difference that matters greatly for swear words and slurs.",
+    "zh": "语言还带有情感力量，某些表达属于禁忌：由于违反禁忌会造成冒犯，人们在多数场合都避免使用它们。禁忌可能源于负面情感，如脏话；也可能出于尊重，如坎巴塔语女性回避与公婆名字相同的语音。本节还区分「使用」一个词与「提及」一个词，这一区别对脏话和种族蔑称尤为重要。"
+   },
+   "points": [
+    {
+     "en": "Poop and shit share a basic meaning, yet shit is taboo and its use in the wrong context causes offence.",
+     "zh": "poop 与 shit 基本意义相同，但 shit 属于禁忌，在不当语境中使用会造成冒犯。"
+    },
+    {
+     "en": "Odour and aroma differ in association, with odour negative, but neither word is taboo.",
+     "zh": "odour 与 aroma 的联想不同，odour 偏负面，但二者都不构成禁忌。"
+    },
+    {
+     "en": "In Kambaata a woman avoids sounds matching her in-laws' names, a taboo rooted in respect.",
+     "zh": "在坎巴塔语中，女性回避与公婆名字相同的语音，这种禁忌源于尊重。"
+    },
+    {
+     "en": "Taboo avoidance replaces forbidden words with alternate forms, or with similar-sounding words like sugar or shoot.",
+     "zh": "禁忌回避以其他形式替换禁忌词，或用 sugar、shoot 这类音近词替代。"
+    },
+    {
+     "en": "The use-mention distinction separates ordinary use of a word from talking about the word itself.",
+     "zh": "使用—提及区分把词语的日常使用与谈论该词本身区分开来。"
+    },
+    {
+     "en": "Even mentioning highly volatile taboo words, such as racial slurs, can cause visceral offence.",
+     "zh": "即便只是提及种族蔑称这类高度敏感的禁忌词，也可能引发强烈的冒犯感。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "taboo",
+     "zh": "禁忌",
+     "defEn": "A restriction on a word or expression whose use is avoided in most circumstances.",
+     "defZh": "对某词语或表达的限制，除特定场合外都要避免使用它，违反即造成冒犯。"
+    },
+    {
+     "en": "taboo avoidance",
+     "zh": "禁忌回避",
+     "defEn": "The replacement of taboo words with other words or alternative forms.",
+     "defZh": "用其他词语、音近词或替代形式来替换禁忌词，以避免违反禁忌的做法。"
+    },
+    {
+     "en": "use-mention distinction",
+     "zh": "使用—提及区分",
+     "defEn": "The difference between using a word to refer and mentioning it as a linguistic object.",
+     "defZh": "把词语用于指称与把词语作为语言对象加以提及之间的区别。"
+    },
+    {
+     "en": "racial slur",
+     "zh": "种族蔑称",
+     "defEn": "A taboo word that insults and denigrates a marginalised group on the basis of perceived race.",
+     "defZh": "基于被感知的种族而侮辱、贬损某一边缘化群体的禁忌词。"
+    },
+    {
+     "en": "metalinguistic",
+     "zh": "元语言的",
+     "defEn": "Describing language use that talks about language itself rather than about the world.",
+     "defZh": "指谈论语言本身、把词语当作语言对象而非谈论外部世界的语言使用方式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Do you need to take a shit?",
+     "noteEn": "Said to a young child, this taboo use would offend many adults.",
+     "noteZh": "对幼童说出这句带禁忌词的话，会让许多成年人反感。"
+    },
+    {
+     "text": "a married Kambaata woman whose father-in-law is named Tiráago might replace the word timá 'leftover dish' with ginjirá",
+     "noteEn": "An alternate form avoids the initial ti- sound matching the in-law's name.",
+     "noteZh": "使用替代形式以避开与公公名字相同的词首 ti- 音。"
+    },
+    {
+     "text": "sugar or shoot when they stub their toe instead of shit",
+     "noteEn": "Similar-sounding replacements keep some of the emotional force while reducing the resulting offence.",
+     "noteZh": "音近的替代词保留了部分情感力量，同时减少了冒犯。"
+    },
+    {
+     "text": "wheat is a grain",
+     "noteEn": "Here wheat is used to talk about the physical grain itself.",
+     "noteZh": "此处 wheat 是被使用来谈论谷物本身。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Beyond communicating literal meaning, language has emotional power over those who produce and hear it. Swear words illustrate this clearly. Although poop and shit refer to the same substance, only shit is taboo, meaning its use is avoided in most circumstances and violating that taboo causes offence. Shouting Oh, poop! over a stubbed toe offends no one, while asking a child Do you need to take a shit? would offend many adults. By contrast, odour and aroma both name smells but carry different associations, and mixing them up offends nobody.",
+     "zh": "除了传达字面意义之外，语言还对说者和听者具有情感层面的力量。脏话清楚地说明了这一点。尽管 poop 与 shit 指同一事物，却只有 shit 属于禁忌，也就是说除特定场合外人们都避免使用它，违反这一禁忌就会冒犯他人。踢伤脚趾时喊一声 Oh, poop! 不会冒犯任何人，而问孩子 Do you need to take a shit? 却会让许多成年人反感。相比之下，odour 与 aroma 都指气味，只是联想不同：我们说不愉快的气味用 odour，说怡人的香气用 aroma，但把二者用混并不会冒犯谁。"
+    },
+    {
+     "en": "Taboos are not always motivated by negativity. In Kambaata, a Highland East Cushitic language of Ethiopia, a woman avoids any word beginning with the same sounds as her spouse's parents' names, out of respect rather than dislike, relying on taboo avoidance. A woman whose father-in-law is named Tiráago might replace timá 'leftover dish' with ginjirá to avoid the matching ti- sound. Elsewhere the opposite strategy is used: swear words are replaced by similar-sounding items such as sugar or shoot, which retain some emotional force while minimizing offence. Taboos commonly cover in-laws and elders, bodily waste, sex, death, and religion.",
+     "zh": "禁忌的动因并不总是负面的。在埃塞俄比亚的坎巴塔语（亚非语系高地东库施特语）中，女性传统上要回避任何以配偶父母名字相同语音开头的词，这出于尊重而非厌恶，她依靠禁忌回避，用别的词替换禁忌词。若公公名为 Tiráago，她可能把 timá（‘剩菜’）换成 ginjirá，以避开相同的 ti- 音。另一些语言则采用相反的策略：用 sugar、shoot 这类音近词替换脏话，既保留部分情感力量，又把冒犯降到最低。常见的禁忌范围包括公婆与长者、身体排泄物、性器官与性行为、死亡以及宗教事物或观念。"
+    },
+    {
+     "en": "Language can describe itself, which makes linguistics possible: speakers hold metalinguistic conversations in which words are mentioned as linguistic objects rather than used to refer to things. The convention for marking mentioned words is italics. This use-mention distinction matters most for taboo vocabulary. Mentioning a taboo word need not invoke the taboo the way using it does, so a textbook can discuss the word shit as a linguistic phenomenon. It is not, however, a free pass. Racial slurs, which insult and denigrate marginalised groups, cause visceral reactions even when merely mentioned, and some contexts are so sensitive that even mentions violate the taboo. Speakers then use circumlocutions like a four-letter word referring to excrement, masking with asterisks or dashes (s***, s–t), the initial letter (s-word), or bleeping audio.",
+     "zh": "语言还能描述自身，这正是语言学得以成立的前提：普通说话者也会进行元语言对话，此时词语是被提及的语言对象，而非用来指称事物。标记被提及词语的惯例是使用斜体。这一使用—提及区分对禁忌词汇尤为要紧。提及某个禁忌词，未必像使用它那样唤起禁忌，因此教材可以讨论 shit 这个词作为一种语言现象。但这并不等于通行无阻。种族蔑称侮辱并贬损边缘化群体，即便只是提及也会引发强烈反应；有些语境对禁忌极为敏感，连提及都构成违反。此时说话者会改用迂回说法，如「指排泄物的四字母词」，或用星号、破折号遮蔽（s***、s–t）、只称首字母（s-word）、对音轨做消音处理，或对图像视频打码。"
+    }
+   ]
+  }
+ }
+}

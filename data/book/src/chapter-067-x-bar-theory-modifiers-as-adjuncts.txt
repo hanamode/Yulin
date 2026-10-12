@@ -1,0 +1,58 @@
+# 6.16 Trees: Modifiers as adjuncts
+
+When we introduced X-Bar theory, we gained the ability to represent the asymmetric relationship between heads and their complements on the one hand, and heads and their specifiers on the other hand.
+At the same time, with X-Bar structure as we’ve had it so far, we lost a bit of empirical coverage that we’d been able to include in phrase structure rules. Specifically, we lost the ability to represent how modifiers fit into the phrases they modify:
+- AdjPs and NumPs in NPs
+- AdvPs in VPs and TPs
+- modifier PP in all other phrases
+
+With adjuncts we expand X-Bar structure to accommodate modifiers.
+The basic idea of adjuncts is that while there can only be one head in a phrase, and there can only be one phrase (because it’s the final projection of a head), a bar level is a “mid-sized phrase” or “partial phrase”, and in principle there can be many partial phrases within a larger phrase.
+Let’s see how this works in practice. Consider the noun phrase (NP) in (1).
+
+[表格]
+| | | (1) | | | | [ | NP | the early arrival of spring ] | | |
+
+This NP contains a modifying adjective phrase [AdjP early ]. Without that AdjP, the structure for the NP [the arrival of spring] would be as shown in Figure 6.18.
+
+[图片：616_tree1_arrivalofspring.png]
+
+Figure 6.18 Tree diagram for [the arrival of spring], without the adjective early. In this tree the Specifier position is occupied by the DP [the] and the Complement is occupied by the PP [of spring].
+In this NP both the specifier and complement positions are filled—the Specifier by [the] and the Complement by [of spring]—so there’s no more space where we could fit the adjective phrase [AdjP early ].
+By adding extra bar levels, though, we can create structural “space” for modifiers. These positions are neither specifiers nor complements (which we defined in Section 6.14), instead they are adjuncts. Adjunct A constituent that is both the child and sibling of X’ is an adjunct.
+Unlike specifiers and complements, adjuncts are flexible in their position: they can appear on either the left side or the right size of a phrase structure.
+Figure 6.19 illustrates how an additional N’ creates space for [AdjP early ] to appear as an adjunct.
+
+[图片：616_tree2_earlyarrival.png]
+
+Figure 6.19 Tree diagram for [the early arrival of spring] showing [AdjP early] as an Adjunct to N’, with the two N’ levels creating “space” for the modifier.
+The same expansion of X-Bar structure also gives us space within an NP to represent two PPs after a head noun, as in [NP a letter [PP from home ] [PP in the mailbox ] ]. If we run our one-replacement test, we can show that letter can be replaced by one, either leaving both PPs behind, or leaving just the second one behind. If one replaces an N-bar constituent, this means that there must be an N-bar that contains letter but not either of the PPs.
+
+[表格]
+| | | (2) | | a. | | I saw a | letter | from home in the mailbox, and | one | from the bank on the table. | | | | | | b. | | I found that | letter from home | in the mailbox, and this | one | on the table. | | |
+
+The tree showing both PPs as adjuncts within NP appears in Figure 6.20.
+
+[图片：616_tree3_letterfromhome.png]
+
+Figure 6.20 Tree diagram for [the letter [PP from home] [PP in the mailbox] ]. Both PPs are Adjuncts to N’.
+Adverbs within verb phrases are also adjuncts. We’ve already seen that adverbs can go either at the beginning or end of verb phrase, as in (3a-b); we can also get more than one adverb in a verb phrase, as in (3c).
+
+[表格]
+| | | (3) | | a. | | They [ | VP | [ | AdvP | quickly] left the room] | | | | | | b. | | They [ | VP | left the room [ | AdvP | quickly]]. | | | | | | c. | | We [ | VP | [ | AdvP | deliberately] left the room [ | AdvP | slowly]]. | | |
+
+Adverbs appearing in adjunct positions to the left and right of VP are shown in Figure 6.21.
+
+[图片：616_tree4_deliberatelyslowly.png]
+
+Figure 6.21 Tree diagram for [VP [AdvP deliberately] left the room [AdvP slowly]]. Both adverbs as Adjuncts to V’, but they appear on opposite sides of the verb.
+All adverbs occur in adjunct positions, as do all adjective phrase inside NP. (Predicate adjectives, as in The book is long. are complements of the copular verb be.)
+PPs sometimes occur as complements, and sometimes as adjuncts—we’ve seen examples of both in this section. constituency tests like replacement with one (for N’) and do so (for V’) are very useful for figuring out if a particular PP is a complement or an adjunct.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.15 Trees: Sentences as TPs and the next section is 6.17 Trees: Structural ambiguity.

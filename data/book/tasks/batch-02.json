@@ -1,0 +1,13 @@
+{
+ "batch": 2,
+ "chapter": "About the Authors",
+ "out": "data/book/gen/batch-02.json",
+ "sections": [
+  {
+   "id": "front-matter-002-about-the-authors",
+   "title": "About the Authors",
+   "src": "data/book/src/front-matter-002-about-the-authors.txt",
+   "chars": 7055
+  }
+ ]
+}

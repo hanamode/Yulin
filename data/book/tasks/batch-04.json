@@ -1,0 +1,13 @@
+{
+ "batch": 4,
+ "chapter": "A Note to Instructors",
+ "out": "data/book/gen/batch-04.json",
+ "sections": [
+  {
+   "id": "front-matter-004-note-to-instructors",
+   "title": "A Note to Instructors",
+   "src": "data/book/src/front-matter-004-note-to-instructors.txt",
+   "chars": 1066
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "batch": 21,
+ "out": "data/gen2/batch-21.json",
+ "entries": [
+  {
+   "id": "language-transfer",
+   "title": "语言迁移",
+   "en": "Language Transfer",
+   "category": "concepts"
+  },
+  {
+   "id": "universal-grammar",
+   "title": "普遍语法",
+   "en": "Universal Grammar",
+   "category": "concepts"
+  },
+  {
+   "id": "grammaticalization",
+   "title": "语法化",
+   "en": "Grammaticalization",
+   "category": "concepts"
+  }
+ ]
+}

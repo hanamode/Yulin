@@ -1,0 +1,24 @@
+{
+ "batch": 19,
+ "out": "data/gen2/batch-19.json",
+ "entries": [
+  {
+   "id": "pidgin-creole",
+   "title": "皮钦语与克里奥尔语",
+   "en": "Pidgin and Creole",
+   "category": "concepts"
+  },
+  {
+   "id": "language-endangerment",
+   "title": "语言濒危与语言消亡",
+   "en": "Language Endangerment and Language Death",
+   "category": "concepts"
+  },
+  {
+   "id": "language-ideology",
+   "title": "语言意识形态",
+   "en": "Language Ideology",
+   "category": "concepts"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 27,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-27.json",
+ "sections": [
+  {
+   "id": "part-006-chapter-6-syntax",
+   "title": "Chapter 6: Syntax",
+   "src": "data/book/src/part-006-chapter-6-syntax.txt",
+   "chars": 2298
+  },
+  {
+   "id": "chapter-052-what-we-know-when-we-know-the-syntax-of-a-language",
+   "title": "6.1 Syntactic knowledge and grammaticality judgements",
+   "src": "data/book/src/chapter-052-what-we-know-when-we-know-the-syntax-of-a-language.txt",
+   "chars": 6545
+  },
+  {
+   "id": "chapter-053-a-starting-point-word-order",
+   "title": "6.2 Word order",
+   "src": "data/book/src/chapter-053-a-starting-point-word-order.txt",
+   "chars": 12109
+  }
+ ]
+}

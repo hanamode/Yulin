@@ -1,0 +1,24 @@
+{
+ "batch": 33,
+ "out": "data/gen2/batch-33.json",
+ "entries": [
+  {
+   "id": "whorf",
+   "title": "本杰明·李·沃尔夫",
+   "en": "Benjamin Lee Whorf",
+   "category": "people"
+  },
+  {
+   "id": "grimm",
+   "title": "雅各布·格林",
+   "en": "Jacob Grimm",
+   "category": "people"
+  },
+  {
+   "id": "jespersen",
+   "title": "奥托·叶斯柏森",
+   "en": "Otto Jespersen",
+   "category": "people"
+  }
+ ]
+}

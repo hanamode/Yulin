@@ -1,0 +1,24 @@
+{
+ "batch": 25,
+ "out": "data/gen2/batch-25.json",
+ "entries": [
+  {
+   "id": "word-embedding",
+   "title": "词向量",
+   "en": "Word Embedding",
+   "category": "concepts"
+  },
+  {
+   "id": "language-model",
+   "title": "语言模型",
+   "en": "Language Model",
+   "category": "concepts"
+  },
+  {
+   "id": "machine-translation",
+   "title": "机器翻译",
+   "en": "Machine Translation",
+   "category": "concepts"
+  }
+ ]
+}

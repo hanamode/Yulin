@@ -1,0 +1,24 @@
+{
+ "batch": 15,
+ "out": "data/gen2/batch-15.json",
+ "entries": [
+  {
+   "id": "proposition",
+   "title": "命题",
+   "en": "Proposition",
+   "category": "concepts"
+  },
+  {
+   "id": "reference-sense",
+   "title": "指称与涵义",
+   "en": "Reference and Sense",
+   "category": "concepts"
+  },
+  {
+   "id": "compositionality",
+   "title": "组合性原则",
+   "en": "Compositionality",
+   "category": "concepts"
+  }
+ ]
+}

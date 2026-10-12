@@ -1,0 +1,333 @@
+{
+ "batch": 20,
+ "sections": {
+  "chapter-035-slug-4-6-another-example-of-phonemic-analysis": {
+   "title": {
+    "en": "4.6 Another example of phonemic analysis",
+    "zh": "4.6 音位分析的另一个实例"
+   },
+   "summary": {
+    "en": "This section works through a fuller phonemic analysis using French data, where six phones of interest form three voiced-voiceless pairs of sonorants. Following the same six steps used for Georgian, it shows that [m] and [m̥] are in complementary distribution and are allophones of /m/, then repeats the procedure for [l]/[l̥] and [ʀ]/[ʀ̥]. The parallel results raise the question of why all three sonorants pattern alike.",
+    "zh": "本节以法语材料展示一个更完整的音位分析。六个待考察音素组成三对清浊对应的响音。作者沿用格鲁吉亚语的六个步骤，先分析 [m] 与 [m̥]，发现二者处于互补分布，是同一音位 /m/ 的音位变体，再对 [l]/[l̥] 和 [ʀ]/[ʀ̥] 重复同一程序。三个音位呈现完全平行的模式，由此引出为何全部响音表现一致的问题。"
+   },
+   "points": [
+    {
+     "en": "Six phones of interest in French form three voiced-voiceless pairs: [m]/[m̥], [l]/[l̥], and [ʀ]/[ʀ̥], all sonorant consonants.",
+     "zh": "法语中六个待考察音素组成 [m]/[m̥]、[l]/[l̥]、[ʀ]/[ʀ̥] 三对清浊对应的响音。"
+    },
+    {
+     "en": "Listing each phone's environments shows no exact matches, so [m] and [m̥] are not in contrastive distribution but in complementary distribution.",
+     "zh": "[m] 与 [m̥] 出现的环境没有完全重合，说明二者不处于对立分布，而处于互补分布。"
+    },
+    {
+     "en": "Voiceless [m̥] occurs only word-finally right after a voiceless obstruent, while voiced [m] occurs elsewhere as the default allophone.",
+     "zh": "清音 [m̥] 只出现在紧接清阻塞音之后的词末位置，浊音 [m] 则作为默认音位变体出现在其他环境。"
+    },
+    {
+     "en": "The same steps applied to [l]/[l̥] and [ʀ]/[ʀ̥] yield parallel analyses, since the three pairs form a natural class.",
+     "zh": "对 [l]/[l̥] 和 [ʀ]/[ʀ̥] 重复同样的步骤得到平行的分析结果，因为三对音素构成一个自然类。"
+    },
+    {
+     "en": "Each phoneme still has its own separate statements, leaving redundant descriptions that Section 4.7 sets out to eliminate.",
+     "zh": "分析仍为每个音位分别列出陈述，留下明显冗余，4.7 节将着手消除这一问题。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phoneme",
+     "zh": "音位",
+     "defEn": "An abstract sound unit of a language, whose allophones vary predictably by environment.",
+     "defZh": "语言中的抽象语音单位，其音位变体依环境不同而可预测地变化。"
+    },
+    {
+     "en": "allophone",
+     "zh": "音位变体",
+     "defEn": "A predictable phonetic variant of a phoneme that appears in a particular environment.",
+     "defZh": "某一音位在特定环境中出现的、可以预测的语音变体，同一音位的变体呈互补分布。"
+    },
+    {
+     "en": "complementary distribution",
+     "zh": "互补分布",
+     "defEn": "The distribution in which two phones never occur in the same environment.",
+     "defZh": "两个音素从不出现在相同环境中的分布关系，通常说明它们是同一音位的音位变体。"
+    },
+    {
+     "en": "sonorant",
+     "zh": "响音（sonorant）",
+     "defEn": "A class of speech sounds produced with relatively open airflow, including nasals and liquids.",
+     "defZh": "气流通道相对开放的语音类别，包括鼻音和流音等，在音节中通常充当韵核。"
+    },
+    {
+     "en": "default allophone",
+     "zh": "默认音位变体",
+     "defEn": "The allophone pronounced when no rule applies to a phoneme in its environment.",
+     "defZh": "当音位所处环境没有触发任何规则时所读出的音位变体，也就是该音位的本来读音。"
+    },
+    {
+     "en": "phonation",
+     "zh": "发声",
+     "defEn": "The voicing state of a sound, whether the vocal folds vibrate or not.",
+     "defZh": "语音的清浊状态，即声带是否振动；清响音与浊响音的区别即在于发声。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[ʀym] 'cold/flu' and [film] 'film'",
+     "noteEn": "Voiced [m] is word-final only when it is preceded by [y] or by [l].",
+     "noteZh": "浊音 [m] 只在 [y] 或 [l] 之后才能出现在词末。"
+    },
+    {
+     "text": "[ʀitm̥] 'rhythm' and [ʀymatism̥] 'rheumatism'",
+     "noteEn": "Voiceless [m̥] is word-final only when it is preceded by [t] or by [s].",
+     "noteZh": "清音 [m̥] 只在 [t] 或 [s] 之后出现在词末。"
+    },
+    {
+     "text": "[ʀymatismal] 'rheumatic' and [ʀymatism̥] 'rheumatism'",
+     "noteEn": "Both phones occur after [s], but [m] only when the vowel [a] follows.",
+     "noteZh": "[m] 与 [m̥] 都出现在 [s] 之后，但 [m] 之后还须接元音 [a]。"
+    },
+    {
+     "text": "[pœpl̥] 'people' and [ɔ̃kl̥] 'uncle'",
+     "noteEn": "Voiceless [l̥] appears word-finally right after a voiceless obstruent, never elsewhere.",
+     "noteZh": "清音 [l̥] 出现在紧接清阻塞音之后的词末位置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The French data in this section present six phones of interest: the voiced sonorants [m], [l], and [ʀ], and the voiceless sonorants [m̥], [l̥], and [ʀ̥]. They follow the same six-step procedure used for Georgian, beginning with one pair and then cycling back to repeat the steps for the remaining phones.",
+     "zh": "本节的法语材料涉及六个待考察音素：浊响音 [m]、[l]、[ʀ] 与清响音 [m̥]、[l̥]、[ʀ̥]。分析沿用格鲁吉亚语的六个步骤，先取一对音素入手，再回头对余下的音素重复同样的步骤。"
+    },
+    {
+     "en": "The phones split neatly into three voiced-voiceless pairs, and the analysis starts with [m] and [m̥]. Listing the individual environments shows no exact matches, but some partial similarities. Both occur after [s]: voiced [m] only before the vowel [a], as in [ʀymatismal] 'rheumatic', while voiceless [m̥] only at the end of the word, as in [ʀymatism̥] 'rheumatism'. Both also occur word-finally, but [m] only after [y] or [l], as in [ʀym] 'cold/flu' and [film] 'film', and [m̥] only after [t] or [s], as in [ʀitm̥] 'rhythm'.",
+     "zh": "六个音素整齐地分成三对清浊对应的音素，分析从 [m] 与 [m̥] 开始。逐一列出各自出现的环境后可以看到，两份清单没有完全相同的环境，但存在部分相似之处。二者都出现在 [s] 之后：[m] 只出现在元音 [a] 之前，如 [ʀymatismal]「风湿的」；[m̥] 只出现在词末，如 [ʀymatism̥]「风湿病」。二者也都出现在词末，但 [m] 只出现在 [y] 或 [l] 之后，如 [ʀym]「感冒」和 [film]「电影」；[m̥] 只出现在 [t] 或 [s] 之后，如 [ʀitm̥]「节奏」。"
+    },
+    {
+     "en": "Because the two phones occupy different environments, they are in complementary distribution rather than contrastive distribution. [m̥] occurs only word-finally when immediately preceded by a voiceless obstruent, whereas [m] occurs after voiced phones or before any phone at all. Since they are phonetically similar bilabial nasal stops differing only in phonation, they are analysed as allophones of a single phoneme /m/, with [m] as the default allophone because it occurs in more than one environment.",
+     "zh": "两个音素分布的环境不同，因此处于互补分布而非对立分布。[m̥] 只出现在紧接清阻塞音之后的词末位置，[m] 则出现在浊音之后或任何音之前，即不出现在词末。二者在语音上高度相似，都是双唇鼻塞音，仅发声（清浊）不同，因此被分析为同一音位 /m/ 的两个音位变体；由于 [m] 出现在多种不同环境中，它是默认音位变体。"
+    },
+    {
+     "en": "The same procedure applied to [l] and [l̥] and then to [ʀ] and [ʀ̥] yields parallel analyses: /l/ and /ʀ/, each with a voiceless allophone word-finally after a voiceless obstruent and a voiced default. Since all three pairs are sonorant consonants, this shared pattern is treated as a natural class and used to predict the behaviour of the last pair. Yet the analysis remains redundant, a problem taken up in Section 4.7.",
+     "zh": "对 [l] 与 [l̥]、[ʀ] 与 [ʀ̥] 重复同样的步骤，得到彼此平行的分析结果：/l/ 和 /ʀ/ 各有一个出现在清阻塞音后词末位置的清音位变体，以及一个浊的默认音位变体。由于三对音素都是响音辅音，这种共同的模式被看作一个自然类，并据此预测最后一对音素的表现。不过，这样得到的分析仍然逐音位列出了规则，存在冗余，这一问题将在 4.7 节解决。"
+    }
+   ]
+  },
+  "chapter-036-slug-4-7-phonological-rules": {
+   "title": {
+    "en": "4.7 Phonological rules",
+    "zh": "4.7 音系规则"
+   },
+   "summary": {
+    "en": "The French analysis leaves many redundant statements, so this section introduces three ways to reduce them: the principle of faithfulness removes default 'elsewhere' statements, natural classes collapse parallel statements into one, and the principle of simplicity chooses the analysis with the fewest statements. It then presents the notation for phonological rules with a target, a change, and an environment, and outlines generative phonology's underlying and surface representations.",
+    "zh": "法语的音位分析留下大量重复表述，本节因此介绍三种精简方式：忠实原则消去「其他环境」的默认陈述，自然类把若干平行陈述归并为一条，简单性原则则选取陈述最少的分析。随后给出音系规则的书写形式，说明规则由目标、变化与环境三部分组成，并概述生成音系学中底层形式与表层形式之间的关系。"
+   },
+   "points": [
+    {
+     "en": "The principle of faithfulness lets us delete every default statement, because a phoneme is pronounced as its default allophone elsewhere.",
+     "zh": "忠实原则允许删除所有默认陈述，因为音位在其他环境中一律读作其默认音位变体。"
+    },
+    {
+     "en": "Natural classes must be exhaustive, so /n/ and /j/ would belong to any class covering all French sonorants.",
+     "zh": "自然类必须是穷尽的，因此任何涵盖法语全部响音的类都应包含 /n/ 和 /j/。"
+    },
+    {
+     "en": "The two competing analyses make different predictions about whether /n/ and /j/ have voiceless allophones, but French phonotactics make this untestable.",
+     "zh": "两种分析对 /n/、/j/ 是否有清音位变体做出不同预测，但法语的音位配列使预测无法验证。"
+    },
+    {
+     "en": "The principle of simplicity chooses the single statement: a sonorant is pronounced voiceless word-finally after a voiceless obstruent.",
+     "zh": "依简单性原则选择陈述最少的单条规则：响音在清阻塞音后的词末读作清音。"
+    },
+    {
+     "en": "A phonological rule has three components: the target natural class, the change, and the environment C ▁ D.",
+     "zh": "音系规则包含三个部分：目标自然类、变化以及环境 C ▁ D。"
+    },
+    {
+     "en": "Generative phonology treats underlying representations as inputs that phonological rules turn into surface representations.",
+     "zh": "生成音系学把底层形式视为输入，经音系规则作用后生成表层形式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "principle of faithfulness",
+     "zh": "忠实原则",
+     "defEn": "The principle that a phoneme is pronounced as its default allophone in any uncovered environment.",
+     "defZh": "音位在未被其他陈述覆盖的环境中，一律读作其默认音位变体的原则。"
+    },
+    {
+     "en": "phonological rule",
+     "zh": "音系规则",
+     "defEn": "A statement that changes a target natural class into allophones in a specified environment.",
+     "defZh": "把目标自然类在特定环境中变为相应音位变体的陈述，由目标、变化与环境组成。"
+    },
+    {
+     "en": "natural class",
+     "zh": "自然类",
+     "defEn": "A group of sounds sharing phonetic properties that pattern together in a language.",
+     "defZh": "共享某些语音特征并在语言中表现出相同分布的一组音，且必须是穷尽的。"
+    },
+    {
+     "en": "underlying representation (UR)",
+     "zh": "底层形式（underlying representation，UR）",
+     "defEn": "The abstract phonemic form of a word, written between slashes.",
+     "defZh": "词的抽象音位形式，用斜线括起，作为音系推导的输入。"
+    },
+    {
+     "en": "surface representation (SR)",
+     "zh": "表层形式（surface representation，SR）",
+     "defEn": "The concrete phonetic form of a word, made of phones and written in brackets.",
+     "defZh": "词的具体语音形式，由音素构成，用方括号括起，是推导的输出。"
+    },
+    {
+     "en": "generative phonology",
+     "zh": "生成音系学",
+     "defEn": "A theory treating underlying forms as inputs that rules convert into surface forms.",
+     "defZh": "把底层形式视为输入、由规则转换为表层形式的音系学理论，兴起于二十世纪。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[t͡ʃoli] 'wife' and [xeli] 'hand'",
+     "noteEn": "Their underlying representations are /t͡ʃoɫi/ and /xeɫi/, with the phoneme /ɫ/.",
+     "noteZh": "二者的底层形式是 /t͡ʃoɫi/ 和 /xeɫi/，其中的清晰 [l] 对应音位 /ɫ/。"
+    },
+    {
+     "text": "[ɛtʀ̥] 'to be', [pœpl̥] 'people', and [ʀitm̥] 'rhythm'",
+     "noteEn": "These underlying representations are /ɛtʀ/, /pœpl/, and /ʀitm/, with voiced phonemes.",
+     "noteZh": "它们的底层形式分别是 /ɛtʀ/、/pœpl/ 和 /ʀitm/。"
+    },
+    {
+     "text": "sonorant → voiceless / voiceless obstruent ▁ #",
+     "noteEn": "The shorthand rule for French sonorants, with target, change, and environment.",
+     "noteZh": "法语响音规则的简写形式，依次包含目标、变化与环境三部分。"
+    },
+    {
+     "text": "A → B / C ▁ D",
+     "noteEn": "The basic template of a phonological rule, with target A, change B, and environment C ▁ D.",
+     "noteZh": "音系规则的基本模板：目标 A、变化 B 与环境 C ▁ D。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Written out as pronunciations, the French sonorant analysis gives statements of the form '/X/ is pronounced as [X̥] word-finally after a voiceless obstruent' and '/X/ is pronounced as [X] elsewhere'. The second statement holds for every phoneme, creating massive redundancy. The principle of faithfulness says that a phoneme in an environment covered by no other statement is pronounced the same, so all default statements can be removed, leaving three voiceless statements.",
+     "zh": "把法语的响音分析写成发音说明，会得到「/X/ 在清阻塞音后的词末读作 [X̥]」和「/X/ 在其他环境读作 [X]」两类陈述。后一条对每个音位都成立，造成大量冗余。忠实原则指出，若某音位所处的环境未被其他任何陈述覆盖，它就按其本身（默认音位变体）发音；因此可以删去全部默认陈述，只剩下三条清化陈述。"
+    },
+    {
+     "en": "The three remaining statements have exactly the same form, suggesting they belong to one natural class. But a natural class must be exhaustive, and French has other sonorants: [n] and [j] appear in the data and are presumably allophones of /n/ and /j/, so they would have to be included. We therefore face two options: three coincidentally identical statements for /m/, /l/, and /ʀ/, or a single statement covering all sonorants.",
+     "zh": "剩下的三条陈述形式完全相同，说明它们可能属于同一个自然类。但自然类必须是穷尽的，而法语中还有其他响音：数据里出现的 [n] 和 [j] 应是 /n/ 和 /j/ 的音位变体，也应纳入其中。于是有两种选择：三条互不相干的陈述恰好形式相同，各自针对 /m/、/l/、/ʀ/；或者存在一条涵盖所有响音的陈述。"
+    },
+    {
+     "en": "The two options predict differently: if /m/, /l/, and /ʀ/ behave independently of /n/ and /j/, those phonemes should have no voiceless allophones; if one pattern covers all sonorants, they should. The data cannot decide, since no relevant /n/ or /j/ words occur, and French phonotactics prevent that anyway. So the principle of simplicity favours the single statement: a sonorant is pronounced voiceless word-finally after a voiceless obstruent.",
+     "zh": "两种选择做出不同预测：若 /m/、/l/、/ʀ/ 与 /n/、/j/ 彼此独立，后者在同样环境下不应有清音位变体；若存在统一模式，则 /n/ 和 /j/ 也应有清音位变体。现有数据无法判定，因为其中没有相关环境下的 /n/ 或 /j/，而且法语的音位配列根本不允许出现这种环境。于是依简单性原则选取陈述最少的单条规则：响音在清阻塞音后的词末读作清音。"
+    },
+    {
+     "en": "This statement concerns phonation only, so place and manner must remain faithful and /m/ becomes [m̥] rather than some random voiceless phone. Such statements are phonological rules, written with an arrow for 'is pronounced as', a slash separating change from environment, ▁ for the phoneme's position, and # for word boundaries; a rule therefore has a target, a change, and an environment. Generative phonology treats the underlying representation, made of phonemes, as the input and the surface representation, made of phones, as the output of the rules, a process called a phonological derivation. So [t͡ʃoli] 'wife' and [xeli] 'hand' have the URs /t͡ʃoɫi/ and /xeɫi/.",
+     "zh": "该陈述只涉及发声，因此发音部位与发音方法必须保持不变，/m/ 只变为 [m̥]，不会变成任意一个清音。这类陈述称为音系规则，通常用箭头代替「读作」，用斜线分隔变化与环境，用下划线 ▁ 表示音位在环境中的位置，用 # 表示词界；可见规则包含目标、变化与环境三部分。生成音系学把由音位构成的底层形式视为输入，把由音素构成的表层形式视为规则作用后的输出，这一过程称为音系推导。例如 [t͡ʃoli]「妻子」和 [xeli]「手」的底层形式是 /t͡ʃoɫi/ 和 /xeɫi/。"
+    }
+   ]
+  },
+  "chapter-037-slug-4-8-phonological-derivations": {
+   "title": {
+    "en": "4.8 Phonological derivations",
+    "zh": "4.8 音系推导"
+   },
+   "summary": {
+    "en": "Once the phonemic analysis and the phonological rules are settled, sample derivations of a few critical words demonstrate how the analysis works. The section explains which examples to choose: words showing the rule applying across a representative set of the target natural class, words where the rule fails to apply, and similar sounds in the right environment that remain unaffected. It then shows how to determine underlying representations and how to lay out a derivation table.",
+    "zh": "音位分析与音系规则确定之后，可以用几个关键词的样例推导来演示分析如何运作。本节说明应如何挑选例词：既要展示规则在目标处于环境中时正确应用，并覆盖目标自然类中有代表性的若干音位；也要给出规则不适用的例子，以及处于正确环境却不受规则影响的相似音素。随后说明如何依据忠实原则确定底层形式，并介绍推导表的排版方式。"
+   },
+   "points": [
+    {
+     "en": "Sample derivations of a few critical words demonstrate how the phonemic analysis and the rules work.",
+     "zh": "用几个关键词的样例推导，演示音位分析与音系规则如何运作。"
+    },
+    {
+     "en": "Show the rule applying to a representative set of the target natural class, with at least one word per phoneme.",
+     "zh": "应展示规则在目标自然类中有代表性的音位上正确应用，每个音位至少一个词。"
+    },
+    {
+     "en": "Also show words where the rule fails, and similar sounds in the right environment that stay unaffected.",
+     "zh": "还应给出规则不适用的例词，以及处于正确环境却不受影响的相似音素。"
+    },
+    {
+     "en": "Underlying representations differ from surface forms only where a rule applies, so voiceless sonorants become voiced phonemes.",
+     "zh": "底层形式只在规则作用处与表层形式不同，因此清响音应还原为对应的浊音位。"
+    },
+    {
+     "en": "A derivation table lists underlying representations on top, rules down the left, and surface representations at the bottom.",
+     "zh": "推导表上方列底层形式，左侧列规则，下方列表层形式，并用破折号表示规则不适用。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phonological derivation",
+     "zh": "音系推导",
+     "defEn": "The process by which phonological rules convert underlying representations into surface representations.",
+     "defZh": "音系规则把底层形式转换为表层形式的过程，可用推导表展示。"
+    },
+    {
+     "en": "underlying representation (UR)",
+     "zh": "底层形式（underlying representation，UR）",
+     "defEn": "The abstract phonemic form of a word, used as the input to a derivation.",
+     "defZh": "词的抽象音位形式，作为音系推导的输入，用斜线括起。"
+    },
+    {
+     "en": "surface representation (SR)",
+     "zh": "表层形式（surface representation，SR）",
+     "defEn": "The concrete phonetic form of a word, produced as the output of a derivation.",
+     "defZh": "词的具体语音形式，作为音系推导的输出，用方括号括起。"
+    },
+    {
+     "en": "rule application",
+     "zh": "规则应用",
+     "defEn": "The operation of a phonological rule on a word whose target is in the right environment.",
+     "defZh": "当目标音位处于正确环境时，音系规则对其发生作用，否则规则不适用。"
+    },
+    {
+     "en": "principle of faithfulness",
+     "zh": "忠实原则",
+     "defEn": "The principle that forms stay unchanged except where a rule explicitly applies.",
+     "defZh": "形式除规则明确作用之处外保持不变的原理，据此可确定底层形式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[ʀitm̥] 'rhythm', [ɔ̃kl̥] 'uncle', and [ɛtʀ̥] 'to be'",
+     "noteEn": "Chosen to show the devoicing rule applying to /m/, /l/, and /ʀ/.",
+     "noteZh": "选用它们来展示清化规则分别作用于 /m/、/l/ 和 /ʀ/。"
+    },
+    {
+     "text": "[tabl] 'table'",
+     "noteEn": "The rule does not apply: the word-final sonorant follows a voiced sound.",
+     "noteZh": "规则不适用：词末响音之前是浊音，因此不发生清化。"
+    },
+    {
+     "text": "[ekʀiʀ] 'to write'",
+     "noteEn": "The sonorant follows a voiceless obstruent but is not word-final.",
+     "noteZh": "响音虽在清阻塞音之后，却不在词末，故规则不适用。"
+    },
+    {
+     "text": "[limite] 'limited'",
+     "noteEn": "A vowel sits in the correct environment but is not a sonorant consonant.",
+     "noteZh": "元音处于规则的正确环境中，但不属于响音辅音，因而不受影响。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Once the phonemic analysis is complete and the rules are determined, sample derivations of a few critical words demonstrate how the analysis works. The examples should first show the rule applying when the target is in the environment, covering a representative set of phonemes in the target natural class. For French, that means at least one word each with /m/, /l/, and /ʀ/, such as [ʀitm̥] 'rhythm', [ɔ̃kl̥] 'uncle', and [ɛtʀ̥] 'to be'. For a large class such as all obstruents, a few diverse examples suffice: do not choose /t/, /s/, and /ʃ/, but something like /p/, /z/, and /ɡ/.",
+     "zh": "音位分析完成、音系规则确定之后，可以通过几个关键词的样例推导来展示分析如何运作。首先应给出规则在目标处于环境中时正确应用的例子，并覆盖目标自然类中有代表性的若干音位。就法语而言，至少要各举一个含 /m/、/l/、/ʀ/ 的词，如 [ʀitm̥]「节奏」、[ɔ̃kl̥]「叔叔」和 [ɛtʀ̥]「是」。若目标自然类很大（如全部阻塞音或全部元音），只需举少量有足够差异的例子；不要用 /t/、/s/、/ʃ/ 来代表所有阻塞音，而应选用 /p/、/z/、/ɡ/ 之类。"
+    },
+    {
+     "en": "It is equally important to show cases where the rule does not apply because the target is in the wrong environment. Good choices are [tabl] 'table', where a word-final sonorant is preceded by a voiced sound, and [ekʀiʀ] 'to write', where a sonorant follows a voiceless obstruent but is not word-final. We may also include a sound similar to the target class that is in the right environment yet remains unaffected: [limite] 'limited' has a vowel in the correct environment, but it does not change, because vowels are not sonorant consonants.",
+     "zh": "同样重要的是展示规则因目标处于错误环境而不适用的情况。合适的例子有 [tabl]「桌子」，其中词末响音之前是浊音；以及 [ekʀiʀ]「写」，其中响音虽在清阻塞音之后，却不在词末。此外还可以给出与目标自然类相似、处于正确环境却不受规则影响的音素：[limite]「有限的」中的元音处于规则的正确环境，却不发生变化，因为元音不是响音辅音。"
+    },
+    {
+     "en": "Next we determine the underlying representation of each example word. Because of the principle of faithfulness, the UR and the SR look the same except precisely where a rule applies. Here the only rule creates voiceless sonorants, so we replace every voiceless sonorant in the SRs with the underlying voiced phoneme it derives from, giving /ʀitm/, /ɔ̃kl/, /ɛtʀ/, /tabl/, /ekʀiʀ/, and /limite/.",
+     "zh": "接着要确定各例词的底层形式。根据忠实原则，底层形式与表层形式应当相同，只在规则确切作用之处不同。本例中唯一的规则是使响音清化，因此构建底层形式只需把表层形式中的清响音替换为它所来自的浊音位，得到 /ʀitm/、/ɔ̃kl/、/ɛtʀ/、/tabl/、/ekʀiʀ/ 和 /limite/。"
+    },
+    {
+     "en": "Finally we construct a derivation table: the URs and glosses across the top, the relevant rules down the left, and the SRs across the bottom. Each column gives the output of each rule, showing how the word changes, and a dash indicates that the rule does not apply. Naming rules meaningfully also helps, so the French rule is called devoicing.",
+     "zh": "最后可以制作推导表：把各例词的底层形式和释义横向列在上方，相关的音系规则纵向列在左侧，表层形式横向列在下方。每一列给出各条规则作用后的输出，显示词发生了怎样的变化；用破折号表示该规则对这个词不适用。给规则起一个有意义的名称也有助于记忆，因此这里把法语响音的规则称为 devoicing（清化）。"
+    }
+   ]
+  }
+ }
+}

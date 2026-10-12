@@ -1,0 +1,25 @@
+{
+ "batch": 67,
+ "chapter": "[in progress] Chapter 14: Historical Linguistics",
+ "out": "data/book/gen/batch-67.json",
+ "sections": [
+  {
+   "id": "chapter-156-slug-14-6-semantic-change",
+   "title": "14.6 Semantic change",
+   "src": "data/book/src/chapter-156-slug-14-6-semantic-change.txt",
+   "chars": 27573
+  },
+  {
+   "id": "chapter-157-slug-14-8-reconstructing-the-past",
+   "title": "14.8 Reconstructing the past",
+   "src": "data/book/src/chapter-157-slug-14-8-reconstructing-the-past.txt",
+   "chars": 10228
+  },
+  {
+   "id": "chapter-158-slug-14-9-case-study-reconstructing-proto-chinese",
+   "title": "14.9 Case study: Reconstructing Proto-Chinese",
+   "src": "data/book/src/chapter-158-slug-14-9-case-study-reconstructing-proto-chinese.txt",
+   "chars": 13887
+  }
+ ]
+}

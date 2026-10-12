@@ -1,0 +1,25 @@
+{
+ "batch": 18,
+ "chapter": "Chapter 4: Phonology",
+ "out": "data/book/gen/batch-18.json",
+ "sections": [
+  {
+   "id": "part-004-chapter-4-phonology",
+   "title": "Chapter 4: Phonology",
+   "src": "data/book/src/part-004-chapter-4-phonology.txt",
+   "chars": 887
+  },
+  {
+   "id": "chapter-030-slug-4-1-phonemes-and-allophones",
+   "title": "4.1 Phonemes and allophones",
+   "src": "data/book/src/chapter-030-slug-4-1-phonemes-and-allophones.txt",
+   "chars": 7982
+  },
+  {
+   "id": "chapter-031-slug-4-2-phonotactics-and-natural-classes",
+   "title": "4.2 Phonotactics and natural classes",
+   "src": "data/book/src/chapter-031-slug-4-2-phonotactics-and-natural-classes.txt",
+   "chars": 5512
+  }
+ ]
+}

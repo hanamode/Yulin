@@ -1,0 +1,11 @@
+# Chapter 1: Human Language and Language Science
+
+In this chapter, we begin to explore what language is, and how language scientists (also known as linguists) think about it and observe it. It might well be that most of experience learning about language has had to do with rules that you could get right or wrong. That’s not the approach we’re taking in this book. Instead, we’re going to look at how to use the tools and techniques of linguistics to observe the patterns of human languages. From these observations, we’ll try to draw some conclusions about the abstract principles and organization of human language in people’s minds and in language communities. Along the way, we’ll also consider the ways that language science and people’s attitudes about language have bolstered colonial structures of power and privilege and have been used to do harm.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Differentiate between prescriptive and descriptive ways of thinking about language,
+- Identify components of mental grammar,
+- Explain some properties of all human languages,
+- Describe some techniques for doing language science, and
+- Discuss the ethics of doing language science.

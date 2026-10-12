@@ -1,0 +1,9 @@
+# Chapter 4: Phonology
+
+The phonetic properties of language are not entirely random. There are many repeated patterns and categories that give more abstract structure to the physical reality of the linguistic signal, both within a particular language and across languages. This chapter explores this abstract structure by looking at patterns in how the physical units of language can be combined, how they affect each other in patterned ways when they are combined, and the methods linguists can use to discover these patterns.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Analyze linguistic data to determine the distributions of phones in a spoken language and phonological processes in signed languages,
+- Categorize phones into phonemes based on their distributions, and
+- Write phonological rules that show how to map phonemes and underlying representations to allophones and surface representations.

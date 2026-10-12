@@ -1,0 +1,337 @@
+{
+ "batch": 30,
+ "sections": {
+  "chapter-060-embedded-content-questions": {
+   "title": {
+    "en": "6.9 Embedded content questions and relative clauses",
+    "zh": "6.9 嵌入的内容疑问句与关系小句"
+   },
+   "summary": {
+    "en": "Any verb that can embed a yes-no question can also embed a content question, but embedded content questions take no complementizer and no Subject-Auxiliary Inversion, unlike main clause ones. Clauses also appear as complements of nouns and as relative clauses that modify nouns. Relative clauses front a relative pronoun and leave a gap, just like content questions.",
+    "zh": "凡是能嵌入是非问句的动词也能嵌入内容疑问句，但嵌入式内容疑问句不能出现标句词，也不进行主语—助动词倒装，这与主句内容疑问句不同。小句还可充当名词的补足语，或充当修饰名词的关系小句。关系小句与内容疑问句一样需要前置并留下空位，只不过前置的是关系代词。"
+   },
+   "points": [
+    {
+     "en": "Any verb that can embed a yes-no question can also embed a content question, as know, ask, and wonder show.",
+     "zh": "凡是能嵌入是非问句的动词，也能嵌入内容疑问句，know、ask 和 wonder 都如此。"
+    },
+    {
+     "en": "Embedded content questions contain no complementizer and do not undergo Subject-Auxiliary Inversion, unlike main clause content questions.",
+     "zh": "嵌入式内容疑问句不能出现标句词，也不进行主语—助动词倒装，这一点与主句内容疑问句不同。"
+    },
+    {
+     "en": "Clauses may appear as complements of nouns, often nouns derived from clause-embedding verbs, and questions there require the preposition of.",
+     "zh": "小句可作名词补足语，这类名词多由能嵌入小句的动词派生而来；此时疑问小句须由介词 of 引导。"
+    },
+    {
+     "en": "Relative clauses modify a noun rather than complement it, and are introduced by that or a relative pronoun like who or which.",
+     "zh": "关系小句修饰名词而非充当其补足语，可由 that 或 who、which 一类关系代词引导。"
+    },
+    {
+     "en": "Like content questions, relative clauses leave a gap and front a relative pronoun; free relatives stand alone without a modified noun.",
+     "zh": "与内容疑问句一样，关系小句也留下空位并前置关系代词；自由关系小句单独使用，不修饰名词。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "complementizer",
+     "zh": "标句词",
+     "defEn": "A word like that, if, or whether that introduces an embedded clause.",
+     "defZh": "引导嵌入小句的词，如 that、if、whether，出现在小句的最左边缘。"
+    },
+    {
+     "en": "relative clause",
+     "zh": "关系小句",
+     "defEn": "A clause that modifies a noun instead of serving as its complement.",
+     "defZh": "修饰名词而非充当名词补足语的小句，通常由关系代词引导并含有一个空位。"
+    },
+    {
+     "en": "relative pronoun",
+     "zh": "关系代词",
+     "defEn": "A word such as who, which, where, when, or why that introduces a relative clause.",
+     "defZh": "引导关系小句的词，如 who、which、where、when、why，传统语法称之为关系代词。"
+    },
+    {
+     "en": "free relative clause",
+     "zh": "自由关系小句",
+     "defEn": "A relative clause that stands alone without modifying any noun.",
+     "defZh": "不修饰任何名词、单独充当名词短语使用的关系小句，英语中多由 whoever、whatever 等引导。"
+    },
+    {
+     "en": "Subject-Auxiliary Inversion",
+     "zh": "主语—助动词倒装",
+     "defEn": "Movement of an auxiliary verb to a position before the subject.",
+     "defZh": "助动词移到主语之前的句法操作，出现在英语主句内容疑问句中。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "I know what squirrels have hidden.",
+     "noteEn": "An embedded content question: the question word is fronted but there is no inversion.",
+     "noteZh": "嵌入式内容疑问句：疑问词前置，但主语与助动词不发生倒装。"
+    },
+    {
+     "text": "*I know what have squirrels hidden.",
+     "noteEn": "Ungrammatical for most speakers of Canadian English because embedded content questions do not invert.",
+     "noteZh": "对多数加拿大英语使用者不合语法，因为嵌入式内容疑问句不发生倒装。"
+    },
+    {
+     "text": "The cookies (that) my brother baked turned out well.",
+     "noteEn": "A relative clause modifying the noun cookies and introduced by the optional complementizer that.",
+     "noteZh": "关系小句修饰名词 cookies，由可选的标句词 that 引导。"
+    },
+    {
+     "text": "The irate guest complained about whoever was at the front desk.",
+     "noteEn": "A free relative clause introduced by whoever, occupying the position of a noun phrase.",
+     "noteZh": "由 whoever 引导的自由关系小句，占据名词短语所处的位置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Having surveyed main and embedded statements and yes-no questions, the chapter turns to content questions inside embedded clauses. Any verb that can embed a yes-no question, such as know, ask, or wonder, can also embed a content question: alongside I know if squirrels have hidden nuts we find I know what squirrels have hidden. The question word moves to the front of the embedded clause, exactly as in a main clause content question.",
+     "zh": "在考察了主句与嵌入小句的陈述句及是非问句之后，本节转向嵌入小句中的内容疑问句。凡是能嵌入是非问句的动词，如 know、ask、wonder，也都能嵌入内容疑问句：既有 I know if squirrels have hidden nuts，也有 I know what squirrels have hidden。疑问词移到嵌入小句的最前端，与主句内容疑问句一致。"
+    },
+    {
+     "en": "Two things distinguish these from main clause content questions. First, no complementizer may appear: adding if, whether, or that to an embedded content question yields ungrammatical results. Second, there is no Subject-Auxiliary Inversion, so I know what squirrels have hidden is fine while I know what have squirrels hidden is not. Some varieties of English spoken in Belfast do allow inversion here.",
+     "zh": "它们与主句内容疑问句有两点不同。第一，不能出现标句词：在嵌入式内容疑问句中加 if、whether 或 that 都会造成不合语法。第二，不发生主语—助动词倒装，因此 I know what squirrels have hidden 成立，而 I know what have squirrels hidden 不成立。不过据 Henry（1995）描述，爱尔兰贝尔法斯特的某些英语变体允许这种倒装。"
+    },
+    {
+     "en": "Clauses can also appear inside noun phrases. A clause may be the complement of a noun, especially a noun derived from a clause-embedding verb, as in the knowledge that squirrels hide nuts. When the complement is a question rather than a statement, it must be introduced by the preposition of; removing of makes the sentence ungrammatical. Nouns can likewise take ordinary noun phrase complements introduced by of or about.",
+     "zh": "小句也可以出现在名词短语内部。小句可以充当名词的补足语，尤其是由能嵌入小句的动词派生的名词，例如 the knowledge that squirrels hide nuts。当补足语是疑问小句而非陈述小句时，必须由介词 of 引导；去掉 of 句子便不合语法。名词同样可以带由 of 或 about 引导的普通名词短语补足语。"
+    },
+    {
+     "en": "Relative clauses are a different kind of clause inside a noun phrase: they modify a noun instead of complementing it. They may be introduced by the optional complementizer that or by a relative pronoun such as who, where, or which. Like content questions, they contain a gap and front an element, a process the chapter calls Relative Fronting. Relative pronouns are optional, and English also has a silent relative pronoun. Free relative clauses, such as whoever was at the front desk, stand alone without any modified noun.",
+     "zh": "关系小句是名词短语中另一类小句：它们修饰名词，而不充当名词的补足语。关系小句可以由可选的标句词 that 引导，也可以由 who、where、which 等关系代词引导。与内容疑问句一样，关系小句内部含有一个空位并需要前置某个成分，本节把这一操作称为关系词前置。关系代词是可选的，英语还存在一个零形式的关系代词。自由关系小句（如 whoever was at the front desk）则单独使用，不修饰任何名词。"
+    }
+   ]
+  },
+  "chapter-061-arguments-and-thematic-roles": {
+   "title": {
+    "en": "6.10 Arguments and thematic roles",
+    "zh": "6.10 论元与题元角色"
+   },
+   "summary": {
+    "en": "Subject and object are structural notions, but the participants in an eventuality play distinct semantic roles called thematic roles. Verbs select both the number of arguments they take and the roles those arguments bear. Roles discussed here include agent, causer, experiencer, theme, instrument, location, and goal. Weather verbs like rain describe eventualities with no participants.",
+    "zh": "主语和宾语是结构概念，而事件或状态中的参与者扮演不同的语义角色，即题元角色。动词不仅选择论元的数量，也选择论元所承担的题元角色。本节讨论的题元角色包括施事、致事、经历者、主题、工具、处所和目标。rain 一类天气动词所描述的事件则没有任何参与者。"
+   },
+   "points": [
+    {
+     "en": "Subject and object are structural terms: subjects precede the verb and control agreement, while objects follow the verb.",
+     "zh": "主语和宾语是结构术语：主语位于限定动词之前并控制一致，宾语位于动词之后。"
+    },
+    {
+     "en": "Thematic roles describe the part a participant plays in an eventuality, and different subjects can bear different roles.",
+     "zh": "题元角色描述参与者在事件或状态中所起的作用，不同的主语可以承担不同的题元角色。"
+    },
+    {
+     "en": "An agent acts on purpose, a causer causes without purpose, and an experiencer undergoes a mental state.",
+     "zh": "施事有意地发出动作，致事并非有意地使某事发生，经历者则经历某种心理状态。"
+    },
+    {
+     "en": "The theme is the participant something happens to; instruments, locations, and goals typically appear in prepositional phrases.",
+     "zh": "主题是某事所发生的对象；工具、处所和目标通常出现在介词短语中。"
+    },
+    {
+     "en": "Verbs select both the number and the thematic roles of their arguments; a single argument is always the subject.",
+     "zh": "动词既选择论元的数量，也选择题元角色；只有一个论元时，该论元必定是主语。"
+    },
+    {
+     "en": "Weather verbs like rain and snow have a syntactic subject but describe eventualities with no participants at all.",
+     "zh": "rain、snow 等天气动词带有句法主语，但所描述的事件没有任何参与者。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "thematic role",
+     "zh": "题元角色",
+     "defEn": "The role a participant plays in an eventuality, such as agent, theme, or goal.",
+     "defZh": "参与者在事件或状态中所扮演的角色，如施事、主题、目标等。"
+    },
+    {
+     "en": "agent",
+     "zh": "施事",
+     "defEn": "An animate actor who does something on purpose.",
+     "defZh": "有意发出动作的有生命参与者，例如 The pirate sank the ship 中的 the pirate。"
+    },
+    {
+     "en": "causer",
+     "zh": "致事",
+     "defEn": "An often inanimate participant that makes something happen without acting on purpose.",
+     "defZh": "通常无生命、并非有意地使某事发生的参与者，如 The bilge pump malfunction 作主语。"
+    },
+    {
+     "en": "experiencer",
+     "zh": "经历者",
+     "defEn": "An animate participant that experiences a mental state, including perception.",
+     "defZh": "经历心理状态（包括感知）的有生命参与者，如 I fear pirates 中的 I。"
+    },
+    {
+     "en": "theme",
+     "zh": "主题",
+     "defEn": "The participant to which something happens, which may or may not be changed.",
+     "defZh": "某事所发生的对象，可能随事件而改变，也可能不受影响。"
+    },
+    {
+     "en": "goal",
+     "zh": "目标",
+     "defEn": "The location or person that receives the theme, often the indirect object.",
+     "defZh": "接受主题的处所或人，在多数双及物结构中充当间接宾语。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The pirate sank the ship.",
+     "noteEn": "Here the subject is an agent, since the pirate acts on purpose.",
+     "noteZh": "此处主语是施事，因为 the pirate 有意发出动作。"
+    },
+    {
+     "text": "The ship sank.",
+     "noteEn": "The same verb used intransitively, with the ship as the theme subject.",
+     "noteZh": "同一个动词用作不及物，the ship 充任主题主语。"
+    },
+    {
+     "text": "The pirates sent a message to the ship.",
+     "noteEn": "The ship is the goal, receiving the theme a message.",
+     "noteZh": "the ship 是目标，接受主题 a message。"
+    },
+    {
+     "text": "It is raining.",
+     "noteEn": "A weather verb: the sentence has a subject, but the eventuality has no participants.",
+     "noteZh": "天气动词：句子有主语，但事件本身没有任何参与者。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Predicates were earlier classified by transitivity: intransitive verbs take only a subject, transitive verbs take a subject and an object, and ditransitive verbs add an indirect object. But subject and object are structural notions. In English a subject appears at the beginning of a declarative clause, bears nominative case if it is a pronoun, and controls agreement on the tensed verb, while an object follows the verb and bears accusative case. These positions tell us nothing yet about meaning.",
+     "zh": "前面按及物性对谓语作了分类：不及物动词只带主语，及物动词带主语和宾语，双及物动词再加一个间接宾语。但主语和宾语都是结构概念。在英语中，主语出现在陈述小句的开头，若为代词则用主格，并控制限定动词的一致；宾语位于动词之后，若为代词则用宾格。这些结构位置本身并不说明意义。"
+    },
+    {
+     "en": "To talk about meaning, verbs can be seen as describing events or states, and eventuality is used here as a cover term for both. An eventuality involves a number of participants, and the roles those participants play are called thematic roles. Subjects do not always have the same role: in The children yelled the subject acts on purpose, in The wind blew the tree down it does not, and in The tree burned something simply happens to the subject.",
+     "zh": "要讨论意义，可以把动词视为描述事件或状态，本节用「事件」一词统称二者。一个事件包含若干参与者，这些参与者所扮演的角色称为题元角色。主语并不总是承担同一角色：The children yelled 的主语有意发出动作，The wind blew the tree down 的主语并非有意，而 The tree burned 中只是某事发生在主语身上。"
+    },
+    {
+     "en": "The chapter defines several roles. An agent is an animate actor who acts on purpose; a causer is typically inanimate and causes something to happen without purpose; an experiencer is an animate participant with a mental state, as with verbs like see, hear, fear, and like. A theme is the participant something happens to. Instruments, locations, and goals are usually expressed in prepositional phrases, and in most ditransitives the indirect object is the goal.",
+     "zh": "本节界定了几种角色。施事是有意发出动作的有生命参与者；致事通常无生命，并非有意地使某事发生；经历者是有心理状态的有生命参与者，见于 see、hear、fear、like 等动词。主题是某事所发生的对象。工具、处所和目标通常由介词短语表达，在多数双及物结构中，间接宾语就是目标。"
+    },
+    {
+     "en": "Verbs select not only how many arguments they take but also which thematic roles those arguments bear, and they are not entirely free in mapping roles onto positions: an agent is always the subject, and a lone argument is always the subject. English has agent intransitives like The pirate laughed and theme intransitives like The tree fell. Weather verbs such as rain and snow have a subject but describe eventualities with no participants.",
+     "zh": "动词不仅选择论元的数量，也选择这些论元承担哪些题元角色；而且角色到句法位置的映射并非完全自由：施事总是主语，唯一的论元也总是主语。英语中既有 The pirate laughed 这样的施事不及物动词，也有 The tree fell 这样的主题不及物动词。rain、snow 等天气动词又有所不同：它们有主语，但所描述的事件没有任何参与者。"
+    }
+   ]
+  },
+  "chapter-062-adding-or-removing-arguments-causatives-and-passives": {
+   "title": {
+    "en": "6.11 Changing argument structure: Causatives and passives",
+    "zh": "6.11 改变论元结构：使役式与被动式"
+   },
+   "summary": {
+    "en": "All languages can adjust the thematic roles expressed in a clause. Causatives add a causer or agent as a new subject, either syntactically with a verb like make or morphologically, as in Japanese. Benefactive applicatives add a participant the event is done for. Passives remove the original subject, promote the object, and add be plus a past participle.",
+    "zh": "所有语言都能调整小句中所表达的题元角色。使役式增加一个致事或施事作为新的主语，既可以用 make 一类动词在句法上实现，也可以用词形变化实现，如日语。受益施用式增加事件为之而做的参与者。被动式删除原主语、提升宾语，并使用 be 加过去分词。"
+   },
+   "points": [
+    {
+     "en": "Causatives add an extra causer or agent that becomes the new subject, as in I made them read a book.",
+     "zh": "使役式增加一个致事或施事，并使其成为新的主语，如 I made them read a book。"
+    },
+    {
+     "en": "In morphological causatives such as Japanese, verb morphology adds the causer, and the causee receives dative rather than accusative case.",
+     "zh": "在日语等语言的形态使役式中，由动词形态增加致事，被使者用与格而非宾格标记。"
+    },
+    {
+     "en": "Benefactive applicatives add a participant that the event is done for, usually as an indirect object.",
+     "zh": "受益施用式增加事件为之而做的参与者，通常使其充当间接宾语。"
+    },
+    {
+     "en": "Passives demote the original subject, promote the object to subject, and require be plus a past participle.",
+     "zh": "被动式降级原主语，把原宾语提升为主语，并要求使用 be 加过去分词。"
+    },
+    {
+     "en": "Every passive has an active counterpart; verbs like sink can be either active transitive or active intransitive.",
+     "zh": "每个被动小句都有对应的主动小句；sink 一类动词既可作及物主动，也可作不及物主动。"
+    },
+    {
+     "en": "Everyday criticism of the passive often confuses its technical grammatical meaning with complaints about hiding the agent.",
+     "zh": "日常话语对被动式的批评常常把它的语法学含义与「掩盖施事」的抱怨混为一谈。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "causative",
+     "zh": "使役式",
+     "defEn": "A construction that adds an extra causer or agent, which becomes the new subject.",
+     "defZh": "增加一个致事或施事并使其成为新主语的构式，如英语的 make 使役式或日语的形态使役式。"
+    },
+    {
+     "en": "passive",
+     "zh": "被动式",
+     "defEn": "A construction that removes the original subject and makes the object the subject.",
+     "defZh": "删除原主语、并使原宾语成为主语的构式，英语中由 be 加过去分词构成。"
+    },
+    {
+     "en": "active",
+     "zh": "主动式",
+     "defEn": "A non-passive clause, the counterpart from which a passive is formed.",
+     "defZh": "非被动的小句，是与被动式相对应的基本形式，如 They wrote a book 相对于 A book was written。"
+    },
+    {
+     "en": "grammatical voice",
+     "zh": "语法语态",
+     "defEn": "A grammatical category including active and passive, and in Greek also middle voice.",
+     "defZh": "包括主动与被动在内的语法范畴，希腊语中还有中动语态。"
+    },
+    {
+     "en": "benefactive applicative",
+     "zh": "受益施用式",
+     "defEn": "An argument-adding construction that adds a participant the event is done for.",
+     "defZh": "增加一个表示事件为之而做的参与者、通常使其作间接宾语的论元增容构式。"
+    },
+    {
+     "en": "causee",
+     "zh": "被使者",
+     "defEn": "The participant made to perform an action in a causative construction.",
+     "defZh": "使役构式中被要求执行动作的参与者，在日语中用与格标记。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "I made them read a book.",
+     "noteEn": "English syntactic causative: make adds a causer subject and the original subject becomes accusative.",
+     "noteZh": "英语句法使役式：make 增加一个致事主语，原主语变为宾格。"
+    },
+    {
+     "text": "Watasi-wa neko-ni tabe-sase-ta",
+     "noteEn": "Japanese morphological causative: the suffix -sase adds the causer, and the causee takes dative -ni.",
+     "noteZh": "日语形态使役式：后缀 -sase 增加致事，被使者用与格 -ni 标记。"
+    },
+    {
+     "text": "The ship was sunk (by the pirates).",
+     "noteEn": "A passive: be plus past participle, an optional by-phrase, and the original object as subject.",
+     "noteZh": "被动式：be 加过去分词，by 短语可选，原宾语充当主语。"
+    },
+    {
+     "text": "I baked my friend a cake.",
+     "noteEn": "A benefactive applicative, adding my friend as an indirect object benefited by the event.",
+     "noteZh": "受益施用式，增加 my friend 作间接宾语，表示事件为之而做。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Up to this point the thematic roles discussed are those that verb roots come specified with. But every language has ways of adjusting the roles expressed in a clause, either syntactically or through morphology. Causatives are one such device: they add an extra causer or agent, which becomes the new subject. English has several syntactic causatives, including the construction with make. In I made them read a book the original subject they now appears after make in accusative case, although its thematic role is unchanged.",
+     "zh": "此前讨论的题元角色都是词根本身所规定的。但所有语言都能在句法或词法层面调整小句中所表达的角色。使役式就是这样一种手段：它增加一个致事或施事，并使其成为新的主语。英语有多种句法使役式，其中包括用 make 的构式。在 I made them read a book 中，原来的主语 they 现在出现在 make 之后并变为宾格，但它的题元角色并未改变。"
+    },
+    {
+     "en": "Other languages use morphological causatives, in which verbal morphology rather than a separate causative verb adds the causer. In Japanese, Watasi-wa neko-ni tabe-sase-ta contains the causative suffix -sase, and the original subject takes dative -ni rather than the accusative case found in English; causees in such languages are generally marked dative or accusative. Languages also have other argument-adding constructions, such as benefactive applicatives, which add a participant the event is done for: I baked a cake becomes I baked my friend a cake.",
+     "zh": "其他语言使用形态使役式，由动词形态而非独立的使役动词增加致事。日语 Watasi-wa neko-ni tabe-sase-ta 含使役后缀 -sase，原来的主语用与格 -ni 标记，而不是英语中的宾格；在既有使役式又有形态格的语言中，被使者通常标为与格或宾格。语言还有其他增容构式，例如受益施用式，它增加事件为之而做的参与者：I baked a cake 变成 I baked my friend a cake。"
+    },
+    {
+     "en": "Conversely, some constructions remove an argument. The best known is the passive, which removes the original subject and turns the original object into the passive subject; the corresponding non-passive sentence is called active. A grammatical passive must demote the original subject, which may appear in an optional by-phrase, promote the object to subject, and carry the be plus past participle morphology.",
+     "zh": "相反，也有一些构式删除论元。最著名的是被动式：它删除动词原来的主语，并使原来的宾语成为被动句的主语；与之相应的非被动句称为主动句。合格的被动式必须降级原主语（可用可选的 by 短语来表达），把宾语提升为主语，并带有 be 加过去分词的典型形态。"
+    },
+    {
+     "en": "The first property links each passive to an active counterpart, so The pirates sank the ship has the passive The ship was sunk (by the pirates). A theme intransitive such as The ship sank looks similar but lacks the by-phrase and the auxiliary, so it is not a passive. Popular advice often tells writers to avoid the passive because it supposedly hides the agent, yet the passive is precisely what allows the agent to appear in a by-phrase, which plain intransitives do not.",
+     "zh": "第一个特征把被动式与对应的主动句联系起来，因此 The pirates sank the ship 的被动形式是 The ship was sunk (by the pirates)。The ship sank 这样的主题不及物句看似相近，却既无 by 短语也无助动词，因而不是被动式。流行的写作建议常说应避免被动式，理由是它掩盖施事；但恰恰是被动式允许施事出现在 by 短语中，而普通不及物动词做不到这一点。"
+    }
+   ]
+  }
+ }
+}

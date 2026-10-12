@@ -1,0 +1,327 @@
+{
+ "batch": 7,
+ "entries": [
+  {
+   "id": "duality-of-patterning",
+   "title": "二层性",
+   "en": "Duality of Patterning",
+   "category": "concepts",
+   "tags": [
+    "霍凯特",
+    "设计特征",
+    "音位",
+    "语素",
+    "双层结构"
+   ],
+   "summary": "二层性是美国语言学家霍凯特提出的语言设计特征之一，指语言由两个层级组成：底层是本身不表义的语音单位，上层是由这些单位组合而成的表义单位。例如英语的 /k/、/æ/、/t/ 单独没有意义，组合为 cat、act、tack 后才承载意义。二层性使有限的语音手段能够生成无限的词语，被视为人类语言区别于动物交际系统的关键特征之一。",
+   "summaryEn": "Duality of patterning is one of the design features of language identified by Charles Hockett. It holds that language is organized on two levels: a lower level of meaningless sound units and an upper level of meaningful units built out of them. In English, /k/, /æ/ and /t/ carry no meaning on their own, yet their recombination yields cat, act and tack. This double articulation allows a small inventory of sounds to generate an unlimited stock of words, and is often cited as a feature that distinguishes human language from animal communication.",
+   "sections": [
+    {
+     "h": "定义与提出",
+     "hEn": "Definition and Origin",
+     "p": [
+      "二层性又称双重切分，是霍凯特在讨论语言的普遍设计特征时提出的概念。它指语言符号可以切分为两个性质不同的层级：底层是无意义的语音单位，如音位和区别特征；上层是由语音单位组合而成的有意义单位，如语素、词和句子。两个层级各有自己的组合规则，语音层受音位配列限制，语法层受形态句法规则限制。霍凯特认为这一特征是人类语言的核心属性，动物的交际系统通常只具备一个层级。"
+     ],
+     "pEn": [
+      "Also called double articulation, duality of patterning was proposed by Charles Hockett as one of the design features of human language. It states that linguistic signals can be analysed on two distinct levels: a lower level of meaningless units such as phonemes and distinctive features, and an upper level of meaningful units such as morphemes, words and sentences built out of them. Each level has its own combinatory rules, phonotactic constraints below and morphosyntactic rules above. Hockett regarded this property as central to human language and noted that animal communication systems generally possess only a single level."
+     ]
+    },
+    {
+     "h": "两个层级的结构与规则",
+     "hEn": "Structure and Rules of the Two Levels",
+     "p": [
+      "底层单位本身不承载意义，只通过彼此的对立来区别上层单位；上层单位则由底层单位按一定次序排列而成。英语的 /p/、/b/、/t/、/d/ 等音位本身无所指，但可以组成 pat、bat、tab、bad 等词。汉语普通话的「妈」[ma˥]、「麻」[ma˧˥]、「马」[ma˨˩˦]、「骂」[ma˥˩] 声母韵母相同，仅靠声调区别，说明底层还有区别性特征在起作用。上层的组合同样受限，例如英语不允许词首出现 [ŋ]。"
+     ],
+     "pEn": [
+      "Lower-level units carry no meaning of their own; they function only by contrasting with one another in order to distinguish upper-level units, which are sequences of those lower units. English phonemes such as /p/, /b/, /t/ and /d/ signify nothing in isolation, yet they combine into pat, bat, tab and bad. In Mandarin the syllables 妈 [ma˥], 麻 [ma˧˥], 马 [ma˨˩˦] and 骂 [ma˥˩] share the same segments and differ only in tone, showing that distinctive features also operate at the lower level. Upper-level combinations are likewise constrained: English words may not begin with [ŋ]."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "英语单词 cat /kæt/、act /ækt/、tack /tækt/ 使用大致相同的音位集合，却因排列次序不同而意义各异，这正体现了二层性的经济性：几十个音位足以构成数万个词。汉语形声字在文字层面也有类似表现，如「妈」「码」「骂」共享声旁「马」，以有限构件区分不同意义。手语同样具有二层性，美国手语的语形单位（手形、位置、运动）本身不表义，组合后才构成手势词。"
+     ],
+     "pEn": [
+      "The English words cat /kæt/, act /ækt/ and tack /tækt/ draw on much the same set of phonemes but differ in meaning because of their ordering, which illustrates the economy of duality: a few dozen phonemes suffice for tens of thousands of words. Chinese characters show a comparable economy, as in 妈 mother, 码 code and 骂 scold, which share the phonetic component 马. Sign languages are also doubly articulated: in American Sign Language the formational units of handshape, location and movement are meaningless in themselves and combine to build signs."
+     ]
+    },
+    {
+     "h": "理论意义与争议",
+     "hEn": "Significance and Criticism",
+     "p": [
+      "二层性使语言具有强大的生成能力，说话人可以用有限的语音材料创造从未听过的新词，如英语的 blog、selfie，这是语言区别于多数动物信号系统的重要证据。批评者指出，长臂猿的叫声和某些鸟鸣也显示出可分解的组合，因此该特征未必为人类语言所独有。也有学者认为把语音层视为完全无意义过于绝对，因为某些音本身带有象似或情感色彩，如英语 sl- 开头的词常带贬义联想。"
+     ],
+     "pEn": [
+      "Duality gives language enormous generative power, allowing speakers to coin words never heard before, such as blog and selfie, and it is often taken as evidence that language differs from most animal signalling systems. Critics note that gibbon calls and some birdsong also show decomposable combinations of units, so the feature may not be unique to human language. Others argue that treating the sound level as wholly meaningless is too strong, since some sounds carry iconic or expressive colouring, as in the pejorative association of many English sl- words."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "二层性",
+     "tEn": "Duality of patterning",
+     "d": "语言由无意义语音层与有意义语法层构成的双层组织特性",
+     "dEn": "The property of language being organized on two levels, meaningless sounds and meaningful units"
+    },
+    {
+     "t": "双重切分",
+     "tEn": "Double articulation",
+     "d": "话语可切分为无意义单位和有意义单位两个层次的性质",
+     "dEn": "The division of an utterance into two levels, one meaningless and one meaningful"
+    },
+    {
+     "t": "设计特征",
+     "tEn": "Design feature",
+     "d": "霍凯特提出的界定人类语言的一组普遍属性",
+     "dEn": "Any of the universal properties that Hockett used to characterize human language"
+    },
+    {
+     "t": "音位",
+     "tEn": "Phoneme",
+     "d": "特定语言中能区别意义的最小语音单位",
+     "dEn": "The smallest sound unit in a language that can distinguish meaning"
+    },
+    {
+     "t": "语素",
+     "tEn": "Morpheme",
+     "d": "语言中最小的音义结合体，不可再分",
+     "dEn": "The smallest meaningful unit of a language, not further divisible"
+    },
+    {
+     "t": "音位配列",
+     "tEn": "Phonotactics",
+     "d": "特定语言允许的音段组合与排列规则",
+     "dEn": "The rules governing which sound sequences a language permits"
+    }
+   ],
+   "related": [
+    "phoneme",
+    "morpheme",
+    "arbitrariness",
+    "phonology",
+    "structuralism"
+   ],
+   "sources": [
+    "Wikipedia, \"Duality of patterning\", https://en.wikipedia.org/wiki/Duality_of_patterning",
+    "Hockett, C. F., \"The Origin of Language\", Scientific American, 1960"
+   ]
+  },
+  {
+   "id": "displacement-feature",
+   "title": "移位性",
+   "en": "Displacement",
+   "category": "concepts",
+   "tags": [
+    "霍凯特",
+    "设计特征",
+    "指示语",
+    "时间指称",
+    "动物交际"
+   ],
+   "summary": "移位性是人类语言的设计特征之一，指语言能够谈论不在说话现场的事物，如过去的经历、未来的计划、虚构的情境和远方的事件，例如「独角兽只存在于传说中」。动物的交际信号大多与当下刺激绑定，蜜蜂的舞蹈虽能指示远处蜜源，却无法报告无关事件。移位性使知识得以跨时空传递，是语言区别于多数动物交际系统的重要依据。",
+   "summaryEn": "Displacement is one of the design features of language: the capacity to talk about things that are absent from the immediate situation, including past events, future plans, remote places and imaginary states of affairs. English sentences such as My grandmother will visit next summer, or a legend about a unicorn, illustrate it. Most animal signals are tied to the here and now; the honeybee dance can indicate a distant food source but cannot report unrelated events. Displacement allows knowledge to be transmitted across time and space.",
+   "sections": [
+    {
+     "h": "定义与提出",
+     "hEn": "Definition and Origin",
+     "p": [
+      "移位性是霍凯特列举的语言设计特征之一，指人类语言能够摆脱当前刺激的控制，谈论时间上或空间上不在场的事物。说话人既可以追述昨天的事，也可以预告明天、提出假设或虚构从未存在的东西，例如「如果我是你，我就辞职」。霍凯特在比较人类语言与动物交际时指出，动物的信号大多由当下的生理状态或环境刺激触发，而人类话语可以自由地脱离此时此地。"
+     ],
+     "pEn": [
+      "Displacement is one of the design features of language listed by Charles Hockett. It refers to the ability of human language to escape the control of the immediate stimulus and talk about things that are absent in time or space. Speakers can recount yesterday's events, predict tomorrow, entertain hypotheses or invent entities that never existed, as in If I were you I would resign. Comparing human language with animal communication, Hockett observed that animal signals are largely triggered by a present physiological state or environmental stimulus, whereas human utterances can be freely detached from the here and now."
+     ]
+    },
+    {
+     "h": "表现形式与相关概念",
+     "hEn": "Manifestations and Related Notions",
+     "p": [
+      "移位性在语言中有多种表现。时间上，汉语用「昨天」「明年」等时间词配合「了」「过」「会」等标记区分过去、经历与将来；空间上，用「那边」「远处」等指示语指向非现场；情态上，用「可能」「也许」表达不确定或与事实相反的情境。它与指示语关系紧密：指示语把话语锚定在说话现场，移位性则让话语能够离开这一现场。习得研究表明，儿童约在两岁前后开始谈论不在眼前的物体和过去的事件。"
+     ],
+     "pEn": [
+      "Displacement shows up in many guises. Temporally, Mandarin uses time words such as 昨天 yesterday and 明年 next year together with markers like 了 le, 过 guo and 会 hui to distinguish past, experiential and future reference. Spatially, deictic expressions such as 那边 over there point away from the immediate setting, and modal words such as 可能 possibly express uncertain or counterfactual situations. The notion is closely related to deixis: deixis anchors an utterance to the speech situation, while displacement allows it to be detached from that situation. Acquisition research suggests that children begin to talk about absent objects and past events at around two years of age."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "英语的 The lecture was cancelled, so we will meet next Friday 同时涉及过去与将来，与说话时刻的现场无关。汉语「我小时候住在南京」谈论的是数十年前的经历。文学与神话更充分地体现移位性，孙悟空等虚构人物可以成为谈论对象。跨语言比较中最常引用的反例是蜜蜂的摇摆舞：它能指示蜜源的方向和距离，却不能报告与蜜源无关的事件，也不能把信息转述给未在场的同伴。"
+     ],
+     "pEn": [
+      "An English sentence such as The lecture was cancelled, so we will meet next Friday refers to both past and future and has nothing to do with the immediate situation. In Mandarin, 我小时候住在南京 wo xiao shihou zhu zai Nanjing I lived in Nanjing as a child reports an experience from decades earlier. Literature and myth exploit displacement most fully, since fictional characters such as 孙悟空 Sun Wukong can become topics of conversation. The classic counterexample is the honeybee waggle dance: it can indicate the direction and distance of a food source, but it cannot report unrelated events or relay the information to an absent companion."
+     ]
+    },
+    {
+     "h": "理论意义与争议",
+     "hEn": "Significance and Debate",
+     "p": [
+      "移位性使语言能够储存和传递不在场的知识，被认为是文化积累与科学思维的前提之一。也有学者指出，动物交际并非完全没有移位：蜜蜂的舞蹈、长臂猿的警报叫声和某些鸟类的鸣唱都涉及非现场信息，因此移位性更像程度差异而非绝对界限。另有研究把人类的移位能力与递归和心智理论联系起来，因为它要求说话人能够表征他人的知识与视角。"
+     ],
+     "pEn": [
+      "Displacement allows language to store and transmit knowledge about what is not present, and it is often seen as a precondition for cultural accumulation and scientific thought. Some scholars point out that animal communication is not entirely devoid of it: the honeybee dance, gibbon alarm calls and some birdsong do convey information about absent states of affairs, so displacement is better viewed as a matter of degree than as an absolute boundary. Other work links the human capacity for displacement to recursion and to theory of mind, since it requires representing the knowledge and perspective of others."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "移位性",
+     "tEn": "Displacement",
+     "d": "语言谈论不在场事物、不受当下刺激控制的能力",
+     "dEn": "The capacity of language to refer to things absent from the immediate situation"
+    },
+    {
+     "t": "设计特征",
+     "tEn": "Design feature",
+     "d": "霍凯特提出的人类语言普遍属性清单中的各项特征",
+     "dEn": "Any of the universal properties Hockett listed as characteristic of language"
+    },
+    {
+     "t": "指示语",
+     "tEn": "Deixis",
+     "d": "须依赖说话情境才能确定所指的语言成分",
+     "dEn": "Linguistic expressions whose reference depends on the speech situation"
+    },
+    {
+     "t": "心智理论",
+     "tEn": "Theory of mind",
+     "d": "推断他人信念、意图与视角的认知能力",
+     "dEn": "The cognitive ability to attribute beliefs, intentions and perspectives to others"
+    },
+    {
+     "t": "递归",
+     "tEn": "Recursion",
+     "d": "同一规则反复应用于自身输出从而层层嵌套的机制",
+     "dEn": "The mechanism by which a rule applies repeatedly to its own output"
+    }
+   ],
+   "related": [
+    "arbitrariness",
+    "deixis",
+    "sign-language",
+    "language-acquisition"
+   ],
+   "sources": [
+    "Wikipedia, \"Displacement (linguistics)\", https://en.wikipedia.org/wiki/Displacement_(linguistics)",
+    "Hockett, C. F., \"The Origin of Language\", Scientific American, 1960"
+   ]
+  },
+  {
+   "id": "markedness",
+   "title": "标记性",
+   "en": "Markedness",
+   "category": "concepts",
+   "tags": [
+    "布拉格学派",
+    "特鲁别茨柯依",
+    "区别特征",
+    "中和",
+    "不对称"
+   ],
+   "summary": "标记性指语言单位在分布、频率、形式复杂度和认知加工上呈现的不对称：成对单位中，无标记项更常见、更基本，有标记项则受限制或带附加形式。例如英语单数 cat 相对复数 cats 无标记，英语阻塞音中清音通常无标记，德语词末清化使浊音对立中和。标记性由布拉格学派提出，已成为音系学、形态学、语义学和语言习得中的核心概念，也因界定方式而引发争议。",
+   "summaryEn": "Markedness refers to asymmetries among linguistic units in distribution, frequency, formal complexity and processing. Within a pair, the unmarked member is more frequent, more basic and formally simpler, while the marked member is more restricted or carries extra form. English singular cat is unmarked against plural cats, and voiceless obstruents are usually unmarked against voiced ones, as German final devoicing shows. Introduced by the Prague School, markedness has become central to phonology, morphology, semantics and acquisition, and its definition remains controversial.",
+   "sections": [
+    {
+     "h": "定义与提出",
+     "hEn": "Definition and Origin",
+     "p": [
+      "标记性指语言单位之间在分布范围、出现频率、形式复杂度和认知加工上的不对称关系。成对出现的两个单位中，无标记项更常用、更基本、形式更简单，有标记项则受更多限制或带有额外形式。这一概念由布拉格学派的特鲁别茨柯依和雅各布森在音系学研究中提出，最初用来描写音位对立的性质，后来扩展到形态学、句法学、语义学和语言习得等领域。"
+     ],
+     "pEn": [
+      "Markedness refers to asymmetries among linguistic units in distribution, frequency, formal complexity and processing. Within a pair of units, the unmarked member is more frequent, more basic and formally simpler, whereas the marked member is more restricted or carries extra form. The notion was introduced by Trubetzkoy and Jakobson of the Prague School in phonological research, initially to characterize the nature of phonemic oppositions, and it was later extended to morphology, syntax, semantics and language acquisition."
+     ]
+    },
+    {
+     "h": "音系学中的标记性",
+     "hEn": "Markedness in Phonology",
+     "p": [
+      "音系学中的标记性表现为清浊、送气、鼻化等特征的不对称。英语阻塞音通常清音无标记、浊音有标记，/p/ 与 /b/ 的对立在词首和词末都能出现。德语词末清化使浊音对立中和，Hund [hʊnt] 与 Hunde [ˈhʊndə] 表明无标记的清音系列占据词末位置。汉语普通话的送气与不送气构成对立，「怕」[pʰa] 与「爸」[pa] 靠送气区别，其中不送气音分布更自由，常被视为无标记项。"
+     ],
+     "pEn": [
+      "In phonology markedness appears as asymmetries in features such as voicing, aspiration and nasality. Among English obstruents the voiceless member is generally unmarked and the voiced one marked, and /p/ and /b/ contrast in both initial and final position. In German, final devoicing neutralizes the contrast, and Hund [hʊnt] versus Hunde [ˈhʊndə] shows that the unmarked voiceless series occupies word-final position. In Mandarin the aspirated and unaspirated series contrast, as in 怕 [pʰa] to fear versus 爸 [pa] father, and the unaspirated series has the wider distribution and is usually treated as unmarked."
+     ]
+    },
+    {
+     "h": "形态与语义中的标记性",
+     "hEn": "Markedness in Morphology and Semantics",
+     "p": [
+      "形态上，英语名词单数 cat 无标记，复数 cats 以附加词尾表达，是有标记项；动词 walk 与 walks 的关系同理。语义上，dog 可指犬类整体，bitch 只指雌性，前者无标记。形容词 tall 与 short 构成对立，但 How tall is he 不预设他高，How short is he 却预设他矮，说明二者在语义预设上不对称。汉语亲属词「男/女」「父/母」中，阳性词常充当默认形式。"
+     ],
+     "pEn": [
+      "Morphologically, English singular cat is unmarked while plural cats adds an ending and is therefore marked; the same holds for walk and walks. Semantically, dog can denote the species as a whole whereas bitch refers only to the female, so dog is unmarked. The adjectives tall and short form a pair, yet How tall is he does not presuppose that he is tall, while How short is he does presuppose that he is short, revealing an asymmetry in presupposition. In kinship terms such as 男/女 male and female, the masculine form often serves as the default."
+     ]
+    },
+    {
+     "h": "理论发展",
+     "hEn": "Theoretical Development",
+     "p": [
+      "雅各布森把标记性引入区别特征理论，认为每个特征都有有标记与无标记两个值，儿童习得时无标记值优先出现。在生成音系学中，标记性被用来衡量规则的天然性；优选论则把标记性制约与忠实性制约的交互作用作为核心机制，例如 *VOICED-CODA 禁止浊塞音出现在音节末尾。功能与类型学取向的研究进一步把标记性与频率、加工难度和跨语言分布联系起来。"
+     ],
+     "pEn": [
+      "Jakobson brought markedness into distinctive feature theory, treating each feature as having a marked and an unmarked value, with unmarked values acquired earlier by children. In generative phonology markedness was used to gauge the naturalness of rules; in Optimality Theory the interaction of markedness constraints with faithfulness constraints is the central mechanism, as when *VOICED-CODA bans voiced stops in syllable codas. Functional and typological approaches further relate markedness to frequency, processing difficulty and cross-linguistic distribution."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversy and Criticism",
+     "p": [
+      "关于标记性最大的争议在于如何独立界定它：若用出现频率定义标记性，又用标记性解释频率，就会陷入循环论证。此外，音系、形态和语义各层面是否共用同一概念也受到质疑。有学者主张用「默认值」或「偏态分布」等更可操作的表述取代它，但标记性在语言类型学和语言习得研究中仍具解释力，例如儿童习得无标记形式通常早于有标记形式。"
+     ],
+     "pEn": [
+      "The main controversy concerns how to define markedness independently: defining it by frequency and then explaining frequency by it would be circular. It is also questioned whether a single notion applies across phonology, morphology and semantics. Some scholars prefer more operational terms such as default value or skewed distribution, yet markedness retains explanatory value in typology and acquisition research, where children typically acquire unmarked forms earlier than marked ones."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "标记性",
+     "tEn": "Markedness",
+     "d": "语言单位在分布、形式与加工上呈现的不对称属性",
+     "dEn": "The asymmetric property of linguistic units in distribution, form and processing"
+    },
+    {
+     "t": "无标记项",
+     "tEn": "Unmarked",
+     "d": "分布更广、形式更简单、更为基本的一方",
+     "dEn": "The member of a pair that is more basic, wider in distribution and formally simpler"
+    },
+    {
+     "t": "有标记项",
+     "tEn": "Marked",
+     "d": "受限制更多、形式复杂或带额外特征的一方",
+     "dEn": "The member that is more restricted, formally heavier or carries extra features"
+    },
+    {
+     "t": "中和",
+     "tEn": "Neutralization",
+     "d": "特定语音环境下音位对立消失的现象",
+     "dEn": "The loss of a phonemic contrast in a particular phonological environment"
+    },
+    {
+     "t": "标记性制约",
+     "tEn": "Markedness constraint",
+     "d": "优选论中限制输出结构合格性的普遍性制约",
+     "dEn": "In Optimality Theory, a universal constraint penalizing marked output structures"
+    },
+    {
+     "t": "区别特征",
+     "tEn": "Distinctive feature",
+     "d": "用于区分音位对立的最小语音属性",
+     "dEn": "A minimal phonological property that distinguishes phonemes from one another"
+    }
+   ],
+   "related": [
+    "distinctive-feature",
+    "phoneme",
+    "optimality-theory",
+    "language-acquisition",
+    "typology"
+   ],
+   "sources": [
+    "Wikipedia, \"Markedness\", https://en.wikipedia.org/wiki/Markedness",
+    "Trubetzkoy, N. S., Grundzüge der Phonologie, 1939",
+    "Jakobson, R., \"Zur Struktur des russischen Verbums\", 1932"
+   ]
+  }
+ ]
+}

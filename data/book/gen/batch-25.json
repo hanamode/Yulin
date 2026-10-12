@@ -1,0 +1,101 @@
+{
+ "batch": 25,
+ "sections": {
+  "chapter-048-ambiguity-in-ordering": {
+   "title": {"en": "5.9 Structural ambiguity in morphology", "zh": "5.9 形态学中的结构歧义"},
+   "summary": {
+    "en": "Affixes do not always attach in a fixed order, and when a string of morphemes permits more than one structural representation it is structurally ambiguous. Such ambiguity arises in derivational morphology when an affix can attach to bases of more than one category, and it is even more common with compounds. Different trees usually correspond to different meanings.",
+    "zh": "词缀的附着顺序并非总是固定不变；当一个语素串可以与不止一种结构表征相容时，它就具有结构歧义。在派生形态中，只要至少有一个词缀能够附着于不止一个词类的词基，就可能出现这种歧义；在复合词中结构歧义更为常见。不同的树形结构通常对应不同的意义。"
+   },
+   "points": [
+    {"en": "A string is structurally ambiguous when it fits more than one structural representation, and each tree usually carries a different meaning.", "zh": "当一个语素串可以与不止一种结构表征相容时，它便具有结构歧义，而每种树形结构通常对应不同的意义。"},
+    {"en": "Derivational ambiguity requires at least one affix to attach to bases of more than one lexical category.", "zh": "派生歧义的出现要求至少有一个词缀能够附着于不止一个词类的词基。"},
+    {"en": "Untieable is ambiguous: able to be untied, or not able to be tied, depending on whether un- or -able attaches first.", "zh": "untieable 有两种解读：可以解开的，或无法系上的，取决于 un- 与 -able 谁先附着。"},
+    {"en": "Compounds like river boat race are ambiguous because any string of noun roots may combine in multiple orders.", "zh": "像 river boat race 这样的复合词具有歧义，因为任何一串名词词根都可能以多种顺序组合。"},
+    {"en": "Structural ambiguity differs from homophony: bank has two different roots that sound the same, with nothing structural involved.", "zh": "结构歧义不同于同音异义：bank 是两个同音的不同词根，其中不涉及任何结构因素。"},
+    {"en": "Phonology can reduce ambiguity, since some speakers stress ríver for one reading of river boat race and bóat for the other.", "zh": "语音可降低歧义：有人读 river boat race 时，一种意思重音在 ríver，另一种在 bóat。"}
+   ],
+   "terms": [
+    {"en": "structural ambiguity", "zh": "结构歧义", "defEn": "A situation in which one string of morphemes has more than one possible structural representation.", "defZh": "指同一个语素串可以对应不止一种结构表征，从而产生多种意义的现象。"},
+    {"en": "paraphrase", "zh": "释义（改述）", "defEn": "A different way of saying the same thing, used to bring out a word's interpretations.", "defZh": "用另一种说法表达相同的意思，用以显示某个词的不同解读。"},
+    {"en": "homophone", "zh": "同音词", "defEn": "A word that sounds the same as another word but has a different meaning.", "defZh": "与另一个词读音相同而意义不同、词源也不同的词，如 bank 的两个含义。"},
+    {"en": "compound", "zh": "复合词", "defEn": "A word built by combining two or more roots, such as river boat race.", "defZh": "由两个或更多词根组合而成的词，例如 river boat race。"},
+    {"en": "root", "zh": "词根", "defEn": "The core morpheme of a word that carries its basic meaning.", "defZh": "词的核心语素，承载基本词汇意义，是构词所依据的最小单位。"}
+   ],
+   "examples": [
+    {"text": "the knot most people use for their shoelaces is chosen because it’s easily untieable", "noteEn": "One reading of untieable: able to be untied, with un- attaching to tie first.", "noteZh": "untieable 的一种解读：可以解开的，由 un- 先附着于 tie 得到。"},
+    {"text": "if you haven’t learned to tie knots, some complex knots might seem untieable", "noteEn": "The other reading: not able to be tied, with -able attaching to tie first.", "noteZh": "另一种解读：无法系上的，由 -able 先附着于 tie 得到。"},
+    {"text": "river boat race", "noteEn": "A three-root compound: a race between river boats, or a boat race on a river.", "noteZh": "由三个词根构成的复合词：河船之间的比赛，或在河上举行的划船比赛。"},
+    {"text": "the kind of bank that’s a financial institution or the kind of bank that’s the edge of a river", "noteEn": "Homophony, not structural ambiguity: two roots that simply sound the same.", "noteZh": "这属于同音异义而非结构歧义：两个只是读音相同的不同词根。"}
+   ],
+   "body": [
+    {"en": "Affixes are not restricted to a single attachment order. When both orders, or all orders if there are more than two affixes, satisfy the selectional requirements of every affix involved, one string of morphemes becomes compatible with more than one tree. Such a string is structurally ambiguous, and the competing structures are typically paired with distinct meanings. The word untieable illustrates this: it can mean able to be untied, if the prefix un- first attaches to the verb tie and the suffix -able is added afterwards, or not able to be tied, if -able attaches to tie first and un- then attaches to the resulting adjective.", "zh": "词缀并不限于某一种固定的附着顺序。当两种顺序（若词缀多于两个，则是所有顺序）都满足相关词缀的选择要求时，同一个语素串就会与不止一种树形结构相容。这样的语素串具有结构歧义，而相互竞争的结构通常对应着不同的意义。untieable 一词便是如此：若前缀 un- 先附着于动词 tie，再附加后缀 -able，得到“可以解开的”这一解读；若 -able 先附着于 tie，再让 un- 附着于由此得到的形容词，则得到“无法系上的”这一解读。"},
+    {"en": "This kind of ambiguity in derivational morphology depends on at least one affix being able to attach to bases of more than one lexical category. Compounds display the same phenomenon even more readily, since any string of noun roots may in principle combine in several ways. The compound river boat race contains the roots river, boat and race. Combining river and boat first yields [river boat] race, a race between river boats wherever it is held; combining boat and race first yields river [boat race], a race of any boats that takes place on a river.", "zh": "派生形态中的这类歧义要求至少有一个词缀能够附着于不止一个词类的词基。复合词中这种现象更为常见，因为任何一串名词词根原则上都可以以多种方式组合。复合词 river boat race 包含 river、boat、race 三个词根：先把 river 与 boat 组合，得到 [river boat] race，指河船之间的比赛，无论比赛在何处举行；先把 boat 与 race 组合，则得到 river [boat race]，指任何船只在河上进行的比赛。"},
+    {"en": "Structural ambiguity is not the same as homophony. In a sentence about going to the bank, the uncertainty between a financial institution and a river's edge is not structural at all: there are simply two different roots that sound alike. Phonology can also make a written compound less ambiguous than it looks, as when some speakers put primary stress on ríver for one reading of river boat race and on bóat for the other.", "zh": "结构歧义不同于同音异义。说去 the bank 时，听话人无法确定是金融机构还是河岸，这种歧义并非来自结构：只是两个读音相同而意义不同的词根而已。语音有时也会让书面形式看似歧义的复合词变得不那么歧义，例如有些说话人读 river boat race 的一种解读时把主重音放在 ríver，读另一种解读时放在 bóat。"}
+   ]
+  },
+  "chapter-049-slug-5-8-how-to-draw-morphological-trees": {
+   "title": {"en": "5.10 How to draw morphological trees", "zh": "5.10 如何绘制形态树"},
+   "summary": {
+    "en": "The order in which derivational affixes attach, or in which the roots of a compound combine, sometimes matters: governmental is not a flat string of govern, -ment and -al, but the result of attaching -ment to govern and then -al to that base. Tree diagrams represent this constituency, the subgroupings of pieces inside a word or phrase. Drawing a tree involves identifying roots, affixes, categories and attachment order.",
+    "zh": "派生词缀的附着顺序、或复合词词根的组合顺序有时至关重要：governmental 并非 govern、-ment、-al 的简单线性排列，而是先在 govern 上附加 -ment、再在该词基上附加 -al 的结果。树形图用来表示这种直接成分关系，即词或短语内部各组成部分的分组方式。绘制形态树需要识别词根、词缀、词类以及词缀的附着顺序。"
+   },
+   "points": [
+    {"en": "A word like governmental results from attaching -ment to govern first and then -al to that base.", "zh": "governmental 一词是先在 govern 上附加 -ment，再在该词基上附加 -al 的结果。"},
+    {"en": "Tree diagrams represent constituency, the subgroupings of pieces within a larger word or phrase.", "zh": "树形图表示直接成分关系，即较大词或短语内部各组成部分之间的分组。"},
+    {"en": "Constituency is always relevant when pieces combine, whether morphemes in a word or words in a sentence.", "zh": "只要各组成部分相互结合，成分关系就始终相关，无论是一个词内的语素还是句子中的词。"},
+    {"en": "Steps: identify the root and affixes, determine the root's category and attachment order, then the categories of bases and the whole word.", "zh": "步骤是：识别词根与词缀，确定词根的词类与词缀附着顺序，再确定各中间词基及整词的词类。"},
+    {"en": "Reading along the bottom of the tree recovers the order of morphemes, so prefixes stay left and suffixes right.", "zh": "沿树形图底端读取即可得到语素的顺序，因此前缀在左、后缀在右。"}
+   ],
+   "terms": [
+    {"en": "tree diagram", "zh": "树形图", "defEn": "A representation of the hierarchical constituency of a word or phrase.", "defZh": "用来表示词或短语内部层级性直接成分关系的图式，分支显示各成分如何结合。"},
+    {"en": "constituency", "zh": "直接成分关系（组成关系）", "defEn": "The subgroupings of pieces within a larger word or phrase.", "defZh": "指较大词或短语内部的各组成部分如何分组、哪些成分先结合的关系。"},
+    {"en": "root", "zh": "词根", "defEn": "The core morpheme of a word, which carries the basic meaning.", "defZh": "作为构词核心、承载基本意义的语素，词缀即附着于其上。"},
+    {"en": "affix", "zh": "词缀", "defEn": "A morpheme that attaches to a base but does not carry the main meaning.", "defZh": "附着于词基、本身不承载主要词汇意义的语素，包括前缀和后缀等。"},
+    {"en": "prefix", "zh": "前缀", "defEn": "An affix that attaches to the left of the base it combines with.", "defZh": "附着于所结合词基左侧的词缀；在树形图中位于所附成分的左边。"},
+    {"en": "suffix", "zh": "后缀", "defEn": "An affix that attaches to the right of the base it combines with.", "defZh": "附着于所结合词基右侧的词缀；在树形图中位于所附成分的右边。"}
+   ],
+   "examples": [
+    {"text": "governmental", "noteEn": "Not a flat string: govern plus -ment, then that base plus -al.", "noteZh": "并非简单线性排列：先由 govern 加 -ment，再由该词基加 -al。"},
+    {"text": "govern + the suffix –ment + the suffix –al", "noteEn": "The pieces of governmental, listed linearly, though they do not attach all at once.", "noteZh": "governmental 的各个组成部分，这里只是线性列出，但它们并不同时附着。"}
+   ],
+   "body": [
+    {"en": "In section 5.9 we saw that the order in which derivational affixes attach, or in which the roots of a compound combine, sometimes matters. A word such as governmental is therefore not merely a flat string of the root govern plus the suffix -ment plus the suffix -al. It comes from combining govern with -ment first, and then combining the result of that step with the further suffix -al.", "zh": "我们在 5.9 节看到，派生词缀的附着顺序、或复合词词根的组合顺序有时至关重要。因此，像 governmental 这样的词并不只是词根 govern、后缀 -ment 和后缀 -al 的线性排列；它是先把 govern 与 -ment 组合，再把这一步得到的结果与后缀 -al 组合而成的。"},
+    {"en": "Linguists typically represent this kind of structure with a tree diagram. Trees show the constituency of language, that is, the subgroupings of pieces inside a larger word or phrase. A central insight of linguistics is that constituency is always relevant when we describe how pieces combine, whether the pieces are morphemes inside a word or words inside a sentence, though different theories in linguistics often take different views of which hierarchical structures natural languages allow.", "zh": "语言学家通常用树形图来表示这类结构。树形图展示语言中的直接成分关系，即较大词或短语内部各组成部分的分组方式。语言学的一个重要洞见是：在描述各成分如何结合时，成分关系始终是相关的，无论这些成分是一个词内部的语素还是句子内部的词；不过，语言学中的不同理论对于自然语言允许哪些层级结构往往持不同看法。"},
+    {"en": "To draw a morphological tree, begin by identifying the root and any affixes: one root means a non-compound word, while two roots mean a compound word. Then determine the category of the root, the order in which the affixes attach, and the category of every intervening base as well as of the whole word. You may find it sensible to work in different orders, and in different orders for different words; practice is the best way to discover what suits you. Trees also encode linear order: reading along the bottom should yield the order of morphemes, so prefixes are always placed to the left of the constituent they attach to and suffixes to the right.", "zh": "绘制形态树时，可以先识别词根与词缀：只有一个词根的是非复合词，有两个词根的是复合词。接着确定词根的词类、词缀的附着顺序，以及每个中间词基和整词的词类。你可能会发现，按不同顺序操作更顺手，不同的词也适合不同的顺序；最好的办法是通过练习找到适合自己的方式。树形图还表示各元素的线性顺序：沿树形图底端读下去，应能得到词中语素的顺序；因此前缀总是位于所附成分的左边，后缀总是位于右边。"}
+   ]
+  },
+  "chapter-050-how-to-solve-morphology-problems": {
+   "title": {"en": "5.11 How to solve morphology problems", "zh": "5.11 如何解决形态学问题"},
+   "summary": {
+    "en": "A key morphological skill is segmenting words of an unfamiliar language into their individual morphemes, that is, identifying roots and affixes in complex words. Because a morpheme is a consistent pairing of form with meaning or function, the method is to compare words whose meanings are known and look for shared parts of form matching shared parts of meaning. Inuktut nouns illustrate the procedure.",
+    "zh": "形态学的一项重要技能，是把不熟悉语言中的词切分为一个个语素，也就是识别复杂词中的词根与词缀。由于语素是形式（语音或手势）与意义或功能之间的一致配对，方法就是比较已知意义的词，看意义的共同部分是否对应形式的共同部分。因纽特语（Inuktut）的名词可以说明这一做法。"
+   },
+   "points": [
+    {"en": "Finding morphemes means comparing words whose meanings are known, matching shared meaning with shared form.", "zh": "寻找语素就是比较已知意义的词，把意义的共同部分与形式的共同部分对应起来。"},
+    {"en": "In Inuktut, matuit and nuvujait are both plural and share final -it, so -it is the plural suffix.", "zh": "在因纽特语中，matuit 与 nuvujait 都是复数，共有词尾 -it，因此 -it 是复数后缀。"},
+    {"en": "Comparing matuit with matu identifies matu as the root meaning door, with no singular suffix required.", "zh": "比较 matuit 与 matu 可确定 matu 是意为“门”的词根，单数并不需要后缀。"},
+    {"en": "The dual suffixes -uk and -ak are allomorphs, and their distribution may be phonologically determined.", "zh": "双数后缀 -uk 与 -ak 是语素变体，其分布可能由语音条件决定。"},
+    {"en": "Compare words differing in one aspect of meaning, match meaning differences to form differences, and revise earlier hypotheses when stuck.", "zh": "比较仅在一个意义方面有差别的词，把意义差别与形式差别对应起来；若卡住，就回头修改先前的假设。"}
+   ],
+   "terms": [
+    {"en": "morpheme", "zh": "语素", "defEn": "A consistent pairing of form, whether sound or sign, with meaning or function.", "defZh": "形式（语音或手势）与意义或功能之间的一致配对，是最小的语法单位。"},
+    {"en": "root", "zh": "词根", "defEn": "The morpheme in a complex word that carries the basic meaning.", "defZh": "复杂词中承载基本词汇意义、其余词缀附着于其上的语素。"},
+    {"en": "suffix", "zh": "后缀", "defEn": "An affix that follows the base it attaches to, such as -it for plural.", "defZh": "位于所附词基之后的词缀，例如因纽特语中表示复数的 -it。"},
+    {"en": "allomorph", "zh": "语素变体", "defEn": "One of the variant forms of a single morpheme, such as -uk and -ak.", "defZh": "同一语素的不同形式变体，例如双数后缀 -uk 与 -ak。"},
+    {"en": "dual", "zh": "双数", "defEn": "A grammatical number referring to exactly two entities, as in matuuk.", "defZh": "表示正好两个实体的语法数范畴，区别于单数和复数，如 matuuk。"}
+   ],
+   "examples": [
+    {"text": "matuit : nuvujait", "noteEn": "Both words are plural and share the final -it, the hypothesized plural suffix.", "noteZh": "两个词都是复数，共有词尾 -it，由此推测 -it 为复数后缀。"},
+    {"text": "matuit : matu", "noteEn": "Both contain matu and share the meaning door, so matu is the root.", "noteZh": "两个词都含 matu、都含“门”的意义，因此 matu 是词根。"},
+    {"text": "matuuk", "noteEn": "A dual form made of matu plus the suffix -uk, meaning door (two).", "noteZh": "双数形式：matu 加 -uk，意为“两扇门”。"},
+    {"text": "nuvujaak", "noteEn": "The other dual form, made of nuvuja plus the suffix -ak, meaning clouds (two).", "noteZh": "另一双数形式：nuvuja 加 -ak，意为“两朵云”。"}
+   ],
+   "body": [
+    {"en": "An important skill in morphology is the ability to segment words from another language into their individual morphemes, that is, to identify the roots and affixes of complex words. Since a morpheme is a consistent pairing of form (sound or sign) with meaning or function, the search for morphemes requires comparing words whose meanings are known, in order to see whether shared parts of meaning correspond to shared parts of form.", "zh": "形态学的一项重要技能，是能把另一种语言的词切分为一个个语素，也就是识别复杂词中的词根与词缀。由于语素是形式（语音或手势）与意义或功能之间的一致配对，寻找语素就必须比较已知意义的词，看意义的共同部分是否与形式的共同部分相对应。"},
+    {"en": "Inuktut nouns for door and cloud, given in singular, dual and plural forms, illustrate the procedure. Starting from a single plural word such as matuit, doors (three or more), there is no way to know how it should be divided. But matuit and nuvujait are both plural, and although their sounds overlap very little they share the final -it; because this is a consistent pairing of form and meaning, we hypothesize that -it is a suffix meaning plural. Comparing matuit with matu, where both contain matu and both include door in their meaning, identifies matu as the root meaning door; singular nouns are commonly suffixless across languages, though one could also posit a -∅ singular suffix.", "zh": "因纽特语中表示“门”和“云”的名词有单数、双数、复数三种形式，可以说明这一操作过程。如果只看一个复数词，如 matuit（门，三个或更多），根本无法判断该怎样切分。但 matuit 与 nuvujait 都是复数，它们的语音重合很少，却共有词尾 -it；由于这是形式与意义的一致配对，我们可以假设 -it 是表示复数的后缀。再把 matuit 与 matu 比较：两者都含 matu，也都含“门”的意义，由此可以确定 matu 是意为“门”的词根；单数名词在许多语言中通常不带后缀，不过我们也可以设定一个 -∅ 单数后缀。"},
+    {"en": "Once -it is identified, nuvujait leaves the string nuvuja, which appears in the data with the meaning cloud and can therefore be taken as a root. The two dual forms matuuk door (two) and nuvujaak clouds (two) separate into matu-uk and nuvuja-ak, leaving the slightly different suffixes -uk and -ak; since the roots are already known, these are confidently analysed as allomorphs expressing dual. With more data, the next step would be to test whether the choice between -uk and -ak is predictable in Inuktitut; from these two words one might hypothesize that -uk occurs after [u] and -ak after [a], an instance of phonologically determined allomorphy, but more words are needed to check that prediction.", "zh": "一旦确定了 -it，nuvujait 剩下的部分就是 nuvuja，而 nuvuja 确实在数据中以“云”的意义出现，因此可视为词根。两个双数形式 matuuk（两扇门）和 nuvujaak（两朵云）可切分为 matu-uk 与 nuvuja-ak，剩下略有差别的后缀 -uk 与 -ak；由于词根已经确定，可以有把握地把它们分析为表示双数的语素变体。若数据更多，下一步就是检验因纽特语中 -uk 与 -ak 的选择是否可以预测；仅凭这两个词，可以假设 -uk 出现在 [u] 之后、-ak 出现在 [a] 之后，这是由语音条件决定的语素变体现象，但需要更多词来验证这一预测。"}
+   ]
+  }
+ }
+}

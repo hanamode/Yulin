@@ -1,0 +1,15 @@
+# 8.15 Summary (and further questions to consider)
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=874#oembed-1
+In this chapter, we explored various kinds of meaning, with a lot of emphasis on non-at-issue meaning. Here is a summary of the various kinds of meanings we encountered in this chapter:
+- At-issue meaning: the “literal” meaning of a sentence that is explicitly “put up for debate”
+- Non-at-issue meaning: the kinds of meanings that are not explicitly asserted, broadly construed.
+- Entailment: What is necessarily true from a sentence being true.
+- Implicature: A non-entailment that is “suggested” by a sentence; depends on context; non-at-issue.
+- Presupposition: A special kind of entailment; what is assumed to be true prior to uttering the sentence; what’s already in the Common Ground before the utterance is made; non-at-issue.
+- Illocutionary meaning: What you “do” in making an utterance; non-at-issue (in the sense that illocutionary meaning just “happens” by you making the utterance; e.g., the fact that you made an assertion is not “up for debate”)
+
+Combined with Chapter 7, what we have learned is that the question “What does that mean?” is a complicated question to answer! There are many kinds of meaning, each showing us the complex systemacity of what we communicate when we make utterances.
+We leave you with an invitation to think about what other kinds of meanings there might be in language. In asking this question, consider the various “parts” of the discourse context that we introduced: the Common Ground, the Question Under Discussion stack, the Discourse Commitment sets. There are various types of sentences that we did not discuss in depth in this textbook, like imperatives — commands like Pet the cat!. What do you “do” to the context in giving commands? Are the tools that we introduced in this textbook sufficient for accounting for imperatives, or do we need additional parts?
+You might even start thinking about what kind of meaning things like emojis contribute! Is using the laughing-crying emoji 😂 at the end of a sentence the same thing as asserting ‘That’s funny’? Or is it an implicature? Or a presupposition? Or something else? What’s the difference between the regular laughing-crying emoji (😂) and the version that is tilted to the left (🤣)? The possibilities for research are limitless!
+The last chapter (Chapter 7) and this chapter (Chapter 8) introduced concepts that are foundational to linguistic meaning. The next time you encounter the question “What does that mean?”, we hope that what you have learned here will help you approach the question like a linguist!

@@ -1,0 +1,25 @@
+{
+ "batch": 29,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-29.json",
+ "sections": [
+  {
+   "id": "chapter-057-sentences-inside-sentences-embedded-clauses",
+   "title": "6.6 Clausal embedding",
+   "src": "data/book/src/chapter-057-sentences-inside-sentences-embedded-clauses.txt",
+   "chars": 11800
+  },
+  {
+   "id": "chapter-058-main-clause-yes-no-questions",
+   "title": "6.7 Main clause Yes-No questions",
+   "src": "data/book/src/chapter-058-main-clause-yes-no-questions.txt",
+   "chars": 8642
+  },
+  {
+   "id": "chapter-059-main-clause-content-questions",
+   "title": "6.8 Main clause content questions",
+   "src": "data/book/src/chapter-059-main-clause-content-questions.txt",
+   "chars": 12432
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "batch": 50,
+ "sections": {
+  "chapter-113-slug-9-9-growing-up-speaking-nishnaabemwin": {
+   "title": {"en": "9.9 Growing up speaking Nishnaabemwin", "zh": "9.9 在 Nishnaabemwin 的环境中长大"},
+   "summary": {
+    "en": "Mary Ann Corbiere grew up in Wiikwemkoong unceded territory, where Nishnaabemwin was the first language of every household in the 1960s. She learned English only in the classroom while speaking Nishnaabemwin with friends, which helped the language survive despite residential schooling. She later became a Nishnaabemwin teacher by chance, working out teaching patterns without formal linguistics training.",
+    "zh": "玛丽安·科尔比埃（Mary Ann Corbiere）在曼尼图林岛的 Wiikwemkoong 未割让领地长大，20 世纪 60 年代那里家家户户都以 Nishnaabemwin 为第一语言。她只在课堂上学英语，课间与放学后仍用本族语与伙伴交谈，这使该语言在寄宿学校冲击下得以延续。她后来偶然成为大学语言教师，在未受过语言学训练的情况下自行摸索教学规律。"
+   },
+   "points": [
+    {"en": "Every household in Wiikwemkoong still spoke Nishnaabemwin as a first language when Corbiere began grade one in 1961.", "zh": "1961 年科尔比埃上小学一年级时，Wiikwemkoong 的每家每户仍以 Nishnaabemwin 为第一语言。"},
+    {"en": "Children used English only with teachers, and spoke Nishnaabemwin with friends at recess and after school.", "zh": "孩子们在学校只对老师讲英语，课间和放学后与伙伴玩耍时则一律使用本族语。"},
+    {"en": "She attributes the language's survival to critical mass: two months at home each year let residential school students regain it.", "zh": "她把语言的延续归因于临界规模：寄宿学校的学生每年回家两个月便足以重新掌握语言。"},
+    {"en": "She began teaching Nishnaabemwin in 1989 by happenstance, after majoring in Earth and Environmental Sciences and earning an MBA.", "zh": "她 1989 年开始教 Nishnaabemwin，此前主修地球与环境科学，后来又念了 MBA。"},
+    {"en": "With no linguistics training, she identified patterns herself, such as verb endings that vanish after short vowels but persist after long ones.", "zh": "没有语言学训练，她自己看出规律，例如动词词尾在短元音后消失、在长元音后保留。"},
+    {"en": "The university committed to distance delivery so First Nations students could train without relocating, and she wrote the correspondence course.", "zh": "大学决定以远程方式开课，使第一民族学生不必搬家就能受训，函授课程由她编写。"}
+   ],
+   "terms": [
+    {"en": "first language", "zh": "第一语言", "defEn": "The language a child acquires first at home, before any later language learning.", "defZh": "儿童在家庭环境中最早自然习得的语言，通常是日常交流中最常用的语言。"},
+    {"en": "residential school", "zh": "寄宿学校", "defEn": "A government-run boarding school that separated Indigenous children from their families and languages.", "defZh": "由政府开办、把原住民儿童与家庭和本族语隔离开来的寄宿学校。"},
+    {"en": "critical mass", "zh": "临界规模（critical mass）", "defEn": "The idea that a sufficient number of speakers lets a language survive outside pressure.", "defZh": "认为只要使用者达到一定数量，语言就能顶住外部压力而存续的观点。"},
+    {"en": "mental grammar", "zh": "心理语法", "defEn": "A speaker's unconscious knowledge of the patterns of their language.", "defZh": "说话人对自己语言规律的无意识知识，即心理语法。"},
+    {"en": "distance course", "zh": "远程课程", "defEn": "A course delivered by mail or online rather than in a classroom.", "defZh": "通过邮寄材料或网络而非课堂教学进行的课程，即远程课程。"}
+   ],
+   "examples": [
+    {"text": "wiisini becomes niwiisin", "noteEn": "The verb for he is eating changes form to mean I am eating.", "noteZh": "表示「他在吃」的动词改变形式后，表示「我在吃」。"},
+    {"text": "I want to go skating tomorrow", "noteEn": "One of the sentence patterns Corbiere uses to show what changes and what stays.", "noteZh": "科尔比埃用来演示「什么变化、什么不变」的句型之一。"},
+    {"text": "Wiki is what we call Wiikwemkoong for short", "noteEn": "Corbiere's own gloss on the short name for her home community.", "noteZh": "科尔比埃对家乡社区简称的说明。"}
+   ],
+   "body": [
+    {"en": "Corbiere comes from Wiikwemkoong unceded territory at the east end of Manitoulin Island, one of the largest Nishnaabe communities in Ontario. When she entered grade one in 1961, every household still spoke Nishnaabemwin as its first language, and she considers herself fortunate to have grown up then. English was used only with teachers in the classroom; at recess in the school yard and after school with friends, everyone spoke the language.", "zh": "科尔比埃来自曼尼图林岛东端的 Wiikwemkoong 未割让领地，这是安大略省最大的尼什纳贝（Nishnaabe）社区之一。1961 年她上小学一年级时，社区里家家户户都还说 Nishnaabemwin，那是他们的第一语言，她觉得自己赶上了好时候。在学校里，他们只用英语与老师交流；一到课间在操场、放学后和伙伴玩耍，大家说的都是本族语。"},
+    {"en": "Although her parents' and grandparents' generation had attended the residential school at Spanish, the language survived in homes. She suggests the explanation may lie in critical mass: children were away roughly September to June, yet two months back home were apparently enough to restore the language and keep it up. Wiikwemkoong and the somewhat smaller community of M'Chigeeng both kept it in daily household use.", "zh": "尽管她父母和祖父母那一代曾在 Spanish 的寄宿学校就读，这门语言仍然在家庭中存活下来。她猜测原因在于临界规模：孩子们大约九月到次年六月在外读书，但回家两个月似乎就足以把语言捡回来并保持下去。Wiikwemkoong 和岛上稍小的 M'Chigeeng 两个社区都是如此。"},
+    {"en": "After majoring in Earth and Environmental Sciences and then completing an MBA, she returned home and was drawn into teaching through a chance interview for a Native Social Work program, where she was asked whether she would also teach the language. She had no linguistics background, but Richard Rhodes's 1985 dictionary and Piggott's work on sound patterns helped her. She worked out for herself why verb endings change: endings with short vowels disappear in certain forms, while long vowels remain.", "zh": "她上大学主修地球与环境科学，之后又读了 MBA，回到家乡后因一次偶然的面试进入原住民社会工作项目，被问到能否顺便教语言，就这样答应了，尽管她从未想过自己会教大学。她没有语言学背景，理查德·罗兹 1985 年的词典和皮戈特的研究帮了她。她还自己琢磨出动词词尾变化的道理：以短元音结尾的词尾在某些形式中消失，长元音则保留。"},
+    {"en": "Instead of having students memorize whole dialogues, she built her course around patterns, asking them to find what stays the same and what must be replaced. When the Native social work program committed to distance delivery, she wrote the Ojibwe correspondence course with an instructional designer, and later created an intermediate course and expanded the distance offerings, since learners cannot jump straight from introductory to advanced.", "zh": "她不再让学生背整段对话，而是围绕句型教学，让学生找出什么保持不变、什么需要替换。原住民社会工作项目决定以远程方式开课后，她与教学设计者合作编写了奥吉布瓦语函授课程，后来又增设中级课程并扩大远程课程，因为学习者无法从入门直接跳到高级。"}
+   ]
+  },
+  "chapter-114-slug-9-10-learning-nishnaabemwin-at-university": {
+   "title": {"en": "9.10 Learning Nishnaabemwin at University", "zh": "9.10 在大学学习 Nishnaabemwin"},
+   "summary": {
+    "en": "Corbiere describes how her university classes were roughly half Native and half non-Native students, and how new degree requirements pushed enrollment above forty, forcing a second section. Bigger, more mixed classes brought tensions: some students assumed an easy course, while some Native students expected the language to come easily and struggled. Written assessment exposed painful questions of identity, and many learners were reconnecting with a language their families had lost.",
+    "zh": "科尔比埃描述她的大学课堂大致一半是原住民学生、一半非原住民学生；学位要求修改后选课人数超过四十人，学校不得不增开一个班。班级更大、成分更杂也带来张力：有的学生以为课程轻松，有的原住民学生以为凭血统语言自然不难，结果学得吃力。笔试还把身份认同的难题暴露出来，许多学习者其实是在重新连接家人失去的语言。"
+   },
+   "points": [
+    {"en": "Students came for a Native Studies concentration, the Native Social Work program, or general degree requirements.", "zh": "学生的选课动机包括原住民研究方向、原住民社会工作项目，或只是满足学位要求。"},
+    {"en": "Enrollment was typically half Native and half non-Native students, a pattern that held from the start.", "zh": "选课学生通常一半是原住民、一半非原住民，这一格局从她开始教书起就未变。"},
+    {"en": "New requirements in Indigenous content and linguistic awareness let one course serve both, and over forty students registered.", "zh": "新增的原住民内容与语言意识要求使一门课可同时满足两项，注册人数超过四十人。"},
+    {"en": "Language learning involves pronunciation, comprehension, reading and writing, and few learners are strong in all four.", "zh": "语言学习包含发音、理解、阅读和写作，很少有人四项都强。"},
+    {"en": "Written tests hurt, because some non-Native students with a knack for languages outscored struggling Native classmates.", "zh": "笔试令人难受：一些有语言天赋的非原住民学生分数高于苦苦挣扎的原住民同学。"},
+    {"en": "Some communities distrust linguists because of a history of knowledge extraction that credited scholars rather than contributors.", "zh": "一些社区因知识榨取的历史而不信任语言学家：署名的是学者，提供者只被称作报道人。"}
+   ],
+   "terms": [
+    {"en": "second language", "zh": "第二语言", "defEn": "A language learned after the first language, often in school or later life.", "defZh": "在习得第一语言之后学习的语言，多通过学校教育或后天接触掌握。"},
+    {"en": "aptitude", "zh": "语言学能（aptitude）", "defEn": "An individual's natural ease or difficulty in learning a particular skill such as a language.", "defZh": "个人学习语言等技能时表现出的难易倾向，即语言学能。"},
+    {"en": "four skills", "zh": "四项技能", "defEn": "Pronunciation, listening comprehension, reading comprehension and writing, which learners develop unevenly.", "defZh": "发音、听力理解、阅读理解与写作四项能力，学习者的水平往往并不均衡。"},
+    {"en": "knowledge extraction", "zh": "知识榨取", "defEn": "Research in which outside scholars take Indigenous knowledge and receive the credit.", "defZh": "外部学者获取原住民知识并独占学术声誉的做法，即知识榨取。"},
+    {"en": "language revitalization", "zh": "语言复兴", "defEn": "Efforts to restore a language's use after it has declined or stopped being passed on.", "defZh": "语言衰落或不再代际传承之后，为恢复其使用而作的各种努力。"}
+   ],
+   "examples": [
+    {"text": "This is the first time I’ve seen the language, explained, shown in that way.", "noteEn": "A student's comment on the patterned presentation of the language in Corbiere's course.", "noteZh": "一名学生对科尔比埃课程以句型方式呈现语言的评论。"},
+    {"text": "I have to take this thing and this is the only thing I can fit in my timetable", "noteEn": "The attitude of students taking the course only because it fits their schedule.", "noteZh": "只因为时间表排得下才选这门课的学生心态。"},
+    {"text": "I won’t need to have to work as hard on this one because I’m Native, I’m Ojibwe, I’m Nishnaabe.", "noteEn": "The expectation Corbiere sometimes detected among Native students about the language coming easily.", "noteZh": "科尔比埃有时在原住民学生身上察觉到的「凭血统自然学得轻松」的期待。"}
+   ],
+   "body": [
+    {"en": "Students took Corbiere's courses for several reasons: a concentration in Native Studies, the Native Social Work program, or general degree requirements. Roughly half were Native and half non-Native, a pattern that held from the beginning. Enrollment rose sharply when Laurentian modified its BA requirements, so that all students needed a course designated as Indigenous content and most also needed one in linguistic awareness; they realized a single Nishnaabemwin course could satisfy both. Over forty students registered, and the university created a second section at short notice.", "zh": "选修科尔比埃课程的学生来源多样：有人为原住民研究专业的方向课而来，有人来自原住民社会工作项目，也有人只是为了满足学位要求。学生背景大致是一半原住民、一半非原住民，这一格局从她开始教书起就没有变过。劳伦森大学修改学士学位要求、规定所有学生都要修一门原住民内容课程以及一门语言意识课程后，选课人数激增，学生们发现一门 Nishnaabemwin 课就能同时满足两项要求，注册人数超过四十人，学校只好临时增开一个班。"},
+    {"en": "Bigger classes changed the dynamics. Some students arrived with negative preconceptions, taking the course only because it fit their timetable, or assuming it would be easy. At the same time, some Native students expected the language to come readily because of their heritage, and struggled when it did not. Corbiere also notes that language learning involves four skills, pronunciation, comprehension, reading and writing, and that few learners are equally strong in all of them.", "zh": "班级变大后，课堂气氛也变了。有些学生带着负面成见而来，只是因为时间表排得下才选这门课，或者以为这是一门轻松的课。与此同时，一些原住民学生以为凭自己的血统语言自然不在话下，结果学得很吃力。科尔比埃还指出，语言学习包含发音、理解、阅读和写作四项技能，很少有人四方面同样出色。"},
+    {"en": "Written tests exposed painful tensions, since some non-Native students with a knack for languages earned high marks while Native classmates struggled. For many Native students the course was not a linguistic curiosity but a way to reconnect with an identity that had been cut off, because their parents had not learned the language, or because small communities bused children to non-Native schools from the start. Corbiere says this is the hardest part of teaching.", "zh": "笔试成绩暴露出令人难受的矛盾：一些有语言天赋的非原住民学生考得很好，而部分原住民同学却成绩不佳。对许多原住民学生来说，这门课不是语言学上的好奇，而是重新连接被割断的身份——他们的父母没有学会这门语言，或者所在的小社区很早就把孩子送到非原住民的学校就读。科尔比埃说这是她教学中最难面对的部分。"},
+    {"en": "She describes how an instructional designer, Cheryl Cranley, coached her into a repeated template: examples, explanation, a short practice activity, then a self test. K to 12 teachers, by contrast, are overloaded, lack resources and often have little linguistics background. She also notes that some communities distrust linguists because of the history of knowledge extraction, in which scholars put their names on books while Native contributors were acknowledged as informants; others assume Elders are the best teachers, though fluency alone does not supply teaching skill.", "zh": "她讲到教学设计者谢丽尔·克兰利如何带她形成固定的课程模板：先给例子，再解释，然后安排一个小练习，最后附上自测。相比之下，K 到 12 的教师负担过重、缺乏资源，往往也没有语言学背景。她还提到，一些社区对语言学家心存戒备，因为历史上学者把原住民知识写进书里，署名的是学者，提供者只被称作「报道人」；另一些人则认为长者才是最好的老师，但能流利说话并不等于会教。"}
+   ]
+  },
+  "chapter-115-slug-9-11-resources-for-teaching-and-learning-nishnaabemwin": {
+   "title": {"en": "9.11 Resources for teaching and learning Nishnaabemwin", "zh": "9.11 Nishnaabemwin 的教学与学习资源"},
+   "summary": {
+    "en": "Corbiere argues that curricula often reduce Indigenous culture to a static, pre-contact authenticity, focusing on beadwork and moccasins while ignoring farming, mining, hockey and quilting, for which the language has vocabulary. She teaches patterns rather than fixed word lists so learners can communicate about their own lives. Since speakers are few, she expects the language to survive largely in writing, and she discusses the writing system, inconsistent spelling, and the difficulty of coordinating teachers across Ontario.",
+    "zh": "科尔比埃认为，课程常常把原住民文化压缩成静止的、接触前的「本真」形象，只讲珠饰和莫卡辛鞋，却忽略农耕、采矿、冰球和绗被——这些在语言中都有词。她教句型而非固定词表，让学习者能谈论自己的生活。由于使用者稀少，她预计这门语言将主要靠书面形式存续，并讨论了书写系统、拼写不统一以及安大略各地教师难以协调的问题。"
+   },
+   "points": [
+    {"en": "Culture in Indigenous curricula is often treated as static pre-contact authenticity, reduced to beadwork and moccasin-making.", "zh": "原住民课程中的「文化」常被当成静止的接触前本真性，简化为珠饰与做莫卡辛鞋。"},
+    {"en": "Community life today includes hockey, baseball, farming and mining, and the lexicon has terms for all of them.", "zh": "今天的社区生活包括冰球、棒球、农耕和采矿，词库里对这些都是有词的。"},
+    {"en": "Corbiere teaches patterns instead of a fixed verb list, so learners can talk about what interests them, such as quilting.", "zh": "科尔比埃教句型而非固定动词表，让学习者能谈论自己感兴趣的事，比如绗被。"},
+    {"en": "She criticizes K to 12 word-list materials, since knowing terms like bear or birch bark is not communicating.", "zh": "她批评 K 到 12 的词表式教材：认识「熊」「桦树皮」不等于能交流。"},
+    {"en": "Because speakers are few, she thinks Nishnaabemwin may survive largely as a written language.", "zh": "由于使用者稀少，她认为 Nishnaabemwin 可能主要作为书面语言存续。"},
+    {"en": "Spelling varies across communities, and teachers seldom have time to agree on applying one system to longer discourse.", "zh": "各地拼写不一致，教师也很少有时间商定如何把同一套系统用于更长语篇。"}
+   ],
+   "terms": [
+    {"en": "material culture", "zh": "物质文化", "defEn": "The physical objects a community makes and uses, such as moccasins or beadwork.", "defZh": "一个社群制作和使用的实物，如莫卡辛鞋、珠饰等，即物质文化。"},
+    {"en": "polysynthetic", "zh": "多式综合（polysynthetic）", "defEn": "A language type in which many morphemes combine into a single long word.", "defZh": "一种语言类型，其特点是把许多语素组合进一个很长的词里。"},
+    {"en": "double vowel system", "zh": "双元音书写系统", "defEn": "A practical orthography that writes long vowels with two letters, used for Ojibwe.", "defZh": "用两个字母表示长元音的一套实用正写法，广泛用于奥吉布瓦语。"},
+    {"en": "lexicon", "zh": "词库", "defEn": "The set of words and word-forming elements available in a language.", "defZh": "一种语言中全部的词及构词成分的总和，即词库。"},
+    {"en": "grammar-translation method", "zh": "语法翻译法", "defEn": "A teaching method emphasizing rules and translation rather than spoken communication.", "defZh": "强调语法规则和翻译练习、忽视口语交际的教学法，即语法翻译法。"}
+   ],
+   "examples": [
+    {"text": "badakiiga`ige", "noteEn": "The verb Corbiere cites for quilting, showing the language covers modern activities.", "noteZh": "科尔比埃举出的表示绗被的动词，说明该语言能谈论现代活动。"},
+    {"text": "mko", "noteEn": "The word for bear, which she has also seen written as makwa and mako.", "noteZh": "表示「熊」的词，她还见过 makwa 和 mako 两种写法。"},
+    {"text": "They were skunked.", "noteEn": "One of the hockey verbs Corbiere says exist in the Nishnaabemwin lexicon.", "noteZh": "科尔比埃说 Nishnaabemwin 词库里存在的冰球说法之一。"}
+   ],
+   "body": [
+    {"en": "Corbiere questions how culture is defined for Indigenous language curricula. European-based culture suggests the arts, film, theatre and opera, but culture applied to Indigenous peoples becomes a static measure of authenticity tied to a pre-contact traditional life. That framing pushes classrooms toward moccasin-making and beadwork, though not everyone does those things. Her own vocabulary came from farming; others hunted and fished, and still others worked in mines, for which Nishnaabemwin has terms, including one for going on strike.", "zh": "科尔比埃质疑原住民语言课程对「文化」的定义。欧洲文化让人想到艺术、电影、戏剧和歌剧，而「文化」一旦用在原住民身上，就变成一种静态的「本真性」标准，指向接触前的「传统」生活方式。这种框架把课堂引向做莫卡辛鞋和珠饰，可这些并不是人人都会做。她自己的词汇储备来自农耕，因为父亲是农夫；别人家打猎、捕鱼，还有人去矿上工作，而 Nishnaabemwin 里有采矿的词，也有罢工的词。"},
+    {"en": "Community life also includes hockey and baseball, and the lexicon has verbs for scoring a goal or being beaten and skunked. Corbiere therefore refuses to dictate a fixed verb list: she teaches patterns so learners can discuss what matters to them, whether figure skating or quilting, for which the verb badakiiga`ige exists. She criticizes K to 12 materials built on word lists such as bear and birch bark, since knowing terms is not the same as communicating. Revitalization, she argues, requires using the language and adapting it to new needs, such as asking for a ream of printer paper.", "zh": "今天的社区生活还包括冰球和棒球，词库里就有表示进球、被打败、被剃光头的动词。因此科尔比埃拒绝规定一份固定的动词表，而是教句型，让学习者能谈论自己关心的事，无论是花样滑冰还是绗被，后者有动词 badakiiga`ige。她批评 K 到 12 教材以词表为主，例如「熊」「桦树皮」，因为认识词不等于能交流。她认为语言复兴必须真正使用它，并让它适应新事物，比如要一叠打印纸。"},
+    {"en": "Online tools such as email and Zoom let scattered learners form a new kind of community not rooted in blood kinship, raising the question of what the Nishnaabemwin speech community will look like in fifteen years. Because many communities now have only a handful of speakers, Corbiere expects the language may survive largely in written form. She uses the writing system devised by Fiero, which marks long vowels, following Piggott's finding that long vowels take primary accent while paired short vowels may be destressed. Spelling still varies: the word for bear appears as mko, makwa or mako.", "zh": "电子邮件和 Zoom 让分散各地的学习者形成一种不以血缘为基础的新社群，这也引出十五年后 Nishnaabemwin 言语社群会是什么样子的问题。由于许多社区只剩四五位使用者，她认为这门语言很可能主要以书面形式存续。她使用菲耶罗设计的书写系统，标出长元音；皮戈特的分析表明长元音承担主重音，成对的短元音则可能失去重音。拼写仍不统一，「熊」就有 mko、makwa、mako 等写法。"},
+    {"en": "Because teachers are scattered across Ontario and seldom have time to confer, applying the system consistently to longer discourse remains difficult, and no one wants to declare themselves the authority on correctness. Resistance to writing, limited time, and an outdated grammar-translation curriculum add to the problem.", "zh": "由于教师分散在安大略各地，难得聚在一起长时间商议，把书写系统一致地用于更长语篇仍然困难，也没有人愿意自封为正确性的权威。对书写的抵触、时间的限制，以及过时的语法翻译法课程，更让问题雪上加霜。"}
+   ]
+  }
+ }
+}

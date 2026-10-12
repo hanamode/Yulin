@@ -1,0 +1,326 @@
+{
+ "batch": 53,
+ "sections": {
+  "chapter-121-slug-10-6-sociolinguistic-correlations-place": {
+   "title": {
+    "en": "10.6 Sociolinguistic correlations: Place",
+    "zh": "10.6 社会语言学相关性：地域"
+   },
+   "summary": {
+    "en": "Place is the most obvious social dimension of variation: Egyptian and Syrian Arabic, or New York City and Chicago English, differ systematically. Standard varieties owe their prestige to power, as r-dropping shows, being admired in London but stigmatized in New York. Indexicality and enregisterment explain how features acquire regional meaning. Canadian English's unusual homogeneity reflects settler colonialism and the erasure of Indigenous languages, while eh is an enregistered Canadian marker whose actual frequency is low and regionally uneven.",
+    "zh": "地域是语言变异最直观的社会维度：埃及阿拉伯语与叙利亚阿拉伯语、纽约英语与芝加哥英语都有系统差异。标准变体的声望来自权力，非元音前 r 脱落即为例证，它在伦敦受推崇，在纽约却被贬低。指示性与语域化说明特征如何获得地域意义。加拿大英语异常同质，是定居者殖民主义与原住民语言被抹除的结果；而 eh 虽被语域化为加拿大标志，实际频率很低且因地区而异。"
+   },
+   "points": [
+    {
+     "en": "Regional varieties differ within and across nations, including Arabic, French, Spanish, English and Cree.",
+     "zh": "地域变体在国与国之间、一国内部都存在差异，阿拉伯语、法语、西班牙语、英语与克里语皆然。"
+    },
+    {
+     "en": "A standard variety's prestige comes from power and politics, not from any linguistic superiority.",
+     "zh": "标准变体的声望源自权力与政治，而非语言本身的高下。"
+    },
+    {
+     "en": "The same feature, non-prevocalic r deletion, indexes prestige in London but low status in New York.",
+     "zh": "同一特征即非元音前 r 脱落，在伦敦指向声望，在纽约却指向低社会地位。"
+    },
+    {
+     "en": "Indexicality links features to social meaning through enregisterment, a process driven by cultural expectations.",
+     "zh": "指示性通过语域化把语言特征与社会意义相连，这一过程由文化预期驱动。"
+    },
+    {
+     "en": "Canadian English spread homogeneously through settler colonialism, which erased Indigenous languages rather than fostering contact.",
+     "zh": "加拿大英语经由定居者殖民主义而同质地传播，它抹除原住民语言，而非促成语言接触。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "indexicality",
+     "zh": "指示性",
+     "defEn": "The semiotic relation by which a linguistic feature points to some social or contextual meaning.",
+     "defZh": "语言特征指向某种社会或语境意义的符号关系，如地域、性别等含义。"
+    },
+    {
+     "en": "enregisterment",
+     "zh": "语域化",
+     "defEn": "The process linking a particular linguistic feature with a cultural expectation, giving it social meaning.",
+     "defZh": "把某一语言特征与文化预期相联系、从而赋予其社会意义的过程。"
+    },
+    {
+     "en": "non-prevocalic r deletion",
+     "zh": "非元音前 r 脱落（r-dropping）",
+     "defEn": "The variable absence of r after a vowel and before a consonant or pause, as in dark and car.",
+     "defZh": "元音后、辅音或停顿前的 r 可有可无地不发音，如 dark 与 car 中的情形。"
+    },
+    {
+     "en": "pragmatic marker",
+     "zh": "语用标记",
+     "defEn": "A word or phrase, such as eh or you know, that manages interaction rather than adding content.",
+     "defZh": "如 eh、you know 等用于组织交际、而非增加命题内容的词或短语。"
+    },
+    {
+     "en": "Principle of Accountability",
+     "zh": "责任原则",
+     "defEn": "The methodological requirement to count every variant of a variable, not only the variant of interest.",
+     "defZh": "要求统计一个变项的全部变式、而非只统计关注变式的方法论原则。"
+    },
+    {
+     "en": "settler colonialism",
+     "zh": "定居者殖民主义",
+     "defEn": "Colonialism aimed at taking land so that settlers from the parent state can permanently repopulate it.",
+     "defZh": "以夺取土地、让宗主国定居者永久移居为目的的殖民主义类型。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "dark [dɑːk] and car [cɑː]",
+     "noteEn": "Non-prevocalic r deletion in standard British English, perceived as prestigious in London.",
+     "noteZh": "标准英式英语中的非元音前 r 脱落，在伦敦被视为有声望的发音。"
+    },
+    {
+     "text": "pretty cool",
+     "noteEn": "Among Canadian English speaking adolescents, the intensifier pretty tends to index masculinity.",
+     "noteZh": "在说加拿大英语的青少年中，强化副词 pretty 往往指向男性气质。"
+    },
+    {
+     "text": "so cool",
+     "noteEn": "The intensifier so tends instead to index femininity among the same adolescents.",
+     "noteZh": "在同一群体中，强化副词 so 则往往指向女性气质。"
+    },
+    {
+     "text": ".@Canada’s now on Twitter, eh!",
+     "noteEn": "The Canadian government's first tweet, showing how thoroughly enregistered eh has become.",
+     "noteZh": "加拿大政府发布的第一条推文，显示 eh 已被高度语域化。"
+    }
+   ],
+   "body": [
+    {
+     "en": "When people imagine how the same language varies, region is usually the first thing that comes to mind. Dialectologists have long documented regional varieties: Egyptian and Syrian Arabic are distinct, as are Continental, Quebec and Moroccan French, and the Spanish of Mexico, Puerto Rico and Spain. Differences also occur inside a single country, with Acadian French opposed to Laurentian French, New York City English to Chicago English, and nēhiyawēwin (Plains Cree) to nīhithawīwin (Woods Cree). Sometimes one variety is elevated as the standard, but standardization always rests on power and politics rather than linguistic merit. Non-prevocalic r deletion, heard in dark [dɑːk] and car [cɑː], counts as prestigious Queen's English in London, yet the very same feature is judged non-standard and low-status in New York City.",
+     "zh": "提到同一种语言的不同说法，人们最先想到的往往是地域。方言学家早已记录下各地变体：埃及阿拉伯语与叙利亚阿拉伯语不同，大陆法语、魁北克法语与摩洛哥法语不同，墨西哥、波多黎各与西班牙的西班牙语也不同。差异同样存在于一国之内：阿卡迪亚法语与劳伦法语、纽约英语与芝加哥英语、nēhiyawēwin（平原克里语）与 nīhithawīwin（森林克里语）都相互区别。有时某一变体被抬升为标准语，但标准化从来与语言本身的性质无关，其根源始终是权力结构与政治。非元音前 r 脱落见于 dark [dɑːk] 与 car [cɑː]，在伦敦被视为有声望的女王英语，而同一特征在纽约却被判为非标准、低地位。"
+    },
+    {
+     "en": "Regional variation also surfaces in vocabulary and in signed languages. A 2013 New York Times dialect quiz about soda versus pop asked readers which words they used and mapped their likely location in the United States; ASL likewise has several regional variants for BIRTHDAY, STRAWBERRY and PIZZA. Such associations arise through indexicality, the semiotic principle whereby a sign points to a meaning, here a place. Enregisterment links a feature with a cultural expectation, the same mechanism that makes pretty cool sound masculine and so cool feminine for Canadian adolescents.",
+     "zh": "地域差异也体现在词汇和手语中。2013 年《纽约时报》的方言测验围绕 soda 还是 pop 等用词提问，再据此推断读者在美国的大致位置；美国手语中 BIRTHDAY、STRAWBERRY、PIZZA 等词也有多个地域变体。这些联系经由指示性产生，即符号指向某种意义的符号学原理，此处指向的是地点。语域化把某一语言特征与文化预期连接起来，同样的机制使加拿大青少年口中的 pretty cool 显得男性化，而 so cool 显得女性化。"
+    },
+    {
+     "en": "Canadian English is remarkably homogeneous from the Ontario-Quebec border to Vancouver Island, a fact usually traced to Loyalist settlers who migrated west. Contact with the many Indigenous languages of that territory left almost no trace, because settler colonialism sought land and the erasure of Indigenous peoples. The best-known enregistered Canadian feature is the pragmatic marker eh, celebrated on mugs and in the government's first tweet, yet accountability-based counts show it is rare: under one percent on Vancouver Island against 12% in Southern Ontario.",
+     "zh": "加拿大英语从安大略—魁北克边界到温哥华岛高度同质，通常被追溯至自美国迁来的效忠派定居者向西迁移。这一区域本有众多原住民语言，语言接触却几乎未留下痕迹，原因在于定居者殖民主义追求的是土地与原住民的消失。最著名的加拿大语域化特征是语用标记 eh，它被印在马克杯上，也成为加拿大政府的第一条推文；但按责任原则统计，eh 实际比例很低，温哥华岛不足百分之一，而安大略南部达 12%。"
+    }
+   ]
+  },
+  "chapter-122-slug-10-7-sociolinguistic-correlations-social-status": {
+   "title": {
+    "en": "10.7 Sociolinguistic correlations: Social status",
+    "zh": "10.7 社会语言学相关性：社会地位"
+   },
+   "summary": {
+    "en": "Social class is an intuitive but fuzzy concept, measured through occupation, education, income or residence. Labov's 1966 Lower East Side study showed that variants like the [ɪn] pronunciation of -ing are socially stratified, with working class speakers using it most. The same data reveal systematic style shifting, since every class uses more [ɪn] in casual speech than when reading. Variationist graphs should be read through caption, axes and legend before the author's description.",
+    "zh": "社会阶级是一个直观却模糊的概念，可用职业、教育、收入或居住地来衡量。拉博夫 1966 年对曼哈顿下东区的研究表明，-ing 读作 [ɪn] 等变式呈现社会分层，工人阶级使用最多。同一批数据还显示系统的语体转换：各个阶级在随意谈话中的 [ɪn] 都比朗读时多。读变异社会语言学的图表时，应先看标题说明、坐标轴与图例，再对照作者的描述。"
+   },
+   "points": [
+    {
+     "en": "Social class resists precise definition but can be diagnosed through occupation, education, income or residence.",
+     "zh": "社会阶级难以精确定义，但可用职业、教育、收入或居住地来判定。"
+    },
+    {
+     "en": "Labov's 1966 Manhattan study classified speakers by occupation, education and income, finding class-linked variation.",
+     "zh": "拉博夫 1966 年的曼哈顿研究按职业、教育和收入划分说话人，发现变异与社会阶级相关。"
+    },
+    {
+     "en": "The [ɪn] variant of -ing is stratified: working class speakers use it most, upper class speakers least.",
+     "zh": "-ing 的 [ɪn] 变式呈现分层：工人阶级使用最多，上层阶级最少。"
+    },
+    {
+     "en": "Style shifting operates across all classes, since casual speech contains more [ɪn] tokens than reading passages.",
+     "zh": "语体转换在各阶级中普遍存在，随意谈话中的 [ɪn] 用例多于朗读段落。"
+    },
+    {
+     "en": "Good graph reading starts with the caption, then the axes and legend, before the author's interpretation.",
+     "zh": "读图应先看标题说明，再看坐标轴和图例，最后才对照作者的解释。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "social stratification",
+     "zh": "社会分层",
+     "defEn": "The systematic ranking of linguistic variants according to speakers' position in a social hierarchy.",
+     "defZh": "语言变式按说话人在社会等级中的位置而呈现的系统排序现象。"
+    },
+    {
+     "en": "style shifting",
+     "zh": "语体转换",
+     "defEn": "A speaker's change in variant frequency as the formality of the context changes.",
+     "defZh": "说话人随语境正式程度变化而改变变式使用频率的现象。"
+    },
+    {
+     "en": "linguistic variable",
+     "zh": "语言变项",
+     "defEn": "A linguistic item with two or more variants whose distribution is socially or contextually conditioned.",
+     "defZh": "具有两个或以上变式、其分布受社会或语境条件制约的语言项目。"
+    },
+    {
+     "en": "variationist sociolinguistics",
+     "zh": "变异社会语言学",
+     "defEn": "The quantitative study of how linguistic variation correlates with social factors.",
+     "defZh": "定量研究语言变异与社会因素之间相关性的学科领域。"
+    },
+    {
+     "en": "dependent variable",
+     "zh": "因变量",
+     "defEn": "In a graph, the thing measured, usually the proportion of one variant.",
+     "defZh": "图表中被测量的对象，通常指某一变式所占的比例。"
+    },
+    {
+     "en": "independent variable",
+     "zh": "自变量",
+     "defEn": "The social or contextual factor that the researcher manipulated or controlled.",
+     "defZh": "研究者所操纵或控制的社会因素或语境因素。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[ɪn]",
+     "noteEn": "The non-standard variant of -ing whose frequency varies by social class.",
+     "noteZh": "非标准的 -ing 变式，其使用频率随社会阶级而变。"
+    },
+    {
+     "text": "casual speech context contains more [ɪn] tokens than the reading passage context",
+     "noteEn": "Style shifting repeated across every social class in Labov's New York data.",
+     "noteZh": "拉博夫纽约数据中在每个社会阶级都重现的语体转换。"
+    },
+    {
+     "text": "occupation, education, and income",
+     "noteEn": "Labov's three parameters for assigning speakers to social classes.",
+     "noteZh": "拉博夫为说话人划定社会阶级所用的三个参数。"
+    }
+   ],
+   "body": [
+    {
+     "en": "People generally have an intuition about social class and the unequal distribution of wealth and power it reflects, yet class is less tangible than age, gender or ethnicity. Since the Industrial Revolution, Euro-American societies have been divided into upper, middle and lower classes, a hierarchy mirrored in who holds wealth and power. Sociologists combine objective measures such as property, income and occupation with subjective ones such as life chances and prestige. In Canada, where most people count as middle class, those at the bottom of the hierarchy are marked by intersections with geography, race and ethnicity, with Black, Indigenous and other people of colour, especially recent immigrants, facing more precarious circumstances.",
+     "zh": "人们对社会阶级以及它所反映的财富与权力不平等通常有直觉，但阶级比年龄、性别或族裔更难把握。工业革命以来，欧美社会常被划分为上层、中层和下层三个群体，这一等级序列对应着财富与权力的分配。社会学定义既采用财产、收入、职业等客观指标，也采用生活机会、声望等主观指标。在加拿大，社会整体上以中产阶级为主，因此处于等级底端者更突出地体现在与地理、种族和族裔的交叠上：黑人、原住民及其他有色人种，尤其是新近移民，总体上处境更不稳定。"
+    },
+    {
+     "en": "Because class is fuzzy, researchers need ways to diagnose it, often using occupation, education, income or residence. In his 1966 study of the Lower East Side of Manhattan, William Labov classified speakers using occupation, education and income, and found extensive correlations between variant frequencies and social class. The [ɪn] variant of -ing is socially stratified: working class speakers use it most, upper class speakers least, and the middle falls between. The same data show systematic style shifting, because in every social class casual speech contains more [ɪn] tokens than the reading passage context.",
+     "zh": "阶级概念虽模糊，却是直观的现实。要研究它作为语言变异条件的作用，就需要测量它的办法，常用职业、教育、收入或居住地来判断。在 1966 年对曼哈顿下东区英语的研究中，威廉·拉博夫用职业、教育和收入把说话人归入不同阶级，发现变式频率与个人社会阶级之间存在广泛相关。-ing 的 [ɪn] 变式呈现社会分层：工人阶级使用率最高，上层阶级最低，中间阶层介于两者之间。同一批数据还显示系统的语体转换：所有阶级在随意谈话中的 [ɪn] 用例都多于朗读段落。"
+    },
+    {
+     "en": "Variationist sociolinguistics is quantitative, so graphs must be read carefully. A good caption names what was measured, the dependent variable, and what the researcher manipulated or controlled, the independent variables, usually in a by-statement, and identifies the source of the data. The axes and legend supply the details: the dependent variable normally sits on the vertical y-axis, while independent variables appear on the horizontal x-axis or as colours, shapes and line types. Finally, try to determine the pattern in the graph yourself before reading the author's description.",
+     "zh": "变异社会语言学是定量的，因此读图需要方法。好的标题说明会指明被测量的对象（因变量）以及研究者操纵或控制的因素（自变量），通常写作「因变量 by 自变量」，并注明数据来源。坐标轴和图例说明具体内容：因变量通常画在纵向的 y 轴，自变量画在横向的 x 轴，或用颜色、形状、线型在图例中区分。最后，应先自己判断图中的模式，再阅读作者的描述。"
+    }
+   ]
+  },
+  "chapter-123-slug-10-8-sociolinguistic-correlations-gender": {
+   "title": {
+    "en": "10.8 Sociolinguistic correlations: Gender",
+    "zh": "10.8 社会语言学相关性：性别"
+   },
+   "summary": {
+    "en": "Gender is a social acquisition, distinct from sex, which is itself partly constructed; early variationist work nevertheless collapsed the two. Labov codified gendered patterns as principles of linguistic change, with women favouring standard variants in stable variation and changes from above, yet leading changes from below. Gender ideologies, the double bind and covert prestige explain the first two principles, while Eckert's jocks and burnouts resolve the gender paradox through communities of practice. Trans and nonbinary linguists now examine nonbinary identity construction.",
+    "zh": "性别是社会习得的，与生理性别有别，而生理性别本身也部分是建构的；早期变异研究却常把二者混为一谈。拉博夫把性别化的变异模式总结为语言变化原则：稳定变异与自上而下的变化中女性更常用标准变式，而自下而上的变化中女性常是创新者。女性气质意识形态、双重束缚与隐性声望可解释前两条原则，埃克特的实践共同体研究则化解了性别悖论。跨性别与非二元语言学者的研究还考察非二元身份的建构。"
+   },
+   "points": [
+    {
+     "en": "Gender is socialized and distinct from sex, and even binary sex is partly a social construct.",
+     "zh": "性别经由社会化获得，与生理性别不同，而二元生理性别本身也部分是社会建构。"
+    },
+    {
+     "en": "Early variationist studies correlated variables with perceived sex rather than gender, ignoring complexity.",
+     "zh": "早期变异研究把变项与研究者感知的生理性别而非性别相联系，忽视了性别的复杂性。"
+    },
+    {
+     "en": "Labov's Principles I and Ia: women favour standard variants in stable variation and changes from above.",
+     "zh": "拉博夫的原则 I 与 Ia：在稳定变异和自上而下的变化中，女性更偏爱标准变式。"
+    },
+    {
+     "en": "Principle II and the gender paradox: women lead changes from below, deviating from overt norms.",
+     "zh": "原则 II 与性别悖论：女性引领自下而上的变化，偏离显性规范。"
+    },
+    {
+     "en": "Eckert's jocks and burnouts show that communities of practice, not gender alone, drive innovation.",
+     "zh": "埃克特研究的运动员与辍学群体表明，推动创新的是实践共同体而非性别本身。"
+    },
+    {
+     "en": "Recent trans and nonbinary linguistics treats variation as a resource for constructing nonbinary identity.",
+     "zh": "近年跨性别与非二元语言学把变异视为建构非二元身份的资源。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "gender",
+     "zh": "性别",
+     "defEn": "A social identity acquired through socialization, distinct from sex assigned at birth.",
+     "defZh": "经由社会化获得的社会身份，与出生时指派的生理性别不同。"
+    },
+    {
+     "en": "double bind",
+     "zh": "双重束缚",
+     "defEn": "Lakoff's dilemma: women are criticized for tentative speech and for resisting that expectation.",
+     "defZh": "拉科夫提出的两难：女性既因犹疑无力的言语受批评，也因抗拒这一预期而被指责。"
+    },
+    {
+     "en": "gender paradox",
+     "zh": "性别悖论",
+     "defEn": "Women conform more to overt norms than men, yet conform less when unobserved.",
+     "defZh": "女性比男性更遵从显性规范，却在无人注意时更少遵从。"
+    },
+    {
+     "en": "covert prestige",
+     "zh": "隐性声望",
+     "defEn": "The positive value attached to non-standard, working class or racialized speech forms.",
+     "defZh": "非标准、工人阶级或族群化语言形式所获得的正面价值。"
+    },
+    {
+     "en": "community of practice",
+     "zh": "实践共同体",
+     "defEn": "A group sharing interests, concerns and goals, whose members jointly negotiate linguistic norms.",
+     "defZh": "共享兴趣、关切与目标的群体，成员共同协商语言规范。"
+    },
+    {
+     "en": "chain shift",
+     "zh": "链移",
+     "defEn": "A change in which several features move in a systematic, chronologically ordered serial way.",
+     "defZh": "若干特征按时间顺序系统性地相继移动的变化，如元音链移。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "think [θɪŋk~tɪŋk] and with [ʍɪθ~ʍɪt]",
+     "noteEn": "Th-stopping in Detroit Black English, where /θ/ is realized as [θ] or [t].",
+     "noteZh": "底特律黑人英语中的 th 塞音化：/θ/ 实现为 [θ] 或 [t]。"
+    },
+    {
+     "text": "“a girl is damned if she does, damned if she doesn’t.”",
+     "noteEn": "Lakoff's formulation of the double bind facing women's speech.",
+     "noteZh": "拉科夫对女性言语所面临双重束缚的概括。"
+    },
+    {
+     "text": "the ‘jocks’",
+     "noteEn": "One of the two communities of practice at Eckert's Detroit-area high school.",
+     "noteZh": "埃克特所研究的高中的两个实践共同体之一：认同学校的运动员群体。"
+    },
+    {
+     "text": "the ‘burnouts’",
+     "noteEn": "The anti-school, anti-authority community of practice in the same high school.",
+     "noteZh": "同一所高中里反学校、反权威的实践共同体。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Gender is a social acquisition produced through lifelong socialization, while sex is assigned at birth on biological grounds. The common claim that gender is the social counterpart of biological sex is half true, because binary sex is itself a social construct: anatomical, endocrinal and chromosomal criteria form continua split at a socially drawn, fuzzy boundary. Cisgender, transgender, nonbinary and genderqueer people relate differently to their assigned sex. Many cultures, including two-spirit people in some Indigenous North American communities and hijras in India, recognize more than two genders.",
+     "zh": "性别是通过终身社会化获得的社会属性，而生理性别在出生时依据生物学指派。人们常说性别是生理性别的社会建构对应物，这只说对了一半：二元生理性别本身也是社会建构，解剖、内分泌和染色体标准都构成连续统，男女之间的界线是社会划定的、模糊的。顺性别者的性别认同大体与出生时指派的生理性别一致，跨性别者则与之不同，非二元与性别酷儿者的认同也不映射到男性气质与女性气质的谱系上。世界上不少文化并不限于二元性别，例如北美一些原住民社群中的双灵人（two-spirit）和印度的海吉拉（hijras）。"
+    },
+    {
+     "en": "Gendered patterns of variation recur so consistently that Labov codified them as principles of linguistic change. In stable variation, women use the standardised variant more than men; in changes from above, women favour the incoming prestige variant; in changes from below, women are most often the innovators. Gender ideologies explain the first two: the girlie-girl trope ties prestige speech to canonical femininity, and standard language can protect the face of a relatively powerless speaker.",
+     "zh": "性别化的变异模式反复出现，拉博夫因此将其归纳为语言变化原则。在稳定变异中，女性比男性更常使用标准变式；在自上而下的变化中，女性更偏爱新进入的声望变式；在自下而上的变化中，女性往往是最主要的创新者。前两条可用性别意识形态解释：小公主式的刻板印象把有声望的语言与正统女性气质相连，而杜查尔（Deuchar）认为标准语能保护相对无权者的面子，在父权支配下成为一种生存策略。"
+    },
+    {
+     "en": "Lakoff adds the double bind: women are socialized into tentative, powerless speech, yet are criticized for it, and risk being deemed unfeminine if they resist. Trudgill's Norwich study found most women over-reported their use of standard forms, but men are status-conscious too. Most men he interviewed believed they were more non-standard than they were, because non-prestigious working class and Black forms carry covert prestige, indexing the toughness and physical dominance attributed to those men.",
+     "zh": "拉科夫补充了双重束缚：女性被社会化为使用犹疑、无力的语言，却因此受批评，若抗拒这一预期又可能被指为不女性化。特鲁吉尔在诺里奇的研究发现，多数女性高报了自己使用标准变式的比例，但男性同样在意地位。他访谈的多数男性认为自己比实际更不标准，因为非声望的工人阶级语言与黑人语言具有隐性声望，指向阶级与种族意识形态赋予这些男性的强悍与体能优势。"
+    },
+    {
+     "en": "The gender paradox observes that women conform more to overt norms yet less when unobserved, and it holds only in aggregate. Eckert's Detroit-area high school study contrasted school-oriented jocks with anti-authority burnouts, two communities of practice. With older changes of the Northern Cities Chain Shift, gender predicts variation best; with newer ones, community of practice matters most, and differences are larger for girls. Evaluated on symbolic capital, women maintain more rigid social boundaries. Trans and nonbinary linguists now show variation can perform a nonbinary identity.",
+     "zh": "性别悖论指出，女性更遵从显性规范，却在无人注意时更偏离规范，这一模式只在总体上成立。埃克特在底特律郊区高中的研究对比了认同学校的运动员群体与反权威的辍学群体，二者是不同的实践共同体。在北方城市链移中较旧的变化上，性别最能预测变异；在较新的变化上，实践共同体最重要，且女生两个群体间的差距更大。女性的地位取决于象征资本、取决于她看起来是谁，因此维持更严格的社会边界。近年跨性别与非二元语言学者则表明，变异可用于展演非二元身份。"
+    }
+   ]
+  }
+ }
+}

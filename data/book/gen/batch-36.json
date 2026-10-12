@@ -1,0 +1,326 @@
+{
+ "batch": 36,
+ "sections": {
+  "chapter-076-slug-7-3-what-does-this-sentence-mean-entailments-vs-implicatures": {
+   "title": {
+    "en": "7.3 What does this sentence \"mean\"? Entailments vs. implicatures",
+    "zh": "7.3 这个句子“意味着”什么？蕴涵与会话含义"
+   },
+   "summary": {
+    "en": "Sentence meaning can be approached through what follows necessarily from a sentence versus what is merely suggested. Entailments are guaranteed by the truth of the sentence and yield a contradiction when negated, while implicatures are context-based suggestions that can be cancelled. Presuppositions are a special kind of entailment that a sentence takes for granted and that survives negation and questioning.",
+    "zh": "要考察句子意义，需要区分必然推出的结论与仅仅被暗示的结论。蕴涵由句子为真所保证，否定后会形成矛盾；会话含义依赖语境，只是一种可能被取消的暗示。预设是一类特殊的蕴涵，是句子预先视为理所当然的内容，即使句子被否定或变成疑问句依然保留。"
+   },
+   "points": [
+    {
+     "en": "Entailment is a necessary meaning relation: if the sentence is true, the entailed sentence must be true too.",
+     "zh": "蕴涵是一种必然的意义关系：若原句为真，被蕴涵的句子也必定为真。"
+    },
+    {
+     "en": "Negating an entailment and conjoining it with the original sentence produces a contradiction, a sentence that is never true.",
+     "zh": "把蕴涵句加以否定并与原句用“但是”连接，会得到矛盾句，即永远不可能为真的句子。"
+    },
+    {
+     "en": "An implicature is a possible but not guaranteed conclusion, so it can be cancelled without producing a contradiction.",
+     "zh": "会话含义是可能但不受保证的结论，因此可以被取消而不会造成矛盾。"
+    },
+    {
+     "en": "A presupposition is an entailment a sentence takes for granted, so it cannot be the target of negation or questioning.",
+     "zh": "预设是句子视为理所当然的蕴涵，因此不能成为主句否定或提问的对象。"
+    },
+    {
+     "en": "Whether a piece of meaning survives negation and question tests diagnoses whether it is a presupposition.",
+     "zh": "某一意义成分能否在否定测试和疑问测试中保留下来，是判断它是否为预设的有效诊断手段。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "entailment",
+     "zh": "蕴涵",
+     "defEn": "A meaning relation in which the truth of one sentence guarantees the truth of another.",
+     "defZh": "一种意义关系：一个句子为真必然保证另一个句子也为真。"
+    },
+    {
+     "en": "implicature",
+     "zh": "会话含义",
+     "defEn": "A context-based suggestion of a sentence that is possible but not guaranteed to be true.",
+     "defZh": "基于语境产生的暗示，虽然可能为真，却并不被句子保证为真。"
+    },
+    {
+     "en": "presupposition",
+     "zh": "预设",
+     "defEn": "An entailment that a sentence takes for granted as already true before it is uttered.",
+     "defZh": "句子在说出之前就已视为理所当然为真的那部分蕴涵内容。"
+    },
+    {
+     "en": "contradiction",
+     "zh": "矛盾",
+     "defEn": "A sentence that can never be true, often used as a test for entailment.",
+     "defZh": "永远不可能为真的句子，常被用作检验蕴涵的手段。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The customer sighed, but it is not the case that the customer emitted a breath.",
+     "noteEn": "A contradiction, which shows that emitting a breath is an entailment of sighing.",
+     "noteZh": "这是矛盾句，说明“呼出一口气”是“叹气”的蕴涵。"
+    },
+    {
+     "text": "The customer sighed, but it is not the case that the customer is angry.",
+     "noteEn": "Not a contradiction, so being angry is only an implicature of sighing.",
+     "noteZh": "这并非矛盾句，可见“生气”只是叹气带来的会话含义。"
+    },
+    {
+     "text": "Did the customer sigh?",
+     "noteEn": "Under the question test the entailment about emitting a breath no longer holds.",
+     "noteZh": "在疑问测试下，关于呼出一口气的蕴涵不再成立。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This section asks how word meanings combine into sentence meaning, and it begins from the observation that examining a word in isolation, such as the verb sigh, tells us very little. It is more informative to observe how a word is or is not used inside sentences. From sentence meaning, then, we can ask what conclusion is guaranteed and what conclusion is merely suggested. When one sentence entails another, the truth of the first forces the truth of the second.",
+     "zh": "本节要问的是词义如何组合成句子意义，出发点是一个观察：孤立地考察一个词，如动词 sigh（叹气），所能提供的信息很少。更有启发的做法是观察这个词在句子中如何被使用、又如何不能被使用。由此我们可以追问，从句子意义中能必然得出什么结论，又只是被暗示了什么结论。当一个句子蕴涵另一个句子时，前者的真会强制后者为真。"
+    },
+    {
+     "en": "The contradiction test makes this relation visible: negate the candidate meaning and conjoin it with the original sentence using but. The result is a contradiction that can never be true, because sighing cannot occur without emitting a breath. For other conclusions, such as the customer being angry, the same test produces no contradiction, since the sigh may have come from relief instead. Such a cancellable, context-dependent suggestion is an implicature.",
+     "zh": "矛盾测试可以让这种关系显现出来：把候选意义加以否定，再用“但是”与原来的句子连接。结果是一个永远不可能为真的矛盾句，因为人不可能在不呼气的情况下叹气。换成别的结论，例如顾客在生气，同一测试并不产生矛盾，因为叹气也可能是出于宽慰。这种可以被取消、依赖语境的暗示就是会话含义。"
+    },
+    {
+     "en": "The sentence about the restaurant that stopped charging extra for guacamole also commits the speaker to the claim that it used to charge extra. That commitment is an entailment but a special one, a presupposition: the sentence takes it for granted. Even a hearer who objects that this is not true can only contest whether the practice stopped, since both parties still assume the earlier practice. A presupposition therefore remains intact under negation and questioning, while an ordinary entailment disappears.",
+     "zh": "关于餐馆停止对鳄梨酱额外收费的句子，同时也让说话者承诺了“过去曾额外收费”这一内容。这固然是蕴涵，但属于一类特殊的蕴涵，即预设：句子把它当作理所当然的前提。即便听话人反驳说“那不是真的”，他所能争辩的也只是收费是否已经停止，因为双方仍然默认过去确实收过费。所以预设能在否定和提问下保持不变，而普通的蕴涵则会随之消失。"
+    },
+    {
+     "en": "In sum, sentential meaning relations fall into two main kinds, entailments and implicatures, and entailments subdivide further into regular entailments and presuppositions. The definitions use the variables p and q simply as placeholders for sentences, a device borrowed from mathematics, where a variable such as r stands for a value that changes with the case being analysed.",
+     "zh": "总之，句子的意义关系主要分为两类：蕴涵与会话含义，而蕴涵又可再分为一般蕴涵和预设。定义中所用的变项 p 和 q 只是句子的占位符号，这一做法借自数学，正如数学中用变项 r 表示随所分析对象而变的数值。"
+    }
+   ]
+  },
+  "chapter-077-slug-7-4-the-mental-lexicon": {
+   "title": {
+    "en": "7.4 The mental lexicon",
+    "zh": "7.4 心理词库"
+   },
+   "summary": {
+    "en": "Language contains both regular, predictable patterns and irregular, arbitrary ones. The mental lexicon stores the irregularities that rules cannot capture, including free morphemes, affixes, idioms, non-compositional compounds, and irregular inflected forms. Each listeme has a lexical entry specifying its phonology, its syntax, and its sense, while compositional words and phrases are built by rules rather than listed.",
+    "zh": "语言中既有规则性强、可预测的模式，也有不规则、任意的部分。心理词库存储的是规则无法涵盖的不规则信息，包括自由语素、词缀、习语、非组合性复合词以及不规则屈折形式。每个词项都有一个词条，记录其音系、句法和涵义信息；而组合性的词和短语则由规则生成，不列入词库。"
+   },
+   "points": [
+    {
+     "en": "Regularity in language equals predictability, as when the English plural -s is realised as [ɨz] after sibilants.",
+     "zh": "语言中的规则性等同于可预测性，例如英语复数 -s 在咝音之后实现为 [ɨz]。"
+    },
+    {
+     "en": "The link between sound or sign and meaning is arbitrary, so it must be memorised and stored in the lexicon.",
+     "zh": "声音或手势与意义之间的联系是任意的，必须靠记忆储存，因而存入词库。"
+    },
+    {
+     "en": "Non-compositional meaning cannot be predicted from subparts, so free morphemes and affixes alike are listed.",
+     "zh": "非组合性意义无法由其组成部分预测，因此自由语素和词缀同样需要列入词库。"
+    },
+    {
+     "en": "Idioms vary across language communities, and non-compositional compounds like hotdog are stored as listemes.",
+     "zh": "习语因语言社群而异，像 hotdog 这样的非组合性复合词也作为词项被储存。"
+    },
+    {
+     "en": "Spelling and etymology are excluded from lexical knowledge because children use words without knowing either.",
+     "zh": "拼写和词源被排除在词汇知识之外，因为儿童在不了解二者的情况下也能使用词语。"
+    },
+    {
+     "en": "Irregular forms such as went and geese may have their own lexical entries because they must be memorised.",
+     "zh": "went 和 geese 这类不规则形式可能需要独立的词条，因为它们必须靠记忆掌握。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "lexicon",
+     "zh": "词库",
+     "defEn": "A language user's mental storage of linguistic information that rules cannot capture.",
+     "defZh": "语言使用者对无法由规则涵盖的语言信息所做的心理储存。"
+    },
+    {
+     "en": "listeme",
+     "zh": "词项",
+     "defEn": "Anything that has a lexical entry in the lexicon, including morphemes, idioms, and some compounds.",
+     "defZh": "在词库中拥有词条的单位，涵盖语素、习语以及部分复合词。"
+    },
+    {
+     "en": "non-compositional meaning",
+     "zh": "非组合性意义",
+     "defEn": "Meaning that cannot be predicted from the meanings of the expression's subparts.",
+     "defZh": "无法由该表达各组成部分的意义预测出来的意义。"
+    },
+    {
+     "en": "compositional meaning",
+     "zh": "组合性意义",
+     "defEn": "Meaning that is predictable from the smaller parts put together by morphosyntactic rules.",
+     "defZh": "可以由较小成分经形态句法规则组合而预测出来的意义。"
+    },
+    {
+     "en": "idiom",
+     "zh": "习语",
+     "defEn": "A meaningful sequence of words whose overall meaning is not compositional and must be memorised.",
+     "defZh": "有意义的词串，但其整体意义并非组合性的，必须逐一记住。"
+    },
+    {
+     "en": "lexical entry",
+     "zh": "词条",
+     "defEn": "The listing for a listeme, containing its phonological, syntactic, and semantic information.",
+     "defZh": "词项在词库中的条目，记录其音系、句法与语义信息。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Loquesh [lowkwɛʃ]",
+     "noteEn": "A made-up beverage name whose regular English plural would be predicted as [lowkwɛʃɨz].",
+     "noteZh": "虚构的饮料名称，按英语规则其复数形式可预测为 [lowkwɛʃɨz]。"
+    },
+    {
+     "text": "over the moon",
+     "noteEn": "An idiom meaning 'extremely happy' in spoken North American English.",
+     "noteZh": "北美英语口语中的习语，意为“极其高兴”。"
+    },
+    {
+     "text": "hotdog",
+     "noteEn": "A non-compositional compound, since a hotdog is not a dog that is hot.",
+     "noteZh": "非组合性复合词，因为 hotdog 并不是一只热的狗。"
+    },
+    {
+     "text": "TRAIN GONE SORRY",
+     "noteEn": "An American Sign Language idiom roughly meaning that you missed what was said.",
+     "noteZh": "美国手语习语，大意是“你错过了刚才说的话”。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier chapters surveyed regular patterns in language, and regularity can be tied to predictability. In English, for instance, the plural -s /z/ surfaces as [ɨz] after sibilant consonants. The rules a language user controls are part of that user's grammar, sometimes called the mental grammar. Not everything in language behaves this way: some information is irregular, and that is what the lexicon holds.",
+     "zh": "前面几章考察了语言中的规则模式，而规则性可以与可预测性联系起来。以英语为例，复数 -s /z/ 在咝音之后实现为 [ɨz]。语言使用者所掌握的这些规则是其语法的一部分，即心理语法。但语言中并非一切都如此运作，有些信息是不规则的，这正是词库所储存的内容。"
+    },
+    {
+     "en": "The connection between a stream of sounds or signs and a meaning is arbitrary, as the morpheme goose shows: nothing in the sounds singles out a large waterbird, and other languages use unrelated forms such as nika in Ojibwe or oie in French. Because such correspondences must simply be memorised, they are stored in the lexicon as non-compositional. Free morphemes like goose, luck, and go, and affixes like -s, -ly, un-, and -er, all pattern this way.",
+     "zh": "一串声音或手势与意义之间的联系是任意的，语素 goose 就是例证：这些声音中没有任何部分单独指向这种长颈大型水鸟，而其他语言使用的是毫不相干的词形，如奥吉布瓦语的 nika、法语的 oie。正因这类音义对应关系只能靠记忆，它们才作为非组合性内容存入词库。goose、luck、go 这样的自由语素，以及 -s、-ly、un-、-er 这类词缀，都属于这种情况。"
+    },
+    {
+     "en": "Idioms likewise belong to the lexicon, since the meaning of over the moon cannot be assembled from over, the, and moon; in North American English it means being extremely happy. Idioms differ across communities, so piece of cake means 'easy' in North American English but not in Japanese. Non-compositional compounds like hotdog are stored for the same reason, whereas compositional compounds like dog leash are probably not.",
+     "zh": "习语同样属于词库，因为 over the moon 的意义无法由 over、the 和 moon 组装出来；在北美英语中它表示极其高兴。习语因社群而异：piece of cake 在北美英语中表示“容易”，用日语却说不出这个意思；日语使用 asameshi-mae，法语则用 les carottes sont cuites。出于同样的理由，hotdog 这类非组合性复合词被列入词库，而 dog leash 这样的组合性复合词很可能不列入。"
+    },
+    {
+     "en": "Any item with a lexical entry can be called a listeme, an umbrella term covering morphemes, idioms, and some compounds. Its entry records pronunciation such as /guws/, syntactic category such as noun, and the sense of the expression. Words like skater, unluckily, and reclassify are not listed, because their meanings follow predictably from their parts. Spelling and etymology are also left out, since five-year-olds converse accurately without either. Individual lexicons differ even inside one community, so a judgement reported here may not match every speaker's idiolect.",
+     "zh": "凡是在词库中有词条的单位都可称为词项，这一统称涵盖语素、习语和部分复合词。词条记录发音（如 /guws/）、句法类别（如名词）以及该表达的涵义。skater、unluckily、reclassify 这类词并不列入词库，因为其意义可以由 skate 与 -er、un-、luck、-y、-ly、re-、class、-ify 等部分预测出来。拼写和词源也不在词汇知识之列，因为五岁儿童并不了解这两者，却已能准确地交谈。即便在同一语言社群内部，各人的词库也存在差异，因此这里报告的判断未必符合每位说话者的个人方言。"
+    }
+   ]
+  },
+  "chapter-078-slug-7-5-lexical-meaning": {
+   "title": {
+    "en": "7.5 The nature of lexical meaning",
+    "zh": "7.5 词汇意义的本质"
+   },
+   "summary": {
+    "en": "The nature of lexical meaning remains debated. One approach treats a word's sense as a definition separate from concepts, listing necessary and sufficient conditions, while another identifies the meaning with the concept itself, sometimes in a maximalist form. Prototype effects, fuzzy category boundaries, and experimental results all suggest that concepts are structured by prototypicality and that word meaning involves more than minimal conditions.",
+    "zh": "词汇意义的本质至今仍有争论。一种观点把词义视为独立于概念的“定义”，列出必要且充分的条件；另一种观点则把意义等同于概念本身，其中包括极端版本。原型效应、模糊的范畴边界以及实验结果都表明，概念按原型性组织起来，进入词义的远不只是最低限度的条件。"
+   },
+   "points": [
+    {
+     "en": "World knowledge belongs to general cognition, while lexical meaning concerns an expression's link to a group of concepts.",
+     "zh": "世界知识属于一般认知，而词汇意义关注的是语言表达与某一组概念之间的联系。"
+    },
+    {
+     "en": "A definition-based approach would list only necessary and sufficient conditions, such as a deer that is adult and female for doe.",
+     "zh": "定义式观点只列出必要且充分的条件，例如 doe 指成年且雌性的鹿。"
+    },
+    {
+     "en": "Category boundaries are fuzzy, as the cup and bowl task shows, so minimal conditions cannot fully account for meaning.",
+     "zh": "范畴边界是模糊的，杯子与碗的分类任务即为例证，因此最低条件无法充分解释意义。"
+    },
+    {
+     "en": "Conceptual Semantics holds that only phonology and syntax reside in the lexicon, with meaning supplied by conceptual representation.",
+     "zh": "概念语义学认为词库中只存放音系和句法信息，意义由概念表征提供。"
+    },
+    {
+     "en": "Prototype theory organises concepts around a central prototype, which explains why typical members come to mind first.",
+     "zh": "原型理论把概念围绕中心原型组织起来，这解释了为何典型成员最先被想起。"
+    },
+    {
+     "en": "Word meaning is shaped by lived experience, as studies of combat-related words with veterans who have PTSD indicate.",
+     "zh": "词义受到亲身经历的塑造，有关创伤后应激障碍退伍军人与战斗相关词语的研究即说明了这一点。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "world knowledge",
+     "zh": "世界知识",
+     "defEn": "The general cognition about the world that a person accumulates through life experience.",
+     "defZh": "个人在生活经历中积累起来的、关于世界的一般认知。"
+    },
+    {
+     "en": "concept",
+     "zh": "概念",
+     "defEn": "A building block of thought; an abstract understanding of what something is.",
+     "defZh": "思维的构成单位，即对某事物为何物的抽象理解。"
+    },
+    {
+     "en": "sense",
+     "zh": "涵义",
+     "defEn": "The lexical meaning of an expression, understood as its connection to a group of concepts.",
+     "defZh": "语言表达的词汇意义，即它与某一组概念之间的联系。"
+    },
+    {
+     "en": "necessary and sufficient conditions",
+     "zh": "必要且充分条件",
+     "defEn": "The minimal set of conditions that together define a category and separate it from others.",
+     "defZh": "共同界定某一范畴并将它与其他范畴区分开来的最小条件集合。"
+    },
+    {
+     "en": "prototype",
+     "zh": "原型",
+     "defEn": "A very central member of a category, around which the concept is organised.",
+     "defZh": "范畴中处于中心地位的成员，整个概念围绕它组织起来。"
+    },
+    {
+     "en": "Generative Lexicon Theory",
+     "zh": "生成词库理论",
+     "defEn": "An approach in which lexical meaning retrieves conceptual information such as purpose and origin.",
+     "defZh": "一种认为词汇意义会提取对象用途、来源等概念信息的理论。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "I drank the tea",
+     "noteEn": "A well-formed sentence used to contrast with the odd phrasing I drank the chair.",
+     "noteZh": "合乎语法的句子，用来与 I drank the chair 这类奇怪的搭配对照。"
+    },
+    {
+     "text": "I drank the chair",
+     "noteEn": "It sounds distinctly odd, showing that concepts about states of matter matter to grammar.",
+     "noteZh": "它听起来明显别扭，说明有关物质状态的概念会影响语法。"
+    },
+    {
+     "text": "the purpose of x is to seat one person",
+     "noteEn": "One item on the checklist of necessary and sufficient conditions for chair.",
+     "noteZh": "chair 的必要且充分条件清单中的一条。"
+    },
+    {
+     "text": "I started a meal",
+     "noteEn": "It can mean 'I started eating a meal' or 'I started preparing a meal.'",
+     "noteZh": "它既可表示“我开始吃饭”，也可表示“我开始做饭”。"
+    }
+   ],
+   "body": [
+    {
+     "en": "What lexical meaning is remains under debate, and the English word chair helps to see why. A language user knows much about chairs from experience, which is world knowledge and belongs to general cognition; the concept of chair is a subset of that knowledge. The expression chair is connected with a group of concepts, and that connection is what lexical meaning, or sense, is claimed to be.",
+     "zh": "词汇意义究竟是什么，至今仍有争论，英语词 chair 有助于看清其中的困难。语言使用者凭经验知道大量关于椅子的信息，这属于世界知识，是一般认知的一部分；而“椅子”这一概念只是这些知识的一个子集。语言表达 chair 与一组概念相连，词汇意义即所谓涵义，指的正是这种联系。"
+    },
+    {
+     "en": "If lexical meaning is separate from concepts, an entry would carry a definition alongside its phonology and syntax, as in earlier work by Katz and colleagues. Under this view only necessary and sufficient conditions would count, and x is a chair would entail a short checklist: the object seats one person, has a seat, and has a back. The conditions are necessary because each excludes wrong cases, and jointly sufficient because they are the minimum needed for the distinction.",
+     "zh": "如果词汇意义与概念彼此分离，那么词条除音系和句法信息外还会带有某种“定义”，Katz 及其同事的早期研究即采取这种做法。按此观点，只有必要且充分的条件才算词义，而命题“x 是椅子”所蕴涵的内容只是一份简短清单：该物体供一人就座、有座面、有靠背。这些条件之所以必要，是因为每一条都排除错误情形；合起来之所以充分，是因为它们已是区分椅子与非椅子的最少条件。"
+    },
+    {
+     "en": "Experiments suggest that category boundaries are not sharp, which limits this checklist approach. In the object-sorting task inspired by Labov, people agree readily that one item is a cup and another a bowl but hesitate over the middle ones, and their verdicts shift depending on what the object contains, such as mac and cheese. A competing theory holds that lexical meanings simply are concepts, and in its maximalist version, associated with Jackendoff's Conceptual Semantics, the meaning of chair is everything one knows about chairs, with only phonology and syntax in the lexicon.",
+     "zh": "实验表明范畴边界并不清晰，这就限制了清单式的解释。在受 Labov 启发的物体分类任务中，人们对某一个是杯子、另一个是碗容易达成一致，对中间几个却犹豫不决，判断还会随容器中所盛之物改变，例如里面是通心粉。与之竞争的理论认为词汇意义本身就是概念；其极端版本与 Jackendoff 的概念语义学相关联，主张 chair 的意义就是人们关于椅子所知道的一切，词库中本来只存放音系和句法信息。"
+    },
+    {
+     "en": "Neither approach explains prototype effects. People judging cup or bowl have intuitions about a typical cup, and when asked to imagine a chair most picture a prototypical one rather than an unusual one; asked to name bird species, speakers list robin and sparrow rather than penguin. Rosch's work suggests that concepts are organised by prototypicality, so the prototype sits at the conceptual core and less central facts lie farther out. Meaning is also shaped by lived experience and carries effects beyond literal content.",
+     "zh": "两种观点本身都无法解释原型效应。判断杯子还是碗的人对典型杯子有直觉；被要求想象一把椅子时，多数人想到的是原型椅子而非罕见的椅子；被要求列举鸟的种类时，说话者也倾向于说 robin、sparrow 而不是 penguin。Rosch 的研究表明概念按原型性组织，原型处于概念核心，不太中心的属性则距离较远。词义同样受到亲身经历的塑造，它所携带的影响远超字面内容。"
+    }
+   ]
+  }
+ }
+}

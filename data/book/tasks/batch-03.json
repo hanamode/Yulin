@@ -1,0 +1,13 @@
+{
+ "batch": 3,
+ "chapter": "Acknowledgements",
+ "out": "data/book/gen/batch-03.json",
+ "sections": [
+  {
+   "id": "front-matter-003-acknowledgements",
+   "title": "Acknowledgements",
+   "src": "data/book/src/front-matter-003-acknowledgements.txt",
+   "chars": 1776
+  }
+ ]
+}

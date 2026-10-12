@@ -1,0 +1,255 @@
+{
+ "batch": 3,
+ "entries": {
+  "implicature": {
+   "summaryEn": "Conversational implicature is a core concept introduced by Grice: meaning that a speaker conveys beyond the literal content of an utterance and that the hearer infers on the basis of the Cooperative Principle and the context. It is calculable, cancellable and non-detachable, and divides into generalized and particularized implicature. It remains the central topic of research on pragmatic inference.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Conversational implicature refers to the meaning that a speaker suggests by uttering a sentence without stating it literally; the hearer derives it from the Cooperative Principle, its maxims and shared background knowledge. Implicature differs from logical entailment: entailment follows necessarily from literal meaning and cannot be cancelled, whereas implicature is derived from context and communicative intention and can be explicitly denied by the speaker.",
+      "For example, if A asks “小李的论文写得怎么样？” (How is Xiao Li's thesis coming along?) and B answers “他的字很漂亮。” (His handwriting is beautiful), B speaks literally about calligraphy but in fact hints that the content of the thesis is poor. This meaning does not appear in the literal form, yet it is what the hearer naturally derives from the assumption that B is being cooperative—a typical conversational implicature."
+     ]
+    },
+    {
+     "hEn": "Classification",
+     "pEn": [
+      "Grice distinguishes two kinds of conversational implicature. A generalized conversational implicature is triggered by the conventional use of an expression without relying on a special context. The typical meaning of English some is 'some but not all': Some of the students passed usually suggests that not all of the students passed, and this meaning arises automatically in most contexts, requiring no special background.",
+      "A particularized conversational implicature, by contrast, depends entirely on the specific context. The same sentence “外面很冷” (It is cold outside) may suggest 'put on more clothes' when a guest is about to leave, or 'please close the window' when the host notices a window left open. There is also conventional implicature, which is triggered by the conventional meaning of particular words such as but, even or the Chinese “连……都” construction, and does not depend on the Cooperative Principle."
+     ]
+    },
+    {
+     "hEn": "Properties and Mechanism of Derivation",
+     "pEn": [
+      "Conversational implicature has several testable properties. Calculability means that the hearer can reconstruct the reasoning on the basis of the maxims and the context. Cancellability means that the implicature can be cancelled by adding a further remark to the original sentence, as in “一些学生通过了考试，事实上全部通过了” (Some students passed the exam; in fact all of them did), where the original implicature is explicitly cancelled. Non-detachability means that the implicature attaches to the content of the utterance rather than to particular words, so that it remains largely unchanged when a synonymous expression is substituted; implicature is further characterised as non-conventional and indeterminate.",
+      "The general pattern of derivation is this: the speaker has said p, apparently violating one of the maxims; but on the assumption that he is still cooperative, he may be taken to intend to convey q; and since the hearer has no reason to think that he is unwilling to cooperate, he does indeed intend to convey q. Take “甲：我的咖啡太淡了。乙：糖在厨房里” (A: My coffee is too weak. B: The sugar is in the kitchen). B's literal reply has no direct bearing on the weakness of the coffee, and the hearer infers from the maxim of Relation that B is suggesting that A should add sugar himself."
+     ]
+    },
+    {
+     "hEn": "Theoretical Significance and Controversies",
+     "pEn": [
+      "Conversational implicature reveals the systematic gap between semantic content and speaker meaning. It provides a basis for the division of labour between semantics and pragmatics and is widely used to analyse metaphor, irony, euphemism, advertising language and literary dialogue. It also shows that grammar cannot describe truth conditions alone but must account for the inferences involved in language use, and it has therefore deeply influenced pragmatics, discourse analysis and cognitive linguistics.",
+      "Controversy centres on two points. First, neo-Griceans such as Horn and Levinson argue that generalized conversational implicatures can be derived by default from principles of Quantity, Informativeness and Manner, without invoking the Cooperative Principle case by case. Second, relevance theory holds that the four maxims are unnecessary, since all implicatures can be explained uniformly by a single principle of relevance, and stresses the cognitive economy of derivation. In addition, whether implicature belongs to speaker meaning or to hearer inference remains a matter of continuing debate."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "conversational implicature", "dEn": "Meaning a speaker conveys beyond literal content and the hearer infers from the Cooperative Principle and context."},
+    {"tEn": "generalized conversational implicature", "dEn": "Implicature triggered automatically by the conventional use of an expression without a special context, as when some suggests 'not all'."},
+    {"tEn": "particularized conversational implicature", "dEn": "Implicature derivable only from a specific context, as when “外面很冷” suggests closing the window or adding clothes."},
+    {"tEn": "cancellability", "dEn": "The property by which an implicature can be cancelled by a further remark or a change of context, unlike entailment."},
+    {"tEn": "conventional implicature", "dEn": "Implicature triggered by the conventional meaning of words such as but, even or “连……都”, independent of the Cooperative Principle."}
+   ]
+  },
+  "constituent": {
+   "summaryEn": "A constituent is a unit that functions as a whole in syntactic structure, and may be either a single word or a phrase made up of several words. Established by immediate constituent analysis and generative grammar, it is the basic unit for describing the hierarchical structure of sentences, for identifying structural ambiguity and for drawing syntactic trees.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "A constituent is a linguistic unit that functions as a whole within syntactic structure; it may be a single word or a phrase formed from several words according to particular rules. The defining property of a constituent is its integrity: in syntactic operations it is always treated as an indivisible unit that can be moved, replaced or omitted. For example, 「那个戴眼镜的老师」 (that teacher who wears glasses) functions as a whole as the object in 「我看见那个戴眼镜的老师」 (I saw that teacher who wears glasses), and its internal words cannot each enter into a direct verb–object relation with 「看见」.",
+      "Constituents are hierarchically organised. A sentence is not a linear sequence of words but is built up from constituents nested layer by layer. A constituent may be divided internally into smaller constituents: in 「很喜欢古典音乐」, for instance, 「很喜欢古典音乐」 is the predicate constituent, and 「古典音乐」 is the object constituent within it. Such hierarchical relations are usually represented by bracketing or by a syntactic tree, so the notion of constituency is the cornerstone of the hierarchical description of syntax."
+     ]
+    },
+    {
+     "hEn": "Tests for Constituency",
+     "pEn": [
+      "The most common way of deciding whether a string of words is a constituent is the substitution test: if the string can be replaced as a whole by a single word (such as the pronoun 「他、它、那里」) without altering the basic structure, it may be regarded as a constituent. In the Chinese sentence 「我昨天在图书馆遇见了老同学」, for example, 「老同学」 can be replaced by 「他」. Next comes the movement test: a string that can be moved as a whole to the front or to the end of the sentence is usually a constituent, as in 「在图书馆，我昨天遇见了老同学」.",
+      "There are also the ellipsis test and the coordination test: a string that can be omitted as a whole while the remainder is still well formed is a constituent, and a string that can be coordinated with a constituent of the same kind is likewise a constituent, as in 「他买了菜和做了饭」, where two verb phrases are coordinated. It should be noted that the various tests do not always yield consistent results, which shows that constituent status is a matter of degree; scholars have therefore proposed the notion of 'degree of constituency' to capture differences in the integrity of different strings."
+     ]
+    },
+    {
+     "hEn": "Types and Levels of Constituents",
+     "pEn": [
+      "In terms of internal structure, constituents may be divided into words and phrases; in terms of syntactic function, into subjects, predicates, objects, attributives, adverbials, complements and so on; and in terms of categorial nature, into noun phrases (NP), verb phrases (VP), prepositional phrases (PP), clauses (CP) and the like. In Chinese, the 「的」 construction, the 「把」 construction and the 「被」 construction may all be regarded as phrasal constituents of particular forms.",
+      "Constituents are further distinguished as immediate and non-immediate. Immediate constituents are the two or more parts that combine directly at the same level, as 「我的」 and 「书」 are the immediate constituents of 「我的书」. On this basis American structuralism developed immediate constituent analysis, which bisects a sentence layer by layer, and this became an important starting point for modern syntactic description."
+     ]
+    },
+    {
+     "hEn": "Sample Analysis",
+     "pEn": [
+      "The English sentence The boy hit the ball may first be divided into the two immediate constituents [The boy] and [hit the ball], the latter being divided further into [hit] and [the ball]. The Chinese sentence 「张三用锤子打破了窗户」 may be divided into [张三] and [用锤子打破了窗户], the latter into [用锤子] and [打破了窗户], and this again into [打破] and [了窗户]; the process of division displays relations of modification, government and complementation.",
+      "Constituent analysis can also reveal structural ambiguity. The English phrase old men and women has two possible bracketings: [[old men] and women], meaning 'elderly men and women', and [old [men and women]], meaning 'old men and old women'; the difference in meaning arises precisely from different constituent boundaries. The Chinese 「咬死了猎人的狗」 likewise has two readings, 「咬死了／猎人的狗」 and 「咬死了猎人的／狗」, depending on how the constituents are divided."
+     ]
+    },
+    {
+     "hEn": "Theoretical Development and Controversies",
+     "pEn": [
+      "Immediate constituent analysis was systematised by the Bloomfieldian school, but its binary procedure handles coordination and discontinuous constituents poorly. Generative grammar replaced mere division with phrase structure rules and X-bar theory, holding that every phrase has a head and explaining apparent discontinuities by movement. Dependency grammar dispenses with phrasal constituents altogether, recognising only dependency relations between words.",
+      "Controversy centres on the psychological reality of constituents and on how their boundaries are determined. Click-detection and reaction-time experiments in psycholinguistics show that subjects tend to segment sentences at constituent boundaries, which provides evidence for the processing reality of constituents; construction grammar and usage-based models, by contrast, stress that constituent boundaries are gradient and shaped by frequency of use, and should not be treated as discrete, a priori units."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "immediate constituent", "dEn": "A constituent that combines directly at the same level with another to form a larger unit."},
+    {"tEn": "substitution test", "dEn": "A procedure that replaces a string with a pronoun or single word to check whether it functions as a constituent."},
+    {"tEn": "phrase structure rule", "dEn": "A rewrite rule describing how categories combine, such as NP → Det + N or VP → V + NP."},
+    {"tEn": "structural ambiguity", "dEn": "Grammatical ambiguity in which one string has two or more meanings because of different constituent divisions or levels."},
+    {"tEn": "head", "dEn": "The core constituent determining a phrase's grammatical properties and function, as the noun in a noun phrase."},
+    {"tEn": "constituency", "dEn": "The degree to which a string participates as a whole in syntactic operations, a gradient rather than absolute property."}
+   ]
+  },
+  "syntactic-tree": {
+   "summaryEn": "A syntactic tree is a descriptive tool that represents the hierarchical structure of a sentence as a tree diagram, in which nodes stand for words, morphemes or phrase categories and connecting lines express the immediate composition relations between constituents. It makes the hierarchy and recursiveness of syntax visible and is a central device of generative grammar, dependency grammar and related theories.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Basic Composition",
+     "pEn": [
+      "A syntactic tree, also called a tree diagram, is a hierarchical graph composed of nodes and edges that represents the composition relations among syntactic units. The root node stands for the whole sentence or the largest phrase, the leaf nodes stand for individual words or morphemes, and the intermediate nodes stand for phrase categories such as NP, VP, PP and CP. Moving upward from the leaves to the root yields the hierarchical structure of the sentence.",
+      "Tree diagrams observe several formal constraints: there is only one root node; every node other than the root has exactly one mother node; and the lines between nodes must not cross, that is, one constituent may not be 'cut through' by another. On this basis a constituent can be redefined as the set of all leaf nodes dominated by any node in the tree, and the syntactic tree thus becomes the formal expression of the notion of constituency."
+     ]
+    },
+    {
+     "hEn": "Structural Terms and Relations",
+     "pEn": [
+      "The basic relations in a tree include dominance, whereby a higher node governs lower nodes; mother and daughter nodes express immediate dominance; sister nodes are two nodes sharing the same mother; and c-command holds where node A does not dominate node B and the first branching node dominating A also dominates B. C-command is used in binding theory to explain the distribution of pronouns and reflexives: in the English sentence The child hurt himself, himself is c-commanded by the subject The child.",
+      "Taking the English sentence The child found the key as an example, S dominates NP and VP, VP dominates V and NP, and the second NP in turn dominates a determiner and a noun. The structure of the Chinese sentence 「那只猫吃了鱼」 may be written as [CP [TP [NP 那只猫] [VP [V 吃了] [NP 鱼]]]], in which each left bracket corresponds to one node, so that the hierarchy is immediately apparent."
+     ]
+    },
+    {
+     "hEn": "Methods of Drawing and Types",
+     "pEn": [
+      "Drawing a syntactic tree usually begins with identifying the word classes and phrase categories and then combining them bottom-up in accordance with phrase structure rules. The traditional procedure uses rewrite rules such as S → NP VP, NP → Det N and VP → V NP. Modern generative grammar largely adopts the X-bar schema, distinguishing specifier (Spec), head (X⁰) and complement and allowing adjuncts to recur, thereby capturing the recursiveness of modifiers.",
+      "Parallel to the phrase structure tree is the dependency tree, whose nodes are simply words and whose edges represent dependency relations between words and are labelled with relation types; a verb may serve as the root, for instance, with subject and object attaching to it. Dependency trees are widely used in computational linguistics for treebank annotation, as in Universal Dependencies, whereas phrase structure trees are found in resources such as the Penn Treebank."
+     ]
+    },
+    {
+     "hEn": "Status in Linguistic Theory and Criticism",
+     "pEn": [
+      "In generative grammar the syntactic tree carries the transformational information of deep structure and surface structure, and X-bar theory uses a unified schema to explain cross-categorial parallelism. In lexical functional grammar and head-driven phrase structure grammar, trees work together with feature structures to capture agreement, case and valency information. Functional grammar and construction grammar do not reject tree diagrams, but they insist that hierarchy derives from communicative function and constructional networks rather than from purely formal computation.",
+      "Criticism holds that tree diagrams freeze a continuous, dynamic speech process into a static object, and may obscure the motivations for word-order change and the gradualness of language processing; moreover, different theories often assign different trees to the same sentence, which shows that a syntactic tree is not a single objectively correct fact but a descriptive tool relative to particular theoretical assumptions, its value depending on the explanatory and predictive power of the theory itself."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "node", "dEn": "A position in a tree diagram for a word, morpheme or phrase category; root, intermediate or leaf."},
+    {"tEn": "dominance", "dEn": "The relation in which a higher node in a tree governs lower nodes; direct dominance is the mother–daughter relation."},
+    {"tEn": "c-command", "dEn": "Relation where node A does not dominate B and the first branching node dominating A also dominates B."},
+    {"tEn": "phrase structure rule", "dEn": "A rewrite rule of the form VP → V NP that specifies possible combinations of categories."},
+    {"tEn": "dependency tree", "dEn": "A tree whose nodes are words and whose edges are dependency relations between a head and its dependents."},
+    {"tEn": "X-bar theory", "dEn": "A theoretical schema describing all phrase types uniformly in terms of head, complement and specifier levels."}
+   ]
+  },
+  "cooperative-principle": {
+   "summaryEn": "The Cooperative Principle, proposed by Grice, is the general norm that participants in a conversation are assumed to observe so that communication can proceed, made specific in the four maxims of Quantity, Quality, Relation and Manner. A speaker's deliberate violation or open exploitation of these maxims is precisely the mechanism by which conversational implicature arises, and the principle is therefore a cornerstone of the theory of pragmatic inference.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "The Cooperative Principle (CP) is a theory of conversation put forward by the American philosopher Grice in lectures in 1967 and published in 1975. It is stated as follows: make your conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged. In plain terms, both parties to a conversation assume that each is working towards effective communication rather than talking at random, answering irrelevantly or being deliberately obscure.",
+      "The Cooperative Principle is not a moral requirement, nor a rule that speakers must obey, but a descriptive generalisation about the rational behaviour of communicators. It is precisely on the basis of this assumption that the hearer infers that the speaker 'means something more than he says'; and it is precisely by exploiting this assumption that the speaker conveys information beyond the literal meaning through deliberately violating one of the maxims."
+     ]
+    },
+    {
+     "hEn": "The Four Maxims",
+     "pEn": [
+      "Grice specified the Cooperative Principle as four maxims with their sub-maxims. The maxim of Quantity requires one to give exactly as much information as is required, no more and no less; the maxim of Quality requires one not to say what one believes to be false or for which one lacks evidence; the maxim of Relation requires one's contribution to be relevant to the current topic; and the maxim of Manner requires one to be clear and perspicuous, avoiding obscurity, ambiguity and prolixity, and to proceed in an orderly fashion. Other factors such as politeness are also involved but are not listed separately.",
+      "Each maxim may be violated, but the manner of violation differs and so do the consequences. A speaker may quietly violate the maxim of Quality and tell a lie; may violate the maxim of Quantity in order to observe politeness; or may openly and deliberately flout a maxim, so that the hearer notices it and infers the intended meaning from it. Only this last, open kind of violation gives rise to conversational implicature."
+     ]
+    },
+    {
+     "hEn": "Violation and Exploitation: Examples",
+     "pEn": [
+      "The classic example of violating the maxim of Quantity is the letter of recommendation: a professor writing on behalf of an applicant for a post in philosophy says only “他的英文书写很规范，而且每次课都准时出席” (His English handwriting is very neat, and he attended every class punctually). The information given is obviously insufficient, and the letter says nothing about the applicant's philosophical ability; the hearer, the hiring committee, infers from the maxim of Quantity that the speaker is in fact suggesting that the student's philosophical level is poor.",
+      "An example of exploiting the maxim of Relation is this: A asks “今晚去看电影吗？” (Shall we go to the cinema tonight?) and B answers “我明天有考试。” (I have an exam tomorrow). B's reply is on the face of it irrelevant, but the hearer, assuming that B is still being cooperative, infers that B cannot go because he has to revise. Similarly, when a teacher says “这孩子真会写字” in an exaggerated tone, the remark may be irony violating the maxim of Quality; and “别问了，你都对” may be an expression violating the maxim of Manner or Quantity. In each case the intended meaning must be recovered by pragmatic inference."
+     ]
+    },
+    {
+     "hEn": "Controversies and Developments",
+     "pEn": [
+      "There are three main criticisms of the Cooperative Principle. First, the maxim of Relation is too vague: it can explain almost anything yet can hardly predict the actual process of comprehension. Sperber and Wilson therefore developed relevance theory, replacing the four maxims with maximal and optimal relevance in cognition. Second, the principle is grounded in Western, especially Anglo-American, conversational norms; cross-cultural research shows that cultures differ in their expectations about silence, directness and informativeness, and Brown and Levinson supplemented it with face and politeness strategies to cover aspects that the maxims leave untouched.",
+      "Third, Leech proposed the Politeness Principle as a complement to the Cooperative Principle, arguing that politeness frequently overrides cooperation and that the two together explain indirect expression. Nevertheless, the Cooperative Principle remains a central tool of pragmatics and is widely used to analyse conversational implicature, irony, metaphor and humour as well as real data such as courtroom conversation and doctor–patient dialogue."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Cooperative Principle", "dEn": "The general norm that conversational participants jointly observe for communication to proceed, formally proposed by Grice in 1975."},
+    {"tEn": "maxim of Quantity", "dEn": "A conversational maxim requiring one to give exactly the amount of information that is needed, no more and no less."},
+    {"tEn": "maxim of Quality", "dEn": "A conversational maxim requiring one not to say what one believes false or lacks evidence for."},
+    {"tEn": "maxim of Relation", "dEn": "A conversational maxim requiring one's contribution to be relevant to the current topic and purpose."},
+    {"tEn": "maxim of Manner", "dEn": "A conversational maxim requiring clear, brief and orderly expression, avoiding obscurity and ambiguity."},
+    {"tEn": "flouting a maxim", "dEn": "Openly and deliberately violating a maxim so that the hearer notices and infers a conversational implicature."}
+   ]
+  },
+  "deixis": {
+   "summaryEn": "Deixis refers to expressions whose meaning varies with context and whose reference can be determined only by reference to the speech situation—speaker, addressee, time and place of utterance. Person, temporal, spatial, social and discourse deixis form its main types, while the deictic centre, or egocentricity, and the shifting of that centre are the core issues in the study of deixis.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Deixis (from Greek deiktikos, 'pointing') refers to those expressions in a language whose reference cannot be determined apart from the concrete speech situation. Any element whose semantics encodes contextual information of the kind 'who is speaking, to whom, when and where' counts as deictic. Its fundamental difference from ordinary reference is this: an ordinary noun phrase determines its reference by descriptive content, whereas a deictic expression determines its reference by the situational coordinates of the moment of speaking, so that the same form may designate quite different objects in different contexts.",
+      "In the Chinese sentence “我明天在这儿等你”, for example, 我, 明天, 这儿 and 你 can only be interpreted by reference to the speaker, the time of speaking and the place of speaking. The same holds for English I, you, here, now, this, there and yesterday. As speakers change, the reference of deictic expressions changes with them, and this context-dependent property is called the egocentricity of deixis."
+     ]
+    },
+    {
+     "hEn": "Main Types",
+     "pEn": [
+      "Five types of deixis are usually distinguished. Person deixis takes the speaker as the first-person origo, as in Chinese 我／你／他 and English I／you／he. Temporal deixis takes the time of speaking as its origo, as in 今天／昨天／明天 and English now, then and tomorrow, and also in verbal tense (the past tense in English He went refers to a time earlier than the moment of speaking). Spatial deixis takes the place of speaking as its origo, as in 这里／那里, English here／there and come／go, and the three-term proximal–medial–distal system of Japanese これ／それ／あれ.",
+      "Social deixis encodes the social relationship between speaker and addressee, as in French tu／vous, German du／Sie, the Japanese honorific system and Chinese 您／你; which form is chosen depends on familiarity, status and situation. Discourse deixis uses deictic forms to refer to elements in the surrounding text, as in “如上所述”, “下一段” and “后者”, and the use of such forms to refer back to earlier text is called anaphora."
+     ]
+    },
+    {
+     "hEn": "Deictic Centre and Deictic Projection",
+     "pEn": [
+      "The point of reference for deixis is called the deictic centre, or origo, and is constituted by the speaker, the time of speaking and the place of speaking. In cognitive grammar the speaker, the present moment and the present place are represented as I-here-now, the anchor of the whole deictic system. The deictic centre is not fixed: in narrative and reported speech it may shift or be projected, so that readers understand here and now as the time and place within the story, following the protagonist's viewpoint.",
+      "In “小明走进房间。这里很暗，他昨天才搬来”, for instance, the narrator has projected the deictic centre onto Xiao Ming. On the telephone, when one speaker says “我马上过来” and the other replies “我这就出去”, each takes his own location as the origo for 来／去, a typical manifestation of the spatial deictic centre shifting as speakers alternate."
+     ]
+    },
+    {
+     "hEn": "Research Methods and Theoretical Significance",
+     "pEn": [
+      "Research on deixis commonly uses the substitution method: holding the contextual elements constant and varying the deictic expression, one observes changes in truth conditions or conditions of appropriateness. Natural data and corpus statistics are also used to examine the frequency of deictic words in different genres, while psychological experiments measure the order in which children acquire 我／你 and here／there, finding that the mastery of deixis depends on the development of perspective-taking ability.",
+      "Deixis lies at the interface of pragmatics and semantics, and it shows that the meaning of natural language cannot be fully formalised apart from context. Levinson points out that deixis reflects the structural dependence of linguistic structure on context and is the most direct evidence that 'context is encoded in language'; it is also an important field for the study of grammaticalisation, since many deictic words derive historically from locative nouns or verbs."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "deixis", "dEn": "A linguistic expression whose meaning depends on the speech situation, including person, temporal, spatial, social and discourse deixis."},
+    {"tEn": "deictic centre", "dEn": "The point of reference for deixis, normally the speaker, time and place of speaking; also called the origo."},
+    {"tEn": "egocentricity", "dEn": "The property whereby the deictic system is anchored to the speaker, so that reference shifts as speakers alternate."},
+    {"tEn": "anaphora", "dEn": "Reference by a pronoun or demonstrative to an element already mentioned, as 他 in “小明来了，他很高兴”."},
+    {"tEn": "deictic projection", "dEn": "Shifting the deictic centre from the speech situation to another person or story world in narrative or quotation."}
+   ]
+  },
+  "minimal-pair": {
+   "summaryEn": "A minimal pair is a pair of words that differ in meaning and are identical in phonological environment except for one segment, one distinctive feature or one tone. It is the most basic and reliable test in phonological analysis, serving to establish phonemic contrast, to determine the number of phonemes and to describe distinctive features, and it is widely used in pronunciation teaching and language testing.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "A minimal pair, also called a minimal contrast pair, is a pair of words that differ phonologically in only one segment (or in one distinctive feature of a segment, or in one suprasegmental element) and that also differ in meaning. It manifests the phonological relation of contrast: sounds that can form a minimal pair necessarily belong to different phonemes.",
+      "In English, for example, pit [pɪt] ('pit') and bit [bɪt] ('a bit') differ only in their initial consonant and form a minimal pair, showing that English has two phonemes /p/ and /b/; sit [sɪt] and set [set] show the contrast between /ɪ/ and /e/; and ship [ʃɪp] ('ship') and sheep [ʃiːp] ('sheep') show the contrast between /ɪ/ and /iː/. In Standard Chinese, 爸 [pa⁵¹] and 怕 [pʰa⁵¹] show the contrast between /p/ and /pʰ/, while 妈 [ma⁵⁵] and 马 [ma²¹⁴] show that tone too can form a minimal pair."
+     ]
+    },
+    {
+     "hEn": "Procedure",
+     "pEn": [
+      "Establishing a minimal pair normally proceeds as follows. A set of phonetically similar sounds is selected and placed in the same phonological frame to form two words differing at only one point; native speakers are then asked to judge whether the two words differ in meaning. If they do, the difference is distinctive and the two sounds belong to different phonemes; if the meanings are the same or no words can be formed, the difference is not distinctive and the sounds tend to be treated as variants of one another.",
+      "To rule out accidental factors, researchers often construct a minimal set: three or more words in the same frame differing only in the target sound, as in English bat, bet, bit, but, boat and boot, which display the contrastive pattern of the vowel system. If no strict minimal pair can be found, one may fall back on a near minimal pair, that is, a comparison in which the target sounds are placed in the most similar phonological environments available, a procedure especially common in the description of low-resource languages."
+     ]
+    },
+    {
+     "hEn": "Applications",
+     "pEn": [
+      "In phonology the minimal pair is the primary tool for establishing the phoneme inventory and the empirical basis for testing hypotheses of distinctive feature theory. If two sounds form a systematic set of contrasts on one feature, that feature can be confirmed as distinctive. The procedure is also used to examine suprasegmental features: in English the noun record [ˈrekɔːd] and the verb record [rɪˈkɔːd] form a minimal pair distinguished by stress.",
+      "In language teaching, minimal-pair drills are a classic means of correcting pronunciation and training auditory discrimination, as when Chinese speakers are taught to distinguish English /l/ and /r/ (light–right) or /n/ and /ŋ/ (sin–sing), and Japanese speakers to distinguish /l/ and /r/ (lice–rice). In psycholinguistic and speech perception experiments, minimal pairs are often used as stimulus materials to test listeners' phoneme categorisation; in fieldwork and linguistic typology they are a standard procedure for recording a phonological system."
+     ]
+    },
+    {
+     "hEn": "Limitations and Controversies",
+     "pEn": [
+      "Although the minimal pair is widely used, it is not the only criterion for phonemic status. First, strict minimal pairs are hard to find in many languages, especially those with restricted phonotactics or complex morphology; second, a lexical gap does not mean that no phonemic contrast exists, only that no ready-made word example is available. Researchers must therefore combine evidence from complementary distribution, parallel distribution, free variation and native-speaker judgements.",
+      "Moreover, a minimal pair can only prove that a contrast exists, not that it does not; when the lexicon is limited or the data collected are insufficient, conclusions are relative. Generative phonology is more concerned with underlying forms and rules, so contrast analysis has lost some of its standing; yet as an operable and repeatable empirical method, the minimal pair remains to this day the starting point of phonological description and a basic tool of pronunciation teaching."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "minimal pair", "dEn": "Two words differing in meaning and in only one phonological respect, used to demonstrate phonemic contrast."},
+    {"tEn": "contrast", "dEn": "The relation in which two units occur in the same environment and make a difference in meaning."},
+    {"tEn": "distinctive feature", "dEn": "A binary phonological property on which phonemic contrasts rest, testable by means of minimal pairs."},
+    {"tEn": "minimal set", "dEn": "A contrastive set of three or more words in the same phonological frame differing only in the target sound."},
+    {"tEn": "complementary distribution", "dEn": "The relation in which two sounds occur in non-overlapping environments, usually taken as evidence that they are allophones."}
+   ]
+  }
+ }
+}

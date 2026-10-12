@@ -1,0 +1,25 @@
+{
+ "batch": 30,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-30.json",
+ "sections": [
+  {
+   "id": "chapter-060-embedded-content-questions",
+   "title": "6.9 Embedded content questions and relative clauses",
+   "src": "data/book/src/chapter-060-embedded-content-questions.txt",
+   "chars": 12299
+  },
+  {
+   "id": "chapter-061-arguments-and-thematic-roles",
+   "title": "6.10 Arguments and thematic roles",
+   "src": "data/book/src/chapter-061-arguments-and-thematic-roles.txt",
+   "chars": 7828
+  },
+  {
+   "id": "chapter-062-adding-or-removing-arguments-causatives-and-passives",
+   "title": "6.11 Changing argument structure: Causatives and passives",
+   "src": "data/book/src/chapter-062-adding-or-removing-arguments-causatives-and-passives.txt",
+   "chars": 7542
+  }
+ ]
+}

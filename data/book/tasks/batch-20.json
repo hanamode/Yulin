@@ -1,0 +1,25 @@
+{
+ "batch": 20,
+ "chapter": "Chapter 4: Phonology",
+ "out": "data/book/gen/batch-20.json",
+ "sections": [
+  {
+   "id": "chapter-035-slug-4-6-another-example-of-phonemic-analysis",
+   "title": "4.6 Another example of phonemic analysis",
+   "src": "data/book/src/chapter-035-slug-4-6-another-example-of-phonemic-analysis.txt",
+   "chars": 9176
+  },
+  {
+   "id": "chapter-036-slug-4-7-phonological-rules",
+   "title": "4.7 Phonological rules",
+   "src": "data/book/src/chapter-036-slug-4-7-phonological-rules.txt",
+   "chars": 11401
+  },
+  {
+   "id": "chapter-037-slug-4-8-phonological-derivations",
+   "title": "4.8 Phonological derivations",
+   "src": "data/book/src/chapter-037-slug-4-8-phonological-derivations.txt",
+   "chars": 3685
+  }
+ ]
+}

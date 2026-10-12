@@ -1,0 +1,136 @@
+# A1.7 Draw a Tree Step-by-Step
+
+Here are some step-by-step instructions on how to analyze sentences and then draw a tree of them. Notice that before you start drawing, you should analyze the structure of the sentence! You are much more likely to draw it correctly that way.
+
+## Step One: Identify the main verb.
+
+Don’t get distracted by auxiliary verbs! In the sentences in (1), the main verbs are bolded. Notice that in (1a), have is a main verb, while in (1d), (1e), and (1f), it is an auxiliary verb.
+
+[表格]
+| | | (1) | | a. | | I | have | a green spaceship. | | | | | | b. | | I | think | that aliens | exist. | | | | | | | c. | | That aliens | exist surprised | my sister. | | | | | | d. | | You have | seen | an alien with a telescope. | | | | | | e. | | Have you | seen | an alien? | | | | | | f. | | What have you | seen | ? | | |
+
+## Step two. Find the subject of each verb.
+
+The subject will usually be right before the verb in English (or the auxiliary verb), it will trigger subject-verb agreement, and it is often the one doing the action (but not always). You can stick a question word (who or what) before the verb, and the answer to the question will be the subject. For example, who has a green spaceship? I do. Or What surprised my sister? That aliens exist.
+
+[表格]
+| | | (2) | | a. | | I | have | a green spaceship. | | The subject of | have | is | I. | | | | | | | b. | | I | think | that aliens | exist. | | | The subject of | think | is | I | , and the subject of | exist | is | aliens | . | | | | | | c. | | That aliens | exist surprised | my sister. | | The subject of | exist | is | aliens, | and the subject of | surprised | is | that aliens exist | . | | | | | | d. | | You have | seen | an alien with a telescope. | | The subject of | (have) seen | is | you | . | | | | | | e. | | Have you | seen | an alien? | | The subject of | (have) seen | is | you | . | | | | | | f. | | What have you | seen | ? | | The subject of | (have) seen | is | you | . | | |
+
+## Step three. Identify the clauses of the sentence.
+
+There will be one clause for each main verb (but not auxiliary!). I have put brackets around each clause in (3). Notice that main clauses include the embedded clauses. Embedded clauses can be the object of the verb, as in (3b), or the subject of the verb, as in (3c).
+
+[表格]
+| | | (3) | | a. | | [I | have | a green spaceship]. | | | | | | b. | | [I | think | [[that aliens exist]. | | | | | | c. | | [[That aliens | exist | ] | surprised | my sister]. | | | | | | d. | | [You have | seen | an alien with a telescope]. | | | | | | e. | | [Have you | seen | an alien]? | | | | | | f. | | [What have you | seen | ]? | | |
+
+## Step four. Classify each clause.
+
+For each clause, identify whether it is question or a statement. If it is question, identify whether it is a yes-no question or a content question. If it is a content question, figure out where the question word started before movement.
+You can figure out where the question word started out by saying the echo question: You have seen WHAT? or by answering the question and looking at where the answer goes: What have you seen? I have seen an alien.
+
+[表格]
+| | | (4) | | a. | | [I | have | a green spaceship]. | | This is a statement. | | | | | | b. | | [I | think | [[that aliens exist]. | | The main clause is a statement and the embedded object clause is a statement. | | | | | | c. | | [[That aliens | exist | ] | surprised | my sister]. | | The main clause is a statement and the embedded subject clause is a statement | | | | | | d. | | [You have | seen | an alien with a telescope]. | | This is a statement. | | | | | | e. | | [Have you | seen | an alien]? | | This is a yes-no question. | | | | | | f. | | [What have you | seen | ]? | | This is a content question. The | wh | -phrase started in object position. | | |
+
+## Step five. Identify the modifiers.
+
+Identify the modifiers, such as adjectives and prepositional phrases. Figure out what they modify. Watch for ambiguity! Maybe it is possible that they can attach to more than one thing.
+In our set of six sentences, there are two modifiers, green in the (a) sentence and with a telescope in the (d) sentence. Green modifies spaceship. But with a telescope is ambiguous! It can modify an alien or seen. You can use constituency tests to see the two different meanings. For example, in (5), the two different meanings are illustrated with the movement test.
+
+[表格]
+| | | (5) | | a. | | It is [an alien with a telescope] that you have seen. | | | | | | b. | | It is [an alien] that you have seen [with a telescope]. | | |
+
+In (5a), an alien with a telescope is a constituent. This means that with a telescope modifies alien and is sister to alien (according to the Principle of Modification). This constituency structure derives the meaning that the alien has the telescope.
+In (5b), an alien is a constituent that does not include with a telescope. This means that with a telescope does not modify alien; instead it modifies the verb and is sister to the verb. This constituency structure derives the meanings that the telescope was used for the act of seeing.
+
+## Step six. Draw the spine of the clause.
+
+Start at the top of the page with an S. Draw two to four branches down from the S—one for the subject, one each for the auxiliary or negation if they are there, and one for the VP. Now draw one or two branches down from the VP—one for the V head and a second one for the object if there is an object.
+
+[图片：template-main-clause-300x247.png]
+
+Figure A1.22: The spine for a declarative main clause
+If it is a question, also put a CP on top of the TP.
+
+[图片：question-template-300x185.png]
+
+Figure A1.23: The spine for a main clause question
+If there is an embedded clause in your sentence, check again if it is a subject clause or an object clause. If it is a subject clause, put it under the far left branch under the S, instead of a subject NP. If it is an object clause, put it under the right branch under VP, instead of an object. Draw the spine of the embedded clause, starting at CP, with the C head on the left as either that or null. Under the CP, draw an S that contains an NP and a VP, just like you did with the main clause.
+
+[图片：template-subject-clause-300x208.png]
+
+Figure A1.24: The spine for a sentence with an embedded subject clause
+
+[图片：template-object-clause-300x240.png]
+
+Figure A1.25: The spine for a sentence with an embedded object clause
+
+## Step seven. Fill in the subjects, objects, and modifiers.
+
+Draw the subject and object NPs in the subject and object positions. If there are no modifiers, an NP will usually be two branches, one for the determiner and one for the head noun. If there are modifiers, add as many extra branches as you need.
+
+[图片：i-have-a-green-spaceship-300x258.png]
+
+Figure A1.26: Tree diagram of “I have a green spaceship”
+
+[图片：I-think-that-aliens-exist-257x300.png]
+
+Figure A1.27: Tree diagram of “I think that aliens exist”
+
+[图片：that-aliens-exist-surprised-my-sister-300x222.png]
+
+Figure A1.28: Tree diagram of “That aliens exist surprised my sister.”
+If there are any modifiers for the verb (such as a PP or an adverb), add branches to the VP as needed. In English, adverbs can go to the left or right of the verb head, but PPs always go to the right.
+Remember again to watch out for ambiguity! Watch out especially for constituents at the end of the sentence. They might attach to the VP or they might attach to the object. If there are two clauses, they might also attach to either the main clause or the embedded clause! Use your constituency tests to figure it out or use the meaning to determine which part of the sentence it modifies.
+
+[图片：you-have-seen-an-alien-with-a-telescope-VP-attachment-300x175.png]
+
+Figure A1.29: Tree diagram of “You have seen an alien with a telescope” where “with a telescope” modifies the verb. This structure means that you used the telescope to see the alien.
+
+[图片：you-have-seen-an-alien-with-a-telescope-NP-attachment-300x207.png]
+
+Figure A1.30: Tree diagram of “You have seen an alien with a telescope” where “with a telescope” modifies “alien.” This structure means that the alien has a telescope.
+If one of the NPs or PPs is particularly complex, like in (6), break it down into smaller pieces, and do one piece at a time.
+
+[表格]
+| | | (6) | | The outlandish lady with the purple purse from Wal-Mart on her elegant arm | | |
+
+First, identify the head. Is this NP as a whole identifying a lady, a purse or an arm? It is identifying a lady, so lady is the head of the phrase. Which adjectives and PPs modify lady? The adjective outlandish and the PP with the purple purse from Wal-Mart on her elegant arm both modify lady. So we can draw an NP with four branches: one for the determiner the, one for the adjective outlandish, one for the head N lady, and one for the very long PP.
+Next you can repeat the steps with the PP. The PP with the purple purse from Wal-Mart on her elegant arm begins with the P with and contains an NP headed by purse. So under the PP, you can draw two lines, one for the P with and one for the long NP. Next, ask what modifies purse? Keep repeating these steps until you have identified all of the constituents and what each one modifies.
+
+[图片：theoutlandishlady-300x132.png]
+
+Figure A1.31: The tree diagram for example (6).
+
+## Step eight. If it’s a question, add the movement.
+
+If there’s subject-auxiliary inversion, put angle brackets around the auxiliary under S, and re-write the auxiliary under the C head. Then draw an arrow from the Aux under S to the C head.
+
+[图片：have-you-seen-an-alien-300x274.png]
+
+Figure A1.32: Tree diagram of “Have you seen an alien?”
+If there’s wh-movement, put the wh-phrase where it started out in the sentence, as you determined in Step 4, with angle brackets around it. Then add an extra branch to the left under the CP, rewrite the label of the wh-phrase, and draw the internal structure of the wh-phrase underneath. Then draw an arrow from where the wh-phrase started to where it ended up.
+
+[图片：what-have-you-seen-300x287.png]
+
+Figure A1.33: Tree diagram of “What have you seen?”
+
+## Step nine. Double check your answer!
+
+Here are some things you should check:
+- Does every phrase have a head? Does every head (except Det) have a phrase?
+- If you read the ends of the branches from left to right, do all the words come out in the right order?
+- Do any branches cross? (They shouldn’t!)
+- Are your subject clauses in subject position and your object clauses in object position?
+- Are your subjects under TP, your objects under VP, and your modifiers sister to what they modify?
+- Are all your words labeled for part of speech?
+- Is movement clearly indicated with an arrow? Is it clear from your diagram where the movement started and where it ended?
+
+Sometimes you will see trees with triangles in them. For example, there is a triangle in Figure A1.19 of Section A1.6 or in Figure A1.34 below.
+
+[图片：you-have-seen-an-alien-with-purple-skin-300x165.png]
+
+Figure A1.34 Example of a tree with a triangle
+Triangles are a way to abbreviate the structure. Instead of drawing all the pieces of a constituent, you can write the entire constituent underneath a triangle (instead of branches). They are usually used in papers if part of the structure is not relevant. In your homework and tests, if you are asked to draw a tree and you use a triangle, you might not get full marks for the part of the tree inside the triangle–check with the grading scheme for your course to see if triangles are permitted and how they will be graded! That being said, if you are feeling very overwhelmed, you could use a triangle and you may at least get part marks. Or, even better, you can use a triangle in your rough work to help you break up the sentence into smaller, more manageable parts. Just remember to come back and finish drawing the bits you placed in triangles.
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3160#h5p-128

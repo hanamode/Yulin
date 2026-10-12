@@ -1,0 +1,274 @@
+{
+ "batch": 51,
+ "sections": {
+  "part-010-chapter-10-language-variation-and-change": {
+   "title": {
+    "en": "Chapter 10: Language Variation and Change",
+    "zh": "第 10 章：语言变异与变化"
+   },
+   "summary": {
+    "en": "Chapter 10 introduces sociolinguistic variation and the ways linguists have analyzed it. Readers meet cross-linguistic and sociolinguistic variation, learn to recognize linguistic variables in data, survey major social factors that correlate with variation, and practice interpreting quantitative sociolinguistic graphs.",
+    "zh": "第 10 章介绍社会语言学变异及学界对其的分析方法。读者将认识跨语言变异与社会语言学变异的区别，学习在语料中识别语言变项，了解与变异相关的主要社会因素，并练习解读定量社会语言学图表。"
+   },
+   "points": [
+    {
+     "en": "Explain how cross-linguistic variation differs from sociolinguistic variation.",
+     "zh": "说明跨语言变异与社会语言学变异之间的差别。"
+    },
+    {
+     "en": "Define the important concepts that sociolinguists rely on when studying variation.",
+     "zh": "界定社会语言学家研究变异时所依赖的重要概念。"
+    },
+    {
+     "en": "Recognize linguistic variables as they appear in real language data.",
+     "zh": "在真实语言语料中识别出语言变项。"
+    },
+    {
+     "en": "Discuss some of the major findings that variationist sociolinguistics has produced.",
+     "zh": "讨论变异社会语言学取得的一些主要发现。"
+    },
+    {
+     "en": "Interpret basic patterns in quantitative sociolinguistic data presented in graphs.",
+     "zh": "解读以图表呈现的定量社会语言学数据中的基本模式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "linguistic variation",
+     "zh": "语言变异",
+     "defEn": "Different ways of saying the same thing within or across languages.",
+     "defZh": "在同一语言内部或不同语言之间，表达同一意思的不同方式。"
+    },
+    {
+     "en": "variationist sociolinguistics",
+     "zh": "变异社会语言学",
+     "defEn": "The approach that analyzes how language varies with its context of use.",
+     "defZh": "分析语言如何随使用语境而变化的语言学取向。"
+    },
+    {
+     "en": "social factor",
+     "zh": "社会因素",
+     "defEn": "A speaker or situation property that correlates with linguistic variation.",
+     "defZh": "与语言变异相关的说话人或情境属性。"
+    },
+    {
+     "en": "quantitative sociolinguistic data",
+     "zh": "定量社会语言学数据",
+     "defEn": "Counted variant frequencies that are summarized and displayed in graphs.",
+     "defZh": "经过计数的变式频率，通常以图表汇总和呈现。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "This chapter turns to sociolinguistic variation and the ways linguists have gone about analyzing it. It opens with the notion of linguistic variation, then shows how data are handled from a variationist sociolinguistic perspective. Along the way it surveys several of the social factors that are known to correlate with the way people vary their language.",
+     "zh": "本章转向社会语言学变异，以及语言学家分析这种变异的方式。开头先引出语言变异这一概念，接着展示如何从变异社会语言学的视角处理数据。行文中还考察了若干已知与人们语言变异方式相关的社会因素。"
+    },
+    {
+     "en": "By the end of the chapter, readers should be able to separate cross-linguistic variation from sociolinguistic variation, define the key concepts of sociolinguistics, spot linguistic variables in language data, summarize major findings of variationist research, and read basic patterns out of graphs of quantitative sociolinguistic data.",
+     "zh": "读完本章，读者应能区分跨语言变异与社会语言学变异，界定社会语言学的核心概念，在语言语料中发现语言变项，概括变异研究的主要发现，并从定量社会语言学数据的图表中读出基本模式。"
+    }
+   ]
+  },
+  "chapter-116-slug-10-1-what-is-variationist-sociolinguistics": {
+   "title": {
+    "en": "10.1 What is variationist sociolinguistics?",
+    "zh": "10.1 什么是变异社会语言学？"
+   },
+   "summary": {
+    "en": "Variationist sociolinguistics is a methodological and analytical approach to the relationship between language and its context of use. It asks questions such as why some Canadian English speakers say eh while others say right, and treats social and linguistic factors as equally important. It contrasts with formal subfields that study abstract competence rather than actual performance.",
+    "zh": "变异社会语言学是一种研究语言与其使用语境之间关系的方法论与分析路径。它追问诸如为何有些加拿大英语使用者说 eh、另一些说 right 之类的问题，并认为社会因素与语言因素同等重要。它与研究抽象语言能力的各种形式子学科形成对照，关注的是实际语言运用而非抽象知识。"
+   },
+   "points": [
+    {
+     "en": "Variationist sociolinguistics relates language to its context of use.",
+     "zh": "变异社会语言学把语言与其使用语境联系起来考察。"
+    },
+    {
+     "en": "Social and linguistic factors matter equally in this approach.",
+     "zh": "在这一研究路径中，社会因素与语言因素同等重要。"
+    },
+    {
+     "en": "The field is defined by its concern with the variable nature of language in use.",
+     "zh": "该领域的界定特征在于关注使用中语言的变异性本质。"
+    },
+    {
+     "en": "Formal subfields like phonology and syntax focus on abstract, impersonal grammar.",
+     "zh": "音系学、句法学等形式子学科关注抽象的、非个人的语法。"
+    },
+    {
+     "en": "Competence is abstract language knowledge; performance is practical language use.",
+     "zh": "语言能力是抽象的语言知识；语言运用是实际的语言使用。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "variationist sociolinguistics",
+     "zh": "变异社会语言学",
+     "defEn": "A methodological and analytical approach linking language to its context of use.",
+     "defZh": "把语言与其使用语境联系起来的方法论与分析路径。"
+    },
+    {
+     "en": "context of use",
+     "zh": "使用语境",
+     "defEn": "The social and situational circumstances in which language is actually used.",
+     "defZh": "语言实际被使用时的社会与情境环境。"
+    },
+    {
+     "en": "competence",
+     "zh": "语言能力",
+     "defEn": "The abstract language knowledge that our mind possesses.",
+     "defZh": "我们心智所拥有的抽象语言知识。"
+    },
+    {
+     "en": "performance",
+     "zh": "语言运用",
+     "defEn": "The practical, actual use of language by speakers.",
+     "defZh": "说话人对语言实际而具体的运用。"
+    },
+    {
+     "en": "competence/performance distinction",
+     "zh": "语言能力／语言运用之分",
+     "defEn": "The contrast between abstract language knowledge and practical language use.",
+     "defZh": "抽象语言知识与实际语言运用之间的区分。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "“It’s cold out, eh?” “It’s cold out, right?”",
+     "noteEn": "Canadian English speakers vary between eh and right in the same slot.",
+     "noteZh": "加拿大英语使用者在同一位置上会在 eh 与 right 之间变换。"
+    },
+    {
+     "text": "What kinds of information do we assume about them?",
+     "noteEn": "A variationist question about what a variant reveals about a speaker.",
+     "noteZh": "这是一个变异社会语言学问题：某个变式透露出说话人的什么信息。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Why is it that some speakers of Canadian English close their sentences with eh, while others choose right? In which situations is a given person more likely to use one rather than the other? What do listeners assume about someone on the basis of hearing eh, right, or innit? And have such patterns shifted over time? These are the sorts of questions variationist sociolinguistics sets out to answer.",
+     "zh": "为什么有些加拿大英语使用者用 eh 收尾，另一些人却选择 right？在什么情境下，同一个人更可能用其中一个而非另一个？听到 eh、right 或 innit 时，听话人会据此对说话人作出怎样的推断？这些模式是否随时间发生了改变？这些正是变异社会语言学试图回答的问题。"
+    },
+    {
+     "en": "Variationist sociolinguistics is a methodological and analytical approach to understanding the relationship between language and its context of use. The socio- part of the name signals that social and linguistic factors carry equal weight in this field. The variationist part signals that the object of study is the variable nature of language as it is actually used.",
+     "zh": "变异社会语言学是一种理解语言与其使用语境之间关系的方法论与分析路径。名称中的 socio- 表明，社会因素与语言因素在这一领域中分量相当；variationist 则表明，研究对象是语言在实际使用中呈现的变异性质。"
+    },
+    {
+     "en": "The formal subfields of linguistics, such as phonology and syntax, tend to concentrate on an abstract, impersonal grammar: everything our mind knows about our language. Sociolinguistics, by contrast, analyzes language as people really use it in practice. Some linguists label these two ways of studying language the competence/performance distinction, where competence is the abstract knowledge and performance is the practical use.",
+     "zh": "语言学中的形式子学科，如音系学和句法学，倾向于聚焦一种抽象的、非个人的语法，即我们心智关于自身语言所知道的一切。与此相对，社会语言学分析的是人们在实践中真实使用的语言。有些语言学家把这两种研究语言的方式称为语言能力／语言运用之分，其中语言能力指抽象知识，语言运用指实际使用。"
+    }
+   ]
+  },
+  "chapter-117-slug-10-2-language-varies": {
+   "title": {
+    "en": "10.2 Language varies",
+    "zh": "10.2 语言存在变异"
+   },
+   "summary": {
+    "en": "Every language and variety shows variation, in all modalities and at every level from phonetics to pragmatics. A linguistic variable is an abstract set of options, and the options speakers choose are variants. Variation must be distinguished from synonyms with different connotations and from deterministic categorical alternations; linguistic variables are probabilistic rather than random.",
+    "zh": "每一种语言和变体都存在变异，涉及所有模态以及从语音到语用的各个层面。语言变项是一组抽象的选项，说话人实际选用的选项就是变式。变异须与涵义不同的同义词、以及与语言环境严格对应的范畴性交替区分开来；语言变项具有概率性，而并非随机。"
+   },
+   "points": [
+    {
+     "en": "Everyone has a dialect, and a standard language is merely the prestigious one.",
+     "zh": "人人都有自己的方言，所谓标准语不过是社会声望更高的那一种。"
+    },
+    {
+     "en": "Cross-linguistic variation appears between languages, as with Icelandic and Danish negation order.",
+     "zh": "跨语言变异出现在语言之间，如冰岛语与丹麦语否定词序的差异。"
+    },
+    {
+     "en": "Linguistic variables occur in all modalities and at all domains, from phonetic to pragmatic.",
+     "zh": "语言变项存在于所有模态和所有层面，从语音层面到语用层面。"
+    },
+    {
+     "en": "Variants of a variable all do the same thing, unlike synonyms with differing connotations.",
+     "zh": "同一变项的各个变式功能相同，这与涵义各异的同义词不同。"
+    },
+    {
+     "en": "Categorical alternations are deterministic, while linguistic variables are probabilistic.",
+     "zh": "范畴性交替是确定性的，而语言变项则是概率性的。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "variety",
+     "zh": "语言变体",
+     "defEn": "A subdivision of a language, used without the negative connotations of dialect.",
+     "defZh": "语言的次类划分，使用时不像“方言”一词带有贬义色彩。"
+    },
+    {
+     "en": "cross-linguistic variation",
+     "zh": "跨语言变异",
+     "defEn": "Two languages having different ways of doing the same thing.",
+     "defZh": "两种语言对同一件事采用不同处理方式的现象。"
+    },
+    {
+     "en": "sociolinguistic variation",
+     "zh": "社会语言学变异",
+     "defEn": "Two or more ways of doing the same thing within one language.",
+     "defZh": "在同一语言内部，对同一件事存在两种或更多处理方式。"
+    },
+    {
+     "en": "linguistic variable",
+     "zh": "语言变项",
+     "defEn": "The abstract set of options available when more than one way exists.",
+     "defZh": "当同一功能存在多种表达方式时，可供选择的抽象选项集合。"
+    },
+    {
+     "en": "variant",
+     "zh": "变式",
+     "defEn": "One individual option that a language user actually chooses.",
+     "defZh": "语言使用者实际选用的某一个具体选项。"
+    },
+    {
+     "en": "categorical alternation",
+     "zh": "范畴性交替",
+     "defEn": "A deterministic choice that depends strictly on the linguistic context.",
+     "defZh": "严格取决于语言环境、具有确定性的选择。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Saints do not move, though grant for prayers sake. Then move not while my prayers effect I take.",
+     "noteEn": "Shakespeare's couplet shows both negation orders within one writer.",
+     "noteZh": "莎士比亚的这一对偶句显示同一位作者并用两种否定词序。"
+    },
+    {
+     "text": "包 bao [paw] 包儿 baor [pawr]",
+     "noteEn": "A syllable without a coda may be variably rhoticized in Beijing Mandarin.",
+     "noteZh": "北京话中无韵尾的音节可以可变地发生儿化。"
+    },
+    {
+     "text": "an apple [ənæpl] and a apple [əʔæpl]",
+     "noteEn": "London English varies between an and a before a vowel.",
+     "noteZh": "伦敦英语在元音前会在 an 与 a 之间发生变异。"
+    },
+    {
+     "text": "I’m fishing this morning.",
+     "noteEn": "The ending may surface as [ɪŋ] or as [ɪn], conditioned by category.",
+     "noteZh": "词尾可以读作 [ɪŋ] 或 [ɪn]，并受词类因素制约。"
+    }
+   ],
+   "body": [
+    {
+     "en": "In everyday usage the word dialect often carries the suggestion that a way of speaking is substandard, low status, geographically isolated, or a deviation from some standard. But every speaker has a dialect, and a so-called standard language is not linguistically superior; it simply carries more social prestige. Linguistics does not rank dialects hierarchically, and because variety lacks those negative connotations, subdivisions of a language are called varieties here.",
+     "zh": "日常使用中，“方言”一词常暗示某种说话方式低劣、地位不高、地域封闭，或偏离了某种“标准”。但每位说话人都拥有方言，所谓标准语在语言上并不更优越，只是附带更多社会声望而已。语言学并不把方言排成等级，而 variety 一词不带这些负面含义，因此本章把语言的次类划分称为语言变体。"
+    },
+    {
+     "en": "Comparing forms across languages reveals cross-linguistic variation. Icelandic and Danish both express the meaning of I didn't ask why Peter hadn't read it, yet they order the negative marker differently in the embedded clause: Icelandic has hafði ekki whereas Danish has ikke havde. Strikingly, the same two options coexisted inside one variety of Early Modern English, as Shakespeare's rhyming couplet about moving and praying shows, with one character using VERB-NEGATIVE and the other NEGATIVE-VERB. That is sociolinguistic variation.",
+     "zh": "把不同语言的形式拿来比较，就能看到跨语言变异。冰岛语和丹麦语都能表达“我没问彼得为什么没读它”这一意思，但在嵌入小句“彼得没读它”中，否定标记与动词的先后顺序不同：冰岛语说成 hafði ekki，即“有—不”；丹麦语说成 ikke havde，即“不—有”。也就是说，两种语言用两种不同的方式做同一件事。值得注意的是，同样的两种选项也曾共存于早期现代英语的同一变体之中，莎士比亚那句关于移动与祈祷的对偶句即为明证：同一段押韵对句中，两个人物分别使用动词—否定与否定—动词两种语序。这种在同一语言、同一变体乃至同一位作者内部并存的两种做法，就是社会语言学变异。"
+    },
+    {
+     "en": "When more than one way exists to do the same thing, that is a linguistic variable, and the individual options users select are its variants. The variable itself is an abstract set that we never observe directly; we only see it when someone produces a variant. Variables appear in every language and variety, in every modality, and at every level of grammar. Auslan, New Zealand Sign Language and American Sign Language vary the location of signs such as KNOW, THINK and NAME; Beijing Mandarin variably rhoticizes codaless syllables; London English alternates between an and a before vowels; and North Baffin Inuktitut transitives vary between ergative and antipassive alignment.",
+     "zh": "当同一件事存在不止一种做法时，便构成语言变项，使用者所选的具体选项就是变式。变项本身是一个抽象的集合，我们从不直接观察它，只有某人说出某个变式时才见到它的踪影。变项出现在所有语言和变体、所有模态以及语法的各个层面。澳大利亚手语、新西兰手语和美国手语中，KNOW、THINK、NAME 等手语词的位置可变；北京话无韵尾音节可以发生儿化；伦敦英语在元音前交替使用 an 与 a；北巴芬因纽特语的及物结构则在作格与反被动两种配列间变异。"
+    },
+    {
+     "en": "Not every alternation counts as a linguistic variable. Synonyms such as car, automobile, ride, jalopy, hooptie and paddock basher denote the same kind of vehicle, yet they differ in connotation and in regional or social use, so they are not interchangeable. Categorical alternations, such as the [z], [s] and extra-vowel forms of the English plural, depend strictly on the linguistic environment and are deterministic. Linguistic variables instead vary within the same environment, and their variants are chosen probabilistically. As one foundational study put it, there is order amid the heterogeneity.",
+     "zh": "并非所有交替都算语言变项。car、automobile、ride、jalopy、hooptie、paddock basher 等词指称同一种车辆，但涵义及地域或社会用法各异，因而不能随意互换。范畴性交替，如英语复数后缀的 [z]、[s] 与加元音三种形式，严格取决于语言环境，具有确定性。语言变项则能在同一环境内部发生变异，其变式的选择具有概率性。正如一项奠基性研究所言，异质之中自有秩序。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,59 @@
+# 7.10 Why not the dictionary?
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=821#oembed-1
+Lexical meaning is complex. In this chapter, we are only scratching the surface of what goes into lexical meaning. If lexical meaning is so complicated, then you might be wondering, “Why not just look in a dictionary, then?” There are several things that are problematic with relying on dictionaries to figure out what you know when you know the meaning of a listeme.
+Generally, there is a common myth that dictionaries are the ultimate authority of language. In arguments, perhaps you have heard people say things like “The dictionary defines X as…” or “That’s not a word because it’s not in the dictionary.” Let’s think about why this type of argumentation is flawed.
+Much of the discussion in this part draws from the discussion of dictionaries in Rochelle Lieber’s textbook, Introducing Morphology (2016). Chapter 2 of Introducing Morphology is an accessible resource if you would like to learn more about words, dictionaries, and the mental lexicon.
+
+## Dords and mountweazels
+
+People who write dictionaries are called lexicographers. Lexicographers, of course, are human! A human being cannot possibly know every single thing about every single word in a language, and human beings are prone to errors, too. In the early 1930s, a consultant to the lexicographers of the Merriam-Webster dictionary made the note “D or d” next to the entry for density (Gove 1954). What they meant was that you can use either an uppercase D or a lowercase d can be used as the abbreviation for density in physics. However, the lexicographer who saw this mistakenly included Dord in the dictionary as a word that meant ‘density’. Furthermore, this error was not corrected in print until 1947! While modern dictionaries (especially online ones) likely correct any errors very quickly and catch most of them before they get printed, this is still a good reminder that humans make mistakes.
+There are other “fake” words that make it into the dictionary for different reasons. Sometimes, lexicographers include made-up words in their dictionary to prevent other publishers from plagiarizing their dictionary. This kind of fictious entry in a dictionary or other reference work is called a mountweazel (Lieber 2016). The term comes from when the 1975 New Columbia Encyclopedia included a fake entry on Lillian Virginia Mountweazel, an imaginary photographer.
+Dords and mountweazels show us quite literally that just because something is in a dictionary doesn’t mean that it’s a word that is actually used in a language.
+
+## Not all words are in the dictionary
+
+Another issue with putting dictionaries on the pedestal as the ultimate authority of language is that not all words are in the dictionary. Recall derivational morphemes from Chapter 5 (Morphology), particularly, highly productive suffixes like -ist. For example, this affix is often attaches to musical instrument nouns to mean ‘person who plays this instrument’: guitarist, violinist, oboist, flutist/flautist, percussionist, harpist, and so on. However, tubist (or tubaist) — a person who plays the tuba — does not have an entry in the Oxford English Dictionary. This doesn’t mean that tubist isn’t a word: among the many attested uses of this word includes the National Academy Orchestra of Canada’s website, which described Brandon Figueroa as their “principal tubist” in 2021. Other morphemes like -ness are also capable or producing a lot of nouns out of adjectives, but not all -ness words make it into dictionaries. For example, unenthusiastic is in the Oxford English Dictionary, but not unenthusiasticness. Purpleness is, but not beigeness (Lieber 2016). It is not efficient to include all derived forms of all words in a dictionary, so lexicographers must make a decision about which ones to include. The non-inclusion of some words in the dictionary is often a matter of efficiency, and not a judgment of some non-validity of those words. Additionally, there are many different kinds of dictionaries: monolingual dictionaries, bilingual dictionaries, signed language dictionaries, online dictionaries, pocket dictionaries — just to name a few. Necessarily, different dictionaries will have different entries; each dictionary has its own purpose. It is important to remember that what makes something a “real word” is not its presence in a dictionary. What does make it “real” is that language users in the relevant language community actually use it with a meaning attached to it. So is cheugy, which is not in the Oxford English Dictionary, a “real word”? Sure it is. People use it!
+
+## Language users create meaning, not dictionaries
+
+Even if a word is included in a dictionary, the definition provided by the lexicographer(s) is not perfect, and it is not the complete picture of the meaning of the word. Consider the following uses of the word museum in English.
+
+[表格]
+| | | (1) | | | | I visited a | museum | in Toronto today. | | | | (2) | | | | The | museum | said they were closing indefinitely. | | |
+
+The use of museum in (1) is straight-forward: roughly, it means ‘place where art, etc. is exhibited’. Museum in (2) does not literally mean that, since it is not the place or the building that said something. (2) roughly means ‘person who works at the museum said they were closing indefinitely’. If you look up museum in the Oxford English Dictionary (or any dictionary), this meaning — ‘person who works at a museum’ — is not listed. But does this mean that the word museum cannot be used under this interpretation in English? Not at all: it is a descriptively valid use of the word because there are people who do use it this way.
+We have to remember again that human beings are writing dictionaries. It is quite unrealistic to expect a lexicographer, or even a group of lexicographers, to include every single meaning of every single word in a dictionary. It is unrealistic because one word can have many different meanings, varying in use depending on context. We cannot expect lexicographers to observe, track, and record all possible uses of a word — especially when new uses of existing words emerge all the time. What we need to remember is the purpose of dictionaries. Dictionaries are meant to be a reference: something that gives you the general picture of a word, with enough information to give you an idea as to how it might be used. One way of thinking about this is that a dictionary is a partial record of how language users use their language. Language users in a language community create new words and attach meaning to them, and lexicographers record some of their use in dictionaries. They can’t include every single meaning of every single word, so they give enough information so that people can get an idea of how the word is used.
+
+Language and power: Dictionaries
+Dictionaries are actually cultural artefacts that were originally made for specific purposes. In the 18th century, scholars were interested in creating an “English academy”, which had as its purpose “ascertaining, purifying, refining, and fixing the English language” (Long 1909). Lexicographer Samuel Johnson created the Dictionary of the English Language to embody this kind of prescriptive (and classist) attempt.
+It is important to remember that lexicographers themselves never meant and will never mean for dictionaries to be a complete record of language use. This is what James Murray, one of the people to work on the first edition of the Oxford English Dictionary (1933), said:
+“The Vocabulary of a widely-diffused and highly-cultivated living language is not a fixed quantity circumscribed by definite limits.” (quotation retrieved via Lieber 2016)
+By “living language,” he means that language is always changing and evolving. Because language is always changing, there literally is no finite number of “real words” in a language. He is acknowledging here that a dictionary will never be a complete record of the vocabulary of a language. And that is OK, because dictionaries don’t create meaning; people do.
+
+How to be a linguist: Minimal pairs and testing hypotheses
+
+OK, so dictionaries might be a good starting point if you’re trying to figure out what a word means, but it’s certainly not the whole picture! So how do we figure out what a word means? Well, if people create meaning, then we have to observe what people do with language! We’ve been doing this already in this chapter when discussing lexical meaning: we look at what you descriptively can and cannot do with a word (recall the previous “How to be a linguist” boxes from Section 7.6 and Section 7.7). If you are interested in the meaning of a word, one tactic that may be useful is coming up with a minimal pair of sentences. Recall from Sections 3.8 and 4.3 that a minimal pair is a pair of things that are the same except for one parameter. (3) and (4) are sentential minimal pairs in Japanese, differing by exactly one word:
+(3) (Context: Beth broke a tree branch into two pieces.)
+
+[表格]
+| | | eda-o | | otta | | | | branch-ACC | | broke | | | | ‘She broke a branch’ | | |
+
+(4) (Context: Beth dropped a ceramic plate and broke it.)
+
+[表格]
+| | | #sara-o | | otta | | | | plate-ACC | | broke | | | | ‘She broke a plate’ | | |
+
+You might find in a Japanese-English dictionary or translator that otta means ‘broke’, but there’s more to it than that! (3) and (4) show that the Japanese verb translated in English as ‘broke’ is sensitive to the kind of object it takes. You might hypothesize from this that otta is a specific way of breaking something. Of course, this minimal pair alone doesn’t quite tell you what otta means, exactly (especially if you have zero knowledge about Japanese!): You have to come up with more sentences to test your hypothesis. Let me give you a hint if you don’t speak Japanese: think about how Beth is breaking the object in each context. What shape are the objects? What do they look like once broken? Come up with a hypothesis about what kind of action otta is. What additional data might you ask a Japanese speaker about to test your hypothesis? Perhaps another sentence that is the same as (3)/(4) except the object! Do you predict that your sentence will be acceptable or unacceptable, based on your hypothesis? (See “Check your understanding” at the end of this section for a sample answer.)
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=821#h5p-59
+
+## References
+
+Gove, P. B. (1954). The History of “Dord.” American Speech, 29(2), 136–138. https://doi.org/10.2307/453337
+Lieber, R. (2016). Introducing Morphology (2nd ed.). Cambridge University Press.
+Long, P. W. (1909). English dictionaries before Webster. Papers (Bibliographical Society of America), 4(1), 25-43.
+Oxford English Dictionary (1888-1933). Ed. James A.H. Murray et al. 12 vols. Oxford: The Clarendon Press.

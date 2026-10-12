@@ -1,0 +1,72 @@
+# 3.4 Describing consonants: Manner
+
+## Manners of articulation
+
+Consonant phones can also be categorized by their manner of articulation (or manner for short), which is how air flows through the vocal tract, based on the size and shape of the constriction between the articulators.
+
+## Stops
+
+The most basic manner of articulation is stop, in which the active articulator presses firmly against the passive articulator to make a complete closure, blocking all airflow at that point. Bilabial oral stop closures are shown in the midsagittal diagrams in Figure 3.9. There are many kinds of stops across the world’s spoken languages. One important distinction for stops is based on the position of the velum. The velum may be raised against the upper pharynx to block off access to the nasal cavity, as indicated by the dotted circle in the midsagittal diagram on the left in Figure 3.9. This forces all airflow (blue arrow) to go into the oral cavity only, as indicated by the arrow in Figure 3.9. Such a stop with a raised velum and oral airflow only is called an oral stop. The English words pet and get both begin and end with oral stops. If instead a stop is articulated with a lowered velum, as indicated by the dotted circle in the midsagittal diagram on the right in Figure 3.9, this allows air to flow into both the oral and nasal cavities. Such a stop with a lowered velum and both oral and nasal airflow is called a nasal stop, or sometimes just a nasal for short. The English words met and net both begin with nasal stops.
+
+[图片：3.9-midsagittal-nasal-stops.png]
+
+Figure 3.9. Midsagittal diagrams showing a raised velum for a bilabial oral stop (left) and a lowered velum for a bilabial nasal stop (right). Airflow is shown as blue arrows.
+The most common type of oral stops are plosives, which have airflow from the lungs that gets trapped behind the stop closure, until the air can be quickly released in an explosive burst. Most spoken languages have plosives as their only oral stops, so the terms plosive and oral stop are often used interchangeably. However, in more careful work, they are distinguished, because plosives are only one kind of oral stop. Other kinds of oral stops include ejectives (in which air is pushed up by raising the vocal folds rather than exhaling from the lungs), implosives (in which air is sucked in by lowering the vocal folds), and clicks (in which air is sucked in by quickly lowering the tongue).
+
+## Fricatives
+
+If the active and passive articulators are very close but not touching, creating a narrow constriction, airflow through this constriction becomes very turbulent, resulting in highly random noisy airflow called frication, which sounds like hissing or buzzing. A phone articulated this way is called a fricative. The English words set and vet begin with fricatives.
+
+## Approximants
+
+If the active and passive articulators are not touching and are spaced far enough apart to create little or no frication in the airflow, then the resulting phone is called an approximant. Most approximants have relatively unrestricted airflow through the middle of the oral cavity and are called central approximants. However, during the articulation of an approximant, part of the tongue may instead make full contact with an upper articulator, causing the airflow to be diverted along one or both sides of the tongue, but still without frication. Such an approximant is called a lateral approximant. The English words yet and wet begin with central approximants, while the English word let begins with a lateral approximant.
+These four manners of articulation are schematized in the diagrams in Figure 3.9, in which the flat bars across the top of each diagram represent the midsagittal view of some arbitrary passive articulator, such as the alveolar ridge or hard palate, while the rounded shapes represent some active articulator, such as the tongue tip or tongue back, and arrows represent the nature of the airflow during the consonant.
+
+[图片：manner.png]
+
+Figure 3.10. Manners of articulation, from left to right: stop, fricative, central approximant, and lateral approximant.
+The stop (far left in Figure 3.10) has a complete closure between the two articulators, preventing airflow from getting past, indicated by the short airflow arrows that do not continue past the closure. The fricative (second from the left) has a narrow opening with tightly constrained, fricated airflow, indicated with a wavy line in the middle of the airflow arrow. The central approximant (third from the left) has a wider opening with relatively unobstructed airflow, indicated by the gently curved arrows. Finally, the lateral approximant (far right) also has a wide aperture, but with a small central obstruction that forces airflow to be diverted around the sides of the obstruction.
+
+## Affricates
+
+Normally, the stop closure for a plosive is released relatively quickly, allowing the air to begin flowing almost immediately. However, it is also possible to release the closure slowly, so that a very brief fricative-like sound is created, causing the release of the plosive to have some frication, in which case, we say that it has a fricated release. A plosive with such a fricated release is often referred to as an affricate, which is a fifth kind of manner of articulation. The English word jet begins with an affricate.
+Careful study of the language is usually required to determine what is really going on when you encounter some sort of plosive followed by some frication. In this textbook, you will be told whether you are dealing with an affricate or not. It can be difficult to determine the difference between a true affricate versus a sequence of a true plosive followed by a true fricative, because they are both very similar. In some languages, the difference between an affricate and plosive-fricative sequence can change the meaning, as in English with ratchet (with an affricate) versus rat shit (with a plosive followed by a fricative). The distinction is marginal in English, but it is more robust in other languages, such as Polish (a West Lechitic language of the Indo-European family, spoken in Poland). In Polish, the word czy ‘if, whether’ begins with an affricate, while trzy ‘three’ begins with plosive followed by a fricative. The pronunciation of these two Polish words can be heard in the following sound file, first czy with an affricate, then trzy with a plosive plus a fricative.
+https://ecampusontario.pressbooks.pub/app/uploads/sites/1310/2022/02/polish-czy-trzy.wav
+Although most affricates are articulated as plosives with a fricated release, it is possible for other kinds of oral stops to have fricated releases, so ejective affricates, implosive affricates, and click affricates also exist in some of the world’s spoken languages.
+
+## Other manners of articulation
+
+There are many other manners of articulation that are beyond the scope of this textbook. The two most notable ones are taps (also called flaps) and trills. Taps are like stops, except that the closure is so short that airflow is barely interrupted. The consonant in the middle of the English word atom is articulated as a tap for most North American speakers.
+Trills are like repeated taps, in which one articulator vibrates quickly against the other, usually 2–3 times. Most dialects of English do not have trills, though some speakers of Scottish English may have a trill for the first consonant of run. Some languages have both a tap and a trill, such as Spanish (a Western Romance language of the Indo-European family, spoken in Spain and its former colonies), which has a tap in the middle of the word pero ‘but’ and a trill in the middle of the word perro ‘dog’. The pronunciation of these two Spanish words can be heard in the following sound file, first pero with a tap, then perro with a trill.
+https://ecampusontario.pressbooks.pub/app/uploads/sites/1310/2022/02/spanish-pero-perro.wav
+
+## Other classes of consonants
+
+A few larger groupings of these manners of articulations are also often useful to talk about because of their common patterns in the world’s spoken languages (see Chapter 4 for more information). Oral stops, fricatives, and affricates together form the class of obstruents, which are defined by having an overall significant obstruction to free airflow in the vocal tract. Consonants with the remaining manners of articulation (nasal stops, approximants, taps, and trills) form the class of sonorants, which have fairly unrestricted airflow, either through the nasal cavity (for nasal stops) or through the oral cavity (for approximants, taps, and trills).
+Fricatives and approximants, because of their continuous airflow through the oral cavity, can be referred to collectively as the class of continuants (sometimes trills are grouped with the continuants as well).
+Note that the terms sonorant and continuant are typically used to refer only to consonants, but it is sometimes useful to define these classes to include vowels as well.
+
+## Putting it all together!
+
+We now have three different ways to talk about how a consonant phone is articulated: its place of articulation, its phonation, and its manner of articulation. We can put these three together to give a complete description of the most common consonant phones. There are many consonants that go beyond this three-part description and require a bit more information to be fully specified, but for the purposes of this textbook, these three categories will be sufficient.
+Consider the consonant phone at the beginning of the English word met, which has the articulation shown in the midsagittal diagram in Figure 3.11, with the three crucial aspects of the articulation circled.
+
+[图片：3.10-midsagittal-m.png]
+
+Figure 3.11. Midsagittal diagram of a voiced bilabial nasal stop.
+This consonant involves articulation of both lips, so it has a bilabial place of articulation. While saying this consonant, our vocal folds vibrate, so it has a voiced phonation. Finally, the two articulators are pressed firmly together, allowing no airflow through the oral cavity, but the velum is lowered to allow airflow through the nasal cavity, so this consonant has a nasal stop manner of articulation.
+Conventionally, these three components in the description of a consonant phone are put in the order phonation – place – manner, so the consonant at the beginning of the English word met would be fully described as a voiced bilabial nasal stop. Because it is a nasal stop, we can also further classify this consonant as a sonorant.
+For another example, consider the consonant phone at the beginning of the English word set, which has the articulation shown in the midsagittal diagram in Figure 3.12, with the three crucial aspects of the articulation circled.
+
+[图片：3.11-midsagittal-s.png]
+
+Figure 3.12. Midsagittal diagram of a voiceless alveolar fricative.
+This consonant involves active articulation of the front of the tongue; most speakers use the tongue tip, but some may use the tongue blade, either instead of the tip or in addition to it. The passive articulator of this phone can be hard to determine, since the front of the tongue is not touching it, but rather, is separated slightly from it. However, you can sometimes feel what the passive articulator is by breathing in instead of blowing out, because this can cause the passive articulator to become slightly cooler. If you do that with this consonant, you should feel the alveolar ridge getting cooler. Thus, this consonant has an alveolar place of articulation, and whether that place is apical (the default) or laminal depends on the individual speaker.
+For this consonant, the vocal folds do not vibrate, so it has a voiceless phonation. Finally, the two articulators are separated very slightly, creating loud, very turbulent airflow, so this consonant has a fricative manner of articulation. Putting it all together, this consonant phone is a voiceless alveolar fricative, or voiceless apicoalveolar fricative, or for some speakers, a voiceless laminoalveolar fricative, if we want to be precise about which active articulator is used. Because it is a fricative, we can also further classify this phone as both an obstruent and a continuant.
+Also note that for this consonant, the velum is raised and backed to block airflow from entering the nasal cavity. Fricatives are nearly always oral consonants, because having any airflow leak into the nasal cavity makes it difficult to produce high enough air pressure to force airflow through the narrow fricative opening.
+We will look more closely at how to describe some more consonants at the end of this chapter, but for now, focus on understanding the definitions of the various terms that are used to fully describe a consonant’s phonation, place, and manner.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=588#h5p-75

@@ -1,0 +1,387 @@
+{
+ "batch": 13,
+ "entries": [
+  {
+   "id": "argument-structure",
+   "title": "论元结构",
+   "en": "Argument Structure",
+   "category": "concepts",
+   "tags": [
+    "句法学",
+    "论元",
+    "题元角色",
+    "配价",
+    "语义角色"
+   ],
+   "summary": "论元结构指谓词（主要是动词）对其所支配的名词性成分在数量、句法位置和语义角色方面提出的要求，是句法与语义的接口。它规定一个动词可以带几个论元、充当什么题元角色、以何种句法形式出现，并决定及物与不及物、双宾交替、使役交替等句法现象。生成语法将其编码为词库中的词汇信息并投射到句法，词汇功能语法与构式语法则给出不同的理论处理。",
+   "summaryEn": "Argument structure refers to the requirements a predicate, typically a verb, imposes on the noun phrases it governs: how many arguments it takes, which syntactic positions they occupy, and which semantic roles they bear. It mediates between lexical semantics and syntax, licensing transitivity alternations, ditransitives and passives. Generative grammar encodes argument structure as lexical information projected onto phrase structure, while lexical-functional grammar and construction grammar assign it different theoretical status.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "论元结构是谓词词项所携带的、关于其论元的名目与性质的信息集合。论元指为使谓词所表达的事态成立而必须或可以出现的名词性成分，如英语动词 give 一般需要施事、受事与接受者三个论元，构成 John gave Mary a book。论元与附加语相对：附加语如时间、地点状语并不进入动词的论元结构，删去它一般不影响句子的合法性。"
+     ],
+     "pEn": [
+      "Argument structure is the set of lexical specifications that a predicate carries about its arguments, namely the participants that must or may be syntactically present for the situation the predicate denotes to hold. The English verb give typically takes three arguments, as in John gave Mary a book. Arguments contrast with adjuncts such as time or place adverbials, which lie outside the verb's argument structure and can be omitted without affecting grammaticality."
+     ]
+    },
+    {
+     "h": "研究内容与基本概念",
+     "hEn": "Core Notions",
+     "p": [
+      "研究论元结构通常涉及三个层面：论元的数目（配价或价）、论元的语义类型（题元角色）以及论元的句法实现（子语类化框架）。以英语 break 为例，其不及物用法 The vase broke 只出现客体，及物用法 John broke the vase 增加了一个施事，这一使役交替表明同一个动词可以拥有两种相关的论元结构。汉语「他打破了杯子」同样体现这种配对。"
+     ],
+     "pEn": [
+      "Research on argument structure usually distinguishes three layers: the number of arguments (valency), their semantic types (thematic roles), and their syntactic realization (subcategorization frames). English break illustrates the causative alternation: the intransitive The vase broke has only an object argument, while the transitive John broke the vase adds an agent. The same alternation appears in Mandarin ta da po le beizi, meaning he broke the cup."
+     ]
+    },
+    {
+     "h": "主要理论",
+     "hEn": "Main Theoretical Approaches",
+     "p": [
+      "在生成语法中，论元结构经题元准则与投射原则映射到句法，每个论元获得一个题元角色，每个题元角色只指派一次。格语法以深层格概念描写论元，词汇功能语法以词汇映射理论把论元结构直接对应到功能结构，构式语法则主张部分论元结构由构式本身提供，如英语双宾构式独立于个别动词而存在，可以解释 She baked him a cake 这类没有固有双宾词的用法。"
+     ],
+     "pEn": [
+      "In generative grammar argument structure is mapped onto syntax by the theta criterion and the projection principle: each argument receives exactly one theta role and each role is assigned once. Case grammar describes arguments through deep cases; lexical-functional grammar uses Lexical Mapping Theory to relate argument structure to functional structure; construction grammar argues that some argument structure is supplied by constructions themselves, as with the English ditransitive construction, which licenses She baked him a cake."
+     ]
+    },
+    {
+     "h": "示例",
+     "hEn": "Examples",
+     "p": [
+      "英语动词 put 要求三个论元：在 She put the book on the table 中 the book 与 on the table 缺一不可，说 She put the book 不合法。日语动词「食べる」的论元以格助词标记，「太郎がりんごを食べる」中「が」标主格，「を」标宾格，两者都由动词的论元结构决定。德语 helfen 支配与格而非宾格，故说 Ich helfe ihm 而不是 Ich helfe ihn。这些差异说明论元结构是词项特有的词汇信息，需要逐词记录在词典之中。"
+     ],
+     "pEn": [
+      "The English verb put requires three arguments: in She put the book on the table neither the book nor on the table can be omitted, and She put the book is ungrammatical. In Japanese, arguments are marked by case particles, as in Taro ga ringo o taberu, where ga marks nominative and o accusative, both determined by the verb's argument structure. German helfen takes a dative rather than an accusative object, hence Ich helfe ihm, not Ich helfe ihn. Such contrasts show that argument structure is item-specific lexical information that dictionaries must record for each verb."
+     ]
+    },
+    {
+     "h": "与其他分支的关系及争议",
+     "hEn": "Relations and Debates",
+     "p": [
+      "论元结构与句法学、语义学、词汇语义学和语言类型学密切相关，也与词典编纂和计算语言学的谓词论元标注直接相关。争论集中在题元角色的数量与定义、论元结构是否为独立的句法层面，以及所谓非核心论元能否由构式引入。这些分歧构成了最简方案内部关于合并与题元指派的讨论焦点。"
+     ],
+     "pEn": [
+      "Argument structure bears on syntax, semantics, lexical semantics and typology, and it underpins dictionary writing and predicate-argument annotation in computational linguistics. Debates concern the number and definition of thematic roles, whether argument structure is an autonomous syntactic level, and whether non-core arguments can be introduced by constructions. These disputes are central to discussions of Merge and theta assignment within the Minimalist Program."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "论元",
+     "tEn": "argument",
+     "d": "谓词所支配的、参与其所描述事态的名词性成分。",
+     "dEn": "A noun phrase governed by a predicate and participating in the situation it denotes."
+    },
+    {
+     "t": "附加语",
+     "tEn": "adjunct",
+     "d": "不进入谓词论元结构、可自由删除的修饰性成分。",
+     "dEn": "A modifying expression outside a predicate's argument structure that can be freely omitted."
+    },
+    {
+     "t": "配价",
+     "tEn": "valency",
+     "d": "谓词所能支配的论元数目，如二价动词、三价动词。",
+     "dEn": "The number of arguments a predicate can take, as in bivalent or trivalent verbs."
+    },
+    {
+     "t": "题元角色",
+     "tEn": "thematic role",
+     "d": "论元在事态中承担的语义角色，如施事、受事、客体。",
+     "dEn": "The semantic role an argument bears in a situation, such as agent, patient or theme."
+    },
+    {
+     "t": "子语类化",
+     "tEn": "subcategorization",
+     "d": "词项对其补足语的句法类别与数量提出的要求。",
+     "dEn": "The syntactic requirements a lexical item imposes on the category of its complements."
+    },
+    {
+     "t": "论元结构交替",
+     "tEn": "argument structure alternation",
+     "d": "同一动词在不同结构中论元配置的系统性变化。",
+     "dEn": "A systematic change in the realization of one verb's arguments across structures."
+    },
+    {
+     "t": "投射原则",
+     "tEn": "projection principle",
+     "d": "要求句法表征体现词项词汇信息的普遍原则。",
+     "dEn": "The principle requiring syntactic representation to reflect lexical information."
+    },
+    {
+     "t": "域外论元",
+     "tEn": "external argument",
+     "d": "在动词短语之外获得句法位置的主语类论元。",
+     "dEn": "An argument realized outside the verb phrase, typically the subject."
+    }
+   ],
+   "related": [
+    "thematic-role",
+    "head",
+    "lexical-functional-grammar",
+    "construction-grammar",
+    "grammatical-case"
+   ],
+   "sources": [
+    "Wikipedia, \"Argument (linguistics)\", https://en.wikipedia.org/wiki/Argument_(linguistics)",
+    "Chomsky, Lectures on Government and Binding, 1981",
+    "Levin, English Verb Classes and Alternations, 1993",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "agreement",
+   "title": "一致关系",
+   "en": "Agreement",
+   "category": "concepts",
+   "tags": [
+    "形态学",
+    "句法一致",
+    "屈折",
+    "φ特征",
+    "名词类别"
+   ],
+   "summary": "一致关系指句子中两个或更多成分在某些语法特征上相互呼应、必须保持相同的形态现象，典型如主语与谓语在人称、数、性上的一致。英语 He walks 中的 -s、德语 die gute Suppe 中冠词与形容词的呼应、斯瓦希里语中动词前缀与名词类别的配合都是实例。一致关系是形态学与句法学的交汇点，也是语言类型学比较与语言处理研究的重要参项。",
+   "summaryEn": "Agreement is the phenomenon whereby two or more elements in a sentence covary in certain grammatical features, most typically person, number and gender between subject and predicate. English He walks with its -s ending, German die gute Suppe with matching article and adjective, and the noun-class prefixes cross-referenced on Swahili verbs are familiar instances. Agreement sits at the interface of morphology and syntax and is a major parameter in typology and processing research.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "一致关系指句法上相关联的成分在性、数、人称、格、有定性等特征上保持一致的系统现象。其中一方为控制项，提供特征值，另一方为目标，通过屈折词尾或附着形式体现这些值。如英语 This book is interesting 与 These books are interesting 中，指示词、名词与动词 be 的数必须彼此匹配，说 This books are 则不合法。"
+     ],
+     "pEn": [
+      "Agreement is the systematic covariation of syntactically related elements in features such as gender, number, person, case and definiteness. One element, the controller, supplies the feature values, while the other, the target, realizes them through inflection or clitics. In English this book is interesting versus these books are interesting, the demonstrative, noun and verb must match in number; this books are is ungrammatical."
+     ]
+    },
+    {
+     "h": "研究内容与分类",
+     "hEn": "Types and Dimensions",
+     "p": [
+      "研究者通常区分几种维度：按控制项分为主语一致、宾语一致与所有格一致；按目标分为动词一致、形容词一致与限定词一致；按范围分为完全一致与部分一致。班图语中的名词类别一致非常发达，一个名词类前缀会同时出现在形容词、数词和动词上，形成全句性的呼应网络，说话人必须追踪每个名词的类别才能正确屈折其余成分。"
+     ],
+     "pEn": [
+      "Several dimensions are usually distinguished: by controller, subject agreement, object agreement and possessor agreement; by target, verbal, adjectival and determiner agreement; by extent, full versus partial agreement. Noun-class agreement in Bantu languages is especially elaborate, since a class prefix recurs on adjectives, numerals and verbs, producing a sentence-wide network of cross-reference. Speakers must therefore track the class of every noun in order to inflect the rest of the clause correctly."
+     ]
+    },
+    {
+     "h": "示例",
+     "hEn": "Examples",
+     "p": [
+      "拉丁语 puella bona est「这女孩是好的」中，名词、形容词与系词均为阴性单数；换成 puer bonus est 则全句转为阳性。西班牙语 los libros nuevos 与 la casa nueva 显示冠词与形容词随名词的性与数变化。日语「私は彼が来たと思う」中，从句主语用「が」，主句话题用「は」，体现另一层次的呼应。汉语缺乏严格意义的形态一致，主要依靠语序和虚词。"
+     ],
+     "pEn": [
+      "In Latin puella bona est, the noun, adjective and copula are all feminine singular, whereas puer bonus est is masculine throughout. Spanish los libros nuevos versus la casa nueva shows the article and adjective shifting with the gender and number of the noun. Japanese uses ga for the subject of an embedded clause and wa for the matrix topic. Mandarin has no morphological agreement of this kind and relies on word order and function words."
+     ]
+    },
+    {
+     "h": "主要理论",
+     "hEn": "Theoretical Accounts",
+     "p": [
+      "生成语法把一致视为句法核心功能语类（如 T 或早期的 Agr）上的特征核查与赋值过程，当前最简方案以特征继承和探针—目标关系解释一致。词汇功能语法用功能结构中的统一运算处理一致，构式语法与基于用法的研究则强调一致模式来自对具体构式的概括。心理语言学研究还显示，说话人对一致错误的敏感可在数百毫秒内显现。"
+     ],
+     "pEn": [
+      "Generative grammar treats agreement as feature checking and valuation in functional heads such as T or the older Agr node; in current Minimalism it follows from feature inheritance and the probe-goal relation. Lexical-functional grammar handles agreement through unification in functional structure, while construction grammar and usage-based approaches emphasize that agreement patterns are generalizations over concrete constructions. Processing studies additionally show that speakers are sensitive to agreement violations within milliseconds."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticisms",
+     "p": [
+      "一致关系的争论包括：一致是纯句法现象还是形态现象；「部分一致」和「一致语素脱落」应当如何解释；以及英语、汉语是否真的缺少一致。有学者主张一致主要服务于语用上的指称识别，也有研究指出某些语言中一致仅部分实现，受生命度、语序和信息结构等条件制约。"
+     ],
+     "pEn": [
+      "Debates about agreement include whether it is purely syntactic or morphological, how partial agreement and agreement drop should be analysed, and whether languages such as English or Mandarin genuinely lack agreement. Some scholars argue that agreement mainly serves referential identification in discourse, while others show that in many languages agreement is realized only partially and is conditioned by animacy, word order and information structure."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "一致",
+     "tEn": "agreement",
+     "d": "句法上相关联的成分在语法特征上相互呼应的现象。",
+     "dEn": "The covariation of syntactically related elements in grammatical features."
+    },
+    {
+     "t": "控制项",
+     "tEn": "controller",
+     "d": "为一致关系提供特征值的成分，通常为主语或名词。",
+     "dEn": "The element supplying feature values in agreement, usually a subject or noun."
+    },
+    {
+     "t": "目标",
+     "tEn": "target",
+     "d": "体现一致特征并发生相应形态变化的成分。",
+     "dEn": "The element that realizes agreement features through inflection."
+    },
+    {
+     "t": "φ特征",
+     "tEn": "phi-features",
+     "d": "人称、数、性这三个常参与一致关系的语法特征。",
+     "dEn": "The features of person, number and gender typically involved in agreement."
+    },
+    {
+     "t": "名词类别",
+     "tEn": "noun class",
+     "d": "班图语等语言中控制一致的名词分类系统。",
+     "dEn": "A noun classification system governing agreement in languages such as Bantu."
+    },
+    {
+     "t": "部分一致",
+     "tEn": "partial agreement",
+     "d": "目标只体现控制项部分特征的一致现象。",
+     "dEn": "Agreement in which a target realizes only some features of the controller."
+    },
+    {
+     "t": "特征赋值",
+     "tEn": "feature valuation",
+     "d": "探针与目标之间相互作用以确定特征值的过程。",
+     "dEn": "The process by which a probe and a goal determine feature values."
+    }
+   ],
+   "related": [
+    "grammatical-case",
+    "inflection-derivation",
+    "head",
+    "morphology",
+    "phrase-structure-rule"
+   ],
+   "sources": [
+    "Wikipedia, \"Agreement (linguistics)\", https://en.wikipedia.org/wiki/Agreement_(linguistics)",
+    "Corbett, Agreement, Cambridge University Press, 2006",
+    "Comrie, Language Universals and Linguistic Typology, 1989"
+   ]
+  },
+  {
+   "id": "grammatical-case",
+   "title": "格",
+   "en": "Grammatical Case",
+   "category": "concepts",
+   "tags": [
+    "形态学",
+    "格",
+    "屈折",
+    "作格",
+    "格理论"
+   ],
+   "summary": "格是标示名词、代词及名词性短语在句中语法关系与语义角色的形态范畴，通常通过词尾屈折或格助词实现。拉丁语 puella 与 puellam 区分主格和宾格，德语的 der、den、dem 区分主、宾、与格，日语以「が」「を」「に」等格助词标格。格既是形态学的研究对象，也是句法格理论与语言类型学中作格、宾格对立研究的核心概念。",
+   "summaryEn": "Case is the morphological category that marks the grammatical relation and semantic role of nouns, pronouns and noun phrases, typically by inflectional endings or case particles. Latin distinguishes puella nominative from puellam accusative; German distinguishes der, den and dem; Japanese marks case with particles such as ga, o and ni. Case is studied in morphology and is central to syntactic case theory and to typological work on accusative and ergative alignment.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "格是名词性成分依据其在句法结构中的地位而发生的形态变化或附着的标记，用以表示该成分与谓语之间的语法关系。格既可由词干后的屈折词尾表示，如俄语 книга（主格）与 книгу（宾格），也可由独立的格助词或前置词表示，如日语「本が」与「本を」。格的赋值与格的形态体现属于两个不同的分析层面。"
+     ],
+     "pEn": [
+      "Case is the morphological marking that a nominal element receives according to its syntactic position, indicating its grammatical relation to the predicate. It may be realized by inflectional endings, as in Russian kniga nominative versus knigu accusative, or by independent case particles and prepositions, as in Japanese hon ga and hon o. Assignment and morphological realization of case are distinct levels of analysis."
+     ]
+    },
+    {
+     "h": "分类",
+     "hEn": "Types of Case",
+     "p": [
+      "传统上把格分为句法格与语义格两大类。句法格包括主格、宾格、作格、通格；语义格包括与格、属格、工具格、方位格、离格等。按语言的对齐方式又可分为宾格型语言（如拉丁语、德语）和作格型语言（如巴斯克语、迪尔巴尔语），后者以通格标记不及物主语与及物宾语，以作格标记及物主语。"
+     ],
+     "pEn": [
+      "Case is traditionally divided into syntactic and semantic types. Syntactic cases include nominative, accusative, ergative and absolutive; semantic cases include dative, genitive, instrumental, locative and ablative. By alignment, languages fall into accusative types such as Latin and German, and ergative types such as Basque and Dyirbal, where absolutive marks the intransitive subject and transitive object while ergative marks the transitive subject."
+     ]
+    },
+    {
+     "h": "主要理论",
+     "hEn": "Theoretical Approaches",
+     "p": [
+      "菲尔莫尔的格语法以施事、受事、工具等深层格描写句子，主张格关系先于句法位置。生成语法的格理论区分结构格（主格、宾格）与固有格（属格、与格），并提出格筛选条件，要求每个显性名词短语都必须获得抽象格。近年的最简方案把格赋值视为一致关系的副产品，取消了独立的格模块。"
+     ],
+     "pEn": [
+      "Fillmore's case grammar described sentences in terms of deep cases such as agent, patient and instrument, arguing that case relations are prior to syntactic positions. Generative case theory distinguishes structural cases (nominative, accusative) from inherent cases (genitive, dative) and posits the case filter, requiring every overt noun phrase to receive abstract case. Minimalism treats case valuation as a by-product of agreement rather than a separate module."
+     ]
+    },
+    {
+     "h": "示例",
+     "hEn": "Examples",
+     "p": [
+      "拉丁语名词 puella「女孩」的格形式为：主格 puella、属格 puellae、与格 puellae、宾格 puellam、夺格 puella，句子 Puella puellam amat「女孩爱女孩」中两个成分靠格尾区分。德语 der gute Wein（主格）与 dem guten Wein（与格）显示冠词和形容词同时变格。芬兰语有十五个以上格，如 talo（房子）、talossa（在房子里）、talosta（从房子里）。格尾还使语序相对自由，因为语法关系不再依赖成分的线性顺序，而由词尾直接标明。"
+     ],
+     "pEn": [
+      "The Latin noun puella has nominative puella, genitive puellae, dative puellae, accusative puellam and ablative puella; in Puella puellam amat the two arguments are distinguished by their endings. German der gute Wein nominative versus dem guten Wein dative shows article and adjective declining together. Finnish has more than fifteen cases, as in talo house, talossa in the house and talosta out of the house. Case endings also allow relatively free word order, since grammatical relations are signalled by the endings rather than by linear position."
+     ]
+    },
+    {
+     "h": "发展简史与争议",
+     "hEn": "History and Debates",
+     "p": [
+      "格的研究可上溯到古希腊与古印度的语法传统，狄俄尼修斯·特拉克斯与波你尼都描写过名词的格变化。现代争论主要在格是句法特征还是形态特征、抽象格是否必要，以及作格语言中的通格是否应视为主格。汉语有无格也长期存在分歧，多数学者认为汉语缺少形态格，但也有学者主张其存在抽象格。"
+     ],
+     "pEn": [
+      "The study of case reaches back to the Greek and Indian grammatical traditions, where Dionysius Thrax and Panini both described nominal declension. Modern debates concern whether case is syntactic or morphological, whether abstract case is necessary, and whether the absolutive in ergative languages should count as a nominative. Whether Mandarin has case is also contested: most scholars deny morphological case, but some posit an abstract one."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "主格",
+     "tEn": "nominative",
+     "d": "及物句和不及物句中主语通常使用的格。",
+     "dEn": "The case typically used for subjects of transitive and intransitive clauses."
+    },
+    {
+     "t": "宾格",
+     "tEn": "accusative",
+     "d": "及物动词宾语以及部分前置词宾语所用的格。",
+     "dEn": "The case of the object of a transitive verb and of some prepositions."
+    },
+    {
+     "t": "作格",
+     "tEn": "ergative",
+     "d": "作格语言中用来标记及物动词主语的格。",
+     "dEn": "The case marking the transitive subject in ergative languages."
+    },
+    {
+     "t": "通格",
+     "tEn": "absolutive",
+     "d": "作格语言中标记及物宾语与不及物主语的格。",
+     "dEn": "The case marking the transitive object and the intransitive subject."
+    },
+    {
+     "t": "与格",
+     "tEn": "dative",
+     "d": "表示间接宾语、接受者等语义关系的格。",
+     "dEn": "The case of indirect objects and recipients."
+    },
+    {
+     "t": "属格",
+     "tEn": "genitive",
+     "d": "表示领属或其他限定关系的格。",
+     "dEn": "The case expressing possession or similar qualifying relations."
+    },
+    {
+     "t": "结构格",
+     "tEn": "structural case",
+     "d": "由句法位置决定而非由题元角色决定的格。",
+     "dEn": "Case determined by syntactic position rather than by thematic role."
+    },
+    {
+     "t": "格筛选",
+     "tEn": "case filter",
+     "d": "要求每个显性名词短语获得抽象格的生成语法原则。",
+     "dEn": "The generative principle requiring every overt noun phrase to receive abstract case."
+    }
+   ],
+   "related": [
+    "agreement",
+    "thematic-role",
+    "head",
+    "typology",
+    "morphology"
+   ],
+   "sources": [
+    "Wikipedia, \"Grammatical case\", https://en.wikipedia.org/wiki/Grammatical_case",
+    "Fillmore, The Case for Case, 1968",
+    "Blake, Case, Cambridge University Press, 2001"
+   ]
+  }
+ ]
+}

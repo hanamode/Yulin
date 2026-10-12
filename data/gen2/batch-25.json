@@ -1,0 +1,330 @@
+{
+ "batch": 25,
+ "entries": [
+  {
+   "id": "word-embedding",
+   "title": "词向量",
+   "en": "Word Embedding",
+   "category": "concepts",
+   "tags": [
+    "分布式表示",
+    "词义相似度",
+    "自然语言处理",
+    "神经网络"
+   ],
+   "summary": "词向量又称词嵌入，是把词表中的每个词映射为固定维度实数向量的表示方法，使语义相近的词在向量空间中彼此靠近。其依据是分布假设：出现在相似上下文中的词，意义往往也相似。早期以潜在语义分析为代表，2013年 word2vec 提出后成为主流，随后出现 GloVe、fastText，以及依据语境动态生成向量的 ELMo、BERT 等模型。词向量是自然语言处理的基础表示，也是计算语言学与词汇语义学交叉的重要课题。",
+   "summaryEn": "A word embedding maps every item in a vocabulary to a dense real-valued vector, so that words with similar meanings occupy nearby positions in a vector space. It rests on the distributional hypothesis: words occurring in similar contexts tend to be similar in meaning. Latent semantic analysis pioneered the idea, word2vec made it mainstream in 2013, and GloVe, fastText, and contextual models such as ELMo and BERT followed. Embeddings now form the basic representation layer of natural language processing and a productive meeting point between computational linguistics and lexical semantics.",
+   "sections": [
+    {
+     "h": "定义与基本假设",
+     "hEn": "Definition and Basic Assumptions",
+     "p": [
+      "词向量又称词嵌入，是把词表中的每个词映射为固定维度的实数向量，使向量之间的距离或夹角反映词语在语义与句法上的相似性。其理论依据是分布假设：词语的意义可以从它出现的上下文推断，出现在相似上下文中的词往往意义相近。与把词视为离散符号的传统做法相比，词向量让语义相似度可以用几何运算来度量，因而成为统计与神经网络自然语言处理的基础表示层，也是连接计算模型与词汇语义学研究的桥梁。"
+     ],
+     "pEn": [
+      "A word embedding is a mapping from each item in a vocabulary to a dense real-valued vector, arranged so that distances or angles between vectors reflect semantic and syntactic similarity. The underlying assumption is distributional: the meaning of a word can be inferred from the contexts in which it occurs, and words appearing in similar contexts tend to be similar in meaning. Unlike the traditional treatment of words as discrete symbols, embeddings turn semantic similarity into a matter of geometry, and they therefore serve as the basic representation layer of statistical and neural natural language processing."
+     ]
+    },
+    {
+     "h": "主要方法",
+     "hEn": "Major Approaches",
+     "p": [
+      "早期方法以潜在语义分析为代表，通过对词与文档的共现矩阵做奇异值分解获得低维表示。2013年 word2vec 提出连续词袋与跳元两种模型，用浅层神经网络在大规模语料上高效训练，成为标志性成果。随后 GloVe 利用全局共现统计，fastText 加入子词信息以处理未登录词与形态丰富的语言。近年来的 ELMo、BERT 等模型依据上下文动态生成向量，同一个词在不同句子中可以得到不同表示。"
+     ],
+     "pEn": [
+      "Early approaches, notably latent semantic analysis, obtained low-dimensional representations by applying singular value decomposition to a word-document co-occurrence matrix. In 2013 word2vec introduced the continuous bag-of-words and skip-gram models, which train shallow neural networks efficiently on very large corpora and became landmarks in the field. GloVe then exploited global co-occurrence statistics, while fastText incorporated subword information to handle unseen words and morphologically rich languages. More recently ELMo and BERT produce contextual vectors, so that one word receives different representations in different sentences."
+     ]
+    },
+    {
+     "h": "语言学示例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "词向量最常被引用的例子是类比运算：king 减 man 加 woman 的结果最接近 queen，说明性别等语义维度在向量空间中近似线性可分。汉语中「北京」减「中国」加「法国」最接近「巴黎」，同样体现地理关系。这类运算也暴露局限：多义词如「银行」（河岸或金融机构）通常被压缩为一个向量，「苹果」的果实义与公司义也难以区分，上下文词向量正是为缓解这一问题而提出的。"
+     ],
+     "pEn": [
+      "The most cited example is analogy arithmetic: king minus man plus woman yields a vector closest to queen, suggesting that dimensions such as gender are approximately linear in the space. In Chinese, 北京 minus 中国 plus 法国 comes closest to 巴黎, reflecting a comparable geographical relation. Such operations also expose limitations: a polysemous word like 银行, meaning either a river bank or a financial institution, is usually collapsed into a single vector, and the fruit and company senses of 苹果 are likewise hard to separate, which is precisely what contextual embeddings were designed to mitigate."
+     ]
+    },
+    {
+     "h": "评价与争议",
+     "hEn": "Assessment and Criticism",
+     "p": [
+      "支持者认为词向量把分布假设变成了可计算、可迁移的表示，显著提升了机器翻译、信息检索与文本分类等任务的性能。批评主要有三点：其一，向量会继承语料中的社会偏见，例如职业词的性别刻板印象；其二，相似度结果对超参数与训练语料高度敏感，跨研究可比性存疑；其三，几何运算能否真正等同于语义推理，学界仍有争论。"
+     ],
+     "pEn": [
+      "Advocates argue that embeddings convert the distributional hypothesis into a computable and transferable representation, markedly improving machine translation, information retrieval, and text classification. Three criticisms recur. First, vectors inherit social biases present in the corpus, including gender stereotypes attached to occupation words. Second, similarity results are highly sensitive to hyperparameters and training corpora, which raises doubts about comparability across studies. Third, whether geometric arithmetic genuinely amounts to semantic reasoning remains disputed."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "分布式假设",
+     "tEn": "Distributional Hypothesis",
+     "d": "认为词语的意义可由其经常出现的上下文推断出来的语言学假设。",
+     "dEn": "The assumption that a word's meaning can be inferred from its contexts of occurrence."
+    },
+    {
+     "t": "跳元模型",
+     "tEn": "Skip-gram",
+     "d": "word2vec中由中心词出发预测其周围上下文词的一种浅层神经网络模型。",
+     "dEn": "The word2vec model that predicts surrounding context words from a center word."
+    },
+    {
+     "t": "连续词袋",
+     "tEn": "Continuous Bag-of-Words",
+     "d": "word2vec中由上下文词共同预测中心词的一种浅层神经网络语言模型。",
+     "dEn": "The word2vec model that predicts a center word from its context words."
+    },
+    {
+     "t": "上下文词向量",
+     "tEn": "Contextual Embedding",
+     "d": "依据词语所在句子的具体语境动态生成、随句子变化而变化的词向量表示。",
+     "dEn": "A word representation generated dynamically from the surrounding sentential context."
+    },
+    {
+     "t": "余弦相似度",
+     "tEn": "Cosine Similarity",
+     "d": "用两个词向量夹角的余弦值衡量词语语义相似程度的一种常用指标。",
+     "dEn": "A similarity measure based on the cosine of the angle between two vectors."
+    },
+    {
+     "t": "子词信息",
+     "tEn": "Subword Information",
+     "d": "把词拆分为字符或语素片段来表示，以处理未登录词与形态变化的手段。",
+     "dEn": "Representing words by character or morpheme fragments so that unseen words can be handled."
+    }
+   ],
+   "related": [
+    "computational-linguistics",
+    "semantics",
+    "language-model",
+    "corpus-linguistics",
+    "part-of-speech-tagging"
+   ],
+   "sources": [
+    "Wikipedia, \"Word embedding\", https://en.wikipedia.org/wiki/Word_embedding",
+    "Mikolov, Chen, Corrado and Dean, Efficient Estimation of Word Representations in Vector Space, 2013"
+   ]
+  },
+  {
+   "id": "language-model",
+   "title": "语言模型",
+   "en": "Language Model",
+   "category": "concepts",
+   "tags": [
+    "概率模型",
+    "n元语法",
+    "神经网络",
+    "困惑度"
+   ],
+   "summary": "语言模型是给词语序列分配概率的模型，用来判断一个句子在语言中出现的可能性，或预测下一个词。早期以n元语法为代表，用马尔可夫假设估计条件概率，并借助平滑技术缓解数据稀疏；其后出现最大熵模型与神经网络语言模型。2018年以来，基于Transformer的预训练模型（如BERT、GPT）把语言模型推向前台，成为机器翻译、语音识别与文本生成的核心组件，也引发了关于其是否真正掌握语言知识的争论。",
+   "summaryEn": "A language model assigns a probability to a sequence of words, so that it can judge how likely a sentence is in a language or predict the next word. Early work relied on n-gram models, which estimate conditional probabilities under a Markov assumption and use smoothing to cope with sparse data; maximum-entropy and neural models followed. Since 2018, Transformer-based pretrained models such as BERT and GPT have made language modelling central to machine translation, speech recognition, and text generation, while prompting debate about whether they genuinely capture linguistic knowledge.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "语言模型是给词序列指派概率的数学模型。给定一个长度为n的序列 w1 到 wn，它估计这一序列作为合法句子出现的概率，并由此导出条件概率，即在前文已知时下一个词出现的可能性。主要研究内容包括：如何用有限语料估计高维概率分布、如何处理未见过的组合、如何评价模型质量，以及模型在机器翻译、语音识别、拼写纠错与文本生成等任务中的使用。语言模型的概率来自语料统计，因此语料规模与领域对结果影响很大。"
+     ],
+     "pEn": [
+      "A language model is a mathematical model that assigns probabilities to sequences of words. Given a sequence w1 to wn, it estimates the probability of that sequence as a sentence and derives from it the conditional probability of the next word given the preceding context. Its central questions are how to estimate a high-dimensional distribution from finite data, how to treat combinations never observed, how to evaluate model quality, and how the model is used in machine translation, speech recognition, spelling correction, and text generation. Because the probabilities come from corpus statistics, corpus size and domain strongly affect the outcome."
+     ]
+    },
+    {
+     "h": "基本概念与类型",
+     "hEn": "Basic Concepts and Types",
+     "p": [
+      "n元语法模型是最基本的一类，它假设当前词只依赖前n减1个词：二元语法只看前一个词，三元语法看前两个词。这大大减少了参数量，却带来数据稀疏问题，因而需要平滑处理，如加一平滑、Kneser-Ney 平滑与回退。其后出现的最大熵模型与循环神经网络模型放宽了固定窗口的假设。当代大型预训练模型多为自回归模型，逐词生成；也有像BERT这样通过掩蔽部分词来训练的模型，属于掩蔽语言模型。"
+     ],
+     "pEn": [
+      "The n-gram model is the most basic type: it assumes that the current word depends only on the previous n minus one words, so a bigram looks at one preceding word and a trigram at two. This greatly reduces the number of parameters but creates data sparsity, which requires smoothing such as add-one, Kneser-Ney, and backoff. Maximum-entropy and recurrent neural models later relaxed the fixed-window assumption. Most contemporary large pretrained models are autoregressive, generating one word at a time, while models such as BERT are masked language models trained by predicting hidden words."
+     ]
+    },
+    {
+     "h": "评价指标",
+     "hEn": "Evaluation Metrics",
+     "p": [
+      "常用指标是困惑度，即模型对测试语料平均每词的不确定程度，数值越低说明模型对语料的预测越好，随机猜测时困惑度约等于词表大小。此外还有以词错误率衡量的语音识别效果、以BLEU等指标衡量的生成质量，以及针对具体语言学现象的探针任务。困惑度便于比较，却与下游任务表现并非总是一致，因此现代研究往往同时报告多类指标。"
+     ],
+     "pEn": [
+      "The standard measure is perplexity, the average uncertainty the model has about each word of a test corpus; lower values mean better prediction, and a random guesser has perplexity roughly equal to vocabulary size. Other measures include word error rate for speech recognition, BLEU and related scores for generation quality, and probing tasks that target specific linguistic phenomena. Perplexity is convenient for comparison, yet it does not always align with downstream performance, so modern studies usually report several kinds of evaluation."
+     ]
+    },
+    {
+     "h": "示例与应用",
+     "hEn": "Examples and Applications",
+     "p": [
+      "在英语句子 The cat sat on the 之后，语料统计会给出 mat 或 floor 等概率较高的候选，而 give 的概率很低；汉语「今天天气真」之后，「好」的概率明显高于「桌子」。机器翻译的解码器、语音识别的语言端、输入法的候选排序都依赖这类概率。传统方法还常把语言模型与声学模型结合，例如在语音识别中用声学证据与语言模型概率共同确定识别结果。"
+     ],
+     "pEn": [
+      "After the English fragment the cat sat on the, a corpus-based model assigns high probability to candidates such as mat or floor and very low probability to give; after the Chinese fragment 今天天气真, 好 is far more probable than 桌子. The decoder of a machine translation system, the language side of a speech recogniser, and the candidate ranking of an input method all depend on such probabilities. Classical systems also combine the language model with an acoustic model, using acoustic evidence and language model probability together to decide the recognised string."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticism",
+     "p": [
+      "争论集中在三方面。第一，大型模型是否学到了语法规则，还是仅仅记住了大规模文本中的统计规律，乔姆斯基等学者对此持怀疑态度。第二，训练语料包含偏见与有害内容，模型会将其复制并放大。第三，模型需要巨大算力与数据，资源消耗与可复现性问题突出。支持者则认为，语言模型在句法一致性与长距离依赖上的表现已构成关于语言知识的经验证据。"
+     ],
+     "pEn": [
+      "Debate centres on three issues. First, whether large models acquire grammatical rules or merely memorise statistical regularities in massive texts, a point on which scholars such as Chomsky have been sceptical. Second, training corpora contain bias and harmful content that models reproduce and amplify. Third, the models demand enormous computation and data, raising concerns about cost and reproducibility. Advocates reply that the performance of language models on agreement and long-distance dependencies already constitutes empirical evidence about linguistic knowledge."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "n元语法",
+     "tEn": "n-gram",
+     "d": "一种假设当前词只依赖其前面有限的n减1个词来估计概率的序列模型。",
+     "dEn": "A sequence model assuming a word depends only on the preceding n minus one words."
+    },
+    {
+     "t": "困惑度",
+     "tEn": "Perplexity",
+     "d": "衡量语言模型对测试语料中每个词预测不确定程度的常用指标，数值越低越好。",
+     "dEn": "A measure of how uncertain a language model is about each word of a test corpus."
+    },
+    {
+     "t": "平滑",
+     "tEn": "Smoothing",
+     "d": "给未在语料中出现的词组合分配非零概率，以缓解数据稀疏问题的技术。",
+     "dEn": "A technique assigning non-zero probability to unseen combinations to counter data sparsity."
+    },
+    {
+     "t": "自回归模型",
+     "tEn": "Autoregressive Model",
+     "d": "按从左到右的顺序，每次依据已生成的前文预测下一个词的语言模型。",
+     "dEn": "A language model that predicts each next word in left-to-right order."
+    },
+    {
+     "t": "掩蔽语言模型",
+     "tEn": "Masked Language Model",
+     "d": "训练时随机遮蔽部分词语，再让模型预测这些被遮蔽词的语言模型。",
+     "dEn": "A language model trained by predicting words that have been masked out."
+    },
+    {
+     "t": "预训练",
+     "tEn": "Pretraining",
+     "d": "在大规模无标注语料上先行训练模型，再将其迁移到具体下游任务的做法。",
+     "dEn": "Training a model on large unlabelled corpora before adapting it to downstream tasks."
+    }
+   ],
+   "related": [
+    "word-embedding",
+    "computational-linguistics",
+    "machine-translation",
+    "corpus-linguistics",
+    "part-of-speech-tagging"
+   ],
+   "sources": [
+    "Wikipedia, \"Language model\", https://en.wikipedia.org/wiki/Language_model",
+    "Shannon, A Mathematical Theory of Communication, 1948"
+   ]
+  },
+  {
+   "id": "machine-translation",
+   "title": "机器翻译",
+   "en": "Machine Translation",
+   "category": "concepts",
+   "tags": [
+    "自然语言处理",
+    "平行语料",
+    "统计翻译",
+    "神经翻译"
+   ],
+   "summary": "机器翻译是利用计算机把一种自然语言的文本自动转换为另一种语言的文本，是自然语言处理中最古老也最具代表性的任务之一。其发展经历了基于规则、基于统计和基于神经网络三个阶段：统计方法依靠平行语料学习概率模型，神经方法用编码器与解码器直接建模端到端翻译。当代系统多采用Transformer结构与注意力机制，质量大幅提升，但在低资源语言、长句与文学翻译上仍有明显局限。",
+   "summaryEn": "Machine translation uses computers to convert text from one natural language into another and is among the oldest and most representative tasks in natural language processing. It developed through rule-based, statistical, and neural stages: statistical systems learned probabilistic models from parallel corpora, whereas neural systems model translation end to end with encoders and decoders. Contemporary systems rely on the Transformer architecture and attention, which improved quality considerably, yet clear limitations persist for low-resource languages, very long sentences, and literary translation.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "机器翻译指利用计算机把源语言的文本自动转换为目标语言中意义相当的文本。它要处理的问题包括词汇歧义、词序差异、形态变化与省略。例如英语 the 在汉语中通常没有对应词，汉语「我把书放在桌子上」中的方位词「上」在英语里由介词 on 承担。研究内容涵盖翻译模型的设计、平行语料的获取与对齐、译文质量的自动评价，以及译后编辑与人工交互等应用问题，同时与对比语言学的研究成果密切相关。"
+     ],
+     "pEn": [
+      "Machine translation is the automatic conversion of text in a source language into text of equivalent meaning in a target language. It must handle lexical ambiguity, differences in word order, morphological variation, and omission. The English definite article the, for instance, usually has no counterpart in Chinese, while the Chinese locative 上 in 我把书放在桌子上 is carried by the preposition on in English. Research covers translation model design, the acquisition and alignment of parallel corpora, automatic evaluation of output quality, and applications such as post-editing and interactive translation."
+     ]
+    },
+    {
+     "h": "发展简史",
+     "hEn": "Historical Development",
+     "p": [
+      "1954年乔治城大学与IBM合作的俄英实验展示了机器翻译的可行性，此后以规则与词典为主的直接翻译系统长期占主导。1990年代，IBM模型系列把翻译形式化为噪声信道问题，统计机器翻译兴起，短语与句法模型相继出现。2014年前后，编码器—解码器加注意力机制的神经机器翻译迅速取代统计方法；2017年Transformer提出后，基于自注意力的大规模预训练与多语言模型成为主流。"
+     ],
+     "pEn": [
+      "A Russian-English experiment by Georgetown University and IBM in 1954 demonstrated the feasibility of machine translation, after which rule- and dictionary-based direct systems dominated for decades. In the 1990s the IBM model series formalised translation as a noisy-channel problem, statistical machine translation flourished, and phrase-based and syntax-based models followed. Around 2014 neural machine translation with encoder-decoder architectures and attention rapidly displaced statistical methods, and after the Transformer appeared in 2017, large self-attention-based pretrained and multilingual models became standard."
+     ]
+    },
+    {
+     "h": "主要方法",
+     "hEn": "Major Methods",
+     "p": [
+      "基于规则的方法依靠双语词典、形态分析与转换规则，可控但开发成本高。统计方法从平行语料中学习词对齐与翻译概率，短语模型把短语作为翻译单位。神经方法用编码器把源句压缩为向量序列，解码器逐词生成译文，注意力机制让解码器在每一步关注源句的不同位置。训练目标通常为最大似然，解码时用束搜索。质量评价常用BLEU，它统计译文与参考译文的n元重合度，但忽略语义等价。"
+     ],
+     "pEn": [
+      "Rule-based approaches rely on bilingual dictionaries, morphological analysis, and transfer rules; they are controllable but costly to build. Statistical approaches learn word alignments and translation probabilities from parallel corpora, with phrase-based models treating phrases as translation units. Neural approaches encode the source sentence into a sequence of vectors and let a decoder generate the target word by word, while attention allows the decoder to focus on different source positions at each step. Training usually maximises likelihood and decoding uses beam search. Quality is often measured by BLEU, which counts n-gram overlap with reference translations but ignores semantic equivalence."
+     ]
+    },
+    {
+     "h": "评价与争议",
+     "hEn": "Assessment and Criticism",
+     "p": [
+      "现有系统在新闻、技术文档等资源丰富、文体规范的领域已接近可用水平，并广泛用于网页翻译与译后编辑。争议与批评集中在：低资源语言与口语变体缺少平行语料，质量明显下降；长句与需要跨句照应的篇章翻译仍不稳定；BLEU 等指标与人工判断不完全一致；译文可能沿用语料中的性别与政治偏见；此外，机器翻译对译者职业与语言多样性也有深远的社会影响。"
+     ],
+     "pEn": [
+      "Current systems approach usable quality in well-resourced, formulaic domains such as news and technical documentation, and they are widely used for web translation and post-editing. Criticism concentrates on several points: low-resource languages and spoken varieties lack parallel data and degrade sharply; long sentences and discourse phenomena requiring cross-sentence reference remain unstable; metrics such as BLEU do not fully agree with human judgement; outputs may reproduce gender and political biases from the data; and the technology has far-reaching social effects on the translating profession and on linguistic diversity."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "平行语料",
+     "tEn": "Parallel Corpus",
+     "d": "由源语言文本和与之对应的目标语言译文共同构成的双语语料库。",
+     "dEn": "A bilingual corpus made of source texts together with their translations."
+    },
+    {
+     "t": "词对齐",
+     "tEn": "Word Alignment",
+     "d": "标注源语言句子与目标语言译句之间词语对应关系的分析工作。",
+     "dEn": "The annotation of correspondences between words in a source sentence and its translation."
+    },
+    {
+     "t": "噪声信道模型",
+     "tEn": "Noisy Channel Model",
+     "d": "把翻译看成源句先经信道编码、再由解码器还原为目标句的概率框架。",
+     "dEn": "A probabilistic framework treating translation as decoding from an encoded source sentence."
+    },
+    {
+     "t": "注意力机制",
+     "tEn": "Attention Mechanism",
+     "d": "让解码器在生成每个词时动态聚焦源句不同位置信息的技术。",
+     "dEn": "A technique letting the decoder focus on relevant source parts at each generation step."
+    },
+    {
+     "t": "BLEU",
+     "tEn": "BLEU",
+     "d": "通过统计译文与参考译文的n元组重合度来评价翻译质量的自动指标。",
+     "dEn": "An automatic metric scoring translations by n-gram overlap with references."
+    },
+    {
+     "t": "神经机器翻译",
+     "tEn": "Neural Machine Translation",
+     "d": "用编码器与解码器组成的端到端神经网络直接建模翻译过程的方法。",
+     "dEn": "An approach modelling translation directly with an end-to-end neural network."
+    }
+   ],
+   "related": [
+    "computational-linguistics",
+    "language-model",
+    "word-embedding",
+    "applied-linguistics",
+    "corpus-linguistics"
+   ],
+   "sources": [
+    "Wikipedia, \"Machine translation\", https://en.wikipedia.org/wiki/Machine_translation",
+    "Koehn, Statistical Machine Translation, Cambridge University Press, 2010"
+   ]
+  }
+ ]
+}

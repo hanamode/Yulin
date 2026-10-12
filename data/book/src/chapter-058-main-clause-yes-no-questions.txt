@@ -1,0 +1,112 @@
+# 6.7 Main clause Yes-No questions
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1493#oembed-1
+
+## From embedded questions to main clause questions
+
+So far we’ve seen embedded questions, introduced by whether or if, but what about actual questions—ones that we would write in English with a question mark? What generalizations can we make about this type of sentence?
+Let’s start with Yes-No Questions—questions whose answer in English can be “yes” or “no”. Consider first the statements in (1).
+
+[表格]
+| | | (1) | | a. | | It will rain. | | | | | | b. | | They have left. | | | | | | c. | | Ghosts are haunting this house. | | |
+
+The statements in (1) become questions in (2):
+
+[表格]
+| | | (2) | | a. | | Will it rain? | | | | | | b. | | Have they left yet? | | | | | | c. | | Are ghosts haunting this house? | | |
+
+The questions in (2) could be answered by “yes” followed by the corresponding sentence in (1), or “no” followed by the negation of one of those sentences.
+Comparing the statements and their corresponding questions helps us state a generalization about the structure of Yes-No questions in English: Yes-No Question Formation in English Yes-No questions are formed by moving the first auxiliary in the main clause to the front of the sentence (i.e. before the subject).
+This is also known as Subject-Auxiliary Inversion (or Subject-Aux Inversion).
+
+It’s important that we say “the first auxiliary in the main clause”, instead of just looking for the first auxiliary in the sentence. If there’s an auxiliary inside the subject, then it’s not the one that moves. We can see this by thinking about how to form a Yes-No question based on the statement in (3)
+
+[表格]
+| | | (3) | | | | [ The information [ that was shared ] ] will surprise them. | | |
+
+The subject of this sentence is [the information that was shared], which contains the auxiliary was. But trying to do Subject-Auxiliary Inversion with was as in (4a) is extremely ungrammatical; you have to move the auxiliary will from the main clause instead, as in (4b).
+
+[表格]
+| | | (4) | | a. | | * Was [ the information [ that _ shared ] ] will surprise them? | | | | | | b. | | Will [ the information [ that was shared ] ] _ surprise them? | | |
+
+As far as linguists know, there is no human language with a grammatical process like “form questions by taking the first auxiliary you encounter, and putting it at the front of the sentence”. That’s interesting partly because it’s a very computationally simple kind of rule. The fact that we don’t find it in human languages supports the idea that structure and constituency, not merely the linear order of words, is fundamental to natural language grammars.
+Subject-Auxiliary Inversion can be described as a transformation. A transformation is a rule that changes the structure of a sentence in a predictable way, by reordering the constituents. It gives us a way of describing a set of grammatical sentences based on their consistent relationship to another set of sentences.
+In current syntactic theory, transformations are usually formalized of in terms of movement. We will return to the idea of syntactic movement in the context of tree diagrams in 6.19 Trees: Movement.
+
+One of the big differences among current theories in syntax is whether they are transformational or not—that is, whether theories propose that transformations or movement exist as syntactic operations. By proposing that Subject-Auxiliary Inversion is a transformation, we are hypothesizing that someone’s mental grammar applies it as a process while building the structure of sentences. The alternative view is that Subject-Auxiliary Inversion is a generalization about the relationship between statements and questions in English, but not a change or process that actively applies in anyone’s mental grammar.
+Knowing about this difference may help you relate this chapter to other courses in linguistics in the future, where you may encounter both transformational and non-transformational theories of syntax.
+
+## Do-Support
+
+There’s one last piece we have to discuss with regard to Subject-Auxiliary Inversion in English, which is: what do we do when there’s no auxiliary? Consider the sentence in (5):
+
+[表格]
+| | | (5) | | | | Ghosts exist | | |
+
+There’s no auxiliary in this sentence. But when we form a question, suddenly an auxiliary do appears!
+
+[表格]
+| | | (6) | | | | Do ghosts exist? | | |
+
+Where does this do come from?
+Generally in English, in contexts that require an auxiliary for a grammatical reason, do shows up whenever there wasn’t already an auxiliary in the sentence. This is true not only in questions but also in negative sentences, as shown in (7). There’s no way to make this sentence negative without adding do, as shown by the ungrammaticality of (7b) and (7c).
+
+[表格]
+| | | (7) | | a. | | Ghosts don’t exist. | | | | | | b. | | *Ghostsn’t exist. | | | | | | c. | | *Ghosts existn’t. | | |
+
+If there’s already an auxiliary, however, you don’t get to add do for free in the same way. This is shown in (8), where the presence of the auxiliary have makes it impossible to add auxiliary do, even in negative or interrogative sentences.
+
+[表格]
+| | | (8) | | a. | | They have left. | | | | | | b. | | They haven’t left. | | | | | | c. | | *They don’t have left. | | | | | | d. | | *Don’t they have left? | | |
+
+The rule that adds do when a sentence requires an auxiliary in order to be grammatical is called Do-Support.
+
+## Questions without Subject-Aux inversion
+
+There’s another way to form Yes-No Questions in English, without any change in word order at all. This is by using question intonation: just pronouncing the sentence “as though it had a question mark.”
+So for example, alongside (9a), in some contexts I might just say (9b), without Subject-Auxiliary Inversion.
+
+[表格]
+| | | (9) | | a. | | Do ghosts exist? | | | | | | b. | | Ghosts exist? | | |
+
+For many English speakers, questions like this are a bit more restricted than questions formed by Subject-Aux Inversion. Try to think of the contexts in which you might say “Ghosts exist?” instead of “Do ghosts exist?”. While sometimes you could say either one, “Ghosts exist?” is slightly better in contexts where you’re asking someone to repeat themselves, or maybe expressing surprise.
+
+## Embedded questions, main clause questions, and punctuation
+
+What are we doing in conversation when we use main clause questions versus when we use embedded questions?
+If you’re talking to someone and you produce a main clause question—like “Do you like chocolate?”—you are actually asking a question, usually hoping that the person you’re talking to will answer it, to give you information you’re looking for.
+In English we indicate this with punctuation: questions have to end with a question mark (?), while other sentence types end with either a full stop (.) or an exclamation point (!).
+But if you’re talking to someone and you produce a sentence with an embedded question—like “They asked if I like chocolate.”—you’re not actually asking the question yourself. Instead you’re reporting on what someone else said, what they believe, or maybe what they know. These sentences do not end with a question mark, because the sentence as a whole isn’t a question.
+Now that we’ve looked at properties of both main clause questions and embedded questions, we can see what happens when combine them! Consider a sentence like (10):
+
+[表格]
+| | | (10) | | | | They should know that ghosts exist. | | |
+
+We can turn the embedded clause into a question, as in (11):
+
+[表格]
+| | | (11) | | | | They should know whether ghosts exist. | | |
+
+Or we could make the whole sentence a question, but leave the embedded clause as a statement, as in (12):
+
+[表格]
+| | | (12) | | | | Should they know that ghosts exist? | | |
+
+Or we could do both at once, as in (13)!
+
+[表格]
+| | | (13) | | | | Should they know whether ghosts exist? | | |
+
+In this last example, we have two [+Q] complementizer phrases. In the main clause this triggers Subject-Auxiliary Inversion (which is how main clause questions are marked in English), while in the embedded clause we get the question complementizer whether (which is how embedded Yes-No questions are marked in English).
+
+## Summary
+
+In this section we’ve seen how main clause Yes-No questions are formed in English, via the process of Yes-No Question Formation (also known as Subject-Auxiliary Inversion): the auxiliary that would occur after the subject in a statement instead occurs before the subject. We’ve also seen how Do-Support applies in sentences that wouldn’t otherwise have an auxiliary that could go before the subject, and how some Yes-No questions can be marked just via intonation. Finally, for complex sentences, we briefly looked at the difference between a main clause question and an embedded question.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.18 Trees: Embedded clauses and the next section is 6.8 Main clause content questions.

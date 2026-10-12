@@ -1,0 +1,25 @@
+{
+ "batch": 65,
+ "chapter": "[in progress] Chapter 14: Historical Linguistics",
+ "out": "data/book/gen/batch-65.json",
+ "sections": [
+  {
+   "id": "part-014-chapter-14-historical-linguistics",
+   "title": "[in progress] Chapter 14: Historical Linguistics",
+   "src": "data/book/src/part-014-chapter-14-historical-linguistics.txt",
+   "chars": 974
+  },
+  {
+   "id": "chapter-151-slug-14-1-why-do-languages-change",
+   "title": "14.1 Why do languages change?",
+   "src": "data/book/src/chapter-151-slug-14-1-why-do-languages-change.txt",
+   "chars": 20529
+  },
+  {
+   "id": "chapter-152-slug-14-2-lexical-change",
+   "title": "14.2 Lexical change",
+   "src": "data/book/src/chapter-152-slug-14-2-lexical-change.txt",
+   "chars": 13392
+  }
+ ]
+}

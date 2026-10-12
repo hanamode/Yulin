@@ -1,0 +1,25 @@
+{
+ "batch": 42,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-42.json",
+ "sections": [
+  {
+   "id": "chapter-091-slug-8-3-semantics-and-pragmatics-in-the-legal-domain",
+   "title": "8.3 Semantics and pragmatics in the legal domain",
+   "src": "data/book/src/chapter-091-slug-8-3-semantics-and-pragmatics-in-the-legal-domain.txt",
+   "chars": 9968
+  },
+  {
+   "id": "chapter-092-slug-8-4-conversational-implicatures",
+   "title": "8.4 Conversational implicatures",
+   "src": "data/book/src/chapter-092-slug-8-4-conversational-implicatures.txt",
+   "chars": 2627
+  },
+  {
+   "id": "chapter-093-slug-8-5-the-cooperative-principle",
+   "title": "8.5 The Cooperative Principle",
+   "src": "data/book/src/chapter-093-slug-8-5-the-cooperative-principle.txt",
+   "chars": 25139
+  }
+ ]
+}

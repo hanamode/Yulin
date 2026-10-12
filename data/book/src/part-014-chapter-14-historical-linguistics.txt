@@ -1,0 +1,16 @@
+# [in progress] Chapter 14: Historical Linguistics
+
+Languages are constantly changing, from one generation to the next, and even within a generation. Languages can change in any of the ways that they can differ from each other: phonology, morphology, syntax, etc. This chapter explores the many ways that languages can change, as well as how we can make educated guesses at what languages looked like in the past.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Categorize examples of language change using technical terminology.
+- Analyze linguistic data to determine what kind of language changes are demonstrated and to reconstruct proto-forms of the data.
+- Recognize and refute common myths about language change.
+
+This chapter is currently under construction. Sections 14.1–14.6 and 14.8–14.9 are complete but subject to change. Forthcoming additional sections include:
+- 14.7 External change
+- 14.10 More comparative reconstruction
+- 14.11 Language families
+- 14.12 Linguistic paleontology
+- 14.13 Beyond the comparative method

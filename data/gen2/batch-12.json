@@ -1,0 +1,361 @@
+{
+ "batch": 12,
+ "entries": [
+  {
+   "id": "head",
+   "title": "中心语",
+   "en": "Head",
+   "category": "concepts",
+   "tags": [
+    "中心语",
+    "短语结构",
+    "投射",
+    "语序类型",
+    "句法"
+   ],
+   "summary": "中心语是短语中决定该短语整体语法性质与句法分布的核心成分。短语通常以中心语为枢纽：其词类决定短语类型，如名词决定名词短语、动词决定动词短语；中心语可以带补足语和修饰语，并通过选择限制规定其论元。X 阶理论以 X′ 与 XP 的形式分层刻画中心语与投射的关系，而中心语的位置又被用来划分语言类型，如英语和汉语是中心语前置语言，日语则是中心语后置语言。",
+   "summaryEn": "The head is the core element of a phrase that determines the phrase's category and syntactic distribution. Nouns head noun phrases and verbs head verb phrases, and heads select their complements while imposing subcategorisation restrictions. X-bar theory formalises the relation between a head and its projections through the levels X, X′ and XP, and the position of heads relative to complements underlies the widely used distinction between head-initial and head-final languages such as English and Japanese.",
+   "sections": [
+    {
+     "h": "定义与基本特征",
+     "hEn": "Definition and Basic Properties",
+     "p": [
+      "中心语是短语中不可缺少的核心成分，它决定整个短语的词类归属与句法分布。例如在英语名词短语 the student of physics 中，student 是中心语，它使整个短语具有名词性，可以出现在主语或宾语位置；在动词短语 read the book 中，read 是中心语，决定该短语可以带宾语。中心语通常可以带补足语，并通过次语类化框架规定补足语的形式，如动词 put 要求后面出现名词短语和处所短语。"
+     ],
+     "pEn": [
+      "The head is the obligatory core of a phrase and determines the phrase's category and distribution. In the English noun phrase the student of physics, student is the head: it makes the whole phrase nominal, so the phrase can serve as subject or object. In the verb phrase read the book, read is the head and licenses the object the book. Heads typically take complements and impose a subcategorisation frame on them; the verb put, for instance, requires both a noun phrase and a locative phrase. Modifiers such as adjectives attach around the head without changing the phrase's category."
+     ]
+    },
+    {
+     "h": "中心语与投射",
+     "hEn": "Heads and Projection",
+     "p": [
+      "在生成语法中，中心语通过投射把自身的范畴特征传递给整个短语。X 阶理论用三级结构描写这一过程：中心语 X 与补足语组成 X′，指示语再与 X′ 组成 XP。例如英语 the student of physics 可分析为名词短语，其中心语 N 为 student，补足语为介词短语 of physics，指示语为限定词 the；动词短语可写为 VP → V′，V′ → V NP。由于特征自中心语向上投射，最大投射 XP 与中心语 X 具有相同的范畴性质，这一思想构成了短语结构规则与句法树的基础。"
+     ],
+     "pEn": [
+      "In generative grammar a head projects its category features to the whole phrase. X-bar theory describes this with three levels: a head X combines with its complement to form X′, and a specifier combines with X′ to form XP. The English noun phrase the student of physics can thus be analysed as an NP whose head N is student, whose complement is the prepositional phrase of physics, and whose specifier is the determiner the. Because features project from the head, the maximal projection shares the category of its head; this assumption underlies both phrase structure rules and syntactic trees."
+     ]
+    },
+    {
+     "h": "中心语的位置与语言类型",
+     "hEn": "Head Position and Language Typology",
+     "p": [
+      "中心语与补足语的相对顺序是语言类型学的一个重要参数。英语、汉语等属于中心语前置语言，中心语出现在补足语之前，如英语 read the book、汉语读那本书；日语、韩语等属于中心语后置语言，动词位于宾语之后，如日语 太郎が本を読む（Tarō ga hon o yomu，太郎读书）中动词読む yomu 出现在句末。这一对立与介词和名词的相对位置、关系从句的位置等多项特征相互关联，格林伯格提出的语序共性即以此为基础。"
+     ],
+     "pEn": [
+      "The order of head and complement is a central parameter of language typology. English and Mandarin are head-initial: the head precedes its complement, as in read the book and 读那本书. Japanese and Korean are head-final: the verb follows its object, as in Tarō ga hon o yomu 'Tarō reads a book', where the verb yomu comes last. This opposition correlates with the position of adpositions and of relative clauses, and it formed the basis of Greenberg's word-order universals and of later head-directionality parameters."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": [
+      "中心语概念也受到质疑。有学者指出，并非所有短语都能明确找出中心语，如并列结构、无中心语的习语和某些并合形式；功能语言学更重视成分的功能而非中心地位。此外，最简方案取消了 X 阶理论的固定层级，转而用合并与标句特征解释投射，中心语的地位因此被重新界定。汉语中所谓无中心语结构如的字短语，也促使学者重新思考中心语与短语类型之间的关系。"
+     ],
+     "pEn": [
+      "The notion of head is not uncontroversial. Some constructions, such as coordinate structures, idiomatic expressions and certain exocentric phrases, lack an obvious head, and functional approaches stress the role of constituents rather than headedness. The Minimalist Program abandoned the fixed X-bar schema and derives projection from Merge and labelling, redefining what a head is. So-called headless constructions in Mandarin, such as the de-phrase, have likewise prompted rethinking of the relation between heads and phrase types."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "中心语",
+     "tEn": "Head",
+     "d": "短语中决定整个短语词类归属与句法分布的核心成分，通常不可缺少。",
+     "dEn": "The core element of a phrase that determines its category and distribution."
+    },
+    {
+     "t": "投射",
+     "tEn": "Projection",
+     "d": "中心语把自身的范畴与特征向上传递给整个短语的过程或结果。",
+     "dEn": "The process or result by which a head transmits its category features to the phrase."
+    },
+    {
+     "t": "补足语",
+     "tEn": "Complement",
+     "d": "与中心语关系最紧密的短语，通常由中心语的次语类化特征所选择。",
+     "dEn": "A phrase closely combined with and usually selected by a head."
+    },
+    {
+     "t": "指示语",
+     "tEn": "Specifier",
+     "d": "位于单阶投射 X′ 之上、与其组合成最大投射 XP 的短语，如名词短语中的限定词。",
+     "dEn": "A phrase occupying the position above X′ and forming XP with it."
+    },
+    {
+     "t": "中心语前置",
+     "tEn": "Head-initial",
+     "d": "中心语位于补足语之前的一种语序类型，英语、汉语等属于此类。",
+     "dEn": "A word-order type in which the head precedes its complement."
+    },
+    {
+     "t": "中心语后置",
+     "tEn": "Head-final",
+     "d": "中心语位于补足语之后的一种语序类型，日语、韩语等属于此类。",
+     "dEn": "A word-order type in which the head follows its complement."
+    },
+    {
+     "t": "X 阶理论",
+     "tEn": "X-bar theory",
+     "d": "用中心语 X、单阶投射 X′ 与最大投射 XP 三级结构描写短语结构的理论。",
+     "dEn": "A theory describing phrases with the three levels X, X′ and XP."
+    },
+    {
+     "t": "次语类化",
+     "tEn": "Subcategorisation",
+     "d": "中心语对所能搭配的补足语的句法形式与数量提出的选择限制。",
+     "dEn": "The restriction a head imposes on the syntactic form of its complements."
+    }
+   ],
+   "related": [
+    "phrase-structure-rule",
+    "constituent",
+    "syntactic-tree",
+    "lexical-category"
+   ],
+   "sources": [
+    "Wikipedia, \"Head (linguistics)\", https://en.wikipedia.org/wiki/Head_(linguistics)",
+    "Chomsky, Syntactic Structures, 1957",
+    "Jackendoff, X-bar Syntax: A Study of Phrase Structure, 1977"
+   ]
+  },
+  {
+   "id": "phrase-structure-rule",
+   "title": "短语结构规则",
+   "en": "Phrase Structure Rule",
+   "category": "concepts",
+   "tags": [
+    "短语结构规则",
+    "改写规则",
+    "生成语法",
+    "句法树",
+    "递归"
+   ],
+   "summary": "短语结构规则是生成语法早期用来说明句子和短语如何由较小成分组合的改写规则，形式为 A → B C，表示范畴 A 可以改写为 B 与 C 的序列。它规定成分的层次组合与线性顺序，是句法树和括号标记法的直接来源。乔姆斯基在《句法结构》中用 S → NP VP、VP → V NP 等规则生成英语句子，并讨论了规则的生成能力问题，后来的 X 阶理论与最简方案又对其形式和作用作了重要修正。",
+   "summaryEn": "A phrase structure rule is a rewrite rule of early generative grammar, written A → B C, which states that a category A may be expanded as the sequence of categories B and C. Such rules specify the hierarchical and linear organisation of constituents and are the direct source of syntactic trees and labelled brackets. Chomsky's Syntactic Structures used rules like S → NP VP and VP → V NP to generate English sentences, and later X-bar theory and the Minimalist Program substantially revised their form and role.",
+   "sections": [
+    {
+     "h": "定义与形式",
+     "hEn": "Definition and Form",
+     "p": [
+      "短语结构规则又称改写规则，采用 A → B C 的形式，箭头左边是单个范畴符号，右边是一个或几个符号组成的序列。规则可以递归应用，使有限的规则生成无限的句子。例如 S → NP VP 表示句子由名词短语和动词短语组成；NP → Det N 表示名词短语由限定词和名词组成；VP → V NP 表示动词短语由动词和名词短语组成。此外还有 NP → NP PP、PP → P NP 等规则，用以描写介词短语的附加。"
+     ],
+     "pEn": [
+      "A phrase structure rule, also called a rewrite rule, has the form A → B C, where the symbol on the left of the arrow is a single category and the string on the right is a sequence of one or more categories. Because rules may apply recursively, a finite set can generate an infinite number of sentences. S → NP VP says that a sentence consists of a noun phrase and a verb phrase; NP → Det N expands a noun phrase into a determiner and a noun; VP → V NP expands a verb phrase into a verb and a noun phrase. Further rules such as NP → NP PP and PP → P NP introduce prepositional modifiers."
+     ]
+    },
+    {
+     "h": "示例与派生",
+     "hEn": "Examples and Derivations",
+     "p": [
+      "以英语句子 The child found the puppy 为例，从 S 出发依次应用规则：S → NP VP；NP → Det N 得到 the child；VP → V NP 得到 found the puppy；第二个 NP 再由 Det N 展开为 the puppy。派生的每一步都可以用句法树或括号标记表示，如 [S [NP [Det The] [N child]] [VP [V found] [NP [Det the] [N puppy]]]]。规则系统还可以说明结构歧义，如 old men and women 因成分组合方式不同而具有两种结构，即理解为年长的男性与女性，或理解为年长的人与女性。"
+     ],
+     "pEn": [
+      "Take the English sentence The child found the puppy. Starting from S we apply S → NP VP, then NP → Det N to yield the child, then VP → V NP to yield found the puppy, and finally NP → Det N again for the puppy. Every step can be represented by a syntactic tree or by labelled brackets: [S [NP [Det The] [N child]] [VP [V found] [NP [Det the] [N puppy]]]]. Such a system also captures structural ambiguity, as in old men and women, which may be grouped in two different ways."
+     ]
+    },
+    {
+     "h": "从改写规则到 X 阶理论",
+     "hEn": "From Rewrite Rules to X-bar Theory",
+     "p": [
+      "早期的短语结构规则因数量庞大且难以概括跨语言共性而受到批评。乔姆斯基在《句法结构》中已指出，仅靠短语结构规则难以自然描写英语的疑问句和被动句，于是引入转换规则。此后 X 阶理论用 XP → (Specifier) X′、X′ → X (Complement) 这样的图式取代大量具体规则，把中心语与投射的关系概括为普遍原则；最简方案则进一步取消短语结构规则，改由合并操作与特征核查生成结构。"
+     ],
+     "pEn": [
+      "Early phrase structure rules were criticised for their sheer number and for failing to capture cross-linguistic generalisations. Chomsky already noted in Syntactic Structures that phrase structure rules alone could not naturally describe English questions and passives, which motivated transformational rules. X-bar theory then replaced long lists of concrete rules with schemata such as XP → (Specifier) X′ and X′ → X (Complement), reducing headedness to a general principle, and the Minimalist Program dispensed with phrase structure rules altogether in favour of Merge and feature checking."
+     ]
+    },
+    {
+     "h": "作用与局限",
+     "hEn": "Functions and Limitations",
+     "p": [
+      "短语结构规则的价值在于用显式形式刻画成分的层次性与递归性，为句法树、括号标记和计算句法提供了基础，也推动了上下文无关语法在自然语言处理中的应用。其局限在于对语序变化、非连续成分和长距离依赖的描写能力有限，而且规则本身多属语言个别性的描写。功能语法、依存语法和构式语法各自提出了替代方案，把句法组织的动因更多地归于功能、依存关系或构式整体。"
+     ],
+     "pEn": [
+      "The value of phrase structure rules lies in making constituency and recursion explicit; they provide the basis for syntactic trees, labelled brackets and computational parsing, and they motivated context-free grammars in natural language processing. Their limitations concern word-order variation, discontinuous constituents and long-distance dependencies, which they describe poorly, and the fact that individual rules are largely language-specific. Functional, dependency and construction-based approaches offer alternatives, locating the explanation of syntactic organisation in function, dependency relations or whole constructions."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "短语结构规则",
+     "tEn": "Phrase structure rule",
+     "d": "用 A → B C 的形式把某一范畴改写为符号序列的句法规则，又称改写规则。",
+     "dEn": "A rule of the form A → B C that rewrites a category as a sequence of symbols."
+    },
+    {
+     "t": "改写规则",
+     "tEn": "Rewrite rule",
+     "d": "形式语法中把箭头左侧的符号改写为右侧符号串的规则，又称重写规则。",
+     "dEn": "A rule of a formal grammar that rewrites a left-hand symbol as a right-hand string."
+    },
+    {
+     "t": "生成语法",
+     "tEn": "Generative grammar",
+     "d": "用有限的规则系统生成一种语言全部合法句子的语法理论。",
+     "dEn": "A grammatical theory that generates all well-formed sentences with finite rules."
+    },
+    {
+     "t": "递归",
+     "tEn": "Recursion",
+     "d": "同一规则可以反复应用、使句法成分层层自我嵌套的性质，是语言创造性的基础。",
+     "dEn": "The property whereby a rule may reapply so that constituents nest inside one another."
+    },
+    {
+     "t": "句法树",
+     "tEn": "Syntactic tree",
+     "d": "用节点与分支表示句子层次结构的树形图，又称短语标记，可以直观呈现成分结构。",
+     "dEn": "A tree diagram of nodes and branches representing the hierarchical structure of a sentence."
+    },
+    {
+     "t": "X 阶理论",
+     "tEn": "X-bar theory",
+     "d": "用中心语 X、单阶投射 X′ 与最大投射 XP 三级图式概括短语结构的理论。",
+     "dEn": "A theory generalising phrase structure through the three levels X, X′ and XP."
+    },
+    {
+     "t": "转换规则",
+     "tEn": "Transformational rule",
+     "d": "改变句子结构或移动成分、从而由基础形式生成新句式的规则。",
+     "dEn": "A rule that alters structure or moves constituents to derive new sentence types."
+    },
+    {
+     "t": "过度生成",
+     "tEn": "Overgeneration",
+     "d": "语法规则生成不合乎语法或本不存在的句子的情况，是规则系统的缺陷。",
+     "dEn": "The situation in which a grammar generates sentences that are not well formed."
+    }
+   ],
+   "related": [
+    "syntactic-tree",
+    "constituent",
+    "head",
+    "generativism",
+    "recursion"
+   ],
+   "sources": [
+    "Wikipedia, \"Phrase structure rules\", https://en.wikipedia.org/wiki/Phrase_structure_rules",
+    "Chomsky, Syntactic Structures, 1957",
+    "Chomsky, Aspects of the Theory of Syntax, 1965"
+   ]
+  },
+  {
+   "id": "syntactic-movement",
+   "title": "句法移位",
+   "en": "Syntactic Movement",
+   "category": "concepts",
+   "tags": [
+    "句法移位",
+    "语迹",
+    "转换",
+    "长距离依赖",
+    "最简方案"
+   ],
+   "summary": "句法移位是生成语法中把成分从一个句法位置移动到另一个位置的操作，用以解释表层语序与语义解释之间的差异。移位留下的空位称为语迹，移位后的成分与原位置共同受到约束条件的限制。典型类型包括疑问词移位、被动句中的名词短语移位、提升和话题化。管约论用移位与语迹解释长距离依赖，最简方案则把移位重新分析为内部合并，并强调移位由特征核查或接口要求驱动。",
+   "summaryEn": "Syntactic movement is the operation in generative grammar that relocates a constituent from one syntactic position to another, explaining mismatches between surface word order and interpretation. The vacated position is marked by a trace, and the moved element is subject to locality constraints. Typical types include wh-movement, the noun phrase movement found in passives, raising and topicalisation. Government and Binding theory used traces to model long-distance dependencies, whereas the Minimalist Program reanalyses movement as internal Merge driven by feature checking.",
+   "sections": [
+    {
+     "h": "定义与语迹",
+     "hEn": "Definition and Trace",
+     "p": [
+      "句法移位指某成分在句法派生中从基础位置移动到另一位置，原位置留下与移动成分同指的语迹。例如被动句 The boy was kissed by the girl 中，the boy 基础生成于动词 kissed 的宾语位置，后来移位到主语位置并留下语迹，可表示为 The boy was kissed t by the girl。移位成分与其语迹构成一条链，题元关系在语迹位置得到指派。移位说由此解释了为什么主动句与其被动对应句具有相同的语义关系。"
+     ],
+     "pEn": [
+      "Syntactic movement relocates a constituent from its base position to another position in the derivation, leaving behind a trace coindexed with the moved element. In the passive The boy was kissed by the girl, the boy is base-generated as the object of kissed and moves to subject position, leaving a trace: The boy was kissed t by the girl. The moved constituent and its trace form a chain, and the thematic relation is assigned at the trace position. This accounts for why an active sentence and its passive counterpart share the same semantic relations."
+     ]
+    },
+    {
+     "h": "主要类型",
+     "hEn": "Major Types",
+     "p": [
+      "常见类型有四种。疑问词移位把疑问词移至句首，如 What did you see t?；名词短语移位见于被动句和提升结构，如 John seems t to be tired；话题化把成分移到句首充当话题，如汉语这本书我读过了，英语 This book, I have read t；中心语移位移动的是核心词，如英语一般疑问句 Has John left? 中助动词 has 前移。汉语的疑问词通常留在原位，如你看见了什么，这体现了语言之间移位参数的差异。"
+     ],
+     "pEn": [
+      "Four types are usually distinguished. Wh-movement fronts an interrogative phrase, as in What did you see t?; noun phrase movement occurs in passives and raising, as in John seems t to be tired; topicalisation places a constituent in topic position, as in Mandarin 这本书我读过了 'this book, I have read' and English This book, I have read t; and head movement raises a head, as when the auxiliary has fronts in the yes-no question Has John left? Mandarin wh-words generally remain in situ, as in 你看见了什么, illustrating parametric variation."
+     ]
+    },
+    {
+     "h": "移位的限制条件",
+     "hEn": "Constraints on Movement",
+     "p": [
+      "移位并非任意，而受局部性条件限制。乔姆斯基提出移位不能跨越孤岛，复杂名词短语、附加语从句和并列结构都是孤岛，因此像 Who did you meet the man who knows t? 这样从定语从句中提取疑问词的结构不合语法。管约论用邻接原则、空语类原则和约束理论说明这些限制；最简方案则用语段、阶段以及不可解释特征的核查来解释移位的动因与范围，认为移位是为满足接口条件而被迫发生的。"
+     ],
+     "pEn": [
+      "Movement is not free but obeys locality conditions. Chomsky observed that extraction out of islands is impossible: complex noun phrases, adjunct clauses and coordinate structures are islands, so a question such as Who did you meet the man who knows t? is ungrammatical. Government and Binding theory accounted for such restrictions with subjacency, the Empty Category Principle and binding theory. The Minimalist Program explains the motivation and extent of movement through phases and the checking of uninterpretable features, treating movement as forced by interface requirements."
+     ]
+    },
+    {
+     "h": "理论演变与争议",
+     "hEn": "Theoretical Development and Debate",
+     "p": [
+      "移位概念随理论发展不断调整。早期转换规则允许删除、替换和移位等多种操作，管约论把移位统一为移动 α，并区分显性移位与隐性移位。最简方案取消深层结构与表层结构，把移位重新表述为内部合并。批评者指出，移位留下不可见的语迹增加了理论负担，也引发可学性问题；词汇功能语法、中心语驱动短语结构语法和构式语法等无移位分析，则用其他机制处理长距离依赖与被动结构。"
+     ],
+     "pEn": [
+      "The concept of movement has been repeatedly revised. Early transformational rules allowed deletion, substitution and movement; Government and Binding theory unified them as Move α and distinguished overt from covert movement. The Minimalist Program abolished deep and surface structure and restated movement as internal Merge. Critics argue that invisible traces add theoretical complexity and raise learnability questions, and non-movement frameworks such as Lexical-Functional Grammar, Head-driven Phrase Structure Grammar and Construction Grammar handle long-distance dependencies and passives by other means."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "句法移位",
+     "tEn": "Syntactic movement",
+     "d": "在句法派生过程中把某一成分从基础位置移到另一个句法位置的操作。",
+     "dEn": "The operation moving a constituent from its base position to another syntactic position."
+    },
+    {
+     "t": "语迹",
+     "tEn": "Trace",
+     "d": "移位之后在原位置留下的、与移位成分同指的空语类，通常记为 t。",
+     "dEn": "The empty category left in the vacated position and coindexed with the moved element."
+    },
+    {
+     "t": "疑问词移位",
+     "tEn": "Wh-movement",
+     "d": "把疑问词或疑问短语移至句首的移位操作，在英语疑问句中十分常见。",
+     "dEn": "Movement that fronts an interrogative word or phrase, common in English questions."
+    },
+    {
+     "t": "名词短语移位",
+     "tEn": "NP-movement",
+     "d": "把名词短语移至主语等论元位置的移位操作，见于被动句与提升结构。",
+     "dEn": "Movement that raises a noun phrase into a subject or other argument position."
+    },
+    {
+     "t": "话题化",
+     "tEn": "Topicalisation",
+     "d": "把某一成分移至句首充当话题的移位操作，如汉语中的话题句。",
+     "dEn": "Movement that places a constituent in initial position as topic."
+    },
+    {
+     "t": "提升",
+     "tEn": "Raising",
+     "d": "把下位小句的主语提升为上位动词主语的移位，如 seem 结构，英语中很常见。",
+     "dEn": "Movement raising the subject of an embedded clause to the matrix subject position."
+    },
+    {
+     "t": "孤岛限制",
+     "tEn": "Island constraint",
+     "d": "禁止从复杂名词短语等特定结构内部提取成分的局部性条件。",
+     "dEn": "A locality condition barring extraction out of certain structures such as complex noun phrases."
+    },
+    {
+     "t": "内部合并",
+     "tEn": "Internal Merge",
+     "d": "最简方案中对移位操作的重新表述，即与已进入结构的成分再次合并。",
+     "dEn": "The Minimalist restatement of movement as merging a constituent already in the structure."
+    }
+   ],
+   "related": [
+    "deep-structure",
+    "syntactic-tree",
+    "head",
+    "minimalism",
+    "universal-grammar"
+   ],
+   "sources": [
+    "Wikipedia, \"Syntactic movement\", https://en.wikipedia.org/wiki/Syntactic_movement",
+    "Chomsky, Lectures on Government and Binding, 1981",
+    "Chomsky, The Minimalist Program, 1995"
+   ]
+  }
+ ]
+}

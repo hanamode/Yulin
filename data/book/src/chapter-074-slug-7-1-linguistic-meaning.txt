@@ -1,0 +1,49 @@
+# 7.1 Linguistic meaning
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=802#oembed-1
+We use the word “meaning” in various ways in our everyday lives. Consider (1)-(4).
+
+[表格]
+| | | (1) | | | | | In Japanese culture, what does it | | | | mean | | | | when a tea stalk floats vertically in your green tea? | | | | | (2) | | | | | | | | takai | | mishin-o | | katte-mo | | tsukaikata-ga | | wakaranakereba | | | imi | -ga | | nai | | | | expensive | | sewing.maching-ACC | | buy-even.if | | how.to.use-NOM | | understand.NEG.if | | | meaning | -NOM | | NEG.exist | | | | ‘There is no point in buying an expensive sewing machine if you don’t know how to use it’ (Japanese) | | |
+
+(3) I said coffee is just as tasty as tea, but I didn’t mean it.
+(4) Ode’imin and strawberry mean the same thing.
+(Examples inspired by Bach 1989)
+
+[图片：chabashira-225x300.jpg]
+
+Figure 7.1. A tea stalk floating vertically in a cup of green tea.
+In this chapter (Chapter 7) and the next chapter (Chapter 8), we will explore linguistic meaning: the sorts of things we have to know as language users when we produce and comprehend meaning. This excludes notions of “meaning” like in (1). (1) is not an example of linguistic meaning because the floating tea stalk (the object depicted in Figure 7.1) is not a linguistic expression. Sometimes we use the word mean or meaning to talk about our interpretation of the world. In this case, the vertical tea stalk “means” — or is symbolic of — good luck! Although interesting, this is not the kind of “meaning” we will focus on in this textbook.
+(2) also describes a kind of “meaning” that isn’t linguistic. Literally, the Japanese sentence in (2) means ‘There is no meaning in buying an expensive sewing machine if you don’t know how to use it’. This use of imi, or meaning, is about the purpose of some action. Here, we are saying that there is a relation between an action and some sort of ideal end result that the act is supposed to lead to. This, again, is not the kind of “meaning” we are interested in in this textbook.
+The notion of meaning in (3) is certainly about language, in the sense that we are evaluating what someone said. “Meaning” here seems to be something about sincerity: (3) is roughly paraphrasable as ‘I said coffee is just as tasty as tea, but I wasn’t being sincere when I said this’. This is not the kind of “meaning” we will be concerned with in this particular chapter, but Chapter 8 (Pragmatics) will discuss some points that will be relevant to this notion of “meaning”.
+
+[图片：strawberry-1-300x300.jpg]
+
+Figure 7.2. A strawberry.
+“Meaning” as used in (4) best exemplifies what we mean by meaning (= linguistic meaning) in this chapter: the words ode’imin and strawberry mean the same thing. ode’imin is an Ojibwe (Anishinaabemowin) word, and strawberry is an English word. But what does it mean for them to “mean the same thing”? What we want to figure out in this chapter is something like this: what is the knowledge about the word ode’imin that an Ojibwe speaker stores in their head, such that when they utter the word, they know it points to that juicy red fruit with small seeds on the surface (Figure 2)? Similarly, what is the knowledge about the word strawberry that English speakers have in their head, such that they know that this word in English points to this same fruit? Both the word ode’imin and the word strawberry carry some sort of content, and this information allows for Ojibwe and English language users to say “Yes, that is an ode’imin/strawberry” or “No, that is not an ode’imin/strawberry” for any given object. In this way, the two words “mean the same thing”.
+
+Did you know? Ode’imin in Ojibwe literally means ‘heart berry‘ (in reference to its heart-like shape; see Figure 7.2)! The origin of the English version strawberry is not clear according to the Oxford English Dictionary. One explanation is that the name is perhaps in reference to the “straw”-like particles on the fruit’s surface.
+
+Note that when we say “the meaning of ode’imin“, we are talking about the meaning of the linguistic expression ode’imin, not the actual fruit in real life. In this chapter, we are asking what meaning is attached to the stream of sounds ode’imin (IPA: [odeimin]) in Ojibwe, not to the actual fruit like in Figure 7.2. Similarly, we are asking what meaning is attached to the stream of sounds strawberry (IPA: [stɹɔbɛɹi]), again, not to the actual fruit. For signed languages, we want to know what meaning is attached to a certain sign: like what is shown in Figure 7.3, which is the sign for ‘strawberry’ in American Sign Language. Linguistic expressions are the words, phrases, and sentences we produce as language users. Following writing conventions in linguistics, linguistic expressions that are mentioned in paragraphs will be italicized in this textbook. So when we write “strawberry” (in italics), we are referring to the linguistic expression (the word) that points to the object in Figure 7.2. When we write “strawberry” (no italics), we are actually talking about the object in Figure 7.2, the actual fruit. So “the strawberry has 4 syllables” makes sense, but “the strawberry has 4 syllables” doesn’t (because a fruit doesn’t have syllables).
+
+[视频：EoL8ASL_STRAWBERRYx3.mp4]
+
+Figure 7.3. Three variations of the word ‘strawberry’ in American Sign Language.
+
+The English word semantics comes from the Ancient Greek word that means ‘significant’ (sēmantikós). This comes from a word that means ‘to show, signify’ (sēmaínein).
+
+Semantics is the study of linguistic meaning: how the meaning of words combine to form the meaning of sentences. In this chapter, we will analyse linguistic meaning from various perspectives. One of the big conclusions of this chapter (Chapter 7) and the next chapter (Chapter 8, Pragmatics) is that there are many different kinds of linguistic meaning. Each way of thinking about meaning gives us important insight into how we produce and understand meaning as language users. We will start this chapter by looking at what people probably usually think of when they hear “meaning”: the sense of words that we store in our heads. The sense of strawberry would be whatever “meaning” of that word English users store in their head. After our discussion of sense, we will look at meaning in terms of the denotation of linguistic expressions: what linguistic expressions point to in the real world. As we’ve seen already, one way of thinking about how ode’imin and strawberry “mean the same thing” is to say that these words both point to (or denote) the same fruit in the actual world. As we will see, thinking about meaning in terms of the linguistic expression’s denotation also helps us explain semantic patterns in language.
+
+The idea that there are two ways of thinking about meaning — sense and denotation — was originally proposed by German philosopher, logician, and mathematician Gottlob Frege in 1892.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=802#h5p-56
+
+## References
+
+Bach, E. (1989). Informal lectures on formal semantics. State University of New York Press.
+Frege, G. (1892). Über sinn und bedeutung. Zeitschrift für Philosophie und philosophische Kritik, 100, 25-50.
+“semantics, n.” OED Online. Oxford University Press, December 2021. Web. 21 February 2022.
+“strawberry, n.” OED Online. Oxford University Press, December 2021. Web. 22 February 2022.

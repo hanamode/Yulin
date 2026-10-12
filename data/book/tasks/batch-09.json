@@ -1,0 +1,13 @@
+{
+ "batch": 9,
+ "chapter": "Chapter 1: Human Language and Language Science",
+ "out": "data/book/gen/batch-09.json",
+ "sections": [
+  {
+   "id": "chapter-009-exercises",
+   "title": "1.9 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-009-exercises.txt",
+   "chars": 1780
+  }
+ ]
+}

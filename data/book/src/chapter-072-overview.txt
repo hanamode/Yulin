@@ -1,0 +1,10 @@
+# 6.21 Trees: Summary
+
+We’ve now expanded our theory of syntax a little bit further. It now consists of X-Bar Theory as well as two types of Movement.
+X-Bar Theory accounts for the overall shape of trees in individual languages—it describes possible and impossible tree shapes for a given language.
+Movement is a theory about how you can change (or transform) an existing syntactic tree once you have built it. Adding movement to our tree allows us to expand the explanatory power of our syntactic theory in two ways:
+- Movement gives us another way to talk about differences across languages in terms of word order: while X-Bar Theory offers the variation of head-initial vs. head-final word order, Movement allows us to say that languages transform their basic word order in different ways (or in different contexts).
+- Movement gives us a way to talk about relationships between different sentence types—between statements and questions, or between the basic order of a sentence and one where some phrase has been topicalized or fronted.
+
+By introducing movement into our theory, we have a way of talking about the fact that elements are sometimes displaced: they are pronounced in a different position than they “belong”, in some sense.
+With the tools we’ve developed in this chapter, we could investigate relationships between many more types of sentences, both in English and in any other language. In Chapter 7 we’ll also see that syntax is relevant for the computation of certain types of linguistic meaning—though not all types!

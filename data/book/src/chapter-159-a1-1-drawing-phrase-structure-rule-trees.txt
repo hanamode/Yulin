@@ -1,0 +1,67 @@
+# A1.1 Phrase Structure Rules
+
+As we saw in the last section, Phrase structure rules (or PSRs) are the rules we use to build tree diagrams. They are a way to describe and record which kind of phrases can occur inside and modify which other kinds of phrases. They are also hypotheses, so if we find a sentence that doesn’t fit with our rules, we should not panic! Instead, we should double-check that we’ve actually analyzed the sentence properly, and if we have, we should keep calm and revise our hypothesis. The final form of the phrase structure rules we will be using in this textbook are as follows. They will look very similar to the PSRs we developed in Section 6.13, but they have a few small additions.
+
+[表格]
+| | | (1) | | a. | | S → (AdvP) NP/CP (Aux) (Neg) VP (AdvP) | | | | | | b. | | CP → (Comp) S | | | | | | c. | | NP → (Det) (Num) (AdjP+) N (PP+) | | | | | | d. | | VP → (AdvP+) V (NP) (NP/CP) (AdvP+) (PP+) (AdvP+) | | | | | | e. | | PP → (Deg) P (NP) | | | | | | f. | | AdvP → (AdvP) Adv | | | | | | g. | | AdjP → (AdvP) Adj (PP) | | |
+
+Phrase structure rules try to answer these three questions.
+- What rules are there about what is allowed to modify what?
+- Are there any patterns?
+- If so, how can we represent these patterns?
+
+Phrase structure rules are a formal hypothesis for representing constituency using rules. They indicate what each type of constituent must contain and what they may optionally contain.
+They take the following form:
+
+[表格]
+| | | (2) | | XP → (YP) X (ZP+) | | |
+
+In this kind of template, X, Y, and Z are variables representing any category such as nouns, verbs, adjectives, prepositions, determiners, etc. The first part, before the arrow, is the name of the constituent. The arrow itself can be read as consists of. After the arrow, there is a list of the elements that are inside of the constituent, in order from left to right. Elements without parentheses are obligatory. Elements in parentheses are optional. A plus sign means you can have as many of that type of constituent as you need; there can be multiple of that kind of constituent.
+
+## Embedded Clauses
+
+You might notice that the PSR in (1b) is completely new, it wasn’t in Section 6.13! This is the rule that introduces embedded clauses (see Section 6.6 for a refresher on embedded clauses). C (or Comp) stands for complementizer and includes words like that, for, if, and whether.
+Embedded clauses can appear in a number of positions, but the most common one is in object position, appearing instead of the NP object inside of the VP (or instead of the second object, in the case of ditransitives). For example, in (3a) and (4a) we have the NP object some syntax. In (3b) and (4b), these are replaced with the embedded clause that syntax is fun.
+
+[表格]
+| | | (3) | | a. | | I know [some syntax]. | | | | | | b. | | I know [that syntax is fun]. | | | | (4) | | a. | | I taught my students [some syntax]. | | | | | | b. | | I taught my students [that syntax is fun]. | | |
+
+This is why the VP rule in (1d) has NP/CP in the second object position; the second object can be an NP or a Complementizer Phrase (but not both).
+Another place you might see a clause in this textbook is in subject position, as shown in (5).
+
+[表格]
+| | | (5) | | a. | | [It] is obvious. | | | | | | b. | | [That cake is delicious] is obvious. | | |
+
+A subject embedded clause is inserted with the PSR in (1a); this PSR has NP/CP in the subject position, meaning that the subject can be an NP or a CP (but not both).
+One common mistake that students make when drawing embedded clauses is to miss a layer in the structure, since the complementizer can be silent in English, as shown in (6).
+
+[表格]
+| | | (6) | | a. | | I know [that syntax is fun]. | | | | | | b. | | I know [syntax is fun]. | | |
+
+However, our PSRs don’t allow you to put an S directly into the VP. You can only put a CP into the VP. Our PSR rules also don’t allow you to put an NP and a VP directly into the CP; they need an S layer. So an embedded clause must always have a CP layer and an S layer.
+
+[图片：I-know-syntax-is-fun-273x300.png]
+
+Figure A1.1: Example tree of (6b)
+
+## Similar Structures
+
+One thing to watch out for is that two sentences or phrases that appear very similar might have very different structures, so you actually need to think about what a sentence means when you’re drawing a tree diagram. You can’t just draw it robotically. If you do, you’ll probably make mistakes.
+For example, one common mistake is to mix up the constituency in adjective and adverb phrases. Consider the phrases in (7).
+
+[表格]
+| | | (7) | | a. | | the big yellow balloon | | | | | | b. | | the very yellow balloon | | |
+
+These two phrases look very similar, but they have different structures. In (7a), does big describe yellow or balloon? Can yellow be big? Not really. The big describes the balloon, so you need to have two separate adjective phrases, one for big and one for yellow. Both are attached directly to the NP because big modifies balloon and yellow also modifies balloon.
+
+[图片：the-big-yellow-balloon-300x214.png]
+
+Figure A1.2: tree of (7a)
+However, (7b) is different. Think about it. Does very describe yellow or balloon? Very describes yellow because a balloon can’t be very. So even though these phrases look very, very similar, they have different structures. In (7b), very is an adverb phrase that modifies the adjective and then that entire adjective phrase very yellow modifies the noun.
+
+[图片：the-very-yellow-balloon-300x270.png]
+
+Figure A1.3: tree of (7b)
+For a fun comic illustrating sentences that are similar but have distinct structures, check out this comic on the Speculative Grammarian (a satirical journal of linguistics).
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3151#h5p-123

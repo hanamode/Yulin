@@ -1,0 +1,42 @@
+# Chapter 6: Syntax
+
+In Chapter 5 we looked at the internal structure of words (morphology). In this chapter we look at how words are organized into phrases and sentences, which in linguistics is called syntax.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Use the evidence of constituency tests to identify the phrases within a sentence
+- Categorize words into lexical and functional categories based on their distribution
+- Identify relationships between grammatically related sentences (active and passive, statements and questions)
+- Draw tree diagrams to represent the structural analysis of sentences in English
+
+## Alternative paths through this chapter
+
+The first half of this chapter (6.1 to 6.12) introduces core concepts and argumentation in syntax, while tree diagrams and X-bar theory are covered in the second half (6.13 to 6.21). This structure has been chosen to emphasize core concepts over the details of tree structure.
+Many introductory courses in linguistics instead interleave core concepts and their formalization in tree diagrams, however. For such courses—or for independent learners who prefer to follow such a structure—we recommend reading sections in the following order:
+- Basics 6.1 Syntactic knowledge and grammaticality judgements
+- 6.2 Word order
+- 6.3 Phrases, Heads, and Selection
+- 6.4 Identifying phrases: Constituency tests
+- 6.5 Functional categories
+Introducing trees
+- 6.13 From constituency to tree diagrams
+- 6.14 Trees: Introducing X-bar theory
+- 6.15 Trees: Sentences as TPs
+- 6.16 Trees: Modifiers as adjuncts
+- 6.17 Trees: Structural ambiguity
+Complex sentences
+- 6.6 Clausal embedding
+- 6.18 Trees: Embedded clauses
+Syntax of questions
+- 6.7 Main clause Yes-No questions
+- 6.8 Main clause content questions
+- 6.9 Embedded content questions.
+- 6.19 Trees: Movement
+Argument structure
+- 6.10 Arguments and thematic roles
+- 6.11 Changing argument structure: Causatives and passives
+- 6.20 Trees: Movement beyond questions
+- 6.21 Trees: Summary
+(This path through the chapter skips 6.12 Interim summary)
+Each section ends with a “Navigation” section with links that can be used to follow this interleaved path.
+Appendix 1 introduces trees using phrase structure rules instead of X-bar theory. Courses adopting that formalization should continue with Appendix 1 after 6.13 From constituency to tree diagrams.

@@ -1,0 +1,24 @@
+{
+ "batch": 8,
+ "out": "data/gen2/batch-08.json",
+ "entries": [
+  {
+   "id": "phonotactics",
+   "title": "音位配列",
+   "en": "Phonotactics",
+   "category": "concepts"
+  },
+  {
+   "id": "syllable",
+   "title": "音节",
+   "en": "Syllable",
+   "category": "concepts"
+  },
+  {
+   "id": "distinctive-feature",
+   "title": "区别特征",
+   "en": "Distinctive Feature",
+   "category": "concepts"
+  }
+ ]
+}

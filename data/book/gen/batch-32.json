@@ -1,0 +1,296 @@
+{
+ "batch": 32,
+ "sections": {
+  "chapter-066-x-bar-theory-sentences-as-tps": {
+   "title": {
+    "en": "6.15 Trees: Sentences as TPs",
+    "zh": "6.15 树形图：句子作为时短语（TP）"
+   },
+   "summary": {
+    "en": "Earlier chapters labelled sentences simply S, but if every phrase must project a head, the sentence also needs one. Auxiliaries cannot be that head, since many sentences have none, so sentences are analysed as tense phrases (TPs) headed by tense. The same X-bar template then captures head-initial English and head-final Japanese.",
+    "zh": "此前的章节只把句子标为 S，但若每个短语都必须投射出中心语，句子同样需要一个中心语。助动词不能充当这一中心语，因为许多句子根本没有助动词，因此句子被分析为以时为中心语的时短语（TP）。本节随后用同一套 X 杠模板描写中心语前置的英语与中心语后置的日语。"
+   },
+   "points": [
+    {
+     "en": "Sentences are constituents, hence phrases, so X-bar theory requires them to have a head instead of S.",
+     "zh": "句子是句法成分，因而也是短语，所以 X 杠理论要求它有中心语，而不能只标为 S。"
+    },
+    {
+     "en": "The rule S going to NP (Aux) VP left the sentence headless and the auxiliary without a phrase.",
+     "zh": "规则 S → NP (Aux) VP 使句子没有中心语，也使助动词没有属于自己的短语。"
+    },
+    {
+     "en": "Auxiliaries are always inflected for tense, and the nonfinite marker to takes their place in nonfinite clauses.",
+     "zh": "助动词总是带时的屈折，在非限定小句中则由非限定标记 to 取代其位置。"
+    },
+    {
+     "en": "TP suits X-bar theory because it always has a specifier, the subject, and a complement, the predicate.",
+     "zh": "TP 契合 X 杠理论，因为它总带有指示语（主语）和补足语（谓语）。"
+    },
+    {
+     "en": "Category T in English holds modals, be, have, do, the marker to and abstract tense features.",
+     "zh": "英语的 T 范畴包含情态助动词、be、have、do、标记 to 以及抽象的时特征。"
+    },
+    {
+     "en": "Head direction varies across languages, but specifiers always precede complements in all known languages.",
+     "zh": "中心语方向因语言而异，但在一切已知语言中指示语都先于补足语。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "tense phrase (TP)",
+     "zh": "时短语（TP）",
+     "defEn": "The phrase category assumed for sentences in X-bar theory, headed by tense.",
+     "defZh": "X 杠理论中用来表示句子的一类短语，以时（T）为中心语，取代传统的 S。"
+    },
+    {
+     "en": "finiteness",
+     "zh": "限定性",
+     "defEn": "The property of carrying tense, which independent sentences are said to have.",
+     "defZh": "携带时的属性；独立成句的句子总是限定的，即具有时。"
+    },
+    {
+     "en": "head-initial",
+     "zh": "中心语前置",
+     "defEn": "A word order type in which heads precede their complements, as in English.",
+     "defZh": "中心语位于补足语之前的语序类型，如英语中动词先于其宾语。"
+    },
+    {
+     "en": "head-final",
+     "zh": "中心语后置",
+     "defEn": "A word order type in which heads follow their complements, as in Japanese.",
+     "defZh": "中心语位于补足语之后的语序类型，如日语中动词后于其宾语。"
+    },
+    {
+     "en": "Inflection Phrase (InflP/IP)",
+     "zh": "屈折短语（Inflection Phrase，InflP/IP）",
+     "defEn": "An alternative label for the functional phrase that makes a clause finite.",
+     "defZh": "功能短语的另一标签，指使小句获得限定性、并把主语与谓语连起来的投射层。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The robot repaired a spaceship.",
+     "noteEn": "A sentence without an auxiliary, whose final tree is a TP carrying abstract past tense.",
+     "noteZh": "不含助动词的句子，其最终树形图是带抽象过去时的 TP。"
+    },
+    {
+     "text": "The robot will repair a spaceship.",
+     "noteEn": "Here the modal will occupies the head T position of the tense phrase.",
+     "noteZh": "此处情态助动词 will 占据时短语的中心语 T 位置。"
+    },
+    {
+     "text": "Tokyo e",
+     "noteEn": "A Japanese PP meaning \"to Tokyo\", with the head postposition after its complement.",
+     "noteZh": "意为“到东京”的日语介词短语，中心语后置词位于补足语之后。"
+    },
+    {
+     "text": "ringo-o tabe-ta",
+     "noteEn": "The Japanese verb follows the object; the sentence also begins with the topic Watasi-wa.",
+     "noteZh": "日语动词位于宾语之后，该句还以话题成分 Watasi-wa 开头。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier sections applied X-bar theory to many phrase types while sentences were still labelled simply S. But if a phrase is a string of words forming a constituent, sentences are phrases too, and X-bar theory requires every phrase to have a head. The old rule S going to NP (Aux) VP left the sentence without a head and any auxiliary without a phrase of its own.",
+     "zh": "此前的各节把 X 杠理论应用于各类短语，而句子仍只被标为 S。然而，如果短语就是构成句法成分的词串，句子也属于短语，而 X 杠理论要求每个短语都有中心语。旧规则 S → NP (Aux) VP 使句子没有中心语，也使助动词没有属于自己的短语。"
+    },
+    {
+     "en": "Tense is chosen as the head because English auxiliaries are always inflected for tense, tense also appears on the main verb when no auxiliary is present, and the marker to takes the auxiliary position in nonfinite clauses. Sentences are therefore tense phrases, since tense represents finiteness and independent sentences are always finite. TP also fits X-bar theory because it always has a specifier, the subject, and a complement, the predicate. Category T covers the modals, be, have, do, to, and abstract features like [+PAST] and [–PAST].",
+     "zh": "之所以以时为中心语，是因为英语助动词总是带时的屈折；没有助动词时，时仍体现在主要动词上；在非限定小句中则由标记 to 占据助动词的位置。因此句子是时短语，因为时代表限定性，而独立成句的句子总是限定的。TP 也契合 X 杠理论，因为它总带有指示语（主语）和补足语（谓语）。T 范畴包括情态助动词、be、have、do、to，以及 [+PAST]、[–PAST] 这类抽象特征。"
+    },
+    {
+     "en": "For languages that do not require tense, one option is to deny that sentences such as those of Mandarin or Cantonese are TPs and posit another category; the other, widely assumed in descendants of X-bar theory, is that something abstract still marks finiteness and glues subject and predicate together, sometimes called an Inflection Phrase (InflP or IP). Word order varies too: English is head initial, Japanese strictly SOV and head final, yet specifiers precede complements in every known language.",
+     "zh": "对于不需要时的语言，一种选择是否认汉语普通话或粤语的句子是 TP，而设定别的范畴；另一种选择在 X 杠理论的后续理论中被广泛采用：仍有某种抽象成分标示限定性，并把主语与谓语连接起来，它有时称为屈折短语（InflP 或 IP）。语序也存在差异：英语中心语前置，日语为严格 SOV、中心语后置；但在一切已知语言中，指示语都先于补足语。"
+    }
+   ]
+  },
+  "chapter-067-x-bar-theory-modifiers-as-adjuncts": {
+   "title": {
+    "en": "6.16 Trees: Modifiers as adjuncts",
+    "zh": "6.16 树形图：修饰语作为附加语"
+   },
+   "summary": {
+    "en": "X-bar theory can represent heads with their complements and specifiers, but it initially gave no place to modifiers. Adjuncts supply that place: extra bar levels create structural room for modifying elements. The section shows Adjs and NumPs inside NPs, AdvPs inside VPs and TPs, and modifier PPs elsewhere, and uses the one-replacement test to count bar levels.",
+    "zh": "X 杠理论能够表示中心语及其补足语和指示语，最初却没有为修饰语留出位置。附加语补上了这一空缺：增设杠层即可为修饰性成分创造结构空间。本节说明名词短语内的形容词短语与数词短语、动词短语和时短语内的副词短语，以及其他短语中的修饰性介词短语，并用 one 替换测试确定短语所需的杠层数。"
+   },
+   "points": [
+    {
+     "en": "Basic X-bar structure lost the phrase structure rules' ability to show where modifiers fit inside phrases.",
+     "zh": "基本的 X 杠结构失去了短语结构规则原有的能力，无法表示修饰语在短语中的位置。"
+    },
+    {
+     "en": "A phrase has one head and one final projection, yet it may in principle contain many partial phrases.",
+     "zh": "一个短语只有一个中心语和一个最终投射，但原则上可以包含许多部分短语。"
+    },
+    {
+     "en": "An adjunct is a constituent that is both the child and the sibling of a bar-level node.",
+     "zh": "附加语是既作某个杠层节点的女儿、又作其姊妹的句法成分。"
+    },
+    {
+     "en": "Unlike specifiers and complements, adjuncts may appear on either side of the phrase structure.",
+     "zh": "与指示语和补足语不同，附加语可以出现在短语结构的任意一侧。"
+    },
+    {
+     "en": "All adverbs and all adjective phrases inside NP are adjuncts, whereas PPs may be complements or adjuncts.",
+     "zh": "一切副词以及名词短语内的形容词短语都是附加语，而介词短语可为补足语也可为附加语。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "adjunct",
+     "zh": "附加语",
+     "defEn": "A constituent that is both the child and the sibling of a bar-level node.",
+     "defZh": "既作杠层节点的女儿、又作其姊妹的句法成分，用来容纳修饰语。"
+    },
+    {
+     "en": "bar level",
+     "zh": "杠层",
+     "defEn": "A mid-sized or partial phrase, intermediate between the head and the full phrase.",
+     "defZh": "介于中心语与完整短语之间的中间投射，即中等大小的部分短语。"
+    },
+    {
+     "en": "modifier",
+     "zh": "修饰语",
+     "defEn": "An element such as an adjective or adverb that narrows or describes another element.",
+     "defZh": "如形容词、副词等用来限定或描写另一成分的词语，通常出现在附加语位置。"
+    },
+    {
+     "en": "one-replacement",
+     "zh": "one 替换（one 替代测试）",
+     "defEn": "A constituency test in which one replaces an N-bar constituent.",
+     "defZh": "一种成分测试，用 one 替换名词短语中的某个杠层成分，以检验其结构。"
+    },
+    {
+     "en": "do so replacement",
+     "zh": "do so 替换",
+     "defEn": "A constituency test in which do so replaces a V-bar constituent.",
+     "defZh": "一种成分测试，用 do so 替换动词短语中的某个杠层成分。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "the early arrival of spring",
+     "noteEn": "Its N-bar supplies space for early to attach as an adjunct, since specifier and complement are filled.",
+     "noteZh": "指示语与补足语均已占满，其 N 杠为 early 提供了作附加语附着的空间。"
+    },
+    {
+     "text": "a letter from home in the mailbox",
+     "noteEn": "Two PPs follow the head noun, each attaching as an adjunct to an N-bar level.",
+     "noteZh": "两个介词短语跟在名词中心语之后，各自附加在不同层次的 N 杠上。"
+    },
+    {
+     "text": "I saw a letter from home in the mailbox, and one from the bank on the table.",
+     "noteEn": "The one-replacement test shows an N-bar containing letter but neither of the PPs.",
+     "noteZh": "one 替换测试表明存在一个包含 letter 但不含任一介词短语的 N 杠。"
+    },
+    {
+     "text": "left the room",
+     "noteEn": "In one and the same verb phrase, one adverb precedes it and another follows it.",
+     "noteZh": "在同一个动词短语中，一个副词位于其前，另一个副词位于其后。"
+    }
+   ],
+   "body": [
+    {
+     "en": "X-bar theory captured the asymmetric relations between heads and their complements, and between heads and their specifiers. In doing so, however, it lost some coverage that phrase structure rules had provided, namely the ability to show how modifiers fit into the phrases they modify, such as adjectives and number phrases in NPs and adverbs in VPs. Adjuncts restore that coverage by expanding the X-bar template.",
+     "zh": "X 杠理论能够表示中心语与其补足语以及中心语与其指示语之间的不对称关系。但这样做也丢掉了短语结构规则原有的一部分描写力，无法表示修饰语如何进入它所修饰的短语：名词短语内的形容词短语和数词短语、动词短语与时短语内的副词短语，以及其他短语中的修饰性介词短语。附加语通过扩展 X 杠模板恢复了这种描写力。"
+    },
+    {
+     "en": "The idea behind adjuncts is that a phrase contains only one head and one final projection, whereas a bar level is a mid-sized or partial phrase, and a larger phrase may contain many partial phrases. In the NP the early arrival of spring, the and of spring already occupy the specifier and complement slots, so the adjective phrase early needs a further N-bar level for its structural space. That modifier is an adjunct, a constituent that is both the child and the sibling of a bar-level node, and its position is flexible.",
+     "zh": "附加语的基本思想是：一个短语只有一个中心语和一个最终投射，而杠层是中等大小的部分短语，一个更大的短语可以包含许多部分短语。在名词短语 the early arrival of spring 中，the 与 of spring 已分别占据指示语和补足语位置，形容词短语 early 必须依靠增设的 N 杠层级获得结构空间。该修饰语就是附加语，即既作某杠层节点的女儿、又作其姊妹的句法成分，其位置较为灵活。"
+    },
+    {
+     "en": "The same expansion lets two PPs follow a head noun, as in a letter from home in the mailbox. The one-replacement test reveals the structure: letter can be replaced by one with both PPs left behind, or with only the second one left behind, so an N-bar must contain letter but neither PP. Adverbs inside verb phrases act the same way, appearing at the beginning or the end of the VP, and more than one may occur, as in We deliberately left the room slowly.",
+     "zh": "同样的扩展使两个介词短语可以跟在名词中心语之后，如 a letter from home in the mailbox。one 替换测试揭示了其结构：letter 可被 one 替换，既可以留下两个介词短语，也可以只留下第二个，因此必然存在一个包含 letter 而不含任何介词短语的 N 杠。动词短语中的副词也是如此：它们可以出现在动词短语的开头或末尾，也可以同时出现多个，如 We deliberately left the room slowly。"
+    },
+    {
+     "en": "All adverbs occur in adjunct positions, as do all adjective phrases inside NP; predicate adjectives, as in The book is long, are instead complements of the copular verb be. Prepositional phrases are less uniform, since they sometimes serve as complements and sometimes as adjuncts, as this section has illustrated. Constituency tests such as replacement with one for N-bar and do so replacement for V-bar are very useful for determining which role a particular PP plays.",
+     "zh": "所有副词都出现在附加语位置，名词短语内的所有形容词短语也是如此；而像 The book is long 中作谓语的形容词则是系动词 be 的补足语。介词短语不那么统一，它有时作补足语，有时作附加语，本节对两种情形都有示例。用 one 替换 N 杠、用 do so 替换 V 杠这类成分测试，对于判断某个介词短语究竟充当哪种角色非常有用。"
+    }
+   ]
+  },
+  "chapter-068-structural-ambiguity": {
+   "title": {
+    "en": "6.17 Trees: Structural ambiguity in syntax",
+    "zh": "6.17 树形图：句法中的结构歧义"
+   },
+   "summary": {
+    "en": "Section 5.9 showed structural ambiguity in morphology, where one string of morphemes may have several structures. Syntax behaves the same way: the sentence I saw someone with a telescope has two interpretations, because the PP may attach as an adjunct either to the verb phrase or to the object noun phrase. Each meaning corresponds to a different tree.",
+    "zh": "5.9 节展示了形态学中的结构歧义：同一串语素可以具有多种结构。句法同样如此：句子 I saw someone with a telescope 有两种解释，因为该介词短语既可以作动词短语的附加语，也可以作宾语名词短语的附加语。每个意义都对应一棵不同的树形图。"
+   },
+   "points": [
+    {
+     "en": "A single string of words may have more than one structure, each structure giving a different interpretation.",
+     "zh": "同一串词可以拥有不止一种结构，而每种结构产生不同的解释。"
+    },
+    {
+     "en": "In I saw someone with a telescope the PP may modify either the VP or the object NP.",
+     "zh": "在 I saw someone with a telescope 中，该短语可修饰动词短语或宾语。"
+    },
+    {
+     "en": "When the PP modifies the VP, the reading is that a telescope was used to see someone.",
+     "zh": "当该介词短语修饰动词短语时，意思是用望远镜看到了某人。"
+    },
+    {
+     "en": "When it modifies the object NP, the reading is that the person seen had a telescope.",
+     "zh": "当它修饰宾语名词短语时，意思是被看到的那个人持有望远镜。"
+    },
+    {
+     "en": "Each distinct meaning of an ambiguous sentence corresponds to its own potential tree structure.",
+     "zh": "歧义句的每一个不同意义都对应一种自己的可能树形结构。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "structural ambiguity",
+     "zh": "结构歧义",
+     "defEn": "The situation in which one string of words has more than one possible structure.",
+     "defZh": "同一串词可以对应不止一种结构，并因此产生多种解释的现象。"
+    },
+    {
+     "en": "adjunct of the verb",
+     "zh": "动词的附加语",
+     "defEn": "A modifier attached within the verb phrase, as with a telescope in the first reading.",
+     "defZh": "附着于动词短语内部的修饰语，如第一种解释中的 with a telescope。"
+    },
+    {
+     "en": "object NP",
+     "zh": "宾语名词短语",
+     "defEn": "The noun phrase functioning as the object, which the PP may modify instead.",
+     "defZh": "充当动词宾语的名词短语，介词短语也可以转而修饰它，如 someone。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "I saw someone with a telescope.",
+     "noteEn": "The ambiguous sentence, whose two readings depend on where the PP attaches.",
+     "noteZh": "有歧义的句子，其两种理解取决于介词短语附着的位置。"
+    },
+    {
+     "text": "I was using a telescope, and I saw someone.",
+     "noteEn": "The first reading, in which the PP modifies the verb phrase headed by saw.",
+     "noteZh": "第一种理解，该介词短语修饰以 saw 为中心语的动词短语。"
+    },
+    {
+     "text": "I saw someone, and that person had a telescope.",
+     "noteEn": "The second reading, in which the same PP modifies the object NP someone.",
+     "noteZh": "第二种理解，同一介词短语修饰宾语名词短语 someone。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Morphology provided cases of structural ambiguity in which one string of morphemes can be assigned more than one structure, each structure matching a different interpretation. Syntax shows the same phenomenon. The familiar example I saw someone with a telescope has two possible readings. One reading is that the speaker was using a telescope and saw someone; the other is that the speaker saw someone and that person had a telescope.",
+     "zh": "形态学中就有结构歧义：同一串语素可以获得不止一种结构，而每种结构对应不同的解释。这种歧义并非词汇本身的模糊，而是结构造成的。句法中存在同样的现象。熟知的例子 I saw someone with a telescope 有两种可能的理解：一种是我用望远镜看到了某人，另一种是我看到某人，而那人带着望远镜。"
+    },
+    {
+     "en": "The difference lies in where the prepositional phrase attaches. Under the first interpretation, the PP with a telescope modifies the verb phrase headed by saw, so it is an adjunct of the verb. Under the second, that very PP modifies the noun phrase someone, so it is an adjunct of the object noun phrase. The two trees for the sentence therefore differ in the attachment site of a single modifier.",
+     "zh": "差别在于该介词短语所附着的位置。在第一种解释下，介词短语 with a telescope 修饰以 saw 为中心语的动词短语，因而是动词的附加语。在第二种解释下，同一介词短语修饰名词短语 someone，因而是宾语名词短语的附加语。因此该句的两棵树形图只在同一个修饰语的附着位置上不同。"
+    },
+    {
+     "en": "Other instances of structural ambiguity work the same way: each distinct meaning of one string of words will correspond to a different potential tree structure. Many such cases in syntax involve modifiers occupying adjunct positions on one or both interpretations, which is why the adjunct structures introduced earlier are central to analysing ambiguous sentences. Some practical implications of ambiguity, including legal interpretation, are discussed in section 8.3 on semantics and pragmatics in the legal domain.",
+     "zh": "其他结构歧义的情形也是如此：同一串词的每一个不同意义，都对应一种不同的可能树形结构，关键在于树形结构本身，而不在于词语的表面顺序。句法中的这类歧义大多涉及在一种或两种解释中处于附加语位置的修饰语，这也是前文介绍的附加语结构对歧义句分析至关重要的原因。歧义在实践中的一些影响，尤其是它所导致的法律解释难题，将在 8.3 节“法律领域中的语义学与语用学”中讨论。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,137 @@
+# 3.8 Describing signs
+
+## Signed language parameters
+
+Many of the possible types of manual articulations occur so frequently in certain combinations that we can describe them in more efficient ways. We begin by dividing the various manual articulations into four main categories, often referred to collectively as parameters (also called primes):
+- handshape: how the base knuckles and interphalangeal joints are configured
+- orientation: the direction the hand is facing due to the configuration of the other four joints (wrist, radioulnar, elbow, and shoulder)
+- location: where in space or on the body a sign is articulated
+- movement: how the manual articulators move
+
+## Handshape
+
+The static configuration of the base knuckles and interphalangeal joints in a sign is called its handshape. A handshape can be identified by which fingers have which of their base knuckles and/or interphalangeal joints flexed and by how much, as well as whether there is any abduction or adduction of the base knuckles. For example, we could describe the handshapes in Figure 3.28 with the given descriptions.
+
+[图片：3.27-handshapes.png]
+
+Figure 3.28. Various handshapes and their detailed descriptions of base knuckle and interphalangeal articulation.
+However, these kinds of prose descriptions are a bit cumbersome, just like constantly writing “voiceless postalveolar fricative” for the phone [ʃ]. When possible, handshapes are often graphically depicted with iconic pictures like those in Figure 3.28. However, these are not always easily available in certain media, so other solutions may be needed.
+Since many handshapes are used to represent numbers or letters from the writing system of the ambient spoken language, a common solution is to use numbers and letters as convenient shorthand labels, somewhat like the IPA. Thus, since the first handshape in Figure 3.28 is used to represent FIVE in ASL, we could call this handshape the “5 handshape”. Similarly, the second handshape in Figure 3.28 is used to represent the English letter <S> in ASL, so it can be called the “S handshape”.
+However, this system has to be used with caution. The S handshape is used in ASL to represent the English letter <S>, but in Swedish Sign Language (Svenskt teckenspråk, STS), the same handshape represents the Swedish letter <G>. In a discussion in English about STS, the term S handshape could be confusing if it has not been made clear which specific handshape it refers to. This is not an isolated problem. There are many other mismatches between these two languages, as shown in Figure 3.29, and of course, there are similar mismatches across signed languages generally.
+
+[图片：3.28-ASL-STS-mismatch.png]
+
+Figure 3.29. Differences between ASL and STS in handshape meanings.
+This issue is further complicated by the fact that writing systems do not all use the same characters. For example, it would not even make sense to talk about an “R handshape” for Russian Sign Language, because there is no letter <R> in the Russian alphabet. There is a Russian letter that represents a rhotic, but that letter is the Cyrillic character <Р>. This letter is represented in Russian Sign Language by the handshape in Figure 3.30, which is the handshape used for EIGHT in ASL! So when discussing many different signed languages in the same text, this way of describing handshapes can be confusing.
+
+[图片：3.29-ASL-EIGHT.png]
+
+Figure 3.30. The handshape for <Р> in Russian Sign Language and EIGHT in ASL.
+However, even just for a single signed language, there are far more handshapes than are used for numbers and letters. For example, ASL makes frequent use of the first two handshapes in Figure 3.31, but these are not used to represent any number or English letter, although they are similar to the third handshape in Figure 3.31, which is used to represent the English letter <B>.
+
+[图片：3.30-ASL-B-variants-300x169.png]
+
+Figure 3.31. Similar handshapes.
+For these situations, certain descriptors (flat, open, bent, closed, etc.) can be used to describe slight differences between similar handshapes, as in the examples from ASL in Figure 3.32.
+
+[图片：3.31-handshape-descriptors.png]
+
+Figure 3.32. Various descriptions for related handshapes.
+Because of the problems with this notation and terminology, we will use images where necessary, but we will also use the names typically used for describing handshapes in ASL. Just remember that these names are not universal and would not normally be appropriate when describing handshapes in other languages.
+Sometimes, a distinction is made between two types of handshapes. Some of these are called unmarked handshapes (Battison 1978), which tend to be the most common handshapes, both across signed languages and within a single language, as well as the earliest ones acquired by children. They are typically the easiest handshapes to both articulate and visually distinguish from each other. They are also often used as default or substitute handshapes in certain circumstances. More recent work argues that the set of unmarked handshapes is probably smaller than previously thought, perhaps containing only the four in Figure 3.33 (Henner et al. 2013),
+
+[图片：3.32-unmarked-handshapes.png]
+
+Figure 3.33. Unmarked handshapes.
+Marked handshapes are all other possible configurations of the fingers. These are not universal, so a particular marked handshape may be used in some languages but not in others, and when it is used, it may be common in some languages and rare in others.
+
+## Orientation
+
+The other four joints (wrist, radioulnar, elbow, and shoulder) can be used to change the orientation of the hand, so that it can face different directions while maintaining the same handshape. For example, the diagrams in Figure 3.34 show four different orientations of the flat-B handshape for the right hand as seen by the signer.
+
+[图片：3.33-orientation.png]
+
+Figure 3.34. Different orientations of the right hand as seen from the signer’s point of view.
+The orientation of the hand is divided into two components: the palm orientation (which way the palm is facing, shown in blue in Figure 3.34) and the finger orientation (the direction the bones inside the hand are pointing, which is where the fingers would point when straightened, shown in orange in Figure 3.34). Note that if the fingers are bent, the finger orientation may be a bit confusing, but you can determine orientation by straightening out the fingers to see where the fingertips point. Remember that handshape depends only on the base knuckles and interphalangeals, while orientation depends only on the other four joints. Bending at the base knuckles can only change handshape, not orientation.
+The orientation of either the palm or the fingers may be described in absolute terms (up, down), or relative to the signer’s position (in, out, left, right) or to a particular body part (face, other hand, etc.).
+Compare the ASL signs in the following video clips, first YOUR, then THANK-YOU, and finally BED. All three of these signs use the same open-B handshape, but they have different orientations. For YOUR, the palm is oriented out from the signer, and the fingers are oriented up.
+
+[视频：EoL3ASL_YOUR.mp4]
+
+For THANK-YOU, the palm is oriented in towards to the signer, and the fingers are oriented diagonally up and to the signer’s left.
+
+[视频：EoL3ASL_THANKYOU.mp4]
+
+And for BED, the palm is oriented in towards the signer’s left cheek, and the fingers are oriented up along the side of the signer’s face:
+
+[视频：EoL3ASL_BED.mp4]
+
+Since the head is tilted in BED, the absolute orientation of the palm and fingers in overall space is diagonal, but in signs like this, what matters is the relative orientation with respect to a specific body part, since the absolute orientation would depend on just how much the head is tilted.
+
+## Location
+
+The location of a sign is where in space or on the body it is articulated. Signs can be articulated in a variety of locations. The default location is neutral signing space, the area just in front of the signer’s torso (as in ASL YOUR), but locations can be nearly anywhere on the body. They tend to be around some specific part of the head (like the chin in ASL THANK-YOU or the side of the face in ASL BED), but other body parts are also possible locations. For example, the chest is the location for the ASL sign MY in the following video clip.
+
+[视频：EoL3ASL_MY.mp4]
+
+The side of the forehead is the location for the ASL sign KNOW in the following video clip.
+
+[视频：EoL3ASL_KNOWhigh.mp4]
+
+And the left hand is used as the location for the ASL sign WARN in the following video clip.
+
+[视频：EoL3ASL_WARN.mp4]
+
+It is very rare for signs to have a location below the waist or behind the body, but these are still possible locations in some signed languages (Nyst 2012).
+
+## Movement
+
+All signs have a handshape, an orientation, and a location, and many signs also have movement, which is divided into two types: path and local movement. Path movement involves articulation at the elbow and/or shoulder, as in THANK-YOU, which starts off on the chin but moves outward along a path into neutral signing space by extending the elbow. Local movement involves articulation at the radioulnar joint, wrist, base knuckles, and/or interphalangeal joints, as in WARN, in which the signer’s right hand taps the back of the left hand twice by flexing and extending the wrist.
+For one-handed signs, like most of those shown in this chapter so far, signers typically use their dominant hand, which is the hand used more than the other for many ordinary daily activities like writing and brushing teeth. The signer in these videos uses his right hand. The other hand is called the nondominant hand. In two-handed signs, both the dominant and nondominant hands are used. They may be used equally (for example, both moving at the same time in the same way), but in many two-handed signs, like ASL WARN, only the dominant hand moves, while the nondominant hand remains still, usually acting as the location for the sign.
+Note that the base knuckles and interphalangeal joints are used for handshape, so any movement at those joints can also change the handshape of a sign. Similarly, any movement of the other four joints can change the sign’s orientation or location. Thus, movement is intertwined with the other three parameters, so it can sometimes be difficult to single out how to analyze a given movement.
+For example, in ASL THANK-YOU, there is outward movement due to elbow extension as well as a change in location from the chin to neutral signing space. Normally, we describe this by giving the starting location as the actual location, and describe the ending location as part of the movement. Thus, we would say that the location of THANK-YOU is the chin, and that it has an outward path movement to neutral signing space.
+
+## Minimal pairs
+
+Signs which differ in just one parameter are called minimal pairs,. An example of a minimal pair in ASL is SORRY and PLEASE, as shown in the video clips below. Note for each how they have roughly the same orientation, location, and movement, but different handshapes. In SORRY, the open-A handshape is used.
+
+[视频：EoL3ASL_SORRY.mp4]
+
+But in PLEASE, the open-B handshape is used, as seen in this linked description and video from the online Handspeak ASL dictionary (Lapiak 1995–2022).
+Similarly, minimal pairs also exist for differences in orientation only, such as PROOF versus STOP in ASL, as shown in the following video clips. Note that there is also a slight difference in movement due to the dominant hand bouncing back in PROOF, but otherwise, the two signs have the same handshape, the same location, and mostly the same movement. In PROOF, the dominant hand is oriented with the palm facing up.
+
+[视频：EoL3ASL_PROOF.mp4]
+
+But in STOP, the dominant palm is facing to the signer’s left.
+
+[视频：EoL3ASL_STOP.mp4]
+
+Location can also be a distinguishing factor in minimal pairs, such as with APPLE versus ONION in ASL, as shown in the following video clips. These two signs have the same handshape, the same orientation, and the same movement, but they are articulated at different locations. APPLE is articulated on the cheek.
+
+[视频：EoL3ASL_APPLE.mp4]
+
+In comparison, ONION is articulated on the side of the head near the eye.
+
+[视频：EoL3ASL_ONION.mp4]
+
+Finally, minimal pairs also exist for movement, such as with THINK versus WONDER in ASL, as shown in the following video clips. These two signs have the same handshape, the same orientation, and the same location, but they differ in how the hand moves. For THINK, the hand moves inward toward the head.
+
+[视频：EoL3ASL_THINK.mp4]
+
+But in WONDER, the hand instead traces a circle near the head.
+
+[视频：EoL3ASL_WONDER.mp4]
+
+We will see in Chapter 4 that the concept of minimal pair can be extended to spoken languages, too.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=596#h5p-112
+
+## References
+
+Battison, Robbin. 1978. Lexical borrowing in American Sign Language. Silver Spring, MD: Linstok Press.
+Henner, Jonathan, Leah Geer, and Diane Lillo-Martin. 2013. Calculating frequency of occurrence of ASL handshapes. LSA Annual Meeting Extended Abstracts 4(16): 1–4.
+Lapiak, Jolanta. 1995–2022. Handspeak. https://www.handspeak.com/
+Nyst, Victoria. 2012. Shared sign languages. In Sign language: An international handbook, ed. Roland Pfau, Markus Steinbach, and Bencie Woll, 552–574. De Gruyter Mouton.

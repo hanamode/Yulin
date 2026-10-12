@@ -1,0 +1,24 @@
+{
+ "batch": 31,
+ "out": "data/gen2/batch-31.json",
+ "entries": [
+  {
+   "id": "austin",
+   "title": "约翰·奥斯汀",
+   "en": "J. L. Austin",
+   "category": "people"
+  },
+  {
+   "id": "searle",
+   "title": "约翰·塞尔",
+   "en": "John Searle",
+   "category": "people"
+  },
+  {
+   "id": "lakoff",
+   "title": "乔治·莱考夫",
+   "en": "George Lakoff",
+   "category": "people"
+  }
+ ]
+}

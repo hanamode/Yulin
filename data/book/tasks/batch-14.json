@@ -1,0 +1,25 @@
+{
+ "batch": 14,
+ "chapter": "Chapter 3: Phonetics",
+ "out": "data/book/gen/batch-14.json",
+ "sections": [
+  {
+   "id": "chapter-020-slug-3-3-describing-consonants-place-and-phonation",
+   "title": "3.3 Describing consonants: Place and phonation",
+   "src": "data/book/src/chapter-020-slug-3-3-describing-consonants-place-and-phonation.txt",
+   "chars": 18105
+  },
+  {
+   "id": "chapter-021-slug-3-4-describing-consonants-manner",
+   "title": "3.4 Describing consonants: Manner",
+   "src": "data/book/src/chapter-021-slug-3-4-describing-consonants-manner.txt",
+   "chars": 12827
+  },
+  {
+   "id": "chapter-022-slug-3-5-describing-vowels",
+   "title": "3.5 Describing vowels",
+   "src": "data/book/src/chapter-022-slug-3-5-describing-vowels.txt",
+   "chars": 17426
+  }
+ ]
+}

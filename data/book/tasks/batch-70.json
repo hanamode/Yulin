@@ -1,0 +1,19 @@
+{
+ "batch": 70,
+ "chapter": "Appendix 1: PSRs and Flat Tree Structures",
+ "out": "data/book/gen/batch-70.json",
+ "sections": [
+  {
+   "id": "chapter-164-a1-4-phrasal-movement-in-wh-questions",
+   "title": "A1.6 Phrasal movement in wh-questions",
+   "src": "data/book/src/chapter-164-a1-4-phrasal-movement-in-wh-questions.txt",
+   "chars": 8999
+  },
+  {
+   "id": "chapter-165-a1-5-draw-a-tree-step-by-step",
+   "title": "A1.7 Draw a Tree Step-by-Step",
+   "src": "data/book/src/chapter-165-a1-5-draw-a-tree-step-by-step.txt",
+   "chars": 10625
+  }
+ ]
+}

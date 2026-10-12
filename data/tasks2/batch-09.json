@@ -1,0 +1,24 @@
+{
+ "batch": 9,
+ "out": "data/gen2/batch-09.json",
+ "entries": [
+  {
+   "id": "assimilation",
+   "title": "同化",
+   "en": "Assimilation",
+   "category": "concepts"
+  },
+  {
+   "id": "dissimilation",
+   "title": "异化",
+   "en": "Dissimilation",
+   "category": "concepts"
+  },
+  {
+   "id": "epenthesis",
+   "title": "增音",
+   "en": "Epenthesis",
+   "category": "concepts"
+  }
+ ]
+}

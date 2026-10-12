@@ -1,0 +1,161 @@
+{
+ "batch": 28,
+ "entries": [
+  {
+   "id": "dependency-grammar",
+   "title": "依存语法",
+   "en": "Dependency Grammar",
+   "category": "theories",
+   "tags": ["句法理论", "依存关系", "泰尼埃尔", "树库", "句法分析"],
+   "summary": "依存语法是以词与词之间的依存关系为核心的句法理论，由泰尼埃尔在《结构句法基础》中系统提出。它把句子看作以动词为根节点、由支配词指向从属词的有向连接网络，每条连接标注主语、宾语、定语等语法关系，因而不需要独立的短语节点。依存语法特别适合语序自由和形态丰富的语言，是通用依存树库与自动句法分析器的主要形式化框架之一。",
+   "summaryEn": "Dependency grammar is a syntactic framework in which sentence structure is represented as a network of directed links between words rather than as nested phrases. Lucien Tesniere developed it systematically in Elements de syntaxe structurale, treating the verb as the root and other words as its dependents. Each link carries a grammatical relation such as subject or object, and no separate phrase nodes are required. The framework suits languages with free word order and rich morphology and now underlies many treebanks and parsing systems.",
+   "sections": [
+    {
+     "h": "定义与基本思想",
+     "hEn": "Definition and Core Idea",
+     "p": ["依存语法是一种以词与词之间的依存关系为核心的句法理论。它认为句子的结构并非由短语层层嵌套构成，而是由词充当节点、由支配词与被支配词之间的有向连接构成网络。每条连接表示一个依存关系，方向由中心词指向从属词，并带有主语、宾语、定语等关系标签。这一视角把动词视为句子的根节点，其他成分直接或间接依附于它，因而无需设立独立的短语节点。"],
+     "pEn": ["Dependency grammar is a syntactic framework in which the fundamental structure of a sentence consists of binary relations between individual words rather than nested phrases. Each word is a node, and each directed link connects a head to a dependent, so that the syntactic structure of a clause forms a connected graph rooted in the main verb. Links carry labels such as subject, object or modifier. Because heads and dependents are related directly, the theory needs no separate phrase nodes, an economy that makes it attractive for languages with free word order and rich morphology."]
+    },
+    {
+     "h": "发展简史",
+     "hEn": "Historical Development",
+     "p": ["依存观念可追溯到古代印度语法学家波你尼对梵语支配关系的描写，以及中世纪阿拉伯语法传统。现代依存语法通常以法国语言学家吕西安·泰尼埃尔的《结构句法基础》（1959年出版）为起点，他提出句子由动词支配的依存网络构成，并区分连接、接合与转换三种机制。此后，依存语法在计算语言学中获得广泛应用，成为句法分析器的主要形式化框架之一。"],
+     "pEn": ["The idea of dependency has roots in Panini's description of government in Sanskrit and in the Arabic grammatical tradition, but modern dependency grammar begins with Lucien Tesniere's Elements de syntaxe structurale, published posthumously in 1959. Tesniere treated the verb as the governing centre of the clause and distinguished connexion, junction and translation. From the 1970s onward the framework was increasingly adopted in computational linguistics, where dependency representations proved efficient for parsing and for cross-lingual annotation, and it now underlies many treebanks and parsing systems."]
+    },
+    {
+     "h": "表示方式与语言示例",
+     "hEn": "Representation and Examples",
+     "p": ["在实践中，依存结构常用带箭头的有向图或括号标注表示。例如英语句子 The dog chased the cat 中，动词 chased 为根节点，dog 与 cat 分别以主语和宾语关系依附于它，两个限定词 the 再依附于相应的名词。汉语「他昨天读了一本书」中，动词「读」支配「他」「昨天」「书」，「了」依附于动词，量词「本」依附于名词「书」。是否允许依存弧交叉，即非投射结构，是不同模型的重要分歧。"],
+     "pEn": ["In practice dependency structures are written as directed graphs or in bracketed notation. In the English sentence The dog chased the cat, the verb chased is the root, dog and cat depend on it as subject and object, and each determiner the depends on its noun. In the Chinese sentence ta zuotian du le yi ben shu, the verb du governs ta, zuotian and shu, the aspect marker le attaches to the verb, and the classifier ben attaches to the noun shu. Whether dependency arcs may cross, yielding non-projective structures, is a major dividing line between models."]
+    },
+    {
+     "h": "应用与争议",
+     "hEn": "Applications and Criticism",
+     "p": ["依存语法特别适合语序自由、形态丰富的语言，如捷克语、土耳其语和澳大利亚的瓦尔皮里语，因为其表示不预设固定的短语顺序。它也是通用依存树库等大规模跨语言资源的基础，广泛用于词性标注、句法分析和信息抽取。批评者指出，依存结构对短语的层级组织描写不足，对并列结构与某些长距离依存的处理较为棘手，关系标签在不同语言间也不易统一界定。"],
+     "pEn": ["Dependency grammar suits languages with free word order and rich morphology, such as Czech, Turkish and the Australian language Warlpiri, since its representations do not presuppose a fixed phrase order. It also underpins large cross-linguistic resources such as the Universal Dependencies treebanks and is widely used for tagging, parsing and information extraction. Critics note that pure dependency structures underrepresent phrasal constituency, handle coordination and some long-distance dependencies awkwardly, and that relation labels are hard to define uniformly across languages."]
+    }
+   ],
+   "terms": [
+    {"t": "依存关系", "tEn": "dependency relation", "d": "由中心词指向从属词的句法连接，并标注主语、宾语等语法关系。", "dEn": "A directed syntactic link from a head to a dependent, labelled with a grammatical relation."},
+    {"t": "中心词（支配词）", "tEn": "head", "d": "在依存结构中支配其他词、决定整个结构句法分布的词，通常由动词担任。", "dEn": "The word that governs others and determines the syntactic distribution of the whole phrase."},
+    {"t": "投射性", "tEn": "projectivity", "d": "依存弧在句子上方互不交叉的性质，非投射结构多见于自由语序语言。", "dEn": "The property whereby dependency arcs do not cross; non-projective structures occur in free word-order languages."},
+    {"t": "依存距离", "tEn": "dependency distance", "d": "中心词与其从属词之间相隔的词数，常被用作加工难度的指标。", "dEn": "The number of intervening words between a head and its dependent, used as a measure of processing difficulty."},
+    {"t": "依存树库", "tEn": "dependency treebank", "d": "对语料中每个句子标注依存结构的语料库，如通用依存资源。", "dEn": "An annotated corpus in which every sentence is assigned a dependency structure."},
+    {"t": "转换", "tEn": "translation", "d": "泰尼埃尔提出的机制，指改变词的句法范畴以使其承担新的句法功能。", "dEn": "Tesniere's mechanism of shifting a word's syntactic category so that it can fill a new syntactic slot."}
+   ],
+   "related": ["syntax", "head", "typology", "lexical-functional-grammar", "computational-linguistics"],
+   "sources": [
+    "Wikipedia, \"Dependency grammar\", https://en.wikipedia.org/wiki/Dependency_grammar",
+    "Tesnière, Éléments de syntaxe structurale, 1959",
+    "Mel'čuk, Dependency Syntax: Theory and Practice, 1988",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "usage-based-linguistics",
+   "title": "基于用法的语言学",
+   "en": "Usage-based Linguistics",
+   "category": "theories",
+   "tags": ["语言使用", "频率效应", "构式", "认知语言学", "语言习得"],
+   "summary": "基于用法的语言学主张语言知识来自语言使用，而非天赋的独立模块。它认为说话者借助固化、类比和范畴化等一般认知能力，从反复出现的语言经验中抽象出从具体词语到抽象构式的连续体，使用频率对单位的固化和提取起决定作用。兰盖克的认知语法、拜比的使用导向理论与托马塞洛的习得研究是其代表，研究常以语料库统计和心理语言学实验为证据。",
+   "summaryEn": "Usage-based linguistics holds that linguistic knowledge emerges from language use rather than from an innate, domain-specific module. Speakers abstract a continuum of units, from concrete words to abstract constructions, out of repeated experience by means of general cognitive processes such as entrenchment, analogy and categorisation, with frequency playing a decisive role in storage and retrieval. Langacker's Cognitive Grammar, Bybee's usage-based theory and Tomasello's acquisition research are representative. Evidence typically comes from corpus statistics, psycholinguistic experiments and longitudinal child language data.",
+   "sections": [
+    {
+     "h": "定义与核心主张",
+     "hEn": "Definition and Central Claims",
+     "p": ["基于用法的语言学是一组强调语言知识来源于语言使用的理论取向，与语言天赋论立场相对。其核心主张是：语法并非先天给定的独立模块，而是说话者在反复的语言经验中通过归纳、类比和范畴化逐步抽象出来的。语言单位从具体词语到抽象构式形成一个连续体，使用频率在其中起决定性作用：频率越高，单位越容易被固化和提取。"],
+     "pEn": ["Usage-based linguistics is a family of approaches that treat linguistic knowledge as emerging from language use rather than from an innate, autonomous module. Its central claim is that grammar is abstracted by speakers from repeated experience through general cognitive processes such as entrenchment, analogy and categorisation. Linguistic units range along a continuum from concrete words to abstract constructions, and frequency plays a decisive role: the more often a pattern is used, the more strongly it is entrenched and the more easily it is retrieved."]
+    },
+    {
+     "h": "研究内容与方法",
+     "hEn": "Research Questions and Methods",
+     "p": ["基于用法的研究关注频率效应、构式网络、语法化、固化与能产性等问题，常用语料库统计、心理语言学实验和儿童语言追踪作为证据来源。例如英语中高频动词 give 与低频动词 donate 对双宾构式的支持程度明显不同，说明具体动词的频率塑造了论元结构的能产性。汉语「把」字句的扩展也显示，新用法总是从具体高频语境逐步泛化到更抽象的图式。"],
+     "pEn": ["Research in this tradition addresses frequency effects, construction networks, grammaticalisation, entrenchment and productivity, and it draws evidence from corpus statistics, psycholinguistic experiments and longitudinal child data. A well-known example is the English dative alternation, where high-frequency verbs such as give support the double-object construction far more robustly than low-frequency verbs such as donate, showing that verb-specific frequency shapes argument-structure productivity. Similar evidence comes from the spread of the Chinese ba construction, whose new uses generalise from concrete, frequent contexts to more abstract schemas."]
+    },
+    {
+     "h": "理论渊源与发展",
+     "hEn": "Intellectual Roots and Development",
+     "p": ["该取向可追溯到二十世纪的功能主义传统以及博厄斯、萨丕尔的语言描写实践，也受到维果茨基社会文化理论的影响。二十世纪八十年代以后，兰盖克与莱考夫等人推动的认知语言学为其提供了理论框架，拜比、汤普森和托马塞洛等人则通过实证研究加以充实。近二十年来，大规模语料库与心理语言学实验的结合，使其成为与生成语法并立的重要范式。"],
+     "pEn": ["The approach traces its ancestry to twentieth-century functionalism, to the descriptive practice of Boas and Sapir, and to Vygotskian sociocultural theory. From the 1980s onward the cognitive linguistics of Langacker and Lakoff supplied its theoretical frame, while Bybee, Thompson and Tomasello enriched it with empirical work on phonology, syntax and acquisition. In the past two decades the combination of large corpora with psycholinguistic experimentation has established usage-based linguistics as a major paradigm standing alongside generative grammar."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": ["批评主要来自生成语法阵营：反对者认为，仅凭输入频率和一般认知机制难以解释儿童在短时间内获得的抽象句法知识，也无法说明某些结构虽罕见却极易习得的现象。此外，频率效应的因果方向难以确定，语料库中的共现数据有时混入语用与文体因素。支持者回应说，抽象图式与频率并非互斥，两者可以在同一框架内共存。"],
+     "pEn": ["Criticism comes mainly from the generative camp: opponents argue that input frequency and general cognitive mechanisms cannot explain how children acquire abstract syntax so rapidly, nor why some rare structures are learned with ease. The causal direction of frequency effects is also hard to establish, and corpus co-occurrence data may be confounded by pragmatic and stylistic factors. In reply, proponents maintain that abstract schemas and frequency are not mutually exclusive but can be integrated within a single framework."]
+    }
+   ],
+   "terms": [
+    {"t": "固化", "tEn": "entrenchment", "d": "高频使用使某一语言单位在心理上逐步稳固、更易提取的过程。", "dEn": "The process whereby frequent use strengthens a linguistic unit in memory and eases its retrieval."},
+    {"t": "构式", "tEn": "construction", "d": "形式与意义或功能配对的语言单位，涵盖词、短语与句式。", "dEn": "A learned pairing of form with meaning or function, ranging from words to abstract sentence patterns."},
+    {"t": "频率效应", "tEn": "frequency effect", "d": "语言单位的加工速度与能产性随使用频率而变化的现象。", "dEn": "The finding that processing speed and productivity vary with how often a unit is used."},
+    {"t": "类符频率与形符频率", "tEn": "type and token frequency", "d": "类符频率指不同形式的种类数，形符频率指实际出现的总次数。", "dEn": "Type frequency counts distinct patterns; token frequency counts total occurrences."},
+    {"t": "能产性", "tEn": "productivity", "d": "某一构式或图式接纳新词项、生成新表达的能力，通常与类符频率密切相关。", "dEn": "The capacity of a schema to admit new items and generate novel expressions."},
+    {"t": "语法化", "tEn": "grammaticalization", "d": "实义词逐步演变为语法成分、结构不断抽象化的历时过程。", "dEn": "The diachronic process by which lexical items become grammatical and structures grow more abstract."}
+   ],
+   "related": ["cognitive-linguistics", "construction-grammar", "language-acquisition", "corpus-linguistics", "grammaticalization"],
+   "sources": [
+    "Wikipedia, \"Usage-based models of language\", https://en.wikipedia.org/wiki/Usage-based_models_of_language",
+    "Bybee, Language, Usage and Cognition, Cambridge University Press, 2010",
+    "Tomasello, Constructing a Language: A Usage-Based Theory of Language Acquisition, 2003",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "head-driven-phrase-structure-grammar",
+   "title": "中心语驱动短语结构语法",
+   "en": "Head-driven Phrase Structure Grammar",
+   "category": "theories",
+   "tags": ["形式语法", "合一", "特征结构", "词汇主义", "计算语言学"],
+   "summary": "中心语驱动短语结构语法（HPSG）是波拉德与萨格在1994年提出的基于约束与合一的词汇主义形式语法。它用有类型的特征结构表示语言知识，通过合一运算组合信息，语法合法性完全由表层结构的约束条件决定，不设深层结构与句法移位。中心语规定自身的补足语和主语需求，因而在组合中起决定作用。HPSG形式严谨、可直接实现，被广泛用于计算语言学的语法工程。",
+   "summaryEn": "Head-driven Phrase Structure Grammar is a constraint-based, lexicalist formalism set out systematically by Pollard and Sag in 1994. Linguistic knowledge is represented by typed feature structures, and expressions combine by unification. Well-formedness and interpretation follow entirely from constraints on surface structures, so no deep structure or syntactic movement is postulated. Because heads specify the complements and subjects they require, they drive phrase formation. The framework is formally explicit, directly implementable, and widely used in computational grammar engineering.",
+   "sections": [
+    {
+     "h": "定义与基本框架",
+     "hEn": "Definition and Overall Architecture",
+     "p": ["中心语驱动短语结构语法是由波拉德与萨格在1994年系统提出的形式语法框架，属于基于约束与合一的词汇主义理论。它把语言知识表示为有类型的特征结构，通过合一运算检验并组合信息。与转换生成语法不同，HPSG不设深层结构和句法移位，句子的合法性与语义解释完全由表层结构的约束条件决定。中心语在组合中起决定作用，它规定自己的补足语和主语需求，因此得名。"],
+     "pEn": ["Head-driven Phrase Structure Grammar is a constraint-based, lexicalist framework formulated systematically by Pollard and Sag in 1994. Linguistic knowledge is represented as typed feature structures, and grammatical composition proceeds by unification rather than by transformations. Unlike transformational grammar, HPSG posits no deep structure and no movement: well-formedness and semantic interpretation are determined by constraints on surface structures. The head of a phrase is the locus of information, since it specifies which complements and subjects it requires, hence the term head-driven."]
+    },
+    {
+     "h": "特征结构与合一",
+     "hEn": "Feature Structures and Unification",
+     "p": ["HPSG使用属性-值矩阵描写语言单位，每个特征结构带有类型，类型之间构成继承层级。例如一个词的音系形式、句法范畴和语义内容分别由 PHON、CAT、CONTENT 等特征刻划，其中 CAT 之下再分中心语特征、补足语特征等。当两个结构合并时，相同的特征必须取得一致的值，这一运算称为合一；若值冲突，合并失败，相应的结构便被判定为不合语法。"],
+     "pEn": ["HPSG describes linguistic objects by attribute-value matrices, each carrying a type embedded in an inheritance hierarchy. A word's phonology, syntactic category and semantic content are represented by features such as PHON, CAT and CONTENT, with CAT further divided into head features and valence features. When two structures combine, their shared features must receive compatible values; this operation is unification, and if the values conflict the combination fails and the resulting structure is ungrammatical. Information is thus added monotonically and never overwritten."]
+    },
+    {
+     "h": "词汇主义与论元结构",
+     "hEn": "Lexicalism and Argument Structure",
+     "p": ["HPSG主张大部分句法信息编码在词项之中，短语结构规则可归结为少数普遍原则。词项通过论元结构指定所需补足语的句法范畴与语义角色，如英语动词 give 要求一个主语、一个宾语和一个介词短语补足语，而 sleep 只需一个主语。中心语与补足语的特征相互制约，一致关系、格指派和语序限制通过一致性原则与线性化原则实现，因此不同语言主要在词汇条目上有所差异。"],
+     "pEn": ["HPSG is lexicalist: most syntactic information is encoded in lexical entries, and phrase-structure rules reduce to a small set of universal principles. Through its argument structure a lexical entry specifies which complements are required and what semantic roles they bear. The English verb give, for instance, requires a subject, an object and a prepositional complement, whereas sleep requires only a subject. Constraints linking heads with their complements derive agreement, case assignment and ordering, so that languages differ mainly in their lexicon."]
+    },
+    {
+     "h": "发展与应用",
+     "hEn": "Development and Applications",
+     "p": ["二十世纪九十年代以后，HPSG吸收了类型特征结构语法与范畴语法的成果，发展出多套可运行的实现系统，如 ALE、LKB 和 TRALE，并被用于构建德语的德语语法资源、日语的 Jacy 和英语的英语资源语法等大规模语法工程。这些系统把语法与语义表示同时实现，可直接用于机器翻译、问答和语言教学中的自动分析。其思想也影响了形式语义学与语法工程实践。"],
+     "pEn": ["From the 1990s onward HPSG absorbed ideas from typed feature-structure grammar and categorial grammar and produced several working implementations, including ALE, LKB and TRALE. These systems have been used to build large computational grammars such as the German Grammar, the Japanese grammar Jacy and the English Resource Grammar. Because syntax and semantic representation are implemented together, the grammars can be applied directly to machine translation, question answering and automatic analysis for language teaching, and their design has influenced formal semantics and grammar engineering more broadly."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": ["批评者认为，合一语法在描写上过于强大，几乎可以刻画任何语言现象，从而削弱了预测力；特征结构的层级与约束数量庞大，使理论难以被证伪，也提高了学习成本。此外，HPSG对语言习得和心理现实性的说明相对薄弱，缺少对在线加工过程的直接预测。支持者则强调，它形式严谨、可直接实现，适合构建可计算且可检验的语法工程。"],
+     "pEn": ["Critics argue that unification-based grammar is descriptively so powerful that it can accommodate almost any phenomenon, which weakens its predictive force; the sheer number of types and constraints also makes the theory hard to falsify and costly to learn. In addition, HPSG says relatively little about language acquisition and psychological reality, and it makes few direct predictions about online processing. Supporters reply that its formal rigour and implementability make it well suited to building computable, testable grammars at scale."]
+    }
+   ],
+   "terms": [
+    {"t": "特征结构", "tEn": "feature structure", "d": "以属性-值对描写语言单位、并带有类型标记的形式表示。", "dEn": "A typed formal representation of a linguistic object as a set of attribute-value pairs."},
+    {"t": "合一", "tEn": "unification", "d": "合并两个特征结构、要求共享特征取值相容的运算，取值冲突则合并失败。", "dEn": "The operation of combining two feature structures by requiring compatible values on shared features."},
+    {"t": "类型层级", "tEn": "type hierarchy", "d": "规定各类特征结构之间继承关系的网络，用于共享信息。", "dEn": "A network specifying inheritance relations among types of feature structures."},
+    {"t": "词汇主义", "tEn": "lexicalism", "d": "主张大部分句法信息编码在词项中、句法规则数量有限的观点。", "dEn": "The view that most syntactic information is stored in lexical entries rather than in rules."},
+    {"t": "论元结构", "tEn": "argument structure", "d": "词项所要求的论元数量、句法范畴与语义角色，是句法与语义接口的核心信息。", "dEn": "The number, syntactic categories and semantic roles of the arguments a lexical item requires."},
+    {"t": "中心语特征", "tEn": "head feature", "d": "由中心语传递给整个短语的句法特征，如词类与形态属性。", "dEn": "A syntactic feature, such as category or inflection, passed from the head to the whole phrase."}
+   ],
+   "related": ["syntax", "phrase-structure-rule", "head", "lexical-functional-grammar", "agreement"],
+   "sources": [
+    "Wikipedia, \"Head-driven phrase structure grammar\", https://en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar",
+    "Pollard & Sag, Head-Driven Phrase Structure Grammar, University of Chicago Press, 1994",
+    "Sag, Wasow & Bender, Syntactic Theory: A Formal Introduction, 2003",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 47,
+ "chapter": "Chapter 9: Reclaiming Indigenous Languages",
+ "out": "data/book/gen/batch-47.json",
+ "sections": [
+  {
+   "id": "part-009-chapter-9-reclaiming",
+   "title": "Chapter 9: Reclaiming Indigenous Languages",
+   "src": "data/book/src/part-009-chapter-9-reclaiming.txt",
+   "chars": 661
+  },
+  {
+   "id": "chapter-105-preserving",
+   "title": "9.1 Preserving Mohawk",
+   "src": "data/book/src/chapter-105-preserving.txt",
+   "chars": 3405
+  },
+  {
+   "id": "chapter-106-learning-mohawk",
+   "title": "9.2 Learning Mohawk",
+   "src": "data/book/src/chapter-106-learning-mohawk.txt",
+   "chars": 3819
+  }
+ ]
+}

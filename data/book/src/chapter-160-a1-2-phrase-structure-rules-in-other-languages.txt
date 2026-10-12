@@ -1,0 +1,105 @@
+# A1.2 Phrase Structure Rules in Other Languages
+
+One thing that linguists often do is look at languages that they don’t know much about and look for the word order patterns in that language. They can then describe the patterns with phrase structure rules.
+The first step in figuring out the phrase structure rules for another language is to determine the constituency in your data. You can use the meaning in the English translation to determine what modifies what in the other language.
+Let’s look at some examples together. The following examples are from Turkish. Remember that in examples from other languages, the first line is written naturally in the other language. The second line tells you what each word in the other language means. The third line tells you what the sentence means in English.
+
+The abbreviations used in these examples are listed in the table below.
+
+[表格]
+| | | | Abbreviation | | | | Meaning | | | | | 1 | | First person (I/me) | | | | | | 3 | | Third person (it/she/he) | | | | OBJ | | Object case marker | | | | PASS | | Passive voice marker | | | | POSS | | Possessive marker | | | | PST | | Past tense | | | | SG | | Singular number | | |
+
+Table A1.1: Turkish glossing abbreviations
+
+## Step 1: Identify the order of subject, object, and verb
+
+The first constituents you should look for are the subject and the verb phrase. The subject will typically be the NP that performs the action, while the VP will include the verb and the object NP. The object NP is the NP at which the action is directed.
+The VP always includes the verb and the object (if there is an object). It never includes the subject.
+In sentence (1), the word order is roughly Toprak Deniz see, as we can see from the second line. But how do we know whether Toprak saw Deniz or Deniz saw Toprak? Well, we look at the English translation in the third line. The sentence means that Toprak is the one doing the seeing, not Deniz, so Toprak is the subject. Likewise, Deniz is the one being seen, so Deniz is the object.
+
+[表格]
+| | | (1) | | Toprak | | Deniz’-i | | gör-dü. | | | | | | Toprak | | Deniz-OBJ | | see–PST | | | | | | ‘Toprak saw Deniz.’ | | |
+
+From this, we can hypothesize that Turkish is an SOV language, which means that sentences in Turkish follow a subject – object – verb word order by default.
+Turkish also has object case markers which can help us find the object (see Section 5.7 for a refresher on what case is). Not all languages use case markers, and sometimes case markers are used in unexpected ways, so we cannot always depend on case markers to help us determine which NP is the subject or the object. However, it can be a useful piece of secondary evidence!
+You can draw boxes around the constituents you identify so you don’t get confused! In example (1) we might draw a box around Deniz’i gördü ‘saw Deniz’ to remind ourselves that this is a constituent, the VP
+
+How to be a linguist: Working Hypotheses
+
+This approach works on the assumption that the English translation in the third line has an equivalent structure as the original language, which is not always the case. Linguists will try to translate the sentence as close as possible, but sometimes the language will have a structure that does not have an equivalent in English.
+For example, here is what a passive sentence looks like in Turkish, although, unlike in English, it is unusual (but still possible!) to include the subject in a passive like we did here. (For a refresher on what a passive is, see Section 6.11).
+
+[表格]
+| | | (2) | | Deniz | | Toprak | | taraf-ın-dan | | gör-ül-dü. | | | | | | | | Deniz | | Toprak | | side-3SG-POSS | | see-PASS-PST | | | | | | | | ‘Deniz was seen by Toprak.’ Or literally, ‘Deniz was seen from Toprak’s side.’ | | |
+
+Because it’s passive, the one doing the seeing is not in subject position, and the one being seen is not in object position.
+It is important to keep in mind the difference between the structural subject and the thematic subject. The structural subject is the NP that appears in the subject position of the clause (the daughter of S). The thematic subject is the NP with the agent theta role (see Section 6.10). In most sentences, both of these pick out the same NP, the subject. However, sometimes they aren’t the same, such as in passive sentences.
+When you’re working on an unfamiliar language, you won’t always know if there’s something happening that is adding extra complication to your data, like if it’s a passive sentence. But we have to start somewhere! So what we do is we make a hypothesis based on the data we have. We try to make it the simplest hypothesis possible. After that, we collect more data to check our first hypothesis.
+If the passive sentence was the only sentence of Turkish we had, we might conclude that Turkish has OSV word order instead of SOV (depending on how seriously we took the structure of the English translation). However, once we collected more data, we’d probably notice that the passive sentence has a different word order than the others. We might also notice that the passive sentence has morphological differences. For example, it has the passive marker on the verb but it doesn’t have the object case marker on the object. We would use these clues to help us revise our initial hypothesis and conclude that sentence (2) has a change in argument structure and that Turkish really is SOV.
+
+## Step 2: Adding the modifiers to the constituents
+
+After we identify the order between subject, object, and verb, we can start to fill out some of the other constituents, by identifying what the modifiers are modifying.
+For example, in sentence (3), we have the adjective siyah ‘black’ occurring between two nouns. Some languages (like English) put adjectives on the left of the noun it modifies, while others (such as French) put adjectives on the right. How do we know, then, whether Turkish is like English, and this sentence is about a black table, or whether Turkish is like French, and this sentence is about a black book?
+
+[表格]
+| | | (3) | | Kitap | | siyah | | masa-ya | | dokun-du. | | | | | | book | | black | | table-OBJ | | touch-PST | | | | | | ‘The book touched the black table.’ | | |
+
+Again, we can tell by looking at the English translation in the third line. In the translation, black modifies table, so we can know that siyah modifies masaya, and therefore that siyah masaya forms a constituent.
+You may want to put a box around this constituent too, so we remember what we figured out.
+Turkish has a phonological assimilation rule called vowel harmony which can change the pronunciation of vowels to match the backness feature of other vowels in the word. This is why the past tense marker is sometimes –dü and sometimes –du. This difference doesn’t affect the syntax, so you don’t need to worry about that difference here.
+
+## Step 3: Looking for patterns
+
+After you’ve identified the constituents, you need to go through each constituent one by one and identify what goes into that constituent. At this step, the sort of questions you should ask are:
+- What is optional in this kind of constituent?
+- What is obligatory in this kind of constituent?
+- Which elements can be repeated, so that they need a plus sign?
+- What is the relative order of the elements inside a constituent?
+
+You can identify that something is optional in a given constituent by noticing that it isn’t there each time that kind of constituent appears in your data.
+For example, the S rule will show the order between the subject NP and the VP. However, in some languages, including Turkish, the subject is optional in some contexts. This is shown in sentences (4) and (5). In sentence (4), there is a subject pronoun ben ‘I’. But in sentence (5), which has the exact same meaning, there is no subject pronoun! You can still tell who the subject is, but only because of the agreement marker on the verb.
+
+[表格]
+| | | (4) | | Ben | | Deniz’i | | gör-dü-m | | | | | | I | | Deniz-OBJ | | see-PST-1SG | | | | | | ‘I saw Deniz.’ | | |
+
+[表格]
+| | | (5) | | Deniz’i | | gör-dü-m | | | | | | Deniz-OBJ | | see-PST-1SG | | | | | | ‘I saw Deniz.’ | | |
+
+Because of this, when we write the S rule for Turkish, we will put the subject NP in brackets to show that it is optional.
+
+[表格]
+| | | (6) | | S → (NP) VP | | |
+
+When we’re working with a small data set, like you will be doing on most of your homework in this class, you won’t usually be able to tell for sure whether something is obligatory. However, if it appears in all of the relevant places in your data set, you should assume it is obligatory until you find evidence to the contrary. So, for example, all of the sentences we’ve looked at in this section are transitive, and have an object. So we would not put the object NP in parentheses. (Turkish does have intransitive verbs, though, so if our data set was a bit bigger, this would be different.) Remember, we are writing our PSRs as a model that describes the data we have, not the data we expect to exist. Once we gather that further data, we can revise our hypotheses.
+When you are listing the members of a constituent in your PSRs, be careful that you list the constituents of just the next layer of structure.
+For example, let’s look at sentence (3) again.
+
+[表格]
+| | | (7) | | Kitap | | siyah | | masa-ya | | dokun-du. | | | | | | book | | black | | table-OBJ | | touch-PST | | | | | | ‘The book touched the black table.’ | | |
+
+In this sentence, the VP is siyah masaya dokundu ‘touched the black table.’ Many students will look at this sentence and conclude that the VP rule for Turkish is an AdjP (for siyah), followed by an NP (for masaya), followed by a V (for dokundu), as shown in (8). But this isn’t quite right!
+
+[表格]
+| | | (8) | | | Incorrect rules | | | | | | | VP → (AdjP) NP V | | | | | | NP → (AdjP) N | | |
+
+Earlier we decided that siyah masaya ‘black table’ was a constituent. The adjective doesn’t belong directly in the VP; instead it belongs inside of the NP meaning black table, and the whole NP is inside the VP, as shown in the tree in Figure A1.4.
+
+[图片：kitap-siyah-298x300.png]
+
+Figure A1.4: Tree of example (7)
+The incorrect rules in (8) put the same AdjP in two different places—both inside the VP and inside the NP. Instead, it should only belong to the NP, as in (9). Siyah does not modify the verb. It only modifies the noun, so it belongs to the NP.
+
+[表格]
+| | | (9) | | | Correct rules | | | | | | | VP → NP V | | | | | | NP → (AdjP) N | | |
+
+## Step 4: Putting it all together
+
+In your last step, you should collect all of your PSRs in one list and then double check them. Here is the list of PSRs for the Turkish data from this section.
+
+[表格]
+| | | (10) | | | Turkish PSRs | | | | | | | S → (NP) VP | | | | | | VP → NP V | | | | | | NP → (AdjP) N | | | | | | AdjP → Adj | | |
+
+The first thing you should do to double check your answers is to compare all of the data in your data set to the final version of your rules. Sometimes when you revise a rule, you accidentally make it inconsistent with some data you looked at earlier in your process.
+I also recommend you draw a tree of one or more sentences in your data using your PSRs, to check to see if following your PSRs strictly makes the word order come out right with no pieces missing. If you only draw one sentence, choose the most complicated one. That is the one that is most likely to have a mistake! If you have to draw something that isn’t listed in your rules, then either you’ve drawn it incorrectly or there’s a mistake in your rules.
+Special thanks to Çağrı Bilgin for coming up with the Turkish data in this section.

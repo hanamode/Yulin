@@ -1,0 +1,57 @@
+# 11.7 Syntax in early utterances
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=527#oembed-1
+Beginning at about age 1;6 to 2;0, most children start to combine words into phrases of two or even three words. At this early stage, their utterances are usually telegraphic[1], containing mostly content words like nouns and verbs, with few function words and few inflectional morphemes. It can be hard to figure out whether these short utterances have any syntactic structure to them. Let’s look at some of the evidence.
+
+## Syntactic Categories
+
+Even children’s first short sentences give us evidence that their mental grammar has already grouped words into syntactic categories. In a couple of large corpus studies of children’s utterances (Cazden, 1968; Maratsos, 1982), researchers looked for examples where the children had used a word in a way that violated its syntactic category, for example, if they had used a noun as if it were a verb. In over 200 hours of recorded speech, the researchers found almost no examples of children producing syntactic category errors. Here are a few of the examples they found:
+- Mummy trousers me.
+- I’m crackering my soup.
+- I want to comfortable you.
+
+[图片：Ch12_Fig10_saltines-300x132.jpg]
+
+Figure 11.10. Crackers.
+I suppose these sentences are technically “errors”. The word cracker is a noun in English but the child in this example has used it as a verb. But the grammar of English often allows verbs to be derived from nouns. For example, salt is a noun but there’s also a verb form to salt, which means to sprinkle salt onto something. So the child who uses the same process to derive the verb crackering from the noun cracker is maybe not really making a mistake, but is actually using their grammar generatively.
+So the evidence from these and other large corpus studies shows that syntactic categories are quite robust in English-acquiring children’s grammars, even in their early utterances. They rarely use words in positions that would be ungrammatical in adult English, and their few productions that aren’t adult-like give evidence of generativity.
+
+## Asking Questions
+
+Corpus data (StromswoId, 1995) show that English-acquiring children start to ask questions not long after they begin combining words in their utterances. Simple questions like, “Where kitty?” and “Who crying?” are common in children’s speech, with the wh-word moved to the beginning of the sentence just like in adult English. Why questions show up a little later, but as any parent of a preschooler will tell you, the why stage feels like it lasts forever!
+This kind of question is a little harder to observe in sign-acquiring children’s productions because there are several different grammatical ways to form them, but a careful analysis found that children produced wh-questions as young as age 1;7 in ASL and in Brazilian Sign Language (LSB) (Lillo-Martin & de Quadros, 2006).
+For simple structures that are frequent in children’s language, corpora are valuable for providing a large volume of data. But what about more complex structures like embedded clauses and questions? You could record an awful lot of hours of kid speech without ever capturing an example of a question with an embedded clause, but that doesn’t necessarily mean that these structures don’t exist in kids’ mental grammar.
+
+How to be a linguist: Elicitation
+
+Researchers sometimes use puppets and toys to elicit sentences of interest from children, that is, to encourage them to produce a particular kind of sentence. Often this involves asking the child to ask the puppet something. For example, in an experiment about embedded wh-questions, Rosalind Thornton had a bear puppet wearing a blindfold. While the bear was blindfolded, Thornton asked the child to choose small toys to hide inside a set of small boxes. Once each box contained one toy, she removed the bear’s blindfold then asked the child to ask the bear to guess what was in each box. There are many different ways that children might form this question, but this elicitation context at least makes it likelier that they’ll produce the wh-question of interest, whereas in a free play situation they’re relatively unlikely to produce these complex questions.
+
+Crain and Thornton (1991) were interested in whether children’s grammars included questions where the wh-word originates was from an embedded clause, like these ones:
+- Who do you think ___ will win the election?
+- What did Lexi say she wanted ___ for lunch?
+
+In these sentences, notice that the wh-word at the beginning of the sentence logically originates in a position inside the embedded clause: this becomes obvious if we compare the declarative versions of the sentences:
+- You think someone will win the election.
+- Lexi said she wanted something for lunch.
+
+(If you need a refresher on how wh-questions are formed, look back at the Syntax chapter!)
+Crain & Thornton used elicitation to try to get preschoolers aged three to five years to produce complex questions like these. The kids rarely produced adult-like examples questions, but their questions still revealed something interesting about their mental grammar. Some of the children in this study asked the bear puppet questions like these:
+- Who do you think who wants to hug Grover?
+- What do you think what’s in that box?
+
+While these preschoolers hadn’t really mastered this complex structure, their utterances suggest that their mental grammar contains a structure that parallels that of adult grammar. They’ve moved the wh-word to the beginning of the question the way adults do, and they’re also pronouncing that wh-word in its original position in the embedded clause.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=527#h5p-91
+
+## References
+
+Cazden, C. B. (1968). The acquisition of noun and verb inflections. Child Development, 39(2), 433–448.
+Crain, S., & Thornton, R. (1991). Recharting the Course of Language Acquisition: Studies in Elicited Production. In N. A. Krasnegor, D. M. Rumbaugh, R. L. Schiefelbusch, & M. Studdert-Kennedy (Eds.), Biological and behavioral determinants of language development (pp. 321–337). Psychology Press.
+Lillo-Martin, D., & de Quadros, R. M. (2006). The Position of Early WH-Elements in American Sign Language and Brazilian Sign Language. In K. U. Deen, J. Nomura, B. Schulz, & B. Schwartz (Eds.), The Proceedings of the Inaugural Conference on Generative Approaches to Language Acquisition (pp. 195–203).
+Maratsos, M. (1982). The child’s construction of grammatical categories. In E. Wanner & L. R. Gleitman (Eds.), Language Acquisition: The state of the art (pp. 240–266). Cambridge University Press.
+StromswoId, K. (1995). The Acquisition of Subject and Object Wh-Questions. Language Acquisition, 4(1 & 2), 5–48.
+
+- Before the days of email, text messages, long-distance phone calls, if you needed to send an urgent message over a long distance you could send a telegram. You had to pay per word in the message, so you'd use as few words as possible. ↵

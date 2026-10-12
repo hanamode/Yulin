@@ -1,0 +1,48 @@
+{
+ "batch": 5,
+ "out": "data/gen2/wiki-src/wiki-src-05.json",
+ "entries": [
+  {
+   "id": "indo-european",
+   "title": "印欧语系",
+   "en": "Indo-European",
+   "category": "writing",
+   "summary": "印欧语系是世界上分布最广、研究最深入的语言集团，涵盖印度、伊朗、欧洲及美洲、大洋洲的数百种语言，使用人口约占世界一半。其谱系关系建立在系统的语音对应之上，原始印"
+  },
+  {
+   "id": "ipa",
+   "title": "国际音标",
+   "en": "International Phonetic Alphabet",
+   "category": "writing",
+   "summary": "国际音标是国际语音学协会于 19 世纪末制定的标音系统，遵循「一音一符」原则，用一套以拉丁字母为基础的符号、变音符号与超音段符号精确记录世界语言的语音。它是语音"
+  },
+  {
+   "id": "jakobson",
+   "title": "罗曼·雅各布森",
+   "en": "Roman Jakobson",
+   "category": "people",
+   "summary": "罗曼·雅各布森（1896—1982）是俄裔美国语言学家，布拉格学派的代表人物。他创立音位的区别特征理论，提出语言交际的六功能模型，并把结构主义方法运用于诗学、失"
+  },
+  {
+   "id": "labov",
+   "title": "威廉·拉波夫",
+   "en": "William Labov",
+   "category": "people",
+   "summary": "威廉·拉波夫（1927—2024）是美国语言学家，社会语言学的奠基人之一。他通过马萨葡萄园岛与纽约市百货公司的调查，把语言变异与年龄、阶层、性别、语体等社会因素"
+  },
+  {
+   "id": "language-acquisition",
+   "title": "语言习得",
+   "en": "Language Acquisition",
+   "category": "concepts",
+   "summary": "语言习得研究人类如何在自然环境或教学条件下掌握语言，尤其关注儿童在数年内无需系统教学即可习得母语的现象。核心议题包括习得阶段与顺序、输入的作用、先天语言能力与后"
+  },
+  {
+   "id": "language-family",
+   "title": "语系",
+   "en": "Language Family",
+   "category": "writing",
+   "summary": "语系是按发生学关系对语言所作的最高层级分类，凡由同一祖语分化而来、语音与词汇存在系统对应的语言同属一个语系。语系的确定依赖历史比较法，印欧语系、汉藏语系是其典型"
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "batch": 8,
+ "entries": {
+  "bloomfield": {
+   "summaryEn": "Leonard Bloomfield (1887–1949) was the founder of American descriptive linguistics and the leading figure of American structuralism. His Language (1933) grounded linguistic research in observable speech behaviour, systematically set out phonemes, morphemes and immediate constituent analysis, and established a formal descriptive method centred on distribution and substitution, which dominated American linguistics for nearly thirty years.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Leonard Bloomfield (1887–1949) was born in Chicago. He studied successively at the University of Chicago, Harvard University, and the universities of Leipzig and Göttingen in Germany, receiving rigorous training in historical-comparative linguistics. His early research dealt with Indo-European, especially Germanic and Sanskrit; in 1914 he published An Introduction to the Study of Language, which already showed his attention to psychology and to problems of language teaching.",
+      "Language (1933) was his most important work. It comprehensively summarised the linguistic scholarship of the day and established the paradigm of American descriptive linguistics. He taught at Ohio State University, the University of Chicago and Yale University, training a generation of scholars including Fries, Bloch and Trager; he also carried out long-term fieldwork on Algonquian languages such as Menominee, and his descriptive materials are still cited today."
+     ]
+    },
+    {
+     "hEn": "The Scientisation of Linguistics and Behaviourism",
+     "pEn": [
+      "Bloomfield held that linguistics should, like the natural sciences, rely only on observable and verifiable data. Accepting the behaviourist psychology of his time, he interpreted speech behaviour as one link in a stimulus–response chain: Jack sees an apple (stimulus) → says 'I'm hungry' (verbal response) → Jill fetches the apple (non-verbal response). Meaning was accordingly defined as the relation between the speaker's situation and the hearer's response.",
+      "Because meaning is difficult to observe precisely, he placed the emphasis on form, arguing that the phoneme system and the distribution of morphemes should first be fully described, with meaning invoked only within necessary limits. This 'distributionalist' stance made linguistics an independent science committed to objective description and also advanced the techniques of field investigation; but it led at the same time to a long neglect of semantics, which became one of the targets of later criticism from generative grammar."
+     ]
+    },
+    {
+     "hEn": "Phonemes and Morphemes",
+     "pEn": [
+      "Bloomfield defined the phoneme as the smallest unit of distinctive sound features in a language, and distinguished distinctive features from non-distinctive variation. English /p/ is aspirated in pin and unaspirated in spin; the two do not distinguish meaning and are variants of the same phoneme. In Mandarin Chinese, by contrast, the opposition between [pʰ] and [p] distinguishes 怕 from 爸, so they belong to different phonemes. A morpheme, in turn, is the smallest unit combining sound and meaning; English books, for example, consists of the two morphemes book and the plural -s.",
+      "He also raised the problem of morphophonemics, that is, the alternating forms of the same morpheme in different phonological environments. The English plural morpheme is [s] in cats, [z] in dogs and [ɪz] in boxes, the three constituting morphophonemic variants of one morpheme. In Chinese, 一 is read in the first tone in 一天, in the second tone in 一个 and in the fourth tone in 一样, likewise displaying morphophonemic alternation."
+     ]
+    },
+    {
+     "hEn": "Immediate Constituent Analysis",
+     "pEn": [
+      "Bloomfield inherited and systematised immediate constituent analysis, the method of cutting a sentence into two immediate constituents layer by layer until no further division is possible. English Poor John ran away, for instance, is first divided into Poor John and ran away; the former is further divided into Poor and John, the latter into ran and away, thereby revealing the hierarchical nature of syntactic structure.",
+      "This method can effectively account for structural ambiguity. English old men and women has two possible divisions, 'elderly men and women' and 'old men and women'; Chinese 咬死了猎人的狗 is likewise a classic ambiguous structure, whose ambiguity stems precisely from different immediate constituent boundaries, namely 咬死了／猎人的狗 versus 咬死了猎人的／狗. The method was later converted into tree diagrams and became a basic tool of syntactic description."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Bloomfield's linguistic programme dominated American linguistics from the 1930s to the 1950s; the distributionalism, tagmemics and stratificational grammar that followed all developed from it. His Language is still regarded today as a classic textbook of descriptive linguistics, and his fieldwork methods continue to be useful in language documentation and the study of endangered languages.",
+      "Criticism has focused on two points. First, the exclusion of semantics and introspection confined grammatical description to formal distribution and made it hard to handle complex semantic relations and syntactic synonymy. Second, the behaviourist view of language cannot explain how children acquire language so rapidly on the basis of limited data — precisely the weakness that Chomsky attacked in his 1959 review of Skinner. Even so, Bloomfield's rigorous descriptive method remains an important legacy of linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "immediate constituent analysis", "dEn": "A hierarchical method of dividing a syntactic structure into two immediate constituents at each level, representable by a tree diagram."},
+    {"tEn": "morpheme", "dEn": "The smallest unit combining sound and meaning, such as book and the plural -s in English books."},
+    {"tEn": "phoneme", "dEn": "The smallest sound unit that distinguishes meaning in a language; its non-distinctive variants are allophones."},
+    {"tEn": "distributionalism", "dEn": "A structuralist method of description based on the environments, that is the distribution, in which linguistic units occur."},
+    {"tEn": "stimulus–response", "dEn": "The behaviourist model of verbal behaviour, treating an utterance as a link between a stimulus and a response."}
+   ]
+  },
+  "grice": {
+   "summaryEn": "H. P. Grice (1913–1988) was a British philosopher and linguist and a founder of ordinary language philosophy and of pragmatics. He distinguished natural from non-natural meaning, proposed the Cooperative Principle of conversation together with the maxims of Quantity, Quality, Relation and Manner, and on this basis built the theory of conversational implicature, deeply influencing pragmatics and the philosophy of language.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Herbert Paul Grice (1913–1988) was born in Birmingham, England, and studied at Corpus Christi College, Oxford, where he then taught for many years. In 1967 he held the Waynflete Professorship at Oxford and delivered the lectures 'Logic and Conversation'. In the same year he went to teach at the University of California, Berkeley, where he remained until his retirement in 1980; he died in 1988.",
+      "His research centred on meaning, reference, perception and metaphysics and belonged to the tradition of ordinary language philosophy, which emphasises solving philosophical problems by analysing the use of everyday language. 'Logic and Conversation', formally published in 1975, was originally part of those lectures; together with related papers it was later collected in Studies in the Way of Words (1989), a founding text of pragmatics."
+     ]
+    },
+    {
+     "hEn": "Theory of Meaning: Natural and Non-natural Meaning",
+     "pEn": [
+      "Grice distinguished natural meaning from non-natural meaning. Natural meaning is the causal indication given by a natural phenomenon, as in 'Those spots mean measles', where spots and measles are naturally connected. Non-natural meaning is the meaning a speaker conveys by expressing an intention, as when a doctor utters the same sentence in answer to a patient's question, intending the patient to reach a judgement. The former is not 'meant'; the latter depends on the speaker's communicative intention.",
+      "He went on to offer an analysis of speaker's meaning: a speaker means something by an utterance if and only if he intends to produce a certain effect in the hearer through the hearer's recognition of that intention. This analysis reduces linguistic meaning in part to communicative intention. It became a common starting point for speech act theory and relevance theory, and it prompted a long-running debate over whether meaning can precede linguistic convention."
+     ]
+    },
+    {
+     "hEn": "The Cooperative Principle and Its Four Maxims",
+     "pEn": [
+      "Grice observed that participants in a conversation do not normally speak at random but jointly observe an unstated understanding: to make an appropriate contribution as required by the purpose of the exchange and the stage it has reached. This is the Cooperative Principle. It construes conversation as a form of rational cooperative behaviour and thus provides a basis for explaining what is conveyed beyond literal meaning.",
+      "The Cooperative Principle is spelled out in four maxims: the maxim of Quantity (provide enough but not redundant information), the maxim of Quality (do not say what you believe to be false or for which you lack evidence), the maxim of Relation (be relevant) and the maxim of Manner (be clear, brief, orderly and avoid ambiguity). These maxims are descriptive expectations rather than moral laws that must be obeyed; speakers often deliberately flout or openly exploit them in order to convey an implied meaning."
+     ]
+    },
+    {
+     "hEn": "Conversational Implicature and Its Types",
+     "pEn": [
+      "Conversational implicature is the meaning that a speaker conveys, over and above what is literally said, by conspicuously observing or deliberately flouting the maxims; it is cancellable, calculable and indeterminate. If A asks 'Shall we go to the cinema tonight?' and B answers 'I have a paper due tomorrow', B has on the face of it violated the maxim of Relation, and A infers on that basis the implicature 'not tonight' — an implicature that is cancelled when B adds 'but I've already bought the tickets'.",
+      "The classic letter-of-recommendation example is this: the referee writes only that 'Mr X's command of English is excellent, and he has attended tutorials regularly'; because the maxim of Quantity is conspicuously flouted, the reader infers a negative assessment. Grice also distinguished generalised from particularised conversational implicature and discussed the difference between conventional implicature and presupposition; irony, metaphor and other rhetorical phenomena can likewise be given a unified explanation through the 'exploitation' of the maxims, which is an important reason for the theory's wide influence."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Grice's theory of meaning and his theory of conversational implicature are cornerstones of pragmatics. They directly influenced Leech's politeness principle, Brown and Levinson's research on politeness strategies, and Sperber and Wilson's relevance theory; his analysis of speaker's meaning also offered an important account of meaning for the philosophy of language and remains the starting point of current discussion.",
+      "Critics argue that the boundaries between the four maxims are not strict enough to determine which maxim a given utterance actually violates, and that the concept of relevance itself requires independent definition — the very point on which relevance theory proposes to replace all the maxims with a principle of relevance. Cross-cultural research further shows that the weight of the maxims varies from culture to culture. Nevertheless, Grice's account of the inferential mechanism of communication remains a central achievement of contemporary pragmatics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Cooperative Principle", "dEn": "The unstated understanding among conversational participants to make appropriate contributions so that communication proceeds smoothly."},
+    {"tEn": "conversational implicature", "dEn": "A communicative meaning inferred from the Cooperative Principle and its maxims, going beyond the literal meaning of an utterance."},
+    {"tEn": "maxim of Quantity", "dEn": "A maxim of the Cooperative Principle requiring an utterance to give just the right amount of information."},
+    {"tEn": "maxim of Quality", "dEn": "A maxim of the Cooperative Principle requiring speakers not to say what they believe false or lack evidence for."},
+    {"tEn": "non-natural meaning", "dEn": "Meaning conveyed by a speaker through communicative intention, as distinct from meaning indicated by natural phenomena."}
+   ]
+  },
+  "labov": {
+   "summaryEn": "William Labov (1927–2024) was an American linguist and one of the founders of sociolinguistics. Through his surveys of Martha's Vineyard and of New York City department stores he linked linguistic variation to social factors such as age, class, gender and style, created the quantitative paradigm of variationist research, and proposed variable rules and a social mechanism of language change.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "William Labov (1927–2024) was born in New Jersey, USA. He first studied chemistry and English and worked for a time as a pharmacist before turning to linguistics; he received his doctorate from Columbia University in 1963, thereafter taught for many years at the University of Pennsylvania, and founded the linguistics laboratory there.",
+      "He brought linguistics out of the study and into the community, insisting that real spoken materials be the object of study and rejecting reliance on introspective judgements alone. The Social Stratification of English in New York City (1966) and Sociolinguistic Patterns (1972) established his standing as a founder of sociolinguistics. He also studied African American English and sound change in progress over many years and worked actively to promote the application of linguistic evidence in the legal and educational spheres."
+     ]
+    },
+    {
+     "hEn": "Linguistic Variables and Ordered Heterogeneity",
+     "pEn": [
+      "Labov introduced the concept of the linguistic variable: the same linguistic unit may have different realisations in the same context, and these realisations are called variants. In New York City English, for example, /r/ in word-final and word-medial position may be realised as [r] or as zero, so that fourth floor may be pronounced either [fɔːrθ flɔːr] or [fɔːθ flɔː]; the two pronunciations do not change the meaning of the words.",
+      "His 1962 survey of Martha's Vineyard found that the height of the nucleus of /ay/ and /aw/ correlated with social factors: fishermen with a stronger identification with island traditions retained more of the centralised pronunciations [əɪ] and [əʊ], whereas younger people and newcomers tended towards the standard pronunciations. Linguistic variation is therefore not random free variation but an ordered heterogeneous phenomenon closely tied to social identity, and it can be described in terms of probability."
+     ]
+    },
+    {
+     "hEn": "Research Methods: From Department Stores to Interviews",
+     "pEn": [
+      "In his New York City research Labov chose three department stores of different status and asked the assistants where the 'fourth floor' was, in order to elicit the natural utterance fourth floor. He found that the rate of /r/ was highest in the most expensive store and lowest in the cheapest; the same individual, when asked 'Could you repeat that?', would repeat more formally, and the rate of /r/ rose accordingly, clearly revealing the regularity of style shifting and its social stratification.",
+      "He also developed systematic interview techniques, including asking informants to narrate a 'danger of death' experience in order to obtain natural speech, since speakers under emotional excitement monitor their linguistic form less and thereby reveal their most vernacular style. He insisted at the same time on random sampling, quantitative statistics and tests of significance, giving sociolinguistics the shape of an empirical science; questionnaire and interview design have also become standard components of training in the field."
+     ]
+    },
+    {
+     "hEn": "Variable Rules and Language Change",
+     "pEn": [
+      "Labov advocated describing the probabilistic conditions on the occurrence of a variable by means of variable rules, which can state 'in a given linguistic and social environment, with what proportion a certain variant occurs'. This broke with the either-or conception of rules in traditional grammar and also provided a mechanism for the study of language change: change typically spreads first in the speech of one social group and then propagates word by word and context by context.",
+      "He further proposed three questions for the study of language change: how a change is embedded in the social structure (embedding), how speakers evaluate the different variants (evaluation), and how a change is realised step by step in the linguistic system (implementation). /r/ in New York City, for instance, is a prestige marker of educational attainment, whereas in some parts of Britain and in earlier Southern American English the reverse holds, showing that the social evaluation of the same variant varies geographically."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Labov placed social factors at the centre of linguistic research, giving rise to variationist sociolinguistics, the study of language attitudes and new developments in dialectology; his findings in the study of African American English have also had a practical impact on educational policy, language testing and language evidence in court, and his course recordings and corpora are still widely used.",
+      "Critics hold that the quantitative variationist paradigm concentrates on phonological and morphological variables and pays insufficient attention to social meaning at the level of discourse and interaction; that sampling and statistical methods may reduce complex community networks to social categories and neglect the moment-by-moment construction of meaning in interaction; and some scholars question its tendency to treat social class as the primary explanatory variable. Even so, its evidence-oriented approach has profoundly shaped contemporary sociolinguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "linguistic variable", "dEn": "A linguistic unit whose realisations vary in one context and correlate with social factors, e.g. /r/ in New York English."},
+    {"tEn": "variant", "dEn": "A concrete realisation of a linguistic variable, e.g. the /r/ variable has the two variants [r] and zero."},
+    {"tEn": "variable rule", "dEn": "A rule that describes, in terms of probability of occurrence, the distribution of a variable across linguistic and social environments."},
+    {"tEn": "style shifting", "dEn": "The phenomenon whereby speakers adjust their linguistic forms according to the communicative situation and their degree of attention."},
+    {"tEn": "ordered heterogeneity", "dEn": "The presence within a language system of systematic, regular social variation rather than a wholly homogeneous structure."}
+   ]
+  },
+  "sapir": {
+   "summaryEn": "Edward Sapir (1884–1939) was a German-born American linguist and anthropologist and one of the founders of American descriptive linguistics and linguistic anthropology. He studied Native American languages and stressed the systematic and psychologically real character of language, holding that language, thought and culture are closely interrelated; his ideas were developed by Whorf into linguistic relativity.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Edward Sapir (1884–1939) was born in Germany and moved with his family to the United States at the age of five; at Columbia University he studied under the anthropologist Boas. From 1910 he directed the anthropological division of the Geological Survey of Canada in Ottawa, and after 1925 he taught successively at the University of Chicago and Yale University. He was a central figure between American linguistics and anthropology at the time.",
+      "Over his lifetime he investigated dozens of Native American languages, including Athabaskan languages, the Uto-Aztecan family and Navajo, leaving a large body of descriptive grammars and lexical materials. His Language (1921) is both a far-reaching introduction to linguistics and an important work discussing the relation between language and culture. He died prematurely in 1939 at the age of only fifty-five, with many research plans left unfinished."
+     ]
+    },
+    {
+     "hEn": "Phonemes and Sound Patterns",
+     "pEn": [
+      "Sapir was among the first scholars to formulate the concept of the phoneme explicitly. He pointed out that speakers do not mechanically register physical sounds but classify them according to the 'sound pattern' of their native language. In English, for example, aspirated [tʰ] (top) and unaspirated [t] (stop) are heard as the same phoneme /t/; in Mandarin Chinese, by contrast, [tʰ] and [t] belong to different phonemes, since 他 [tʰa] and 搭 [ta] differ in meaning and form a minimal pair.",
+      "The phoneme therefore has psychological reality: it is a category internalised by the language user, not merely a fact about sounds. This idea was taken up and developed by Bloomfield, Trubetzkoy and Jakobson and became the starting point of modern phonology; Sapir's concern with the sound pattern as a whole also anticipated the later study of phonological rules and systematicity."
+     ]
+    },
+    {
+     "hEn": "Language and Culture: Linguistic Relativity",
+     "pEn": [
+      "Sapir rejected the view that language is merely the outward clothing of thought, holding instead that language is a 'guide to social reality' and that people's habits of thought are to a large extent constrained by linguistic structure. His student Whorf, after comparing the expression of time in Hopi and English, went further and proposed that linguistic structure influences or even determines the way speakers perceive the world; later generations called this the Sapir–Whorf hypothesis, or linguistic relativity.",
+      "English, for example, treats time as countable, divisible noun phrases (three days, two years), whereas Hopi uses different grammatical devices to express temporal relations; Whorf held that this reflects two different world views. The hypothesis was widely questioned in the mid-twentieth century, but contemporary experimental research on colour terms, frames of spatial reference and grammatical gender has in a weaker sense partially supported the conclusion that language influences cognition."
+     ]
+    },
+    {
+     "hEn": "Language Typology and the Distinction between Language and Race",
+     "pEn": [
+      "Sapir attached importance to the typological comparison of languages, classifying them as isolating, agglutinative, inflectional, polysynthetic and so on according to the way they express grammatical relations, and stressing that classification should rest on formal devices rather than surface word forms, since one and the same language may use several devices together. He distinguished grammatical processes from grammatical concepts, providing an analytical framework for later linguistic typology and research on language universals.",
+      "He also stressed that there is no correspondence between language on the one hand and race or culture on the other: one and the same language family may comprise cultures that differ enormously, while geographically adjacent languages often converge through long contact, as in the mutual borrowing of vocabulary between Chinese and neighbouring languages. This position was a powerful rebuttal of the prejudice that classified race by language and set the cultural-relativist tone of linguistic anthropology."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Sapir's descriptive methods laid the foundations of the American descriptive tradition, while his reflections on the relations between language and culture and between language and personality opened up the branch of linguistic anthropology; his account of the 'sound pattern' and of the psychological reality of the phoneme remains classic material in the teaching of phonology today.",
+      "Criticism has been directed mainly at the strong version of linguistic relativity: the expression of time in Hopi was later reanalysed and did not show that it lacks temporal concepts, and a great many cognitive experiments indicate that thought is no slave of language, language and thought more probably influencing each other in both directions. Moreover, his theoretical statements relied largely on introspection and individual cases and lacked systematic empirical testing. But whether and how language influences thought remains an important question in cognitive science to this day."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "phoneme", "dEn": "The smallest sound unit in a language that distinguishes meaning, an abstract sound category internalised by its users."},
+    {"tEn": "linguistic relativity", "dEn": "The claim that linguistic structure influences or even determines the way speakers think, also known as the Sapir–Whorf hypothesis."},
+    {"tEn": "sound pattern", "dEn": "The overall scheme by which a language systematically classifies sounds, determining which sound differences are meaning-distinguishing."},
+    {"tEn": "language type", "dEn": "A classification of languages according to their grammatical devices, such as isolating, agglutinative and inflectional languages."}
+   ]
+  },
+  "jakobson": {
+   "summaryEn": "Roman Jakobson (1896–1982) was a Russian-born American linguist and a leading representative of the Prague School. He created the theory of distinctive features of the phoneme, proposed the six-function model of verbal communication, and applied structuralist methods to poetics, aphasia and child language, making him one of the most influential interdisciplinary linguists of the twentieth century.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Roman Osipovich Jakobson (1896–1982) was born in Moscow and took part in his early years in the Moscow Linguistic Circle, being a core member of Russian Formalism. In 1920 he moved to Czechoslovakia, where he and Trubetzkoy and others jointly founded the Prague Linguistic Circle; he became a leading figure of the Prague School, systematically introducing structuralist methods into phonology and poetics.",
+      "During the Second World War he moved through Denmark, Norway and Sweden, and in 1941 he went to the United States, teaching successively at the New School for Social Research in New York, Columbia University and Harvard University, and in his later years at the Massachusetts Institute of Technology. He knew more than a dozen languages, and his research covered phonology, grammar, poetics, folklore, aphasia and semiotics; he published several hundred works and was one of the most active cross-disciplinary scholars in the humanities in the twentieth century."
+     ]
+    },
+    {
+     "hEn": "Distinctive Features and Phonology",
+     "pEn": [
+      "Jakobson and Trubetzkoy analysed the phoneme into a number of binary distinctive features. The identity of a phoneme is not determined by its physical sound quality alone but by whether it possesses certain opposing features. In English, for instance, /p/ and /b/ are distinguished by the voicing feature [±voice], /b/ and /m/ by the nasal feature [±nasal], and /p/ and /f/ by the continuant feature [±continuant].",
+      "In Preliminaries to Speech Analysis (1952) and Fundamentals of Language (1956, written with Halle) he proposed about twelve pairs of acoustic features, such as [±vocalic], [±consonantal], [±tense] and [±grave/acute], arguing that these features are linguistically universal. Mandarin Chinese [pʰ] and [p] are opposed by the presence or absence of aspiration (怕 [pʰa] versus 爸 [pa]), whereas English pit and bit are opposed by voicing; this shows that the same meaning-distinguishing function may be carried by different features in different languages, a difference that is an important topic in phonological comparison."
+     ]
+    },
+    {
+     "hEn": "The Six Functions of Verbal Communication",
+     "pEn": [
+      "Jakobson proposed that any speech event involves six elements — addresser, addressee, context, message, contact and code — to which six functions of language correspond: the referential function (oriented to the context), the emotive function (oriented to the addresser), the conative function (oriented to the addressee), the phatic function (maintaining contact), the metalingual function (oriented to the code) and the poetic function (oriented to the message itself).",
+      "Thus 'Water freezes at zero degrees' is primarily referential; 'Please shut the door' leans towards the conative function; 'Hello, can you hear me?' mainly performs the phatic function; ''Noun' is a noun' displays the metalingual function; and lines such as 床前明月光 direct attention to the form of expression itself and so foreground the poetic function. These functions normally coexist within one and the same utterance, the only difference being which of them is dominant."
+     ]
+    },
+    {
+     "hEn": "Aphasia and Language Universals",
+     "pEn": [
+      "Jakobson applied structuralist methods to the study of aphasia, proposing two opposing types of language disorder: similarity disorder and contiguity disorder, which respectively impair the capacity to operate on the axis of selection and on the axis of combination. The former shows itself as difficulty in selecting the appropriate word, which is replaced by circumlocutions; the latter as difficulty in combining words into grammatical sentences. This analysis linked clinical phenomena to linguistic theory and had a profound influence on neurolinguistics.",
+      "He also studied child language acquisition and language universals, holding that the order in which phonemes are acquired and the order in which they are lost in aphasia are roughly mirror images of each other: sounds that the child acquires last are typically the first to be lost in aphasia. On this basis he argued that the sound system has a universal psychological foundation, and that the universality of linguistic structure is found not only in phonology but also in the hierarchical organisation of grammar and vocabulary."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Jakobson introduced linguistic methods into poetics and semiotics, directly inspiring Lévi-Strauss's structuralist anthropology and French structuralist literary theory; the theory of distinctive features was absorbed into generative phonology and became one of the cornerstones of modern phonology; and the six-function model provided functional linguistics and pragmatics with a basic classificatory framework.",
+      "Critics point out that the acoustic parameters on which his system of acoustic features rests are not yet adequate and that some features are difficult to verify experimentally; that the six-function model is more a matter of classificatory description and lacks rigorous quantitative testing; and that many claims about universals are built on a limited cross-linguistic sample. Nevertheless, his emphasis on the diversity of language functions remains an important starting point for understanding language use today."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "distinctive feature", "dEn": "A binary acoustic or articulatory property used to distinguish phonemes, such as [±voice], [±aspiration] or [±nasal]."},
+    {"tEn": "poetic function", "dEn": "The communicative function that directs attention to the linguistic expression itself, typically the dominant function in literary language."},
+    {"tEn": "metalingual function", "dEn": "The function of using language to talk about language itself, as in explaining word meaning, giving definitions or correcting wording."},
+    {"tEn": "markedness", "dEn": "The asymmetric property whereby one member of an opposition is marked and the other unmarked, e.g. voiced versus voiceless sounds."},
+    {"tEn": "axis of selection and axis of combination", "dEn": "The two basic dimensions of linguistic elements: the substitutable set (selection) and the linear linkage (combination)."}
+   ]
+  },
+  "chomsky": {
+   "summaryEn": "Noam Chomsky (1928– ) is an American linguist and the founder of generative grammar. He argues that linguistics should describe the language faculty internal to the human mind and generate an infinite number of sentences by formal rules, and he has proposed deep and surface structure, universal grammar and principles and parameters, prompting the cognitive turn in twentieth-century linguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Avram Noam Chomsky (1928– ) was born in Philadelphia, USA. At the University of Pennsylvania he studied under the structuralist linguist Harris, took his doctorate in 1955, and in the same year began teaching at the Massachusetts Institute of Technology, where he remained until his retirement. His early research dealt with the phonology and morphophonemics of Modern Hebrew, after which he turned to the construction of syntactic theory.",
+      "Syntactic Structures, published in 1957, proposed a scheme for generating sentences by formal rules; his long 1959 review of Skinner's Verbal Behavior argued from outside the behaviourist standpoint for the innateness of language acquisition and became a landmark document of the cognitive revolution. Thereafter his theory passed through the standard theory, the extended standard theory, government and binding, and the Minimalist Program, continually revising itself and always remaining at the centre of discussion in theoretical linguistics."
+     ]
+    },
+    {
+     "hEn": "Competence and Performance",
+     "pEn": [
+      "Chomsky distinguished competence from performance. Competence is the speaker's internal knowledge of the rules of his native language; performance is the concrete manifestation of that knowledge in actual speaking and understanding, constrained by non-linguistic factors such as memory, attention and fatigue. Linguistics should take competence as its object, that is, construct a formal grammar capable of characterising the intuitions of the 'ideal speaker–listener'.",
+      "On the basis of this distinction he advanced the poverty-of-stimulus argument: the data available to a child are limited and full of errors and gaps, yet within only a few years the child masters complex grammatical rules and produces and understands novel sentences never heard before, which shows that human beings possess an innate language faculty. This claim turned linguistics from the description of external speech behaviour towards the investigation of the internal structure of the mind and also set the central questions for research on language acquisition."
+     ]
+    },
+    {
+     "hEn": "Deep Structure and Transformation",
+     "pEn": [
+      "Early generative grammar distinguished deep structure from surface structure, the two being connected by transformational rules. One and the same surface structure may derive from different deep structures, which explains ambiguity. English Flying planes can be dangerous, for example, has two readings: 'flying planes is dangerous' (planes as object) and 'planes that are flying are dangerous' (planes as subject).",
+      "Structuralist immediate constituent analysis can give only one division, whereas transformational grammar distinguishes the two readings by the different grammatical roles that 'planes' plays in deep structure. Another classic example is The man is likely to win versus The man is eager to win: the former is derived by raising from It is likely that the man will win, while the latter is a control structure; the two are superficially similar but syntactically different, since the former can be rephrased as It is likely that..., whereas the latter cannot."
+     ]
+    },
+    {
+     "hEn": "Universal Grammar and the Minimalist Program",
+     "pEn": [
+      "Chomsky holds that human languages share an innate universal grammar and that differences among languages can be explained by the setting of a limited number of parameters, that is, the theory of principles and parameters. The null subject parameter is one example: Italian allows the subject to be omitted (parlo means 'I speak'), English generally requires an overt subject, and Chinese often omits the subject in topic structures. The child's acquisition of language is understood as the fixing of parameter values on the basis of the data encountered.",
+      "The Minimalist Program, developed from the 1990s onwards, holds that grammatical computation follows principles of economy, retaining only the most basic operations such as Merge and Move, attributing the motivation of language design to the need to satisfy the two interface systems of sound and meaning, and drastically reducing the levels and rule apparatus of earlier theory. The programme is still developing, and its specific technical details continue to be debated within the school."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Chomsky's theories made linguistics a core discipline of cognitive science, directly advancing psycholinguistics, neurolinguistics and computational linguistics and profoundly influencing philosophy, psychology and language education. He is also well known for his political commentary, having long criticised American foreign policy and the media system.",
+      "Critics argue that generative grammar relies excessively on the introspective judgements of a small number of linguists about English and neglects social variation and the communicative functions of language; corpus linguistics and functionalist schools question its idealised view of data; and cognitive linguistics rejects the autonomy of syntax and the claim of an innate language module. But the series of questions raised by generative grammar remains the central topic of discussion in contemporary theoretical linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "competence", "dEn": "The internal grammatical knowledge of the rules of one's native language that a speaker possesses, as distinct from actual performance."},
+    {"tEn": "performance", "dEn": "The concrete realisation of linguistic competence in actual communication, constrained by non-linguistic factors such as memory and attention."},
+    {"tEn": "deep structure", "dEn": "In early generative grammar, the abstract level representing basic grammatical and semantic relations, from which surface structure is derived."},
+    {"tEn": "universal grammar", "dEn": "The innate language faculty of human beings, comprising universal principles and limited parameters, which forms the basis of language acquisition."},
+    {"tEn": "transformational rule", "dEn": "A syntactic operation that moves, deletes or inserts constituents between deep and surface structure, such as raising and passivisation."}
+   ]
+  }
+ }
+}

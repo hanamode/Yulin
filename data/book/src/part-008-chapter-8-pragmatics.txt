@@ -1,0 +1,18 @@
+# Chapter 8: Pragmatics
+
+In this chapter, we look at sentential meaning from the perspective of how it is influenced by and how it influences the context. The study of how context affects meaning is called pragmatics. In the previous chapter, we learned that sentences can create certain implicatures based on the discourse context. In the first half of this chapter, we will look at the conversational logic of how implicatures arise. We will look at the foundational work of philosopher Paul Grice — the Cooperative Principle — and evaluate it as a theory. We will look at the basic principles of conversational logic, and examine what differences various languages and cultures exhibit in terms of conversational rules. In the latter half of the chapter, we will look at illocutionary meaning: what “happens” to the context when you make utterances. We will focus on the formal analysis of what it means for us to make an assertion versus ask a question in discourse. In doing so, we will sharpen our understanding of what a “context” is by introducing formal notions such as the Common Ground and the Question Under Discussion. These tools will be helpful for analysing illocutionary meaning and what we mean by what “happens” to the context when we make utterances.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Appreciate the diversity of linguistic meaning;
+- Understand that “meaning” is much more than just the literal meaning of words and sentences;
+- Understand why meaning is important in our daily lives;
+- Use conversational principles to calculate how implicatures can be produced in discourse;
+- Appreciate neurodiversity in pragmatics and understand that different people calculate implicatures in different ways in conversations;
+- Respond to common misconceptions about the Cooperative Principle in an informed way;
+- Use diagnostics to classify a piece of meaning as an implicature or an entailment;
+- Appreciate the diversity of conversational principles across languages and cultures;
+- Explain the difference between locutionary, illocutionary, and perlocutionary meaning;
+- Analyse the illocutionary meaning of basic speech/sign acts (assertions and questions) by making reference to formal notions of the context like the Common Ground and the Question Under Discussion;
+- Evaluate the limitations of the theories that are introduced in the chapter and think critically about what other types of meanings there may be in language;
+- Use the scientific method to think about meaning like a linguist.

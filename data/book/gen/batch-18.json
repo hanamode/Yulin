@@ -1,0 +1,304 @@
+{
+ "batch": 18,
+ "sections": {
+  "part-004-chapter-4-phonology": {
+   "title": {
+    "en": "Chapter 4: Phonology",
+    "zh": "第 4 章：音系学"
+   },
+   "summary": {
+    "en": "The physical units of a linguistic signal are not combined randomly. Chapter 4 examines the abstract structure behind those patterns: how units may be combined, how neighbouring units affect one another's articulation, and how linguists discover such regularities within a language and across languages.",
+    "zh": "语言信号的物理单位并非随机组合。反复出现的模式与范畴，为这些物理现实赋予了抽象层次。本章考察这些组合模式背后的抽象结构：单位可以怎样组合、相邻单位在发音上如何互相影响，以及语言学家通过哪些方法去发现单一语言内部与跨语言的规律。"
+   },
+   "points": [
+    {
+     "en": "Repeated patterns and categories give abstract structure to the physical signal within and across languages.",
+     "zh": "反复出现的模式与范畴，为单一语言内部及跨语言的物理信号赋予抽象结构。"
+    },
+    {
+     "en": "Learners should be able to determine the distributions of phones in a spoken language.",
+     "zh": "学习者应能够判定某一口语中各个音素所出现的分布情况。"
+    },
+    {
+     "en": "Learners should be able to describe phonological processes in signed languages as well.",
+     "zh": "学习者也应能够描述手语中相应的音系过程与音系变化。"
+    },
+    {
+     "en": "Phones are grouped into phonemes on the basis of their distributions.",
+     "zh": "音素依据它们出现的位置与分布被归并成为不同的音位。"
+    },
+    {
+     "en": "Phonological rules map phonemes and underlying representations to allophones and surface representations.",
+     "zh": "音系规则把音位与底层形式映射为音位变体与表层形式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phonology",
+     "zh": "音系学",
+     "defEn": "the study of patterns in how the physical units of language combine",
+     "defZh": "研究一种语言中语音单位如何组合、如何相互影响的一门学科。"
+    },
+    {
+     "en": "phone",
+     "zh": "音素",
+     "defEn": "a physical unit of the linguistic signal that can be measured directly",
+     "defZh": "语言信号中可以观察与测量的最小物理语音单位，如 [m]。"
+    },
+    {
+     "en": "phoneme",
+     "zh": "音位",
+     "defEn": "an abstract unit whose physical realizations are treated as the same object",
+     "defZh": "抽象单位，其各种物理实现被说话者视为同一个音系对象。"
+    },
+    {
+     "en": "underlying representation",
+     "zh": "底层形式",
+     "defEn": "the abstract form of a morpheme before phonological rules apply",
+     "defZh": "音系规则尚未作用之前，语素所具有的抽象的音系形式。"
+    },
+    {
+     "en": "surface representation",
+     "zh": "表层形式",
+     "defEn": "the form actually produced after phonological rules have applied",
+     "defZh": "音系规则作用之后，实际说出的语音形式，也称语音输出。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "The phonetic properties of a language are not entirely random. Many repeated patterns and categories give additional abstract structure to the physical reality of the linguistic signal, and these regularities appear both inside a single language and across languages. This chapter investigates that structure by asking how the physical units of language may be combined, how they influence one another when they stand next to each other, and which methods linguists use to uncover such patterns.",
+     "zh": "语言的语音属性并非完全随机。许多反复出现的模式与范畴，为语言信号的物理现实增添了抽象结构，这些规律既存在于单一语言内部，也见于跨语言的比较。本章即考察这一结构：语言的物理单位可以怎样组合、它们相邻时如何相互影响，以及语言学家借助哪些方法来发现这些模式。"
+    },
+    {
+     "en": "By the end of the chapter, students should be able to analyze linguistic data in order to determine the distributions of phones in a spoken language and the phonological processes of signed languages. They should also be able to categorize phones into phonemes according to those distributions, and to write phonological rules that show how phonemes and underlying representations map onto allophones and surface representations.",
+     "zh": "学完本章，学生应能分析语言材料，判定某一口语中音素的分布，并识别手语中的音系过程；还应能依据分布把音素归并为音位，并写出音系规则，说明音位与底层形式如何映射为音位变体与表层形式。"
+    }
+   ]
+  },
+  "chapter-030-slug-4-1-phonemes-and-allophones": {
+   "title": {
+    "en": "4.1 Phonemes and allophones",
+    "zh": "4.1 音位与音位变体"
+   },
+   "summary": {
+    "en": "Speakers treat certain physically different phones as the same abstract object. Such an object is a phoneme, and its concrete realizations are its allophones, each used in particular environments. Using English /t/ and the ASL sign HOME, the section shows how linguists infer phonemes from patterns of distribution rather than observing them directly.",
+    "zh": "说话者会把某些物理上不同的音素视为同一个抽象对象。这一对象就是音位，其具体实现即音位变体，各自出现在特定环境之中。本节以英语 /t/ 和美国手语符号 HOME 为例，说明音位无法被直接测量，语言学家只能从音素出现的分布模式中推断音位及其音位变体，并不断检验自己的推测。"
+   },
+   "points": [
+    {
+     "en": "The three phones [m], [i], and [k] form [mik] meek, but only [kim] of the other five orders could enter English.",
+     "zh": "音素 [m]、[i]、[k] 组成 [mik]，其余五种排列中只有 [kim] 能进入英语。"
+    },
+    {
+     "en": "ASL HOME blends parameters of FOOD and BED rather than sequencing the two signs.",
+     "zh": "美国手语 HOME 融合了 FOOD 与 BED 的要素，而非把两个手语符号简单连缀。"
+    },
+    {
+     "en": "Atom and atomic show the flap [ɾ] and the aspirated [tʰ] as allophones of the same phoneme.",
+     "zh": "atom 与 atomic 中的闪音 [ɾ] 与送气音 [tʰ] 是同一音位的两个音位变体。"
+    },
+    {
+     "en": "The flap appears before an unstressed vowel or syllabic consonant, the aspirated stop before a stressed one.",
+     "zh": "闪音出现在非重读元音或成音节辅音之前，送气塞音则出现在重读元音之前。"
+    },
+    {
+     "en": "Phonemes are abstractions that linguists infer from distribution, and analyses may differ across frameworks.",
+     "zh": "音位是语言学家从分布推断出的抽象单位，不同理论框架可能得出不同分析。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phoneme",
+     "zh": "音位",
+     "defEn": "an abstract set of allophones that speakers treat as one object",
+     "defZh": "抽象单位，其各种物理实现被说话者视为同一个音系对象。"
+    },
+    {
+     "en": "allophone",
+     "zh": "音位变体",
+     "defEn": "one of the physical realizations of a phoneme in a specific environment",
+     "defZh": "某个音位在特定语音环境中所实现的一种具体语音形式。"
+    },
+    {
+     "en": "environment",
+     "zh": "环境",
+     "defEn": "the phonetic context to the left, right, or both, that selects an allophone",
+     "defZh": "决定选用哪个音位变体的左侧、右侧或两侧相邻语音语境。"
+    },
+    {
+     "en": "aspiration",
+     "zh": "送气",
+     "defEn": "a puff of air that follows a released voiceless plosive",
+     "defZh": "清塞音除阻之后随之呼出的一股气流，如 [tʰ] 中的 [ʰ]。"
+    },
+    {
+     "en": "alveolar flap",
+     "zh": "齿龈闪音",
+     "defEn": "a rapid tongue-tip contact symbolized [ɾ] in the IPA",
+     "defZh": "舌尖快速拍击齿龈一次所发出的辅音，国际音标记作 [ɾ]。"
+    },
+    {
+     "en": "modality",
+     "zh": "模态",
+     "defEn": "the channel of a language, spoken or signed, which shapes its phonology",
+     "defZh": "语言的口语或手语通道，它决定该语言音系的基本单位。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[mik] meek, [kim]",
+     "noteEn": "Only one of the six orderings of [m], [i], [k] could easily become an English word.",
+     "noteZh": "[m]、[i]、[k] 六种排列中，只有 [kim] 有可能轻松作为新词进入英语。"
+    },
+    {
+     "text": "[ˈmɛɾl̩] metal and [məˈtʰælək] metallic, [ˈbæɾl̩] battle and [bəˈtʰæljn̩] battalion",
+     "noteEn": "Flap before unstressed vowel and aspirated stop before stressed vowel recur in these related pairs.",
+     "noteZh": "这些相关词对中反复出现非重读元音前用闪音、重读元音前用送气塞音的模式。"
+    },
+    {
+     "text": "[ˈkrɪɾək] critic and [kraɪˈtʰiriə] criteria",
+     "noteEn": "Another related pair confirming the stress-based pattern for the phoneme /t/.",
+     "noteZh": "另一对相关词，同样印证 /t/ 受重音制约的模式。"
+    },
+    {
+     "text": "FOOD and BED compound to form the sign HOME",
+     "noteEn": "The two signs merge, keeping the flat-O handshape and the location at the side of the face.",
+     "noteZh": "两个手语符号合并为 HOME，保留 flat-O 手形以及面部侧面的位置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "A linguistic signal consists of small physical units such as phones, handshapes, and movements that are not strung together at random. Four of the six orderings of [m], [i], and [k] are normally unpronounceable for English speakers, while [kim] could readily be adopted as a new English word. Units also influence each other when combined: in American Sign Language, FOOD and BED merge into the single sign HOME rather than forming a sequence.",
+     "zh": "语言信号由音素、手形、运动等小型物理单位构成，这些单位并非随意串接。[m]、[i]、[k] 的六种排列中有四种通常为英语母语者所无法发音，而 [kim] 本可顺利成为新的英语词。单位相邻时还会互相影响：在美国手语中，FOOD 与 BED 合成 HOME，它保留 FOOD 的 flat-O 手形，位置则取自 BED 的面部侧面。"
+    },
+    {
+     "en": "In spoken language, certain phones are pronounced differently, yet speakers treat them as one conceptual object. The consonant in atom is an alveolar flap [ɾ], while in atomic it is a voiceless alveolar plosive with a puff of air, [tʰ]. Because the words are related in sound and meaning, the two phones can be regarded as one object on an abstract level. That object is a phoneme, its various realizations are allophones, each used in particular environments, and the phoneme is written as /t/.",
+     "zh": "在口语中，某些音素发音不同，却仍被说话者视为同一个概念对象。atom 中间的辅音是齿龈闪音 [ɾ]，atomic 中对应的音素则是清齿龈塞音后接气流，即 [tʰ]。两个词在读音与意义上都明显相关，因此不妨在抽象层面把它们视为同一对象。这一对象就是音位，其各种实现即音位变体，各自与特定环境相系；按惯例音位写作斜线内的单一符号，此处即 /t/。音位不等于任何一次具体发音，而是一个由若干音位变体构成的抽象集合。"
+    },
+    {
+     "en": "Allophonic environments involve phonetic properties immediately to the left, to the right, or both. Both allophones of /t/ occur between two vowels or syllabic consonants, but the flap requires an unstressed syllable to follow, the aspirated stop a stressed one. The conjecture holds for [ˈmɛɾl̩] metal and [məˈtʰælək] metallic, and beyond related pairs: data, writer, and Ottawa have [ɾ], while attack, return, and Saskatoon have [tʰ]. Stress thus decides the allophone.",
+     "zh": "音位变体的环境涉及紧邻左侧、右侧或两侧兼有的语音属性。/t/ 的两个变体都出现在两个元音或成音节辅音之间，但闪音之后须为非重读元音或成音节辅音，送气塞音之后则须为重读元音。这一推测在 [ˈmɛɾl̩] metal 与 [məˈtʰælək] metallic 中成立，且不限于相关词对：data、writer、Ottawa 用 [ɾ]，attack、return、Saskatoon 用 [tʰ]。可见重音决定音位变体的选择。"
+    },
+    {
+     "en": "Linguists have no direct access to phonemes, which are abstractions rather than measurable reality; they must infer from where phones occur whether those phones belong together as allophones of one phoneme. Phonology therefore aims to establish a language's phonemes, their allophones, and each allophone's environment, and to seek universal principles of human language. Because modality matters greatly, spoken and signed phonology are best treated separately, and since phonological units are theoretical constructs, analyses may vary.",
+     "zh": "语言学家无法直接接触音位，它是抽象单位而非可测量的实体，研究者只能依据音素出现的位置来推断它们是否属于同一音位的音位变体。音系学的目标因此是确定一种语言的音位、各音位的音位变体及其环境，并探寻人类语言的普遍原则。由于模态影响甚大，口语音系学与手语音系学宜分开考察；又因音系单位是理论构念，不同语言学家与理论框架可能得出不同分析。"
+    }
+   ]
+  },
+  "chapter-031-slug-4-2-phonotactics-and-natural-classes": {
+   "title": {
+    "en": "4.2 Phonotactics and natural classes",
+    "zh": "4.2 音位配列与自然类"
+   },
+   "summary": {
+    "en": "Beyond changing in particular environments, physical units may be barred from certain positions altogether. Each language has its own phonotactics, and the sounds affected often form a natural class, a set of phones sharing phonetic properties and phonological behaviour. Natural classes are language-specific, as English and Kalaallisut show.",
+    "zh": "除了在特定环境中发生变化，物理单位还可能完全不能出现在某些位置上。每种语言都有自己的音位配列，而受同一限制的音往往构成自然类，即共享语音属性与音系行为的音素集合。自然类的成员因语言而异：英语中以清塞音为一类，格陵兰语中则必须把 [q] 也包括进来。"
+   },
+   "points": [
+    {
+     "en": "Phonotactics are language-specific restrictions on which combinations of units are allowed in which environments.",
+     "zh": "音位配列是语言特有的限制，规定哪些单位组合可以出现在哪些环境中。"
+    },
+    {
+     "en": "English bans [tl] and [dl] in onsets, but Ngizim and Hebrew permit them.",
+     "zh": "英语禁止 [tl] 和 [dl] 作音节首，而恩吉齐姆语与希伯来语允许。"
+    },
+    {
+     "en": "Some restrictions are loose: English speakers readily pronounce pueblo [pwɛblo] and Vladimir [vlædəmir].",
+     "zh": "有些限制较宽松：英语母语者仍能读出 pueblo 与 Vladimir 这样的词。"
+    },
+    {
+     "en": "The ASL Symmetry Condition requires two-handed moving signs to share handshape and movement.",
+     "zh": "美国手语的对称条件要求双手运动的手语符号在手形与运动方式上一致。"
+    },
+    {
+     "en": "A natural class is a set of phones sharing phonetic properties and phonological behaviour.",
+     "zh": "自然类指共享某些语音属性与音系行为的一组音素集合。"
+    },
+    {
+     "en": "Natural classes are language-specific and must be exhaustive, as [q] in Kalaallisut shows.",
+     "zh": "自然类是语言特有的且必须穷尽，格陵兰语的 [q] 即可说明。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phonotactics",
+     "zh": "音位配列（语音组合法）",
+     "defEn": "language-specific restrictions on which combinations of units may occur where",
+     "defZh": "某一语言对语音单位组合可出现在何种位置所作的特殊限制。"
+    },
+    {
+     "en": "distribution",
+     "zh": "分布",
+     "defEn": "the overall pattern of environments in which a unit can occur",
+     "defZh": "某个语音单位能够出现的全部环境所构成的一种整体模式。"
+    },
+    {
+     "en": "natural class",
+     "zh": "自然类",
+     "defEn": "a set of phones sharing phonetic properties and phonological behaviour",
+     "defZh": "共享某些语音属性并表现相同音系行为的一组音素集合。"
+    },
+    {
+     "en": "onset",
+     "zh": "音节首",
+     "defEn": "the consonant or consonants that precede the nucleus of a syllable",
+     "defZh": "音节中位于韵核之前的那一个辅音或者多个辅音的组合。"
+    },
+    {
+     "en": "Symmetry Condition",
+     "zh": "对称条件",
+     "defEn": "an ASL restriction requiring two moving hands to share handshape and movement",
+     "defZh": "美国手语的限制：双手同时运动时须手形与运动方式相同。"
+    },
+    {
+     "en": "loanword",
+     "zh": "借词",
+     "defEn": "a word borrowed from another language into the vocabulary of a language",
+     "defZh": "从其他语言借入并被纳入本语言词汇系统之中的词语形式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[tlà] ‘cow’",
+     "noteEn": "A Ngizim word showing that [tl] onsets are permitted in that language.",
+     "noteZh": "恩吉齐姆语的词，说明该语言允许 [tl] 作音节首。"
+    },
+    {
+     "text": "[dli] ‘bucket’",
+     "noteEn": "A Hebrew word with a [dl] onset, which English phonotactics would ban.",
+     "noteZh": "希伯来语的词，其 [dl] 音节首为英语音位配列所禁止。"
+    },
+    {
+     "text": "pueblo [pwɛblo] and Vladimir [vlædəmir]",
+     "noteEn": "Loanword and proper name that English speakers pronounce despite the general restriction.",
+     "noteZh": "借词与专名，英语母语者虽有一般限制仍能顺利发音。"
+    },
+    {
+     "text": "[iseʀaq] ‘goose’",
+     "noteEn": "A Kalaallisut word whose consonant inventory includes the voiceless uvular plosive [q].",
+     "noteZh": "格陵兰语的词，显示该语言的辅音系统包含清小舌塞音 [q]。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Physical units may change their pronunciation in some environments, but they may also be refused entry to certain environments altogether. Every language has its own phonotactics: language-specific restrictions on which combinations of units are allowed in which environments. English bans [tl] and [dl] in onsets, yet this is far from universal, since Ngizim has [tlà] ‘cow’ and Hebrew has [dli] ‘bucket’. Other restrictions are looser: English generally lacks [pw] and [vl] onsets, yet speakers pronounce pueblo [pwɛblo] and Vladimir [vlædəmir].",
+     "zh": "物理单位在某些环境中会改变读音，但也可能被完全排除在某些环境之外。每种语言都有自己的音位配列，即对本语言中哪些单位组合可出现在哪些环境所作的限制。英语禁止 [tl] 和 [dl] 作音节首，但这远非普遍限制：恩吉齐姆语有 [tlà]（牛），希伯来语有 [dli]（桶）。另一些限制较为宽松：英语一般没有以 [pw] 或 [vl] 起首的音节，但说话者仍能顺利读出 pueblo [pwɛblo] 与 Vladimir [vlædəmir]。"
+    },
+    {
+     "en": "Signed languages show comparable restrictions. In ASL the Symmetry Condition governs signs in which both hands move: such signs must share the same handshape and move in the same way, so the two hands cannot generally do completely different things. The sign SENTENCE obeys the condition, with both hands in the same F handshape wiggling radioularly and tracing a path out to the sides, while the rare exception OPPRESS uses different handshapes on the two hands.",
+     "zh": "手语中也有类似的限制。在美国手语中，对称条件约束双手同时运动的手语符号：这类符号必须手形相同、运动方式相同，因此两只手一般不能做完全不同的事。美国手语符号 SENTENCE 符合该条件，两手同为 F 手形，作轻微的桡尺摆动并整体向两侧外移；罕见的例外 OPPRESS 则两手持不同手形。"
+    },
+    {
+     "en": "The pattern of environments in which a unit may occur is its distribution, and determining distributions is a fundamental skill in phonology. The English ban on [tl] and [dl] is not arbitrary: [t] and [d] are both alveolar plosives, so they form a natural class, a set of phones sharing phonetic properties, here place and manner of articulation, and sharing phonological behaviour, here the same phonotactic restriction. Onset clusters work the same way: in a three-consonant onset the first is always [s], the second a voiceless plosive, and the third an approximant.",
+     "zh": "某一单位可以出现的环境总和就是它的分布，而判定分布是音系学的基本技能。英语对 [tl] 与 [dl] 的禁止并非任意：[t] 和 [d] 都是齿龈塞音，因而构成自然类，即共享某些语音属性（此处为发音部位与发音方法）并共享某种音系行为（此处为受同一条音位配列限制）的音素集合。音节首辅音丛也是如此：英语的三辅音音节首中，第一个必为 [s]，第二个必为清塞音，第三个必为近音。"
+    },
+    {
+     "en": "Crucially, the membership of a natural class is language-specific, not universal. Although [p], [t], and [k] form a natural class in English, they do not do so in Kalaallisut, also known as Greenlandic, an Inuit language of the Inuit-Yupik-Unangan family spoken in Greenland. Kalaallisut has [p], [t], and [k], but also the voiceless uvular plosive [q], as in [iseʀaq] ‘goose’, so its natural class of voiceless plosives must include all four phones.",
+     "zh": "关键在于，自然类的成员因语言而异，并非普遍适用。虽然 [p]、[t]、[k] 在英语中构成自然类，在格陵兰语（Kalaallisut，又称 Greenlandic，属因纽特—尤皮克—尤南干语系，使用于格陵兰）中却不构成自然类。格陵兰语除 [p]、[t]、[k] 外还有清小舌塞音 [q]，如 [iseʀaq]（鹅），因此其清塞音这一自然类必须把四个音素全部纳入，因为自然类必须穷尽。"
+    }
+   ]
+  }
+ }
+}

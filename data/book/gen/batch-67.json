@@ -1,0 +1,108 @@
+{
+ "batch": 67,
+ "sections": {
+  "chapter-156-slug-14-6-semantic-change": {
+   "title": {"en": "14.6 Semantic change", "zh": "14.6 语义变化"},
+   "summary": {
+    "en": "Word meanings change over time through semantic shift, often via an intermediate polysemous stage in which old and new meanings coexist. Shifts may involve scope (widening and narrowing), association (metonymy and synecdoche), similarity (metaphor), quality (elevation and degeneration), or intensity (hyperbole and litotes). Unlike sound change, semantic change is usually sporadic and affects one word at a time, though the Chamorro directional terms shifted together as a set.",
+    "zh": "词义会随时间发生变化，通常称为语义演变或语义漂移，一般要经过新旧义并存的中间阶段，此时该词具有多义性。演变的类型包括范围变化（扩大与缩小）、关联变化（转喻与提喻）、相似性变化（隐喻）、褒贬变化（升格与降格）以及强度变化（夸张与曲言）。与音变不同，语义演变通常是零散的，一次只影响一个词，但查莫罗语方向词却作为整套系统一起发生了转变。"
+   },
+   "points": [
+    {"en": "Semantic shifts usually pass through a polysemous stage where old and new meanings coexist before the older one becomes obsolete.", "zh": "语义演变通常经过多义阶段，新旧义并存，随后旧义可能废弃，只留下新义。"},
+    {"en": "Scope shifts move between a specific and a general meaning, as when arriving at shore widens to any destination.", "zh": "范围变化在具体义与概括义之间移动，如 arrive 从『上岸』扩大为到达任何目的地。"},
+    {"en": "Metonymy relies on direct association, while metaphor relies on similarity in form or function without ordinary association.", "zh": "转喻依赖两个意义之间的直接关联，隐喻则依赖形式或功能上的相似，而非日常关联。"},
+    {"en": "Quality shifts raise or lower a meaning's value, yielding elevation and degeneration and driving euphemism cycles.", "zh": "褒贬变化使词义升值或贬值，形成升格与降格，并推动委婉语循环。"},
+    {"en": "Intensity shifts weaken meaning through hyperbole or strengthen it through litotes, sometimes bleaching words into intensifiers.", "zh": "强度变化通过夸张削弱词义、通过曲言增强词义，有时还把词漂白为程度词。"},
+    {"en": "Semantic change is generally sporadic, though Chamorro directional terms rotated as a set after European contact.", "zh": "语义演变一般是零散的，但查莫罗语方向词在欧洲接触后作为整套发生了旋转式变化。"}
+   ],
+   "terms": [
+    {"en": "semantic shift", "zh": "语义演变", "defEn": "Change in the meaning of a word over time, also called semantic drift.", "defZh": "词的意义随时间发生的变化，又称语义漂移，通常经历新旧义并存的多义阶段。"},
+    {"en": "widening", "zh": "扩大（泛化）", "defEn": "Shift from a specific meaning to a broader category that includes the original concept.", "defZh": "词义从较具体的概念扩展到包含原义在内的更大范围，又称泛化、扩展或扩大。"},
+    {"en": "narrowing", "zh": "缩小（专门化）", "defEn": "Shift from a general meaning to a more specific one, also called specialization or restriction.", "defZh": "词义从较宽泛的概念收缩到更具体的范围，又称专门化或限制，如 deer 的演变。"},
+    {"en": "metonymy", "zh": "转喻", "defEn": "Shift based on a direct association between two meanings, such as the Crown for monarchy.", "defZh": "基于两个意义之间的直接关联而发生的变化，如用 Crown 指君主及其政府。"},
+    {"en": "metaphor", "zh": "隐喻", "defEn": "Shift based on similarity in form or function between concepts without ordinary association.", "defZh": "基于概念之间在形式或功能上的相似而发生的变化，双方通常没有日常直接关联。"},
+    {"en": "semantic bleaching", "zh": "语义漂白", "defEn": "Erosion of a word's lexical content, which in the extreme leads to grammaticalization.", "defZh": "词项词汇内容的磨蚀，极端情形会导致语法化，如 very 变为纯粹的程度词。"}
+   ],
+   "examples": [
+    {"text": "Old English bylden 'construct a house' > Modern English build 'construct anything'", "noteEn": "An English example of widening, from constructing a house to constructing anything at all.", "noteZh": "英语词义扩大的例子，从建造房屋扩展到建造任何事物。"},
+    {"text": "Old English mete 'food' > Modern English meat 'animal flesh used as food'", "noteEn": "Narrowing gradually restricted a general word for food to animal flesh.", "noteZh": "词义缩小把泛指食物的词逐渐限制为供食用的动物肉。"},
+    {"text": "Old English fǣr 'danger' > Modern English fear 'terror, anxiety'", "noteEn": "Metonymy connects danger with the terror that people feel in its presence.", "noteZh": "转喻把危险与人们面对危险时感到的恐惧直接联系起来。"},
+    {"text": "Latin serra 'saw (tool)' > Spanish sierra 'mountain range'", "noteEn": "A metaphor based on the visual similarity between saw teeth and mountain peaks.", "noteZh": "隐喻来自锯齿与山峰在视觉上的相似，属形式相似。"}
+   ],
+   "body": [
+    {"en": "Semantic change, also called semantic drift, normally passes through a stage of polysemy in which a word carries both its older and newer meanings; eventually the older meaning may vanish. One common dimension is scope. Widening generalizes a meaning: Early Middle English ariven, once limited to reaching land after a sea voyage, became arrive, usable for any destination or means of travel. Narrowing does the reverse, as when Old English dēor, covering many animals, came to denote only the Cervidae family in Modern English deer.", "zh": "语义变化又称语义漂移，通常先经过一个多义阶段，此时一个词同时承载旧义与新义，后来旧义可能消失。范围是常见的变化维度之一。词义扩大使意义泛化：早期中古英语 ariven 原指远航后靠岸登陆，演变为现代英语 arrive 后，可用于任何目的地与任何交通方式。词义缩小则相反：古英语 dēor 原可指多种动物，到现代英语 deer 时仅指鹿科动物，德语 Tier、荷兰语 dier 仍保留『动物』这一旧义。"},
+    {"en": "Other shifts leave the original meaning's range entirely. Metonymy exploits a direct association, as when a monarch and the government are called the Crown because of the crown worn on ceremonial occasions. Synecdoche is a subtype involving a whole and its inherent part, as when glasses first named a substance, then drinking vessels and spectacles made from it (pars pro toto), or when Canada stands for its government or national teams (totum pro parte). Metaphor instead links concepts that have no ordinary association, as when grasp 'hold physically' extends to 'understand'.", "zh": "另一些变化则完全跳出原有意义的范围。转喻利用两个意义之间的直接关联，例如君主及其政府因加冕场合所戴的王冠而被称为 Crown。提喻是转喻的一种，涉及整体与其固有部分：glasses 先指玻璃这种材料，后指玻璃制成的饮具与眼镜，属『部分代整体』；而 Canada 可指加拿大政府或国家队，属『整体代部分』。隐喻连接的则是彼此没有日常关联的概念，如 grasp 由『用手握住』引申为『理解』。"},
+    {"en": "Quality shifts change how positive a meaning is. Elevation makes a meaning more favourable, as with eager, derived from Middle English egre 'angry, acidic'. Degeneration makes it less favourable, as with knave, once simply 'young man or boy' and now 'dishonest person'. Stigmatized concepts may be renamed repeatedly: euphemisms such as bathroom and restroom for toilet undergo degeneration and are replaced by new ones, forming a euphemism cycle or treadmill.", "zh": "褒贬变化改变词义的褒贬倾向。升格使意义更为积极，如 eager 源自中古英语 egre『愤怒的、酸涩的』。降格使意义转向消极，如 knave 原仅指『年轻男子或男孩』，如今指『不诚实的人』。被污名化的概念往往被反复改名：bathroom、restroom 等 toilet 的委婉语一旦沾染贬义便被新说法取代，形成委婉语循环（又称委婉语跑步机）。"},
+    {"en": "Intensity may also shift. Hyperbole weakens a meaning, as when Old English bana 'murderer' became bane 'source of harm'; carried far enough it produces semantic bleaching, turning verray 'true' into the intensifier very. Litotes strengthens a meaning, as when gruccen 'complain' became grudge. Unlike sound change, semantic change is usually sporadic, affecting single words; the Chamorro directional terms are unusual because they rotated as a whole set after European contact.", "zh": "强度同样会变化。夸张使词义减弱，古英语 bana『杀人者』变为 bane『祸根』即是一例；夸张走得足够远便产生语义漂白，把 verray『真实的』变成程度词 very。曲言则使词义增强，如 gruccen『抱怨』变为 grudge『长期怨恨』。与音变不同，语义变化通常零散发生，只影响个别词；查莫罗语方向词之所以特殊，在于它们与欧洲人接触后作为整套系统一起发生了旋转式变化。"}
+   ]
+  },
+  "chapter-157-slug-14-8-reconstructing-the-past": {
+   "title": {"en": "14.8 Reconstructing the past", "zh": "14.8 重构过去"},
+   "summary": {
+    "en": "Historical linguists rely on direct written evidence for attested changes, but writing is recent and most languages have no records at all. The comparative method compares related languages and reconstructs a plausible hypothetical ancestral form, working mainly with cognates descended from a single etymon. The search is complicated by borrowings, wanderwords, false cognates, and false friends, each of which must be handled carefully.",
+    "zh": "历史语言学家依靠书面记录来研究有据可查的变化，但文字产生较晚，且大多数语言根本没有历史文献。比较法通过比较有亲缘关系的语言来构拟合理的假想祖形，其核心研究对象是源自同一祖形的同源词。寻找同源词时会遇到借词、游走词、假同源词与假朋友等干扰，这些情况都必须谨慎处理。"
+   },
+   "points": [
+    {"en": "Direct written evidence reaches back only about five thousand years and omits most Indigenous and signed languages.", "zh": "书面直接证据仅覆盖约五千年，且遗漏了大多数原住民语言与手语。"},
+    {"en": "The comparative method extrapolates backwards from related languages to a single plausible hypothetical ancestral form.", "zh": "比较法从有亲缘关系的语言向前回溯，构拟出一个合理的假想祖形。"},
+    {"en": "Cognates are words or morphemes descended from the same etymon, recognized by similar sound and meaning.", "zh": "同源词是源自同一祖形的词或语素，通常靠语音与意义的相似来辨认。"},
+    {"en": "Borrowings, wanderwords, false cognates, and false friends can all mislead the comparative method.", "zh": "借词、游走词、假同源词和假朋友都可能误导比较法的分析。"},
+    {"en": "False friends are genuine cognates whose meanings diverged, so they should still be included in the comparison.", "zh": "假朋友其实是真正的同源词，只是意义发生分化，因此仍应纳入比较。"}
+   ],
+   "terms": [
+    {"en": "comparative method", "zh": "比较法", "defEn": "A method comparing related languages to reconstruct a plausible hypothetical ancestral form.", "defZh": "通过比较多种有亲缘关系的语言或变体，向前回溯出它们共同祖形的语言学方法。"},
+    {"en": "cognate", "zh": "同源词", "defEn": "A word or morpheme in related languages descended from the same ancestor form.", "defZh": "有亲缘关系的语言中直接源自同一祖形的词或语素，通常语音与意义相似。"},
+    {"en": "etymon", "zh": "祖形", "defEn": "The single ancestor form from which cognates in related languages are descended.", "defZh": "同源词所共同源自的那个单一祖先形式，如英语 house 与德语 Haus 的祖形。"},
+    {"en": "borrowing", "zh": "借词", "defEn": "A word taken from another language, normally excluded from the comparative method.", "defZh": "从另一种语言借入的词，因未经历接受语的完整历史而通常被排除在比较法之外。"},
+    {"en": "false cognate", "zh": "假同源词", "defEn": "A word resembling another in sound and meaning but with a completely different history.", "defZh": "语音和意义相似、看似同源，但历史来源完全不同、并非同源的词。"},
+    {"en": "false friend", "zh": "假朋友", "defEn": "A true cognate whose meaning has diverged enough to obscure the relationship.", "defZh": "确实是同源词，但意义已分化很大，以致不易被认出同源关系，如 gift 与 Gift。"}
+   ],
+   "examples": [
+    {"text": "the English word [haʊs] house and the German word [haʊs] Haus 'house' are cognates", "noteEn": "Identical pronunciation and meaning make these two words obvious cognates of one etymon.", "noteZh": "发音与意义几乎完全一致，使这两个词成为同一祖形的明显同源词。"},
+    {"text": "the English word [t͡ʃɔr] chore 'task' and the German word [keːʁə] Kehre 'U-turn' are cognates", "noteEn": "Their cognate relationship is obscured because both form and meaning changed greatly.", "noteZh": "由于形式和意义都变化很大，它们的同源关系几乎被完全掩盖。"},
+    {"text": "English [mr̩dr̩] murder 'kill' and German [maʁtɐ] Marter 'torture'", "noteEn": "They look similar in sound and meaning but have entirely different etymologies.", "noteZh": "它们语音与意义相似，但词源完全不同，属于必须排除的假同源词。"},
+    {"text": "the English word [ɡɪft] gift and the German word [ɡɪft] Gift are pronounced essentially the same, but the German Gift means 'poison'", "noteEn": "These are true cognates whose meanings diverged through elevation and degeneration.", "noteZh": "它们是真同源词，意义经由升格与降格而分化，仍应纳入比较。"}
+   ],
+   "body": [
+    {"en": "Some language changes are attested because we have direct evidence of how they unfolded. Recordings exist only since the late 1800s, but writing reaches back to roughly 3400 BC in Sumer, giving over five thousand years of records for some languages. Thousands of languages remain unwritten, especially Indigenous languages, signed languages, and stigmatized dialects. Even documented languages are imperfectly represented, since spelling need not match pronunciation and forms like gonna are far more common in speech than in writing.", "zh": "有些语言变化是有据可查的，因为我们掌握其发展过程的直接证据。录音与录像技术到十九世纪末才出现，而文字在苏美尔可追溯到约公元前 3400 年，为部分语言提供了五千多年的记录。然而成千上万种语言至今没有文字，原住民语言、手语和受污名化的方言尤其如此。即便有文献的语言也并非完美转写：拼写未必对应发音，gonna 这类形式在口语中远比书面语常见。"},
+    {"en": "The comparative method compares related languages and extrapolates backwards to a single plausible hypothetical ancestral form, called comparative reconstruction. It applies only to languages descended from a common ancestor through ordinary language change, or genetically related. Its main objects are cognates: words or morphemes directly descended from the same ancestor form, their etymon. Because English house [haʊs] and German Haus [haʊs] match in sound and meaning, we guess that their etymon was similar, refining it to something like [huːs] given the Great Vowel Shift.", "zh": "比较法把有亲缘关系的语言相互比较，向前回溯出一个合理的假想祖形，这一过程称为比较构拟。它只适用于通过常规语言变化从共同祖语分化而来的语言，即所谓有亲缘关系或发生学关系的语言。比较法的主要研究对象是同源词，即直接源自同一祖形（祖形称 etymon）的词或语素。英语 house [haʊs] 与德语 Haus [haʊs] 在语音和意义上都吻合，因此可以推测其祖形也相似，考虑到元音大推移，可进一步拟为 [huːs]。"},
+    {"en": "Cognate hunting is full of traps. Form and meaning both drift, so English chore [t͡ʃɔr] and German Kehre [keːʁə] 'U-turn' are cognates whose relationship is nearly invisible. Borrowings resemble cognates but do not reflect the recipient language's full history, and they can make languages look more closely related than they are; the Arabic word for giraffe entered English and German separately by way of Italian. Words such as ginger, sugar, and tea, called Wanderwörter, have crossed many languages for centuries.", "zh": "寻找同源词陷阱重重。形式和意义都会漂移，英语 chore [t͡ʃɔr] 与德语 Kehre [keːʁə]『掉头』虽为同源词，其关系却几乎无法辨认。借词看似同源词，却不反映接受语的全部历史，会让语言显得比实际更亲近；阿拉伯语中表示长颈鹿的词就经由意大利语分别进入英语和德语。ginger、sugar、tea 这类被称为游走词（Wanderwort）的词，数百年来穿行于多种语言之间。"},
+    {"en": "False cognates look alike yet have unrelated histories, such as English murder and German Marter 'torture'. False friends, by contrast, are genuine cognates whose meanings diverged: English gift and German Gift look identical, but Gift means 'poison', both senses split from a neutral 'act of giving'. Because they are real cognates, false friends belong in the comparison, despite their divergent semantics. Avoiding these pitfalls yields the true cognate sets that reveal a common ancestor.", "zh": "假同源词表面上相似，历史却互不相干，如英语 murder 与德语 Marter『折磨』。假朋友则相反，它们是真正的同源词，只是意义分化：英语 gift 与德语 Gift 拼写相同，但 Gift 意为『毒药』，两种意义都由中性的『给予行为』分化而来。由于假朋友确实同源，仍应纳入比较，尽管其语义已不对应。避开这些陷阱，才能得到揭示共同祖先的真正同源词集。"}
+   ]
+  },
+  "chapter-158-slug-14-9-case-study-reconstructing-proto-chinese": {
+   "title": {"en": "14.9 Case study: Reconstructing Proto-Chinese", "zh": "14.9 案例研究：构拟原始汉语"},
+   "summary": {
+    "en": "Using cognate sets from three Chinese varieties, Changsha (Xiang), Nanchang (Gan), and Suzhou (Wu), the comparative method reconstructs Proto-Chinese forms, marked with an asterisk as hypotheses. Where all three cognates match, the proto-word is identical; where they differ, correspondence sets such as p : pʰ : b reveal three distinct proto-sounds. Suzhou often looks conservative, but Nanchang preserves vowels that Changsha and Suzhou changed, so no variety is wholly conservative.",
+    "zh": "本节以长沙（湘语）、南昌（赣语）和苏州（吴语）三种汉语变体的同源词集为例，用比较法构拟原始汉语形式，并用星号标明这些形式只是假说。三者完全一致时可直接拟出相同形式；出现差异时，p : pʰ : b 这类对应集提示需要构拟三个不同的原始音。苏州常显得保守，但南昌保留了长沙和苏州已经改变的元音，因此没有哪种变体是完全保守的。"
+   },
+   "points": [
+    {"en": "The data come from three Chinese varieties, Changsha (Xiang), Nanchang (Gan), and Suzhou (Wu), with tone ignored.", "zh": "数据取自长沙（湘语）、南昌（赣语）和苏州（吴语）三种汉语变体，分析中不计声调。"},
+    {"en": "An asterisk marks reconstructed forms as hypotheses, a notation originally used for diachronic reconstruction.", "zh": "星号表示构拟形式只是假说，这一记号原本就用于历时构拟，后来才被借去标记不合语法。"},
+    {"en": "Proto-words and proto-languages are abstractions that were never actually spoken by any human beings.", "zh": "原始词与原始语都是抽象构拟，从未被任何人实际使用过。"},
+    {"en": "When cognates differ, recurring correspondence sets justify positing distinct proto-sounds rather than sporadic change.", "zh": "同源词出现差异时，反复出现的对应集支持设立不同的原始音，而非归因于零散变化。"},
+    {"en": "Devoicing explains *[b] > [p] in Changsha, while the aspiration in Nanchang remains unexplained but regular.", "zh": "清化可解释长沙的 *[b] > [p]，南昌的送气则尚无简单解释，但仍视为规律变化。"}
+   ],
+   "terms": [
+    {"en": "proto-language", "zh": "原始语", "defEn": "A reconstructed ancestral language, a theoretical abstraction never spoken by actual human beings.", "defZh": "通过构拟得出的祖语，是理论抽象，从未被任何真实的人当作语言使用过。"},
+    {"en": "proto-word", "zh": "原始词", "defEn": "A reconstructed word, the best guess at what an actual etymon was.", "defZh": "构拟出的词，是对实际祖形的最佳猜测，通常用星号标示其假说性质。"},
+    {"en": "proto-sound", "zh": "原始音", "defEn": "An individual reconstructed phone within a proto-word, such as *[b].", "defZh": "原始词中单个构拟出的音素，如对应于 p : pʰ : b 的 *[b]。"},
+    {"en": "correspondence set", "zh": "对应集", "defEn": "A set of corresponding phones across cognates, notated with colons, such as p : pʰ : b.", "defZh": "同源词之间相互对应的音素集合，用冒号标记，如 p : pʰ : b 和 i : i : i。"},
+    {"en": "devoicing", "zh": "清化", "defEn": "A sound change in which a voiced sound becomes voiceless, as *[b] > [p].", "defZh": "浊音变为清音的音变，如长沙话中发生的 *[b] > [p]，在语言中十分常见。"},
+    {"en": "conservative", "zh": "保守", "defEn": "Describing a language or variety that has changed relatively little over time.", "defZh": "指在相同时期内变化较少的语言或变体，与发生了变化的创新变体相对。"}
+   ],
+   "examples": [
+    {"text": "比 'compare': Changsha pi, Nanchang pi, Suzhou pi, Proto-Chinese *pi", "noteEn": "All three cognates match, so the proto-word is reconstructed with the same form.", "noteZh": "三个同源词完全一致，因此直接拟出形式相同的原始词。"},
+    {"text": "皮 'skin': Changsha pi, Nanchang pʰi, Suzhou bi, Proto-Chinese *bi", "noteEn": "The divergent consonants form a p : pʰ : b correspondence set requiring *[b].", "noteZh": "辅音各不相同，构成 p : pʰ : b 对应集，因此需要构拟 *[b]。"},
+    {"text": "盆 'tub': Changsha pən, Nanchang pʰən, Suzhou bən, Proto-Chinese *bən", "noteEn": "A second example of the same correspondence set supports regular reconstruction.", "noteZh": "同一对应集的又一例证，支持把它视为规律变化而非零散变化。"},
+    {"text": "崩 'collapse': Changsha pən, Nanchang pɛn, Suzhou pən, Proto-Chinese *pɛn", "noteEn": "The vowel correspondence forces a change *[ɛ] > [ə] in Changsha and Suzhou.", "noteZh": "元音的对应关系迫使人们假设长沙和苏州发生了 *[ɛ] > [ə] 的变化。"}
+   ],
+   "body": [
+    {"en": "The demonstration uses 2,722 cognate sets from a large dialect dictionary, but draws on just three varieties: the Changsha dialect of Xiang, the Nanchang dialect of Gan, and the Suzhou dialect of Wu. Tone is set aside because its behaviour across Chinese is too complex here. When all three cognates are pronounced identically, as with 比 'compare' [pi], [pi], [pi], the natural hypothesis is that the etymon was also [pi].", "zh": "本节的演示材料取自一部收录 2722 组同源词的大型方言字汇，但只考察三种变体：湘语的长沙方言、赣语的南昌方言和吴语的苏州方言。由于声调在各汉语语言中的表现十分复杂，这里不予转写和分析。当三个同源词读音完全相同时，例如 比『compare』三地都读 [pi]，最自然的假说就是其祖形同样读 [pi]。"},
+    {"en": "Reconstructed forms carry an asterisk, so *[pi] is a hypothesis rather than an attested fact; this notation began in diachronic linguistics and was later borrowed for ungrammaticality. Reconstructed items take the prefix proto-, giving proto-words, proto-sounds, and proto-languages, so the three varieties reconstruct Proto-Chinese. A proto-language is not a real language but a theoretical representation of a proposed historical relationship, and it was never spoken by anyone.", "zh": "构拟形式前加星号，因此 *[pi] 只是假说而非有据可查的事实；这一记号原用于历时语言学，后来才被借去标记不合语法。构拟对象一律加前缀 proto-，于是有原始词、原始音和原始语，三种变体构拟出的就是原始汉语。原始语并非真实存在的语言，而是对假想历史关系的理论表述，从未有人实际使用过。"},
+    {"en": "Divergent sets require more care. The cognates for 皮 'skin' are [pi], [pʰi], and [bi], so the word cannot be reconstructed directly; instead we isolate correspondence sets, here p : pʰ : b for the consonant and i : i : i for the vowel, and reconstruct *[i] for the vowel. Because p : p : p, pʰ : pʰ : pʰ, and p : pʰ : b each recur in many sets, they reflect regular patterns rather than sporadic change, so a third proto-sound *[b] is needed. Changsha *[b] > [p] is devoicing; Nanchang *[b] > [pʰ] has no easy explanation.", "zh": "同源词不一致时需要更谨慎。皮『skin』的三个同源词为 [pi]、[pʰi]、[bi]，无法直接拟出整词；这时先切分出对应集，如辅音的 p : pʰ : b 和元音的 i : i : i，并为元音构拟 *[i]。由于 p : p : p、pʰ : pʰ : pʰ 和 p : pʰ : b 都在大量同源词集中反复出现，它们反映的是规律性模式而非零散变化，因此必须另设第三个原始音 *[b]。长沙的 *[b] > [p] 属清化；南昌的 *[b] > [pʰ] 则没有简单的解释。"},
+    {"en": "Suzhou retains the Proto-Chinese pronunciation in most examples, suggesting it is conservative while Changsha and Nanchang are innovative. Yet 崩 'collapse' has [pən], [pɛn], [pən], which forces the reconstruction *[pɛn] alongside *[pən] for 'root', and therefore a change *[ɛ] > [ə] in Changsha and Suzhou. Every variety has changed in some respect, so languages are conservative or innovative only in particular aspects, not as wholes.", "zh": "苏州在多数例子中都保留了原始汉语的读音，显得保守，而长沙和南昌较为创新。但 崩『collapse』在长沙读 [pən]、南昌读 [pɛn]、苏州读 [pən]，这就迫使我们在为『根』构拟 *[pən] 之外再为它构拟 *[pɛn]，并假设长沙和苏州发生了 *[ɛ] > [ə] 的变化。既然每种变体都在某方面发生了变化，那么所谓保守与创新只能针对语言的某些方面，而非整体。"}
+   ]
+  }
+ }
+}

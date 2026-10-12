@@ -1,0 +1,25 @@
+{
+ "batch": 38,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-38.json",
+ "sections": [
+  {
+   "id": "chapter-082-slug-7-9-degrees",
+   "title": "7.9 Degrees",
+   "src": "data/book/src/chapter-082-slug-7-9-degrees.txt",
+   "chars": 9676
+  },
+  {
+   "id": "chapter-083-slug-7-10-why-not-the-dictionary",
+   "title": "7.10 Why not the dictionary?",
+   "src": "data/book/src/chapter-083-slug-7-10-why-not-the-dictionary.txt",
+   "chars": 10943
+  },
+  {
+   "id": "chapter-084-slug-7-11-denotation",
+   "title": "7.11 Denotation",
+   "src": "data/book/src/chapter-084-slug-7-11-denotation.txt",
+   "chars": 15748
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "batch": 55,
+ "sections": {
+  "chapter-127-slug-10-12-exercise-your-linguistic-skills": {
+   "title": {
+    "en": "10.12 Exercise Your Linguistics Skills",
+    "zh": "10.12 锻炼你的语言学技能"
+   },
+   "summary": {
+    "en": "This closing exercise set asks readers to apply the chapter's variationist tools to four problems: identifying variables in New York City English minimal pairs, cataloguing quotative verbs in reported speech, weighing Labov's distinction between markers and indicators, and evaluating a bar plot of hypothetical Auslan data on gender and sign variants.",
+    "zh": "本组收尾练习要求读者把本章的变异研究工具用于四个具体问题：辨识纽约市英语最小对立对中的语言变项，搜集报告言语里的引语动词，评估拉博夫关于标记项与指示项的区分，并检验一幅关于澳大利亚手语性别差异数据的柱状图。"
+   },
+   "points": [
+    {
+     "en": "Identify the linguistic variable and its variants in the New York City English pairs saw~sore, udder~other, beg~bag, and bruin~brewing.",
+     "zh": "指出纽约市英语 saw~sore、udder~other、beg~bag、bruin~brewing 各对词中的语言变项及其变式。"
+    },
+    {
+     "en": "Reported speech is introduced by quotative verbs; the task is to collect their variants across the chapter and propose additional ones.",
+     "zh": "报告言语由引语动词引出，需搜集本章出现的各种变式，并补充其他可能的说法。"
+    },
+    {
+     "en": "Labov distinguishes markers, which correlate with both social class and style, from indicators, which correlate only with social class.",
+     "zh": "拉博夫区分标记项与指示项：前者同时与社会阶层和语体相关，后者只与社会阶层相关。"
+    },
+    {
+     "en": "In the hypothetical Auslan data, readers evaluate the bar plot, redraw it, then judge which gender group favours or avoids the lowered variant.",
+     "zh": "针对假设的澳大利亚手语数据，读者需评价原有柱状图、重新作图，并判断哪一性别群体最倾向或最少使用降低变式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "minimal pair",
+     "zh": "最小对立对",
+     "defEn": "Two words that differ in one sound and signal different meanings.",
+     "defZh": "只在某一个语音上存在差别、却表示不同意义的两个词，可用于确定音位。"
+    },
+    {
+     "en": "variable",
+     "zh": "变项",
+     "defEn": "A linguistic feature that varies across speakers or contexts; its alternate forms are variants.",
+     "defZh": "在不同说话人或不同语境中发生变化的语言特征，其不同表现形式称为变式。"
+    },
+    {
+     "en": "marker",
+     "zh": "标记项",
+     "defEn": "A variable that correlates with both social class and contextual style.",
+     "defZh": "同时与社会阶层和语境语体相关的语言变项，其变化反映说话人对言语的注意程度。"
+    },
+    {
+     "en": "indicator",
+     "zh": "指示项",
+     "defEn": "A variable that correlates with social class but not with contextual style.",
+     "defZh": "只与社会阶层相关，而不随语境语体变化的语言变项，拉博夫称之为指示项。"
+    },
+    {
+     "en": "reported speech",
+     "zh": "报告言语（引述言语）",
+     "defEn": "A representation of some past or hypothetical speech or thought.",
+     "defZh": "对过去或假设的言语、思想的转述，英语书面上通常置于引号之内。"
+    },
+    {
+     "en": "quotative verb",
+     "zh": "引语动词",
+     "defEn": "A verb such as to say that introduces reported speech.",
+     "defZh": "用来引出报告言语的动词，英语中常见的是 to say。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "saw~sore",
+     "noteEn": "A New York City English minimal pair whose second word contains a linguistic variable.",
+     "noteZh": "纽约市英语的一对最小对立对，其中第二个词包含一个语言变项。"
+    },
+    {
+     "text": "udder~other",
+     "noteEn": "Another listed minimal pair, used to work out a variable and its variants.",
+     "noteZh": "文中列出的另一对最小对立对，用于推断变项及其变式。"
+    },
+    {
+     "text": "beg~bag",
+     "noteEn": "A minimal pair from section 10.5 that readers are asked to analyse.",
+     "noteZh": "10.5 节给出的一对最小对立对，读者需对其加以分析。"
+    },
+    {
+     "text": "bruin~brewing",
+     "noteEn": "The fourth minimal pair, whose second member again contains a different variable.",
+     "noteZh": "第四对最小对立对，其第二个词同样包含另一个不同的变项。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The final exercise set asks readers to apply the chapter's tools for variation to fresh problems. Exercise 1 goes back to the New York City English minimal pairs saw~sore, udder~other, beg~bag, and bruin~brewing, all of which were listed in section 10.5. Readers must work out which linguistic variable each pair illustrates, propose its variants, and then ask whether the same pairs would count as minimal pairs in their own variety of English.",
+     "zh": "本组练习要求读者把本章的变异研究工具用于新的问题。练习 1 回到 10.5 节列举的纽约市英语最小对立对 saw~sore、udder~other、beg~bag 和 bruin~brewing，要求读者判断每对词体现的是哪一个语言变项、提出其变式，并思考这些词对在自己熟悉的英语变体中是否同样构成最小对立对。"
+    },
+    {
+     "en": "Exercise 2 turns to reported speech, that is, representations of past or hypothetical speech and thought. English usually introduces such material with a quotative verb like to say, and writes it inside quotation marks. Readers skim the chapter for every token of reported speech, list the quotative verbs that introduce them, count the variants, and suggest others.",
+     "zh": "练习 2 关注报告言语，即对过去或假设的言语与思想的呈现。英语通常用 to say 一类引语动词引出这类内容，并在书面上加上引号。读者需要回看本章，找出所有报告言语用例，记录引出它们的引语动词，统计出现了多少种变式，并再想一些其他变式。"
+    },
+    {
+     "en": "Exercise 3 raises a theoretical point from Labov. Not every variable that correlates with social class also correlates with contextual style. Variables of the first kind, called markers, pattern with both social class and style; indicators, by contrast, correlate with social class alone. The exercise asks why this distinction matters, hinting that style-shifting is itself a matter of how much attention speakers pay to their speech.",
+     "zh": "练习 3 涉及拉博夫提出的一个理论区分。并非所有与社会阶层相关的变项都会随语境语体变化：同时与社会阶层和语体相关的变项叫标记项，只与社会阶层相关的变项叫指示项。练习要求读者思考这一区分的重要性，并提示语体差异实际上也反映了说话人对自身言语的注意程度。"
+    },
+    {
+     "en": "Exercise 4 supplies hypothetical Auslan data on the citation form and lowered variant of the signs KNOW, THINK, and NAME, collected from sociolinguistic interviews with men, women, and nonbinary signers. Table 10.2 gives the token counts, and Figure 10.8 is the colleague's bar plot. Readers must explain, using the chapter's concepts, why the plot represents the data poorly, draw a better graph, and state which group is most and which least likely to use the lowered variant.",
+     "zh": "练习 4 给出一组关于澳大利亚手语（Auslan）的假设数据，涉及 KNOW、THINK、NAME 三个手语符号的引用形式与降低变式，语料来自对自我认同为男性、女性和非二元性别的谈话人所作的社会语言学访谈。表 10.2 列出各形式的用例数，图 10.8 是同事据此绘制的柱状图。读者需运用本章概念，说明该图为何不是呈现这些数据的最佳方式，另绘一幅更合适的图，并指出哪一群体最可能、哪一群体最不可能使用降低变式。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 13,
+ "chapter": "Chapter 3: Phonetics",
+ "out": "data/book/gen/batch-13.json",
+ "sections": [
+  {
+   "id": "part-003-slug-3-phonetics",
+   "title": "Chapter 3: Phonetics",
+   "src": "data/book/src/part-003-slug-3-phonetics.txt",
+   "chars": 750
+  },
+  {
+   "id": "chapter-018-slug-3-1-modality",
+   "title": "3.1 Modality",
+   "src": "data/book/src/chapter-018-slug-3-1-modality.txt",
+   "chars": 8283
+  },
+  {
+   "id": "chapter-019-slug-3-2-speech-articulators",
+   "title": "3.2 Speech articulators",
+   "src": "data/book/src/chapter-019-slug-3-2-speech-articulators.txt",
+   "chars": 4930
+  }
+ ]
+}

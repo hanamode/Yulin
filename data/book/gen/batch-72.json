@@ -1,0 +1,39 @@
+{
+ "batch": 72,
+ "sections": {
+  "part-019-phonemic-restoration": {
+   "title": {"en": "Phonemic Restoration", "zh": "语音复原效应"},
+   "summary": {
+    "en": "The phonemic restoration effect, first reported by Warren (1970), shows that listeners hear speech sounds that are physically absent from the acoustic signal. When a sound and its acoustic cues are deleted and a cough is inserted, people report hearing every sound and cannot locate the disruption. Later work by Groppe et al. (2010) showed that sentence context resolves ambiguity, and Schultz-Westre (1985) found a visual analog in American Sign Language.",
+    "zh": "语音复原效应最早由沃伦（1970）报告：即使某个语音已从声学信号中删去，听者仍会听到它。当研究者删去一个音及其声学线索并插入咳嗽声时，被试报告句中所有音都在，也无法指出中断出现的位置。格罗佩等人（2010）进一步发现，句子语境可以消解歧义；舒尔茨-韦斯特（1985）则在美国手语中发现了类似的视觉现象。"
+   },
+   "points": [
+    {"en": "Phonemic restoration occurs when listeners hear a speech sound that was physically removed from the acoustic signal.", "zh": "语音复原效应指听者听到实际上已从声学信号中删去的语音。"},
+    {"en": "Warren (1970) deleted a sound and its acoustic cues, replacing roughly 120 ms of silence with a cough.", "zh": "沃伦（1970）删去一个音及其声学线索，留下约120毫秒静音并用咳嗽声替换。"},
+    {"en": "Listeners cannot accurately locate the disruption and report that every sound was present.", "zh": "听者无法准确指出语音中断的位置，并报告句中所有音都存在。"},
+    {"en": "Groppe et al. (2010) found supportive sentence context biases ambiguous restoration and reduces N400 amplitude.", "zh": "格罗佩等人（2010）发现支持性语境会影响歧义的复原，并减小N400波幅。"},
+    {"en": "ASL signers showed a visual analog, failing to locate where part of a sign was blanked out.", "zh": "美国手语者存在视觉上的类似现象，难以指出手势被白屏遮挡的位置。"},
+    {"en": "Restoration shows the mind compensates for small disruptions using linguistic and world knowledge.", "zh": "复原现象表明心智会借助语言知识与世界知识补偿细小的中断。"}
+   ],
+   "terms": [
+    {"en": "phonemic restoration effect", "zh": "语音复原效应", "defEn": "Listeners perceive a speech sound that has been removed from the acoustic signal.", "defZh": "听者听到实际上已从声学信号中删除的语音，属自上而下的言语感知现象。"},
+    {"en": "top-down processing", "zh": "自上而下加工", "defEn": "Using prior knowledge of words and context to interpret incoming sensory input.", "defZh": "运用已有的词语与语境知识来解释所接收的感觉输入的加工方式。"},
+    {"en": "N400", "zh": "N400", "defEn": "An ERP response whose amplitude is smaller for words that are more expected.", "defZh": "一种事件相关电位成分，词语越符合预期，它的波幅往往就越小。"},
+    {"en": "context effect", "zh": "语境效应", "defEn": "The influence of surrounding linguistic context on how a word is perceived.", "defZh": "周围语言语境对词语如何被感知、如何被理解所产生的影响。"},
+    {"en": "American Sign Language", "zh": "美国手语", "defEn": "A signed language used by Deaf communities, transmitted visually rather than acoustically.", "defZh": "聋人群体使用的一种手势语言，主要通过视觉而非声音通道传递。"}
+   ],
+   "examples": [
+    {"text": "The student read the linguistics textbook online.", "noteEn": "Recording in which the first /s/ of linguistics was replaced by silence under a cough.", "noteZh": "录音中 linguistics 的第一个 /s/ 被静音替换，并在该处叠加咳嗽声。"},
+    {"text": "The state governors met with their respective legislatures convening in the capital city", "noteEn": "Warren's original stimulus, where the first /s/ of legislatures was deleted.", "noteZh": "这是沃伦实验的原始材料，其中 legislatures 的第一个 /s/ 这一语音被删除。"},
+    {"text": "He had fallen while climbing a __ountain", "noteEn": "Ambiguous sentence from Groppe et al., where a tone replaced a phoneme.", "noteZh": "格罗佩等人使用的歧义句，其中一个音位被纯音替换。"},
+    {"text": "Victor had to get airlifted out of the Rockies", "noteEn": "A helpful context sentence that biased listeners toward reporting the word mountain.", "noteZh": "这是有帮助的语境句，使听者更倾向于报告听到 mountain。"}
+   ],
+   "body": [
+    {"en": "First reported by Warren in 1970, the phonemic restoration effect shows that word knowledge shapes speech perception. In one recording a cough covers part of the sentence The student read the linguistics textbook online. Listeners usually cannot say where the cough fell and often insist every sound was present, yet the first /s/ of linguistics had been replaced with silence. Since no other English word results from changing that sound, the brain easily fills the gap using knowledge of sounds and likely sentence content.", "zh": "语音复原效应最早由沃伦（Warren，1970）报告，它表明词语知识会自上而下地影响言语感知。在一段录音中，咳嗽声盖住了句子 The student read the linguistics textbook online. 的一部分。听者通常无法说清咳嗽落在哪个音上，还常常坚称句子里所有音都在，但实际上 linguistics 的第一个 /s/ 已被静音替换，之后才在该处插入咳嗽声。由于换成别的音并不会构成其他英语词，大脑很容易依据关于语音、词语以及句子可能内容的知识把这个空缺补上。"},
+    {"en": "Warren's original experiment presented undergraduates with sentences such as The state governors met with their respective legislatures convening in the capital city. One speech sound, for instance the first /s/ of legislatures, along with surrounding acoustic cues, was deleted to leave about 120 milliseconds of silence, which a cough then replaced. Participants reported hearing all the sounds and could not accurately locate the cough, perceiving a sound absent from the input through top-down information.", "zh": "沃伦最初的实验让本科生听类似 The state governors met with their respective legislatures convening in the capital city. 的句子。研究者删去其中一个语音（例如 legislatures 的第一个 /s/）以及会暴露该音身份的周边声学线索，留下约120毫秒的静音，再用咳嗽声填补。被试报告听到了全部语音，也无法准确指出咳嗽的位置，说明他们依据自上而下的信息听到了输入中并不存在的声音。"},
+    {"en": "Groppe and colleagues (2010) asked what happens when the removed sound creates ambiguity. Listeners heard sentences in which a phoneme was replaced by a tone, as in He had fallen while climbing a __ountain, where either /f/ (fountain) or /m/ (mountain) was plausible. A preceding context sentence was either helpful (Victor had to get airlifted out of the Rockies) or neutral (Victor had to go to the hospital). Helpful context led listeners to report mountain more often, and the N400 to the critical word had smaller amplitude, meaning the word was seen as more expected.", "zh": "格罗佩等人（Groppe et al.，2010）追问：当被删去的音造成歧义时会发生什么？被试听到的是用纯音替换某个音位的句子，例如 He had fallen while climbing a __ountain，其中 /f/（fountain）或 /m/（mountain）都说得通。句子前面还有一个语境句，或是有帮助的 Victor had to get airlifted out of the Rockies，或是中性的 Victor had to go to the hospital。有帮助的语境使听者更常报告听到 mountain，关键词语诱发的 N400 波幅也更小，说明该词被理解为更符合预期。"},
+    {"en": "Restoration is not limited to spoken language. Schultz-Westre (1985) showed ASL signers videotaped sentences in which part of a sign was replaced by a blank white screen. Signers were poor at reporting where the disruption occurred, suggesting they had filled in the missing material. The mind thus compensates for small disruptions in what we hear or see, drawing on linguistic and world knowledge.", "zh": "复原现象并不限于口语。舒尔茨-韦斯特（Schultz-Westre，1985）让美国手语（ASL）使用者观看录像中的手语句子，其中一个手势的一部分被替换成空白白屏。手语者同样难以报告中断出现的位置，提示他们补全了缺失的材料。由此可见，心智会依据语言知识以及对典型情境的了解，补偿我们所听到或看到的内容中的细小中断。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "batch": 2,
+ "sections": {
+  "front-matter-002-about-the-authors": {
+   "title": {"en": "About the Authors", "zh": "作者简介"},
+   "summary": {
+    "en": "This section introduces the authors of the textbook. It describes the Teaching in Linguistics Community of Practice (TiLCoP), the Canadian instructors' group whose collaboration produced the book, and gives a short biography of each of the seven contributors, covering their positions, training, research interests, and the territories on which their institutions stand.",
+    "zh": "本节介绍本教材的作者群体。先说明语言学教学实践共同体（TiLCoP）这一加拿大语言学教师协作组织的由来，以及它如何促成本书和配套播客等成果；随后逐一简介七位作者，包括其任职院校、学术训练背景、主要研究兴趣，以及各人所在院校所处的原住民传统领地。"
+   },
+   "points": [
+    {"en": "TiLCoP is a community of linguistics instructors at Canadian universities who meet to discuss teaching and pedagogical research.", "zh": "TiLCoP 是加拿大各大学语言学教师组成的实践共同体，定期聚会讨论教学实践与教学法研究。"},
+    {"en": "It formed in 2020, when instructors needed shared resources and support during a rapid shift in teaching modality.", "zh": "该组织成立于 2020 年，当时教师因教学模式骤变而亟需共享资源与相互支持。"},
+    {"en": "Its collaboration produced a companion podcast, a journal special issue, and this textbook.", "zh": "其协作成果包括一档配套播客、一期期刊专刊，以及这本教材。"},
+    {"en": "The seven contributors hold teaching-stream or research-stream positions at universities across Canada.", "zh": "七位作者分别在加拿大各地大学担任教学型或研究型教职。"},
+    {"en": "Their research covers phonetics, phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, and sociolinguistics.", "zh": "他们的研究涵盖语音学、音系学、形态学、句法学、语义学、语用学、心理语言学与社会语言学。"},
+    {"en": "Several authors acknowledge the Indigenous territories on which their institutions are located.", "zh": "多位作者说明了其所在院校所处的原住民传统领地。"}
+   ],
+   "terms": [
+    {"en": "Teaching in Linguistics Community of Practice (TiLCoP)", "zh": "语言学教学实践共同体（TiLCoP）", "defEn": "A Canadian community of linguistics instructors sharing teaching practice and pedagogical research.", "defZh": "由加拿大语言学教师组成的共同体，共同分享教学实践与教学法研究成果。"},
+    {"en": "psycholinguistics", "zh": "心理语言学", "defEn": "The study of the mental processes and representations involved in language comprehension and production.", "defZh": "研究语言理解与产出所涉及的心理过程与心理表征的学科。"},
+    {"en": "formal semantics", "zh": "形式语义学", "defEn": "The study of linguistic meaning using formal, logic-based systems of representation.", "defZh": "运用形式化的逻辑表征系统研究语言意义的学科分支。"},
+    {"en": "multiethnolect", "zh": "多民族方言", "defEn": "A contact variety that emerges among youth from diverse immigrant backgrounds in a city.", "defZh": "在城市中由不同移民背景的青少年共同形成的一种接触变体。"},
+    {"en": "clausal architecture", "zh": "小句结构", "defEn": "The internal structural organization of clauses and the positions of their elements.", "defZh": "小句内部的结构组织方式以及各组成成分所处的位置。"}
+   ],
+   "examples": [
+    {"text": "Word to the Whys", "noteEn": "A companion podcast produced for Introductory Linguistics courses by the TiLCoP collaboration.", "noteZh": "TiLCoP 协作产出的一档播客，作为语言学导论课程的配套资源。"},
+    {"text": "a special issue of the Canadian Journal of Linguistics", "noteEn": "One of the collaborative projects that grew out of the group's regular meetings.", "noteZh": "该组织定期聚会所催生的协作项目之一。"},
+    {"text": "Dish With One Spoon wampum agreement between the Haudenosaunee and Anishinaabe Nations", "noteEn": "The treaty territory where one of the authors lives and works.", "noteZh": "其中一位作者生活与工作所在的条约领地。"},
+    {"text": "directional particles in Niuean (Polynesian)", "noteEn": "A current research topic of one contributor, alongside work on K'iche' (Mayan).", "noteZh": "一位作者当前的研究课题，此外还从事 K'iche'（玛雅语族）的田野调查。"}
+   ],
+   "body": [
+    {"en": "The authors of this textbook belong to the Teaching in Linguistics Community of Practice (TiLCoP), a group of linguistics instructors at Canadian universities who meet regularly to discuss their teaching and pedagogical research. TiLCoP came together in 2020, when the pandemic forced a rapid shift in teaching modality and instructors needed shared resources and mutual support. Their collaboration has since produced several projects: Word to the Whys, a companion podcast for introductory linguistics courses; a special issue of the Canadian Journal of Linguistics; and this textbook.", "zh": "本教材的作者均属于语言学教学实践共同体（TiLCoP）。这是加拿大各大学语言学教师组成的团体，成员定期聚会，讨论教学实践与教学法研究。该共同体成立于 2020 年，当时疫情迫使教学模式骤然改变，教师亟需共享资源与相互支持。此后，他们的协作催生了若干项目：语言学导论课程的配套播客 Word to the Whys、一期《加拿大语言学杂志》专刊，以及这本教材。"},
+    {"en": "The seven contributors teach and research at institutions across Canada, among them McMaster University, Queen's University, the University of Toronto Mississauga, Simon Fraser University, the University of Toronto (St. George), the University of Guelph-Humber, the University of Victoria, and Seneca College. Several authors name the Indigenous peoples on whose traditional territories their campuses stand, referring to the Dish With One Spoon wampum agreement and the treaty lands of the Mississaugas of the Credit.", "zh": "七位作者任教并从事研究于加拿大各地院校，包括麦克马斯特大学、女王大学、多伦多大学密西沙加校区、西蒙弗雷泽大学、多伦多大学圣乔治校区、圭尔夫—汉博大学、维多利亚大学与塞内卡学院。多位作者在文中列出了其校园所处的原住民传统领地，并提及豪德诺索尼与阿尼什纳比民族之间的「一勺之盘」贝壳带协议，以及密西沙加克雷迪特人的条约领地。"},
+    {"en": "Their research interests are broad. They work on the phonetics and phonology of signed and spoken languages, historical phonology and sound change, morphology and syntax, formal semantics and pragmatics, psycholinguistics, and variationist and sociocultural approaches to language change. Specific topics include the interfaces between the formal modules of grammar, sentence comprehension, cross-linguistic variation in clausal architecture, and the emergence of a multiethnolect in Toronto. Their work has appeared in journals such as Language, Linguistic Inquiry, Natural Language and Linguistic Theory, and Glossa.", "zh": "他们的研究兴趣广泛，涉及手语与口语的语音学和音系学、历史音系学与音变、形态学与句法学、形式语义学与语用学、心理语言学，以及从变异社会语言学和社会文化视角研究语言变化。具体课题包括语法各形式模块之间的接口、句子理解、小句结构的跨语言差异，以及多伦多地区多民族方言的兴起。其成果发表于 Language、Linguistic Inquiry、Natural Language and Linguistic Theory、Glossa 等期刊。"}
+   ]
+  }
+ }
+}

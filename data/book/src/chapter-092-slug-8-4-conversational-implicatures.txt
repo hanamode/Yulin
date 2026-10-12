@@ -1,0 +1,31 @@
+# 8.4 Conversational implicatures
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=845#oembed-1
+Let’s start with a review of entailments vs. implicatures. Recall from Chapter 7 (Semantics) that implicatures are cancellable. They are not entailments, so they are not necessarily true from a certain sentence being true. (1) shows that you cannot cancel an entailment, while (2) shows that an implicature can be.
+
+[表格]
+| | | (1) | | a. | | | | This is a book about the history of China. | | | | | | | | | | ( | Entailment | : ‘This is a book.’) | | | | | | b. | | | ⊥ | | | This is a book about the history of China, but it is not the case that this is a book. | | |
+
+[表格]
+| | | (2) | | a. | | | | | This is a book about the history of China. | | | | | | | | | | | | ( | Possible implicature | : ‘This book is long.’) | | | | | | | b. | | | | This is a book about the history of China, but it is not the case that this book is long. (e.g., It’s actually a short concise summary.) | | |
+
+Since an implicature is a non-entailment, an implicature of a sentence can change depending on the context. For example, in (3), Danny’s utterance This is a book about the history of China carries the implicature ‘I think you will like this book’, but with the context in (4), this implicature is harder to get (in fact, the more natural implicature is the opposite: ‘I do not think you will like this book’).
+
+[表格]
+| | | (3) | | | | | | (Context: Danny knows that Josh is a history enthusiast.) | | | | | | Josh: | | | | Do you think I will like this book? | | | | | | Danny: | | | | | | This is a book about the history of China. | | | | | | | | | | | | | | (Implicature: ‘I think you will like this book.’) | | | | |
+
+[表格]
+| | | (4) | | | | | | (Context: Danny knows that world history has never been Josh’s forte.) | | | | | | Josh: | | | | Do you think I will like this book? | | | | | | Danny: | | | | | | This is a book about the history of China. | | | | | | | | | | | | | | (Implicature: ‘I do not think you will like this book.’) | | | | |
+
+Importantly, the entailment ‘This is a book’ is always there for the sentenceThis is a book about the history of China, no matter what the context is. It entails this in (3), and it still entails this in (4), too. And in fact, no matter what the context is, it will always entail that. This is a crucial difference between implicatures and entailments: implicatures are context-dependent, entailments are not.
+
+Sometimes, implicatures are called conversational implicatures because the implicatures arise out of conversational rules, to be discussed in the next section.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=845#h5p-80
+
+## References
+
+Grice, H. P. (1975). Logic and conversation. In Speech Acts (pp. 41-58). Brill.

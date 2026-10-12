@@ -1,0 +1,31 @@
+# 6.17 Trees: Structural ambiguity in syntax
+
+In Section 5.9 we saw cases of structural ambiguity in morphology, cases where the same string of morphemes can have more than one structure, with each structure corresponding to a different interpretation.
+The same thing is found in syntax. Consider the following example:
+
+[表格]
+| | | (1) | | | | I saw someone with a telescope. | | |
+
+This has two possible interpretations:
+- I was using a telescope, and I saw someone. (PP modifies VP)
+- I saw someone, and that person had a telescope. (PP modifies object NP)
+
+In the first interpretation, the prepositional phrase [PP with a telescope] modifies the verb phrase headed by saw; this is shown in Figure 6.22 In the second interpretation, the same prepositional phrase modifies the noun phrase someone; this is shown in Figure 6.23.
+
+[图片：617_tree1_sawwithtelescope.png]
+
+Figure 6.22: Tree diagram showing [PP with a telescope] as an Adjunct of the verb, meaning “I used a telescope to see someone”.
+
+[图片：617_tree2_personwithtelescope.png]
+
+Figure 6.23: Tree diagram showing [PP with a telescope] as an Adjunct of the NP object, meaning “I saw a person and that person had a telescope”
+The same will be true for other cases of structural ambiguity—each meaning will correspond to a different potential tree structure.
+Many cases of structural ambiguity in syntax involve modifiers in adjunct positions on one or both interpretations. Some of the practical implications of ambiguity are discussed in 8.3 Semantics and pragmatics in the legal domain.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.16 Trees: Modifiers as adjuncts and the next section is 6.6 Clausal embedding.

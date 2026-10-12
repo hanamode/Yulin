@@ -1,0 +1,219 @@
+{
+ "batch": 21,
+ "sections": {
+  "chapter-038-slug-4-9-types-of-phonological-rules": {
+   "title": {
+    "en": "4.9 Types of phonological rules",
+    "zh": "4.9 音系规则的类型"
+   },
+   "summary": {
+    "en": "Phonological rules fall into a handful of recurring types. Assimilation is the most common, changing a phoneme to an allophone that shares a property such as voicing, place, or nasality with its environment. Other rules are not assimilatory at all: final devoicing, deletion, and epenthesis. Loanword adaptation shows deletion and epenthesis at work, and familiarity with common rule types guides both phonemic analysis and rule discovery.",
+    "zh": "音系规则可分为若干反复出现的类型。最常见的是同化，即音位变为与其环境共享某一特征（如发声、发音部位或鼻音性）的音位变体。也有不少规则与同化无关，例如词末清化、脱落和增音。借词适应体现了脱落与增音的作用；熟悉常见规则类型有助于音位分析与规则发现。"
+   },
+   "points": [
+    {
+     "en": "Assimilation, the most common type, changes a phoneme to an allophone sharing a property with its environment.",
+     "zh": "同化是最常见的类型，即音位变为与其环境共享某一特征的音位变体。"
+    },
+    {
+     "en": "Phonation can assimilate from either side: French and Wemba Wemba trigger it from the left, Polish from the right.",
+     "zh": "发声同化可来自任一侧：法语和温巴温巴语的触发成分在左边，波兰语的触发成分在右边。"
+    },
+    {
+     "en": "Place and nasality also assimilate: Persian stops become postalveolar, and Ka'apor vowels become nasal after nasal stops.",
+     "zh": "发音部位和鼻音性同样会同化：波斯语塞音变为后齿龈音，卡阿波尔语元音在鼻塞音后鼻化。"
+    },
+    {
+     "en": "Non-assimilation rules include final devoicing, deletion of coda /r/, and epenthesis of [e] before Spanish word-initial sC clusters.",
+     "zh": "非同化规则包括词末清化、韵尾 /r/ 的脱落，以及在西班牙语词首 sC 组合前增音 [e]。"
+    },
+    {
+     "en": "Knowing common rule types lets analysts ignore unlikely triggers and seek distributional patterns that reveal phonemes.",
+     "zh": "了解常见规则类型，可使分析者排除不大可能的音变诱因，并寻找能揭示音位的分布模式。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "assimilation",
+     "zh": "同化",
+     "defEn": "A rule in which a phoneme becomes an allophone sharing a property with its environment.",
+     "defZh": "音位变为与其所在环境共享某一特征（如浊音性、发音部位或鼻音性）的音位变体。"
+    },
+    {
+     "en": "final devoicing",
+     "zh": "词末清化",
+     "defEn": "A rule that makes sounds voiceless at the end of a word.",
+     "defZh": "在词末位置使音段失去浊音、变为清音的规则，常作用于阻塞音。"
+    },
+    {
+     "en": "deletion",
+     "zh": "脱落",
+     "defEn": "A rule that removes a phoneme entirely from a word, shown with the null symbol.",
+     "defZh": "把某个音位从词中完全删除的规则，在规则中用空符号 ∅ 表示。"
+    },
+    {
+     "en": "epenthesis",
+     "zh": "增音",
+     "defEn": "A rule that inserts a new phone into a word, the reverse of deletion.",
+     "defZh": "在词中插入一个原本没有的音素以符合音节结构的规则，与脱落恰好相反。"
+    },
+    {
+     "en": "loanword",
+     "zh": "借词",
+     "defEn": "A word borrowed from one language, the donor, into another, the recipient.",
+     "defZh": "从一种语言（施借语）借入另一种语言（受借语），并适应其音系结构的词。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "/panpar/ → [panbar] 'shovel'",
+     "noteEn": "Wemba Wemba voices a voiceless plosive after a nasal stop, in this word and generally.",
+     "noteZh": "温巴温巴语中，清塞音在鼻塞音后浊化，此例即该同化规则的体现。"
+    },
+    {
+     "text": "/rɪbka/ → [rɪpka] 'little fish'",
+     "noteEn": "Polish devoices a voiced obstruent when a voiceless obstruent follows it.",
+     "noteZh": "波兰语中，浊阻塞音位于清阻塞音之前时发生清化。"
+    },
+    {
+     "text": "/kolomb/ → [kolomp] 'pigeon'",
+     "noteEn": "Camuno devoices a word-final obstruent, a common pattern because airflow weakens near the end.",
+     "noteZh": "卡穆诺语使词末阻塞音清化；词末气流减弱，因此是清化的自然位置。"
+    },
+    {
+     "text": "/ski/ → [eski] 'ski'",
+     "noteEn": "Spanish inserts [e] before word-initial sC so that the cluster does not violate its phonotactics.",
+     "noteZh": "西班牙语在词首 sC 前增音 [e]，以免该组合违反音位配列限制。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Languages draw on a limited set of recurring phonological rule types. The most widespread is assimilation, in which a phoneme becomes an allophone copying some property already present in its environment. French devoicing is one instance: sonorants lose their voicing in a context that itself contains voicelessness. The same rule can work in the opposite direction, as in Wemba Wemba, where voiceless plosives become voiced after nasal stops, so /panpar/ surfaces as [panbar]. Polish shows that the triggering property need not lie on the left: a voiced obstruent becomes voiceless before a following voiceless obstruent, turning /rɪbka/ into [rɪpka].",
+     "zh": "语言所采用的音系规则类型有限且反复出现。最常见的是同化，即一个音位变为音位变体，并复制其环境中已经存在的某一特征。法语的清化即为一例：响音在本身含有清音的语境中失去浊音。同类规则也可朝相反方向起作用，如温巴温巴语（Wemba Wemba）中清塞音在鼻塞音后浊化，/panpar/ 因而实现为 [panbar]。波兰语则表明触发特征未必位于左侧：浊阻塞音在其后接清阻塞音时清化，/rɪbka/ 变为 [rɪpka]。"
+    },
+    {
+     "en": "Phonation is not the only property that assimilates. In Persian, alveolar stops become postalveolar before a postalveolar sound. In Ka'apor, vowels are nasalized after a nasal stop, so /uruma/ is realized as [urumã]. Place and nasality thus spread from a neighbouring segment just as voicing does.",
+     "zh": "能够同化的并不限于发声特征。在波斯语中，齿龈塞音位于后齿龈音之前时变为后齿龈音。在卡阿波尔语（Ka'apor）中，元音在鼻塞音后发生鼻化，/uruma/ 实现为 [urumã]。可见发音部位与鼻音性和浊音一样，都可以从相邻音段扩散而来。"
+    },
+    {
+     "en": "Many rules are not assimilatory at all. Final devoicing turns obstruents voiceless at the end of a word, as in Camuno /kolomb/ surfacing as [kolomp]; this is natural because airflow weakens as a word proceeds. Deletion removes a phoneme outright, written with the null symbol ∅, so non-rhotic English varieties lose coda /r/ and /kɑr/ 'car' sounds like [kɑ]. Epenthesis does the reverse by inserting a phone. Borrowings into Spanish illustrate this: [sC] is not a valid onset, so /ski/ and /sloɡan/ are adapted as [eski] and [esloɡan], the epenthetic [e] providing a coda for the /s/.",
+     "zh": "还有大量规则与同化无关。词末清化使阻塞音在词末失去浊音，如卡穆诺语 /kolomb/ 读作 [kolomp]；这很自然，因为气流在词内逐渐减弱。脱落则直接删除某个音位，用空符号 ∅ 表示；非儿化英语变体脱落韵尾 /r/，因此 /kɑr/ 'car' 听起来像 [kɑ]。增音与之相反，是插入一个音素。借入西班牙语的词可说明这一点：[sC] 不是合法的音节首，故 /ski/ 和 /sloɡan/ 被改造为 [eski] 和 [esloɡan]，增生的 [e] 为 /s/ 提供了韵尾。"
+    },
+    {
+     "en": "Because rule types recur, knowing them gives analysts a head start. If a language has paired voiced and voiceless sonorants, it is worth testing whether their distribution matches a voicing rule such as assimilation, while properties like vowel rounding can be set aside as unlikely triggers. Rule discovery and phonemic analysis therefore reinforce each other.",
+     "zh": "由于规则类型反复出现，了解它们能让分析者抢占先机。若某种语言存在成对的清浊响音，就值得检验其分布是否符合同化一类涉及浊音的规则，而元音圆唇等特征则可作为不大可能的诱因暂时搁置。规则发现与音位分析因此相互促进。"
+    }
+   ]
+  },
+  "chapter-039-slug-4-10-signed-language-phonology": {
+   "title": {
+    "en": "4.10 Signed language phonology",
+    "zh": "4.10 手语音系学"
+   },
+   "summary": {
+    "en": "Signed languages have fundamentally different modalities from spoken languages, so it is unclear whether they have fully productive phonological rules of the spoken kind. The section explains why such rules may be absent, then describes several rule-like processes that affect individual two-handed signs: weak hand freeze, weak hand drop, lowering, and shifts in the joints used, called distalization and proximalization.",
+    "zh": "手语与口语的模态根本不同，因此手语是否具有口语那种完全能产的音系规则尚不确定。本节解释这类能产规则可能缺失的原因，并介绍若干作用于个别双手手势的类规则过程：弱手冻结、弱手脱落、下移，以及所使用关节的转移，即远端化与近端化。"
+   },
+   "points": [
+    {
+     "en": "Spoken phonological rules are fully productive, applying to every form that meets the target and environment, with no exceptions.",
+     "zh": "口语的音系规则完全能产，只要满足目标与环境条件就一律适用，没有例外。"
+    },
+    {
+     "en": "Signed languages seem to lack such productive rules, perhaps because they have no unit between phonetic properties and syllables or whole signs.",
+     "zh": "手语似乎没有这类能产规则，原因或许在于其语音特征与音节或整个手势之间不存在中间单位。"
+    },
+    {
+     "en": "Rule-like processes in signed languages affect only individual signs; two-handed signs are especially prone because they demand complex articulation.",
+     "zh": "手语中类规则的过程只影响个别手势；双手手势因发音复杂而尤其容易发生变化。"
+    },
+    {
+     "en": "Weak hand freeze stops the nondominant hand from moving, while weak hand drop omits it altogether and so resembles deletion.",
+     "zh": "弱手冻结使非优势手停止运动，弱手脱落则完全不用该手，因此类似脱落。"
+    },
+    {
+     "en": "Lowering articulates a sign at a lower location, and distalization or proximalization shifts which joints along the arm are used.",
+     "zh": "下移把手势改在较低的位置发出；远端化或近端化则改变手臂上所使用的关节。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "modality",
+     "zh": "模态",
+     "defEn": "The channel through which a language is expressed, spoken or signed.",
+     "defZh": "语言借以表达的通道，分为口语的听觉—发声模态与手语的视觉—手势模态。"
+    },
+    {
+     "en": "handshape",
+     "zh": "手形",
+     "defEn": "One of the parameters of a sign, describing the configuration of the hand.",
+     "defZh": "手语的参数之一，指打手势时手部所呈现的具体形状或构型。"
+    },
+    {
+     "en": "weak hand freeze",
+     "zh": "弱手冻结",
+     "defEn": "A process in which the nondominant hand of a two-handed sign stops moving.",
+     "defZh": "在双手手势中，非优势手（弱手）停止运动而不随之移动的过程。"
+    },
+    {
+     "en": "weak hand drop",
+     "zh": "弱手脱落",
+     "defEn": "A process that omits the nondominant hand of a two-handed sign entirely.",
+     "defZh": "完全省略双手手势中非优势手（弱手）的过程，可视为一种脱落。"
+    },
+    {
+     "en": "distalization",
+     "zh": "远端化",
+     "defEn": "A shift of the joints used in a sign toward the fingers.",
+     "defZh": "手语中手势所用关节向手指方向移动，即更靠近手部末端的现象。"
+    },
+    {
+     "en": "proximalization",
+     "zh": "近端化",
+     "defEn": "A shift of the joints used in a sign up the arm toward the shoulder.",
+     "defZh": "手势所用关节沿手臂向肩部方向移动，即更靠近躯干的现象。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "ASL SENTENCE (two-handed movement) vs. SENTENCE (with weak hand freeze)",
+     "noteEn": "The two-handed ASL sign SENTENCE has one form where the nondominant hand moves and one where it is frozen.",
+     "noteZh": "ASL 手势 SENTENCE 有两种双手形式：一种非优势手随之运动，另一种非优势手被冻结。"
+    },
+    {
+     "text": "ASL CHOOSE (two-handed) vs. CHOOSE (with weak hand drop)",
+     "noteEn": "This ASL sign has a two-handed version with an immobile nondominant hand and a one-handed version.",
+     "noteZh": "该 ASL 手势既有非优势手静止的双手形式，也有省略该手的单手形式。"
+    },
+    {
+     "text": "ASL KNOW (at forehead) vs. KNOW (with lowering)",
+     "noteEn": "The ASL sign KNOW is made at the forehead but may be lowered to a position under the eyes.",
+     "noteZh": "ASL 手势 KNOW 通常在额头处打出，但也可下移到眼睛下方。"
+    },
+    {
+     "text": "ASL CHAT (proximal) vs. CHAT (distal)",
+     "noteEn": "One variant of CHAT uses elbow and shoulder movement, the other uses radioulnar movement.",
+     "noteZh": "CHAT 的一种变式使用肘部与部分肩部运动，另一种使用桡尺关节运动。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Signed languages differ from spoken languages in modality, which raises the question of whether they have phonological rules at all. They do have rule-like processes, but not of the same kind. Phonological rules in spoken languages are fully productive: a French sonorant devoicing rule applies to every sonorant in the right environment, without exception. Signed languages appear to lack rules of this sort.",
+     "zh": "手语与口语在模态上根本不同，因此手语是否具有音系规则成为一个问题。手语确有类规则的过程，但性质并不相同。口语的音系规则是完全能产的：法语的响音清化规则适用于处在正确环境中的每一个响音，毫无例外。手语似乎没有这类规则。"
+    },
+    {
+     "en": "One explanation is that signed languages may have no levels of analysis equivalent to phonemes and phones. They have parameters such as handshape and movement, and syllable-like structures, but perhaps nothing in between. In a spoken language a combination of phonetic properties yields just a phone, whereas in a signed language a similar combination already yields a syllable or a whole sign. There may therefore be no suitable unit for phonological rules to target.",
+     "zh": "一种解释是，手语可能没有相当于音位和音素的层面。手语有手形、运动等参数，也有类似音节的结构，但二者之间或许空无一物。在口语中，若干语音特征的组合只形成一个音素；而在手语中，类似的组合已经构成一个音节乃至整个手势。因此，可能并不存在适合音系规则作用的单位。"
+    },
+    {
+     "en": "Nevertheless, signed languages show processes that behave somewhat like rules, except that they affect individual signs rather than every sign meeting the conditions. Two-handed signs are frequent targets because they require so much articulatory effort and coordination. In weak hand freeze, the nondominant hand of a moving two-handed sign stops moving. In weak hand drop, an immobile nondominant hand is simply not used, which amounts to a kind of deletion. Lowering places a sign at a lower location, as when KNOW moves from the forehead to under the eyes.",
+     "zh": "尽管如此，手语仍表现出一些与规则相似的过程，只不过它们只影响个别手势，而非所有符合条件的手势。双手手势需要大量的发音努力与协调，因而常成为作用对象。弱手冻结指在双手均移动的手势中，非优势手停止运动。弱手脱落则完全不使用静止的非优势手，相当于一种脱落。下移把手势改在较低位置发出，例如 KNOW 由额头移到眼睛下方。"
+    },
+    {
+     "en": "Signs can also change which joints are involved. A shift down the arm toward the fingers is distalization; a shift up toward the shoulder is proximalization. Without knowing a sign's original form, it may be hard to decide which process produced two observed variants. The ASL sign CHAT, for instance, has a more proximal variant using elbow and a little shoulder movement and a more distal variant using radioulnar movement. Modality thus shapes what a phonology can contain, and signed languages must be analyzed in their own right.",
+     "zh": "手势还可以改变所使用的关节。关节沿手臂向手指方向下移称为远端化，向肩部方向上移称为近端化。若不知道手势的原始形式，往往难以判断两个变式由哪一种过程造成。例如 ASL 手势 CHAT 既有使用肘部与少量肩部运动的较近端变式，也有使用桡尺关节运动的较远端变式。模态由此决定了音系能够包含什么，手语必须按其自身特点来分析。"
+    }
+   ]
+  }
+ }
+}

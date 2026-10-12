@@ -1,0 +1,95 @@
+{
+ "batch": 54,
+ "sections": {
+  "chapter-124-slug-10-9-sociolinguistic-correlations-ethnicity": {
+   "title": {"en": "10.9 Sociolinguistic correlations: Ethnicity", "zh": "10.9 社会语言学的相关因素：族群"},
+   "summary": {
+    "en": "Ethnicity, like gender, is socioculturally complex, and language and ethnicity are often co-constitutive. Because people tend to interact mostly with co-ethnics, ethnically homogeneous social networks give rise to ethnolects. The case of Lumbee English shows how a unique mix of shared and unique features can document a community's long history of language use.",
+    "zh": "与性别一样，族群在社会文化与语言层面都很复杂，语言与族群常常互相界定、互为构成。由于人们大多与同族群成员往来，族群同质的社会网络催生了族群方言。北卡罗来纳州伦比人的英语正是例证：它由与邻近方言共享的特征和自身独有的特征混合而成，可用来证明该社群长期使用英语的历史。"
+   },
+   "points": [
+    {"en": "Language and ethnicity are mutually defining, so the boundaries of languages often mirror ethnic group boundaries.", "zh": "语言与族群互相界定，因此语言之间的分界往往映照出族群之间的分界。"},
+    {"en": "People usually live near co-ethnics, producing ethnically homogeneous social networks and, in turn, ethnolects.", "zh": "人们通常与同族群的人比邻而居，形成族群同质的社会网络，进而产生族群方言。"},
+    {"en": "The Lumbee Tribe of North Carolina is the largest Indigenous group east of the Mississippi River.", "zh": "北卡罗来纳州的伦比部落是密西西比河以东规模最大的原住民群体。"},
+    {"en": "Lumbee English mixes features shared with neighbours with features unique to the community, notably perfective be.", "zh": "伦比英语既包含与邻近群体共享的特征，也包含本社群独有的特征，其中最突出的是完成体 be。"},
+    {"en": "Consonant cluster reduction and was/were levelling both show conditioning patterns unique to Lumbee English.", "zh": "辅音丛简化和 was/were 拉平在伦比英语中都呈现出独有的制约模式。"}
+   ],
+   "terms": [
+    {"en": "ethnolect", "zh": "族群方言", "defEn": "A variety of an ambient standardized community language used by a minoritized ethnic group.", "defZh": "被少数化的族群所使用的、当地主流（标准化）社区语言的一种变体。"},
+    {"en": "perfective be", "zh": "完成体 be", "defEn": "Use of be rather than have as the auxiliary marking perfect aspect with certain main verbs.", "defZh": "某些主动词用 be 而非 have 作助动词来标记完成体。"},
+    {"en": "consonant cluster reduction", "zh": "辅音丛简化", "defEn": "Variation between complex codas and reduced codas, as in disk realized as [dɪsk] or [dɪs].", "defZh": "复杂韵尾与简化韵尾之间的变项，如 disk 可读作 [dɪsk] 或 [dɪs]。"},
+    {"en": "was/were levelling", "zh": "was/were 拉平", "defEn": "The variable realization of were as was, as in we were/was and they weren't/wasn't.", "defZh": "were 可变地实现为 was，如 we were/was 与 they weren't/wasn't。"},
+    {"en": "complementizer", "zh": "标句词", "defEn": "An element introducing an embedded clause, here the 'for to' complementizer of Lumbee English.", "defZh": "引导嵌入小句的成分，此处指伦比英语的 for to 标句词。"},
+    {"en": "federal recognition", "zh": "联邦承认", "defEn": "Formal tribal status granted by the US Government, for which the Lumbee have long petitioned.", "defZh": "美国联邦政府授予的正式部落地位，伦比人长期为此请愿。"}
+   ],
+   "examples": [
+    {"text": "I want for to get it", "noteEn": "Lumbee English 'for to' complementizer, shared only with Appalachian English among nearby varieties.", "noteZh": "伦比英语的 for to 标句词，在附近变体中只与阿巴拉契亚英语共享。"},
+    {"text": "she bes there", "noteEn": "Finite be, a feature Lumbee English shares only with its Anglo-American neighbours.", "noteZh": "限定性 be，这一特征在伦比英语中只与邻近的英裔美国人共享。"},
+    {"text": "If I ’m got a dollar, I ’m got it.", "noteEn": "Present-tense perfective be, which corresponds to standard English [have got] in this example.", "noteZh": "现在时完成体 be，对应标准英语的 [have got]。"},
+    {"text": "Sie hat ihren hund mitgebracht", "noteEn": "German still alternates have and be in the perfect, as Lumbee English does.", "noteZh": "德语在完成体中仍交替使用 have 与 be，与伦比英语相似。"}
+   ],
+   "body": [
+    {"en": "Ethnicity, like gender, is socioculturally complex, and language and ethnicity are often co-constitutive: the line between two languages is drawn with reference to the groups who speak them, while a group is often identified by the language it uses. Czech and Slovak are mutually intelligible yet treated as distinct languages. People tend to live near co-ethnics, so social networks are often homogeneous, and since speakers use language much as their most frequent interlocutors do, ethnolects emerge: varieties of an ambient standardized language used by a minoritized ethnic group. In North America that standard is ideologically tied to whiteness and European settlers.", "zh": "与性别一样，族群在社会文化层面十分复杂，语言与族群常常互为构成：两种语言的分界是参照使用它们的群体来划定的，而一个群体又常常凭借其使用的语言来界定。捷克语与斯洛伐克语可以互相听懂，却被视为不同族群的不同语言。人们往往与同族群的人住得很近，因此社会网络常常是同质的；又由于说话人使用语言的方式与交往最频繁的人相似，族群方言便应运而生：它是被少数化的族群所使用的、当地主流标准化语言的一种变体。在北美洲，这种标准在意识形态上与白人性及欧洲移民相关联。"},
+    {"en": "The Lumbee Tribe of North Carolina, with 45 000 members, is the largest Indigenous group east of the Mississippi River. Most Lumbee live in Robeson County, a multiethnic area that is 40% Lumbee, 35% Anglo-American and 25% African American. The Lumbees have state-recognized status but lack federal recognition, and their petitions have failed for nearly a century and a half. A key obstacle is language history: knowledge of an ancestral language is evidence of descent, but the Lumbee were documented speaking English as early as 1730. Sociolinguists therefore document the uniqueness and time depth of Lumbee English.", "zh": "北卡罗来纳州的伦比部落有 45 000 名成员，是密西西比河以东最大的原住民群体。大多数伦比人住在罗伯逊县，这是一个多族群地区：40% 为伦比人，35% 为英裔美国人，25% 为非洲裔美国人。伦比人拥有北卡罗来纳州承认的地位，却未获联邦承认，其请愿在近一个半世纪里屡屡失败。一大障碍是语言史：掌握祖先语言是证明世系的关键证据，但有文献记载，伦比人早在 1730 年就已使用英语。于是社会语言学家着手记录伦比英语的独特性与时间深度。"},
+    {"en": "Many features of Lumbee English are shared with neighbouring varieties, yet the combination is unique: /aɪ/ is raised and backed to [ɑ̝ɪ]; the 'for to' complementizer is shared only with Appalachian English; finite be only with Anglo-American neighbours. Perfective be is distinctive, for standard English once alternated be and have in the perfect depending on the main verb, as German still does. Lumbee English retains it in present and past tenses, and past-tense perfective be is unique to the community, suggesting very long use of English there. Consonant cluster reduction, as in disk realized [dɪsk] or [dɪs], and was/were levelling are shared variables, but Lumbee English conditions both in its own way.", "zh": "伦比英语的许多特征与邻近方言共享，但这些特征的组合却是独一无二的：/aɪ/ 被抬高并后移为 [ɑ̝ɪ]；for to 标句词只与阿巴拉契亚英语共享；限定性 be 只与英裔美国邻居共享。完成体 be 独具特色：标准英语一度依主动词不同而在完成体中交替使用 be 与 have，德语至今如此；伦比英语在现在时和过去时中都保留了它，而过去时的完成体 be 是该社群独有的，说明当地使用英语的历史非常悠久。辅音丛简化（如 disk 读作 [dɪsk] 或 [dɪs]）与 was/were 拉平虽为共享变项，但伦比英语对二者的制约方式自成一套。"}
+   ]
+  },
+  "chapter-125-slug-10-10-three-waves-of-sociolinguistics": {
+   "title": {"en": "10.10 Three waves of sociolinguistics", "zh": "10.10 社会语言学的三次浪潮"},
+   "summary": {
+    "en": "Eckert (2012) distinguishes three waves in variationist sociolinguistics: correlating variation with macro-social facts, attending to locally relevant social categories, and emphasising speakers' agency and the social meaning of variation. Kiesling's study of fraternity men illustrates the third wave, showing how the non-standard [ɪn] variant expresses stances and reshapes the context.",
+    "zh": "埃克特（2012）把变异社会语言学划分为三次浪潮：将变异与宏观社会事实相关联、关注地方性相关的社会范畴，以及强调说话人的能动性与变异的社会意义。基斯林对大学兄弟会成员的研究体现了第三次浪潮，说明非标准变体 [ɪn] 如何表达立场并重塑语境。"
+   },
+   "points": [
+    {"en": "First-wave variationists correlated linguistic variation with macro-sociodemographic facts about participants.", "zh": "第一次浪潮的变异研究者把语言变异与受试者的宏观社会人口特征相关联。"},
+    {"en": "Second-wave work showed locally relevant facts, such as high school cliques, can predict linguistic behaviour better than class.", "zh": "第二次浪潮表明，高中小团体之类地方性相关事实比社会阶级更能预测语言行为。"},
+    {"en": "The third wave foregrounds speakers' agency and the social meanings constructed through variation.", "zh": "第三次浪潮突出说话人的能动性以及通过变异建构的社会意义。"},
+    {"en": "Kiesling found three fraternity men used more non-standard [ɪn] in formal meetings, expressing stances and reframing the event.", "zh": "基斯林发现三名兄弟会成员在正式会议上更多使用非标准 [ɪn]，以表达立场并重塑活动氛围。"},
+    {"en": "Non-standard speech indexes working class toughness, which in turn indexes dominance or, alternatively, solidarity.", "zh": "非标准言语指涉工人阶级的强硬，进而指涉支配地位，或者反过来指涉团结一致。"}
+   ],
+   "terms": [
+    {"en": "variationist sociolinguistics", "zh": "变异社会语言学", "defEn": "The subfield studying the link between language and society through patterns of linguistic variation.", "defZh": "通过语言变异的模式来研究语言与社会之间关系的分支学科。"},
+    {"en": "first wave", "zh": "第一次浪潮", "defEn": "Work correlating variation with macro-sociodemographic facts and pre-existing social stratification.", "defZh": "把变异与宏观社会人口事实及既有的社会分层相关联的研究。"},
+    {"en": "second wave", "zh": "第二次浪潮", "defEn": "Work recognising that locally relevant facts about speakers also shape linguistic variation.", "defZh": "承认说话人的地方性相关事实同样塑造语言变异的研究。"},
+    {"en": "third wave", "zh": "第三次浪潮", "defEn": "The current paradigm emphasising speakers' agency and the social meaning of variation.", "defZh": "当前范式，强调说话人的能动性以及变异所承载的社会意义。"},
+    {"en": "variable -ing", "zh": "-ing 变项", "defEn": "The alternation between standard [ɪŋ] and non-standard [ɪn] in words like socializing or meetings.", "defZh": "socializing、meetings 等词中标准式 [ɪŋ] 与非标准式 [ɪn] 之间的交替。"},
+    {"en": "covert prestige", "zh": "隐性声望", "defEn": "The positive value attached to non-standard variants within a community, discussed in section 10.8.", "defZh": "社群内部赋予非标准变体的正面价值，第 10.8 节曾讨论。"}
+   ],
+   "examples": [
+    {"text": "You guys know I’m a fuckin’ hard worker. I work my ass off for everything.", "noteEn": "A fraternity member pitching for election while expressing a working class persona.", "noteZh": "一名兄弟会成员在竞选演说中表达工人阶级形象。"},
+    {"text": "And I’m not gonna pay this fuckin’ money. All right?", "noteEn": "The fraternity president uses non-standard forms to express a confrontational stance.", "noteZh": "兄弟会主席使用非标准形式来表达对抗性的立场。"},
+    {"text": "Maisie uses a high rate of the standardized [ɪŋ] variant because she is a young, white, middle class, woman.", "noteEn": "A first-wave interpretation that links variation directly to macro-social categories.", "noteZh": "第一次浪潮式的解读，把变异直接关联到宏观社会范畴。"}
+   ],
+   "body": [
+    {"en": "Recent variationist work does not merely explain variation by social factors; it asks how variation expresses and constructs socially meaningful distinctions. Penelope Eckert (2012) identified three waves. First-wave variationists correlated variation with macro-sociodemographic facts, treating patterns as products of existing stratification. Second-wave researchers recognised that locally relevant facts matter just as much: a high school student's clique may predict linguistic behaviour better than social class. In the current third wave the paradigm has shifted to speakers' agency and the social meaning of variation, asking how individuals use variation to construct their position in society and how variables combine into styles signalling many social meanings.", "zh": "晚近的变异研究不再仅仅用社会因素解释变异，而是追问变异如何表达并建构具有社会意义的分野。佩内洛普·埃克特（2012）指出该领域有三次浪潮。第一次浪潮的变异研究者把变异与宏观社会人口事实相关联，视变异模式为既有社会分层的产物。第二次浪潮认识到，地方性相关的事实同样重要：高中生所属的小团体或许比社会阶级更能预测其语言行为。当前的第三次浪潮则转向说话人的能动性与变异的社会意义，追问个人如何用变异建构社会位置，以及变项如何组合成传达多种社会意义的风格。"},
+    {"en": "Scott Kiesling's (1998) study of fraternity men exemplifies the third wave. He recorded members of an American university fraternity while socialising and during formal meetings run by parliamentary procedure. The men used far more non-standard [ɪn] when socialising, but three members reversed this pattern and used more [ɪn] in the formal context. Kiesling found the variant carrying stance and identity. One member campaigning for the executive council presented himself as a hard-working, working class man who tells it like it is; his [ɪn] expressed that persona and reframed the meeting as camaraderie. The fraternity president used more [ɪn] in meetings to express a confrontational stance.", "zh": "斯科特·基斯林（1998）对兄弟会成员的研究是第三次浪潮的范例。他记录了美国一所大学兄弟会成员在社交场合和由议事程序主导的正式会议上的言语。这些人在社交时使用非标准 [ɪn] 远多于会议，但有三名成员相反，在正式场合更多使用 [ɪn]。基斯林发现该变体承载着立场与身份。一名竞选执行委员会职位的成员把自己呈现为勤奋、直言的工人阶级男性，他用 [ɪn] 表达这种形象，并把会议气氛重塑为同袍情谊。兄弟会主席则用更多的 [ɪn] 表达对抗性立场。"},
+    {"en": "Kiesling links these uses to the cultural discourse of dominance: to be a man is to be strong and authoritative. Dominance is readily expressed through real authority and power, so working class men, who often lack these, must express it through physical means. Men draw on this association when using non-standard variants, as covert prestige suggests: non-standard speech indexes working class toughness, which indexes dominance. The president illustrates this, while the campaigning speaker signalled solidarity. Maisie uses a high rate of [ɪŋ] because she is young, white, middle class and a woman (first wave), because she is a 'jock' (second wave), or because she constructs an educated identity (third wave).", "zh": "基斯林把这些用法与关于支配的文化话语联系起来：做男人就要坚强而有权威。支配最容易通过真实的权威与权力表达，因此往往缺乏这些的工人阶级男性只能借助身体手段来表现。男性在使用非标准变体时都调用了这种联想，正如隐性声望所示：非标准言语指涉工人阶级的身体强硬，进而指涉支配。主席正是如此，而那位竞选者表达的是团结。三次浪潮对同一份数据的解读也不同：梅茜高频使用 [ɪŋ]，第一次浪潮解释为她年轻、白人、中产阶级且是女性，第二次浪潮解释为她属于“运动型”群体，第三次浪潮则解释为她借此建构受过教育的身份。"}
+   ]
+  },
+  "chapter-126-slug-10-11-summary": {
+   "title": {"en": "10.11 Summary", "zh": "10.11 小结"},
+   "summary": {
+    "en": "Variationist sociolinguistics examines linguistic variables, the multiple ways of doing the same thing, to link language and society. It has revealed facts about linguistic structure, social structure and language change, and it differs from dialectology in its data, methods and social range. Early work sought correlations with social factors; modern work focuses on speakers' agentive use of variation for identity work.",
+    "zh": "变异社会语言学研究语言变项，即做同一件事的多种方式，以此连接语言与社会。它揭示了关于语言结构、社会结构与语言变化的事实，并在数据、方法与社会范围上区别于方言学。早期研究寻求变异与社会因素的相关，现代研究则关注说话人能动地运用变异进行身份建构。"
+   },
+   "points": [
+    {"en": "Linguistic variables, two or more ways of doing the same thing, are the primary object of study.", "zh": "语言变项，即做同一件事的两种或更多方式，是主要研究对象。"},
+    {"en": "Variables occur in all varieties and all domains of language, from phonetics to pragmatics.", "zh": "变项存在于一切语言变体和一切语言领域之中，从语音到语用。"},
+    {"en": "The field diverged from dialectology in data, quantitative methods and its full social range of speakers.", "zh": "该领域在数据、定量方法以及覆盖全部社会范围的说话人方面与方言学分道扬镳。"},
+    {"en": "This chapter treated style, place, social status, gender and ethnicity, though many more factors matter.", "zh": "本章讨论了风格、地点、社会地位、性别与族群，但重要因素远不止这些。"},
+    {"en": "Modern approaches ask how people use variation for identity work, aligning with or distancing from others.", "zh": "现代研究路径追问人们如何用变异做身份建构，与他人结盟或疏远。"}
+   ],
+   "terms": [
+    {"en": "linguistic variable", "zh": "语言变项", "defEn": "Two or more ways of doing the same thing, the primary object of variationist study.", "defZh": "做同一件事的两种或更多方式，是变异研究的主要对象。"},
+    {"en": "variant", "zh": "变式", "defEn": "One of the alternative realizations that a linguistic variable may take.", "defZh": "某一语言变项在实际言语中可能采取的几种交替实现形式之一。"},
+    {"en": "sociolinguistic interview", "zh": "社会语言学访谈", "defEn": "A recording method characteristic of variationist fieldwork data collection.", "defZh": "变异社会语言学田野调查中用于收集自然口语数据的代表性录音方法。"},
+    {"en": "NORMS", "zh": "NORMS（非流动年长男性乡村说话人）", "defEn": "Non-mobile older rural males, the traditional dialectological informants the field moved beyond.", "defZh": "非流动的年长乡村男性，即该领域已超越的传统方言学调查对象。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "Variationist sociolinguistics investigates the link between language and society by examining linguistic variation. Its primary object is the linguistic variable: two or more ways of doing the same thing. Variables are found in every variety and every domain of language, from phonetics to pragmatics. By studying the patterns between the variants of a variable and their sociocultural context, the field has uncovered facts about linguistic structure, social structure and the process of language change. It has roots in dialectology but became distinct in its data (sociolinguistic interviews and corpora), its analytic methods (quantitative and statistical techniques) and its focus, which extends to language in use across the whole social range of a speech community rather than only NORMS.", "zh": "变异社会语言学通过考察语言变异来研究语言与社会之间的联系。它的主要对象是语言变项，即做同一件事的两种或更多方式。变项存在于一切语言变体和一切语言领域之中，从语音到语用。通过研究变项各变式与其社会文化语境之间的模式，该领域揭示了关于语言结构、社会结构以及语言变化过程的事实。它源于方言学，但在数据（社会语言学访谈与语料库）、分析方法（定量与统计技术）以及关注点上都已独立：它扩展到对整个言语社群全部社会范围内使用中的语言的研究，而不局限于 NORMS。"},
+    {"en": "This chapter considered several sociocultural factors: style, place, social status, gender and ethnicity. Many further factors have also proved important for understanding variation. Early variationist research tried to explain variation by finding correlations between social factors and patterns of variation. Modern approaches instead focus on how people agentively use language and linguistic variation for identity work, to align with or disalign from others, and to shape and reshape the social context.", "zh": "本章讨论了几种社会文化因素：风格、地点、社会地位、性别与族群。此外还有许多因素被证明对理解变异十分重要。早期的变异研究试图通过寻找社会因素与变异模式之间的相关来解释变异。现代路径则转而关注人们如何能动地运用语言和语言变异来进行身份建构，与他人结盟或疏远，并塑造和重塑社会语境。"}
+   ]
+  }
+ }
+}

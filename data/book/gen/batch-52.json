@@ -1,0 +1,109 @@
+{
+ "batch": 52,
+ "sections": {
+  "chapter-118-slug-10-3-language-changes": {
+   "title": {"en": "10.3 Language changes", "zh": "10.3 语言变化"},
+   "summary": {
+    "en": "All languages change over time, and change always brings a period of sociolinguistic variation, since old and new variants coexist while one gradually displaces the other. Sociolinguists analyze change through real time and apparent time comparisons and distinguish changes from above, driven by social awareness, from changes from below, driven by internal pressures.",
+    "zh": "所有语言都在不断变化，而变化过程中必然伴随社会语言学的变异，因为新旧变式会在一段时期内并存，随后一方逐步取代另一方。社会语言学家用实时分析与显时分析来考察变化，并把发生于社会意识层面的来自上方的变化与源于系统内部压力的来自下方的变化区分开来。"
+   },
+   "points": [
+    {"en": "English, Japanese and all languages keep changing, so today's speakers differ from those of earlier centuries.", "zh": "英语、日语以及所有语言都在持续变化，今人的语言不同于数百年前作者的用法。"},
+    {"en": "Every change in progress passes through a period of variation, though stable variation need not lead to change.", "zh": "进行中的变化都要经历变异阶段，但稳定变异并不必然导致语言变化。"},
+    {"en": "Real time analysis compares the same community at two periods; apparent time analysis compares older and younger speakers.", "zh": "实时分析比较同一社区在两个时期的数据；显时分析则比较年长者与年轻者的语言。"},
+    {"en": "Apparent time rests on the claim that individual grammars stabilize in late adolescence, around age 18.", "zh": "显时分析依据的是个人语法在青春期后期（约十八岁）趋于稳定的论断。"},
+    {"en": "Changes from above occur above social awareness and usually import a prestigious or standardized variant.", "zh": "来自上方的变化发生在社会意识层面之上，通常引入有威望或标准化的变式。"},
+    {"en": "Changes from below arise from articulatory or grammatical pressures that speakers are generally unaware of.", "zh": "来自下方的变化源于发音或语法系统的内部压力，说话人通常意识不到。"}
+   ],
+   "terms": [
+    {"en": "linguistic variable", "zh": "语言变项", "defEn": "A linguistic item with variants whose choice is subject to social and linguistic conditioning.", "defZh": "具有多个变式、其选择受社会与语言因素制约的语言项目。"},
+    {"en": "real time analysis", "zh": "实时分析", "defEn": "Comparing data representing the same community at two different periods of time.", "defZh": "比较代表同一言语社区在两个不同时期的数据，以判断变化是否发生。"},
+    {"en": "apparent time analysis", "zh": "显时分析", "defEn": "Inferring change by comparing the language of older and younger speakers in one period.", "defZh": "在同一时期比较年长与年轻说话人的语言，从而推断语言变化。"},
+    {"en": "change from above", "zh": "来自上方的变化", "defEn": "A change taking place above the level of social awareness, often adopting a prestigious variant.", "defZh": "发生在社会意识层面之上的变化，常表现为采用社区外有威望的变式。"},
+    {"en": "change from below", "zh": "来自下方的变化", "defEn": "A change driven by articulatory or grammatical pressures speakers are generally unaware of.", "defZh": "由发音或语法系统内部压力驱动的变化，说话人一般并未察觉。"},
+    {"en": "stable variation", "zh": "稳定变异", "defEn": "A situation where two or more variants coexist without one replacing the other.", "defZh": "两个或多个变式并存、彼此并未相互取代的变异状态。"}
+   ],
+   "examples": [
+    {"text": "[kʰɒət] and [stɒə]", "noteEn": "The older r-less pronunciations of cart and star in New York City English.", "noteZh": "纽约市英语中 cart 与 star 较早的无 r 发音。"},
+    {"text": "[kʰɒɹt] and [stɒɹ]", "noteEn": "The newer, prestigious r-full variants that spread into New York City English.", "noteZh": "后来进入纽约市英语、带威望的 r 音变式。"},
+    {"text": "[u] ... [ʉ] or even [y]", "noteEn": "The Canadian English goose vowel moving frontward in the vowel space.", "noteZh": "加拿大英语 goose 元音在元音空间中不断前移。"},
+    {"text": "move not", "noteEn": "The older English negative pattern gradually replaced by do not move.", "noteZh": "英语中较旧的否定形式，逐渐被 do not move 取代。"}
+   ],
+   "body": [
+    {"en": "All languages change over time. English speakers today do not talk like the authors of Beowulf, The Canterbury Tales or Hamlet, and Japanese speakers likewise differ from the authors of the Kojiki and the Genji Monogatari. Every language has changed and continues to evolve. Change matters to variationist sociolinguistics because variation always accompanies change in progress: the shift from move not to do not move was gradual, and during the transition both options were variants of one linguistic variable. Stable variation allows variants to coexist without replacement, but every change in progress passes through a period of sociolinguistic variation.", "zh": "所有语言都在随时间变化。今天的英语使用者不会像《贝奥武夫》《坎特伯雷故事集》或《哈姆雷特》的作者那样说话，今天的日语使用者也不同于《古事记》和《源氏物语》的作者。每种语言都已改变，并且仍在演变。变化对变异社会语言学很重要，因为进行中的变化总是伴随着变异：从 move not 到 do not move 的转变是渐进的，过渡期内两种形式是同一个语言变项的变式。稳定变异允许若干变式并存而不相互取代，但每一种进行中的变化都必然经历一个社会语言学变异期。"},
+    {"en": "To analyze change, researchers may use real time analysis, comparing data from the same community at two different periods; a difference in variant frequency indicates that a change has taken or is taking place. When older data are unavailable, apparent time analysis compares older and younger people instead, relying on the observation that grammars stabilize in late adolescence. The variable patterning we have at about 18 generally stays with us, even though we keep learning new words.", "zh": "分析变化时，研究者可以采用实时分析，比较同一言语社区在两个不同时期的数据；如果变式的使用频率出现差异，就说明变化已经发生或正在发生。若缺少较早的数据，则可改用显时分析，比较年长者与年轻人的语言，其依据是个人语法在青春期后期趋于稳定。大约十八岁时形成的语言变项模式通常伴随我们一生，尽管我们仍会不断学到新词。"},
+    {"en": "Sociolinguists also distinguish two kinds of change. Changes from above occur above the level of social awareness and typically involve adopting a prestigious or standardized variant from outside the community; the importation of r-fulness into New York City English is a classic case, as newer r-full forms gradually competed with and stigmatized the older r-less ones. Changes from below reflect articulatory or grammatical pressures within a system that speakers are generally unaware of, such as the Canadian English goose vowel moving toward the front of the vowel space.", "zh": "社会语言学家还区分两类变化。来自上方的变化发生在社会意识层面之上，通常表现为从社区外部引入有威望或标准化的变式；带 r 的发音进入纽约市英语就是一个经典例子，较新的 r 音形式逐渐与较旧的无 r 形式竞争，并使后者日益受到污名化。来自下方的变化则反映语言系统内部发音或语法压力的作用，说话人通常毫无察觉，例如加拿大英语中 goose 的元音不断向元音空间前部移动。"},
+    {"en": "Just as every language exhibits variation, every language also changes over time. Because change necessarily involves variation, variationist sociolinguists study changes in progress alongside stable variation.", "zh": "正如每种语言都表现出变异，每种语言也都会随时间变化。由于变化必然涉及变异，变异社会语言学家既研究稳定变异，也研究进行中的变化。"}
+   ]
+  },
+  "chapter-119-slug-10-4-language-conveys-more-than-semantic-meaning": {
+   "title": {"en": "10.4 Language conveys more than semantic meaning", "zh": "10.4 语言传达的不只是语义"},
+   "summary": {
+    "en": "Language carries social meaning far beyond the semantic and pragmatic content of what is said. Forms of address, pronominal T/V distinctions, culturally variable interactional norms, contextual style and sociodemographic information all reveal social structure, power and identity, and speakers actively use variation to enact these meanings.",
+    "zh": "语言所承载的社会意义远超话语的语义和语用内容。称呼形式、代词性的 T/V 区分、受文化制约的互动规范、语境风格以及社会人口信息，都揭示出社会结构、权力关系与身份认同，而说话人也会主动运用变异来实施这些意义。"
+   },
+   "points": [
+    {"en": "Forms of address reflect and enact social rank, gender perception, power dynamics and formality of the interaction.", "zh": "称呼形式既反映也实施社会等级、性别认知、权力关系与互动正式程度。"},
+    {"en": "Many Indo-European languages mark a T/V distinction, familiar versus formal second person singular, with real social consequences.", "zh": "许多印欧语言区分亲昵与正式的第二人称单数 T/V，并带来现实的社会后果。"},
+    {"en": "Taboo topics and conversational styles are culturally variable, so Euro-American norms must not be treated as universals.", "zh": "禁忌话题与会话风格因文化而异，不能把欧美规范当作普遍标准。"},
+    {"en": "Fischer (1958) showed standardized [ɪŋ] was used far more in formal than in casual contexts, demonstrating style shifting.", "zh": "Fischer（1958）发现标准变式 [ɪŋ] 在正式语境中的使用远多于随意语境，从而展示了风格转换。"},
+    {"en": "Labov's attention-paid-to-speech model links formality to self-monitoring; audience design and speaker design models add other motivations.", "zh": "Labov 的注意力集中于言语模型把正式度与自我监控联系起来；受众设计模型与说话人设计模型补充了其他动因。"}
+   ],
+   "terms": [
+    {"en": "form of address", "zh": "称呼形式", "defEn": "A label used to refer to one's interlocutor, indexing rank and social circumstance.", "defZh": "用来指称交谈对象的称谓，标示社会等级与互动情境。"},
+    {"en": "T/V distinction", "zh": "T/V 区分", "defEn": "The contrast between familiar and formal second person singular pronouns, as in French tu and vous.", "defZh": "第二人称单数代词亲昵形式与正式形式的对立，如法语的 tu 与 vous。"},
+    {"en": "style shifting", "zh": "风格转换", "defEn": "Adjusting the frequency of variants according to the formality of the interactional context.", "defZh": "依据互动语境的正式程度调整各变式的使用频率。"},
+    {"en": "attention-paid-to-speech model", "zh": "注意力集中于言语模型", "defEn": "Labov's account linking formality and standardness to the degree of self-monitoring.", "defZh": "Labov 的解释，把正式程度与标准化程度同自我监控的强度联系起来。"},
+    {"en": "audience design model", "zh": "受众设计模型", "defEn": "Style shifting motivated by one's interlocutor or by people who might overhear.", "defZh": "由交谈对象或可能偷听的人所引发的风格转换。"},
+    {"en": "speaker design model", "zh": "说话人设计模型", "defEn": "Style shifting used to achieve interactional goals or highlight aspects of identity.", "defZh": "为达成互动目标或凸显身份认同的某些方面而进行的风格转换。"}
+   ],
+   "examples": [
+    {"text": "sir, I know you’re upset but generally we don’t add steamed milk to iced coffees", "noteEn": "The barista's initial polite form of address during the dispute.", "noteZh": "咖啡师在争执初期使用的礼貌称呼形式。"},
+    {"text": "listen buddy, it’s time for you to leave!", "noteEn": "The shift from sir to buddy signals that politeness will no longer be maintained.", "noteZh": "从 sir 转为 buddy，表明不再维持礼貌与正式的期待。"},
+    {"text": "using tu instead of vous", "noteEn": "A French speaker describes police address as part of degrading identity checks.", "noteZh": "一位法语使用者把警察使用 tu 而非 vous 视为侮辱性盘查的一部分。"},
+    {"text": "the boy used the standardized variant [ɪŋ] 97% of the time", "noteEn": "Fischer's most formal context, the psychological test, from his 1958 study.", "noteZh": "Fischer 1958 年研究中正式度最高的语境，即心理测试。"}
+   ],
+   "body": [
+    {"en": "Language reveals much about people, beyond the semantic and even pragmatic meaning of what is signed or spoken. Forms of address show how language both reflects and enacts social structure: in Canadian English, calling someone sir or buddy indexes perceived gender, the power dynamic between participants and the formality of the interaction. In a café dispute, a barista who moves from sir to buddy signals that the interactional context has changed and that the usual expectation of politeness has been abandoned.", "zh": "语言透露出关于人的各种信息，其中许多超出了所说出或打出手势的语义乃至语用含义。称呼形式表明语言既反映又实施社会结构：在加拿大英语中，称对方为 sir 还是 buddy，透露了说话人对其性别的认知、双方之间的权力关系以及互动的正式程度。在咖啡馆的一场争执中，咖啡师从 sir 改称 buddy，表明互动语境已经改变，与服务工作相伴的礼貌期待也被放弃。"},
+    {"en": "Many languages also encode social structure in pronominal reference. Numerous Indo-European languages distinguish a familiar, informal or lower-rank second person singular from a formal, polite or higher-rank one, the T/V distinction modeled on French tu and vous; Romance, Slavic and Germanic languages mark it. A French woman of Algerian immigrant roots described police who controlled her identity with tommy guns, racial insults and the use of tu instead of vous, placing that pronoun choice on the same level as symbolic and physical violence.", "zh": "许多语言还把社会结构编码进代词指称之中。不少印欧语言区分亲昵、随意或低等级的第二人称单数形式与正式、礼貌或高等级的形式，即仿照法语 tu 与 vous 的 T/V 区分；罗曼语、斯拉夫语和日耳曼语都标示这一区分，古英语和中古英语亦然。一位阿尔及利亚移民背景的法国女性描述警察用冲锋枪查验身份、以种族侮辱相待并使用 tu 而非 vous，把这一代词选择与象征暴力和人身暴力相提并论。"},
+    {"en": "Language also points to cultural values. What may be discussed, and with whom, is culturally determined, and conversational styles such as interactional overlap, tolerance for interruptions and eye-contact expectations vary culturally. Ball and Bernhardt (2008) observe that silence from a First Nations child, often read under Euro-American norms as ignorance or rudeness, may instead express respect for elders, so training a child by those norms could harm their connection with family culture.", "zh": "语言还指向文化价值。可以谈论什么、与谁谈论都由文化决定，而互动重叠的程度、对打断的容忍度、目光接触的期待等会话风格同样随文化而变。Ball 与 Bernhardt（2008）指出，原住民儿童的沉默在欧美规范下常被解读为无知或无礼，但实际上可能是对长辈的尊重，因此按这些规范来训练儿童，可能会损害其与家庭文化的联系。"},
+    {"en": "Contextual style is tied to the formality of interaction, which depends on the interlocutors' familiarity, their social similarity or difference and power relations, and the setting. Fischer's 1958 study of the -ing variable found one boy using standardized [ɪŋ] 97% of the time in a psychological test, 49% in a formal interview and 37% in an informal interview. Labov's attention-paid-to-speech model links formality and standardness to self-monitoring, while audience design and speaker design models explain shifts toward interlocutors or to identity goals.", "zh": "语境风格与互动的正式程度密切相关，而正式程度取决于交谈双方的熟悉程度、社会相似性或差异与权力关系以及互动情境。Fischer 1958 年对 -ing 变项的研究发现，一名男孩在心理测试中使用标准变式 [ɪŋ] 的比例为 97%，在正式访谈中降至 49%，在非正式访谈中仅为 37%。Labov 的注意力集中于言语模型把正式程度与标准化程度同自我监控联系起来；受众设计模型与说话人设计模型则解释人们为何向交谈对象靠拢，或为达成互动与身份目标而转换风格。"}
+   ]
+  },
+  "chapter-120-slug-10-5-variationist-methods-and-concepts": {
+   "title": {"en": "10.5 Variationist methods and concepts", "zh": "10.5 变异社会语言学的方法与概念"},
+   "summary": {
+    "en": "Variationist sociolinguistics grew out of dialectology but replaced the N.O.R.M. participant with a wider social range and a focus on urban speech. Its hallmarks are the sociolinguistic interview, which uses tasks to vary self-monitoring and to approach the vernacular despite the observer's paradox, and the Principle of Accountability in quantitative analysis.",
+    "zh": "变异社会语言学脱胎于方言学，但不再局限于 N.O.R.M. 式发音人，而将社会范围大大拓宽并聚焦城市语言。其标志性方法是社会语言学访谈，通过不同任务调节自我监控程度并设法接近本真语体，同时应对观察者悖论；另一标志是量化分析中的问责原则。"
+   },
+   "points": [
+    {"en": "Early dialectology preferred the N.O.R.M. participant, leaving urban, mobile, young and female speakers under-researched.", "zh": "早期方言学偏好 N.O.R.M. 式发音人，使城市、流动、年轻及女性说话人长期缺乏研究。"},
+    {"en": "Variationist sociolinguistics, sometimes called urban dialectology, widened the social factors considered beyond place.", "zh": "变异社会语言学又称城市方言学，把考察的社会因素从地域扩展到更广的范围。"},
+    {"en": "The sociolinguistic interview combines a Minimal Pairs task, a Reading Passage and Casual Speech to vary self-monitoring.", "zh": "社会语言学访谈结合最小对立对任务、朗读短文与随意话语，以调节自我监控的程度。"},
+    {"en": "The vernacular is unmonitored language, and the observer's paradox names the difficulty of recording it.", "zh": "本真语体是未受监控的语言，而观察者悖论正是指出记录它的困难。"},
+    {"en": "Many interviews from a representative, socially-stratified sample form a sociolinguistic corpus for quantitative study.", "zh": "来自有代表性、社会分层的样本的多次访谈构成社会语言学语料库，供量化研究使用。"},
+    {"en": "The Principle of Accountability requires counting a variant against all variants of the variable that could have occurred.", "zh": "问责原则要求把某一变式与所有可能出现的变式相对照来统计。"}
+   ],
+   "terms": [
+    {"en": "N.O.R.M.", "zh": "N.O.R.M.", "defEn": "The early dialectologists' ideal participant: non-mobile, older, rural, male.", "defZh": "早期方言学家理想中的发音人：不流动、年长、乡村、男性。"},
+    {"en": "sociolinguistic interview", "zh": "社会语言学访谈", "defEn": "The main data-collection method, using tasks that vary the degree of self-monitoring.", "defZh": "主要的数据收集方法，通过各类任务调节自我监控的程度。"},
+    {"en": "vernacular", "zh": "本真语体", "defEn": "A speaker's unmonitored language, the way they talk when not being recorded.", "defZh": "说话人未受监控的语言，即不被录音时的自然说话方式。"},
+    {"en": "observer's paradox", "zh": "观察者悖论", "defEn": "We want speech free of systematic observation but can only obtain data by observing systematically.", "defZh": "我们想要不受系统观察影响的言语，却只能通过系统观察来获取数据。"},
+    {"en": "sociolinguistic corpus", "zh": "社会语言学语料库", "defEn": "A collection of sociolinguistic interviews used to study many variables and phenomena.", "defZh": "由多次社会语言学访谈汇集的语料，用于研究多种变项与现象。"},
+    {"en": "Principle of Accountability", "zh": "问责原则", "defEn": "Every variant must be counted against the total contexts in which any variant could occur.", "defZh": "任何变式都必须与它可能出现的全部语境总数相对照进行统计。"}
+   ],
+   "examples": [
+    {"text": "giiwe [ɡiːweː] (‘he goes home’) and giiwenh [ɡiːwẽː] (‘so the story goes’)", "noteEn": "A minimal pair in Southwestern Ojibwe differing only in final vowel nasalization.", "noteZh": "明尼苏达西南部奥吉布瓦语中的最小对立对，仅以末元音是否鼻化相区别。"},
+    {"text": "the word sore can be pronounced as [sɔɹ] or [sɔə]", "noteEn": "In New York City English the r-less variant makes sore identical to saw.", "noteZh": "在纽约市英语中，无 r 的变式使 sore 与 saw 发音相同。"},
+    {"text": "nyuz ‘news’ and shuts ‘shoots’", "noteEn": "Hawaiian Creole vowels vary continuously between [uː] and [ʉː] and in between.", "noteZh": "夏威夷克里奥尔语的元音在 [uː] 与 [ʉː] 之间连续变化。"},
+    {"text": "10/40 tokens of -ing = 25%", "noteEn": "The accountable calculation for the reading passage in Table 10.1.", "noteZh": "表 10.1 中朗读短文按问责原则得出的比例。"}
+   ],
+   "body": [
+    {"en": "Variationist methods descend from dialectology, the study of variation across regional varieties. Early dialectologists sought the N.O.R.M. participant, non-mobile, older, rural and male, assuming that non-mobile speakers preserve local speech, that older speakers represent older language, that rural areas retain tradition, and that women's speech is more status-conscious. This left gaps for urban variation, women's language and innovation, which variationist sociolinguistics, sometimes called urban dialectology, filled while adding social factors beyond place. Notable projects include the Atlas linguistique de la France and Yang Xiong's Fāngyán.", "zh": "变异社会语言学的方法与方言学一脉相承，后者研究方言及地域变体之间的差异。早期方言学家追求 N.O.R.M. 式发音人，即不流动、年长、乡村、男性，其假设是：不流动者的言语更能代表原居地，年长者代表更古老的语言，乡村地区保留传统，而女性言语更在意身份地位。这导致城市变异、女性语言与创新用法研究出现空白，变异社会语言学（又称城市方言学）在填补空白的同时引入了地域之外的众多社会因素。重要的项目包括《法国语言地图集》和扬雄的《方言》。"},
+    {"en": "The main data-collection method is the sociolinguistic interview, which originally combined a Minimal Pairs task, a Reading Passage and Casual Speech, designed to vary self-monitoring. In these minimal pairs one member contains a linguistic variable whose variant would make the two words identical, as with saw and sore in New York City English. Casual speech approaches the vernacular, a speaker's unmonitored language, yet recording it is complicated by the observer's paradox: we want to know how people talk when not systematically observed, but can obtain such data only through systematic observation.", "zh": "最常用的数据收集方法是社会语言学访谈，它最初由最小对立对任务、朗读短文和随意话语组成，旨在调节自我监控的程度。这里使用的最小对立对中，有一个词含有语言变项，其某一变式会使两个词发音完全相同，如纽约市英语中的 saw 与 sore。随意话语接近本真语体，即说话人未受监控的语言；但记录它却受观察者悖论困扰：研究要弄清人们未被系统观察时如何说话，却只能通过系统观察获得这类数据。"},
+    {"en": "A single interview shows how one person varies, but community patterning requires many interviews, ideally from a representative, socially-stratified sample, forming a sociolinguistic corpus. Important corpora include the Sankoff-Cedergren corpus of Montreal French, the first of its scale for a language other than English, and Sali Tagliamonte's Toronto English Archive.", "zh": "一次访谈只能显示某一个人的变异方式，而要了解社区层面的模式则需要多次访谈，最好取自具有代表性、社会分层的样本，它们共同构成社会语言学语料库。重要的语料库包括蒙特利尔法语的 Sankoff-Cedergren 语料库，它是首个同等规模的非英语语料库，以及 Sali Tagliamonte 的多伦多英语档案。"},
+    {"en": "Because variant choice is probabilistic, analysis must be quantitative and follow the Principle of Accountability: researchers count a variant against all variants that could have occurred, not just the interesting one. To study the [ɪn] variant of -ing, one needs the times [ɪn] occurred out of all the times it could have, so [ɪŋ] must also be counted. Table 10.1 shows why: counting only [ɪn] tokens makes the reading passage look higher than casual speech, 10 against 8, but adding the denominator reverses the picture, 25% against 40%.", "zh": "由于变式的选择具有概率性，分析必须是量化的，并遵循问责原则：研究者要把某一变式与所有可能出现的变式相对照，而不能只统计自己感兴趣的那一个。例如要研究 -ing 的 [ɪn] 变式，就需要知道在它可能出现的情况下实际出现了多少次，因此也必须统计 [ɪŋ]。表 10.1 说明了这一点的重要性：只统计 [ɪn] 标记会让朗读短文看起来高于随意话语，即 10 对 8；但加入分母后结论正好相反，为 25% 对 40%。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,24 @@
+# 8.7 Violating vs. flouting a maxim
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=851#oembed-1
+In the previous sections, we saw that when a maxim is violated in a conversation, it causes the conversation to be anomalous in some way. We saw that when it is revealed that a maxim has been violated, discourse participants have the intuition that the person who violated the maxim was being uncooperative, and that something has gone wrong in the discourse itself. For example, Bo is violating Quality in the following discourse in (1).
+
+[表格]
+| | | (1) | | | | | | | (Context: Aya and Bo met online. Aya lives in Vancouver. Bo lives in Ottawa.) | | | | | | | Aya: | | | | | Where did you say you live again? | | | | | | | Bo: | | | | | I live in Ottawa. | | | | | | | Aya: | | | | | So how is Ottawa? Do you like it? | | | | | | | Bo: | | | | | I live in Toronto. | | | | | | | Aya: | | | | | (Wait, what? You told me you lived in Ottawa just a few seconds ago!) | | | |
+
+In (1), it seems that the conversation has broken down in some way because of the violation: facts must be straightened out before the discourse continues. The discourse must be repaired. Let’s compare this to the conversation in (2).
+
+[表格]
+| | | (2) | | | | | | | (Context: Aya and Bo are discussing what they did over the weekend. They both know there is no city named Toronto in Saskatchewan.) | | | | | | | Aya: | | | | | I visited Toronto over the weekend. | | | | | | | Bo: | | | | | Oh, Toronto, Ontario? | | | | | | | Aya: | | | | | | | No, Toronto, Saskatchewan. | | | | | | | | | | | | | | | (Implicature: ‘Yes, of course it’s Toronto, Ontario’) | | | | |
+
+As mentioned in Section 8.6, communication by implicature may not be a part of some people’s native discourse strategies. So for some people, it is possible that the conversation in (2) is as confusing as (1). In that case, the discourse may have to be clarified by uttering the implicature part out loud (e.g., “Oh, I was being sarcastic; of course it’s Toronto, Ontario!”).
+For other people, (2) might not feel as odd as (1). One way of interpreting the conversation in (2) is that Aya is acting like she is violating the Maxim of Quality in a way that is very noticeable to the addressee, and she is doing so deliberately in order to create a certain implicature. This is called flouting a maxim: appearing as if you are violating a maxim in a very obvious way, in order to create an implicature. In (3), Aya is saying something that is obviously false (and something that she thinks Bo would find to be obviously false too) in order to create an implicature. Aya is flouting the Maxim of Quality. Intonation (for spoken language) and facial expressions (for both spoken and signed language) that accompany the sentence can often help indicate that the speaker/signer is flouting a maxim.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=851#h5p-86
+
+## References
+
+Grice, H. P. (1975). Logic and conversation. In Speech Acts (pp. 41-58). Brill.

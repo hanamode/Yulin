@@ -1,0 +1,253 @@
+{
+ "batch": 27,
+ "entries": [
+  {
+   "id": "writing-system",
+   "title": "文字系统",
+   "en": "Writing System",
+   "category": "concepts",
+   "tags": ["文字", "书写", "表意", "表音", "正字法", "文字类型"],
+   "summary": "文字系统是一个语言共同体用来记录语言的视觉符号及其组合规则的总和，是人类在口语之后发明的第二性交际媒介。它把线性的、转瞬即逝的语音流转换成可以储存、复制并跨时空传递的图形序列。依据符号所对应的语言单位，文字系统通常分为表意文字、音节文字和音素文字等类型，汉字、日语假名与拉丁字母分别是其中的典型代表。文字系统不仅承担记录功能，还反过来塑造正字法、文学传统与使用者的语言意识。",
+   "summaryEn": "A writing system is the conventional set of visible signs, with rules for combining them, that a speech community uses to record its language. It converts a fleeting acoustic signal into graphic sequences that can be stored, copied and transmitted across time. Systems are classified by the unit their signs encode: logograms stand for morphemes or words, syllabaries for syllables, alphabets for individual consonants and vowels. Chinese characters, Japanese kana and the Latin alphabet exemplify these types. Writing is secondary to speech historically, yet it shapes orthography, literature and speakers' awareness of their language.",
+   "sections": [
+    {
+     "h": "定义与基本性质",
+     "hEn": "Definition and Basic Properties",
+     "p": [
+      "文字系统指某一语言用于书写的全部符号单位及其书写与拼合规则，包括字符形体、字符与语言单位的对应方式、书写方向以及标点与空格等辅助约定。它与语言的关系是约定的、派生的：口语可以独立存在，而文字必须依托某种语言才能获得意义。文字系统的最小记录单位因语言而异，可能是语素、音节，也可能是音段，因此不存在可以适用于所有语言的单一书写方式。",
+      "从符号学角度看，文字是一种以视觉通道实现的符号系统，同样具有能指与所指的区分。字符的形体是可感知的能指，其所记录的语言单位则是所指。这种视觉符号具有高度的耐久性与可复制性，使知识积累、法律文书和跨代文化传承成为可能。"
+     ],
+     "pEn": [
+      "A writing system comprises the full inventory of graphic units a language uses for writing, together with the rules for forming and combining them: the shapes of the characters, the way characters map onto linguistic units, the direction of writing, and auxiliary conventions such as punctuation and word spacing. Its relation to language is conventional and derivative: speech can exist without writing, but writing cannot signify without some language behind it. The minimal unit a script records varies across languages and may be a morpheme, a syllable or a single segment, so no single manner of writing suits every language.",
+      "From a semiotic point of view, writing is a visual sign system and therefore exhibits the same signifier-signified distinction found elsewhere. The visible shape of a character is the perceptible signifier; the linguistic unit it records is the signified. Because visual signs are durable and easily copied, writing makes cumulative knowledge, legal record-keeping and transmission of culture across generations possible."
+     ]
+    },
+    {
+     "h": "文字系统的分类",
+     "hEn": "Classification of Writing Systems",
+     "p": [
+      "按字符所记录的语言单位，文字系统一般分为三类。表意文字或语素文字用一个字符记录一个语素或词，如汉字「山」「水」和古埃及圣书体；音节文字用一个字符记录一个音节，如日语平假名か、き、く和迈锡尼线形文字B；音素文字用字符记录音段，拉丁字母和希腊字母属于此类。现实中很少有纯粹的类型，日语同时使用汉字、平假名和片假名，是典型的混合系统。",
+      "另一种常见区分是表音与表意的程度差异，以及辅音音素文字这一中间类型。阿拉伯语和希伯来语的字母主要记录辅音，元音通常由读者根据语境补足，如阿拉伯语كتب读作kataba，表示「他写了」。这种区分说明文字类型是一条连续统，而非彼此隔绝的类别。"
+     ],
+     "pEn": [
+      "Writing systems are usually classified by the linguistic unit a character encodes. Logographic or morphographic systems use one sign per morpheme or word, as in Chinese characters such as 山 'mountain' and 水 'water', or Egyptian hieroglyphs. Syllabaries use one sign per syllable, as in Japanese hiragana か, き, く or Mycenaean Linear B. Alphabets encode individual segments, as do the Latin and Greek scripts. Purely typological systems are rare: Japanese combines characters, hiragana and katakana, and is a classic mixed system.",
+      "A further distinction concerns the degree of phonological transparency and the intermediate category of the abjad. Arabic and Hebrew letters primarily encode consonants, leaving vowels to be supplied by the reader from context: Arabic كتب is read kataba, 'he wrote'. Japanese kana, by contrast, represent syllables so transparently that almost any text can be read aloud without understanding its meaning. Such cases show that script types form a continuum rather than mutually exclusive categories."
+     ]
+    },
+    {
+     "h": "书写与语言的关系",
+     "hEn": "The Relation Between Writing and Language",
+     "p": [
+      "文字系统与它所记录的语言并不完全对应，正字法与音系之间常常存在历史性的落差。英语的 ough 在 through、though、tough 中分别读作/uː/、/oʊ/、/ʌf/，反映了中古英语以来的元音变化被拼写固定下来。相反，西班牙语的正字法与读音高度一致，几乎可以按字母直接拼读。这种差异直接影响识字教学的难度与拼写改革的争论。",
+      "文字也会反向影响语言。汉语书面语长期使用文言，使汉字承担了超越口语音变的功能，从而在方言分歧中维持了统一的书面交际；日语中汉字的音读与训读并存，也是文字系统深度介入词汇层的表现。"
+     ],
+     "pEn": [
+      "A writing system does not map perfectly onto the language it records, and a historical gap often separates orthography from phonology. English ough is pronounced /uː/ in through, /oʊ/ in though and /ʌf/ in tough, because spelling froze while the vowels continued to change after the Middle English period. Spanish orthography, by contrast, corresponds closely to pronunciation and can almost be read aloud letter by letter. Such differences directly affect the difficulty of literacy instruction and fuel debates over spelling reform.",
+      "Writing can also act back upon language. The long dominance of Classical Chinese as a written medium allowed characters to carry functions beyond the phonology of any single spoken variety, thereby sustaining unified written communication across mutually unintelligible dialects. The coexistence of on-readings and kun-readings for Japanese characters shows a similar deep involvement of script in the lexicon. In Korean, Chinese characters have been progressively supplemented or replaced by the indigenous hangul script, a shift that changed how the language is learned and processed."
+     ]
+    },
+    {
+     "h": "发展简史",
+     "hEn": "Historical Development",
+     "p": [
+      "目前已知最早的完整文字系统是约公元前3200年出现于两河流域的苏美尔楔形文字，它从记账用的陶筹与图画符号演变而来，逐渐获得表音功能。古埃及圣书体、克里特线形文字与中国商代甲骨文大约在相近的时代独立发展，其中甲骨文是汉字可考的最早形态。约公元前1500年，腓尼基人创造了记录辅音的音素文字，希腊人随后加入元音字母，形成影响深远的希腊字母系统。",
+      "拉丁字母经伊特鲁里亚人传入罗马，随罗马帝国的扩张与后世的殖民、传教活动传播到世界大部分地区，成为当今使用最广的文字系统。二十世纪以来，国际音标等标音方案为语言描写提供了跨语言的统一书写工具，土耳其、越南等国则通过文字改革更换了官方文字。"
+     ],
+     "pEn": [
+      "The earliest fully developed writing system is Sumerian cuneiform, which appeared in Mesopotamia around 3200 BCE, evolving from accounting tokens and pictorial signs and gradually acquiring phonetic values. Egyptian hieroglyphs, Cretan Linear scripts and Chinese oracle-bone inscriptions developed independently at roughly comparable dates, the last being the earliest attestable form of Chinese characters. Around 1500 BCE the Phoenicians created a consonantal script, to which the Greeks subsequently added vowel letters, producing the enormously influential Greek alphabet.",
+      "The Latin alphabet reached Rome through the Etruscans and spread with the Roman Empire and later with colonial and missionary activity, becoming the most widely used script in the world today. Since the twentieth century, phonetic notations such as the International Phonetic Alphabet have provided a unified cross-linguistic tool for description, while countries including Turkey and Vietnam have replaced their official scripts through writing reform."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "表意文字", "tEn": "logogram", "d": "用一个符号记录一个词或语素的文字类型，如汉字「山」与古埃及圣书体。", "dEn": "A script type in which one sign represents a whole word or morpheme, as in Chinese 山 or Egyptian hieroglyphs."},
+    {"t": "音节文字", "tEn": "syllabary", "d": "以单个符号记录一个音节的文字系统，如日语假名与迈锡尼线形文字B。", "dEn": "A writing system in which each sign stands for a syllable, as in Japanese kana or Linear B."},
+    {"t": "音素文字", "tEn": "alphabet", "d": "以符号记录辅音和元音等音段的文字系统，拉丁字母与希腊字母属此类型。", "dEn": "A script whose signs represent individual segments such as consonants and vowels, as in Latin or Greek."},
+    {"t": "正字法", "tEn": "orthography", "d": "一个语言共同体公认的拼写规范，规定字符的选择、组合与连写方式。", "dEn": "The conventional spelling norms of a community, governing the choice, combination and joining of characters."},
+    {"t": "辅音音素文字", "tEn": "abjad", "d": "主要记录辅音而通常省略元音字母的文字类型，如阿拉伯语与希伯来语字母。", "dEn": "A consonantal script that normally omits vowel letters, as in the Arabic and Hebrew alphabets."},
+    {"t": "文字改革", "tEn": "script reform", "d": "有意识地更换或简化官方文字系统的社会语言规划行为，如土耳其的字母改革。", "dEn": "Deliberate language planning that replaces or simplifies an official script, as in Turkish alphabet reform."}
+   ],
+   "related": ["chinese-characters", "logogram", "syllabary", "latin-alphabet", "phonetic-transcription"],
+   "sources": [
+    "Wikipedia, \"Writing system\", https://en.wikipedia.org/wiki/Writing_system",
+    "Coulmas, The Writing Systems of the World, Blackwell, 1989",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "minimalism",
+   "title": "最简方案",
+   "en": "Minimalist Program",
+   "category": "theories",
+   "tags": ["生成语法", "合并", "移位", "接口", "经济性", "特征核查"],
+   "summary": "最简方案是乔姆斯基于二十世纪九十年代初提出的生成语法研究纲领，追问语言机能能否以最经济的方式满足概念意向系统与感觉运动系统施加的接口条件。它把句法运算压缩为合并、移位、一致等少数基本操作，并通过特征的可解读性与推导的经济性原则解释语言结构的形成与限制。最简方案是一组关于语言设计最优性的假设而非固定理论，其技术细节历经管约论之后的多次修订，至今仍是生成语法研究的主流框架。",
+   "summaryEn": "The Minimalist Program is a research agenda within generative grammar, launched by Chomsky in the early 1990s, which asks whether the language faculty can satisfy the interface conditions imposed by the conceptual-intentional and sensorimotor systems as economically as possible. Syntactic computation is reduced to a few operations such as Merge, Move and Agree, and structures are explained through feature interpretability and economy conditions on derivations. It is a set of assumptions about optimal language design rather than a fixed theory, and its technical apparatus has been repeatedly revised since the Government and Binding era.",
+   "sections": [
+    {
+     "h": "基本假设与理论目标",
+     "hEn": "Basic Assumptions and Goals",
+     "p": [
+      "最简方案的核心问题是：在满足外部系统的接口要求这一最低条件下，语言机能的运算系统可以简洁到什么程度。乔姆斯基假设语言是一种近乎最优的设计，句法只保留必不可少的操作，凡不能由接口条件或普遍语法原则解释的现象，都应视为有待消除的冗余。为此，理论区分了狭义句法与广义句法，后者包括音系与语义的推导部分。",
+      "这一纲领继承了生成语法的基本立场，认为语言能力是人类先天具备的认知系统，同时又比管约论更强调原则的经济性与推导的局部性，试图把繁多的规则与层级压缩为更基本的运算。换言之，评价一种分析的标准不只是描写是否充分，还包括它所设定的机制是否必要。"
+     ],
+     "pEn": [
+      "The central question of the Minimalist Program is how simple the computational system of language can be while still satisfying the minimal requirements imposed by the external interface systems. Chomsky assumes that language is a near-optimal design in which syntax retains only indispensable operations, and that any phenomenon not explicable in terms of interface conditions or universal principles should be regarded as redundancy awaiting elimination. The framework accordingly distinguishes the narrow syntax from the broader syntax that includes phonological and semantic derivation.",
+      "The programme inherits the fundamental generative position that the language faculty is an innate cognitive system, but it stresses economy of principles and locality of derivation more strongly than Government and Binding theory did, seeking to reduce a large inventory of rules and levels to a few basic operations. Because the same operations are assumed to be available to every language, cross-linguistic variation must lie chiefly in the lexicon and in the morphological features that lexical items carry."
+     ]
+    },
+    {
+     "h": "核心操作：合并、移位与一致",
+     "hEn": "Core Operations: Merge, Move and Agree",
+     "p": [
+      "合并是最基本的句法操作，它取两个句法对象并构成一个集合，从而产生新的层级结构。例如英语限定词 the 与名词 book 合并为 the book，这一结构再与动词 read 合并为 read the book，层层合并最终生成完整句子。合并分为外合并与内合并，内合并即传统所说的移位，它把已经并入结构的成分重新合并到更高位置。",
+      "位移的典型实例是英语的主语提升与疑问词移位。在 John seems to be happy 中，John 从不定式分句的主语位置提升到主句主语位置；在 What did you buy? 中，疑问词 what 从宾语位置移到句首。一致操作则负责处理探针与目标之间的特征匹配，如英语第三人称单数主语与动词-s 的呼应。",
+      "移位与一致都受局部性条件限制，成分不能无限制地跨越多个语段边界，这解释了为什么某些长距离依存关系不合法。所谓孤岛条件与毗邻原则都可以看作这种局部性要求的具体表现，它们使句法依存关系只能在一定范围内建立，从而限制了语法的生成能力。"
+     ],
+     "pEn": [
+      "Merge is the most basic syntactic operation: it takes two syntactic objects and forms a set from them, thereby creating a new hierarchical structure. In English, the determiner the merges with the noun book to give the book, which in turn merges with the verb read to give read the book, and successive applications eventually yield a full sentence. Merge divides into external and internal Merge, the latter being the traditional displacement operation that re-merges an already assembled constituent in a higher position.",
+      "Typical instances of displacement are subject raising and wh-movement in English. In John seems to be happy, John raises from the subject position of the infinitival clause to the matrix subject position; in What did you buy?, the wh-phrase what moves from object position to the clause-initial position. The operation Agree establishes matching between a probe and a goal, as in the agreement of a third-person singular subject with verbal -s.",
+      "Both movement and agreement are constrained by locality: a constituent cannot cross an unlimited number of phase boundaries, which explains why certain long-distance dependencies are unacceptable. Island conditions and the principle of adjacency can be seen as concrete instances of this locality requirement, ensuring that dependencies are established only within limited domains and thereby restricting the generative power of the grammar."
+     ]
+    },
+    {
+     "h": "接口与特征",
+     "hEn": "Interfaces and Features",
+     "p": [
+      "在最简方案中，句法推导的合法性由两个接口层面判定：语音形式层面连接感觉运动系统，逻辑形式层面连接概念意向系统。只有在这两个接口上都能获得合理解释的推导才是收敛的，否则推导就会崩溃。因此语法不设独立的深层结构与表层结构，转而关注如何把词汇特征组装成可被外部系统读取的对象。",
+      "特征理论是解释移位的核心工具，特征分为可解读特征与不可解读特征。不可解读特征在接口上无法获得解释，必须在推导过程中被核查并删除，正是这一要求驱动了移位。例如英语疑问句中疑问词携带的疑问特征需要在标句词位置得到核查，从而促使疑问词前移。"
+     ],
+     "pEn": [
+      "In the Minimalist Program the legitimacy of a syntactic derivation is assessed at two interface levels: Phonetic Form, which connects to the sensorimotor system, and Logical Form, which connects to the conceptual-intentional system. Only a derivation that receives a legitimate interpretation at both interfaces converges; otherwise it crashes. The grammar therefore dispenses with independent deep and surface levels and instead asks how lexical features are assembled into objects readable by external systems.",
+      "Feature theory provides the main account of movement, distinguishing interpretable from uninterpretable features. Uninterpretable features cannot be interpreted at the interfaces and must be checked and deleted during the derivation; this requirement is what drives displacement. In English interrogatives, for instance, the interrogative feature borne by a wh-phrase must be checked in the complementiser position, which forces the wh-phrase to move leftward."
+     ]
+    },
+    {
+     "h": "发展简史",
+     "hEn": "Historical Development",
+     "p": [
+      "最简方案的思想在乔姆斯基1993年的论文「A Minimalist Program for Linguistic Theory」中首次系统提出，随后由1995年出版的《最简方案》一书确立为研究纲领。早期版本强调经济性原则与特征核查，2000年前后发展出语段理论，主张推导分阶段进行并由语段边界限制移位。",
+      "随后的一致操作模型、探针与目标理论以及标签算法进一步简化了句法运算，近年来的研究还把合并与递归视为语言机能的核心特征，并与生物语言学的进化问题相联系。不同学者对具体技术细节分歧明显，但共同接受最简化的方法论目标。"
+     ],
+     "pEn": [
+      "The ideas of the Minimalist Program were first presented systematically in Chomsky's 1993 paper 'A Minimalist Program for Linguistic Theory' and were consolidated as a research programme in his 1995 book The Minimalist Program. Early versions emphasised economy principles and feature checking; around 2000 the phase-based model emerged, proposing that derivations proceed in stages and that movement is constrained by phase boundaries.",
+      "Subsequent work on the Agree model, probe-goal relations and the labelling algorithm further simplified syntactic computation, and recent research treats Merge and recursion as core properties of the language faculty, connecting them to evolutionary questions in biolinguistics. The framework has also been extended to language acquisition and to comparative syntax, where differences among languages are attributed to features of functional heads. Scholars disagree markedly about technical details while sharing the methodological goal of minimality."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": [
+      "对最简方案的主要批评有两点。其一，纲领的目标是方法论意义上的简洁，但实现这一目标的技术装置本身相当复杂，不可解读特征、语段与多重接口条件难以独立验证。其二，功能语言学与基于用法的研究者认为，把大量语言事实归于接口条件的做法回避了语言使用、加工与频率等因素的作用。",
+      "此外，最简方案主要建立在英语等少数语言的材料之上，其普遍性尚需更多跨语言证据支持。支持者则回应说，纲领的价值在于提出可检验的强假设，并推动生成语法与生物语言学、语言习得研究展开对话。"
+     ],
+     "pEn": [
+      "The Minimalist Program faces two main criticisms. First, although its goal of parsimony is methodological, the technical apparatus devised to reach it is itself intricate: uninterpretable features, phases and multiple interface conditions are difficult to test independently. Second, functionalist and usage-based researchers argue that assigning so many linguistic facts to interface conditions sidesteps the role of language use, processing and frequency.",
+      "A further objection is that minimalism rests largely on data from English and a few other languages, so its claimed universality needs broader cross-linguistic support. Critics also observe that the boundary between narrow syntax and the interfaces tends to be drawn case by case, which makes the theory difficult to falsify. Proponents reply that the value of the programme lies in the strong, testable hypotheses it generates and in the dialogue it has opened with biolinguistics and acquisition research."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "合并", "tEn": "Merge", "d": "最简方案中最基本的句法操作，取两个句法对象构成新的层级结构。", "dEn": "The most basic syntactic operation, which takes two objects and forms a new hierarchical structure."},
+    {"t": "内合并", "tEn": "internal Merge", "d": "把已进入结构的成分重新合并到更高位置的移位操作，即传统所说的移位。", "dEn": "The displacement operation that re-merges an existing constituent in a higher position."},
+    {"t": "一致", "tEn": "Agree", "d": "探针与目标之间建立特征匹配并核查不可解读特征的句法操作。", "dEn": "A syntactic operation establishing feature matching between a probe and a goal."},
+    {"t": "接口", "tEn": "interface", "d": "句法推导与感觉运动系统、概念意向系统相连接的层面，即语音形式与逻辑形式。", "dEn": "The levels linking syntax to the sensorimotor and conceptual-intentional systems."},
+    {"t": "不可解读特征", "tEn": "uninterpretable feature", "d": "在接口层面无法获得解释、必须在推导中被核查并删除的特征。", "dEn": "A feature that cannot be interpreted at the interfaces and must be checked and deleted."},
+    {"t": "语段", "tEn": "phase", "d": "推导中相对独立的运算单元，移位不得无限制地跨越其边界。", "dEn": "A relatively independent unit of derivation whose boundaries restrict movement."},
+    {"t": "经济性原则", "tEn": "economy principle", "d": "要求推导以最少操作与最短移位完成的最简方案评价标准。", "dEn": "An evaluative criterion requiring derivations to use minimal operations and shortest movement."},
+    {"t": "特征核查", "tEn": "feature checking", "d": "通过探针与目标的匹配删除不可解读特征、从而驱动移位的机制。", "dEn": "The mechanism that deletes uninterpretable features by matching probe and goal, driving movement."}
+   ],
+   "related": ["generativism", "chomsky", "universal-grammar", "syntactic-movement", "deep-structure"],
+   "sources": [
+    "Wikipedia, \"Minimalist program\", https://en.wikipedia.org/wiki/Minimalist_program",
+    "Chomsky, The Minimalist Program, MIT Press, 1995",
+    "Chomsky, \"A Minimalist Program for Linguistic Theory\", 1993"
+   ]
+  },
+  {
+   "id": "lexical-functional-grammar",
+   "title": "词汇功能语法",
+   "en": "Lexical-Functional Grammar",
+   "category": "theories",
+   "tags": ["生成语法", "功能结构", "成分结构", "词汇映射", "平行架构", "非配置性"],
+   "summary": "词汇功能语法由卡普兰与布列斯南在二十世纪八十年代初提出，主张句法描写由成分结构与功能结构两个平行层次共同承担。成分结构刻画语序与短语层级，功能结构用属性值矩阵表示主语、宾语等语法功能及一致、格等特征，两者通过对应函数联系起来。该理论把谓语的论元信息编码在词汇条目中，经由词汇映射理论投射到功能结构，因而能处理语序自由、非配置性语言中的格与一致现象，并在计算语言学中得到广泛应用。",
+   "summaryEn": "Lexical-Functional Grammar is a generative theory developed by Bresnan and Kaplan in the early 1980s with two parallel levels of representation: constituent structure and functional structure. Constituent structure captures word order and phrase hierarchy, while functional structure is an attribute-value matrix representing grammatical functions such as subject and object, plus agreement and case, the levels being linked by correspondence functions. Because a predicate's arguments are encoded in lexical entries and projected onto functional structure by Lexical Mapping Theory, the framework handles case, agreement and non-configurational word order naturally, and is widely used in computational linguistics.",
+   "sections": [
+    {
+     "h": "理论定位与基本架构",
+     "hEn": "Position and Overall Architecture",
+     "p": [
+      "词汇功能语法属于生成语法传统，但反对把句法树当作唯一的结构表征。它设定成分结构、功能结构、论元结构与音系、语义等多个平行层次，各层之间由对应关系连接而非通过转换派生。语法因此是单层级的、非派生的，一个句子的合法性体现为所有层次同时得到满足。",
+      "这种平行架构的设计动因之一，是希望统一处理结构差异很大的语言。英语的成分结构高度配置化，主语位置固定；而瓦尔皮里语等非配置性语言的语序相当自由，语法关系主要由格标记与一致关系标示。把语法功能放在与语序无关的功能结构层次上，正好可以刻画这种差异。"
+     ],
+     "pEn": [
+      "Lexical-Functional Grammar belongs to the generative tradition but rejects the assumption that a single phrase-structure tree is the only structural representation. It posits several parallel levels, including constituent structure, functional structure, argument structure, phonological form and semantic form, related by correspondence functions rather than by transformations. The grammar is therefore monostratal and non-derivational: a sentence is well formed when all levels are simultaneously satisfied.",
+      "One motivation for this parallel architecture is the desire to treat structurally very different languages uniformly. English constituent structure is highly configurational, with a fixed subject position, whereas non-configurational languages such as Warlpiri allow remarkably free word order, marking grammatical relations chiefly through case and agreement. Placing grammatical functions at a level independent of word order captures exactly this contrast."
+     ]
+    },
+    {
+     "h": "成分结构与功能结构",
+     "hEn": "Constituent Structure and Functional Structure",
+     "p": [
+      "成分结构是一棵普通的短语结构树，节点标注词类与短语类型，如 S、NP、VP，其终端节点对应词或语素，并决定线性语序。功能结构则是一个属性值矩阵，属性包括主语、宾语等语法功能，也包括人称、数、性、格、时态等特征，结构可以嵌套以表示从属从句的功能信息。",
+      "两个层次由对应函数φ连接，把成分结构的每个节点映射到相应的功能结构。例如英语 The child sees the dog 中，主语名词短语 the child 映射到功能结构中的主语属性，其人称与数特征为人称第三人称、单数，并与动词 sees 的-s 保持一致。成分结构说明词序，功能结构说明语法关系与特征匹配，二者分工明确。"
+     ],
+     "pEn": [
+      "Constituent structure is an ordinary phrase-structure tree whose nodes are labelled for lexical and phrasal categories such as S, NP and VP; its terminal nodes correspond to words or morphemes and determine linear order. Functional structure, by contrast, is an attribute-value matrix whose attributes include grammatical functions such as subject and object as well as features for person, number, gender, case and tense. Functional structures may be nested to represent the grammatical information of subordinate clauses.",
+      "A correspondence function φ relates the two levels, mapping each constituent-structure node to a functional structure. In the English sentence The child sees the dog, the subject noun phrase the child maps to the subject attribute of the functional structure, bearing third-person singular features that agree with the -s of sees. Constituent structure accounts for word order, functional structure for grammatical relations and feature matching."
+     ]
+    },
+    {
+     "h": "词汇映射与论元结构",
+     "hEn": "Lexical Mapping and Argument Structure",
+     "p": [
+      "词汇功能语法把语法关系信息主要放在词库中，谓语动词的词汇条目规定其论元及其题元角色，如 give 有施事、受事和接受者三个论元。词汇映射理论根据题元角色的层级顺序，把论元依次映射到主语、宾语等语法功能上，并允许通过词汇规则调整这一映射。",
+      "英语的双宾语结构与介词结构正体现了映射的灵活性：John gave Mary a book 与 John gave a book to Mary 表达相同的论题关系，只是接受者被映射为宾语或介词宾语。被动化则通过抑制施事论元、把受事提升为主语来实现，无需句法转换即可获得受事主语句。"
+     ],
+     "pEn": [
+      "Lexical-Functional Grammar locates most information about grammatical relations in the lexicon: the lexical entry of a predicate specifies its arguments and their thematic roles, so that give has agent, theme and recipient arguments. Lexical Mapping Theory assigns these arguments to grammatical functions such as subject and object according to a hierarchy of thematic roles, and lexical rules may adjust the mapping.",
+      "The English double object and prepositional constructions illustrate this flexibility: John gave Mary a book and John gave a book to Mary express the same thematic relations, with the recipient mapped either to object or to oblique. Passivisation is handled by suppressing the agent argument and promoting the patient to subject, so a patient-subject sentence is derived lexically without syntactic movement."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "冰岛语的斜格主语是词汇功能语法擅长处理的经典现象。句子 Mér líkar þessi bók 意为「我喜欢这本书」，其中 Mér 是元音变格后的第一人称与格代词，þessi bók 是主格。与格成分在功能结构中充当主语，却不具备主格形态，这正说明语法功能与格标记是两个相对独立的维度。",
+      "德语 Der Mann hilft dem Kind（那个人帮助这个孩子）中的宾语用与格而非宾格，日语「太郎が花子に本をあげた」用助词が、に、を分别标示主语、与格宾语和宾格宾语，瓦尔皮里语的语序则可自由调换而语法关系不变。这些事实都要求把功能信息与语序分开描写，而不是从树形结构中直接读出。"
+     ],
+     "pEn": [
+      "Icelandic quirky subjects are a classic phenomenon for which Lexical-Functional Grammar is well suited. The sentence Mér líkar þessi bók means 'I like this book': Mér is a first-person dative pronoun and þessi bók is nominative. The dative element functions as subject in functional structure even though it bears no nominative morphology, showing that grammatical function and case marking are relatively independent dimensions.",
+      "In German Der Mann hilft dem Kind ('the man helps the child') the object is dative rather than accusative; Japanese 太郎が花子に本をあげた marks subject, dative object and accusative object with the particles が, に and を; and in Warlpiri word order may be rearranged freely without altering grammatical relations. Such facts demand that functional information be described separately from word order rather than read directly off a tree."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "词汇功能语法提供了一套精确可计算的形式系统，其功能结构表示被广泛用于机器翻译、语法工程和大型计算语法中，帕西语法的实现即以此为基础。它也在语言类型学与语言描写中得到应用，功能结构为跨语言的语法关系比较提供了统一的表述工具。",
+      "批评主要集中在其表征层次的冗余与句法转换作用的弱化。有学者认为，把大量现象交由词汇规则处理会削弱句法概括力；也有研究指出，功能结构的多重属性使理论难以做出易于反驳的预测。支持者则强调该理论在计算实现与跨语言描写方面的实证优势。"
+     ],
+     "pEn": [
+      "Lexical-Functional Grammar offers a precise, computationally tractable formalism, and its functional-structure representations are widely used in machine translation, grammar engineering and large-scale computational grammars, including implementations in the ParGram project. It has also been applied in linguistic typology and language description, where functional structure supplies a uniform vocabulary for comparing grammatical relations across languages. Because f-structures abstract away from surface order, they provide a stable interface between parsing and semantic interpretation.",
+      "Criticism focuses on the redundancy of its representational levels and on its diminished role for syntactic transformation. Some argue that assigning so much to lexical rules weakens syntactic generalisation, while others contend that the multiple attributes of functional structure make the theory hard to falsify. It has also been compared unfavourably with transformational accounts on the grounds that certain constituency facts are stipulated rather than derived. Proponents stress its empirical advantages in computational implementation and cross-linguistic description."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "成分结构", "tEn": "constituent structure", "d": "表示短语层级分组与线性语序的短语结构树，通常简称为c结构。", "dEn": "The phrase-structure tree representing hierarchical grouping and linear order, abbreviated c-structure."},
+    {"t": "功能结构", "tEn": "functional structure", "d": "以属性值矩阵表示语法功能、格与一致等信息的句法层次，简称f结构。", "dEn": "An attribute-value matrix encoding grammatical functions, case and agreement, abbreviated f-structure."},
+    {"t": "词汇映射理论", "tEn": "Lexical Mapping Theory", "d": "规定题元角色如何映射到主语、宾语等语法功能的词汇理论。", "dEn": "The lexical theory specifying how thematic roles map onto grammatical functions."},
+    {"t": "平行架构", "tEn": "parallel architecture", "d": "主张音系、句法、语义等层次并列存在、由对应关系连接而非转换派生。", "dEn": "The view that phonological, syntactic and semantic levels coexist, linked by correspondences rather than transformations."},
+    {"t": "非配置性语言", "tEn": "non-configurational language", "d": "语序自由、语法关系主要由格与一致标记标示的语言，如瓦尔皮里语。", "dEn": "A language with free word order whose grammatical relations are marked mainly by case and agreement."},
+    {"t": "对应函数", "tEn": "correspondence function", "d": "连接不同结构层次的映射关系，如把成分结构节点映射到功能结构的φ函数。", "dEn": "A mapping relation linking structural levels, such as the φ function from c-structure to f-structure."},
+    {"t": "语法功能", "tEn": "grammatical function", "d": "主语、宾语、旁语等表示成分在句中语法地位的抽象关系，如SUBJ与OBJ。", "dEn": "An abstract relation such as SUBJ, OBJ or OBL indicating a constituent's grammatical status."}
+   ],
+   "related": ["head-driven-phrase-structure-grammar", "dependency-grammar", "grammatical-case", "agreement", "generativism"],
+   "sources": [
+    "Wikipedia, \"Lexical functional grammar\", https://en.wikipedia.org/wiki/Lexical_functional_grammar",
+    "Bresnan, Lexical-Functional Syntax, Blackwell, 2001",
+    "Kaplan and Bresnan, \"Lexical-Functional Grammar: A Formal System for Grammatical Representation\", 1982"
+   ]
+  }
+ ]
+}

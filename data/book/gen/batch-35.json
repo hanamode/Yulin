@@ -1,0 +1,96 @@
+{
+ "batch": 35,
+ "sections": {
+  "part-007-chapter-7-semantics": {
+   "title": {"en": "Chapter 7: Semantics", "zh": "第 7 章：语义学"},
+   "summary": {
+    "en": "Chapter 7 is about linguistic meaning, specifically semantics: how the meanings of words combine to form the meanings of sentences. It begins with lexical meaning, asking what is stored in the mental lexicon for a word and evaluating competing theories of lexical meaning. The rest of the chapter uses case studies across categories and languages to reveal the complexity of human semantic competence.",
+    "zh": "第 7 章讨论语言意义，尤其是语义学：词的意义如何组合成句子的意义。本章先考察词汇意义，即心理词库中为词储存的意义内容，并评述各种词汇意义理论的优缺点。其余各节通过跨词类、跨语言的意义个案研究，展现人类语义能力的复杂性。"
+   },
+   "points": [
+    {"en": "Semantics studies linguistic meaning, especially how the meanings of words combine into sentence meanings.", "zh": "语义学研究语言意义，尤其关注词的意义如何组合成句子的意义。"},
+    {"en": "Lexical meaning concerns what is stored in the mental lexicon for a word and other small expressions.", "zh": "词汇意义关注心理词库中为词和其他较小表达式所储存的意义内容。"},
+    {"en": "Several competing theories of lexical meaning exist, and the chapter weighs the pros and cons of each.", "zh": "关于词汇意义存在多种相互竞争的理论，本章逐一评估其优点与不足。"},
+    {"en": "Case studies across categories and languages show how the meaning of one word combines with another.", "zh": "跨词类、跨语言的个案研究展示一个词的意义如何与另一个词的意义组合。"},
+    {"en": "The chapter aims to explain why the dictionary is not the ultimate authority on linguistic meaning.", "zh": "本章力图说明，词典并不是语言意义的最终权威。"}
+   ],
+   "terms": [
+    {"en": "semantics", "zh": "语义学", "defEn": "The study of linguistic meaning, including how word meanings form sentence meanings.", "defZh": "研究语言意义的学科，关注词的意义如何组合成句子的意义。"},
+    {"en": "lexical meaning", "zh": "词汇意义", "defEn": "The meaning carried by words and other small expressions stored in the mental lexicon.", "defZh": "词以及储存在心理词库中的其他较小表达式所承载的意义内容。"},
+    {"en": "mental lexicon", "zh": "心理词库", "defEn": "The store of words and their meanings in a speaker's mind.", "defZh": "语言使用者头脑中储存词语及其意义的知识库，即心理词库。"},
+    {"en": "sense", "zh": "涵义", "defEn": "The meaning of a word as stored in the minds of speakers.", "defZh": "语言使用者头脑中储存的、关于某个词或表达式的意义内容。"},
+    {"en": "denotation", "zh": "外延/指称", "defEn": "What a linguistic expression points to in the actual world.", "defZh": "语言表达式在现实世界中实际指向的具体对象或事物，如草莓这种水果。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "Chapter 7 deals with linguistic meaning, and more precisely with semantics: how the meaning of words combines to form the meaning of sentences. It opens with lexical meaning, that is, what goes into the meaning of a word and of the other small expressions stored in your mental lexicon, and it surveys several theories of lexical meaning while weighing their advantages and disadvantages.", "zh": "第 7 章讨论语言意义，更准确地说讨论语义学：词的意义如何组合成句子的意义。本章从词汇意义入手，即一个词以及心理词库中其他较小表达式的意义由什么构成，并评述若干种词汇意义理论，权衡其优缺点。"},
+    {"en": "The second half of the chapter turns to case studies of linguistic meaning across categories and across languages, asking along the way what it means for the meaning of one word to combine with the meaning of another. Learners are expected to explain why the dictionary is not the ultimate authority on meaning, to analyse meaning critically from descriptive observations, to distinguish sense from denotation, and to use diagnostics for entailments, implicatures and presuppositions.", "zh": "本章后半部分转向跨词类和跨语言的意义个案研究，并在过程中思考一个词的意义与另一个词的意义相结合究竟意味着什么。学习者应能说明词典为何不是意义的最终权威，能依据描写性观察批判地分析意义，能区分涵义与外延，并能运用诊断手段识别蕴涵、会话含义和预设。"},
+    {"en": "Throughout, the chapter insists that linguistic meaning comes in many different kinds, and that each way of thinking about meaning yields important insight into how language users produce and understand meaning. The data examined across categories and languages are meant to foster appreciation of the complexity and diversity of human semantic competence.", "zh": "全章始终强调，语言意义存在许多不同的类型，每一种思考意义的方式都能为理解语言使用者如何产出和理解意义提供重要洞见。通过考察跨词类、跨语言的材料，本章希望学习者体会人类语义能力的复杂性与多样性。"}
+   ]
+  },
+  "chapter-074-slug-7-1-linguistic-meaning": {
+   "title": {"en": "7.1 Linguistic meaning", "zh": "7.1 语言意义"},
+   "summary": {
+    "en": "The word meaning is used in everyday life in several ways, but not all of them count as linguistic meaning. A tea stalk that symbolises good luck, a Japanese imi that concerns the purpose of an action, and an insincere remark are excluded or postponed to pragmatics. Linguistic meaning is illustrated by ode'imin and strawberry, which mean the same thing because they point to the same fruit.",
+    "zh": "日常生活中 meaning 一词有多种用法，但并非都属于语言意义。象征好运的茶梗、表示行为目的的日语 imi，以及言不由衷的说法都被排除在外，或留待语用学讨论。真正的语言意义以 ode'imin 与 strawberry 为例：两者指同一事物，因而意义相同。"
+   },
+   "points": [
+    {"en": "Semantics is the study of linguistic meaning, especially how word meanings combine into sentence meanings.", "zh": "语义学研究语言意义，尤其关注词义如何组合成句义。"},
+    {"en": "Everyday talk about tea stalks, purposes, or sincerity falls outside the linguistic meaning studied here.", "zh": "关于茶梗象征、行为目的或言不由衷的日常说法，不属于此处研究的语言意义。"},
+    {"en": "Meaning attaches to a linguistic expression such as ode'imin, not to the actual fruit it names.", "zh": "意义附着于 ode'imin 这样的语言表达式，而非它所指称的实际水果。"},
+    {"en": "Frege distinguished sense, the meaning stored in the mind, from denotation, what an expression points to.", "zh": "弗雷格区分了涵义（头脑中储存的意义）与指称（表达式所指的对象）。"},
+    {"en": "Because ode'imin and strawberry denote the same fruit, they can be said to mean the same thing.", "zh": "由于 ode'imin 与 strawberry 指称同一种水果，二者可以说意义相同。"}
+   ],
+   "terms": [
+    {"en": "semantics", "zh": "语义学", "defEn": "The study of linguistic meaning, including how word meanings combine into sentence meanings.", "defZh": "研究语言意义的学科，关注词的意义如何组合成句子的意义。"},
+    {"en": "linguistic expression", "zh": "语言表达式", "defEn": "The words, phrases and sentences produced by language users.", "defZh": "语言使用者产出和理解的词、短语与句子，例如 ode'imin 这样的表达式。"},
+    {"en": "sense", "zh": "涵义", "defEn": "The meaning of a word as stored in the minds of language users.", "defZh": "语言使用者头脑中所储存的、关于某个词或表达式的意义内容。"},
+    {"en": "denotation", "zh": "外延/指称", "defEn": "What a linguistic expression points to in the actual world.", "defZh": "语言表达式在现实世界中所指向的对象，如 strawberry 指向草莓这种水果。"}
+   ],
+   "examples": [
+    {"text": "Ode’imin and strawberry mean the same thing.", "noteEn": "Shows that two words from different languages can mean the same thing.", "noteZh": "说明不同语言的两个词可以意义相同：奥吉布瓦语的 ode'imin 与英语的 strawberry 指同一事物。"},
+    {"text": "‘There is no point in buying an expensive sewing machine if you don’t know how to use it’ (Japanese)", "noteEn": "Here imi concerns the purpose of an action, so it is not linguistic meaning.", "noteZh": "此处的 imi 关乎行为的目的，因此不是本书所讲的语言意义。"},
+    {"text": "I said coffee is just as tasty as tea, but I didn’t mean it.", "noteEn": "This use concerns sincerity and is left to Chapter 8 on pragmatics.", "noteZh": "这种用法关乎说话人的诚意，留待第 8 章语用学讨论。"},
+    {"text": "ode’imin (IPA: [odeimin]); strawberry (IPA: [stɹɔbɛɹi])", "noteEn": "The two sound sequences whose attached meaning the chapter asks about.", "noteZh": "本节所追问的、附着有意义的两个语音序列及其国际音标注音。"}
+   ],
+   "body": [
+    {"en": "The English word semantics comes from the Ancient Greek word meaning ‘significant’ (sēmantikós), which in turn comes from a word meaning ‘to show, signify’ (sēmaínein). Semantics is the study of linguistic meaning: how the meaning of words combines to form the meaning of sentences. Not every everyday use of mean or meaning belongs here. In Japanese culture a tea stalk floating vertically may “mean” good luck, yet the tea stalk is not a linguistic expression; and in the Japanese sentence about an expensive sewing machine, imi concerns the purpose of an action rather than language itself.", "zh": "英语的 semantics 一词源自表示“有意义的”的古希腊语词 sēmantikós，后者又来自表示“显示、表示”的词 sēmaínein。语义学研究语言意义，即词的意义如何组合成句子的意义。日常生活中 mean 或 meaning 的用法并非都属于此。在日本文化中，竖立在绿茶中的茶梗或许“表示”好运，但茶梗并不是语言表达式；而在那句关于昂贵缝纫机的日语例句中，imi 指的是行为的目的，并非语言本身。"},
+    {"en": "The insincerity reading of I said coffee is just as tasty as tea, but I didn’t mean it is certainly about language, since we are evaluating what someone said, but it is a matter of sincerity and will be treated in Chapter 8 on pragmatics. The example that best illustrates linguistic meaning is Ode’imin and strawberry mean the same thing. ode’imin is an Ojibwe (Anishinaabemowin) word and strawberry an English word, yet both carry content that lets speakers say yes or no when deciding whether a given object is an ode’imin or a strawberry.", "zh": "“我说咖啡和茶一样好喝，但我并不是那个意思”这种言不由衷的解读当然与语言有关，因为我们是在评价某人所说的话，但它涉及诚意问题，将留到第 8 章语用学处理。最能体现语言意义的例子是 Ode’imin and strawberry mean the same thing。ode’imin 是奥吉布瓦语（Anishinaabemowin）词，strawberry 是英语词，但两者都带有某种内容，使说话人能够就某一对象是否算作 ode’imin 或 strawberry 作出肯定或否定的判断。"},
+    {"en": "What this chapter asks is what knowledge the speaker stores about the expression ode’imin (IPA: [odeimin]) or strawberry (IPA: [stɹɔbɛɹi]) such that it points to that juicy red fruit with small seeds on the surface. Meaning attaches to the linguistic expression, not to the fruit in real life, and the same holds for signed languages such as American Sign Language. Since meaning can be viewed in two ways, Frege (1892) distinguished sense, the meaning stored in our heads, from denotation, what an expression points to: thinking in terms of denotation explains why ode’imin and strawberry “mean the same thing” and also helps us account for semantic patterns in language.", "zh": "本节要追问的是：说话人头脑中关于 ode’imin（国际音标 [odeimin]）或 strawberry（国际音标 [stɹɔbɛɹi]）这一表达式储存了怎样的知识，使它指向那种表面带小籽、多汁的红色水果。意义附着于语言表达式，而不是现实中的水果；美国手语等手语也是如此。由于意义可以从两个角度理解，弗雷格（1892）区分了涵义（储存在我们头脑中的意义）与指称（表达式所指向的对象）：从指称角度思考，可以解释 ode’imin 与 strawberry 为何“意义相同”，也有助于说明语言中的语义规律。"}
+   ]
+  },
+  "chapter-075-slug-7-2-compositionality-why-not-just-syntax": {
+   "title": {"en": "7.2 Compositionality: Why not just syntax?", "zh": "7.2 组合性原则：为什么不能只谈句法？"},
+   "summary": {
+    "en": "A sentence you have never heard before is still comprehensible because the meanings of its morphemes are stored in your head and combine in a structured way. This is the principle of compositionality, and it applies to multi-morphemic words as well as to sentences. Yet syntax alone does not determine meaning, nor does meaning alone determine grammaticality, so syntax and semantics must be studied separately.",
+    "zh": "一个从未听过的句子之所以仍能理解，是因为其语素的意义储存在头脑中，并按一定结构组合起来，这就是组合性原则，它既适用于句子，也适用于多语素词。然而句法并不能完全决定意义，意义也不能单独决定是否合乎语法，因此句法与语义必须分别考察。"
+   },
+   "points": [
+    {"en": "Compositionality holds that a complex expression's meaning comes from its parts and how they combine.", "zh": "组合性原则认为，复杂表达式的意义来自其各部分的意义及组合方式。"},
+    {"en": "A novel sentence about a raccoon is understood because each morpheme's meaning is stored and combined.", "zh": "一个关于浣熊的全新句子之所以能被理解，是因为每个语素的意义都被储存并加以组合。"},
+    {"en": "Syntactic constituency constrains semantic composition, and words forming a syntactic unit usually form a semantic unit.", "zh": "句法成分制约语义组合，构成一个句法单位的词通常也构成一个语义单位。"},
+    {"en": "Referential determiner phrases can be passivised, but predicative ones such as a scientist in (3) cannot.", "zh": "指称性的限定词短语可以构成被动句，而 (3) 中 a scientist 这样的谓语性短语则不可以。"},
+    {"en": "Before allows a clausal complement while during does not, even though both are compatible with event meanings.", "zh": "before 允许小句补足语而 during 不允许，尽管两者都与事件意义相容。"}
+   ],
+   "terms": [
+    {"en": "compositionality", "zh": "组合性原则", "defEn": "The meaning of a complex unit results from its parts and how they combine.", "defZh": "复杂语言单位的意义由其各部分的意义及这些部分的组合方式共同决定。"},
+    {"en": "constituent", "zh": "句法成分", "defEn": "A syntactic unit or subunit within a larger structure.", "defZh": "更大结构内部可以作为独立单位使用的句法成分，例如 that fluffy cat 或 the raccoon 等。"},
+    {"en": "referential", "zh": "指称性的", "defEn": "Describing an expression that points to some existing entity.", "defZh": "指表达式的意义在于指向现实世界中已经存在的某个具体实体。"},
+    {"en": "predicative", "zh": "谓语性的", "defEn": "Describing an expression that expresses a property of the subject.", "defZh": "指表达式表达主语所具有的某种属性，而不是指称某个实体。"},
+    {"en": "determiner phrase", "zh": "限定词短语", "defEn": "A phrase headed by a determiner, such as a scientist.", "defZh": "由限定词充当中心语的短语，例如英语中的 a scientist、the raccoon 这类形式的结构短语。"},
+    {"en": "passive", "zh": "被动", "defEn": "A construction where the object of an active clause becomes the subject.", "defZh": "主动句的宾语提升为主语句的句式，例如 A scientist was greeted by Vera，这类句子在英语中很常见。"}
+   ],
+   "examples": [
+    {"text": "The raccoon clothing store was doing a photo contest so I submitted a picture of a Toronto raccoon wearing a bright pink bandana with lime green polka dots on it.", "noteEn": "A sentence you have likely never heard, yet you can understand it.", "noteZh": "一个很可能从未听过的句子，但你仍然能够理解它的意义。"},
+    {"text": "the word unhelpfulness is the combination of the meaning of un-, help, -ful, and -ness, put together as [ [ un- [ help -ful ] ] -ness ]", "noteEn": "Compositionality applies to multi-morphemic words too, not only to sentences.", "noteZh": "组合性原则不仅适用于句子，也适用于由多个语素构成的词。"},
+    {"text": "Vera greeted a scientist. / Vera became a scientist. / A scientist was greeted by Vera. / *A scientist was become by Vera.", "noteEn": "Same syntax, different meaning: only the referential determiner phrase passivises.", "noteZh": "句法形式相同而意义不同：只有指称性的限定词短语才能构成被动句。"},
+    {"text": "Alan sneezed before { he met with his student / he raced / he partied / he attended the event }. / *Alan sneezed during { he met with his student / he raced / he partied / he attended the event }.", "noteEn": "Before takes a clausal complement, but during does not, so syntax matters too.", "noteZh": "before 可以带小句补足语，during 则不能，说明句法同样起作用。"}
+   ],
+   "body": [
+    {"en": "The long sentence about the raccoon clothing store is probably one you have never heard before, yet you can comprehend it and know what it means. Each morpheme's meaning is stored in your head, and combining those meanings yields the meaning of the whole. This is the principle of compositionality: the meaning of a complex linguistic unit results from the individual meanings of its subparts and from how those subparts were combined. It governs sentences, and it equally governs multi-morphemic words such as unhelpfulness, whose meaning is the combination of un-, help, -ful and -ness arranged as [ [ un- [ help -ful ] ] -ness ].", "zh": "那句关于浣熊服装店的长句你很可能从未听过，却仍能理解并知道它的意思。每个语素的意义都储存在你头脑中，把这些意义组合起来就得到整句的意义。这就是组合性原则：复杂语言单位的意义由其次级各部分的意义以及这些部分的组合方式产生。它既管句子，也同等地管多语素词，例如 unhelpfulness 的意义就是 un-、help、-ful 和 -ness 按 [ [ un- [ help -ful ] ] -ness ] 的方式组合的结果。"},
+    {"en": "Compositionality concerns not only which pieces are combined but how they are combined, which connects it to constituency, or unithood, from Chapter 6. In That fluffy cat will chase the raccoon, that fluffy cat and the raccoon are constituents, and chase the raccoon is one too, whereas that fluffy cat will is not. Word meanings combine along the same structured path: the meaning of the and raccoon combine first, then with the meaning of chase, and so on. Syntax and semantics largely go hand in hand, since fluffy and cat form a noun phrase and also a semantic unit, with fluffy telling us what kind of cat is at issue.", "zh": "组合性不仅涉及哪些成分被组合，也涉及它们如何被组合，这就与第 6 章的成分概念（单位性）联系起来。在 That fluffy cat will chase the raccoon 中，that fluffy cat 和 the raccoon 是句法成分，chase the raccoon 也是，而 that fluffy cat will 不是。词义也沿着同样的结构路径组合：先组合 the 与 raccoon 的意义，再与 chase 的意义组合，依此类推。句法与语义在很大程度上一同运作，因为 fluffy 与 cat 既构成名词短语，也构成一个语义单位，fluffy 告诉我们所谈的是哪一种猫。"},
+    {"en": "The answer is no, not necessarily. Although a scientist is a determiner phrase in both Vera greeted a scientist and Vera became a scientist, it is referential in the first and predicative in the second, so only the first passivises: A scientist was greeted by Vera is grammatical, while *A scientist was become by Vera is not. Before and during are both semantically compatible with event expressions, and before even takes a full clause, but during does not, which is why *Alan sneezed during he met with his student is ungrammatical. Syntax matters for composition, yet semantics must be examined separately.", "zh": "答案是不一定。尽管在 Vera greeted a scientist 和 Vera became a scientist 中，a scientist 都是限定词短语，但它在第一句中是指称性的，在第二句中则是谓语性的；因此只有第一句能变为被动句 A scientist was greeted by Vera，不合语法的 *A scientist was become by Vera 则不行。此外，before 和 during 在语义上都与指向事件的表达式相容，before 甚至可以带完整小句，during 却不行，所以 *Alan sneezed during he met with his student 不合语法。句法对句子如何组成固然重要，语义也必须单独加以考察。"}
+   ]
+  }
+ }
+}

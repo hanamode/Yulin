@@ -1,0 +1,106 @@
+{
+ "batch": 66,
+ "sections": {
+  "chapter-153-slug-14-3-phonological-change": {
+   "title": {"en": "14.3 Phonological change", "zh": "14.3 音系变化"},
+   "summary": {
+    "en": "Historical phonology largely reuses the same processes found synchronically, but adds sporadic types such as metathesis, spelling pronunciation, hyperforeignism, dissimilation, and analogy. Regular sound changes instead apply uniformly in a consistent environment, whether conditioned or unconditioned, and may merge, split, or merely shift phonemes. The Great Vowel Shift, a chain of overlapping non-merging shifts, rearranged the English long vowels.",
+    "zh": "历时音系变化大多沿用共时可见的音系过程，但还包括换位、拼写读音、过度外来化、异化和类比等零星变化。规则音变则在特定环境中一致地作用于所有可能的词，并可分为有条件与无条件两类；其结果可能造成音位合并、音位分裂，或仅是音位转移。英语长元音的大元音移位即由多项重叠而不合并的变化构成。"
+   },
+   "points": [
+    {"en": "Metathesis swaps the positions of sounds, as in the ASL signs DEAF1 and DEAF2 or English ask versus axian.", "zh": "换位使语音位置互换，如美国手语 DEAF1 与 DEAF2，或英语 ask 与历史上的 axian。"},
+    {"en": "Spelling pronunciation shifts a word toward its spelling, as when Arctic gained [k] after being respelled from Latin.", "zh": "拼写读音让发音向拼写靠拢，如 Arctic 依拉丁拼写重新拼写后读作 [ɑrktɪk]。"},
+    {"en": "Hyperforeignism applies stereotypes about foreign languages, as with Beijing [beʒɪŋ] and coup de grâce [ku də ɡrɑ].", "zh": "过度外来化套用对外语的刻板印象，如 Beijing 读 [beʒɪŋ]、coup de grâce 读 [ku də ɡrɑ]。"},
+    {"en": "Regular sound changes apply uniformly in a consistent environment, but may spread through the lexicon by lexical diffusion.", "zh": "规则音变在一致的环境中统一作用，但可能通过词汇扩散逐词蔓延。"},
+    {"en": "Sound changes may merge, split, or merely shift phonemes; the Great Vowel Shift is a chain shift without merger.", "zh": "音变可导致音位合并、分裂或单纯转移；大元音移位是没有合并的链移。"}
+   ],
+   "terms": [
+    {"en": "metathesis", "zh": "换位", "defEn": "A sporadic change in which parts of the pronunciation swap positions.", "defZh": "一种零星变化，发音的组成部分互换位置。"},
+    {"en": "spelling pronunciation", "zh": "拼写读音", "defEn": "A change in which a word's pronunciation shifts to match its spelling.", "defZh": "词的发音向拼写靠拢而变化。"},
+    {"en": "hyperforeignism", "zh": "过度外来化", "defEn": "Using stereotypes about a foreign language instead of the original pronunciation.", "defZh": "以外语的刻板印象取代词的原本读音。"},
+    {"en": "lexical diffusion", "zh": "词汇扩散", "defEn": "The spread of a regular sound change through the lexicon word by word.", "defZh": "规则音变在词库中逐词传播的过程。"},
+    {"en": "phonemic merger", "zh": "音位合并", "defEn": "A regular sound change that decreases the number of phonemes in a language.", "defZh": "使语言音位数量减少的规则音变。"},
+    {"en": "chain shift", "zh": "链移", "defEn": "Overlapping non-merging shifts in which a newer form is another change's older form.", "defZh": "多项音变重叠且不合并，一项的新形式正是另一项的旧形式。"}
+   ],
+   "examples": [
+    {"text": "In Old English, we find it first attested as ascian with [sk], but we soon find evidence of a metathesized form axian or acsian with [ks].", "noteEn": "Metathesis in ask; the dominant [ks] variant resisted the [sk] > [ʃ] change.", "noteZh": "ask 的换位：占优势的 [ks] 变体躲过了 [sk] > [ʃ] 音变。"},
+    {"text": "[sw] > [s] / ▁ back vowel", "noteEn": "A conditioned regular change, written with the environment after the slash.", "noteZh": "有条件规则音变的记法，斜线后标明发生的环境。"},
+    {"text": "cnif ‘knife’ was pronounced [kniːf], while its plural cnifas was pronounced [kniːvas]", "noteEn": "[f] and [v] were allophones until French loans made them contrast.", "noteZh": "在法语借词造成对立之前，[f] 与 [v] 只是同一音位的变体。"},
+    {"text": "brycɡ > bridge and cyssen > kiss", "noteEn": "An unconditioned [y] > [i] change that merged two older phonemes.", "noteZh": "无条件的 [y] > [i] 音变，使两个较早的音位合并。"}
+   ],
+   "body": [
+    {"en": "Not all phonological change is systematic. Sporadic changes touch only a handful of words. Metathesis swaps sound positions: Old English ascian with [sk] developed a variant axian or acsian with [ks], so ask escaped the change [sk] > [ʃ] that turned fisc into fish. Similar variants appear in the ASL signs DEAF1 and DEAF2. Dissimilation, analogy, and immediate model, as when February is pronounced by model with January, are other sporadic types.", "zh": "并非所有音系变化都是系统性的，零星变化只影响少数词。换位使语音位置互换：古英语 ascian 的 [sk] 发展出 axian 或 acsian 的 [ks] 变体，axian 一度占优势，使 ask 躲过了把 fisc 变成 fish 的 [sk] > [ʃ] 音变。美国手语 DEAF1 与 DEAF2 亦有类似变体。异化、类比以及即时模仿（如 February 与 January 连用而变读）都是零星变化的类型。"},
+    {"en": "Spelling pronunciation pulls a word toward its written form: Arctic, borrowed from Middle French artique, gained [k] after being respelled from Latin arcticus, and falcon, hectic, and perfect acquired [l], [h], and [k] the same way. Hyperforeignism instead applies stereotypes about a foreign language, so Beijing is often said [beʒɪŋ] rather than [bed͡ʒɪŋ], lingerie ends in [e] rather than French [i], and coup de grâce loses its final [s].", "zh": "拼写读音使发音向书写形式靠拢：Arctic 借自中古法语 artique，后来依拉丁语 arcticus 重新拼写而获得 [k]，falcon、hectic、perfect 也分别因新拼写而读出了 [l]、[h]、[k]。过度外来化则把对外语的刻板印象套在借词上：Beijing 常被读作 [beʒɪŋ] 而非 [bed͡ʒɪŋ]，lingerie 的词尾由法语的 [i] 变成 [e]，coup de grâce 的末尾 [s] 被删除。"},
+    {"en": "Regular sound changes, by contrast, apply uniformly in a consistent environment. The Neogrammarians claimed in the late 1800s that all sound changes were regular, a proposal called the regularity principle. We now know that sporadic changes are common, and that regular changes may spread through the lexicon by lexical diffusion, reaching frequent words first; in Philadelphia, bad, glad, and mad show a raised [æ̝] before /d/, while dad and sad do not.", "zh": "规则音变则像共时音系规则一样，在一致的环境中统一作用。19 世纪晚期的青年语法学派主张一切音变都是规则的，这被称为规则性原则。如今我们知道零星音变很常见，规则音变也会通过词汇扩散逐词蔓延，通常先影响高频词；在费城，bad、glad、mad 因 /d/ 前的 /æ/ 音变而读作较高的 [æ̝]，dad 和 sad 则尚未受影响。"},
+    {"en": "Regular changes may be conditioned or unconditioned, and they can alter the phoneme inventory. A merger reduces the number of phonemes, as when /y/ merged with /i/ in brycɡ > bridge; a split increases them, as when borrowed French words gave English /v/ in contrast with /f/, as in fine and vine. A shift changes pronunciation only. The Great Vowel Shift was a chain shift of overlapping non-merging changes that raised the long vowels until [iː] and [uː] became [ai] and [au], leaving traces in pairs like divine–divinity.", "zh": "规则音变可有条件，也可无条件，并会改变音位数量。合并减少音位，如 /y/ 与 /i/ 合并而有 brycɡ > bridge；分裂增加音位，如法语借词使英语的 /v/ 与 /f/ 在 fine 和 vine 中形成对立。转移只改变读音而不改音位数量。大元音移位是多项重叠而不合并的链移，长元音依次高化，[iː] 和 [uː] 最终变为 [ai] 和 [au]，并在 divine–divinity 等词对中留下痕迹。"}
+   ]
+  },
+  "chapter-154-slug-14-4-morphological-change": {
+   "title": {"en": "14.4 Morphological change", "zh": "14.4 形态变化"},
+   "summary": {
+    "en": "Morphological change reshapes inflectional paradigms and the internal structure of words. Paradigms may become more consistent through analogy, which can level allomorphy or extend a pattern taken from other verbs, and inflectional affixes can be replaced in the same way. Reanalysis shifts boundaries between morphemes, while folk etymology, eggcorns, mondegreens, and back formation reinterpret words and may create new morphemes.",
+    "zh": "形态变化既重塑屈折词形变化表，也改变词的内部结构。类比可使变化表更一致，既可能通过类推拉平减少词根语素变体，也可能依其他词的格局扩展出更多变体，屈折词缀同样会被替换。重新分析使语素边界移动，民间词源、蛋壳词、错听词与逆构词则重新解释词的构造，并可能创造新的语素。"
+   },
+   "points": [
+    {"en": "Analogical levelling reduces the number of root allomorphs, as when Middle English help, halp, holp became Modern English help.", "zh": "类推拉平减少词根语素变体，如中古英语的 help、halp、holp 变为现代英语的单一形式 help。"},
+    {"en": "Analogical extension can increase allomorphs, as when Old English hring gained the ring, rang, rung pattern of sing.", "zh": "类推扩展可增加语素变体，如古英语 hring 依 begin、sing 的格局变成 ring、rang、rung。"},
+    {"en": "Reanalysis shifts a morpheme boundary, turning a napron into an apron and an ewte into a newte.", "zh": "重新分析使语素边界移动，a napron 变成 an apron，an ewte 变成 a newte。"},
+    {"en": "Folk etymology reinterprets a word's structure, as when Algonquian ochek was reinterpreted as woodchuck.", "zh": "民间词源重新解释词的构造，如阿尔冈昆语的 ochek 被重新理解为 woodchuck。"},
+    {"en": "Back formation creates new morphemes from false structure, such as emote from emotion and -holic from alcoholic.", "zh": "逆构词从错误的结构中造出新语素，如由 emotion 造出 emote，由 alcoholic 造出 -holic。"}
+   ],
+   "terms": [
+    {"en": "paradigm", "zh": "词形变化表", "defEn": "The set of inflected words formed from a single root.", "defZh": "由同一词根构成的一整套屈折词形。"},
+    {"en": "syncretism", "zh": "同形合并", "defEn": "When two or more distinct parts of a paradigm are pronounced identically.", "defZh": "词形变化表中两个或多个不同部分读音完全相同。"},
+    {"en": "analogical levelling", "zh": "类推拉平", "defEn": "Analogy that reduces the number of allomorphs a root has in its paradigm.", "defZh": "减少词根在变化表中语素变体数量的类比。"},
+    {"en": "reanalysis", "zh": "重新分析", "defEn": "A change in which a morphological boundary shifts across one or more phones.", "defZh": "形态边界越过一个或多个音素而移动的变化。"},
+    {"en": "folk etymology", "zh": "民间词源", "defEn": "Treating a word as having an etymology that it does not actually have.", "defZh": "把词当作具有其实际并不存在的词源。"},
+    {"en": "back formation", "zh": "逆构词", "defEn": "Creating a new morpheme from a false morphological structure.", "defZh": "依据错误的形态结构创造新语素。"}
+   ],
+   "examples": [
+    {"text": "by analogy with the rest of the swear paradigm, the [sw] was retained in all of swear’s forms, blocking the sound change from applying to swore and sworn", "noteEn": "Paradigm consistency blocked a regular change in two past forms.", "noteZh": "为保持变化表一致，规则的音变被阻止作用于两个过去形式。"},
+    {"text": "a napron was reanalyzed as an apron", "noteEn": "The [n] moved from the noun to the indefinite article.", "noteZh": "[n] 由名词转移到不定冠词，名词随之变为 apron。"},
+    {"text": "Old English angnægl ‘hangnail’ was originally a compound of ange ‘tight; painful’ and nægl ‘nail’", "noteEn": "Folk etymology rebuilt the compound under the influence of hang.", "noteZh": "民间词源在 hang 的影响下重新解释了这一复合词。"},
+    {"text": "Some verbs like babysit and edit were back-formed from nouns (babysitter and editor)", "noteEn": "New verbs were extracted from nouns that looked like verb plus -er.", "noteZh": "看似动词加 -er 的名词被拆解，从中造出新的动词。"}
+   ],
+   "body": [
+    {"en": "Root morphemes combine with inflectional affixes to form an inflectional paradigm. The basic English verb paradigm uses ROOT, ROOT-s, ROOT-ed, and ROOT-ing, and it shows syncretism in the past tense and past participle, which share the suffix -ed. Other verbs differ: show has showed for the past but shown for the participle, while ring and go show internal change and suppletion, as in ring, rang, rung and go, went, gone.", "zh": "词根语素与屈折词缀组合成屈折词形变化表。英语基本动词变化表包括 ROOT、ROOT-s、ROOT-ed 和 ROOT-ing，其中过去时与过去分词同形，都带后缀 -ed，属于同形合并。其他动词的格局不同：show 的过去时是 showed，过去分词是 shown；ring 与 go 则有内部变化和异根替换，如 ring、rang、rung 和 go、went、gone。"},
+    {"en": "Because paradigms differ, they are a source of change; languages often make them more consistent by copying patterns from elsewhere, a process called analogy. Analogy blocked the Old English change [sw] > [s] in the past forms of swear, keeping swore and sworn consistent with swear. Analogy usually reduces the number of root allomorphs, a type called analogical levelling: Middle English help, halp, holp became help, helped, helped, like float and hope. More rarely, analogical extension increases allomorphs, as when hring became ring, rang, rung after sing.", "zh": "变化表各不相同，因而成为语言变化的来源；语言常模仿别处的格局使变化表更一致，这就是类比。类比使 [sw] > [s] 音变未作用于 swear 的过去形式，swore 和 sworn 因而与 swear 保持一致。类比通常减少词根语素变体，称为类推拉平：中古英语的 help、halp、holp 变成 help、helped、helped，与 float、hope 一致。较少见的是类推扩展，如 hring 依 sing 变成 ring、rang、rung。"},
+    {"en": "Morphological structure itself can change. In reanalysis, or rebracketing, a boundary shifts across phones while the same morphemes remain. Middle English napron was often used after the indefinite article, so a napron was reanalyzed as an apron and the noun became apron; the reverse happened when an ewte became a newte. Related words that did not undergo the change preserve the older shape, as in napkin and eft.", "zh": "词的形态结构本身也会变化。重新分析（重新括弧）中，语素边界越过音素移动，而语素本身不变。中古英语 napron 常接在不定冠词后，于是 a napron 被重新分析为 an apron，名词单用即变成 apron；反向移动则使 an ewte 变成 a newte。未经历该变化的同源词保留较早形式，如 napkin 和 eft。"},
+    {"en": "Folk etymology imposes a new structure on a word, as when Algonquian ochek was reinterpreted as the compound woodchuck. Individual misperceptions of this kind are eggcorns, such as for all intensive purposes for for all intents and purposes; when the meaning changes too, the result is a mondegreen. Back formation goes further, creating a new morpheme from a false structure: emotion yielded emote, and alcoholic yielded the productive suffix -holic in chocoholic and workaholic.", "zh": "民间词源把原本没有的结构强加给词，如阿尔冈昆语 ochek 被重新理解为复合词 woodchuck。个人的这类误解称为蛋壳词，如把 for all intents and purposes 说成 for all intensive purposes；若意义也改变，则为错听词。逆构词更进一步，从错误结构造出新语素：emotion 产出 emote，alcoholic 产出能产的 -holic，如 chocoholic、workaholic。"}
+   ]
+  },
+  "chapter-155-slug-14-5-syntactic-change": {
+   "title": {"en": "14.5 Syntactic change", "zh": "14.5 句法变化"},
+   "summary": {
+    "en": "Syntactic change can convert a morphosyntactic pattern from analytic to synthetic or back again, as English negation contracted into the suffix -n't and infinitives lost their -an ending. Grammaticalization turns lexical words into functional ones, as when still became an aspectual adverb. Basic word order may also shift, as Old English SOV gave way to rigid SVO, and such changes reflect constituency and movement.",
+    "zh": "句法变化可使某种形态句法格局在分析型与综合型之间转换：英语否定词缩合成后缀 -n't，不定式则失去 -an 后缀而改用 to。语法化让词汇词变为功能词，如 still 成为体副词。基本语序也会变化，古英语的 SOV 让位于严格的 SVO，这类变化与句法成分和移位原则密切相关。"
+   },
+   "points": [
+    {"en": "A pattern changes from analytic to synthetic when separate words reduce and become bound, as in have not > haven't.", "zh": "独立的词弱化并附着成词缀时，格局由分析型转为综合型，如 have not > haven't。"},
+    {"en": "The reverse change occurs when affixes erode, as when Old English infinitive -an gave way to the analytic to play.", "zh": "词缀磨损则引发反向变化，如古英语不定式后缀 -an 让位于分析型的 to play。"},
+    {"en": "Grammaticalization shifts a word from a lexical category to an abstract grammatical function, as still became an aspectual adverb.", "zh": "语法化使词从词汇词类转向抽象的语法功能，如 still 成为体副词。"},
+    {"en": "Basic word order can shift over time, as Old English SOV after pronouns gave way to rigid SVO in Modern English.", "zh": "基本语序会随时间变化，古英语代词宾语时的 SOV 在现代英语中让位于严格的 SVO。"},
+    {"en": "Word-order changes follow principles of constituency and movement, such as V-to-T movement in Middle English.", "zh": "语序变化遵循句法成分与移位原则，如中古英语的 V 到 T 移位。"}
+   ],
+   "terms": [
+    {"en": "analytic", "zh": "分析型", "defEn": "Expressing a grammatical function as a free morpheme separate from the root.", "defZh": "用独立于词根的自由语素表达语法功能。"},
+    {"en": "synthetic", "zh": "综合型", "defEn": "Expressing a grammatical function as a bound morpheme in the same word as the root.", "defZh": "用与词根同词的黏着语素表达语法功能。"},
+    {"en": "grammaticalization", "zh": "语法化", "defEn": "A change in which a word shifts to a more abstract grammatical function and category.", "defZh": "词转向更抽象的语法功能并改变词类的变化。"},
+    {"en": "subject-aux inversion", "zh": "主语与助动词倒装", "defEn": "The movement that forms yes-no questions by inverting subject and auxiliary.", "defZh": "通过主语与助动词换位构成一般疑问句的移位。"},
+    {"en": "V-to-T movement", "zh": "V 到 T 移位", "defEn": "Movement of a verb from V to the tense head, as in Middle English.", "defZh": "动词从 V 位置移到时制中心语，如中古英语。"}
+   ],
+   "examples": [
+    {"text": "They have not left.", "noteEn": "The negative not is still a separate word in this alternation.", "noteZh": "在这一交替中 not 仍是独立的词，与缩合形式相对。"},
+    {"text": "Haven’t they left?", "noteEn": "-n't inverts with the auxiliary, showing it is a suffix rather than a word.", "noteZh": "-n't 随助动词一起倒装，说明它已是后缀而非独立的词。"},
+    {"text": "he loued neuer sire Trystram after that", "noteEn": "Middle English allowed the verb to move past the adverb neuer.", "noteZh": "中古英语允许动词移到副词 neuer 之前。"},
+    {"text": "I like chicken, but fish, I hate", "noteEn": "An emphatic OSV clause, a possible seed of later word-order change.", "noteZh": "强调性的 OSV 小句，可能是日后语序变化的开端。"}
+   ],
+   "body": [
+    {"en": "Grammatical functions may be expressed synthetically, with a bound morpheme in the same word as the root, or analytically, with a separate free morpheme. The English past tense is synthetic, while the will future is analytic. Malagasy marks past and future with bound prefixes, so both are synthetic, whereas Māori uses separate tense words before the verb, making both analytic. These labels normally describe a single pattern rather than a whole language.", "zh": "语法功能既可用综合型方式表达，即用与词根同词的黏着语素，也可用分析型方式，即用独立的自由语素。英语过去时是综合型，will 将来时是分析型。马达加斯加语的过去时和将来时都用前缀，属综合型；毛利语则在动词前使用独立的时态词，两者都是分析型。这些术语通常描述的是某一具体格局，而非整门语言。"},
+    {"en": "Patterns can shift between the two types. Separate words may reduce phonologically and collapse into one word, as when not becomes the suffix -n't: -n't must invert with the auxiliary in questions, unlike the separate word not. Conversely, affixes may erode and be replaced by separate words. Old English infinitives carried -an, as in plegian, but Middle English lost these suffixes and the analytic two-word infinitive with tō, now to play, became the only option.", "zh": "格局可在两类之间转换。独立的词会发生音系弱化并合并为一个词，如 not 变成后缀 -n't：在疑问句中 -n't 必须随助动词倒装，而独立的 not 不必。反过来，词缀也可能磨损并被独立的词取代。古英语不定式带后缀 -an，如 plegian，中古英语中这些后缀消失，带 tō 的两词分析型不定式（今 to play）成为唯一形式。"},
+    {"en": "Grammaticalization shifts a word from a lexical category to a more abstract grammatical function, usually with a change in meaning. Old English stille ‘quiet, calm, motionless’ became the aspectual adverb still, as in it is still raining, though the adjective survives in stand still. Similar shifts include willan ‘to want, wish’ > will, hwīl ‘period of time’ > while, and French chez from Latin casa ‘cottage, hut’.", "zh": "语法化使词从词汇词类转向更抽象的语法功能，通常伴随意义变化。古英语形容词 stille（安静、静止）语法化为体副词 still，如 it is still raining，形容词用法仍见于 stand still。类似变化包括 willan（想要、希望）> will，hwīl（一段时间）> while，以及拉丁语 casa（小屋）> 法语 chez。"},
+    {"en": "Basic word order can also change. Old English commonly used SVO, but SOV appeared when the object was a pronoun, as in He hit hæfde ‘He had it’. By the end of Middle English the order had become rigidly SVO, and Modern English SOV is normally ungrammatical, though emphatic OSV survives in fish, I hate. Such changes are not random: Middle English allowed V-to-T movement for main verbs, letting loued precede neuer, but Modern English does not.", "zh": "基本语序也会变化。古英语常用 SVO，但宾语为代词时常用 SOV，如 He hit hæfde（他把它有了）。到中古英语末期，语序基本固定为 SVO，现代英语的 SOV 通常不合语法，只有强调性的 OSV 还见于 fish, I hate。这类变化并非随意：中古英语允许主动词的 V 到 T 移位，使 loued 出现在 neuer 之前，现代英语则不允许。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,310 @@
+{
+ "batch": 7,
+ "sections": {
+  "chapter-003-slug-1-3-studying-language-scientifically": {
+   "title": {
+    "en": "1.3 Studying language scientifically",
+    "zh": "1.3 科学地研究语言"
+   },
+   "summary": {
+    "en": "Linguistics studies human language through systematic, empirical observation rather than laboratory equipment, and it aims to describe language as it is used instead of prescribing it. Because much of our grammatical knowledge is unconscious, linguists use tools such as metalinguistic awareness, acceptability judgments, surveys, corpora and experiments to observe the mind indirectly.",
+    "zh": "语言学以系统、经验性的观察研究人类语言，并不需要实验室设备；其目标是描写语言，而不是规定语言应该怎样使用。由于语法知识大多处于无意识状态，语言学家借助元语言意识、可接受性判断、问卷调查、语料库和实验等工具，间接地观察心智中的语法。"
+   },
+   "points": [
+    {
+     "en": "Linguistics asks questions about language using a scientific approach based on systematic, empirical observation.",
+     "zh": "语言学以科学的提问方式研究语言，其基础是系统而经验性的观察。"
+    },
+    {
+     "en": "Empirical means observing data as evidence, and linguists describe language rather than prescribing how it should be used.",
+     "zh": "经验性指以观察到的数据作为证据；语言学家描写语言，而不规定语言应当如何使用。"
+    },
+    {
+     "en": "Metalinguistic awareness is conscious knowledge about grammar, which is often easier to access in a learned language.",
+     "zh": "元语言意识是关于语法的有意识知识，对于后天学习的语言往往更容易提取。"
+    },
+    {
+     "en": "Acceptability judgments reveal that grammaticality concerns whether a form could exist, not whether it does.",
+     "zh": "可接受性判断表明，合乎语法性关注的是某一形式能否存在，而不是它是否已经存在。"
+    },
+    {
+     "en": "Surveys, corpora, phonetic software and psychological experiments let linguists observe language systematically.",
+     "zh": "问卷调查、语料库、语音分析软件与心理学实验使语言学家能够系统地观察语言。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "empirical",
+     "zh": "经验性的",
+     "defEn": "Based on data observed in the world rather than on intuition or authority.",
+     "defZh": "以在现实世界中观察到的数据为依据，而非凭直觉或权威论断。"
+    },
+    {
+     "en": "descriptive approach",
+     "zh": "描写性取向",
+     "defEn": "An approach that describes what people actually do with their language.",
+     "defZh": "描写人们实际如何使用语言的研究取向，不对用法作好坏评判。"
+    },
+    {
+     "en": "prescriptive approach",
+     "zh": "规定性取向",
+     "defEn": "An approach that tells people how they should or should not use language.",
+     "defZh": "规定人们应当或不应当如何使用语言的取向，常带有评判色彩。"
+    },
+    {
+     "en": "metalinguistic awareness",
+     "zh": "元语言意识",
+     "defEn": "Conscious knowledge about your grammar, as opposed to the grammatical knowledge itself.",
+     "defZh": "对自己语法的有意识知识，与语法知识本身相对，常用于间接考察心理语法。"
+    },
+    {
+     "en": "acceptability judgment",
+     "zh": "可接受性判断",
+     "defEn": "A speaker's judgment about whether a form is possible in their language.",
+     "defZh": "说话人对某一形式在其语言中是否成立所作出的判断，又称合乎语法性判断。"
+    },
+    {
+     "en": "corpus",
+     "zh": "语料库",
+     "defEn": "A large database collecting examples of language as used in the world.",
+     "defZh": "大规模汇集现实语言使用实例的数据库，可包含文本、音频或手语视频。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Are you going to call your cute little creature a blifter or a lbitfer?",
+     "noteEn": "Both forms use English sounds, but only blifter feels like a possible word.",
+     "noteZh": "两个形式都由英语语音构成，但只有 blifter 让人感觉可能成为英语词。"
+    },
+    {
+     "text": "What did Sam compare the forged painting with?",
+     "noteEn": "This wh-question is acceptable in English, unlike the version with and.",
+     "noteZh": "这个特殊疑问句在英语中可以接受，而用 and 构成的版本则不行。"
+    },
+    {
+     "text": "*What did Sam compare the forged painting and?",
+     "noteEn": "The asterisk at the beginning marks a form that simply cannot happen.",
+     "noteZh": "句首的星号标记出这一形式在英语中根本无法成立，属于不合语法。"
+    },
+    {
+     "text": "people in Saskatchewan call it a bunny hug",
+     "noteEn": "Survey data reveal regional words for the same garment, a hoodie or sweatshirt.",
+     "noteZh": "调查数据显示，同一件连帽衫在加拿大不同地区有不同的说法。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Linguistics is the science of human language, but doing linguistics does not require a lab coat and a microscope; it means asking questions about language scientifically, through systematic and empirical observation. Empirical means observing data to find evidence for our theories, just as entomologists observe insects and chemists observe substances. Linguists aim for accurate description rather than value judgments, so the goal is a descriptive approach, not a prescriptive one. Saying that adding -s to a noun lets it refer to many things, as in apples, books, or shoes, is descriptive; insisting on viri rather than viruses is prescriptive.",
+     "zh": "语言学是研究人类语言的科学，但这并不意味着做语言学需要白大褂和显微镜，而是指以科学的方式提问，进行系统而经验性的观察。经验性就是以观察到的数据为理论寻找证据：昆虫学家观察昆虫，化学家观察物质，语言学家则观察人们如何使用语言。语言学家追求准确的描写而非价值评判，因此目标是描写性取向，而不是规定性取向。说英语名词加上 -s 就能指称多个事物，如 apples、books、shoes，这是描写；坚称 virus 必须复数化为 viri，则是规定。"
+    },
+    {
+     "en": "Much of what we study is hard to observe: we cannot go out to the garden and find grammar crawling on a plant, so we must work out how to observe the mind. One tool is metalinguistic awareness, the conscious knowledge you have about your grammar rather than the grammatical knowledge itself; for a first language much of it is implicit and hard to access. Consider naming a creature in a game: both blifter and lbitfer use English sounds and neither exists, yet only blifter could be a word. Since lbitfer is not a possible English word, it is ungrammatical; grammaticality is about whether a form could exist, not about what already exists.",
+     "zh": "难点在于，我们研究的许多对象难以直接观察：我们无法走到花园里，找到一只趴在植物上的语法，因此必须想办法观察心智。工具之一是元语言意识，即你对自己语法所具有的有意识知识，而不是语法知识本身；第一语言的大量此类知识是隐性的，不易提取。设想给游戏中的小生物起名：blifter 和 lbitfer 都由英语语音构成，且都不存在于英语中，但只有 blifter 可能成为词。既然 lbitfer 不可能是英语词，它在英语中就是不合语法的；合乎语法性关乎某一形式能否存在，而非它是否已经存在。"
+    },
+    {
+     "en": "Acceptability judgments, also called grammaticality judgments, are our empirical observations. Sam compared the forged painting with the original and the version with and are both acceptable, and both make yes-no questions, yet only What did Sam compare the forged painting with? works as a wh-question; *What did Sam compare the forged painting and? cannot happen. Our job is to explain what in the mental grammar accounts for the difference. Other tools include surveys, which reveal regional words such as sweatshirt, hoodie and, in Saskatchewan, bunny hug; corpora; software such as Praat, ELAN and SLP-Annotator; and experiments measuring reaction times, eye movements, or brain activity with EEG and fMRI.",
+     "zh": "可接受性判断（又称合乎语法性判断）就是我们的经验性观察。Sam compared the forged painting with the original 与用 and 的版本都可以接受，也都能构成一般疑问句，但只有 What did Sam compare the forged painting with? 能作为特殊疑问句成立；*What did Sam compare the forged painting and? 根本不可能。接下来我们的任务，就是解释心理语法中的什么因素造成了这种差异。其他工具还包括：问卷调查，可揭示 sweatshirt、hoodie 以及在萨斯喀彻温省说的 bunny hug 等地区用词；语料库；Praat、ELAN、SLP-Annotator 等软件；以及测量反应时、眼动，或用脑电图（EEG）与功能性磁共振成像（fMRI）观察脑活动的实验。"
+    }
+   ]
+  },
+  "chapter-004-slug-1-4-thinking-about-standards-and-proper-grammar": {
+   "title": {
+    "en": "1.4 Thinking about standards and “proper” grammar",
+    "zh": "1.4 关于标准语与「规范」语法的思考"
+   },
+   "summary": {
+    "en": "Linguists aim to treat all languages and dialects as equally valid, yet social power relations generate linguistic bias, including among linguists themselves. The standard variety of a language is not objectively best; it is the variety linked to economic, social or political power, and treating it as the only correct form discriminates against speakers of other varieties.",
+    "zh": "语言学家的目标是同等看待一切语言与方言，但社会权力关系会催生语言偏见，语言学家自身也不例外。所谓标准变体并非客观上最优，而是与经济社会或政治权力相联系的变体；若把它当作唯一正确形式，就会歧视使用其他变体的人，例如克里奥尔语与黑人英语的使用者。"
+   },
+   "points": [
+    {
+     "en": "Studying language scientifically means not ranking any dialect as better than another, a genuinely radical goal.",
+     "zh": "科学地研究语言意味着不把任何方言评判为优于其他方言，这是一个颇为激进的目标。"
+    },
+    {
+     "en": "Relationships such as teacher-student and communities of ethnicity, religion or profession shape language expectations.",
+     "zh": "师生、医患等关系，以及族群、宗教、职业等社群身份，都会塑造人们对语言的期待。"
+    },
+    {
+     "en": "North Americans often perceive all British English varieties as prestigious, even those stigmatized in the UK.",
+     "zh": "北美听众常把所有英国英语变体都视为高声望，即便其中一些在英国本土受到污名化。"
+    },
+    {
+     "en": "Standardization happens through social mechanisms of power, such as official academies, dictionaries and style guides.",
+     "zh": "标准化通过社会权力机制实现，例如官方机构、词典与体例指南。"
+    },
+    {
+     "en": "Judging the standard as the only proper form discriminates against Kreyòl speakers, Black English speakers and others.",
+     "zh": "把标准语视为唯一正确形式，会歧视克里奥尔语使用者、黑人英语使用者等人群。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "linguistic bias",
+     "zh": "语言偏见",
+     "defEn": "A positive or negative judgment about people based on how they use language.",
+     "defZh": "依据他人使用语言的方式对其作出的正面或负面评判，人人皆难以避免。"
+    },
+    {
+     "en": "standard variety",
+     "zh": "标准变体",
+     "defEn": "The form that most closely matches dictionaries, textbooks and high-status media.",
+     "defZh": "与词典、教科书及高地位媒体所用形式最为接近的语言变体。"
+    },
+    {
+     "en": "standardization",
+     "zh": "标准化",
+     "defEn": "The process by which one variety is established as the norm through social power.",
+     "defZh": "通过社会权力把某一变体确立为规范的过程，与语法优劣无关。"
+    },
+    {
+     "en": "prestige",
+     "zh": "声望",
+     "defEn": "The social value attached to a way of speaking, making it seem more educated.",
+     "defZh": "附着于某种说话方式之上的社会价值，使人显得更有教养或更聪明。"
+    },
+    {
+     "en": "Black English",
+     "zh": "黑人英语",
+     "defEn": "The English variety associated with Black speakers, also called AAL or AAVE.",
+     "defZh": "与黑人说话者相联系的英语变体，也称非洲裔美国人语言或非洲裔美国人白话英语。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "un péril mortel",
+     "noteEn": "The Académie Française called inclusive writing a mortal danger to French.",
+     "noteZh": "法兰西学术院把包容性写法称为法语面临的「致命危险」。"
+    },
+    {
+     "text": "the Queen’s English",
+     "noteEn": "The British shorthand for the highest-prestige variety points to royal power.",
+     "noteZh": "英国指称最高声望变体的简称「女王英语」，直接指向王权。"
+    },
+    {
+     "text": "More than 90% of people Haiti speak Kreyòl, a language with its own consistent grammar and spelling.",
+     "noteEn": "Haitian schooling in standardized French tells children their own language is wrong.",
+     "noteZh": "海地学校以标准法语授课，等于告诉孩子他们自己的语言是错的。"
+    },
+    {
+     "text": "he distrusted the doctor’s medical opinion because his accent was not Canadian",
+     "noteEn": "An Alberta judge set aside medical evidence on the basis of accent.",
+     "noteZh": "艾伯塔省一名法官仅凭口音便否决了医生提供的医学证据。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Linguists aim to describe languages and dialects accurately without ranking any dialect as better than another. This is a radical goal, because language is intertwined with human relationships and social categories: the communities we belong to, whether based on ethnicity, religion or profession, shape how we use language and expect others to use it, and relationships like teacher-student or doctor-patient involve power relations that shape expectations about language. Everyone, including linguists, has linguistic biases arising from social power dynamics, but learning about language and power gives us metalinguistic awareness of them.",
+     "zh": "语言学家的目标是准确描写各种语言与方言，而不把任何方言评判为优于其他方言。这是一个颇为激进的目标，因为语言与人的关系和社会范畴紧密交织：我们所属的社群——无论基于族群、宗教还是职业——都会塑造我们使用语言的方式和对他人的期待；师生、医患之类的关系也包含影响语言期待的权力关系。包括语言学家在内，人人都有源自社会权力关系的语言偏见，但了解语言与权力可以帮助我们对这些偏见形成元语言意识。"
+    },
+    {
+     "en": "One prevalent bias in Canada and the US is that North Americans tend to perceive all varieties of British English as having high prestige, assuming that speakers of UK English are better educated, even for varieties that have low prestige in the United Kingdom. The standard variety is the form that has been standardized, matching dictionaries, textbooks and high-status media. In France the Académie Française decides what counts as correct French, declaring inclusive writing un péril mortel, a mortal danger. English has no official language police, but standardized English is enforced through social norms, dictionaries, style guides and grammar-checking software.",
+     "zh": "在加拿大和美国，一种很普遍的语言偏见是把所有英国英语变体都视为具有高声望，认为其使用者受教育更好，即使某些变体在英国本土声望很低。标准变体指的是已经标准化的形式，即与词典、教科书和高地位媒体最为一致的形式。在法国，法兰西学术院决定什么算正确的法语，并宣称包容性写法是 un péril mortel（致命危险）。英语没有官方的语言警察，但标准英语仍通过社会规范、词典、体例指南和语法检查软件得以推行。"
+    },
+    {
+     "en": "The standardized variety is not objectively the best or clearest; nothing linguistic determines what is best. It is usually the variety associated with economic, social or political power, and for English and other European languages it tends to be the variety used by white people with a certain amount of formal education. Black English makes this visible: not all Black people in the United States speak it, and not all its speakers are Black, but using it is a strong indicator of Black American identity, yet it is not what anyone means by Standard American English. When people say standard language they usually think the language that white people use, and treating that standard as the only correct form discriminates against other varieties.",
+     "zh": "标准变体并不是客观上最好或最清晰的；语言上没有任何东西能判定何者「最好」。它通常是与经济、社会或政治权力相联系的变体；对英语及其他欧洲语言而言，它往往是接受过一定正规教育的白人使用的变体。黑人英语正说明了这一点：美国并非所有黑人都说黑人英语，其使用者也并非都是黑人，但使用它仍是黑人美国人身份的有力标志，然而它并不属于任何人所说的「标准美国英语」。人们说「标准语言」时，想到的通常是「白人使用的语言」；把这样的标准当作唯一正确形式，就会歧视其他变体。"
+    }
+   ]
+  },
+  "chapter-005-slug-1-5-doing-harm-with-language-science": {
+   "title": {
+    "en": "1.5 Doing harm with language science",
+    "zh": "1.5 语言科学造成的伤害"
+   },
+   "summary": {
+    "en": "Science is not inherently virtuous, and the tools of linguistics have caused real harm. Missionary documentation of Indigenous languages was shaped by a European viewpoint and contributed to language loss, while residential schools violently suppressed those languages. Modern linguistics can also harm communities through extractive research practices, prescriptive fallout and the pathologizing of disabled people’s language.",
+    "zh": "科学本身并不天然高尚，语言学的工具也曾造成真实伤害。传教士对原住民语言的记录带着欧洲视角，并助长了语言流失，寄宿学校更以暴力压制这些语言。现代语言学也可能通过掠夺式研究、描写滑向规定，以及把残障者的语言病理化而伤害相关社群。"
+   },
+   "points": [
+    {
+     "en": "Much foundational linguistic work was done by missionaries aiming to convert people rather than to discover mental grammar.",
+     "zh": "语言学许多奠基性工作由传教士完成，其目标是使人皈依，而非揭示心理语法。"
+    },
+    {
+     "en": "Missionaries wrote Indigenous languages with the Roman alphabet and European assumptions, producing inaccurate documents.",
+     "zh": "传教士用罗马字母和欧洲语言的假设记录原住民语言，所留下的文献并不准确。"
+    },
+    {
+     "en": "Written texts froze particular forms and pushed aside variation, causing many language features to fall out of use.",
+     "zh": "书面文本固化了特定形式、排斥了变异，导致许多语言特征不再使用。"
+    },
+    {
+     "en": "Residential schools separated children from families and forbade their languages, so English or French became survival.",
+     "zh": "寄宿学校使儿童与家庭分离并禁止他们说本族语言，说英语或法语成了生存手段。"
+    },
+    {
+     "en": "Linguists may extract data, publish sacred or private material, or turn descriptions into new prescriptive standards.",
+     "zh": "语言学家可能只取走数据、发表神圣或隐私材料，或把描写变成新的规定性标准。"
+    },
+    {
+     "en": "Oralism deprives deaf children of input, and norms of language use make differences look like disorders.",
+     "zh": "口语主义剥夺了聋童的语言输入，而语言使用规范则把差异误认为障碍。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "missionary linguistics",
+     "zh": "传教士语言学",
+     "defEn": "Early documentation of Indigenous languages by Christian missionaries with religious and commercial goals.",
+     "defZh": "基督教传教士出于传教与贸易等目的对原住民语言所作的早期记录工作。"
+    },
+    {
+     "en": "residential schools",
+     "zh": "寄宿学校",
+     "defEn": "Institutions where Indigenous children were forcibly confined and forbidden to speak family languages.",
+     "defZh": "原住民儿童被强制收容并被禁止使用家庭语言的机构，造成深重的语言与文化伤害。"
+    },
+    {
+     "en": "oralism",
+     "zh": "口语主义",
+     "defEn": "The view that vocal language is more important than signed language.",
+     "defZh": "认为有声语言比手语更重要的观念，常使聋童失去手语输入。"
+    },
+    {
+     "en": "aphasia",
+     "zh": "失语症",
+     "defEn": "A language impairment, often resulting from a stroke, that affects communication.",
+     "defZh": "一种常由中风引起的语言障碍，会影响患者的沟通方式与沟通能力。"
+    },
+    {
+     "en": "language documentation",
+     "zh": "语言记录",
+     "defEn": "Recording a language's words and structures, which can support reawakening sleeping languages.",
+     "defZh": "对语言的词汇与结构进行记录，可为唤醒沉睡语言提供材料。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Jesuits generally derided the languages, characterizing the polysynthetic character of American languages as a symptom of social decay.",
+     "noteEn": "Gray shows missionaries treated complex grammars as evidence of social decay.",
+     "noteZh": "格雷指出，传教士把复杂的语法特征视为社会衰败的证据。"
+    },
+    {
+     "text": "the habits and modes of thought of white men",
+     "noteEn": "The stated assimilation goal of the Canadian colonial government, quoted in the TRC report.",
+     "noteZh": "加拿大殖民政府公开宣称的同化目标，语出真相与和解委员会报告所引材料。"
+    },
+    {
+     "text": "when linguists used standard interview techniques to research autistic people’s conversation, they found “deficits” in their pragmatic abilities",
+     "noteEn": "Salt found such deficits disappeared when autistic participants talked to each other.",
+     "noteZh": "索尔特发现，自闭症参与者彼此交谈时，这些所谓缺陷便不复存在。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Science is not inherently virtuous: humans can use its tools, including linguistics, to do harm. Much foundational work was carried out by Christian missionaries whose goal was less to discover mental grammar than to convert people. Missionaries in what is now called Canada documented Indigenous languages so they could teach Christian doctrine and conduct trade, using the Roman alphabet and assumptions drawn from Latin and other European languages. Because that alphabet was developed for European languages, it represents other languages' phonetics inaccurately, and writing texts froze that form of the language, so some variation fell out of use.",
+     "zh": "科学并非天然高尚：人类可以用它的工具，包括语言学，造成伤害。语言学许多奠基性工作由基督教传教士完成，他们的目标与其说是揭示心理语法，不如说是让人皈依。来到今天称为加拿大的这片土地上的传教士，记录原住民语言以便传授基督教教义、进行贸易；他们使用罗马字母，并依据从拉丁语和其他欧洲语言得来的假设。由于这套字母本是为欧洲语言发展起来的，用它转写其他语言的语音并不准确；写下文本还「冻结」了该语言形式，使部分变异退出使用。"
+    },
+    {
+     "en": "These effects were neither accidental nor benign: from the missionaries' own writings we can see that they considered Indigenous languages inferior, complaining incorrectly that the languages had no words for soul, belief and angel. The documentation was inaccurate and led to the loss of many features, although it has in some cases served as source material for reawakening sleeping languages like Huron-Wendat. Eliminating Indigenous languages and cultures was the stated goal of the Canadian government, and officials forcibly seized Indigenous children and sent them to residential schools, where they were separated from their families, forbidden their languages, starved and abused. Under such conditions, using English or French was a matter of sheer survival.",
+     "zh": "这些后果既非偶然，也并非无害：从传教士自己的文字可以看出，他们认为原住民语言低劣，错误地抱怨这些语言没有表示灵魂、信仰和天使的词。这些记录并不准确，导致许多语言特征流失，尽管其中一些文献后来成为唤醒休伦-温达特语等沉睡语言的素材。消灭原住民语言与文化是加拿大政府公开宣称的目标；官员强行夺走原住民儿童送进寄宿学校，使他们与家庭分离、被禁止说本族语言、挨饿并遭受虐待。在这样的条件下，说英语或法语是纯粹的生存问题。"
+    },
+    {
+     "en": "Modern linguistics has also harmed minoritized languages and disabled people. Linguists rely on language users for data, but those who answer our questions do not always get much in return: data may end up only in obscure publications instead of being made available to the community, and a descriptive linguist risks appropriation by becoming an authority on a language without belonging to the community. Descriptions can also harden into prescriptive norms. Deaf children are often deprived of input because of oralism, and Salt showed that apparent pragmatic deficits in autistic people vanished when participants talked with each other. The lesson is humility: science is one way of knowing.",
+     "zh": "现代语言学也伤害了被边缘化的语言和残障者。语言学家依赖语言使用者提供语料，但回答我们问题的人并不总能得到回报：数据可能最终只存在于冷僻的出版物中，而没有提供给语言社群；一位描写取向的语言学家若在不属于该社群的情况下成为语言的权威，也面临挪用的风险。描写还可能固化为规定性规范。聋童常因口语主义而失去语言输入；索尔特表明，自闭症者身上看似存在的语用缺陷，在参与者彼此交谈时便不复存在。教训是保持谦逊：科学只是认识世界的一种方式。"
+    }
+   ]
+  }
+ }
+}

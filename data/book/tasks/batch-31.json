@@ -1,0 +1,25 @@
+{
+ "batch": 31,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-31.json",
+ "sections": [
+  {
+   "id": "chapter-063-interim-summary",
+   "title": "6.12 Interim summary",
+   "src": "data/book/src/chapter-063-interim-summary.txt",
+   "chars": 1659
+  },
+  {
+   "id": "chapter-064-from-constituency-to-tree-diagrams",
+   "title": "6.13 From constituency to tree diagrams",
+   "src": "data/book/src/chapter-064-from-constituency-to-tree-diagrams.txt",
+   "chars": 10973
+  },
+  {
+   "id": "chapter-065-x-bar-theory-introduction",
+   "title": "6.14 Trees: Introducing X-bar theory",
+   "src": "data/book/src/chapter-065-x-bar-theory-introduction.txt",
+   "chars": 10076
+  }
+ ]
+}

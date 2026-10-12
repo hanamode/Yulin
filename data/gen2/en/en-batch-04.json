@@ -1,0 +1,269 @@
+{
+ "batch": 4,
+ "entries": {
+  "deep-structure": {
+   "summaryEn": "Deep structure and surface structure are two levels of syntactic representation posited in early generative grammar: deep structure determines the basic semantic interpretation, while surface structure determines phonetic form, the two being linked by transformational rules. The distinction was introduced to account for the systematic correspondences between active and passive sentences and between declaratives and interrogatives, and was later revised into D-structure and S-structure.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Deep structure and surface structure are two levels of syntactic representation proposed by Chomsky in the 1960s. Deep structure is the abstract syntactic structure that obtains before transformational rules apply, and it carries thematic relations and the basic semantic interpretation; surface structure is the structure that results after transformational rules have applied and that is handed over to phonological rules for phonetic interpretation. The two are connected by transformational rules, forming the derivational model 'deep structure - transformations - surface structure'.",
+      "In the Standard Theory, semantic interpretation applies principally to deep structure, so that one and the same deep structure may yield several surface sentences with the same meaning through different transformations; conversely, sentences with identical surface forms that derive from different deep structures exhibit structural ambiguity. This distinction turned the question of the correspondence between 'meaning' and 'form' into a central concern of syntactic theory."
+     ]
+    },
+    {
+     "hEn": "Typical Examples",
+     "pEn": [
+      "Passive and active sentences share the same deep structure. English The boy hit the ball and its passive counterpart The ball was hit by the boy both express the thematic relation 'boy - hit - ball' at deep structure; the passive is derived by moving the object into subject position and adding be...-en and by. The relation between the Chinese sentences 窗户被张三打破了 and 张三打破了窗户 can be analysed along similar lines.",
+      "Interrogatives are treated in much the same way. The deep structure of English What did John buy? is close to John bought what, with wh-movement and subject-auxiliary inversion producing the surface form. As for structural ambiguity, Flying planes can be dangerous has two readings, 'flying planes is dangerous' and 'planes that are flying are dangerous', because planes functions at deep structure as the object of the verb in one case and as its subject in the other."
+     ]
+    },
+    {
+     "hEn": "Theoretical Development",
+     "pEn": [
+      "Aspects of the Theory of Syntax (1965) established the Standard Theory and explicitly assigned semantic interpretation to deep structure. In the 1970s the Generative Semantics school argued that meaning should be determined at a deeper level of semantic representation and engaged in a fierce debate with the Interpretive Semantics school, prompting Chomsky to revise the model. In Government and Binding theory, deep structure was renamed D-structure and surface structure S-structure, with theta theory applying at D-structure and Logical Form (LF) and Phonetic Form (PF) branching off from S-structure.",
+      "The Minimalist Program went further and eliminated D-structure and S-structure as independent levels, retaining only a derivation built up step by step by the computational system, which connects the lexicon directly to the semantic and phonetic interfaces through basic operations such as Merge and Move. Deep structure thus changed from a live technical term into a concept in the history of the theory, though its central insight - that semantic relations are not determined directly by surface word order - was carried over."
+     ]
+    },
+    {
+     "hEn": "Impact and Criticism",
+     "pEn": [
+      "The contribution of the distinction lies in revealing that syntactic form and semantic interpretation are not in one-to-one correspondence, providing a unified explanatory framework for seemingly disparate phenomena such as passivisation, interrogation, raising and control, and deeply influencing psycholinguistic research on sentence processing, such as experimental work on whether empty categories and traces of movement have psychological reality.",
+      "Criticism has come mainly from three directions. First, deep structure lacks independent empirical evidence and operationalisability, and its abstract level is difficult to verify directly. Second, Generative Semantics, Construction Grammar and Functional Grammar hold that semantics and syntactic form are not determined unidirectionally by deep structure, but rather that form and meaning are paired or mutually constraining. Third, typological research has found that passivisation and topicalisation in many languages do not require the assumption of a uniform deep structure, since surface forms themselves can perform the relevant functions."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "deep structure", "dEn": "The abstract syntactic representation prior to the application of transformational rules, carrying thematic relations and determining basic semantic interpretation."},
+    {"tEn": "surface structure", "dEn": "The structure produced after transformational rules apply, assigned phonetic form by phonological rules and reflecting actual word order and morphology."},
+    {"tEn": "transformational rule", "dEn": "A syntactic operation mapping deep structure onto surface structure, such as passivisation, movement or deletion."},
+    {"tEn": "D-structure", "dEn": "The Government and Binding term for deep structure, the level of theta-role assignment and X-bar projection."},
+    {"tEn": "S-structure", "dEn": "The Government and Binding term for surface structure, the interface level from which Logical Form and Phonetic Form branch."},
+    {"tEn": "structural ambiguity", "dEn": "A single surface form having several meanings because it derives from two or more distinct deep structures or parsings."}
+   ]
+  },
+  "politeness": {
+   "summaryEn": "Politeness theory is a core framework in pragmatics that explains why people depart from direct, efficient expression in communication and rely heavily on indirect and euphemistic wording. It concerns how speakers use linguistic means to protect the face of both parties and to mitigate the face threat of speech acts. Its principal frameworks include Brown and Levinson's face theory, Leech's politeness principle, and localised research in Chinese linguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Politeness theory is a framework in pragmatics that studies how verbal interaction maintains interpersonal relations and reduces the confrontational character of speech acts. Its central question is this: given that interlocutors normally observe the Cooperative Principle and strive for efficient, direct expression, why do people in actual communication make heavy use of indirect, euphemistic and even seemingly redundant expressions? Politeness theory answers that speakers must often strike a balance between the efficiency of information transfer and consideration for the hearer's face, and that politeness is precisely the linguistic manifestation of that balance.",
+      "Politeness is not a mere moral norm but a communicative strategy with systematic linguistic consequences. Different languages realise politeness through address systems, honorifics, sentence-final particles, modal verbs, indirect constructions and so on, as with Chinese 您, 请 and 劳驾, the Japanese honorific system, and English could you possibly.... Research on politeness therefore belongs to pragmatics but is also closely tied to sociolinguistics, cross-cultural communication studies and language teaching."
+     ]
+    },
+    {
+     "hEn": "Main Theories",
+     "pEn": [
+      "Brown and Levinson's (1987) face theory has been the most influential. Drawing on Goffman's notion of 'face', they distinguish negative face (the wish that one's actions be unimpeded) from positive face (the wish to be approved of and liked), and argue that many speech acts - requests, commands, criticism, apologies - are intrinsically face-threatening acts (FTAs). Speakers estimate the severity of the threat according to three variables - social distance, relative power and the ranking of the imposition - and choose among different politeness strategies accordingly.",
+      "Leech (1983) proposed a Politeness Principle parallel to the Cooperative Principle, comprising six maxims: Tact, Generosity, Approbation, Modesty, Agreement and Sympathy, which explain why 'what is implicated' so often tends in the direction of benefiting others and disfavouring oneself. Gu Yueguo (1992), for his part, pointed out that Chinese politeness has its own culture-specific character and proposed maxims such as self-denigration and other-elevation, appropriate address, refinement and elegance, and seeking common ground while reserving differences, stressing that politeness in Chinese is closely bound up with moral cultivation and hierarchical order."
+     ]
+    },
+    {
+     "hEn": "Classification of Politeness Strategies",
+     "pEn": [
+      "Brown and Levinson list five strategies ordered from the least to the greatest degree of face threat: first, bald on record, as in shouting 快跑！ in an emergency; second, positive politeness, satisfying the other's positive face by expressing closeness, approval and common ground, as in 咱们都是老朋友了，帮我个忙呗; third, negative politeness, satisfying the other's negative face by avoiding imposition and showing respect, as in 不知能否麻烦您…….",
+      "Fourth, off record, that is, not stating one's intention directly but leaving the other to infer it, as in 这儿好像有点冷, whose actual purpose is to ask the other to close the window or turn on the heating; fifth, simply refraining from performing the face-threatening act. The choice of strategy is not arbitrary but the rational outcome of the speaker's assessment of the degree of face threat in the light of contextual variables, which makes the model highly operational and valuable for cross-linguistic comparison."
+     ]
+    },
+    {
+     "hEn": "Linguistic Examples",
+     "pEn": [
+      "Take 'passing the salt' as an example. In English a sequence can be arranged from direct to indirect: Pass me the salt. (imperative), Can you pass me the salt? (questioning ability), Could you possibly pass me the salt? (past modal plus hedge), Is there any salt around? (an implicit request). Chinese shows a comparable gradient: 把盐递给我, 你能把盐递给我吗, 能不能麻烦您把盐递一下, 这儿好像没盐了. The more indirect the form, the weaker the sense of imposition, but the higher the processing cost.",
+      "Address forms and honorifics are another typical device. Chinese uses 你 and 您 to mark familiarity versus distance and relative status, and fixed expressions such as 贵姓, 请教, 劳驾 and 失陪 to express modesty and respect; Japanese, by contrast, forms a complete honorific system out of respectful language (いらっしゃる), humble language (伺う) and polite language (です・ます), the choice among which depends on the relative social status and in-group/out-group relations of the interlocutors rather than on politeness intentions alone."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticism",
+     "pEn": [
+      "Whether the notion of face is universal is the main point of dispute. Matsumoto (1988) argued that the core of Japanese politeness is 'place' and role expectations rather than individual freedom of action, so that negative face has no easy counterpart in Japanese; Gu Yueguo likewise held that Chinese politeness emphasises social norms and moral evaluation. Critics also note that Brown and Levinson's model carries individualist presuppositions from English-speaking cultures, treating a Western communicative pattern as a universal one.",
+      "In addition, early research relied largely on elicited data such as the discourse completion test (DCT), which has been criticised for failing to capture the dynamic negotiation of real interaction. The (im)politeness research that has emerged in recent years turns attention to offence, conflict and power struggle, and corpus methods and conversation analysis have also been brought in, shifting politeness research from a static inventory of strategies towards detailed description of the interactive process."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "face", "dEn": "The public self-image that interactants strive to maintain in interaction, divided into negative face and positive face."},
+    {"tEn": "face-threatening act", "dEn": "A speech act that may damage the speaker's or hearer's face, such as a request, command, criticism or apology."},
+    {"tEn": "negative politeness", "dEn": "A strategy that satisfies negative face by respecting freedom of action and avoiding imposition, typically through indirect expressions and hedges."},
+    {"tEn": "positive politeness", "dEn": "A strategy that satisfies positive face by expressing approval, closeness and common ground, such as compliments, nicknames and dialect convergence."},
+    {"tEn": "politeness principle", "dEn": "Leech's conversational principle, comprising the six maxims of Tact, Generosity, Approbation, Modesty, Agreement and Sympathy."}
+   ]
+  },
+  "speech-act": {
+   "summaryEn": "Speech act theory holds that to speak is to act: in uttering a sentence one simultaneously performs such acts as stating, requesting, promising or commanding. Austin distinguished constatives from performatives, and Searle systematised the account into the three-layered structure of locutionary, propositional and illocutionary acts, proposing felicity conditions and a classification of speech acts. The theory became the founding framework of pragmatics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "A speech act is an act performed by uttering a sentence. On the traditional view the main function of language is to describe the world, and sentences are therefore true or false; speech act theory points out that speaking is itself a kind of social action - 我保证明天来 does not describe anything but makes a promise. Linguistic research must therefore ask not only 'what does this sentence say' but also 'what is being done in saying it'.",
+      "Austin, who proposed the theory, summed up its core with the phrase 'doing things with words': besides conveying information, language can change real relations and institutional states, as when one declares a meeting open, names a ship or pronounces a sentence of guilt. Analysis of meaning must accordingly incorporate the speaker's intention, the hearer's understanding and social convention."
+     ]
+    },
+    {
+     "hEn": "Austin's Constatives and Performatives",
+     "pEn": [
+      "Austin initially distinguished constatives from performatives. Constatives are used to state facts and are true or false, as in 地球是圆的; performatives are used to perform actions and are not true or false but only 'felicitous' or 'infelicitous', as in 我命名这艘船为'伊丽莎白号' or 我答应三点到. Performatives typically contain a first-person subject, present tense and a performative verb, and can be explicitly marked by hereby.",
+      "Austin soon found, however, that this distinction could not be maintained: stating is itself a kind of action, and performatives too can 'fail' when the requisite conditions are not met. He therefore abandoned the dichotomy and proposed that every utterance simultaneously involves three layers of action: the locutionary act (producing meaningful sounds and words), the illocutionary act (the act performed in speaking) and the perlocutionary act (the effect produced in the hearer)."
+     ]
+    },
+    {
+     "hEn": "Searle's Felicity Conditions and Classification",
+     "pEn": [
+      "Searle took over and systematised Austin's ideas, arguing that an illocutionary act consists of a propositional content and an illocutionary force, and specifying the felicity conditions that must be satisfied for a speech act to be performed: the propositional content condition, the preparatory condition, the sincerity condition and the essential condition. Taking 请把门关上 as an example, the propositional content concerns a future action of the hearer, the preparatory condition is that the hearer is able to close the door, the sincerity condition is that the speaker genuinely wants the door closed, and the essential condition is that the act counts as a request.",
+      "Searle further divided illocutionary acts into five classes: assertives (such as statements and reports), directives (such as commands, requests and questions), commissives (such as promises and threats), expressives (such as thanks, apologies and congratulations) and declarations (such as declaring, appointing and resigning). Of these, declarations, once successfully performed, directly alter institutional reality."
+     ]
+    },
+    {
+     "hEn": "Indirect Speech Acts and Controversies",
+     "pEn": [
+      "Searle proposed the notion of the indirect speech act to show that a single utterance can perform two acts at once. The Chinese sentence 你能把盐递给我吗？ is literally a question about ability (the literal form of a directive) but in fact a request; the same holds for English Can you pass the salt? The hearer can understand it because he draws on the Cooperative Principle and background knowledge to infer the speaker's real intention.",
+      "Criticism has come mainly from two quarters. First, speech act theory takes the single sentence as its unit of analysis and neglects the sequential structure of natural conversation, so the school of conversation analysis maintains that the meaning of a speech act should be determined by its 'turn position'. Second, declarations and institutional facts force the theory to invoke social convention and social institutions, since the speaker's intention alone cannot explain why 'naming' is effective. Cross-cultural research has likewise found systematic differences across languages in the strategies and degree of directness used to make requests and apologies."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "speech act", "dEn": "An act performed in uttering a sentence, such as stating, requesting, promising, commanding or apologising."},
+    {"tEn": "performative", "dEn": "A sentence whose utterance itself performs an action, such as 我答应三点到, assessed as felicitous rather than true or false."},
+    {"tEn": "illocutionary force", "dEn": "The actional force carried by an illocutionary act, determining whether the utterance counts as a statement, request or promise."},
+    {"tEn": "felicity condition", "dEn": "A condition of propositional content, preparatory, sincerity or essential type that must hold for an illocutionary act to succeed."},
+    {"tEn": "indirect speech act", "dEn": "An utterance whose literal form does not match the act performed, as when a question form expresses a request."}
+   ]
+  },
+  "lexical-semantics": {
+   "summaryEn": "Lexical semantics is the branch of semantics that studies word meaning and its systematic organisation, concerned with the structure of word meaning, the division of senses, semantic features, and lexical relations such as synonymy, antonymy, hyponymy and part-whole relations. It brings together structuralist semantic field theory and componential analysis with cognitive semantics and Generative Lexicon theory.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope",
+     "pEn": [
+      "Lexical semantics is the area of semantics that studies the meaning of words (lexemes) and how it is organised, as opposed to semantic research at the sentence level. The questions it addresses include: what components make up word meaning; why a word has several senses and how those senses are distinguished from and related to one another; what systematic meaning relations hold among words; and how word meaning in composition is constrained by context, syntactic position and co-occurring words.",
+      "Its units of study are the lexeme and the sense. Chinese 打, for instance, has different senses in 打人, 打球, 打水 and 打电话. Lexical semantics not only describes these senses but also accounts for the paths of extension among them and explains why 打 can combine with these objects, which brings in selectional restrictions and mechanisms of semantic accommodation."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "The core concepts include word meaning, sense, sememe, semantic feature and semantic field. Componential analysis decomposes word meaning into a set of binary features: 男人, for example, can be analysed as [+human][+male][+adult] and 男孩 as [+human][+male][-adult], so that a limited set of features describes the differences and connections among a large number of word meanings. The method is borrowed directly from distinctive-feature analysis in phonology.",
+      "Another important set of concepts is the network of lexical relations. Synonymy (such as 自行车 and 脚踏车), antonymy (大-小), complementarity (生-死), hyponymy (动物-狗-哈巴狗) and part-whole relations (手-手指) together form the skeleton of the lexical system. In addition, polysemy, homonymy and diachronic change in word meaning (as when 酷 extends from the sense 'cruel' to 'stylish, individual') are also important objects of study."
+     ]
+    },
+    {
+     "hEn": "Main Theories and Methods",
+     "pEn": [
+      "In the structuralist period Trier proposed semantic field theory, holding that a word's meaning can be determined only through its oppositions to other words in the same field, as when a group of German words meaning 'knowledge, ability, familiarity' define and displace one another in the course of historical change. Componential analysis subsequently transferred the distinctive-feature method of phonology to the description of word meaning and achieved notable results in the study of kinship terms and colour terms.",
+      "In the generative tradition, Pustejovsky's Generative Lexicon uses qualia structure to explain the polysemy of nouns and the phenomenon of coercion; cognitive linguistics, for its part, offers prototype theory, Fillmore's frame semantics and conceptual metaphor, holding that word meaning is inseparable from encyclopaedic knowledge and cognitive frames and cannot be fully captured by discrete features. In recent years corpus methods and word-vector representations have also been widely used in the study of meaning."
+     ]
+    },
+    {
+     "hEn": "Lexical Relations and Examples",
+     "pEn": [
+      "Semantic relations differ in their logical properties. Hyponymy is transitive: if 玫瑰 is a kind of 花 and 花 is a kind of 植物, then 玫瑰 is also a kind of 植物. Antonymy is usually divided into three types: gradable antonymy (温 may lie between 热 and 冷), complementary antonymy (真-假 admits no middle term) and relational antonymy (买-卖, 夫-妻 presuppose each other).",
+      "Cross-linguistic comparison shows that the organisation of colour terms and kinship terms exhibits both commonalities and differences. English uncle corresponds roughly to several Chinese items, 伯父, 叔父, 姑父, 舅父 and 姨父, showing that languages divide the same semantic field differently; the implicational hierarchy of basic colour terms (black, white, red, green, yellow, blue, brown ...), by contrast, displays a cross-linguistic tendency towards universality and has become classic evidence in discussions of semantic universals."
+     ]
+    },
+    {
+     "hEn": "Relations to Neighbouring Branches and Controversies",
+     "pEn": [
+      "Lexical semantics interacts closely with morphology, syntax and pragmatics: word meaning affects valency and syntactic behaviour, as 给 requires three arguments; and context and pragmatic inference constantly give rise to new senses, as when 打印 receives a completive reading in 这个文件我打印了. In computational linguistics, word-sense tagging, word-sense disambiguation and word-vector representations all depend directly on findings in lexical semantics.",
+      "There are three main controversies. First, whether word meaning can be decomposed into a finite set of features, about which prototype theory and frame theory are sceptical, holding that meaning boundaries are fuzzy and exhibit family resemblance. Second, where the line lies between a word's meaning and encyclopaedic knowledge. Third, whether the senses of a polysemous word are artefacts of lexicography or independent representations in the mental lexicon; experimental research suggests continuous transitions between senses that are hard to draw apart sharply."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "lexeme", "dEn": "A word recorded as a lexical unit with a single unified form, whose different uses constitute a number of senses."},
+    {"tEn": "sense", "dEn": "A semantic unit in which a lexeme is described independently under a particular meaning, the basic unit of lexicography."},
+    {"tEn": "semantic field", "dEn": "A set of words related in meaning and mutually defining one another, such as colour terms or kinship terms."},
+    {"tEn": "semantic feature", "dEn": "The minimal semantic feature extracted in the analysis of word meaning, such as [+human], [+adult] or [+male]."},
+    {"tEn": "hyponymy", "dEn": "The relation of general to specific meaning between words, as between the superordinate 动物 and the hyponym 狗."},
+    {"tEn": "selectional restriction", "dEn": "The semantic requirement a word imposes on elements it combines with, such as a verb's restriction on its arguments."}
+   ]
+  },
+  "code-switching": {
+   "summaryEn": "Code-switching is the phenomenon whereby bilingual or multilingual speakers alternate between two or more language varieties within a single conversation or even a single sentence. It is subject both to structural constraints at the syntactic level and to social functions such as signalling identity, managing interpersonal relations and achieving discourse effects, making it a classic topic in sociolinguistics, syntactic research and language contact studies.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Related Concepts",
+     "pEn": [
+      "Code-switching refers to the phenomenon whereby bilingual or multilingual speakers alternate between two or more languages, dialects or registers within a single speech event. 'Code' is a neutral term that may refer to a language, a dialect, a register or even a jargon. A typical example is the mixing of Hong Kong Cantonese and English: 我哋聽日去 shopping 啦, 你 send 個 email 俾我, where speakers switch freely within the sentence without any breakdown in understanding.",
+      "Code-switching must be distinguished from several similar phenomena. A borrowing is an element that has been absorbed into the vocabulary of the native language over the long term and reshaped according to its phonological and morphological rules, such as 沙发 and 巴士 in Chinese; code-switching, by contrast, is an online use of two grammatical systems by the speaker. Style-shifting takes place between varieties within a single language, whereas code-switching involves different language systems. Moreover, switching is a conventional act with communicative intent, unlike slips caused by fatigue or nervousness."
+     ]
+    },
+    {
+     "hEn": "Classification",
+     "pEn": [
+      "Poplack (1980) distinguishes three types: inter-sentential switching, where the switch point falls at a sentence or clause boundary, as in I told him. 佢唔信我; intra-sentential switching, where the switch occurs within a single sentence, as in 我哋聽日去 shopping; and tag-switching, where an independent marked element is inserted, as in 係咁先啦, okay?. The three types make different demands on the speaker's bilingual competence, with intra-sentential switching generally requiring the highest proficiency.",
+      "Muysken (2000), working from a generative perspective, proposes another set of distinctions: insertional switching, which embeds material from one language within the frame of another; alternational switching, in which the grammatical structures of the two languages alternate and remain relatively independent of each other; and lexical mixing, which involves the cross-linguistic combination of roots and affixes. Different patterns of language contact in different communities tend to correspond to different types of switching."
+     ]
+    },
+    {
+     "hEn": "Syntactic Constraints",
+     "pEn": [
+      "Whether code-switching is subject to universal grammar is the central theoretical question in the field. Poplack proposed two famous constraints: the Equivalence Constraint requires that the surface structures on either side of the switch point correspond to each other, failing which switching is impossible; the Free Morpheme Constraint stipulates that switching cannot occur between a bound morpheme and its host stem, so that eat-iendo (an English stem with a Spanish suffix) is impossible.",
+      "Myers-Scotton's Matrix Language Frame model, in contrast, maintains that in any instance of switching one language always serves as the matrix language, supplying the morphosyntactic frame and the system morphemes of the sentence, while the other language supplies embedded-language content words. There are numerous counterexamples to these constraints, so the question whether universal syntactic restrictions exist remains disputed; nonetheless, the research has greatly advanced work on the syntax-language contact interface."
+     ]
+    },
+    {
+     "hEn": "Social Functions and Examples",
+     "pEn": [
+      "Code-switching performs a rich range of communicative functions: marking group identity and membership, negotiating power and solidarity, shifting topic or setting, quoting the speech of others, highlighting contrast, and expressing humour and intimacy. Gumperz (1982) distinguishes situational from metaphorical switching: the former is triggered by a change of participants, setting or topic, while the latter uses code choice to convey implicatures when the situation remains unchanged.",
+      "Myers-Scotton's markedness model further proposes that every community develops unmarked expectations pairing particular codes with particular settings, so that a speaker's choice of an unmarked code maintains the existing rights-and-obligations relationship while the choice of a marked code renegotiates it. Bilingual classroom teaching, intergenerational communication within immigrant families, and Chinese-English mixing in online communities are all common sites of code-switching research."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Early research relied mainly on ethnographic natural recordings and conversation analysis, emphasising observation of the interactive functions of code-switching in real communities. The variationist school, by contrast, built corpora from large-scale recordings and carried out quantitative analyses of switching frequency, switch-point location and social variables (age, sex, education, network density); Poplack's study of a Puerto Rican Spanish-English community is representative of this line.",
+      "Syntactically oriented research generally combines acceptability judgement experiments with corpus searches to test the validity of the various constraints, while psycholinguistic work uses eye-tracking, event-related potentials and priming experiments to examine whether bilinguals incur a processing cost at switch points. A combination of methods has become the norm in the field, turning code-switching from a marginal phenomenon into a window onto theories of bilingual linguistic competence."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "intra-sentential switching", "dEn": "Code-switching occurring within a single sentence or clause, constrained by the degree of structural matching between the two languages."},
+    {"tEn": "inter-sentential switching", "dEn": "Code-switching occurring at sentence or clause boundaries, often at points where topic, setting or participants change."},
+    {"tEn": "equivalence constraint", "dEn": "Poplack's condition requiring that the surface structures on either side of a code-switching point correspond to each other."},
+    {"tEn": "free morpheme constraint", "dEn": "Poplack's constraint prohibiting code-switching between a bound morpheme and its host stem."},
+    {"tEn": "markedness model", "dEn": "Myers-Scotton's proposal that speakers negotiate rights-and-obligations relations by choosing unmarked or marked codes."}
+   ]
+  },
+  "morpheme": {
+   "summaryEn": "A morpheme is the smallest sound-meaning unit of language: it cannot be divided into smaller sound-meaning units, nor further decomposed into smaller grammatical elements. It is the basic unit of morphological analysis and may be divided, according to whether it can stand alone as a word, into free and bound morphemes, and, according to function, into roots and affixes. Its identification and segmentation mark the starting point of grammatical research.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "A morpheme is the smallest unit of language in which sound and meaning are combined. 'Smallest' means that it cannot be divided into smaller elements that still carry meaning; 'sound-meaning combination' means that it has both a phonetic form and a meaning or grammatical function. The concept was established by Bloomfield within the framework of structuralist linguistics, replacing vague traditional terms such as 'root' and 'ending'.",
+      "Chinese 桌子, for instance, can be segmented into the two morphemes 桌 and 子: 桌 has substantive meaning and 子 is a nominal suffix, and neither can be divided further while still bearing meaning. English books consists of the two morphemes book and the plural -s; unhappiness consists of the three morphemes un-, happy and -ness. Conversely, although 苜蓿 and 葡萄 consist of two syllables each, they cannot be further divided as a whole and count as a single morpheme, the so-called simplex word."
+     ]
+    },
+    {
+     "hEn": "Identifying and Segmenting Morphemes",
+     "pEn": [
+      "The basic method for identifying morphemes is substitution (the contrast method): if one segment of a stretch of language can be replaced by other meaningful elements while the remainder stays constant, the stretch can be segmented into several morphemes. In English talk-ing, walk-ing and sing-ing, for example, -ing recurs with a consistent meaning and can therefore be identified as a separate morpheme. Segmentation must also satisfy two further conditions: that the residue is meaningful and that the whole remains meaningful after substitution.",
+      "The same morpheme may have different phonetic forms in different environments; these forms are called allomorphs. The English plural morpheme is pronounced [s] in cats [kæts], [z] in dogs [dɔɡz] and [ɪz] in boxes [ˈbɒksɪz], the three being conditioned variants of a single morpheme. In Mandarin Chinese 一 is pronounced in the first tone [yī] in 一天, in the second tone [yí] in 一个 and in the fourth tone [yì] in 一起, which is likewise a case of allomorphy, usually described by morphophonemic rules."
+     ]
+    },
+    {
+     "hEn": "Classification of Morphemes",
+     "pEn": [
+      "According to whether they can stand alone as words, morphemes are divided into free morphemes and bound morphemes. English book, dog and happy can occur as words on their own and are free morphemes, whereas -s, -ing, un- and -ness must attach to other morphemes and are bound morphemes. In Chinese 人, 水 and 好 are free morphemes, while 们, 第 and 者 are mostly bound morphemes.",
+      "According to their function in word formation, bound morphemes are further divided into derivational affixes (such as un-, -ness, and 老- and -化 in Chinese) and inflectional affixes (such as English -s, -ed and -est). According to meaning and position, one may also distinguish roots, prefixes, suffixes, infixes and circumfixes. Arabic roots are especially typical: k-t-b expresses 'writing' and, by inserting different vowels, yields kataba 'he wrote', kitāb 'book', kātib 'writer' and maktab 'office', illustrating word formation by non-concatenative morphemes (root-and-pattern)."
+     ]
+    },
+    {
+     "hEn": "Cross-linguistic Variation and Controversies",
+     "pEn": [
+      "The correspondence between morphemes and words varies greatly across languages. In inflectional languages such as English and Latin a word may contain several morphemes; in analytic languages such as Chinese and Vietnamese, morphemes, words and syllables largely coincide, one syllable often being one morpheme, and grammatical relations are expressed mainly through word order and function words. Japanese lies in between: tabemashita 'ate', for instance, can be segmented into elements such as tabe-, -mash- and -ita.",
+      "The notion of the morpheme also faces certain theoretical difficulties: whether zero morphemes (as in the plural of English sheep, which has no phonetic form) and empty morphological elements should be posited has long been debated, and the boundaries between 'morpheme', 'morph' and 'word' are especially hard to draw in languages such as Chinese. Generative grammar tends to explain word formation in terms of the lexicon and syntactic operations, whereas construction morphology argues for treating morphemes as part of constructions, reflecting the divisions within morphological theory."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "morpheme", "dEn": "The smallest sound-meaning unit of language, possessing both a phonetic form and a meaning or grammatical function."},
+    {"tEn": "free morpheme", "dEn": "A morpheme that can stand alone as a word and occur independently, such as English book or Chinese 人."},
+    {"tEn": "bound morpheme", "dEn": "A morpheme that cannot stand alone as a word and must attach to another morpheme, such as -s or un-."},
+    {"tEn": "root", "dEn": "The morpheme carrying the main lexical meaning of a word, with or without affixes, and the core of word formation."},
+    {"tEn": "allomorph", "dEn": "A variant form of the same morpheme in different phonological or morphological environments, described by morphophonemic rules."},
+    {"tEn": "inflectional affix", "dEn": "An affix expressing grammatical categories such as number, tense or case without changing word class or meaning, such as -ed."}
+   ]
+  }
+ }
+}

@@ -1,0 +1,50 @@
+# 5.9 Structural ambiguity in morphology
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2421#oembed-1
+
+## Ambiguity in derivation
+
+It isn’t always the case that affixes can only attach in one order. Sometimes both orders (or all orders, if there are more than two) meet the selectional requirements of all affixes involved.
+When a string is compatible with more than one structural representation, it is structurally ambiguous—but not only are both trees potentially correct, they’re often associated with different meanings.
+Consider again the prefix un- but now in a word like untieable.
+The word untieable is ambiguous. Pause for a moment and try to come up with its two interpretations.
+The two interpretations of untieable are:
+- Able to be untied. For example: the knot most people use for their shoelaces is chosen because it’s easily untieable.
+- Not able to be tied. For example: if you haven’t learned to tie knots, some complex knots might seem untieable.
+
+As you might be able to see from the paraphrases I’ve given here—a paraphrase is a different way of saying the same thing—we can account for the ambiguity of untieable by attaching the two affixes in different orders.
+For meaning 1 “able to be untied”, we first attach the prefix un- to the verb tie, producing the verb untie (to undo a knot). Then we attach the suffix -able to untie to turn it into the adjective untieable.
+
+[图片：5_tree3_untie-able.png]
+
+Figure 5.3 Tree diagram for untieable, on the interpretation “able to be untied”
+For meaning 2 “not able to be tied”, by contrast, first we attach the suffix -able to the verb tie, producing the adjective tieable (capable of being tied). Then we attach the prefix un- to this adjective. Now un- has its adjectival meaning, so we end up with an adjective meaning “not capable of being tied”.
+
+[图片：5_tree4_un-tieable.png]
+
+Figure 5.4 Tree diagram for untieable, on the interpretation “not able to be tied”
+This type of ambiguity in derivational morphology requires that at least one affix be able to attach to bases of more than one category. We’ll see that structural ambiguity is even more common in the case of compounds.
+Structural ambiguity is different from the type of ambiguity we find with homophones—words that sound the same but have different meanings. If I say that I went to the bank, without more context you don’t know if I went to the kind of bank that’s a financial institution or the kind of bank that’s the edge of a river. There’s nothing structural in this ambiguity, instead there are just two different roots that sound the same.
+
+## Ambiguity in Compounding
+
+Just as words created via derivational morphology can be ambiguous, so can compounds. In fact, in English it’s often easier to create new examples of structural ambiguity with compounds than it is with derivational morphology, because any string of noun roots can hypothetically combine into a compound in multiple ways.
+Consider the compound river boat race. This compound contains three roots: river, boat, and race. These could combine in two different orders, which correspond to two different meanings.
+- Option 1 would be to first create the compound river boat, which refers to a particular kind of boat. Then if we add the root race to create the compound [river boat] race, the full compound describes any race between boats of that type—even if the race is held in a lake or on the ocean.
+[图片：Celebrated_Race_of_the_Steamers_Robt_E_Lee_and_Natchez-300x245.jpeg]
+Figure 5.5 A race between two steamships, also called riverboats. Source: Public domain via Wikimedia Commons
+[图片：5_tree6_riverboat-race-300x298.png]
+Figure 5.6 Tree diagram for river boat race, on the interpretation “a race involving river boats”
+- Option 2 would be to first create the compound boat race, which would describe any race between boats. Then if we add the root river to create the compound river [boat race], the full compound would describe a race (with any type of boats) that takes place on a river.
+[图片：Kerala_boatrace-300x132.jpeg]
+5.7 A boat race held on the Kallada River. Source: Arun Sinha from India, CC BY 2.0, via Wikimedia Commons
+[图片：5_tree7_river-boatrace-300x298.png]
+Figure 5.8 Tree diagram for river boat race, on the interpretation “a boat race taking place on a river”
+
+Phonology sometimes makes compounds less ambiguous than they appear in writing. For some English speakers, for example, the first meaning above may be pronounced with primary stress on ríver, while the second meaning may be pronounced with primary stress on bóat.
+In summary, some words are ambiguous because the morphemes they are composed from can combine in more than one order. This is the case for both derivational morphology and compounds. We can use tree diagrams to represent the different orders in which morphemes combine; in section 5.10 we will review in more detail how to draw morphological trees.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2421#h5p-110

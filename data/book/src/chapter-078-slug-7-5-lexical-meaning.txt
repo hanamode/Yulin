@@ -1,0 +1,94 @@
+# 7.5 The nature of lexical meaning
+
+Video Part 1:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=940#oembed-1
+Video Part 2:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=940#oembed-2
+
+## Lexical knowledge vs. world knowledge
+
+We are now ready to address the big question of this chapter: what is lexical meaning, anyway? The nature of lexical meaning is still under considerable debate. We will outline a few theories of lexical meaning here.
+To appreciate what a difficult question “what is word meaning?” is, let’s take a look at an example first: the English word chair (the one that refers to a piece of furniture). There are lots of things that you know about chairs, based on your life experience. In other words, you have a lot of world knowledge (sometimes also called encyclopedic knowledge) about chairs. World knowledge is a part of your general cognition, which is the collection of mental processes used for gaining new knowledge. Your concept of chair that you have in your mind is a subset of this world knowledge. Concepts are building blocks of thought, so your concept of chair is your abstract understanding of what a chair is. The linguistic expression chair has some sort of connection with some group of concepts; this connection is what lexical meaning, or sense, is.
+Now, the question is what the relationship between the lexical entry for chair and your concept of chairs is. One basic question we must ask is whether lexical meaning and concepts are separate things, or whether lexical meanings are concepts. If we say that they are separate things, the architecture of the mind might look like something like Figure 7.5. The star in the image indicates what “sense” is under this theory.
+
+[图片：mind-lexicalmeaning2-1024x591.png]
+
+Figure 7.5. The lexical meaning is completely separate from concepts.
+Under this approach, the lexical entry for chair would come with its phonological information (how it’s pronounced or signed), its syntactic information (syntactic category), and its semantic information: the lexical meaning, or sense. One way to think about it is that chair would come with a “definition” of sorts. Earlier works in lexical semantics tended to have this kind of “meanings as definitions” kind of approach, including Jerrold J. Katz and colleagues’ work from the 1960s and 1970s (Katz and Fodor 1962, Katz and Postal 1964, Katz 1972). This approach assumes that this definition is purely linguistic in nature. This definition would be consistent with your concept of chairs: what you know about chairs informs the definition of it. But strictly speaking, the meaning itself is not a concept. If we assume a separation of lexical knowledge and world knowledge like this, we might think that maybe things like “it’s a countable object”, “it’s for sitting on”, “it has a back”, “it has a seat”, and so on would be included a part of the lexical knowledge. Non-lexical world knowledge of chairs might include things like “you can stand on it”, “it’s often made out of wood,” “it can be bought”, “people usually buy matching chairs for their kitchen table”, “IKEA sells chairs,” “there’s a game where you play music and walk around chairs, and you have to sit in one when the music stops”, “I love chairs”, and so on. By traditional standards, non-lexical knowledge is usually thought to include things like subjective feelings evoked, and properties that are described with non-universal qualifications like “usually” and “often”. However, what’s considered lexical knowledge vs. not is a hard distinction to draw, and there is not a consensus about what counts as linguistic knowledge vs. world knowledge. Things like “people usually buy matching chairs for their kitchen table” certainly feels like it’s not a part of the “definition” of chair, but what about something like “it usually has four legs”?
+Some linguists would argue that only the necessary and sufficient conditions for chair would be a part of its lexical meaning — only enough information to distinguish it from other classes of objects. To use the terminology from 7.3, the lexical meaning would only include things that the statement x is a chair would entail. So if x is a chair, then the necessary and sufficient conditions of chair might be describable as the following “check list”:
+- the purpose of x is to seat one person;
+- x has a seat;
+- x has a back.
+
+To illustrate another example, the necessary and sufficient conditions of doe might be:
+- x is a deer (a kind of animal);
+- x is an adult;
+- x is female.
+
+These are called “necessary and sufficient conditions” because these conditions are necessary for distinguishing the doe category from other categories, and these conditions are also sufficient for the distinction (i.e., no more conditions need to be added). So for doe, it’s necessary that we specify “x is a deer”: without it, we would incorrectly include other adult female animals in the doe category, such as cows. “x is female” is also necessary; without it, we would incorrectly include other adult deer, like bucks. Collectively, these four conditions are sufficient: we don’t need additional conditions like “x lives in a forest”; some does live in mountains. The listed conditions are sufficient because that’s the minimum number of conditions needed for distinguishing does from non-does.
+The limitation of this “checklist” approach to lexical meaning is that the boundary between categories of things is not as sharp as the theory makes it out to be. Chair and doe might be relatively intuitive categories (well, personally, I have uncertainties about a chair requiring a back; try an online image search for “backless chair” in quotation marks, and see what you think!). But what about other things? What makes something a jacket vs. a coat? What does it mean for something to spin vs. rotate? How much moisture is required for you to call something moist? Is a hotdog a sandwich? Try searching the phrase “the cube rule” on the internet to see some people’s comically unsuccessful attempts at coming up with necessary and sufficient conditions for certain food categories.
+Experiments show that people often do not have sharp judgments about categories of things. Consider the images in Figure 7.6 below, which are inspired by the stimuli from Labov (1973)’s study.
+
+[图片：cup-bowl-1024x247.png]
+
+Figure 7.6. Cup or bowl?
+Your task is this: categorise each of the objects labeled 1 through 5 as a cup or a bowl. Most people agree that 1 is a cup, while 5 is a bowl. People are usually much less confident about the objects in 2 to 4, especially 3, and there tends to be disagreement about them. If we hypothesise that in our mental lexicon, there are clear necessary and sufficient conditions listed for cup, we should be able to categorise 1 through 5 as a cup or not, no problem. The fact that we cannot suggests that there’s more to meaning than listing minimal requirements for it. Interestingly, participants in an experiment like this find information like “what goes into this thing” helpful in the categorisation process. For example, if the object in 3 had mac and cheese in it, people would likely say that it’s a bowl. If it had tea in it, people are more willing to say that it’s a cup. It seems that category boundaries are fuzzy, and a lot more world knowledge goes into the lexical meaning of words than just “necessary and sufficient” conditions.
+
+## Are lexical meanings concepts?
+
+The first theory of lexical meaning that we examined (in Figure 7.5) assumed that lexical meaning is a distinct thing from concepts. A competing theory of lexical meaning is that lexical meanings are concepts. In other words, in this approach, the listeme chair in the lexicon does not have a “definition” in the lexical entry — the concept that is associated with chair is the “meaning”. Figure 7.6 illustrates one way in which this kind of approach can work. Once again, the star in the diagram indicates what the “sense” of the word is under this approach. Try comparing it with Figure 7.5 from earlier.
+
+[图片：mind-concept2-1024x578.png]
+
+Figure 7.7. The lexical meaning of chair is the entire concept of chair.
+This version of the “concepts as meaning” theory is what we might call the maximalist approach: literally, the “meaning” of chair is every single thing you know about chairs, including things like “IKEA sells chairs” and “there’s a game where you play music and walk around chairs, and you have to sit in one when the music stops”. Ray Jackendoff (1976)’s Conceptual Semantics (CS) is one such theory. In Conceptual Semantics, only the phonology and the syntax of the listeme resides natively in the lexicon. The lexical entry doesn’t contain a separate semantics of the listeme — the meaning is the conceptual representation in your cognition that the listeme is tied to. One reason for theorising that our language faculty has access to our general cognitive faculty is the fact that language is something that we use to respond to things we perceive. We describe things we see, touch, hear and so on.
+A more intermediate approach might lie somewhere in between the “meaning as definition” approach and the “meaning as concepts” approach. In this kind of approach, listemes do have a semantic representation in the lexical entry in the lexicon (as in Figure 7.5), but the lexical meaning has access to the cognitive conceptual module in limited ways. Here is something all semanticists can agree on: there are linguistic phenomena that are sensitive to certain con
+
+[图片：noun-cup-300x205.png]
+
+Figure 7.8. A prototypical cup.
+cepts. For example, I started a meal in English can mean ‘I started eating a meal’ or ‘I started preparing a meal’, while I started a book means ‘I started reading a book’ or ‘I started writing a book.’ The first meaning for each word refers to the intended purpose of that object, and the second meaning points to how that object came into being. We can see from data like this words activate concepts like “purpose of the object” and “how the object came into being”. One way to analyse this in terms of the architecture of the mind is that the lexical meaning of meal, book, chair, cup, etc. (and all nouns, in fact) on the linguistic competence side has a template that says “specify the intended purpose of this object” and “specify how this object comes into being”. Then, it retrieves the needed information from your concepts on the cognition side. This is roughly the approach that James Pustejovsky’s Generative Lexicon Theory (1995) takes, among others.
+
+[图片：noun-chair2-300x269.png]
+
+Figure 7.9. A prototypical chair.
+Regardless of whether you think lexical meanings are concepts or not, one thing that neither approach has explained so far is prototype effects. We already saw in the “cup or bowl?” experiment that some things are “clearly” cups or “clearly” bowls, and some things are in the grey area. Even if you couldn’t tell me what exactly makes
+
+[图片：noun-chair1-267x300.png]
+
+Figure 7.10. A non-prototypical chair.
+a cup a cup, you probably have intuitions about what a typical cup looks like: for many Canadians, a prototypical cup is probably like the one in Figure 7.8. A prototypical member of a category is very central to that category; a prototypical cup is a very cuppy cup. If I asked you to imagine a chair, what do you immediately think of? Many of you probably imagined something like Figure 7.9 (a prototypical chair), rather than something like Figure 7.10 (a non-prototypical chair).
+If I asked you to name 5 bird species, what would you write down? Typically, things like robin and sparrow are at the top of the list for many people, but birds like penguin are not named as frequently. These kinds of experiments, made famous by Eleanor Rosch, suggest that our minds organise concepts by prototypicality (Rosch 1973, 1975, among others).
+If we assume the “meanings are concepts” approach to lexical meaning, then we might modify the architecture of the mind to look like this:
+
+[图片：mind-prototype2-1024x595.png]
+
+Figure 7.11. The lexical meaning of chair is the entire concept of chair, but the concept has a structure, organised by prototypicality.
+
+Under the kind of theory illustrated in Figure 7.11, we would still assume that the lexical meaning of chair is the concept associated with chair, but this concept would have more structure to it. Previously, the concept of chair was an unorganized collection of what you know about chairs. So, “musical chairs is a game that involves chairs” and “sometimes chairs have one leg” would have had equal importance as something like “the purpose of a chair is to seat one person”. Under a prototype theory of concepts, the concept of chair would be organized by prototypicality, with the prototype of the concept being at the “core”. This means that at the “center” of what you know about chairs would be, for example, the fact that a chair is for seating one person, and that it typically has four legs. What’s at the “center” of the concept would have more prominence in the organization of the concept. In other words, what’s at the center would be considered more important for what it means for something to be a chair. Less central information, like how musical chairs is a game that involves chairs, and how sometimes chairs have one leg, would be farther away from this conceptual core. This accounts for why we tend to think of the most prototypical example of a category when asked to name a member of that category.
+
+Language, power, and our relationship with words
+Regardless of what theory of lexical meaning we adopt, there is no denying that our individual lived experiences shape our relationship with words. This of course means that our experience in the world affects our understanding of word meaning (e.g., a fashion enthusiast’s understanding of the meaning of purse may be very different from a non-fashion-enthusiast’s!), but there are other effects, too. For example, in one study of 51 veterans, researchers found that veterans with PTSD (Post-Traumatic Stress Disorder) and veterans without PTSD process combat-related words differently (Khanna et al. 2017). Particularly, in a Stroop test where participants have to say the name of the color that a word is written in (instead of reading the word itself), veterans with PTSD (31 of the 51 participants) responded significantly slower to combat-related words than they did to more neutral words and “threatening” words that are unrelated to combat. Veterans without PTSD (20 of the 51 participants) did not show a significant difference in their response time to different categories of words. The researchers also examined the veterans’ brain activity during this kind of task, and found that veterans with PTSD have reduced activity in the part of the brain that regulates emotional regulation. As discussed in Chapter 1, words are powerful, sometimes triggering strong emotional and physiological responses. Words that are non-traumatic to you may have a completely different effect on other people. This is something we might want to be considerate of in thinking about how words are used. The “literal” meaning of the word is not the only thing invoked when a word is uttered, and some words come with a lot of baggage, sometimes personal, sometimes more widespread as cross-generational trauma (especially for marginalized communities). So if someone says “hey, that word is painful for me to hear/see,” let’s try not to dismiss their claim based on just the literal meaning of the word, and based on just your personal perception that the word is unproblematic.
+
+Whatever your theory of lexical meaning you side with, what we do know is that certain pieces of information affect how a word behaves grammatically. For example, I drank the chair sounds distinctly odd compared to I drank the tea — this data suggests that concepts concerning the state of matter of physical objects matter for language. In the sections that follow, we will investigate what other sorts of information language tends to care about across languages. This will help us answer questions about lexical meaning at a more global level: what categories of meanings are there in language?
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=940#h5p-71
+
+## References
+
+Jackendoff, R. (1976). Toward an explanatory semantic representation. Linguistic Inquiry, 7(1):89–150.
+Ježek, E. (2016). Lexical information. In The Lexicon: An Introduction. Oxford University Press.
+Katz, J. J. (1972). Semantic Theory. Harper and Row, New York.
+Katz, J. J. and Fodor, J. A. (1963). The structure of a semantic theory. Language, 39:170–210.
+Katz, J. J. and Postal, P. M. (1964). An Integrated Theory of Linguistic Descriptions. MIT Press, Cambridge, MA.
+Labov, W. (1973). The boundaries of words and their meanings. In Bailey, C.-J. and Shuy, R. W., editors, New Ways of Analyzing Variation in English, pages 340–371, Washington D.C. Georgetown University Press.
+Murphy, M. L. (2010). Lexical Meaning. Cambridge University Press, Cambridge, MA.
+
+Pustejovsky, J. (1995). The Generative Lexicon. MIT Press, Cambridge, MA.
+Rosch, E. H. (1973). Natural categories. Cognitive psychology, 4(3), 328-350.
+Rosch, E. (1975). Cognitive reference points. Cognitive psychology, 7(4), 532-547.

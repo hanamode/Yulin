@@ -1,0 +1,106 @@
+{
+ "batch": 29,
+ "sections": {
+  "chapter-057-sentences-inside-sentences-embedded-clauses": {
+   "title": {"en": "6.6 Clausal embedding", "zh": "6.6 小句嵌入"},
+   "summary": {
+    "en": "Clauses can occur inside other clauses as embedded clauses, introduced by complementizers such as that, whether, if, and for, which head complementizer phrases. Because verbs select both the number and the category of their complements, they differ in which clause types they allow. Embedded clauses may be statements ([–Q]), questions ([+Q]), or nonfinite clauses such as I want ghosts to exist.",
+    "zh": "小句可以嵌入另一小句之中，构成嵌入小句，由 that、whether、if、for 等标句词引导，这些标句词投射出标句词短语。由于动词既要选择补足语的数量，也要选择补足语的范畴，不同动词允许的从句类型并不相同。嵌入小句可以是陈述（[–Q]）、疑问（[+Q]）或非限定小句，如 I want ghosts to exist。"
+   },
+   "points": [
+    {"en": "A verb's complement may be a whole clause, and such a clause inside another clause is an embedded clause.", "zh": "动词的补足语可以是一个完整小句，这种位于另一小句内部的小句称为嵌入小句。"},
+    {"en": "Complementizers like that introduce embedded clauses and head complementizer phrases, identified by constituency tests.", "zh": "that 一类标句词引导嵌入小句，并投射出标句词短语，其成分地位可由成分测试确认。"},
+    {"en": "Verbs select the category as well as the number of complements: eat takes only NPs, talk rejects complementizer phrases.", "zh": "动词既选择补足语的数量，也选择其范畴：eat 只接名词短语，talk 不接受标句词短语。"},
+    {"en": "that and the silent complementizer introduce embedded statements and are [–Q]; whether and if introduce embedded questions and are [+Q].", "zh": "that 与零形式标句词引导嵌入陈述句，属于 [–Q]；whether 和 if 引导嵌入疑问句，属于 [+Q]。"},
+    {"en": "Other verbs embed complementizerless nonfinite clauses, and for may introduce them, yielding for to infinitives.", "zh": "另一些动词嵌入无标句词的非限定小句，for 可以引导这类小句，形成 for to 不定式结构。"}
+   ],
+   "terms": [
+    {"en": "embedded clause", "zh": "嵌入小句", "defEn": "A clause that occurs inside another clause, typically as the complement of a verb.", "defZh": "出现在另一个小句内部的小句，通常充当动词的补足语。"},
+    {"en": "complementizer", "zh": "标句词", "defEn": "A functional category whose members introduce embedded clauses and turn them into complements of verbs.", "defZh": "一种功能范畴，其成员引导嵌入小句，把小句变成动词的补足语。"},
+    {"en": "complementizer phrase (CP)", "zh": "标句词短语（CP）", "defEn": "A phrase headed by a complementizer, such as that Samnang might leave.", "defZh": "以标句词为中心语的短语，例如 that Samnang might leave。"},
+    {"en": "recursion", "zh": "递归", "defEn": "The property that lets a clause contain another clause of the same general type.", "defZh": "使一个小句能够包含另一同类小句的属性，是语言结构可无限扩展的基础。"},
+    {"en": "nonfinite clause", "zh": "非限定小句", "defEn": "A clause whose verb lacks tense, appearing in English with the infinitive marker to.", "defZh": "动词不携带时的小句，在英语中伴随不定式标记 to 出现。"}
+   ],
+   "examples": [
+    {"text": "Deniz said that [Samnang might leave].", "noteEn": "The clause Samnang might leave occupies the object position, showing that a complement can be a clause.", "noteZh": "小句 Samnang might leave 占据宾语位置，说明补足语本身可以是一个小句。"},
+    {"text": "I know whether ghosts exist.", "noteEn": "The verb know selects a CP headed by the question complementizer whether.", "noteZh": "动词 know 选择由疑问标句词 whether 引导的标句词短语。"},
+    {"text": "I prefer for my coffee to have milk in it.", "noteEn": "Here for introduces a nonfinite clause containing an overt subject, my coffee.", "noteZh": "此处 for 引导一个非限定小句，小句中含有显性主语 my coffee。"},
+    {"text": "The newspaper reported that there was a demonstration yesterday.", "noteEn": "This verb strongly prefers an overt that and is ungrammatical if that is omitted.", "noteZh": "该动词强烈要求出现显性 that，若省略 that 则句子不合语法。"}
+   ],
+   "body": [
+    {"en": "Words group into constituents within a single clause, but the object of a verb can itself be a whole clause. In Deniz said that [Samnang might leave], the clause Samnang might leave appears exactly where the object something appears in Deniz said something. Replacement confirms that [said that Samnang might leave] is a verb phrase: Keiko said that Samnang might leave, and Deniz did too. A clause inside another clause is an embedded clause.", "zh": "词语在单个小句内组合成句法成分，但动词的宾语本身可以是一个完整小句。在 Deniz said that Samnang might leave 中，嵌入小句占据的正是 Deniz said something 中宾语 something 的位置。替代测试也确认了这一点：did too 可以替代整个动词短语。这种位于另一小句内部的小句即嵌入小句。"},
+    {"en": "The word that introduces the embedded clause; such words form a functional category, the complementizers, so named because they turn clauses into complements of verbs. They head complementizer phrases (CPs). Verbs select the category as well as the number of their complements: know takes this fact (noun phrase), about birds (prepositional phrase), or that birds can fly (CP), while eat permits only noun phrase complements and talk permits noun phrases and prepositional phrases but not CPs.", "zh": "that 的作用是引导嵌入小句；具有这一功能的词构成功能范畴，即标句词，此名正源于它们把小句变为动词的补足语。标句词像其他中心语一样投射出标句词短语（CP）。动词既选择补足语的数量，也选择其范畴：know 可接 this fact（名词短语）、about birds（介词短语）或 that birds can fly（CP），而 eat 只允许名词短语补足语，talk 允许名词短语和介词短语，却不允许 CP。"},
+    {"en": "Embedded clauses are not only statements. Besides that and the silent ∅, which mark embedded statements and are [–Q], English has the question complementizers whether and if, which are [+Q]. So know allows I know whether ghosts exist, believe allows only that or ∅, and wonder only whether or if. Quotation shows the contrast: They asked if ghosts exist reports the quoted question Do ghosts exist?", "zh": "嵌入小句并不限于陈述句。除属于 [–Q]、引导嵌入陈述句的 that 与零形式 ∅ 之外，英语还有属于 [+Q] 的疑问标句词 whether 和 if。因此 know 允许 I know whether ghosts exist，believe 只允许 that 或 ∅，wonder 只允许 whether 或 if。引用测试显出差别：They asked if ghosts exist 转述的是引语中的疑问句 Do ghosts exist?"},
+    {"en": "Other verbs embed clauses with no complementizer and a nonfinite verb: I want [ghosts to exist] is grammatical, but that or whether clauses are not. For many speakers for introduces nonfinite clauses (I prefer [for my coffee to have milk in it]), and some varieties yield for to infinitives like I was happy for to leave. Because prefer also allows I prefer [that cookies have chocolate chips], a verb may select a finite or a nonfinite clause.", "zh": "另一些动词嵌入的是无标句词、动词为非限定形式的小句：I want ghosts to exist 合语法，带 that 或 whether 的小句则不合语法。对许多说话人而言，for 可引导非限定小句，如 I prefer for my coffee to have milk in it；某些变体还产生 for to 不定式，如 I was happy for to leave。由于 prefer 也允许 I prefer that cookies have chocolate chips，一个动词既可选定限定小句，也可选定非限定小句。"}
+   ]
+  },
+  "chapter-058-main-clause-yes-no-questions": {
+   "title": {"en": "6.7 Main clause Yes-No questions", "zh": "6.7 主句是非问句"},
+   "summary": {
+    "en": "English forms main clause Yes-No questions by Subject-Auxiliary Inversion, moving the auxiliary of the main clause, not of an embedded clause, before the subject. When no auxiliary is present, Do-Support inserts do, as in Do ghosts exist?. Questions may also be marked by intonation alone, and the section contrasts main clause questions, which ask, with embedded questions, which report.",
+    "zh": "英语通过主语—助动词倒装构成主句是非问句，移动的是主句的助动词，而非嵌入小句中的助动词，它被移到主语之前。当句中没有助动词时，do 支撑插入 do，如 Do ghosts exist?。疑问也可以只靠语调表示；本节还对比了真正发问的主句问句与表示转述的嵌入问句。"
+   },
+   "points": [
+    {"en": "Yes-No questions are formed by moving the first auxiliary of the main clause before the subject.", "zh": "是非问句通过把主句中的第一个助动词移到主语之前构成。"},
+    {"en": "If an auxiliary sits inside the subject, it cannot move; only the main clause auxiliary can.", "zh": "若助动词位于主语内部，它不能移位；只有主句的助动词才能前移。"},
+    {"en": "Subject-Auxiliary Inversion is a transformation, a rule that reorders constituents and relates statements to questions.", "zh": "主语—助动词倒装是一种转换，即通过重新排列句法成分把陈述句与疑问句关联起来的规则。"},
+    {"en": "When a sentence lacks an auxiliary, Do-Support inserts do, as in Do ghosts exist? and Ghosts don't exist.", "zh": "句子没有助动词时，do 支撑插入 do，如 Do ghosts exist? 与 Ghosts don't exist。"},
+    {"en": "Yes-No questions can also be marked by question intonation alone, without any change in word order.", "zh": "是非问句也可以只靠疑问语调标记，完全不改变词序。"}
+   ],
+   "terms": [
+    {"en": "Yes-No question", "zh": "是非问句", "defEn": "A question that can be answered with yes or no in a language like English.", "defZh": "在英语一类语言中，可以用 yes 或 no 来回答的问句。"},
+    {"en": "Subject-Auxiliary Inversion", "zh": "主语—助动词倒装", "defEn": "The process that moves the main clause auxiliary to a position before the subject.", "defZh": "把主句助动词移到主语之前位置的句法过程，又称 Subject-Aux Inversion。"},
+    {"en": "transformation", "zh": "转换", "defEn": "A rule that changes sentence structure predictably by reordering constituents.", "defZh": "通过重新排列句法成分，以可预测的方式改变句子结构的规则。"},
+    {"en": "Do-Support", "zh": "do 支撑", "defEn": "The rule that inserts the auxiliary do when a sentence requires an auxiliary but has none.", "defZh": "当句子因语法需要助动词而本身又没有助动词时，插入助动词 do 的规则。"},
+    {"en": "question intonation", "zh": "疑问语调", "defEn": "The rising melody that marks a question without any change in word order.", "defZh": "一种不改变词序、仅凭句末上升语调来标记疑问的方式。"},
+    {"en": "embedded question", "zh": "嵌入疑问句", "defEn": "A question inside another clause, which reports rather than performs a question.", "defZh": "位于另一小句内部的疑问小句，用于转述而非真正发问。"}
+   ],
+   "examples": [
+    {"text": "Will [the information [that was shared]] _ surprise them?", "noteEn": "Only the main clause auxiliary will can invert; the auxiliary was inside the subject cannot.", "noteZh": "只有主句助动词 will 可以倒装；位于主语内部的助动词 was 不能前移。"},
+    {"text": "Do ghosts exist?", "noteEn": "Do-Support supplies the auxiliary do because the corresponding statement Ghosts exist has none.", "noteZh": "由于相应的陈述句 Ghosts exist 没有助动词，do 支撑提供了助动词 do。"},
+    {"text": "Ghosts don't exist.", "noteEn": "Negation also requires an auxiliary, so do appears here as well.", "noteZh": "否定同样需要助动词，因此这里也出现了 do。"},
+    {"text": "Ghosts exist?", "noteEn": "A Yes-No question marked by intonation alone, good for asking for repetition or showing surprise.", "noteZh": "仅靠语调标记的是非问句，适合请对方重复或表示惊讶。"}
+   ],
+   "body": [
+    {"en": "Yes-No questions can be answered with yes or no. English forms them by moving the first auxiliary of the main clause to the front of the sentence, before the subject: It will rain becomes Will it rain?, and They have left becomes Have they left yet?. This is Subject-Auxiliary Inversion. Only an auxiliary of the main clause moves: in [The information [that was shared]] will surprise them, was belongs to the subject, so only Will [the information [that was shared]] _ surprise them? is grammatical.", "zh": "是非问句可以用 yes 或 no 回答。英语把主句的第一个助动词移到句首、即主语之前：It will rain 变成 Will it rain?，They have left 变成 Have they left yet?。此过程称主语—助动词倒装。只有主句的助动词才能移位：在 [The information [that was shared]] will surprise them 中，was 属于主语，故只有 Will [the information [that was shared]] _ surprise them? 合语法。"},
+    {"en": "Subject-Auxiliary Inversion is a transformation: a rule that changes sentence structure in a predictable way by reordering constituents and relates one set of sentences to another. Current theory often describes transformations as movement. Theories differ over whether transformations are real operations in a speaker's mental grammar or only generalizations. Tellingly, no human language moves the first auxiliary encountered to form questions, which suggests that structure and constituency, not linear order, are fundamental.", "zh": "主语—助动词倒装是一种转换：它通过重新排列句法成分、以可预测的方式改变句子结构，把一组句子与另一组句子关联起来。当代句法理论常把转换描写为移位。各家理论的分歧在于：转换究竟是说话人心理语法中真实运作的操作，还是仅仅是对陈述与疑问关系的概括。值得注意的是，没有任何人类语言通过移动碰到的第一个助动词来构成疑问句，这说明对语法而言，结构与成分关系而非线性词序才是根本的。"},
+    {"en": "When a sentence has no auxiliary, English supplies one: Ghosts exist becomes Do ghosts exist?, and the same do is needed for negation, since Ghosts don't exist is grammatical while forms like Ghostsn't exist are not. This rule is Do-Support. If an auxiliary is already present, do cannot be added, so *They don't have left and *Don't they have left? are ungrammatical alongside They haven't left.", "zh": "当句子没有助动词时，英语会补出一个：Ghosts exist 变成 Do ghosts exist?；否定句同样需要 do，因为 Ghosts don't exist 合语法，Ghostsn't exist 一类形式则不合。这条规则即 do 支撑。若句中已有助动词，就不能再添加 do，所以 *They don't have left 和 *Don't they have left? 都不合语法，而 They haven't left 合语法。"},
+    {"en": "Yes-No questions may also be formed with no change in word order, using question intonation: Ghosts exist? alongside Do ghosts exist?. These are more restricted and suit contexts of asking someone to repeat themselves or expressing surprise. Main clause questions really ask for information and take a question mark, while embedded questions like They asked if I like chocolate report what someone said and take none. The two combine in Should they know whether ghosts exist?.", "zh": "是非问句也可以完全不改变词序，仅靠疑问语调构成：Ghosts exist? 与 Do ghosts exist? 并存。这类问句限制较多，适合请对方重复或表达惊讶。主句问句真正提问、寻求信息，句末用问号；They asked if I like chocolate 这样的嵌入问句只是转述他人所说的话，句末不用问号。二者可合并，见于 Should they know whether ghosts exist?。"}
+   ]
+  },
+  "chapter-059-main-clause-content-questions": {
+   "title": {"en": "6.8 Main clause content questions", "zh": "6.8 主句内容疑问句"},
+   "summary": {
+    "en": "Content questions ask for specific information rather than yes or no. In English the content question word must appear at the beginning of the clause (Question Word Fronting) and Subject-Auxiliary Inversion applies as in Yes-No questions. Leaving the question word in-situ yields echo questions, and many other languages use question particles or leave question words in place.",
+    "zh": "内容疑问句问的是具体信息，而不是用 yes 或 no 作答。在英语中，疑问词必须出现在小句开头（疑问词前置），同时像是非问句一样发生主语—助动词倒装。疑问词留在原位则形成回声问句；许多其他语言则使用疑问助词，或让疑问词留在原位。"
+   },
+   "points": [
+    {"en": "Content questions ask for specific information, such as time or location, rather than a yes or no answer.", "zh": "内容疑问句问的是时间、地点一类具体信息，而不是要求 yes 或 no 的回答。"},
+    {"en": "All languages can ask content questions, even if their question words do not share an initial sound.", "zh": "所有语言都能提出内容疑问，即使其疑问词并不共享同一个起始音。"},
+    {"en": "A content question word or the phrase it heads must appear at the beginning of the clause.", "zh": "疑问词或以其为中心语的短语必须出现在小句的开头。"},
+    {"en": "Grammatical main clause content questions also show Subject-Auxiliary Inversion, like Yes-No questions.", "zh": "合乎语法的主句内容疑问句同是非问句一样，也发生主语—助动词倒装。"},
+    {"en": "Many languages mark Yes-No questions with a question particle or leave content question words in-situ.", "zh": "许多语言用疑问助词标记是非问句，或让疑问词留在原位。"}
+   ],
+   "terms": [
+    {"en": "content question", "zh": "内容疑问句", "defEn": "A question that asks for specific information rather than a yes or no answer.", "defZh": "询问具体信息、而非要求以 yes 或 no 来作答的问句。"},
+    {"en": "content question word", "zh": "疑问词", "defEn": "A word such as who, what, where, when, why, or how that forms content questions.", "defZh": "who、what、where、when、why、how 等构成内容疑问句的词。"},
+    {"en": "Question Word Fronting", "zh": "疑问词前置", "defEn": "The generalization that a content question word must appear at the beginning of the clause.", "defZh": "疑问词或其引导的短语必须出现在小句开头这一普遍规律。"},
+    {"en": "in-situ", "zh": "原位", "defEn": "Describes a question word that stays in the position of the corresponding non-question phrase.", "defZh": "指疑问词停留在相应非疑问短语原有位置上的情况，字面意思为在原处。"},
+    {"en": "echo question", "zh": "回声问句", "defEn": "An in-situ question used to ask someone to repeat what they said.", "defZh": "疑问词留在原位的问句，用于请对方重复刚刚说过的话。"},
+    {"en": "question particle", "zh": "疑问助词", "defEn": "A fixed word added to a sentence to mark it as a Yes-No question.", "defZh": "加在句子上以标记是非问句的固定虚词，如法语 est-ce que。"}
+   ],
+   "examples": [
+    {"text": "What has the squirrel hidden?", "noteEn": "The question word is about the object of hide but appears at the very beginning of the clause.", "noteZh": "疑问词问的是 hide 的宾语，却出现在小句的最开头。"},
+    {"text": "Where is it snowing?", "noteEn": "A content question about location, showing both fronting and Subject-Auxiliary Inversion.", "noteZh": "询问地点的内容疑问句，同时体现了疑问词前置和主语—助动词倒装。"},
+    {"text": "It's snowing where?", "noteEn": "An echo question, in which the question word stays in-situ and the intonation rises.", "noteZh": "回声问句，疑问词留在原位，句末语调上升。"},
+    {"text": "Usagi-wa nani-o tabe-ru ka", "noteEn": "A Japanese content question in which nani-o stays in-situ and the particle ka is clause-final.", "noteZh": "日语内容疑问句，nani-o 留在原位，助词 ka 位于小句末尾。"}
+   ],
+   "body": [
+    {"en": "Until now we have looked at Yes-No questions, which ask whether something is the case. Content questions ask for specific information about part of a sentence, for example time in When was it snowing? or location in Where is it snowing?. English often calls them WH-questions, but this book says content question words for who, what, where, when, why, and how. Their answer is a word or phrase corresponding to the question word, never yes or no.", "zh": "此前讨论的是是非问句，它们询问某事是否成立；内容疑问句则就句子的某一部分询问具体信息，例如 When was it snowing? 问时间，Where is it snowing? 问地点。英语常称这类问句为 WH 疑问句，本书则把 who、what、where、when、why、how 统称为疑问词。内容疑问句的回答是与疑问词相对应的词或短语，绝不是 yes 或 no。"},
+    {"en": "Content questions in English involve changes in word order. In What has the squirrel hidden?, the question word asks about the object of hide, yet it appears at the very beginning of the clause; this is Question Word Fronting. Ordinary information-seeking questions cannot leave the word in the statement position, so *It's snowing where?, *It was snowing when?, and *Squirrels hide nuts how? are not grammatical. All the grammatical content questions also show Subject-Auxiliary Inversion.", "zh": "英语的内容疑问句涉及词序变化。在 What has the squirrel hidden? 中，疑问词问的是 hide 的宾语，却出现在小句的最开头，这就是疑问词前置。真正求取信息的问句不能把疑问词留在陈述句中的原位置，因此 *It's snowing where?、*It was snowing when? 和 *Squirrels hide nuts how? 都不合语法。所有合语法的主句内容疑问句也都发生主语—助动词倒装。"},
+    {"en": "When a content question word does stay in the position where the corresponding phrase would appear in a statement, it is in-situ, meaning in place. In many languages this is the normal way to form content questions, but in English it is not the default and is used mainly for echo questions, as when you did not quite hear someone. Echo questions also take the rising intonation of Yes-No questions rather than the falling intonation of ordinary content questions.", "zh": "如果疑问词确实停留在相应的非疑问短语在陈述句中本应出现的位置，就称其为原位，意思是在原处。在许多语言中，这是构成内容疑问句的常规方式；但在英语中它并非默认手段，主要用于回声问句，比如没听清对方的话时。回声问句还采用是非问句的上升语调，而不是一般内容疑问句的下降语调。"},
+    {"en": "Languages vary in how they mark questions. Many use a question particle, such as French est-ce que at the start of a sentence, Japanese ka at the end, or Mandarin ma at the end. Because Japanese is head-final, ka is clause-final, and Japanese also leaves content question words in-situ: in Usagi-wa nani-o tabe-ru ka the word nani-o sits where the object would sit in a statement. Such particles resemble the English complementizer if or whether in main clauses more than the auxiliary do.", "zh": "各语言标记疑问的方式彼此不同。许多语言使用疑问助词，如法语的 est-ce que 位于句首，日语的 ka 和汉语普通话的 ma 位于句末。由于日语是中心语后置语言，ka 出现在小句末尾，日语还让疑问词留在原位：在 Usagi-wa nani-o tabe-ru ka 中，nani-o 就位于相应宾语在陈述句中所处的位置。这类助词更像出现在主句中的英语标句词 if 或 whether，而不像助动词 do。"}
+   ]
+  }
+ }
+}

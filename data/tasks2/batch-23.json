@@ -1,0 +1,24 @@
+{
+ "batch": 23,
+ "out": "data/gen2/batch-23.json",
+ "entries": [
+  {
+   "id": "grammaticality",
+   "title": "合乎语法性",
+   "en": "Grammaticality",
+   "category": "concepts"
+  },
+  {
+   "id": "competence-performance",
+   "title": "语言能力与语言运用",
+   "en": "Competence and Performance",
+   "category": "concepts"
+  },
+  {
+   "id": "speech-community",
+   "title": "言语社区",
+   "en": "Speech Community",
+   "category": "concepts"
+  }
+ ]
+}

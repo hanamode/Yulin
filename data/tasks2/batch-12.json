@@ -1,0 +1,24 @@
+{
+ "batch": 12,
+ "out": "data/gen2/batch-12.json",
+ "entries": [
+  {
+   "id": "head",
+   "title": "中心语",
+   "en": "Head",
+   "category": "concepts"
+  },
+  {
+   "id": "phrase-structure-rule",
+   "title": "短语结构规则",
+   "en": "Phrase Structure Rule",
+   "category": "concepts"
+  },
+  {
+   "id": "syntactic-movement",
+   "title": "句法移位",
+   "en": "Syntactic Movement",
+   "category": "concepts"
+  }
+ ]
+}

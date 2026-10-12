@@ -1,0 +1,66 @@
+# 6.3 Structure within the sentence: Phrases, heads, and selection
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1479#oembed-1
+
+## From words to phrases
+
+Beyond the order of words, all human languages appear to group words together into constituents. The generalizations about which sentences people find grammatical and which ones they find ungrammatical don’t refer to purely linear properties like “fourth word in a sentence”, but instead to phrases in particular structural positions. In the rest of this section we’ll explore what it means to be a phrase in more detail; in the next section we’ll start talking about structural positions.
+A phrase is a set of words that act together as a unit. Let’s look at the example in (1) to see what this means:
+
+[表格]
+| | | (1) | | | | All kittens are very cute. | | |
+
+What other groups of words can appear in the same position as the words all kittens in this sentence?
+
+[表格]
+| | | (2) | | a. | | | Puppies | are very cute. | | | | | | b. | | | The ducklings that I saw earlier | are very cute. | | | | | | c. | | | These videos of a baby panda sneezing | are very cute. | | |
+
+…and so on. It turns out that lots of different groups of words can go in this position—but not all of them! What all these examples have in common is that we’ve replaced [all kittens] with another group of words that includes at least one plural noun: puppies or ducklings or videos. If we swap in a singular noun, the sentences would be ungrammatical, as we see in (3).
+
+[表格]
+| | | (3) | | a. | | * | The puppy | are very cute. | | | | | | b. | | * | The duckling that I saw earlier | are very cute. | | | | | | c. | | | *This video of a baby panda sneezing | are very cute. | | |
+
+…but if we change the plural verb are to the singular is they become good again (this is subject agreement inflection, last seen in 5.7 Inflectional morphology):
+
+[表格]
+| | | (4) | | a. | | | The puppy | is very cute. | | | | | | b. | | | The duckling that I saw earlier | is very cute. | | | | | | c. | | | This video of a baby panda sneezing | is very cute. | | |
+
+It turns out that the groups of words that we can easily substitute here are all ones that have a noun in them. But it’s not enough to just have some noun in the group of words at the front of the sentence, as the examples in (5) show. (5a) is ungrammatical even though the string of words at the beginning includes the pronoun I—and this sentence is ungrammatical whether we try the form is or are or even am. In (5b) the sentence is ungrammatical even though we have the compound noun baby panda, again no matter what form of the verb we try.
+
+[表格]
+| | | (5) | | a. | | * | That I saw earlier | {is / are / am} very cute. | | | | | | b. | | * | Of a baby panda | {is / are} very cute. | | |
+
+What distinguishes the grammatical sentences in (1), (2), and (4) from the ungrammatical sentences in (5) is that in (1), (2), and (4) the group of words at the beginning of these sentence are noun phrases (remember that the sentences in (3) were ungrammatical only because they had the wrong agreement inflection). Noun phrases are groups of words that not only contain a noun, but where the noun is the “most important” element in some sense.
+By “most important” we mean that it’s the noun that determines an important part of the meaning of the subject, but also that it’s this noun that determines the category of the whole phrase, which determines where the phrase can go in relation to other phrases. The noun is the head of the phrase, the same kind of headedness we saw in 5.8 Compounding for compounds, but applied to words in a phrase instead of to morphemes in a word.
+The head of a phrase also determines what else can go in the phrase; in particular it determines whether the phrase contains an object. Recall from the discussion of grammatical terminology in Section 6.2 that we classify verbs by their transitivity—that is, by how many objects they take. Each verb has an opinion about whether and how many objects it allows. By contrast, there’s no verb that cares whether it’s modified by an adverb (and also no verb that cares whether it has a subject or not, because all clauses in English require subjects). The technical term for this is selection: heads select their objects—though for heads that aren’t verbs, we usually use the more general term complement. Heads determine both whether a complement is required or allowed, and what the complement’s category has to be. For example, nouns in English never require a complement, but when they do take a complement it is almost always a clause (whose category we’ll return to later) or a prepositional phrase.
+Headedness is important to the grammar of all languages, not just English. The right kinds of generalizations in syntax are never about single words like nouns or verbs, but instead about phrases like noun phrases or verb phrases.
+Importantly, phrases can contain other phrases of the same type inside of them. So for example, the noun phrase [these videos of a baby panda] contains a second noun phrase inside it, [a baby panda].
+The ability of a structure to contain another structure of the same type inside itself is called recursion. This is another key property of natural language grammars—even though there is some debate among linguists about whether all human languages exhibit recursion, everyone agrees that many or most languages do, and that one of the things we need to explain about our human language capacity is that all humans can acquire a language with recursion. You can learn more about child language acquisition in Chapter 11.
+
+## Variation across languages: Word order within phrases
+
+As we’ve already seen, languages vary in their word order, and this variation isn’t random—it isn’t the case that anything goes in word order.
+This isn’t just true for the order of major constituents in a sentence (subjects, objects and verbs), but also for the order of elements inside phrases; in particular, the order of heads and what they select (their object / complement).
+In English it is always the case that heads precede their complements. This is true of verbs and their objects, prepositions and their noun phrase complements, and nouns and their prepositional phrase complements.
+
+[表格]
+| | | (6) | | a. | | I [ | VP | ate | (V) | [ | NP | an apple ] ]. | | | | | | b. | | [ | PP | to | (P) | [ | NP | Toronto ] ] | | | | | | c. | | [ | NP | picture | (N) | [ | PP | of a robot ] ] | | |
+
+In contrast to English, Japanese is an SOV language. And in Japanese, heads always follow their complements. In other words, heads in Japanese don’t appear in the middle of their phrases like in English, but instead always at the end of their phrases.
+
+[表格]
+| | | (7) | | a. | | Watasi-wa | | [ | VP | | | [ | NP | | | | ringo-o | | | ] | | | tabe-ta | . | | ] | | | | | | | | I-TOPIC | | | | | | apple-ACC | | | | eat-PAST | | | | | | | | | | “I ate (an) apple.” | | | | | | b. | | [ | PP | | | [ | NP | | | | Tokyo | | | ] | | | e | | | ] | | | | | | | | | | | | Tokyo | | | | to | | | | | | | | | | “to Tokyo” | | | | | | c. | | [ | NP | | | [ | PP | | | | robotto | | | | no | | | ] | | | shasin | | | ] | | | | | | | | | | | | robot | | of | | | | picture | | | | | | | | | | “picture of (a) robot” | | |
+
+This is the reverse of the order we get in English.
+Technically words like e (“to”) in Japanese would be postpositions instead of prepositions, and sometimes the more general term adpositions is used for both languages like English and languages like Japanese. These terms are parallel to suffix, prefix, and affix in morphology.
+The ability of heads to either precede or follow their complements is called head directionality. A language can be head initial like English, or head-final like Japanese (or can even have different orders for phrases of different categories). If you’re analyzing an unfamiliar language, and need to figure out its word order, one of the first questions you should ask is whether it appears to be head initial or head final.
+In later sections of this chapter we’ll see other ways to derive differences in word order, involving differences in the movement (or transformations) available in a language’s grammar.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1479#h5p-127
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.2 Word order and the next section is 6.4 Identifying phrases: Constituency tests.

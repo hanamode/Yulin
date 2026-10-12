@@ -1,0 +1,9 @@
+# Chapter 3: Phonetics
+
+A key aspect of any language is its physical reality in the world: how we transmit linguistic signals from one person to another. This chapter explores this physical reality by looking at the body parts used for language, how they move to create a linguistic signal, and how linguists categorize, describe, and notate these physical properties so they can record and access information about a language.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Identify the locations and functions of parts of the human anatomy relevant to the articulation of spoken and signed languages,
+- Provide articulatory descriptions of given examples of phones and signs, and
+- Identify the meanings of many common symbols from the International Phonetic Alphabet.

@@ -1,0 +1,297 @@
+{
+ "batch": 41,
+ "sections": {
+  "part-008-chapter-8-pragmatics": {
+   "title": {
+    "en": "Chapter 8: Pragmatics",
+    "zh": "第8章 语用学"
+   },
+   "summary": {
+    "en": "This chapter studies sentential meaning through its relation to context, the domain called pragmatics. The first half traces how implicatures arise in conversation, examining Grice’s Cooperative Principle and cross-linguistic differences in conversational rules. The second half turns to illocutionary meaning and formal notions of context such as the Common Ground and the Question Under Discussion.",
+    "zh": "本章从语境如何影响意义、意义又如何影响语境的角度考察句子意义，这一研究领域称为语用学。前半部分追溯会话中会话含义的产生机制，评估格莱斯的合作原则，并比较不同语言与文化在会话规则上的差异；后半部分转向施为意义，引入共同背景、讨论中的问题等语境的形式化概念。"
+   },
+   "points": [
+    {
+     "en": "Pragmatics studies how context affects meaning and how utterances in turn affect context.",
+     "zh": "语用学研究语境如何影响意义，以及话语如何反过来影响语境。"
+    },
+    {
+     "en": "The chapter opens with conversational logic and Grice’s Cooperative Principle, evaluated as a theory.",
+     "zh": "本章先讨论会话逻辑与格莱斯的合作原则，并将其作为理论加以评估。"
+    },
+    {
+     "en": "It later analyses illocutionary meaning, comparing assertions with questions in discourse.",
+     "zh": "随后分析施为意义，比较断言与疑问在话语中的不同作用。"
+    },
+    {
+     "en": "Formal notions such as the Common Ground and the Question Under Discussion sharpen the notion of context.",
+     "zh": "共同背景与讨论中的问题等形式化概念使语境这一概念更加清晰。"
+    },
+    {
+     "en": "Learning goals include classifying implicatures and entailments, and appreciating neurodiversity and cultural diversity.",
+     "zh": "学习目标包括区分会话含义与蕴涵，并理解神经多样性与文化多样性。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "pragmatics",
+     "zh": "语用学",
+     "defEn": "the study of how context affects sentential meaning",
+     "defZh": "研究语境如何影响句子意义的学科领域"
+    },
+    {
+     "en": "Cooperative Principle",
+     "zh": "合作原则",
+     "defEn": "Grice’s foundational principle governing conversational contributions",
+     "defZh": "格莱斯提出、支配会话中话语贡献的基础性原则"
+    },
+    {
+     "en": "illocutionary meaning",
+     "zh": "施为意义",
+     "defEn": "what an utterance does to the context in discourse",
+     "defZh": "话语在话语语境中所产生的行为效果意义"
+    },
+    {
+     "en": "Common Ground",
+     "zh": "共同背景",
+     "defEn": "formal notion of the shared assumptions in a conversation",
+     "defZh": "会话中双方共同假定内容的形式化概念"
+    },
+    {
+     "en": "Question Under Discussion",
+     "zh": "讨论中的问题",
+     "defEn": "formal notion of the question a discourse is addressing",
+     "defZh": "当前话语正在回答的那个问题的形式化概念"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "This chapter examines sentential meaning from the angle of context: how context shapes what a sentence conveys, and how producing a sentence changes the context in return. The study of that two-way relationship is pragmatics. Chapter 7 established that sentences give rise to implicatures that depend on the discourse context, and the present chapter begins by asking what conversational logic makes those implicatures arise in the first place.",
+     "zh": "本章从语境的角度考察句子意义：语境如何塑造句子所传达的内容，以及说出一个句子又如何反过来改变语境。研究这种双向关系的领域就是语用学。第7章已经说明，句子会产生依赖话语语境的会话含义，本章则首先追问：究竟是怎样的会话逻辑使这些会话含义得以产生。"
+    },
+    {
+     "en": "The first half of the chapter therefore starts from the foundational work of the philosopher Paul Grice, above all the Cooperative Principle, and evaluates it as a theory while setting out the basic principles of conversational logic. Because such principles may not be shared everywhere, the discussion also considers what differences languages and cultures display in their conversational rules.",
+     "zh": "因此，本章前半部分从哲学家保罗·格莱斯的基础性工作出发，尤其是合作原则，在阐述会话逻辑基本原理的同时，把该原则作为一个理论来评估。由于这类原则未必为所有社群共有，讨论还考察不同语言与文化在会话规则上表现出的差异。"
+    },
+    {
+     "en": "The latter half turns to illocutionary meaning, that is, what happens to the context when an utterance is made. Here the focus falls on the formal analysis of asserting versus asking a question in discourse. To make that analysis precise, the chapter introduces formal notions of context, notably the Common Ground and the Question Under Discussion, which help clarify what a context actually is and what it means for something to happen to it.",
+     "zh": "后半部分转向施为意义，即说出话语时语境中“发生”了什么。此处的重点是对话语中断言与提问的形式化分析。为使分析更精确，本章引入语境的形式化概念，特别是共同背景与讨论中的问题，它们有助于厘清语境究竟是什么，以及所谓语境“发生变化”到底意味着什么。"
+    }
+   ]
+  },
+  "chapter-089-slug-8-1-at-issue-vs-non-at-issue-meaning": {
+   "title": {
+    "en": "8.1 At-issue vs. non-at-issue meaning",
+    "zh": "8.1 命题内容意义与非命题内容意义"
+   },
+   "summary": {
+    "en": "The section separates the literal, surface meaning of a sentence from the other meanings it carries. The literal meaning is called at-issue meaning, while implicatures and presuppositions count as non-at-issue. Sentential negation supplies a diagnostic: negating the sentence cancels its at-issue meaning, may leave the implicature intact, and never removes the presupposition.",
+    "zh": "本节把句子的字面意义、表层意义与它携带的其他意义区分开来。字面意义称为命题内容意义，而会话含义与预设属于非命题内容意义。句子否定提供了一项诊断：否定会取消句子的命题内容意义，可能保留会话含义，却绝不会消除预设。"
+   },
+   "points": [
+    {
+     "en": "At-issue meaning is the literal, surface meaning, the main topic the sentence is discussing.",
+     "zh": "命题内容意义是字面的表层意义，即句子正在讨论的主要议题。"
+    },
+    {
+     "en": "Implicatures and presuppositions are non-at-issue meanings rather than part of the surface content.",
+     "zh": "会话含义与预设属于非命题内容意义，而非表层内容的一部分。"
+    },
+    {
+     "en": "Sentential negation targets the at-issue meaning and necessarily cancels it.",
+     "zh": "句子否定以命题内容意义为目标，并且必然将其取消。"
+    },
+    {
+     "en": "An implicature may survive negation because it is compatible with the negated sentence.",
+     "zh": "会话含义可能在否定后仍然成立，因为它与否定句并不冲突。"
+    },
+    {
+     "en": "A presupposition always survives negation and must still be assumed true.",
+     "zh": "预设总能经受否定，在否定句中仍必须被假定为真。"
+    },
+    {
+     "en": "Other textbooks may use truth-conditional and non-truth-conditional meaning for these two notions.",
+     "zh": "其他教材可能用真值条件意义与非真值条件意义来指称这两个概念。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "at-issue meaning",
+     "zh": "命题内容意义",
+     "defEn": "the literal surface meaning that is the main topic of discussion",
+     "defZh": "句子的字面表层意义，是当前讨论的主要议题内容"
+    },
+    {
+     "en": "non-at-issue meaning",
+     "zh": "非命题内容意义",
+     "defEn": "meaning outside the surface content, such as implicature or presupposition",
+     "defZh": "表层内容之外的意义，如会话含义与预设"
+    },
+    {
+     "en": "implicature",
+     "zh": "会话含义",
+     "defEn": "a context-dependent non-entailment suggested by a sentence",
+     "defZh": "句子依据语境所暗示、而非必然推出的意义"
+    },
+    {
+     "en": "presupposition",
+     "zh": "预设",
+     "defEn": "what is already assumed true when a sentence is uttered",
+     "defZh": "说出句子时已被假定为真的那部分内容"
+    },
+    {
+     "en": "sentential negation",
+     "zh": "句子否定",
+     "defEn": "negation of a whole sentence, as in it is not the case that",
+     "defZh": "对整个句子进行的否定，如“并非……的情况”"
+    },
+    {
+     "en": "truth-conditional meaning",
+     "zh": "真值条件意义",
+     "defEn": "an alternative label for at-issue meaning in other textbooks",
+     "defZh": "其他教材中用来指称命题内容意义的另一种说法"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Ode’imin and strawberry mean the same thing.",
+     "noteEn": "The sense or denotation interpretation of lexical meaning across Ojibwe and English.",
+     "noteZh": "该例说明奥吉布瓦语词与英语词可在涵义或指称上被解释为意义相同。"
+    },
+    {
+     "text": "I said coffee is just as tasty as tea, but I didn’t mean it.",
+     "noteEn": "Here mean concerns the speaker’s sincerity and a commitment being retracted.",
+     "noteZh": "这里的 mean 涉及说话人的真诚，以及撤回先前作出的承诺。"
+    },
+    {
+     "text": "What do you mean, Mounissa bought 10lbs of strawberries?",
+     "noteEn": "The question asks about the implicature rather than the compositional sense.",
+     "noteZh": "该问句追问的是会话含义，而不是句子的组合性字面意义。"
+    },
+    {
+     "text": "It is not the case that Mounissa will buy the discounted strawberries.",
+     "noteEn": "Negation cancels the at-issue meaning while the presupposition and implicature survive.",
+     "noteZh": "否定取消了命题内容意义，而预设与会话含义仍然保留下来。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Chapter 7 distinguished genuine linguistic meaning from other uses of the word mean, such as asking what a floating tea stalk means or noting, in Japanese, that imi-ga nai, there is no point. For words, meaning can be analysed either as sense or as denotation, so ode’imin and strawberry may share a sense or point to the same fruit. A further use appears when a speaker says they did not mean something: the issue there is sincerity and a commitment made in discourse, not the sense of the words.",
+     "zh": "第7章把真正的语言意义与 mean 一词的其他用法区分开来，例如追问立起来的茶梗意味着什么，或指出日语中 imi-ga nai、即没有意义。就词而言，意义既可以按涵义分析，也可以按指称分析，因此 ode’imin 与 strawberry 可以共有同一涵义，也可以指向同一种水果。mean 还有一种用法出现在说话人表示自己并非当真时：此时涉及的是真诚与话语中作出的承诺，而不是词本身的涵义。"
+    },
+    {
+     "en": "A sentence can also mean more than what it literally states. Asking What do you mean, Mounissa bought 10lbs of strawberries? is unlikely to target the compositional content, which is clear enough: someone exchanged money for strawberries weighing ten pounds. What is really being questioned is the implicature, and since an implicature is not an entailment, it shifts with the context: given a love of jam, the sentence suggests jam-making, while elsewhere it might suggest strawberry lemonade.",
+     "zh": "句子还可能传达超出字面陈述的内容。问“What do you mean, Mounissa bought 10lbs of strawberries?”时，针对的通常不是组合性内容，因为这一内容已经足够清楚：某人花钱买了十磅草莓。真正被追问的是会话含义；由于会话含义不是蕴涵，它会随语境而变：若知道 Mounissa 喜欢果酱，该句便暗示她在做果酱，而在别的语境中也可能暗示她在做草莓柠檬水。"
+    },
+    {
+     "en": "This textbook calls the literal surface meaning the at-issue meaning, since it is the main topic being discussed; issue here simply means topic, not problem. Whatever falls outside that surface content is non-at-issue meaning, and implicatures are one such type. In declaratives, negating with it is not the case that provides a diagnostic. Negation necessarily cancels the at-issue meaning and may leave an implicature standing, but it never removes a presupposition: the definite determiner the still presupposes that discounted strawberries exist.",
+     "zh": "本教材把字面的表层意义称为命题内容意义，因为它是当前讨论的主要议题；这里的“议题”只指话题，并不含“问题”那样的负面意味。表层内容之外的部分即非命题内容意义，会话含义就是其中一类。在陈述句中，用“并非……的情况”进行否定可作诊断：否定必然取消命题内容意义，可能让会话含义继续成立，却绝不会删除预设——定指限定词 the 仍然预设打折草莓的存在。"
+    },
+    {
+     "en": "The pattern is therefore that negating a sentence makes its implicature possibly disappear, whereas its presupposition always survives. Some linguists use the labels truth-conditional meaning and non-truth-conditional meaning for these two categories, but this textbook prefers at-issue and non-at-issue, since presuppositions remain tied to truth in the sense that they must hold before the sentence is uttered.",
+     "zh": "由此可归纳出规律：否定一个句子，其会话含义可能随之消失，而预设却始终保留。有些语言学家用真值条件意义与非真值条件意义来指称这两类意义，但本教材更倾向使用命题内容意义与非命题内容意义，因为预设仍与真值相关——它必须在句子说出之前就成立。"
+    }
+   ]
+  },
+  "chapter-090-slug-8-2-cross-community-differences-in-discourse": {
+   "title": {
+    "en": "8.2 Cross-community differences in discourse",
+    "zh": "8.2 话语中的跨社群差异"
+   },
+   "summary": {
+    "en": "Conversational rules differ from one language community to another, so what counts as friendly, polite or honest varies. The author describes learning sarcasm in American English as a child and finding that it did not transfer to Japanese, a contrast supported by Ziv’s study. Anthropological work likewise shows that imperatives and requests are evaluated differently across cultures, which calls for suspending negative judgements.",
+    "zh": "不同语言社群的会话规则并不相同，因此什么算友好、礼貌或诚实也各不相同。作者回忆童年在美国英语中学会反讽，却发现这一策略在日语中行不通，Ziv 的研究支持了这一对比。人类学工作同样表明，祈使句与请求在不同文化中获得不同评价，因此应当避免由此产生负面评判。"
+   },
+   "points": [
+    {
+     "en": "Conversational rules vary across language communities, so politeness and friendliness are culture-specific.",
+     "zh": "会话规则因语言社群而异，礼貌与友好的标准具有文化特殊性。"
+    },
+    {
+     "en": "The author learned sarcasm as a child immigrant and it failed in a Japanese conversation.",
+     "zh": "作者童年移民时学会反讽，但在一次日语对话中并未奏效。"
+    },
+    {
+     "en": "Ziv found American students more sarcastic than Japanese students, supporting the anecdote.",
+     "zh": "Ziv 发现美国学生比日本学生更常使用反讽，印证了这一轶事。"
+    },
+    {
+     "en": "Imperatives may be perceived as rude more often in Australia than in China.",
+     "zh": "祈使句在澳大利亚比在中国更容易被视为粗鲁。"
+    },
+    {
+     "en": "What counts as being honest, and even whether fiction counts as a lie, can differ by community.",
+     "zh": "什么算诚实，甚至虚构是否算说谎，都可能因社群而异。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "sarcasm",
+     "zh": "反讽",
+     "defEn": "saying blatantly false things to be funny, sassy or mean",
+     "defZh": "为逗趣、耍贫或贬损而故意说出明显虚假的话"
+    },
+    {
+     "en": "imperative",
+     "zh": "祈使句",
+     "defEn": "a command form, as in cut down that branch",
+     "defZh": "表示命令的句式，如砍下那根树枝"
+    },
+    {
+     "en": "politeness",
+     "zh": "礼貌",
+     "defEn": "a culturally variable evaluation of how an utterance comes across",
+     "defZh": "对某话语给人的感受所作的评价，因文化而异"
+    },
+    {
+     "en": "Maxim of Quality",
+     "zh": "质量准则",
+     "defEn": "Grice’s principle that conversational contributions should be honest",
+     "defZh": "格莱斯提出的准则，要求会话中的话语应当诚实"
+    },
+    {
+     "en": "discourse rule",
+     "zh": "话语规则",
+     "defEn": "a community-specific norm governing how conversation is conducted",
+     "defZh": "某一社群特有的、规范会话如何进行的准则"
+    }
+   ],
+   "examples": [
+    {
+     "text": "waa, kore cho: okaidoku-da-ne",
+     "noteEn": "The author’s Japanese sarcastic remark about expensive jewellery, met with confusion.",
+     "noteZh": "作者用日语对昂贵首饰说的反讽之语，却换来对方困惑的表情。"
+    },
+    {
+     "text": "Why don’t you close the window?",
+     "noteEn": "A polite request in Canadian English whose Polish equivalent implies stubbornness.",
+     "noteZh": "在加拿大英语中是礼貌请求，其波兰语对应说法却暗示对方固执。"
+    },
+    {
+     "text": "Dlaczego nie zamkniesz okna",
+     "noteEn": "The Polish literal equivalent, understood as blaming the addressee.",
+     "noteZh": "波兰语的逐字对应说法，会被理解为对听话人的责备。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Anyone who has conversed across cultural backgrounds has probably met with miscommunication, because each language community follows its own conversational rules. Having immigrated to the United States from Japan at age six, the author found American rules strikingly different, and one thing that had to be learned explicitly was sarcasm. As a nine-year-old, it seemed that Americans said blatantly false things in order to be funny, sassy or mean.",
+     "zh": "与不同文化背景的人交谈过的人多半都遇到过误解，因为每个语言社群都遵循自己的会话规则。作者六岁从日本移民到美国，觉得美国的会话规则与日本差别极大，其中需要专门学会的一项就是反讽。在九岁的作者看来，美国人常为逗趣、耍贫或贬损而说出明显虚假的话。"
+    },
+    {
+     "en": "That lesson was put to the test one summer while visiting a friend in Japan. Pointing at extremely expensive jewellery in a magazine, the author proudly tried the newly acquired tactic in Japanese, saying waa, kore cho: okaidoku-da-ne, roughly Wow, that is such a good deal! The result was a look of pure confusion. Such anecdotal experience is backed by research: Ziv (1988) found American students to be more sarcastic than Japanese students.",
+     "zh": "这一课在某个夏天拜访日本朋友时经受了检验。作者指着一本杂志里极其昂贵的首饰，得意地用日语使出刚学会的策略，说 waa, kore cho: okaidoku-da-ne，大意是“哇，这真是划算得很！”结果对方一脸茫然。这类个人经验也得到研究支持：Ziv（1988）发现美国学生比日本学生更常使用反讽。"
+    },
+    {
+     "en": "Beyond sarcasm, judgements of politeness vary widely. Anthropological research shows that imperatives such as cut down that branch may be perceived as rude more often in Australia than in China. In Canadian English, Why don’t you close the window? can be perfectly polite, yet its literal Polish equivalent, Dlaczego nie zamkniesz okna, would suggest stubbornness on the addressee’s part.",
+     "zh": "除了反讽，对礼貌的判断也差异悬殊。人类学研究显示，诸如“cut down that branch”这类祈使句在澳大利亚比在中国更容易被视为粗鲁。在加拿大英语中，“Why don’t you close the window?”完全可以是很礼貌的请求，但其波兰语逐字对应说法“Dlaczego nie zamkniesz okna”却会暗示听话人固执。"
+    },
+    {
+     "en": "Honesty is usually treated as a central conversational principle, yet what counts as being honest also differs: in some communities any falsehood, including fiction, is counted as a lie. Studying pragmatics therefore requires awareness of norms beyond one’s own. Unfamiliar discourse rules can cause surprise, and that is understandable, but such surprise should not harden into negative judgements about other cultures and languages, since all forms of language are valid.",
+     "zh": "诚实通常被视为会话的核心原则，但什么算诚实同样因社群而异：在某些社群中，任何虚假陈述，包括虚构，都被算作说谎。因此研究语用学必须意识到自身之外的规范。陌生的会话规则会带来意外之感，这无可厚非，但不该让这种意外固化为对其他文化与语言的负面评判，因为一切语言形式都是有效的。"
+    }
+   ]
+  }
+ }
+}

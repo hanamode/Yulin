@@ -1,0 +1,106 @@
+{
+ "batch": 23,
+ "sections": {
+  "chapter-042-slug-5-4-morphology-beyond-affixes": {
+   "title": {"en": "5.3 Morphology beyond affixes", "zh": "5.3 词缀之外的形态学"},
+   "summary": {
+    "en": "Not all morphology is affixation. This section examines internal change, suppletion, and reduplication, showing that some morphological patterns replace or repeat material rather than adding affixes. It then classifies languages typologically as isolating or analytic, synthetic, agglutinative, and fusional, with examples from English, Halq’eméylem, Japanese, and Spanish.",
+    "zh": "并非所有形态手段都是加词缀。本节讨论内部变化、异干互补和重叠，说明有些形态模式是替换或重复词内成分，而不是添加词缀。随后按形态类型把语言分为孤立语（分析语）、综合语、黏着语和屈折语，并以英语、哈勒克梅莱姆语（Halq’eméylem）、日语和西班牙语为例。"
+   },
+   "points": [
+    {"en": "Internal change alters material inside a word, as in irregular plurals mouse ~ mice and past tenses sit ~ sat.", "zh": "内部变化指改变词内成分，如不规则复数 mouse ~ mice、过去式 sit ~ sat。"},
+    {"en": "Suppletion replaces an entire morpheme, as when the past tense of go is went, and is always irregular and memorized.", "zh": "异干互补指整个语素被替换，如 go 的过去式是 went；它永远不规则，只能记忆。"},
+    {"en": "Reduplication repeats part or all of a word; in Halq’eméylem it can turn a verb into a dispositional adjective.", "zh": "重叠是重复词的一部分或全部；在哈勒克梅莱姆语中，动词重叠后可构成表示倾向的形容词。"},
+    {"en": "Isolating or analytic languages use few affixes and express inflection with particles, as Mandarin and Cantonese largely do.", "zh": "孤立语（分析语）很少使用词缀，屈折信息多由虚词表达，汉语的普通话和粤语即高度孤立。"},
+    {"en": "Synthetic languages split into agglutinative types with separable affixes and fusional types combining several meanings in one affix.", "zh": "综合语分为黏着语与屈折语：前者由可分离的词缀构成，后者把多种意义合并于同一词缀。"}
+   ],
+   "terms": [
+    {"en": "internal change", "zh": "内部变化", "defEn": "A morphological pattern that changes a sound inside a word rather than adding an affix.", "defZh": "在词内部改变某个音以构成新形式的形态手段，属于非词缀形态。"},
+    {"en": "suppletion", "zh": "异干互补", "defEn": "A morphological pattern in which one form of a morpheme is replaced entirely by another.", "defZh": "以一个完全不同的形式替换某语素原有形式的形态手段，其结果无法预测，只能逐个记忆。"},
+    {"en": "reduplication", "zh": "重叠", "defEn": "A morphological pattern that repeats part or all of a word.", "defZh": "通过重复词的一部分或全部来构成新形式的形态手段，可表达多种意义和语法功能。"},
+    {"en": "isolating (analytic) language", "zh": "孤立语（分析语）", "defEn": "A language whose words are morphologically simple, with inflection carried by particles.", "defZh": "词形结构简单的语言，屈折信息通常由虚词（小词）而非词缀表达，但仍有大量复合词。"},
+    {"en": "agglutinative language", "zh": "黏着语", "defEn": "A synthetic language type whose words are built from many easily separated affixes with consistent meanings.", "defZh": "综合语的一种，词由许多易于切分、各承载固定意义的词缀串联而成，如日语。"},
+    {"en": "fusional language", "zh": "屈折语", "defEn": "A synthetic language type that combines several inflectional meanings into a single affix.", "defZh": "综合语的一种，把多个屈折意义合并到同一个词缀中，难以再切分，如罗曼语族语言。"}
+   ],
+   "examples": [
+    {"text": "kw’élh ‘to capsize’ [kʼʷə́ɬ] → [kʼʷə́ɬkʼʷəɬ] ‘likely to capsize’", "noteEn": "Halq’eméylem reduplication of a verb yields an adjective describing a disposition to act.", "noteZh": "哈勒克梅莱姆语中动词重叠后构成形容词，表示容易或倾向于做该动作。"},
+    {"text": "qwà:l ‘to speak’ [qʷél] → [qʷélqʷel] ‘talkative’", "noteEn": "The same reduplication pattern produces the adjective meaning talkative in Halq’eméylem.", "noteZh": "同一重叠模式在哈勒克梅莱姆语中构成意为健谈的形容词。"},
+    {"text": "Tuna salad is a salad, but it’s not a salad-salad.", "noteEn": "English salad-salad reduplication marks a prototypical example of a category.", "noteZh": "英语的 salad-salad 重叠用来标记某范畴的典型实例，意为地道的沙拉。"},
+    {"text": "Watasi-wa natto-o tabe-sase-rare-ta", "noteEn": "Japanese stacks separable suffixes for causative and passive before the past tense.", "noteZh": "日语动词后依次连接使役、被动和过去时后缀，每个后缀承载一项固定意义。"}
+   ],
+   "body": [
+    {"en": "Most morphology in English is affixation, but some patterns do not involve affixes at all. Internal change covers cases such as the irregular noun plurals mouse ~ mice and goose ~ geese, or the verb past tenses sit ~ sat and write ~ wrote. These forms were once regular and phonologically predictable, but for present-day speakers they have to be memorized, which makes them irregular. Suppletion is even less predictable: a whole morpheme is replaced, as when the past tense of go is went, or in good ~ better ~ best and bad ~ worse ~ worst. Suppletion is always irregular and is a type of allomorphy.", "zh": "英语形态学大多依靠加词缀，但有些模式完全不涉及词缀。内部变化指词内语音的改变，如不规则名词复数 mouse ~ mice、goose ~ geese，动词过去式 sit ~ sat、write ~ wrote。这些形式在历史上曾经规则且可由音系预测，但对今天的说话者只能逐个记忆，因而是不规则的。异干互补更不可预测，它用一个完全不同的形式替换整个语素，如 go 的过去式为 went，又如 good ~ better ~ best、bad ~ worse ~ worst。异干互补永远不规则，是语素变体现象的一种。"},
+    {"en": "Reduplication repeats part or all of a word as part of a morphological pattern. In Halq’eméylem, a Salish language of British Columbia, one pattern of verb reduplication produces an adjective meaning that someone or something is likely or disposed to do the action, as when kw’élh ‘to capsize’ becomes [kʼʷə́ɬkʼʷəɬ] ‘likely to capsize’ and qwà:l ‘to speak’ becomes [qʷélqʷel] ‘talkative’. Salish languages have many such patterns with different meanings and functions. English has one reduplication pattern, sometimes called salad-salad reduplication, which marks a prototypical instance of a type and can apply to phrases as well as words.", "zh": "重叠是重复词的一部分或全部以构成形态模式。在不列颠哥伦比亚省的萨利什语族语言哈勒克梅莱姆语中，动词的一种重叠模式构成形容词，表示某人或某物容易或倾向于做该动作：kw’élh 意为翻覆，重叠后为 [kʼʷə́ɬkʼʷəɬ]，意为容易翻覆；qwà:l 意为说话，重叠后为 [qʷélqʷel]，意为健谈。萨利什语族有多种重叠模式，各与不同的意义和语法功能相联系。英语也有一种重叠模式，语言学家常称为 salad-salad 重叠，表示某事物是某类型的典型实例，它既可以作用于词，也可以作用于短语。"},
+    {"en": "Languages can also be classified typologically by their morphological structure. Isolating or analytic languages have morphologically simple words; no language is perfectly isolating, but Mandarin and Cantonese come close, since inflectional information is typically carried by particles rather than affixes, though these languages still have many compounds. English is analytic but less isolating than Mandarin or Cantonese. Synthetic languages show heavy morphological complexity within words and often have few or no free roots, and they divide into agglutinative and fusional types. Agglutinative languages such as Japanese string together easily separated affixes, each with one consistent piece of meaning, while fusional languages such as the Romance languages combine several inflectional meanings in a single affix.", "zh": "语言还可以按其形态结构作类型学分类。孤立语（分析语）的词在形态上很简单；没有一种人类语言是纯粹孤立的，但汉语的普通话和粤语接近这一类型，因为其屈折信息通常由虚词而非词缀表达，不过这些语言仍有大量复合词。英语比普通话、粤语少一些孤立性，但仍高度分析化。综合语的词内形态高度复杂，往往没有或极少自由词根，又分为黏着语和屈折语两类。日语等黏着语的词由许多容易切分的词缀串联而成，每个词缀对应一项固定意义；而罗曼语族语言等屈折语则把多项屈折意义合并到同一个词缀之中。"}
+   ]
+  },
+  "chapter-043-allomorphy": {
+   "title": {"en": "5.4 Allomorphy", "zh": "5.4 语素变体"},
+   "summary": {
+    "en": "Morphemes sometimes keep a consistent meaning while appearing in different forms according to their environment. This section distinguishes phonologically conditioned allomorphy, as with the English indefinite article a ~ an and the plural sounds [s], [z], and [ɪz], from lexically conditioned allomorphy, as with -(r)en, internal change, and the zero affix.",
+    "zh": "语素的意义固定，却可能随所处环境而以不同形式出现。本节区分语音条件制约的语素变体与词汇条件制约的语素变体：前者如英语不定冠词 a ~ an 以及复数读音 [s]、[z]、[ɪz]，后者如 -(r)en、内部变化和零词缀。"
+   },
+   "points": [
+    {"en": "Allomorphy occurs when one morpheme has several forms whose choice depends on the surrounding environment.", "zh": "语素变体指同一语素具有多种形式，选用哪一种取决于它所处的环境。"},
+    {"en": "Phonologically conditioned allomorphy is predictable from sounds: the article is a before consonants and an before vowels.", "zh": "语音条件制约的语素变体可由语音预测：不定冠词在辅音前为 a，在元音前为 an。"},
+    {"en": "The English plural is pronounced [s], [z], or [ɪz] depending on the final sound of the noun root.", "zh": "英语复数依名词词根末尾音的不同读作 [s]、[z] 或 [ɪz]，属可预测的语音条件制约。"},
+    {"en": "Lexically conditioned allomorphy is unpredictable and must be listed, as with children, oxen, mice, fish, sheep, and deer.", "zh": "词汇条件制约的语素变体不可预测，必须逐个列出，如 children、oxen、mice、fish、sheep、deer。"},
+    {"en": "A zero affix, written ∅, marks a morpheme with no overt form, as in plural fish, sheep, and deer.", "zh": "零词缀写作 ∅，表示语素没有显性形式，如复数 fish、sheep、deer。"}
+   ],
+   "terms": [
+    {"en": "allomorphy", "zh": "语素变体（现象）", "defEn": "The phenomenon in which one morpheme appears in different forms depending on its environment.", "defZh": "同一语素因所处环境不同而呈现不同形式的现象，其各种形式称为语素变体。"},
+    {"en": "allomorph", "zh": "语素变体", "defEn": "One of the alternative forms in which a single morpheme can be realized.", "defZh": "同一语素在具体环境中实现出来的不同形式，如复数语素的 -s、-z、-ɪz 等。"},
+    {"en": "phonologically conditioned allomorphy", "zh": "语音条件制约的语素变体", "defEn": "Allomorphy whose choice of form is predictable from the sounds in the environment.", "defZh": "由语素前后语音环境决定的语素变体，其形式可以预测，如 a ~ an 和复数读音。"},
+    {"en": "lexically conditioned allomorphy", "zh": "词汇条件制约的语素变体", "defEn": "Allomorphy determined by the particular root, which must therefore be memorized.", "defZh": "由特定词根决定的语素变体，无法预测，只能作为词表逐项记忆。"},
+    {"en": "zero affix", "zh": "零词缀", "defEn": "An affix with no overt form, indicated by the symbol ∅, as in plural sheep.", "defZh": "没有显性语音形式的词缀，用数学空集符号 ∅ 表示，如复数 sheep。"}
+   ],
+   "examples": [
+    {"text": "a book, an apple", "noteEn": "The English indefinite article has two allomorphs conditioned by the following sound.", "noteZh": "英语不定冠词有两个语素变体，其选择由后接音是辅音还是元音决定。"},
+    {"text": "[s]: books, cats, naps", "noteEn": "This allomorph of the plural appears after the final sounds of these noun roots.", "noteZh": "复数的这一变体出现在这些名词词根末尾音之后，读作 [s]。"},
+    {"text": "[z]: papers, dogs, miles", "noteEn": "A second predictable allomorph of the English plural is the sound [z].", "noteZh": "英语复数的第二个可预测变体读作 [z]，出现在另一类词根末尾音之后。"},
+    {"text": "children, oxen; mice, geese, women; fish, sheep, deer", "noteEn": "These plurals are lexically conditioned allomorphs: the form must be memorized for each root.", "noteZh": "这些复数属词汇条件制约的语素变体，其形式必须随词根逐个记忆。"}
+   ],
+   "body": [
+    {"en": "A morpheme may keep a consistent meaning while appearing in different forms according to the environment in which it occurs; this is allomorphy. The English indefinite article illustrates the point: it shows up as a before a consonant, as in a book, but as an before a vowel, as in an apple. Because the choice depends on the sounds that surround the morpheme, this is phonologically conditioned allomorphy.", "zh": "同一语素可以意义固定，却因所处环境不同而呈现不同形式，这就是语素变体现象。英语不定冠词可以说明这一点：它在辅音前写作并读作 a，如 a book；在元音前则为 an，如 an apple。由于形式的选择取决于语素前后的语音环境，而非词的拼写，这属于语音条件制约的语素变体。"},
+    {"en": "The English plural shows the same kind of predictability. Although it is spelled s or es, it is pronounced [s] after the final sounds of book, cat, and nap, [z] after those of paper, dog, and mile, and [ɪz] or [əz] after those of niece, horse, and eyelash. A generalization about the last sound of the noun root determines which allomorph appears.", "zh": "英语复数表现出同类的可预测性。它虽然一律拼写为 s 或 es，读音却随词根末尾音而变化：在 book、cat、nap 的末尾音之后读 [s]，在 paper、dog、mile 的末尾音之后读 [z]，在 niece、horse、eyelash 的末尾音之后读 [ɪz] 或 [əz]。只要对名词词根的最后一个音作出概括，就能判断出现的是哪一个变体，这正是语音条件制约的语素变体的特点。"},
+    {"en": "Other plurals are not predictable at all and have to be memorized as a list, which makes them lexically conditioned allomorphy. These include -(r)en in children and oxen, internal change in mice, geese, and women, and no change in fish, sheep, and deer. Nouns with no change are described as taking an empty or zero affix, written with the symbol ∅. The allomorphs of the English plural seen here are therefore -s, -z, -ɪz, -(r)en, internal change, and -∅.", "zh": "另一些复数形式完全不可预测，只能作为词表逐项记忆，因而属于词汇条件制约的语素变体。这包括 children、oxen 中的 -(r)en，mice、geese、women 中的内部变化，以及 fish、sheep、deer 的无变化形式。复数无变化的名词可说是接了一个空词缀或称零词缀，用符号 ∅ 表示，即该语素没有显性形式。英语复数的语素变体不止本节所列，仅这里出现的就有 -s、-z、-ɪz、-(r)en、内部变化和 -∅ 六种。"},
+    {"en": "When a single morpheme can be realized in more than one way, its different forms are called allomorphs of that morpheme. Listing the allomorphs of the English plural seen in this section gives -s, -z, -ɪz, -(r)en, internal change, and -∅. The section closes by noting that English has more plural allomorphs than these and by asking whether other affixes, in English or in other languages, also show allomorphy.", "zh": "当一个语素可以有不止一种实现方式时，它的各种形式就称为该语素的语素变体。把本节所见英语复数的语素变体列出来，即 -s、-z、-ɪz、-(r)en、内部变化和 -∅。本节最后指出，英语复数的语素变体还不止这些，并请读者思考英语或其他语言中是否还有其他词缀也表现出语素变体现象，以及自己熟悉的语言里复数的语素变体又有哪些。"}
+   ]
+  },
+  "chapter-044-slug-5-4-lexical-categories-and-the-split-between-derivation-and-inflection": {
+   "title": {"en": "5.5 Lexical categories", "zh": "5.5 词类"},
+   "summary": {
+    "en": "Morphology divides into derivation, which changes meaning or category, and inflection, which expresses grammatical information for a word’s category; compounds contain multiple roots in one word. This section defines lexical categories by distribution rather than by meaning and reviews syntactic and morphological tests for nouns, verbs, adjectives, and adverbs in English.",
+    "zh": "形态学分为派生与屈折：派生改变词基的意义或词类，屈折表达与词类相适应的语法信息；复合词则由多个词根构成。本节主张按分布而非按意义界定词类，并逐一给出英语名词、动词、形容词和副词的句法测试与形态测试。"
+   },
+   "points": [
+    {"en": "Derivational morphology changes the meaning or category of a base, while inflectional morphology expresses grammatical information suited to its category.", "zh": "派生形态学改变词基的意义或词类，屈折形态学则表达与词类相适应的语法信息。"},
+    {"en": "Categories are defined by distribution, the grammatical contexts where words occur, rather than by semantic definitions like person, place or thing.", "zh": "词类应按分布即词语出现的语法环境来界定，而不能依赖人、地、物这类语义定义。"},
+    {"en": "Nouns follow determiners, are modified by adjectives, serve as subjects or objects, and have plural forms such as books and governments.", "zh": "名词可接限定词、受形容词修饰、充当主语或宾语，并有复数形式，如 books、governments。"},
+    {"en": "Verbs combine with auxiliaries, follow the infinitive marker to, take objects, and show -s, past, perfect, and progressive forms.", "zh": "动词可与助动词组合、接不定式标记 to、带宾语，并有 -s、过去、完成和进行等形式。"},
+    {"en": "Adjectives modify nouns, can be modified by very, and may take -ish, comparative, or superlative forms.", "zh": "形容词修饰名词，可受 very 修饰，并可加 -ish 或构成比较级、最高级。"},
+    {"en": "Adverbs modify verbs, adjectives, and other adverbs, cannot stand alone between a determiner and a noun, and often end in -ly.", "zh": "副词修饰动词、形容词和其他副词，不能单独出现在限定词与名词之间，且多以后缀 -ly 结尾。"}
+   ],
+   "terms": [
+    {"en": "derivational morphology", "zh": "派生形态学", "defEn": "Morphology that changes the meaning or the lexical category of its base.", "defZh": "改变词基意义或词类的形态过程，其词缀还可选择所附词基的词类。"},
+    {"en": "inflectional morphology", "zh": "屈折形态学", "defEn": "Morphology that expresses grammatical information appropriate to a word’s category.", "defZh": "表达与该词词类相适应的语法信息的形态过程，如动词的时和名词的复数。"},
+    {"en": "lexical category", "zh": "词类", "defEn": "A group of words that behave alike grammatically, such as nouns, verbs, adjectives, and adverbs.", "defZh": "在语法上表现相同的一类词或语素，通常指名词、动词、形容词和副词。"},
+    {"en": "distribution", "zh": "分布", "defEn": "The set of grammatical contexts in which a word or morpheme can occur.", "defZh": "某一词或语素可以出现的语法环境的总和，是划分词类的依据。"},
+    {"en": "selection", "zh": "选择（限制）", "defEn": "The property of derivational affixes creating particular categories and attaching only to specific categories.", "defZh": "派生词缀既造成特定词类、又只黏附于特定词类的特性，如 -ment 只附于动词。"},
+    {"en": "compound", "zh": "复合词", "defEn": "A word that contains more than one root within a single word.", "defZh": "由两个或更多词根构成的一个词，与加词缀的构词方式相区别。"}
+   ],
+   "examples": [
+    {"text": "an event, the proposal", "noteEn": "Nouns can follow a determiner and be modified by adjectives such as happy or new.", "noteZh": "名词前可有限定词，并可受 happy、new 等形容词修饰。"},
+    {"text": "Events occurred. → They occurred.", "noteEn": "Nouns can be subjects of a verb and can be replaced by a pronoun.", "noteZh": "名词可以充当动词的主语，并且可以用代词替换。"},
+    {"text": "she/he/it kicks, goes, remains", "noteEn": "Verbs have a third person singular present tense form built with -s.", "noteZh": "动词有第三人称单数现在时形式，通常以后缀 -s 构成。"},
+    {"text": "happier, happiest", "noteEn": "Adjectives may have comparative and superlative forms, in addition to taking the suffix -ish.", "noteZh": "形容词除可加后缀 -ish 外，还可能有比较级和最高级形式。"}
+   ],
+   "body": [
+    {"en": "Morphology is commonly divided into two types. Derivational morphology changes the meaning or the category of its base, while inflectional morphology expresses grammatical information appropriate to a word’s category. A third pattern, compounding, builds a single word out of multiple roots. Because both definitions refer to the category of the base, that notion matters. Traditional grammar calls the category of a word its part of speech; in morphology the lexical categories of interest are nouns, verbs, adjectives, and adverbs.", "zh": "形态学通常分为两类：派生形态学改变词基的意义或词类，屈折形态学表达与词类相适应的语法信息。第三种构词方式是复合，即用多个词根构成一个词。由于上述两个定义都涉及词基的词类，词类这一概念十分重要。传统语法把词的类别称作词性；在形态学中，我们关注的词类是名词、动词、形容词和副词。"},
+    {"en": "A category is a group of words or morphemes that behave the same way as one another for grammatical purposes. Traditional semantic definitions, such as calling a noun a person, place, or thing or a verb an action word, do not reliably identify the categories relevant to linguistic analysis; they are hard to apply in borderline cases and can yield inconsistent results, since action and event look like action words but are in fact nouns. Linguists therefore define categories by distribution, the grammatical contexts in which words or morphemes occur, and distribution varies from language to language.", "zh": "一个词类就是在语法上表现相同的一组词或语素。传统上依据意义给词性下定义，例如说名词表示人、地或物，动词表示动作，但这类语义测试并不能可靠地识别语言分析所需的词类：它们在临界情形下难以操作，结果也不一致，因为 action 和 event 看起来像动作词，实际上却是名词。因此语言学家按分布来界定词类，即词或语素出现的语法环境，而不同语言的分布并不相同。"},
+    {"en": "Distributional tests for English lexical categories are then reviewed. Nouns can follow a determiner, be modified by adjectives, act as subject or object, be replaced by a pronoun, and take singular and plural forms. Verbs combine with auxiliaries, follow the infinitive marker to, take objects, and have third person -s, past, perfect or passive, and progressive forms. Adjectives modify nouns, can be modified by very, and may take -ish or comparative and superlative forms. Adverbs modify verbs, adjectives, and other adverbs, cannot stand alone between a determiner and a noun, and many end in -ly.", "zh": "本节随后回顾英语各词类的分布测试。名词可以接限定词、受形容词修饰、充当主语或宾语、用代词替换，并有单复数形式。动词可与助动词组合、接不定式标记 to、带宾语，并有第三人称 -s、过去、完成或被动以及进行等形式。形容词修饰名词，可受 very 修饰，并可加 -ish 或构成比较级、最高级。副词修饰动词、形容词和其他副词，不能单独出现在限定词与名词之间，其中许多以 -ly 结尾。"},
+    {"en": "Derivational affixes also help identify category. Suffixes such as -ment and -ness always create nouns, while -ify and -ize always create verbs, and their bases are typically of a specific category. This property of creating particular categories while attaching only to specific ones is called selection.", "zh": "派生词缀也有助于判断词类。像 -ment 和 -ness 这样的后缀总是构成名词，而 -ify 和 -ize 总是构成动词，并且它们的词基通常属于特定词类。这种既产生特定词类、又只黏附于特定词类的特性称为选择（限制）。"}
+   ]
+  }
+ }
+}

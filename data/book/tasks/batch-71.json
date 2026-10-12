@@ -1,0 +1,13 @@
+{
+ "batch": 71,
+ "chapter": "Appendix 2: A history of linguistics",
+ "out": "data/book/gen/batch-71.json",
+ "sections": [
+  {
+   "id": "part-017-appendex-2-a-history-of-linguistics",
+   "title": "Appendix 2: A history of linguistics",
+   "src": "data/book/src/part-017-appendex-2-a-history-of-linguistics.txt",
+   "chars": 170
+  }
+ ]
+}

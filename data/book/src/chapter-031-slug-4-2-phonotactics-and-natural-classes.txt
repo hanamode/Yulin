@@ -1,0 +1,34 @@
+# 4.2 Phonotactics and natural classes
+
+## Phonotactics
+
+While physical units may change their pronunciation in some environments, it is also possible that certain physical units cannot be used in some environments at all. Each language has its own set of phonotactics, which are language-specific restrictions on what combinations of physical units are allowed in which environments. For example, English has phonotactic restrictions that ban [tl] and [dl] in onsets, but this is not a universal restriction. Plenty of languages allow onsets with [tl] and [dl], such as Ngizim, which has words like [tlà] ‘cow’ (Schuh 1977), and Hebrew, which has words like [dli] ‘bucket’ (Klein 2020).
+Some phonotactic restrictions may be somewhat looser than others. English generally does not have onsets containing [pw] or [vl], yet English speakers generally have no trouble pronouncing loanwords like pueblo [pwɛblo] and proper names like Vladimir [vlædəmir].
+In ASL, there is a general phonotactic restriction called the Symmetry Condition that affects signs that have movement in both hands. The Symmetry Condition requires such signs to have the same handshape and to move in the same way (Battison 1978; see Napoli and Wu 2003 for extensive discussion and elaboration of the Symmetry Condition). That is, the two moving hands cannot generally do completely different things, which is something you may have noticed for yourself in the popular childhood challenge of trying to rub your stomach while patting your head.
+The Symmetry Condition is evident in the ASL sign SENTENCE in the following video clip, in which both hands have the same F handshape and are moving in the same way, with slight radioulnar wiggling and an overall path out to the sides away from the centre of the body.
+
+[视频：EoL4ASL_SENTENCE2H.mp4]
+
+Exceptions to the Symmetry Condition are rare, but possible, such as the sign OPPRESS in the following video clip, in which both hands are moving, but with different handshapes (a 5 handshape on the dominant hand and an S handshape on the non-dominant hand) and different orientations (dominant palm facing out, non-dominant palm facing to the signer’s right).
+
+[视频：EoL4ASL_OPPRESS.mp4]
+
+## Distribution and natural classes
+
+The overall pattern of environments where a given physical unit can occur is called its distribution, and one of the most fundamental skills in phonology is being able to determine what the distributions are for the physical units of a language.
+This may seem like a daunting task, but we can use our understanding of phonology and typology to help narrow down the options. In spoken languages, phones share various phonetic properties that are often relevant to distributions. For example, the restriction on [tl] and [dl] in English onsets is not random; [t] and [d] are both alveolar plosives. They form what we call a natural class, which is a set of phones that share some phonetic properties (in this case, place and manner of articulation) and also share some phonological behaviour (in this case, being governed by the same phonotactic restriction).
+Using natural classes, we can more easily describe some of the other patterns in English phonotactics. English allows up to three consonants in an onset, but when there are three, the first must always be [s], the second must be one of [p], [t], or [k], and the third must be one of [r], [l], [j], or [w]. Again, these are not random: [p], [t], and [k] are the natural class of voiceless plosives, while [r], [l], [j], and [w] are the natural class of approximants. It would be unusual if instead of this pattern, English consonant clusters could contain [s], followed by one of some set that is not a natural class (such as [f], [n], [k]), followed by one of some other set that is also not a natural class (such as [r], [t], [h], [m]).
+Note that the members of a natural class are language-specific, not universal. So while [p], [t], and [k] form a natural class in English, they do not form a natural class in Kalaallisut (a.k.a. Greenlandic, an Inuit language of the Inuit-Yupik-Unangan family, spoken in Greenland). Kalaallisut has [p], [t], and [k], but it also has a voiceless uvular plosive [q], as in words like [iseʀaq] ‘goose’ (Schultz-Lorentzen 1945). Thus, the natural class of voiceless plosives in Kalaallisut would be [p] [t], [k], and [q], because natural classes must be exhaustive, including every relevant phone in the language.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=611#h5p-138
+
+## References
+
+Battison, Robbin. 1978. Lexical borrowing in American Sign Language. Silver Spring, MD: Linstok Press.
+Klein, Stav. 2020. Notes on Modern Hebrew phonology and orthography. In Usage-based studies of Modern Hebrew: Background, morpho-lexicon, and syntax, edited by Ruth A. Berman. Studies in Language Companion Series 210. Amsterdam: John Benjamins. 131–143.
+Napoli, Donna Jo, and Jeff Wu. 2003. Morpheme structure constraints on two-handed signs in American Sign Language. Sign Language & Linguistics 6(2): 123–205.
+Schuh, Russell G. 1977. Bade/Ngizim determiner system. Monographic Journals of the Near East: Afroasiatic Linguistics 4(3). Malibu, CA: Undena Publications.
+Schultz-Lorentzen, Christian Wilhelm. 1945. A grammar of the West Greenlandic language, Meddelelser om Grønland, vol. 129(3). Copenhagen: C. A. Reitzels.

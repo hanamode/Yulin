@@ -1,0 +1,29 @@
+# 5.4 Allomorphy
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2323#oembed-1
+Some morphemes have a consistent meaning, but appear in different forms depending on the environment where they occur. This is allomorphy. In English, for example, the indefinite article shows up as a when it occurs before a consonant (a book), but as an when it occurs before a vowel (an apple). This is an example of allomorphy based on the phonology (sounds) that appear before or after the morpheme (the phonological environment). This is called phonologically conditioned allomorphy.
+Another example of allomorphy can be found in the plural forms of English nouns. First, consider the pairs of singular and plural nouns in (1).
+
+[表格]
+| | | (1) | | | | | | | singular | | | | plural | | | | | | | a. | | [s] | | book | | books | | | | | | | | | | cat | | cats | | | | | | | | | | nap | | naps | | | | | | | | | | | | | | | | | | b. | | [z] | | paper | | papers | | | | | | | | | | dog | | dogs | | | | | | | | | | mile | | miles | | | | | | | | | | | | | | | | | | c. | | [​​ɪz] or [əz] | | niece | | nieces | | | | | | | | | | horse | | horses | | | | | | | | | | eyelash | | eyelashes | | |
+
+The plural in all these words is spelled as “s” (or “es”), but it isn’t always pronounced the same way. If you pay attention, the plural adds the sound [s] in (1a), the sound [z] in (1b), and the sound [​​ɪz] or [əz] in (1c). Just like the alternation between a and an, this is predictable phonologically conditioned allomorphy, based on the last sound in the noun root. See if you can come up with a generalization about when you see each of the allomorphs in (1). (The answer appears in the Check Your Understanding questions at the end of this section.)
+Now look at the singular-plural pairs in (2). These examples show more allomorphs of the plural in English, but they are not predictable: the allomorph of the plural used with these roots has to be remembered as a list.
+One way of describing nouns that have no change in the plural is to say that they take an empty affix or zero affix. We use the symbol ∅ (the symbol for an empty set in mathematics) to indicate a morpheme that has no overt form.
+
+[表格]
+| | | (2) | | | | | | | singular | | | | plural | | | | | | | a. | | -(r)en | | child | | children | | | | | | | | | | ox | | oxen | | | | | | | | | | | | | | | | | | b. | | | internal change | | | mouse | | mice | | | | | | | | | | goose | | geese | | | | | | | | | | woman | | women | | | | | | | | | | | | | | | | | | c. | | no change (-∅) | | fish | | fish | | | | | | | | | | sheep | | sheep | | | | | | | | | | deer | | deer | | |
+
+Allomorphy that is determined by the root, like in (2), is called lexically conditioned allomorphy.
+When a morpheme can be realized in more than one way, we refer to its different forms as allomorphs of the morpheme.
+(3) lists all the allomorphs of the English plural seen in this section.
+
+[表格]
+| | | (3) | | | | | | Plural: | | -s, -z, -ɪz, -(r)en, internal change, -∅ | | |
+
+There are more allomorphs of the plural in English than we’ve seen here. Can you think of any others? For any other language that you know, are there allomorphs of the plural in that language? What about other affixes, in English or in other languages, can you think of further examples of allomorphy?
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2323#h5p-105

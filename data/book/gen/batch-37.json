@@ -1,0 +1,321 @@
+{
+ "batch": 37,
+ "sections": {
+  "chapter-079-slug-7-6-events-and-thematic-roles": {
+   "title": {
+    "en": "7.6 Events and thematic roles",
+    "zh": "7.6 事件与题元角色"
+   },
+   "summary": {
+    "en": "This section examines how verbs encode meaning about eventualities, that is, events versus states, and about the participants those eventualities involve. It reviews the thematic roles introduced in the syntax chapter, including agent, causer, theme, instrument, location, experiencer, and goal, and shows how these roles form part of a verb's lexical meaning. It then uses the sentence The chef lifted the egg with the spatula to show that these role specifications are conjoined entailments.",
+    "zh": "本节考察动词如何编码关于事件与状态的意义，以及这些事件性所涉及的参与者。文中回顾了句法章介绍的题元角色，包括施事、致事、受事、工具、处所、经历者和目标，并说明这些角色属于动词的词义信息。最后以 The chef lifted the egg with the spatula 为例，说明题元角色的规定以合取方式构成句子的蕴涵。"
+   },
+   "points": [
+    {
+     "en": "Linguists look for semantic patterns to explain why some word combinations are well-formed and others are not.",
+     "zh": "语言学家通过寻找语义模式，来解释某些词语组合为何合乎语法、另一些却不合语法。"
+    },
+    {
+     "en": "The asterisk marks descriptive ill-formedness, while the pound sign marks expressions that are syntactically fine but infelicitous in context.",
+     "zh": "星号标示描述层面的不合语法，井号则标示句法合格但在特定语境中不恰当的表达式。"
+    },
+    {
+     "en": "Intransitive, transitive, and ditransitive verbs differ in how many arguments they take.",
+     "zh": "不及物动词、及物动词和双及物动词的区别在于它们所带的论元数目不同。"
+    },
+    {
+     "en": "Events are dynamic and can answer the question What happened, whereas states are non-dynamic and generally cannot.",
+     "zh": "事件是动态的，可以回答“发生了什么”；状态是非动态的，一般不能这样回答。"
+    },
+    {
+     "en": "Thematic roles specified in a verb's lexical meaning include agent, causer, theme, instrument, location, experiencer, and goal.",
+     "zh": "动词词义中规定的题元角色包括施事、致事、受事、工具、处所、经历者和目标。"
+    },
+    {
+     "en": "The meaning of lift conjoins an event variable with statements that its arguments bear particular thematic roles.",
+     "zh": "lift 的意义把一个事件变项与若干陈述合取起来，这些陈述说明其论元承担特定的题元角色。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "eventuality",
+     "zh": "事件性（事件与状态的统称）",
+     "defEn": "The umbrella term covering both dynamic events and non-dynamic states.",
+     "defZh": "一个统称性术语，既包括动态的事件，也包括非动态的状态。"
+    },
+    {
+     "en": "thematic role",
+     "zh": "题元角色",
+     "defEn": "The role that a participant plays in the eventuality described by a predicate.",
+     "defZh": "论元在谓语所描述的事件或状态中所扮演的角色，如施事、受事、工具等。"
+    },
+    {
+     "en": "agent",
+     "zh": "施事",
+     "defEn": "An animate actor who does things on purpose.",
+     "defZh": "有生命的施动者，即有意识地施行某一动作的参与者。"
+    },
+    {
+     "en": "causer",
+     "zh": "致事",
+     "defEn": "A usually inanimate participant that causes things to happen without acting on purpose.",
+     "defZh": "通常是无生命的参与者，它使某事发生，但并非有意识地施为。"
+    },
+    {
+     "en": "theme",
+     "zh": "受事",
+     "defEn": "The participant affected by the event, which may be changed by it.",
+     "defZh": "受事件影响的参与者，它可能因该事件而发生改变或被移动。"
+    },
+    {
+     "en": "event semantics",
+     "zh": "事件语义学",
+     "defEn": "A semantic representation that makes reference to events and their participants.",
+     "defZh": "一种语义表征方式，它在意义描写中明确提及事件本身及其参与者。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "(1) *Karen made scarf the.",
+     "noteEn": "Syntactically ill-formed because the determiner must precede the noun phrase in English.",
+     "noteZh": "该句句法不合语法，因为英语中限定词必须位于名词短语之前。"
+    },
+    {
+     "text": "Context: Tamara put her hands together quietly to meditate. Tamara clapped.",
+     "noteEn": "Syntactically well-formed but infelicitous, showing that clap means more than joining the hands.",
+     "noteZh": "句子句法合格但在该语境中不恰当，说明 clap 的意义不止于双手合拢。"
+    },
+    {
+     "text": "(4) Dan blinked. / (5) Ida imitated Raj. / (6) Cristina gave Alan a lab report.",
+     "noteEn": "Examples of an intransitive, a transitive, and a ditransitive verb respectively.",
+     "noteZh": "三者依次为不及物动词、及物动词和双及物动词的例子。"
+    },
+    {
+     "text": "(17) The chef lifted the egg with the spatula.",
+     "noteEn": "Entails a lifting event with a theme, an instrument, and an agent.",
+     "noteZh": "该句蕴涵一个抬举事件，其中包含受事、工具和施事三个角色。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This section turns from general questions about meaning to concrete semantic patterns, asking why some combinations of words are well-formed while others are not. Linguists mark descriptive ill-formedness with the asterisk and use the pound sign for sentences that are syntactically fine but infelicitous in a given context. Such contrasts are data: by forming a hypothesis about a word's meaning and testing it against contexts, we can revise our hypotheses, as with the verb clap. The upcoming sections are organised by syntactic category, with verbs treated here, nouns in 7.7, and adjectives in 7.8 and 7.9.",
+     "zh": "本节从意义的一般问题转向具体的语义模式，追问为什么有些词语组合合乎语法，而另一些不合语法。语言学家用星号标示描述层面的不合语法，用井号标示句法合格但在特定语境中不恰当的句子。这些对比本身就是语料：先就词义提出假设，再用语境加以检验并修正，例如对 clap 一词的分析。以下各节按句法类别展开：本节讨论动词，7.7 讨论名词，7.8 和 7.9 讨论形容词。"
+    },
+    {
+     "en": "A verb's lexical information specifies how many arguments it takes and what roles those arguments bear. Intransitive, transitive, and ditransitive verbs illustrate the first point, while the second is captured by thematic roles such as agent, causer, theme, instrument, location, experiencer, and goal. Predicates describe eventualities, a cover term for dynamic events and non-dynamic states. Events can answer the question What happened, whereas states such as Leila knew the student cannot. Subject and object, however, are structural notions, so the subject is not always the doer.",
+     "zh": "动词的词义信息既规定它带几个论元，也规定这些论元承担什么角色。不及物、及物和双及物动词说明前一点，题元角色则说明后一点，包括施事、致事、受事、工具、处所、经历者和目标。谓语描述事件性，这一统称既涵盖动态的事件，也涵盖非动态的状态。事件可以回答“发生了什么”，而 Leila knew the student 这类状态句一般不能。需要注意的是，主语和宾语都是结构概念，主语并不总是动作的施行者。"
+    },
+    {
+     "en": "Thematic roles also explain entailment patterns. The chef lifted the egg with the spatula entails that there was a lifting event, that the egg was its theme, the spatula its instrument, and the chef its agent. This resembles the entailments of a sentence coordinated with and, so the lexical meaning of lift can be represented conjunctively: there is an event e, e is a lifting event, and the arguments saturate the theme, instrument, and agent positions. As each argument merges in the syntax, its meaning fills the corresponding variable, yielding the full meaning and the entailments of the sentence.",
+     "zh": "题元角色还能解释蕴涵模式。The chef lifted the egg with the spatula 蕴涵：存在一个抬举事件，鸡蛋是该事件的受事，锅铲是工具，厨师是施事。这与用 and 连接的并列句的蕴涵方式相似，因此 lift 的词义可以用合取的方式表示：存在事件 e，e 是一个抬举事件，且各论元依次填充受事、工具和施事的变量位置。随着句法合并逐步进行，各论元的意义填入相应变项，最终得到整句的意义及其蕴涵。"
+    }
+   ]
+  },
+  "chapter-080-slug-7-7-countability": {
+   "title": {
+    "en": "7.7 Countability",
+    "zh": "7.7 可数性"
+   },
+   "summary": {
+    "en": "This section examines the lexical distinction between count nouns and mass nouns. Count nouns can be pluralised, take numerals, and combine with many, while mass nouns resist pluralisation, reject numerals, and take much. It shows that countability is a lexical property that can nevertheless shift with context, and that which nouns are count or mass varies across languages such as Halkomelem, French, and Japanese, with Japanese relying on classifiers.",
+    "zh": "本节考察名词意义中可数与不可数的区分。可数名词可以复数化、与数词连用并受 many 修饰，不可数名词则不能复数化，通常受 much 修饰。文中说明可数性是词库中的词汇属性，但也会随语境发生转换；同时指出名词的可数性因语言而异，如哈尔科梅勒姆语、法语和日语，其中日语依靠量词系统来计数。"
+   },
+   "points": [
+    {
+     "en": "Count nouns can be pluralised, combine with numerals, and appear with the determiner many.",
+     "zh": "可数名词可以复数化、与数词连用，并可与限定词 many 搭配。"
+    },
+    {
+     "en": "Mass nouns resist pluralisation, reject numerals, and take much rather than many.",
+     "zh": "不可数名词不能复数化，不能与数词连用，且用 much 而非 many。"
+    },
+    {
+     "en": "Count nouns are bounded, since each separate entity has a perceptible boundary, whereas mass nouns are unbounded.",
+     "zh": "可数名词是有界的，每个独立实体都有可感知的边界；不可数名词则是无界的。"
+    },
+    {
+     "en": "Mass nouns can be used in count ways to denote kinds or containers, and count nouns can be used in mass ways.",
+     "zh": "不可数名词可用作可数，表示种类或容器；可数名词也可用作不可数。"
+    },
+    {
+     "en": "Whether a noun is count or mass varies by language, and Japanese marks counting and plurality through classifiers.",
+     "zh": "名词的可数性因语言而异，日语则通过量词来体现计数与复数含义。"
+    },
+    {
+     "en": "Acceptability judgments must consider context, since a sentence's oddness may come from world knowledge rather than semantics.",
+     "zh": "作出可接受性判断时必须考虑语境，因为句子读起来怪异可能源于世界知识而非语义。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "count noun",
+     "zh": "可数名词",
+     "defEn": "A noun that can be pluralised, take numerals, and combine with many.",
+     "defZh": "可以复数化、能与数词连用，并可与限定词 many 搭配的名词。"
+    },
+    {
+     "en": "mass noun",
+     "zh": "不可数名词（物质名词）",
+     "defEn": "A noun that resists pluralisation, rejects numerals, and takes much.",
+     "defZh": "不能复数化、不能与数词连用，并通常受 much 修饰的名词，如 dirt、rice。"
+    },
+    {
+     "en": "bounded",
+     "zh": "有界",
+     "defEn": "Describing entities with perceptible boundaries, as with countable objects.",
+     "defZh": "指实体具有可感知的边界，可数名词所表示的对象即属此类。"
+    },
+    {
+     "en": "unbounded",
+     "zh": "无界",
+     "defEn": "Describing homogeneous substances that lack perceptible boundaries, as with mass nouns.",
+     "defZh": "指同质物质缺乏可感知的边界，不可数名词所表示的对象即属此类。"
+    },
+    {
+     "en": "classifier",
+     "zh": "量词",
+     "defEn": "A morpheme that attaches to numerals and turns mass nouns into bounded units.",
+     "defZh": "附着于数词之上的语素，使不可数名词成为可以计数的有界单位。"
+    },
+    {
+     "en": "kind interpretation",
+     "zh": "种类解读",
+     "defEn": "The reading in which a pluralised mass noun denotes kinds of a substance.",
+     "defZh": "复数化的不可数名词表示某物质的若干种类的解读方式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "(4b) That is a lot of dirt.",
+     "noteEn": "The grammatical mass counterpart of the ill-formed a lot of dirts.",
+     "noteZh": "与不合语法的 a lot of dirts 相对的、合乎语法的不可数用法。"
+    },
+    {
+     "text": "(7b) Can we have two waters? (count, 'two glasses of water')",
+     "noteEn": "A mass noun used countably to count containers rather than substances.",
+     "noteZh": "不可数名词用作可数的例子，计数的对象是容器而不是物质本身。"
+    },
+    {
+     "text": "(10) The pumpkin truck crashed on the highway and there was so much pumpkin everywhere. (mass)",
+     "noteEn": "A basically count noun used in a mass way once the pumpkins are smashed.",
+     "noteZh": "本为可数名词的 pumpkin 在南瓜被压碎后用作不可数，指散落的物质。"
+    },
+    {
+     "text": "(14a) kami 3-mai kudasai 'Please give me 3 pieces of paper' (Classifier: thin sheets)",
+     "noteEn": "Shows the Japanese classifier -mai used for thin, flat objects.",
+     "noteZh": "说明日语量词 -mai 用于纸张等薄而扁平的物体。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Nominal meaning has a fundamental property: whether the entity denoted is countable. Descriptively, count nouns in English can be pluralised, can follow numerals, and can be modified by many, as in these shirts, three chairs, and many cups. Mass nouns such as dirt and rice behave differently: they resist pluralisation, reject numerals, and combine with much instead of many. Conceptually, count nouns are bounded, since adding another cup yields two distinct entities with perceptible boundaries, while mass nouns are unbounded, since adding dirt to a pile leaves one larger pile.",
+     "zh": "名词意义中有一个基本属性：所表示的实体是否可数。从描述上看，英语的可数名词可以复数化、可以跟数词连用，也可以受 many 修饰，如 these shirts、three chairs 和 many cups。dirt、rice 这类不可数名词则不同：它们不能复数化，不能与数词连用，并与 much 而非 many 搭配。从概念上看，可数名词是有界的，再放一个杯子就得到两个边界可感知的独立实体；不可数名词是无界的，往一堆土上再加土，仍然只是一堆更大的土。"
+    },
+    {
+     "en": "The distinction is lexical, but it is not rigid. Pluralised mass nouns can receive a kind interpretation, as when three muds means three kinds of mud, or they can count containers, as when two waters means two glasses of water. Conversely, basically count nouns like pumpkin can be used in a mass way once the pumpkins are smashed across a highway. Countability also varies across languages: Halkomelem readily pluralises fog, French cheveu means a strand of hair while cheveux means a mass of hair, and Japanese has no productive plural marking, interpreting koppu as either bring cups or bring a cup.",
+     "zh": "这一区分属于词库信息，但并非一成不变。复数化的不可数名词可以获得种类解读，如 three muds 表示三种泥；也可以用来计量容器，如 two waters 表示两杯水。反过来，本属可数名词的 pumpkin 在南瓜被撞碎、撒满公路之后也可以用作不可数。可数性还因语言而异：哈尔科梅勒姆语中 fog 可以自由复数化，法语的 cheveu 指一根头发，而复数形式的 cheveux 指一头头发，日语则没有能产的复数标记，koppu 既可理解为 bring cups，也可理解为 bring a cup。"
+    },
+    {
+     "en": "Japanese counts things through a rich classifier system, since expressions like 2 enpitsu are ungrammatical. Classifiers attach to numerals and divide nouns into semantically based classes: -mai for thin flat objects such as paper, -hon for long thin cylindrical objects such as pencils, -dai for mechanical objects such as cars, -hiki for small quadripedal mammals, -wa for animals with wings, and the elsewhere classifiers -tsu and -ko. Finally, context matters for acceptability judgments: I swam in vanilla extract sounds odd out of the blue, but is perfectly natural in a factory context, and the same emoji can be felicitous or infelicitous depending on the situation.",
+     "zh": "日语依靠丰富的量词系统来计数，因为像 2 enpitsu 这样的说法不合语法。量词附着在数词上，把名词按语义划分成若干类别：-mai 用于纸张等薄而扁平的物体，-hon 用于铅笔等细长的柱状物体，-dai 用于汽车等有可感知部件的机械制品，-hiki 用于较小的四足哺乳动物，-wa 用于有翼动物，-tsu 和 -ko 则是通用量词。最后，语境对可接受性判断十分重要：I swam in vanilla extract 乍看怪异，但在香草精工厂的语境中十分自然，同一个表情符号在不同情境中也可能恰当或不恰当。"
+    }
+   ]
+  },
+  "chapter-081-slug-7-8-individual-vs-stage-level-predicates": {
+   "title": {
+    "en": "7.8 Individual- vs. stage-level predicates",
+    "zh": "7.8 个体层面谓语与阶段层面谓语"
+   },
+   "summary": {
+    "en": "This short section distinguishes two kinds of adjectival state. Individual-level predicates such as tall, Canadian, and talented hold of an individual persistently and are unbounded, while stage-level predicates such as excited, bored, and sick hold only during a certain period and are bounded. Spanish marks the contrast overtly with the copulas ser and estar, and the same notion of boundedness links this distinction to count and mass nouns.",
+    "zh": "本节区分形容词所表示的两类状态。tall、Canadian、talented 等个体层面谓语持久地适用于个体，是无界的；excited、bored、sick 等阶段层面谓语只在某一特定时期成立，是有界的。西班牙语用系词 ser 和 estar 明确标示这一对立，而这一区分与可数、不可数名词共享有界性这一概念。"
+   },
+   "points": [
+    {
+     "en": "Individual-level predicates such as tall, Canadian, and talented hold of individuals persistently and are unbounded.",
+     "zh": "tall、Canadian、talented 等个体层面谓语持久地适用于个体，属于无界谓语。"
+    },
+    {
+     "en": "Stage-level predicates such as excited, bored, and sick are true only during a certain period and are bounded.",
+     "zh": "excited、bored、sick 等阶段层面谓语只在特定时期成立，属于有界谓语。"
+    },
+    {
+     "en": "English uses be for all adjectives, but Spanish selects ser or estar depending on the predicate type.",
+     "zh": "英语中各类形容词一律用 be，西班牙语则依据谓语类型选用 ser 或 estar。"
+    },
+    {
+     "en": "Some adjectives are ambivalent, receiving individual-level or stage-level readings depending on context.",
+     "zh": "有些形容词属于两可谓语，可依语境获得个体层面或阶段层面的解读。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "individual-level predicate",
+     "zh": "个体层面谓语",
+     "defEn": "A predicate that is true of an individual as a whole and persists over time.",
+     "defZh": "整体地适用于个体、并持久成立而不受时间限制的谓语。"
+    },
+    {
+     "en": "stage-level predicate",
+     "zh": "阶段层面谓语",
+     "defEn": "A predicate true of an individual only during a certain period or stage.",
+     "defZh": "只在某一特定时期或阶段适用于个体的谓语，如表示暂时状态的形容词。"
+    },
+    {
+     "en": "copula",
+     "zh": "系词",
+     "defEn": "The verb be in English, or ser and estar in Spanish, used with predicative adjectives.",
+     "defZh": "与谓语性形容词连用的动词，如英语的 be 以及西班牙语的 ser 和 estar。"
+    },
+    {
+     "en": "ambivalent predicate",
+     "zh": "两可谓语",
+     "defEn": "An adjective that can take either an individual-level or a stage-level reading.",
+     "defZh": "既可以作个体层面解读、也可以作阶段层面解读的形容词。"
+    },
+    {
+     "en": "boundedness",
+     "zh": "有界性",
+     "defEn": "The conceptual property of having a beginning point and an ending point.",
+     "defZh": "具有起点与终点的概念属性，可用于区分阶段层面谓语与不可数名词等。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "(1a) ?When Ash is { tall / Canadian / talented }, I get worried.",
+     "noteEn": "Sounds odd because these individual-level predicates are persistent rather than temporary.",
+     "noteZh": "该句略显怪异，因为这些个体层面谓语表示持久属性，而非暂时状态。"
+    },
+    {
+     "text": "(1b) When Ash is { excited / bored / sick }, I get worried.",
+     "noteEn": "Felicitous because stage-level predicates may hold for a limited interval.",
+     "noteZh": "该句自然，因为阶段层面谓语可以只在有限的时间段内成立。"
+    },
+    {
+     "text": "(2a) Juan { es / *está } { leal / inmoral / inteligente / odioso }.",
+     "noteEn": "These Spanish adjectives are individual-level and allow only the copula ser.",
+     "noteZh": "这些西班牙语形容词属个体层面谓语，只能与系词 ser 连用。"
+    },
+    {
+     "text": "(2b) Eva { *es / está } { contenta / enferma / perpleja / sola }.",
+     "noteEn": "These Spanish adjectives are stage-level and require the copula estar.",
+     "noteZh": "这些西班牙语形容词属阶段层面谓语，只能与系词 estar 连用。"
+    }
+   ],
+   "body": [
+    {
+     "en": "One interesting property of adjectival meaning is whether the state the adjective denotes has a temporal limit. Predicates like tall, Canadian, and talented generally hold of individuals persistently, which is why putting them in a when clause sounds slightly odd, since the when clause suggests a temporary eventuality. Such adjectives are individual-level predicates, true of individuals as a whole, and they invite the inference that the property will continue to hold unless otherwise specified. By contrast, excited, bored, and sick are stage-level predicates, true of an individual only during a certain period or at certain stages, so when clauses are felicitous with them and no inference of indefinite continuation arises.",
+     "zh": "形容词意义的一个有趣特点是，它所指的状态是否有时间限制。tall、Canadian、talented 这类谓语通常持久地适用于个体，因此把它们放进 when 从句会显得有点奇怪，因为该从句暗示事件性是暂时的。这类形容词是个体层面谓语，整体地适用于个体，并引发这样的推理：除非另有说明，该属性将持续成立。相比之下，excited、bored、sick 属于阶段层面谓语，只在某一时期或某些阶段适用于个体，因此 when 从句与它们连用很自然，也不会产生属性无限延续的推理。"
+    },
+    {
+     "en": "English uses the copula be for adjectives of both kinds, as in Ash is tall and Ash is bored. Some languages encode the distinction in the copula itself. In Spanish, ser is used with individual-level adjectives such as leal, inmoral, inteligente, and odioso, while estar is used with stage-level adjectives such as contenta, enferma, perpleja, and sola. Some adjectives, including alegre, inquieto, and nervioso, are ambivalent predicates: they may receive an individual-level or a stage-level interpretation depending on context, at least in Spanish.",
+     "zh": "英语中两类形容词都用系词 be，如 Ash is tall 和 Ash is bored。有些语言则用系词本身来编码这一区分。西班牙语中，leal、inmoral、inteligente、odioso 等个体层面形容词只能与 ser 连用，而 contenta、enferma、perpleja、sola 等阶段层面形容词只能与 estar 连用；在例句中，ser 的屈折形式是 es，estar 的屈折形式是 está。alegre、inquieto、nervioso 等形容词属于两可谓语，至少就西班牙语而言，它们可依语境获得个体层面或阶段层面的解读。"
+    },
+    {
+     "en": "Conceptually, stage-level predicates can be thought of as bounded, with a beginning point and an ending point, while individual-level predicates are unbounded and not contained within a particular interval of time. This is the same notion of boundedness used to characterise count and mass nouns in the previous section, which suggests that lexical meaning is cross-categorically sensitive to whether something has bounds and limits.",
+     "zh": "从概念上看，阶段层面谓语可以视为有界的，有起点也有终点；个体层面谓语则是无界的，不局限于某一时间区间之内。这与上一节用来刻画可数与不可数名词的有界性概念相同：前者说的是时间上的界限，后者说的是实体上的界限。由此可见，词汇意义在不同词类中都对“是否有边界和限度”这一概念敏感，有界性因此成为跨词类的语义参数。"
+    }
+   ]
+  }
+ }
+}

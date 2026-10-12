@@ -1,0 +1,64 @@
+{
+ "batch": 4,
+ "sections": {
+  "front-matter-004-note-to-instructors": {
+   "title": {
+    "en": "A Note to Instructors",
+    "zh": "致教师的话"
+   },
+   "summary": {
+    "en": "This note invites instructors to adopt Essentials of Linguistics, 2nd edition as a stand-alone textbook or a supplement for in-person, hybrid, or online courses. It explains the open Creative Commons licensing that permits redistribution, revision, remixing, and retention with attribution, and asks adopters to complete an adoption form and send a brief email.",
+    "zh": "本节面向考虑采用《语言学基础》第二版的教师，说明该书既可作为独立教材，也可作为传统教材的补充，适用于面授、混合或线上课程。文中交代了知识共享许可的开放授权，允许在使用者署名来源的前提下再分发、修订、重混与保留书中内容，并请采用者填写采用表并发送一封简短的确认邮件。"
+   },
+   "points": [
+    {
+     "en": "The book works as a stand-alone textbook or as a supplement to a traditional textbook.",
+     "zh": "本书既可作为独立教材使用，也可作为传统教材的补充材料。"
+    },
+    {
+     "en": "It suits in-person, hybrid, and online courses alike, since the whole resource is openly licensed.",
+     "zh": "由于全部资源采用开放许可，本书同样适用于面授、混合与线上课程。"
+    },
+    {
+     "en": "The Creative Commons licence permits redistribution, revision, remixing and retention, provided the source is attributed.",
+     "zh": "知识共享许可允许再分发、修订、重混与保留内容，前提是注明来源出处。"
+    },
+    {
+     "en": "Adopters are asked to fill out an adoption form and email the team to report use.",
+     "zh": "采用者需填写采用表，并发送邮件告知使用情况，以便团队掌握使用范围。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Open Educational Resource",
+     "zh": "开放教育资源",
+     "defEn": "Freely available teaching material that can be reused and adapted by others.",
+     "defZh": "可自由获取、允许他人重复使用与改编的教学材料。"
+    },
+    {
+     "en": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+     "zh": "知识共享署名—非商业性使用—相同方式共享 4.0 国际许可协议",
+     "defEn": "A public licence allowing reuse with attribution, non-commercially, under the same terms.",
+     "defZh": "一种公开许可协议，允许在署名、非商业用途并以相同方式共享的条件下重复使用作品。"
+    },
+    {
+     "en": "adoption form",
+     "zh": "采用表（教材采用登记表）",
+     "defEn": "A short form letting the funder track where the book is used.",
+     "defZh": "一份简短的登记表格，用于让资助方追踪教材的使用情况。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "The note opens by thanking instructors who are considering Essentials of Linguistics, 2nd edition for their linguistics course. The resource is designed so that it can stand alone as a complete textbook or serve as a supplement to a traditional one. Because the material is entirely open, it can be used in an in-person classroom, a hybrid arrangement, or a fully online course without any change in function.",
+     "zh": "本节首先感谢正在考虑为语言学课程选用《语言学基础》第二版的教师。该资源的设计目的，是既可以独立充当一部完整教材，也可以作为传统教材的补充。由于全部材料都是开放的，它既能用于面授课堂，也适用于混合教学或完全线上的课程，功能不受授课形式影响。"
+    },
+    {
+     "en": "The open status comes from a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Under that licence, instructors and others may redistribute, revise, remix, and retain any part of the book, so long as they attribute the source material. The note then makes two simple requests of anyone who adopts the eBook, whether as a required text or an optional supplement: complete the adoption form so the funder can track the book's use, and send an email to teaching.in.linguistics@gmail.com saying where and how it is being used.",
+     "zh": "这种开放属性来自知识共享署名—非商业性使用—相同方式共享 4.0 国际许可协议。依据该协议，教师及其他使用者可以再分发、修订、重混并保留书中的任何部分，只需注明来源材料即可。随后，本节对采用这本电子书的读者提出两项简单请求，无论将其作为指定教材还是可选补充材料：一是填写采用表，便于资助方追踪本书的使用情况；二是发送邮件至 teaching.in.linguistics@gmail.com，告知使用地点与方式。团队希望了解使用规模，并计划在未来编写教师资源包，不过该工作目前仍处于很早期的开发阶段。"
+    }
+   ]
+  }
+ }
+}

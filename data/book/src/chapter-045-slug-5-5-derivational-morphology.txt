@@ -1,0 +1,52 @@
+# 5.6 Derivational morphology
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2330#oembed-1
+
+## Derivational morphology and selection
+
+Derivational morphemes are typically choosy about the types of bases they combine with—another word for “choosy” is selective, and so we talk about how derivational affixes select the category of their base.
+For example, the suffix -able combines only with verbs, and always creates adjectives meaning “able to be verb-ed”: readable, writeable, playable, employable, and googleable are all possible adjectives in English, even if they don’t appear in a dictionary—while the other words in this list probably do show up in most dictionaries, googleable might not, because google a relatively recent verb (adapted from the name of the company). But as an English speaker I don’t need to check the dictionary to find out if something is a possible English word—if I’m talking to someone and I say that something is “googleable”, I can be confident that they’ll understand me even if they’ve never heard someone use that verb before.
+The list in (1) is a very incomplete sample of derivational suffixes in English, with the category they select on the left side of the arrow, and the category they create on the right side.
+
+[表格]
+| | | (1) | | | | | -tion | | | V | | → | | N | | | | | | | | | -able | | | V | | → | | Adj | | | | | | | | | -en | | | V | | → | | Adj | | | | | | | | | -ed | | | V | | → | | Adj | | | | | | | | | -ing | | | V | | → | | Adj or N | | | | | | | | | -ment | | | V | | → | | N | | | | | | | | | -ness | | | Adj | | → | | N | | | | | | | | | -ity | | | Adj | | → | | N | | | | | | | | | -ous | | | N | | → | | Adj | | | | | | | | | -hood | | | N | | → | | N | | | | | | | | | -ize | | | N | | → | | V | | | | | | | | | -ly | | | Adj | | → | | Adj | | | | | | | | | -ish | | | Adj | | → | | Adj | | |
+
+There are many more than this! You’ll see them inside many words if you start paying attention.
+Prefixes in English never change the category of the base they attach to, but they express clear meanings, like negation, repetition, order (e.g. pre- and post-), etc. Examples of English derivational prefixes and the categories they select appear in (2):
+
+[表格]
+| | | (2) | | | | | non- | | | N | | → | | N | | | non-issue | | | | | | | | | | | | | Adj | | → | | Adj | | | non-distinct | | | | | | | | | | un- | | | V | | → | | V | | | undo | | | | | | | | | | | | | Adj | | → | | Adj | | | unhappy | | | | | | | | | | re- | | | V | | → | | V | | | redo | | | |
+
+Derivational morphology can be even more selective, requiring not only a base that belongs to a certain category, but requiring specific roots or bases. A lot of derivational morphology in English was acquired from borrowing words from French and Latin; these “latinate” affixes often prefer to combine with each other, and sometimes only with roots that are also latinate. Such affixes are less productive than other affixes, which combine freely with most bases.
+Some of the most productive derivational suffixes in English are -ish, which can attach to most adjectives, -ness, -able, and -ing.
+-ing is particularly productive: it can attach to all verbs in English to form adjectives (traditionally called “participles”) or nouns (traditionally called “gerunds”). It is very unusual for a derivational affix to be that productive; usually there are at least a few roots that don’t occur with a derivational affix, for whatever reason.
+
+## Order of Affixation
+
+Because derivational affixes care about the category of the base they attach to, and they can result in a change to a new category for the whole word, the order in which they are added to a word can matter!
+Prefixes, suffixes, and circumfixes always attach to the outer edge of their base. That means that if a word has only suffixes, or only prefixes, there is only one order those affixes could have attached in. It will never be the case that the suffix that was added last appears closer to the root than suffixes that attached earlier.
+Consider the word foolishly. This has the root fool (a noun), the suffix -ish (which attaches to nouns to form adjectives), and the suffix -ly (which attaches to adjectives to form adverbs). The only way to build this word is to first attach -ish to the root fool, and then attach -ly to the new base foolish. This structure is illustrated in Figure 5.1.
+
+[图片：5_tree1_foolishly.png]
+
+Figure 5.1 Tree diagram for foolishly
+But if a word has both prefixes and suffixes, then it’s slightly more work to figure out what order they attached in. Sometimes the selectional properties of the affixes means that there is only one option. Consider the word unkindness. Here we have one prefix and one suffix. So in principle there are two orders in which we could build the word:
+- Option 1: First attach un- to the Adjective root kind, building the Adjective unkind. Then attach -ness to unkind to get the Noun unkindness
+- Option 2: First attach -ness to the Adjective root kind, building the Noun kindness. Then attach un- to kindness to get the Noun unkindness
+
+In both these hypothetical derivations the intermediate base—unkind in Option 1 and kindness in Option 2—is a possible word of English, so from that perspective both derivations seem equally plausible.
+But only one of these options matches the selectional properties of the affixes involved.
+- If we look at un-, we find that it only attaches to verbs (with a reversal reading, like undo) and adjectives (with a negative meaning, like unkind). It cannot attach to nouns.
+- If we look at -ness, by contrast, it attaches to adjectives to create nouns.
+- So if -ness attached first in this word, as in 2, it would turn the adjective kind into a noun, and un- would no longer have the right kind of base to attach to.
+
+This means that it can only be the order in 1, where un- attaches before -ness, while its potential base is still an adjective, that is the correct one.
+
+[图片：5_tree2_unkindness.png]
+
+Figure 5.2 Tree diagram for unkindness
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2330#h5p-107

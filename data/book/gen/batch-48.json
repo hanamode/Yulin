@@ -1,0 +1,100 @@
+{
+ "batch": 48,
+ "sections": {
+  "chapter-107-mohawk-culture": {
+   "title": {"en": "Mohawk culture and language", "zh": "9.3 莫霍克文化与语言"},
+   "summary": {
+    "en": "Dr. Kanatawakhon-Maracle describes cultural knowledge embedded in Mohawk grammar, including the restricted use of nyaweh, the avoidance of negating the future, and a free word order held together by pronominal prefixes. He also shows that living languages change, as when oháhsera extended from candles to electric lights.",
+    "zh": "本单元中，Kanatawakhon-Maracle 博士讲述莫霍克语语法中蕴含的文化要素：nyaweh 的用法远比英语 thank you 严格，使用者不直接否定将来，语序自由而靠代词性前缀连接。他也说明活语言总在变化，例如 oháhsera 从蜡烛扩展到各种人造光源。"
+   },
+   "points": [
+    {"en": "Mohawk nyaweh is not a casual thank-you but an expression directed to the Creator.", "zh": "莫霍克语 nyaweh 不是随口道谢，而是面向造物主表达感激的说法。"},
+    {"en": "Fluent speakers avoid negating the future directly, using non-definite forms instead.", "zh": "流利使用者不直接否定将来，而是改用非确定形式绕开这种说法。"},
+    {"en": "Mohawk word order is free, held together by pronominal prefixes and shaped by emphasis.", "zh": "莫霍克语语序自由，由代词性前缀联结成句，并随强调重点而调整。"},
+    {"en": "A word's accent shifts according to where the word occurs in the sentence.", "zh": "一个词的重音会随它在句中出现的位置而转移到别的音节上。"},
+    {"en": "Vocabulary follows culture, as oháhsera moved from candles to modern artificial lighting.", "zh": "词汇随文化演变，oháhsera 就从蜡烛一路扩展到现在的人造光源。"}
+   ],
+   "terms": [
+    {"en": "nyaweh", "zh": "nyaweh（莫霍克语致谢语）", "defEn": "Mohawk expression directed to the Creator, loosely translated as thank you.", "defZh": "莫霍克语中面向造物主表达感激的说法，英语常译为 thank you，但用法严格得多。"},
+    {"en": "pronominal prefix", "zh": "代词性前缀", "defEn": "Verb prefix marking the person and number of the subject or object.", "defZh": "附着在动词上、标示主语或宾语的人称与数的前缀。"},
+    {"en": "accent shift", "zh": "重音转移", "defEn": "Movement of a word's stress to another syllable depending on its position.", "defZh": "词的重音随该词在句中出现的位置而移到另一个音节上。"},
+    {"en": "semantic drift", "zh": "语义漂移", "defEn": "Gradual change in a word's meaning as its range of use extends.", "defZh": "词义随使用范围扩大而逐渐改变，如 oháhsera 从蜡烛扩展到各种灯具。"},
+    {"en": "negating the future", "zh": "否定将来", "defEn": "Directly denying a future event, which fluent Mohawk speakers avoid.", "defZh": "直接否定将来发生的事，莫霍克语的流利使用者会避免这种说法。"}
+   ],
+   "examples": [
+    {"text": "nyaweh", "noteEn": "Usually rendered as thank you, but traditionally reserved for the Creator.", "noteZh": "通常被译为 thank you，但按旧传统只用于对造物主表达感激。"},
+    {"text": "raksá:’a ire ohaháke", "noteEn": "One arrangement of the three words, placing emphasis on the boy.", "noteZh": "三个词的一种排列，把强调重点放在「男孩」上。"},
+    {"text": "ohaháke ire raksá:’a", "noteEn": "Another arrangement of the same words, emphasizing the road.", "noteZh": "同样三个词的另一种排列，把强调重点放在「路」上。"},
+    {"text": "kahiatonhseráke", "noteEn": "On the book, with the accent shifted to the penultimate syllable.", "noteZh": "意为「在书上」，重音已转移到倒数第二个音节。"}
+   ],
+   "body": [
+    {"en": "Dr. Kanatawakhon-Maracle teaches culture together with the language, explaining where a word or expression comes from. Mohawk nyaweh is generally interpreted as thank you in English, but in the older tradition he was raised in it is not said for every small thing. It is directed to the Creator, for a sunset, a flower or majestic scenery, and at a shared meal the first person to rise says it for the opportunity to sit with others. Younger speakers now use it much as English does.", "zh": "Kanatawakhon-Maracle 博士把文化与语言放在一起教授，讲明一个词或表达法从哪里来。莫霍克语的 nyaweh 一般被英语解释为 thank you，但在他所遵循的旧传统里，它并不用于每一件小事：它指向造物主，用于日落、花朵或壮丽的景色；一同用餐时，最先起身的人说 nyaweh，感谢的是能与他人共坐的机会。年轻的使用者现在已像英语那样随意使用它。"},
+    {"en": "Some things, he argues, should not be updated, because change erodes a language's uniqueness: if you speak Mohawk the way you speak English, why not simply speak English? English can say it will not snow today, but Mohawk speakers do not negate the future directly. A negative future can be constructed, yet nobody uses it; speakers turn instead to a non-definite form meaning something like it would not or there is a possibility that it will not.", "zh": "他认为有些东西不该更新，因为改动会侵蚀一种语言的独特性：如果像说英语那样说莫霍克语，那为什么不干脆说英语？英语可以说 it will not snow today，但莫霍克语使用者不会直接否定将来。否定式的将来其实可以构造，却没有人使用；使用者改用非确定形式，意思近于「它不会吧」或「有可能它不会」。"},
+    {"en": "Mohawk word order, unlike the fixed English subject-verb-object, is quite literally whatever comes out of your mouth, tied together by pronominal prefixes. A word's accent moves with its position: kahiatónhsera, book, accents tón, while kahiatonhseráke, on the book, shifts the accent to the penultimate syllable. Position also depends on emphasis and on answering a question, since the information asked for comes first, yielding six arrangements of three words.", "zh": "与英语固定的主-动-宾语序不同，莫霍克语语序简直就是说出口的顺序，靠代词性前缀串联成句。词的重音随位置移动：kahiatónhsera（书）重音在 tón，kahiatonhseráke（在书上）则把重音移到倒数第二音节。词的位置还取决于强调和是否在回答问题，被问及的信息会放在最前，于是三个词可有六种排列。"},
+    {"en": "Vocabulary likewise follows culture: stop using a stone axe and its word will eventually disappear. Other words are carried forward, like oháhsera, a light. It first named something shaped much like a bone, oháhsa with the -ra suffix; candles resembled that bone, so candles were called oháhsera, then lamps of similar shape, then ceiling and wall lights. The word lasted because its basic application remained while the shape kept changing.", "zh": "词汇也随文化而变：不再使用石斧，石斧的词终会消失。另一些词则沿用下来，比如 oháhsera（光）。它原本指很像一块骨头的东西，即 oháhsa 加后缀 -ra；因为蜡烛像那块骨头，蜡烛就叫 oháhsera，接着是形状相近的灯，后来连顶灯和壁灯也算。这个词延续至今，是因为基本用途还在，只是形状不断变化。"}
+   ]
+  },
+  "chapter-108-creating-materials": {
+   "title": {"en": "Creating materials for teaching Mohawk", "zh": "9.4 为莫霍克语教学编写教材"},
+   "summary": {
+    "en": "Dr. Kanatawakhon-Maracle explains how he built his own Mohawk teaching materials when almost nothing was available, and how Günther Michelson's A Thousand Words of Mohawk convinced him to organize his courses around roots. He describes learning to ask the right question, and why working with fluent speakers requires grammatical and metalinguistic awareness.",
+    "zh": "Kanatawakhon-Maracle 博士讲述在几乎没有任何现成材料的情况下，如何自己编写莫霍克语教材，以及 Günther Michelson 的《A Thousand Words of Mohawk》如何使他决定围绕词根组织教学。他还谈到如何学会提出正确的问题，以及为什么与流利使用者合作需要语法意识和元语言意识。"
+   },
+   "points": [
+    {"en": "Almost no Mohawk teaching materials existed, so he had to buy supplies and write his own.", "zh": "当时几乎没有现成的莫霍克语教学材料，他只能自购教具并自己编写。"},
+    {"en": "Michelson's root-based dictionary showed him a better way to organize a language course.", "zh": "Michelson 按词根编排的词典让他看到组织语言课程的一种更好方式。"},
+    {"en": "Linguistic writing was unreadable to him unless it supplied plenty of worked examples.", "zh": "语言学著作若没有大量可用的实例，他就完全读不懂。"},
+    {"en": "He learned by trial and error to ask the right question when working with speakers.", "zh": "他在与使用者合作中反复摸索，才学会怎样提出正确的问题。"},
+    {"en": "Fluent speakers may lack metalinguistic awareness and mix pronominal categories in their answers.", "zh": "流利使用者可能缺乏元语言意识，回答时会混用不同的代词性范畴。"}
+   ],
+   "terms": [
+    {"en": "root", "zh": "词根", "defEn": "Basic morpheme from which related words are formed, the basis of Michelson's dictionary.", "defZh": "构成相关词的基础语素，也是 Michelson 词典编排所依据的单位。"},
+    {"en": "metalinguistic awareness", "zh": "元语言意识", "defEn": "Ability to reflect consciously and explicitly on how one's own language works.", "defZh": "有意识地、明确地反思自己语言如何运作的能力。"},
+    {"en": "fluent speaker", "zh": "流利使用者", "defEn": "Someone who uses the language easily but may lack explicit grammatical knowledge.", "defZh": "能自如使用该语言、却未必具备明确语法知识的人。"},
+    {"en": "elicitation", "zh": "语料诱导", "defEn": "Collecting language data by asking speakers carefully framed questions.", "defZh": "通过向使用者提出精心设计的问题来收集语言材料。"},
+    {"en": "pronominal categories", "zh": "代词性范畴", "defEn": "Subjective, objective and transitive sets of pronominal markers on the verb.", "defZh": "动词上区分主语、宾语和及物的一组组代词性标记。"}
+   ],
+   "examples": [
+    {"text": "kerhitáke", "noteEn": "Offered by a speaker for tree, but actually meaning on the tree.", "noteZh": "使用者给出的「树」的说法，其实意思是「在树上」。"},
+    {"text": "tkerhitoke", "noteEn": "There is a tree standing there, one of several related forms he collected.", "noteZh": "意为「那里立着一棵树」，是他收集到的若干相关形式之一。"},
+    {"text": "kérhite", "noteEn": "The form he eventually identified as the word for tree.", "noteZh": "他最终确认的表示「树」的那个词。"},
+    {"text": "wahahní:no", "noteEn": "He just bought it, contrasted with rohahní:no, he bought it a while ago.", "noteZh": "意为「他刚买了」，与表示「他很久以前买了」的 rohahní:no 相对。"}
+   ],
+   "body": [
+    {"en": "Dr. Kanatawakhon-Maracle has taught Mohawk since about 1990-91, first taking the course here partly to test whether a textbook he had developed would work. He has since written five language-learning textbooks with exercises and drills, plus a companion volume of Supplements divided into ten areas covering numbers, locations and the like. When the band council offered Mohawk in the public school back home, he returned to teach it, being quite literally the youngest speaker there, driving to four schools daily for half an hour of language per class from Kindergarten to Grade 8.", "zh": "Kanatawakhon-Maracle 博士自 1990 至 1991 年前后开始教莫霍克语，最初在这里开课，部分是想检验自己编写的教材是否可行。后来他写了五套语言学习教材，配有练习和操练，另有一本 Supplements 配套书，分为十个部分，涉及数字、方位等。家乡的部族议会开设莫霍克语课后，他回去任教，在那里几乎就是最年轻的使用者，每天开车跑四所学校，每班半小时语言课，从幼儿园一直教到八年级。"},
+    {"en": "There were no materials whatsoever and the pay was a hundred dollars a week, so he bought his own flashcard supplies and developed his own material. In his fourth year he came across Günther Michelson's A Thousand Words of Mohawk, organized around roots, and it made so much sense that he began to think this was the better way to teach. Much linguistic work on Iroquoian languages was then largely unreadable to him; he needed sources with enough examples to work out what was being claimed.", "zh": "当时什么材料都没有，报酬是每周一百元，他只好自己买做闪示卡的用具并自编材料。教书第四年，他遇到 Günther Michelson 的《A Thousand Words of Mohawk》，这本书按词根编排，让他觉得很有道理，于是开始考虑这或许是更好的教学路子。当时关于易洛魁语系语言的许多语言学著作对他几乎读不懂，他需要实例充足的文献才能弄明白对方在说什么。"},
+    {"en": "Working with speakers, he learned by trial and error to ask the right question, since speakers tell you whatever comes to mind. Asked for the word for tree, a speaker offers kerhitáke, which turns out to mean on the tree; later he learned kerhitákon was in the tree, and forms like tkerhitoke eventually led him to kérhite. With I trust him the problem recurs: trust him for money, for what he says, or to get the job done? Fluent speakers such as an eighty-five-year-old aunt may have no sense of the grammar and mix the subjective, objective and transitive pronominals, saying wahahní:no one day and rohahní:no the next for he bought, which differ in how recent the buying was.", "zh": "与使用者合作时，他靠反复试错学会提出正确的问题，因为使用者想到什么就说什么。问「树」怎么说，对方给出 kerhitáke，其实是「在树上」；后来他知道 kerhitákon 是「在树里」，而 tkerhitoke 这类形式最终让他确定 kérhite 才是「树」。像「我相信他」这样的句子也有同样的困扰：是相信他借钱、相信他说的话，还是相信他能办成事？流利使用者如一位八十五岁的姑母可能对语法毫无概念，会混用主语、宾语和及物这几套代词性标记，昨天说 wahahní:no、今天说 rohahní:no 都表示「他买了」，差别在于购买是否发生在不久前。"}
+   ]
+  },
+  "chapter-109-speaking-reconciliation": {
+   "title": {"en": "Speaking Mohawk and reconciliation", "zh": "9.5 说莫霍克语与和解"},
+   "summary": {
+    "en": "Dr. Kanatawakhon-Maracle argues that language will play a vital role in reconciliation, and notes that learning a language never ends. He recalls a time when farmers around the territory and shopkeepers in Deseronto spoke Mohawk for trade, and treats that mutual accommodation, and the respect shown by learning someone's language, as an aspect of reconciliation.",
+    "zh": "Kanatawakhon-Maracle 博士认为语言将在和解中发挥重要作用，并指出语言学习永无终点。他回忆当年领地周围的农场主和 Deseronto 的店主都会说莫霍克语以便做生意，并把这种彼此迁就、以及愿意学习对方语言所显示的尊重，视为和解的一个方面。"
+   },
+   "points": [
+    {"en": "Whether students pass Mohawk to their children is up to them, and finding a speaking partner is the real test.", "zh": "学生是否把莫霍克语传给下一代取决于他们自己，找到同样说这门语言的伴侣才是真正的考验。"},
+    {"en": "Learning a language lasts a lifetime, since even speakers keep meeting unfamiliar vocabulary.", "zh": "语言学习是一辈子的事，即使已经是使用者，也仍会不断遇到没听过的词。"},
+    {"en": "Farmers and Deseronto shopkeepers once spoke Mohawk for trade with people from the territory.", "zh": "农场主和 Deseronto 的店主曾为了与领地居民做生意而说莫霍克语。"},
+    {"en": "Two groups accommodating each other's language is, to him, an aspect of reconciliation.", "zh": "在他看来，两个群体互相迁就对方的语言，本身就是和解的一个方面。"},
+    {"en": "Taking time to learn someone's language shows a certain respect for them.", "zh": "愿意花时间学习对方的语言，表明了对对方的一定尊重。"}
+   ],
+   "terms": [
+    {"en": "reconciliation", "zh": "和解", "defEn": "The process of two groups restoring a relationship after past harms.", "defZh": "两个群体在经历过去伤害之后重建关系的进程。"},
+    {"en": "lifelong learning", "zh": "终身学习", "defEn": "The view that acquiring language continues even after one becomes a speaker.", "defZh": "认为即使已成为使用者，语言习得仍会持续下去的观点。"},
+    {"en": "language maintenance", "zh": "语言保持", "defEn": "Efforts to keep a language in use when a dominant language surrounds it.", "defZh": "在强势语言环绕之下继续使用本族语言所付出的努力。"},
+    {"en": "mutual accommodation", "zh": "相互迁就", "defEn": "Each group making the effort to speak in the other's language.", "defZh": "两个群体各自努力用对方的语言进行交流。"}
+   ],
+   "examples": [
+    {"text": "you could go into stores in Deseronto and shopkeepers would", "noteEn": "Shopkeepers there once dealt with people in Mohawk for buying and selling.", "noteZh": "那里的店主当年会用莫霍克语和人们打交道，处理买卖之事。"},
+    {"text": "we’ll speak your language because we need your goods", "noteEn": "One side of the give and take between two reconciled groups.", "noteZh": "和解的两个群体之间彼此互让的一方理由。"},
+    {"text": "when people take time to learn your language, they do have a certain respect", "noteEn": "Learning another's language is read as a sign of respect.", "noteZh": "学习他人的语言被看作一种尊重的表示。"}
+   ],
+   "body": [
+    {"en": "He thinks it is really up to the student whether they will speak Mohawk to their own children. Learning the language may seem difficult, but finding a compatible partner who also speaks it is the real test; some of his students have found such partners and are raising children together in the language. People do not realize that learning a language is a lifelong process. Even as a speaker he still runs across unfamiliar words, or words he has heard but never had time to work out the context for, so a speaker remains always in a state of language learning.", "zh": "他认为，学生将来是否对自己的孩子说莫霍克语，完全取决于他们自己。学会这门语言也许已经很难，但找到一位同样说这门语言的合适伴侣才是真正的考验；他的一些学生确实找到了这样的伴侣，正一起用这门语言养育孩子。人们没有意识到，学习语言是一辈子的事。即使已经是使用者，他仍会遇到没听过的词，或者听过却没时间弄清语境的词，所以使用者始终处于语言学习的状态之中。"},
+    {"en": "Language, he says, is something we need; he does not know how we function without it. Reconciliation belongs here too. Years ago in his home community, many farmers living around the territory also spoke Mohawk, at least minimally, because they hired many people from the territory to work on their farms, and in Deseronto shops the shopkeepers would deal with people in Mohawk, a variety tied to buying and selling. To him, that is an aspect of reconciliation: two groups that have come to terms with each other, each with its own interest, since one wants the money and the other needs the goods.", "zh": "他说，语言是我们需要的东西，他无法想象没有语言人怎么运转。和解也与此相关。多年前在他的家乡社区，领地周围的许多农场主也会说莫霍克语，哪怕只是最低限度，因为他们雇用了许多领地居民到农场干活；在 Deseronto 的店铺里，店主会用莫霍克语与人们打交道，那是一种与买卖相关的说法。在他看来，这就是和解的一个方面：两个群体彼此达成相处之道，各有自己的利益——一方想要钱，另一方需要货物。"},
+    {"en": "There is always give and take between any two groups that have reconciled, but he also believes that when people take time to learn your language, they do have a certain respect. The ones who want to interact more are the ones who learn more of the language.", "zh": "任何两个和解的群体之间总是有来有往，但他同样相信，人们愿意花时间去学你的语言，就说明他们确实怀有一定的尊重；而那些希望有更多交往的人，也会学得更多。"}
+   ]
+  }
+ }
+}

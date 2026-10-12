@@ -1,0 +1,366 @@
+{
+ "batch": 10,
+ "entries": [
+  {
+   "id": "tone",
+   "title": "声调",
+   "en": "Tone",
+   "category": "concepts",
+   "tags": [
+    "音高对立",
+    "调值",
+    "连读变调",
+    "声调语言",
+    "产生声调"
+   ],
+   "summary": "声调指音节上具有区别意义作用的音高变化，是声调语言（如汉语、泰语、约鲁巴语）音系系统的核心特征。它通常依附于音节内部的浊音成分，以调型、调域和调值描写，如普通话阴平的55与去声的51。声调既区别于语调（作用于句子层面），又与之互动；其历史演变常由声母清浊的对立消失引发，形成浊上变去、入派三声等规律。",
+   "summaryEn": "Tone is the systematic use of pitch on syllables to distinguish lexical meaning, and it is characteristic of tone languages such as Mandarin, Thai and Yoruba. Tones are described by pitch height, contour and register, for example the high level 55 of Mandarin mā versus the falling 51 of mà. Distinct from sentence-level intonation, tone belongs to the lexical phonology of a language, and its historical development is frequently triggered by the loss of voicing contrasts on initial consonants.",
+   "sections": [
+    {
+     "h": "定义与基本性质",
+     "hEn": "Definition and Basic Properties",
+     "p": [
+      "声调是附着在音节之上、能够区别词或语素意义的音高变化。它不同于由声带振动频率决定的自然音高，而是语言系统约定俗成的对立项。在声调语言中，同一个辅音和元音组合配上不同调型便成为不同的词，例如普通话的 ma 依阴平、阳平、上声、去声分别写作妈 mā、麻 má、马 mǎ、骂 mà。声调并非孤立的声音特征，而是与音节结构、声母清浊以及语素意义相互关联的音系单位。"
+     ],
+     "pEn": [
+      "A tone is a pitch pattern carried by a syllable that can distinguish the meaning of words or morphemes. It is not simply the natural pitch of the voice but a conventionalized phonological category. In a tone language the same string of consonants and vowels becomes different words when different tones are superimposed: Mandarin ma yields 妈 mā 'mother', 麻 má 'hemp', 马 mǎ 'horse' and 骂 mà 'scold'. Tones are therefore contrastive units of the phonological system rather than phonetic accidents, and they interact closely with syllable structure and with historical processes affecting initial consonants."
+     ]
+    },
+    {
+     "h": "描写方法：调型、调域与调值",
+     "hEn": "Describing Tone: Contour, Register and Pitch Values",
+     "p": [
+      "声调通常用五度制描写，该标尺由赵元任提出，把说话人的音域分为1至5五度，用两个或三个数字表示起点、转折点和终点的相对音高。普通话阴平记作55，阳平记作35，上声记作214，去声记作51。除调值之外，还需区分调型（平调、升调、降调、降升调）与调域（高、中、低）。非洲许多语言以平调为主，如约鲁巴语的高、中、低三级调；东亚语言则常见升降曲折的曲拱调。日语的部分词以音高落点对立，一般称为高低重音或音调重音。"
+     ],
+     "pEn": [
+      "Tones are conventionally transcribed with the five-level pitch scale proposed by Yuen Ren Chao, which divides a speaker's range into five levels from 1 to 5. Mandarin is described as 55 for the high level tone, 35 for the rising tone, 214 for the dipping tone and 51 for the falling tone. Beyond such pitch values, analysts distinguish contour types (level, rising, falling, falling-rising) and register (high, mid, low). Many African languages prefer level tones, as in the high, mid and low tones of Yoruba, whereas East Asian languages frequently use contour tones. Japanese contrasts some words by the position of a pitch fall, a system often called pitch accent."
+     ]
+    },
+    {
+     "h": "类型与分布",
+     "hEn": "Types and Distribution",
+     "p": [
+      "从功能看，声调语言可分为曲拱调语言与平调语言；从承载单位看，可区分音节调与词调。汉藏语系、苗瑶语系、壮侗语系以及尼日尔-刚果语系、亚非语系的许多语言都使用声调，例如汉语、越南语、泰语、约鲁巴语和豪萨语；印欧语系、乌拉尔语系则多用重音而非声调区别词义。声调与重音并非截然对立，日语、瑞典语、挪威语、塞尔维亚-克罗地亚语等使用音调重音，兼具两类特征。声调还可在语法层面起作用，如西非一些语言用声调标记时态。"
+     ],
+     "pEn": [
+      "Functionally, tone languages may be divided into contour-tone and level-tone systems; by domain, tones may attach to syllables or to whole words. Tone is widespread in Sino-Tibetan, Hmong-Mien, Tai-Kadai, Niger-Congo and Afroasiatic languages, for instance Mandarin, Vietnamese, Thai, Yoruba and Hausa, whereas Indo-European and Uralic languages usually exploit stress rather than tone for lexical contrast. The two categories are not sharply opposed: Japanese, Swedish, Norwegian and Serbo-Croatian use pitch accent, combining properties of both. Tone can also be grammatical, as when some West African languages mark tense by tone."
+     ]
+    },
+    {
+     "h": "起源与演变",
+     "hEn": "Tonogenesis and Historical Change",
+     "p": [
+      "声调的产生（tonogenesis）常与声母辅音特征的丢失有关。当清浊对立消失时，原本由辅音带音引起的音高差异被重新解释为音位对立，声调由此获得区别意义的功能。汉语史上浊上变去、入派三声等变化都与声母清浊及韵尾类型相关；越南语、泰语的声调系统也被认为源于早期韵尾和声母特征的消失。声调系统还处于动态演变之中，如普通话两个上声相连时前字变阳平，你好 nǐ hǎo 实际读作 ní hǎo。"
+     ],
+     "pEn": [
+      "The emergence of tone, or tonogenesis, is often linked to the loss or merger of consonantal features. When a voicing contrast disappears, the pitch differences originally caused by voiced initials are reinterpreted as phonological contrasts, and tone becomes lexically distinctive. In the history of Chinese, changes such as the merging of the rising tone into the departing tone and the redistribution of entering-tone syllables are connected with initial voicing and coda type; the tonal systems of Vietnamese and Thai are similarly thought to derive from lost laryngeal and coda features. Tonal systems also remain dynamic, as in Mandarin tone sandhi, where 你好 nǐ hǎo is pronounced ní hǎo."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "声调",
+     "tEn": "Tone",
+     "d": "附着于音节、能够区别词或语素意义的音高对立，是声调语言的音系单位。",
+     "dEn": "A pitch contrast on a syllable that distinguishes lexical meaning in tone languages."
+    },
+    {
+     "t": "调值",
+     "tEn": "Pitch value",
+     "d": "用五度制数字记录的具体音高，如普通话阴平为55、去声为51。",
+     "dEn": "The concrete pitch recorded on the five-level scale, e.g. Mandarin 55 and 51."
+    },
+    {
+     "t": "调型",
+     "tEn": "Contour",
+     "d": "音高随时间变化形成的模式，分平调、升调、降调与降升调等。",
+     "dEn": "The shape of pitch movement over time, such as level, rising or falling."
+    },
+    {
+     "t": "调域",
+     "tEn": "Register",
+     "d": "说话人音高范围内的相对高度层级，通常分高、中、低三级。",
+     "dEn": "A relative pitch level within the speaker's range, typically high, mid or low."
+    },
+    {
+     "t": "连读变调",
+     "tEn": "Tone sandhi",
+     "d": "连续发音时相邻声调互相影响而发生的调值改变，如普通话上声连读。",
+     "dEn": "A change in pitch value caused by the influence of an adjacent tone in connected speech."
+    },
+    {
+     "t": "声调语言",
+     "tEn": "Tone language",
+     "d": "以声调作为区别词义手段的语言，如汉语、泰语与约鲁巴语。",
+     "dEn": "A language that uses tone lexically, such as Mandarin, Thai or Yoruba."
+    },
+    {
+     "t": "音调重音",
+     "tEn": "Pitch accent",
+     "d": "以音高落点位置区别词形的重音类型，见于日语、瑞典语等。",
+     "dEn": "A system in which the location of a pitch fall distinguishes word forms."
+    },
+    {
+     "t": "产生声调",
+     "tEn": "Tonogenesis",
+     "d": "声调因辅音清浊等特征的丢失而历史地产生并音位化的过程。",
+     "dEn": "The historical emergence of tones from the loss of consonantal features."
+    }
+   ],
+   "related": [
+    "intonation",
+    "syllable",
+    "phoneme",
+    "sino-tibetan",
+    "distinctive-feature"
+   ],
+   "sources": [
+    "Wikipedia, \"Tone (linguistics)\", https://en.wikipedia.org/wiki/Tone_(linguistics)",
+    "Yip, Tone, Cambridge University Press, 2002",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "intonation",
+   "title": "语调",
+   "en": "Intonation",
+   "category": "concepts",
+   "tags": [
+    "韵律",
+    "音高重音",
+    "边界调",
+    "焦点",
+    "话语功能"
+   ],
+   "summary": "语调指句子层面音高的整体起伏模式，用于表达陈述、疑问等语气以及说话人的态度和情感。与词层面的声调不同，语调作用于短语和句子，常通过音高重音、短语重音与句末边界调实现。例如英语一般疑问句 Are you coming? 用上升调，陈述句 John is here. 用下降调。语调具有语用功能，可传递焦点、预设与信息结构，是韵律音系学与话语分析关注的对象。",
+   "summaryEn": "Intonation is the systematic use of pitch over a phrase or sentence to convey sentence type, information structure and speaker attitude. Unlike lexical tone, which is a property of individual words, intonation organizes whole utterances through pitch accents, phrase accents and boundary tones. English yes-no questions such as Are you coming? typically end with a rise, while statements end with a fall. Intonation is central to pragmatics because it signals focus, givenness and stance, and it is studied within prosodic phonology and discourse analysis.",
+   "sections": [
+    {
+     "h": "定义与范围",
+     "hEn": "Definition and Scope",
+     "p": [
+      "语调是说话时音高在短语和句子层面形成的系统性起伏，用来表达语气、态度和信息结构。它与声调的关键区别在于作用单位：声调依附于单个音节并区别词义，语调则跨越多个词，属于更高层级的韵律特征。语调并不只是音高的自然波动，而是由语言规约化的对立，例如同一串词用升调说出是疑问，用降调说出是陈述。语调通常与节奏、时长和响度共同构成言语的韵律组织。"
+     ],
+     "pEn": [
+      "Intonation is the systematic modulation of pitch over phrases and sentences, used to express sentence type, attitude and information structure. Its crucial difference from tone lies in domain: tone attaches to a single syllable and distinguishes lexical meaning, whereas intonation spans several words and belongs to a higher prosodic level. Intonation is not mere natural fluctuation but a conventionalized system of contrasts, so that the same string of words may be a question with a rise or a statement with a fall. Together with rhythm, duration and loudness it forms the prosodic organization of speech."
+     ]
+    },
+    {
+     "h": "形式手段与描写方法",
+     "hEn": "Formal Devices and Transcription",
+     "p": [
+      "现代研究多采用自主音段-节律理论，把语调分析为一系列高低调事件，包括音高重音、短语重音和边界调。英语的 ToBI 标注系统用 H* 表示高音高重音、L* 表示低音高重音、L- 表示中间短语重音、H% 与 L% 表示句末边界调。因此一般疑问句 Are you coming? 常标为 H* H-H%，而陈述句 John is here. 常标为 H* L-L%。除离散的音高事件之外，整体音域的高低、扩展与收窄也能表达情感和态度。"
+     ],
+     "pEn": [
+      "Modern accounts often work within autosegmental-metrical theory, analysing intonation as a sequence of tonal events: pitch accents, phrase accents and boundary tones. In the English ToBI framework, H* marks a high pitch accent, L* a low pitch accent, L- an intermediate phrase accent, and H% or L% a final boundary tone. A yes-no question such as Are you coming? is commonly transcribed as H* H-H%, while the statement John is here. is H* L-L%. Beyond discrete tonal events, the height, expansion and narrowing of the overall pitch range also carry affective meaning."
+     ]
+    },
+    {
+     "h": "功能：语气、焦点与信息结构",
+     "hEn": "Functions: Sentence Type, Focus and Information Structure",
+     "p": [
+      "语调的首要功能是区分句子的语气类型：英语的一般疑问句以升调结尾，特殊疑问句与陈述句以降调结尾。其次，语调表达信息结构，调核重音落在新信息上，例如 I bought a RED car 与 I BOUGHT a red car 的强调点不同。降升调常表示保留、犹豫或礼貌，如英语 It's possible 用降升调暗示之后还有异议。语调还承担话语组织功能，标示话轮的结束或延续，并在许多语言中区分主句与从句。"
+     ],
+     "pEn": [
+      "The primary function of intonation is to distinguish sentence types: English yes-no questions normally end in a rise, while wh-questions and statements end in a fall. It also encodes information structure, since the nuclear accent falls on the new or focused constituent, so I bought a RED car differs in focus from I BOUGHT a red car. A fall-rise often signals reservation, hesitation or politeness, as when English It's possible implies a following objection. Finally, intonation organizes discourse by marking turn completion or continuation and by distinguishing main from subordinate clauses."
+     ]
+    },
+    {
+     "h": "语言实例与类型差异",
+     "hEn": "Cross-linguistic Examples",
+     "p": [
+      "不同语言的语调手段差异明显。英语、德语等日耳曼语言主要依靠句末边界调区分问句与陈述句；普通话的疑问语气常由句末助词吗、呢承担，语调上升只是辅助手段，你去吗？与你去。的音高曲线不同，但语调并非唯一的疑问标记。法语疑问句既可用 est-ce que 也可用句末升调。在声调语言中语调与声调相互制约，例如普通话上声在句末疑问中调值常被抬高，但仍保持降升的基本轮廓。"
+     ],
+     "pEn": [
+      "Languages differ markedly in how they use intonation. Germanic languages such as English and German rely on final boundary tones to separate questions from statements, whereas Mandarin usually marks interrogation with the final particles 吗 ma and 呢 ne, so that 你去吗？ 'Are you going?' and 你去。 'You are going.' differ in pitch contour without intonation being the sole marker. French questions may use est-ce que or a final rise. In tone languages the two systems interact: a Mandarin dipping tone is raised in a question, yet its falling-rising contour remains recognizable."
+     ]
+    },
+    {
+     "h": "理论模型与争议",
+     "hEn": "Theoretical Models and Debates",
+     "p": [
+      "语调研究存在两种取向。以英国学派为代表的配置分析法把语调描写为有限的调型，如降调、升调与降升调；以 Pierrehumbert 为代表的自主音段-节律理论则把语调分解为离散的音高事件。争论焦点包括语调单位如何切分、音高重音是否具有独立地位，以及语调意义是规约化的还是由语境推导的。近年来，语调的跨语言比较、语音实验与语料库方法显著推进了对韵律与语用界面关系的认识。"
+     ],
+     "pEn": [
+      "Two broad approaches dominate intonation research. The British school describes intonation as a limited inventory of tunes such as falls, rises and fall-rises, whereas the autosegmental-metrical model associated with Pierrehumbert decomposes contours into discrete tonal events. Debates concern how intonation units are delimited, whether pitch accents have independent status, and whether intonational meaning is conventionalized or contextually inferred. Recently, cross-linguistic comparison, phonetic experimentation and corpus methods have greatly advanced understanding of the interface between prosody and pragmatics."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语调",
+     "tEn": "Intonation",
+     "d": "句子层面音高的系统性起伏，表达语气、态度与信息结构。",
+     "dEn": "The systematic use of pitch over utterances to convey meaning and attitude."
+    },
+    {
+     "t": "音高重音",
+     "tEn": "Pitch accent",
+     "d": "语调中使某音节突显的音高事件，如英语的 H* 与 L*。",
+     "dEn": "A tonal event that makes a syllable prominent within an intonation contour."
+    },
+    {
+     "t": "边界调",
+     "tEn": "Boundary tone",
+     "d": "出现在语调短语末尾、标示句末音高的调，如 H% 与 L%。",
+     "dEn": "A tone at the edge of an intonation phrase, such as H% or L%."
+    },
+    {
+     "t": "调核",
+     "tEn": "Nucleus",
+     "d": "语调单位中最后一个突出的重音，通常承载句子的焦点。",
+     "dEn": "The last prominent accent in an intonation unit, usually carrying focus."
+    },
+    {
+     "t": "自主音段-节律理论",
+     "tEn": "Autosegmental-Metrical Theory",
+     "d": "把语调分析为与文本分离的高低调事件序列的理论框架。",
+     "dEn": "A framework analysing intonation as sequences of tonal events separate from text."
+    },
+    {
+     "t": "韵律",
+     "tEn": "Prosody",
+     "d": "言语中音高、时长、响度与节奏等超音段特征的总称，是语调研究的总体领域。",
+     "dEn": "The suprasegmental features of speech, including pitch, duration, loudness and rhythm."
+    },
+    {
+     "t": "降升调",
+     "tEn": "Fall-rise",
+     "d": "先降后升的调型，常用来表示保留、犹豫或礼貌等态度与语气。",
+     "dEn": "A falling then rising tune often expressing reservation, hesitation or politeness."
+    }
+   ],
+   "related": [
+    "tone",
+    "stress",
+    "pragmatics",
+    "speech-act",
+    "discourse-analysis"
+   ],
+   "sources": [
+    "Wikipedia, \"Intonation (linguistics)\", https://en.wikipedia.org/wiki/Intonation_(linguistics)",
+    "Ladd, Intonational Phonology, Cambridge University Press, 1996",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "stress",
+   "title": "重音",
+   "en": "Stress",
+   "category": "concepts",
+   "tags": [
+    "突出",
+    "词重音",
+    "句重音",
+    "音节重量",
+    "音步"
+   ],
+   "summary": "重音指语流中某些音节因音高、时长、响度或元音音质的突出而获得的显著性，可分为词重音与句重音。词重音的位置由语言规则决定：法语固定于词末，波兰语多在倒数第二音节，英语、俄语则位置自由并具有区别词义的作用，如英语 ˈrecord（名词）与 reˈcord（动词）。重音是节律音系学的核心课题，涉及音节重量、音步结构与重音指派规则，并与语调、节奏密切相关。",
+   "summaryEn": "Stress is the prominence given to certain syllables in speech, realized acoustically by pitch, duration, loudness and vowel quality. It operates at two levels: word stress, whose position is governed by language-specific rules, and sentence stress, which highlights focused information. Word stress may be fixed, as in French or Polish, or free and lexically contrastive, as in English ˈrecord (noun) versus reˈcord (verb) and Russian му́ка 'torment' versus мука́ 'flour'. Stress is central to metrical phonology, syllable weight and rhythm.",
+   "sections": [
+    {
+     "h": "定义与语音实现",
+     "hEn": "Definition and Phonetic Realization",
+     "p": [
+      "重音是语流中某个音节相对于邻近音节获得的显著度。它的语音实现因语言而异，通常表现为音高升高或变化、时长延长、强度增大以及元音音质变得更完整，例如英语的重读元音较少弱化为央元音。国际音标用 ˈ 标主重音、ˌ 标次重音，例如 organization 记作 ˌɔːɡənaɪˈzeɪʃn。重音与声调不同，它是音节之间的相对关系，而不是附着于单一音节的固定音高模式，一个语言可以同时使用重音与语调。"
+     ],
+     "pEn": [
+      "Stress is the relative prominence that a syllable acquires in comparison with its neighbours. Its phonetic correlates vary across languages and typically include higher or changing pitch, greater duration, increased intensity and a fuller vowel quality, as when English stressed vowels resist reduction to schwa. The IPA marks primary stress with ˈ and secondary stress with ˌ, so that organization is transcribed ˌɔːɡənaɪˈzeɪʃn. Unlike tone, stress is a relational property holding between syllables rather than a fixed pitch pattern on one syllable, and a language may combine stress with intonation."
+     ]
+    },
+    {
+     "h": "词重音与句重音",
+     "hEn": "Word Stress and Sentence Stress",
+     "p": [
+      "重音可分为词重音和句重音两个层面。词重音是词条音系表征的一部分，位置固定并可区别词义，如英语 ˈimport（名词，进口）与 imˈport（动词，进口）。句重音又称对比重音或焦点重音，随语境移动，用于标示新信息，例如 I never said SHE stole my money 与 I never SAID she stole my money 的含义不同。次重音出现在较长词中节奏的次级位置，如 ˌafterˈnoon。"
+     ],
+     "pEn": [
+      "Stress operates at two levels. Word stress belongs to the lexical phonology, has a language-specific position and may distinguish meanings, as in English ˈimport (noun) versus imˈport (verb) and ˈpresent (noun) versus preˈsent (verb). Sentence stress, also called contrastive or focal stress, shifts with context to mark new information or correct an interlocutor, so I never said SHE stole my money differs from I never SAID she stole my money. Secondary stress appears at weaker rhythmic positions in longer words, as in ˌafterˈnoon."
+     ]
+    },
+    {
+     "h": "重音位置与语言类型",
+     "hEn": "Stress Placement and Language Types",
+     "p": [
+      "按位置可否预测，词重音分为固定重音与自由重音。法语重音一般落在词末音节，捷克语、匈牙利语和芬兰语落在首音节，波兰语通常落在倒数第二音节。自由重音的位置由词条规定，常具有区别意义的功能，如俄语 му́ка（痛苦）与 мука́（面粉）、西班牙语 término（术语）与 terminó（他结束了）。英语重音受词类、词缀和音节重量影响，如 ˈphotograph、phoˈtographer、photoˈgraphic 中重音随派生移动。"
+     ],
+     "pEn": [
+      "Word stress may be fixed or free. French stress generally falls on the final syllable, Czech, Hungarian and Finnish on the first, and Polish usually on the penultimate. Free stress is specified lexically or derived by rule and can be contrastive, as in Russian му́ка 'torment' versus мука́ 'flour' and Spanish término 'term', termino 'I finish' and terminó 'he finished'. English stress is sensitive to word class, affixation and syllable weight, so the accent shifts in ˈphotograph, phoˈtographer and photoˈgraphic."
+     ]
+    },
+    {
+     "h": "音节重量与节律结构",
+     "hEn": "Syllable Weight and Metrical Structure",
+     "p": [
+      "节律音系学把重音分析为音节组成音步的层级结构，重音落在音步的中心位置。音节重量是关键概念：含长元音或元音加辅音韵尾的重音节更容易吸引重音，拉丁语重音落在倒数第二音节的规则便以此为基础，若该音节为轻音节则重音前移。语言据此可分为重音敏感型与重音固定型。汉语的相关现象是轻声，如东西 dōngxi（物品）与东西 dōngxī（东方与西方）的重音与调值不同。"
+     ],
+     "pEn": [
+      "Metrical phonology analyses stress as a hierarchical structure in which syllables are grouped into feet, with the accent placed at the head of each foot. Syllable weight is a key notion: heavy syllables containing a long vowel or a closed coda attract stress more readily, the principle behind the Latin penultimate stress rule, under which the accent falls on the penult unless that syllable is light. Languages thus differ in whether stress assignment is weight-sensitive. In Mandarin the relevant phenomenon is the neutral tone, as in 东西 dōngxi 'thing' versus 东西 dōngxī 'east and west'."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "词重音",
+     "tEn": "Word stress",
+     "d": "词条音系表征中位置固定的重音，可区别词义或标示词的边界。",
+     "dEn": "Lexically specified prominence whose position may be fixed or contrastive."
+    },
+    {
+     "t": "句重音",
+     "tEn": "Sentence stress",
+     "d": "随语境移动、标示焦点或新信息的重音，又称对比重音。",
+     "dEn": "Context-dependent prominence marking focus or new information in an utterance."
+    },
+    {
+     "t": "固定重音",
+     "tEn": "Fixed stress",
+     "d": "位置可由规则预测的重音，如法语在词末、匈牙利语在首音节。",
+     "dEn": "Stress whose position is predictable by rule, as in French or Hungarian."
+    },
+    {
+     "t": "自由重音",
+     "tEn": "Free stress",
+     "d": "位置不能由一般规则预测、须逐词规定的重音，如俄语与英语的词重音。",
+     "dEn": "Stress whose position is lexically specified rather than predictable by rule."
+    },
+    {
+     "t": "音节重量",
+     "tEn": "Syllable weight",
+     "d": "音节吸引重音的能力，重音节通常含长元音或辅音韵尾。",
+     "dEn": "The property of a syllable, often with a long vowel or coda, to attract stress."
+    },
+    {
+     "t": "音步",
+     "tEn": "Foot",
+     "d": "节律结构中由一个重读音节及其相邻轻读音节组成的单位。",
+     "dEn": "A metrical unit consisting of a stressed syllable and adjacent weak syllables."
+    },
+    {
+     "t": "轻声",
+     "tEn": "Neutral tone",
+     "d": "汉语中失去原有调值、读得又短又轻的音节，如东西 dōngxi。",
+     "dEn": "A weakened, toneless syllable in Mandarin, as in 东西 dōngxi 'thing'."
+    },
+    {
+     "t": "次重音",
+     "tEn": "Secondary stress",
+     "d": "弱于主重音的次级突出，如 ˌafterˈnoon 的首音节。",
+     "dEn": "A weaker prominence than primary stress, as in the first syllable of ˌafterˈnoon."
+    }
+   ],
+   "related": [
+    "tone",
+    "intonation",
+    "syllable",
+    "phonology",
+    "phonetics"
+   ],
+   "sources": [
+    "Wikipedia, \"Stress (linguistics)\", https://en.wikipedia.org/wiki/Stress_(linguistics)",
+    "Hayes, Metrical Stress Theory, University of Chicago Press, 1995",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

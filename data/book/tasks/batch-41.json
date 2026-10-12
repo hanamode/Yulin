@@ -1,0 +1,25 @@
+{
+ "batch": 41,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-41.json",
+ "sections": [
+  {
+   "id": "part-008-chapter-8-pragmatics",
+   "title": "Chapter 8: Pragmatics",
+   "src": "data/book/src/part-008-chapter-8-pragmatics.txt",
+   "chars": 2486
+  },
+  {
+   "id": "chapter-089-slug-8-1-at-issue-vs-non-at-issue-meaning",
+   "title": "8.1 At-issue vs. non-at-issue meaning",
+   "src": "data/book/src/chapter-089-slug-8-1-at-issue-vs-non-at-issue-meaning.txt",
+   "chars": 7787
+  },
+  {
+   "id": "chapter-090-slug-8-2-cross-community-differences-in-discourse",
+   "title": "8.2 Cross-community differences in discourse",
+   "src": "data/book/src/chapter-090-slug-8-2-cross-community-differences-in-discourse.txt",
+   "chars": 3923
+  }
+ ]
+}

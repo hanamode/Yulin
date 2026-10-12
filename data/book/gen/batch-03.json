@@ -1,0 +1,82 @@
+{
+ "batch": 3,
+ "sections": {
+  "front-matter-003-acknowledgements": {
+   "title": {
+    "en": "Acknowledgements",
+    "zh": "致谢"
+   },
+   "summary": {
+    "en": "Essentials of Linguistics, 2nd Edition was funded by the Government of Ontario through eCampusOntario's support of the Virtual Learning Strategy. The book is the work of a large team of authors and an even larger team of supporters, among them fellow TiLCoP members, language experts, reviewers, an artist, and an accessibility adviser. The authors thank their linguistics students, past and present, for inspiring them to strive for excellence and justice in teaching linguistics.",
+    "zh": "《语言学基础》第二版由安大略省政府出资，并通过 eCampusOntario 对虚拟学习战略的支持得以完成。全书由人数众多的作者团队撰写，更有规模更大的支持者群体参与，包括 TiLCoP 同仁、语言专家、审阅者、美术设计者与无障碍设计顾问。作者最后感谢历届语言学学生，是他们激励作者在语言学教学中追求卓越与公正。"
+   },
+   "points": [
+    {
+     "en": "Funding comes from the Government of Ontario through eCampusOntario's support of the Virtual Learning Strategy.",
+     "zh": "本项目由安大略省政府出资，并借助 eCampusOntario 对虚拟学习战略的支持得以完成。"
+    },
+    {
+     "en": "Fellow TiLCoP members Daniel Currie Hall, Liisa Duncan, Martin Kohlberger, and Tim Mills offered pedagogical insight and wise counsel.",
+     "zh": "TiLCoP 同仁 Daniel Currie Hall、Liisa Duncan、Martin Kohlberger 与 Tim Mills 提供了教学见解与宝贵建议。"
+    },
+    {
+     "en": "Language experts Chantale Cenerini, Rae Anne Claxton, Mary Ann Corbiere, and David Kanatawakhon-Maracle made the conversations in Chapter 9 possible.",
+     "zh": "第九章的对话内容得益于语言专家 Chantale Cenerini、Rae Anne Claxton、Mary Ann Corbiere 与 David Kanatawakhon-Maracle 的慷慨与深厚智慧。"
+    },
+    {
+     "en": "Thoughtful reviews and feedback from many colleagues allowed the authors to make substantial improvements to their initial drafts.",
+     "zh": "众多同事的认真审阅与反馈，使作者得以对初稿作出大幅改进。"
+    },
+    {
+     "en": "Aileen Lin created artwork, David Wiesblatt recorded the ASL video examples, and Bartłomiej Czaplicki and Deepam Patel created audio.",
+     "zh": "Aileen Lin 负责美术设计，David Wiesblatt 录制了美国手语视频示例，Bartłomiej Czaplicki 与 Deepam Patel 制作了音频。"
+    },
+    {
+     "en": "Above all, the authors thank all their linguistics students, past and present, for pushing them toward excellence and justice.",
+     "zh": "最重要的是，作者感谢所有过去与现在的语言学学生，是他们促使作者在教学上追求卓越与公正。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Virtual Learning Strategy",
+     "zh": "虚拟学习战略",
+     "defEn": "An eCampusOntario programme that supported the creation of this open textbook.",
+     "defZh": "eCampusOntario 支持本项目等虚拟学习资源建设的资助计划。"
+    },
+    {
+     "en": "TiLCoP",
+     "zh": "TiLCoP（作者所在的语言学教师同仁团体）",
+     "defEn": "The group of linguistics teachers and researchers to which the authors' colleagues belong.",
+     "defZh": "作者的同仁所属的语言学教师与研究者团体，他们为本书提供了教学见解与建议。"
+    },
+    {
+     "en": "American Sign Language (ASL)",
+     "zh": "美国手语",
+     "defEn": "The sign language used in the video examples recorded for the book.",
+     "defZh": "本书配套视频示例中使用的手语，这些示例由 David Wiesblatt 录制。"
+    },
+    {
+     "en": "accessible design",
+     "zh": "无障碍设计",
+     "defEn": "Design that lets learners with disabilities use the materials fully.",
+     "defZh": "指使有障碍的学习者也能充分使用教材内容的设计方式与相关建议。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Essentials of Linguistics, 2nd Edition exists because the Government of Ontario funded the project and because eCampusOntario supported it through the Virtual Learning Strategy; readers who want to know more about that strategy can visit the website given in the book. The volume itself is the work of a large team of authors and an even larger team of supporters, whose contributions made the result immeasurably better.",
+     "zh": "《语言学基础》第二版之所以能够问世，是因为安大略省政府为本项目提供了资助，并通过 eCampusOntario 的虚拟学习战略给予支持；想进一步了解该战略的读者，可以访问书中给出的网站。这部教材由人数众多的作者团队撰写，而支持者队伍更加庞大，正是他们的贡献使成果好得难以估量。"
+    },
+    {
+     "en": "Colleagues from TiLCoP — Daniel Currie Hall, Liisa Duncan, Martin Kohlberger, and Tim Mills — shared the pedagogical insight and wise counsel drawn from their experience as teachers and researchers of linguistics, and the many conversations with them enriched the work. The conversations in Chapter 9: Reclaiming Indigenous Languages owe their existence to the generosity and deep wisdom of language experts Chantale Cenerini, Rae Anne Claxton, Mary Ann Corbiere, and David Kanatawakhon-Maracle. Thoughtful reviews and feedback from many colleagues also allowed the authors to make substantial improvements to their initial drafts.",
+     "zh": "来自 TiLCoP 的同仁 Daniel Currie Hall、Liisa Duncan、Martin Kohlberger 与 Tim Mills 依据其作为语言学教师与研究者的经验，提供了教学见解与明智建议，作者与他们之间的多次交谈使全书内容更加充实。第九章“重拾原住民语言”中的对话，则要归功于语言专家 Chantale Cenerini、Rae Anne Claxton、Mary Ann Corbiere 与 David Kanatawakhon-Maracle 的慷慨与深厚智慧。此外，众多同事的认真审阅与反馈，也使作者得以对初稿作出大幅改进。"
+    },
+    {
+     "en": "Many hands produced the book's supporting materials: Aileen Lin created the artwork, David Wiesblatt recorded the ASL video examples, and Bartłomiej Czaplicki and Deepam Patel created the audio. Bianca James and Tata Ruffle administered the grant funds in McMaster's Department of Linguistics and Languages, and Kate Brown, Accessibility Program Manager at McMaster, advised the team on accessible design. For all this work the authors are grateful. Most of all, however, they thank their linguistics students, past and present, for inspiring them to strive for excellence and justice in teaching linguistics.",
+     "zh": "教材的配套材料同样出自许多人之手：Aileen Lin 创作美术作品，David Wiesblatt 录制美国手语视频示例，Bartłomiej Czaplicki 与 Deepam Patel 制作音频。Bianca James 与 Tata Ruffle 在麦克马斯特大学语言学与语言系负责管理资助经费，该校无障碍项目主管 Kate Brown 则就无障碍设计提供了建议。作者对所有这些工作心怀感激。而最令他们感谢的，是过去与现在的语言学学生，正是这些学生激励他们在语言学教学中不断追求卓越与公正。"
+    }
+   ]
+  }
+ }
+}

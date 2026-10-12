@@ -1,0 +1,205 @@
+# Table Of Contents
+
+Contents
+
+- Accessibility Statement
+- About the Authors
+- Acknowledgements
+- A Note to Instructors
+- Revisions
+- Chapter 1: Human Language and Language Science
+- 1.1 What even is language?
+- 1.2 What grammars are and aren't
+- 1.3 Studying language scientifically
+- 1.4 Thinking about standards and “proper” grammar
+- 1.5 Doing harm with language science
+- 1.6 Doing good with language science
+- 1.7 Do ChatBots have Language?
+- 1.8 How do ChatBots Synthesize Sentences?
+- 1.9 Exercise your linguistics skills
+- Chapter 2: Language, Power, and Privilege
+- 2.1 Language and identity
+- 2.2 Language and offence
+- 2.3 Derogation, toxicity, and power imbalances
+- 2.4 The power of names
+- 2.5 Pronouns, language change, and the grammar police
+- 2.6 Linguistic law enforcement
+- 2.7 Legally enshrined harms
+- 2.8 Exercise your linguistics skills
+- Chapter 3: Phonetics
+- 3.1 Modality
+- 3.2 Speech articulators
+- 3.3 Describing consonants: Place and phonation
+- 3.4 Describing consonants: Manner
+- 3.5 Describing vowels
+- 3.6 The International Phonetic Alphabet
+- 3.7 Signed language articulators
+- 3.8 Describing signs
+- 3.9 Signed language notation
+- 3.10 Syllables
+- 3.11 Stress
+- 3.12 Tone and intonation
+- Chapter 4: Phonology
+- 4.1 Phonemes and allophones
+- 4.2 Phonotactics and natural classes
+- 4.3 Contrastive distribution and minimal pairs
+- 4.4 Complementary distribution
+- 4.5 Phonemic analysis
+- 4.6 Another example of phonemic analysis
+- 4.7 Phonological rules
+- 4.8 Phonological derivations
+- 4.9 Types of phonological rules
+- 4.10 Signed language phonology
+- Chapter 5: Morphology
+- 5.1 What is morphology?
+- 5.2 Roots, bases, and affixes
+- 5.3 Morphology beyond affixes
+- 5.4 Allomorphy
+- 5.5 Lexical categories
+- 5.6 Derivational morphology
+- 5.7 Inflectional morphology
+- 5.8 Compounding
+- 5.9 Structural ambiguity in morphology
+- 5.10 How to draw morphological trees
+- 5.11 How to solve morphology problems
+- 5.12 Exercise your linguistics skills
+- Chapter 6: Syntax
+- 6.1 Syntactic knowledge and grammaticality judgements
+- 6.2 Word order
+- 6.3 Structure within the sentence: Phrases, heads, and selection
+- 6.4 Identifying phrases: Constituency tests
+- 6.5 Functional categories
+- 6.6 Clausal embedding
+- 6.7 Main clause Yes-No questions
+- 6.8 Main clause content questions
+- 6.9 Embedded content questions and relative clauses
+- 6.10 Arguments and thematic roles
+- 6.11 Changing argument structure: Causatives and passives
+- 6.12 Interim summary
+- 6.13 From constituency to tree diagrams
+- 6.14 Trees: Introducing X-bar theory
+- 6.15 Trees: Sentences as TPs
+- 6.16 Trees: Modifiers as adjuncts
+- 6.17 Trees: Structural ambiguity in syntax
+- 6.18 Trees: Embedded clauses
+- 6.19 Trees: Movement
+- 6.20 Trees: Movement beyond questions
+- 6.21 Trees: Summary
+- 6.22 Exercise your linguistics skills.
+- Chapter 7: Semantics
+- 7.1 Linguistic meaning
+- 7.2 Compositionality: Why not just syntax?
+- 7.3 What does this sentence "mean"? Entailments vs. implicatures
+- 7.4 The mental lexicon
+- 7.5 The nature of lexical meaning
+- 7.6 Events and thematic roles
+- 7.7 Countability
+- 7.8 Individual- vs. stage-level predicates
+- 7.9 Degrees
+- 7.10 Why not the dictionary?
+- 7.11 Denotation
+- 7.12 Introduction to set theory
+- 7.13 Negative polarity items
+- 7.14 Summary
+- 7.15 Exercise your linguistics skills
+- Chapter 8: Pragmatics
+- 8.1 At-issue vs. non-at-issue meaning
+- 8.2 Cross-community differences in discourse
+- 8.3 Semantics and pragmatics in the legal domain
+- 8.4 Conversational implicatures
+- 8.5 The Cooperative Principle
+- 8.6 How inferences arise, and neurodiversity in inference making
+- 8.7 Violating vs. flouting a maxim
+- 8.8 More about the Cooperative Principle
+- 8.9 Illocutionary meaning
+- 8.10 Thinking about illocutionary meaning compositionally
+- 8.11 What is a context?
+- 8.12 Assertion
+- 8.13 Question
+- 8.14 Analysing meaning dynamically
+- 8.15 Summary (and further questions to consider)
+- 8.16 Exercise your linguistics skills
+- Chapter 9: Reclaiming Indigenous Languages
+- 9.1 Preserving Mohawk
+David Kanatawakhon-Maracle
+- 9.2 Learning Mohawk
+David Kanatawakhon-Maracle
+- 9.3 Mohawk culture and language
+David Kanatawakhon-Maracle
+- 9.4 Creating materials for teaching Mohawk
+David Kanatawakhon-Maracle
+- 9.5 Speaking Mohawk and reconciliation
+David Kanatawakhon-Maracle
+- 9.6 One view on the future of Indigenous languages
+David Kanatawakhon-Maracle
+- 9.7 Reclaiming Michif
+Chantale Cenerini and Martin Kohlberger
+- 9.8 Reclaiming Hul’q’umi’num’
+Rae Anne Claxton
+- 9.9 Growing up speaking Nishnaabemwin
+Mary Ann Corbiere
+- 9.10 Learning Nishnaabemwin at University
+Mary Ann Corbiere
+- 9.11 Resources for teaching and learning Nishnaabemwin
+Mary Ann Corbiere
+- Chapter 10: Language Variation and Change
+- 10.1 What is variationist sociolinguistics?
+- 10.2 Language varies
+- 10.3 Language changes
+- 10.4 Language conveys more than semantic meaning
+- 10.5 Variationist methods and concepts
+- 10.6 Sociolinguistic correlations: Place
+- 10.7 Sociolinguistic correlations: Social status
+- 10.8 Sociolinguistic correlations: Gender
+- 10.9 Sociolinguistic correlations: Ethnicity
+- 10.10 Three waves of sociolinguistics
+- 10.11 Summary
+- 10.12 Exercise Your Linguistics Skills
+- Chapter 11: Child Language Acquisition
+- 11.1 Tiny, powerful language learners
+- 11.2 When does language learning start?
+- 11.3 Phonemic contrast
+- 11.4 Early language production
+- 11.5 The Language environment and the so-called word gap
+- 11.6 Understanding word combinations
+- 11.7 Syntax in early utterances
+- 11.8. Developing word meanings
+- 11.9 Growing up bilingual (or multilingual!)
+- 11.10 Language milestones in the first two years
+- 11.11 Exercise your linguistics skills
+- Chapter 12: Adult Language Learning
+- 12.1 Adults are not children
+- 12.2 Motivations for adult language learners
+- 12.3 Gaining proficiency
+- 12.4 Cognitive processes in language learning
+- 12.5 Learning a New Modality
+- 12.6 Learning Phonetics and Phonotactics in a Later Language
+- 12.7 Learning Phonemes and Allophones in a Later Language
+- 12.9 Exercise your linguistics skills
+- [In progress] Chapter 13: Psycholinguistics and Neurolinguistics
+- 13.1 The mind makes language
+- 13.2 Evidence for phonemes as mental categories
+- 13.3 Evidence for language-specific phonology
+- 13.4 Evidence for ‘top-down’ effects of word knowledge on perception
+- [in progress] Chapter 14: Historical Linguistics
+- 14.1 Why do languages change?
+- 14.2 Lexical change
+- 14.3 Phonological change
+- 14.4 Morphological change
+- 14.5 Syntactic change
+- 14.6 Semantic change
+- 14.8 Reconstructing the past
+- 14.9 Case study: Reconstructing Proto-Chinese
+- Chapter 15: Language Diversity
+- Appendix 1: PSRs and Flat Tree Structures
+- A1.1 Phrase Structure Rules
+- A1.2 Phrase Structure Rules in Other Languages
+- A1.3 Properties of PSR Trees
+- A1.4 Structural Ambiguity
+- A1.5 Head movement in yes-no questions
+- A1.6 Phrasal movement in wh-questions
+- A1.7 Draw a Tree Step-by-Step
+- Appendix 2: A history of linguistics
+- ARCHIVE
+- Phonemic Restoration
+- Check Yourself Questions

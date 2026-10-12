@@ -1,0 +1,13 @@
+{
+ "batch": 72,
+ "chapter": "Phonemic Restoration",
+ "out": "data/book/gen/batch-72.json",
+ "sections": [
+  {
+   "id": "part-019-phonemic-restoration",
+   "title": "Phonemic Restoration",
+   "src": "data/book/src/part-019-phonemic-restoration.txt",
+   "chars": 5520
+  }
+ ]
+}

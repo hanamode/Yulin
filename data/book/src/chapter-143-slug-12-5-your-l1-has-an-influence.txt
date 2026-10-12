@@ -1,0 +1,37 @@
+# 12.5 Learning a New Modality
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2639#oembed-1
+One of the biggest differences between first language learning and later language learning is that, when you start learning a language as an adult, you already know at least one other language! The mental grammar of your L1 can influence the mental grammar that you’re developing in your later language: this is called transfer (Weinreich, 1953). If the grammar of your L1 includes a structure that’s similar to your later language, your learning might be facilitated by positive transfer: your mind can transfer that part of your L1 grammar and apply it to your later language.
+But if the structures in the grammar that you’re learning are different from those in your L1, then you might experience negative transfer (also known as interference). In this case, the grammatical knowledge from your L1 could make it more difficult to learn the structures of your new language. And of course, you might experience both positive and negative transfer to your new language from various elements of your L1 grammar.
+Suppose the new language you’re learning also has a new modality. Maybe your L1 is spoken and the new language you’re learning is signed. You might think there wouldn’t be much transfer from one grammar to the other, but there’s evidence that, for adult learners of signed language, iconity can have both positive and negative transfer effects in their developing grammar.
+
+## Iconicity
+
+A word’s iconicity has to do with the similarity between the form and the meaning of a word.
+For a lot of words, the relationship between form and meaning is entirely arbitrary. For example, the word for the vegetable that’s called onion [ʌnjən] in English is Zwiebel [tsvibəl] in German and κρεμμύδι [kɾɛmydi] in Greek. There’s nothing particularly oniony about the spoken forms of any of those three words: the connection between the sounds and the meaning is arbitrary.
+But some words have a form that isn’t totally arbitrary; instead it has some iconic relationship with the word’s meaning. In spoken languages, we sometimes observe iconicity in the forms of words that refer to sounds. Here are some examples from Japanese (Dingemanse et al., 2015)
+
+[表格]
+| | | [koɾo] | | コロ | | a small light object rolling in a single circle | | | | [koɾokoɾo] | | コロコロ | | one or more small light objects rolling around continuously | | | | [ɡoɾo] | | ゴロ | | a large irregular object rolling in a single circle | | | | [ɡoɾogoɾo] | | ゴロゴロ | | one or more large irregular objects rolling around continuously | | |
+
+These words illustrate two elements of iconicity: the reduplication of the form iconically represents the repetition of the sound, and the the distinction between voiceless [koɾo] and voiced [ɡoɾo] represents the difference between a small, pleasant sound and a loud, rumbly noise.
+Iconic forms are more common in signed languages than in spoken languages because the visual modality allows many elements of word meaning to be represented visually (Taub, 2001). Consider, for example, the words for beard in British Sign Language (BSL), Turkish Sign Language (Türk İşaret Dili) and Icelandic Sign Language (Íslenskt táknmál). The three signs are all different from each other, but all three of them iconically represent the shape and location of a beard.
+
+## Iconicity affects signed language learning
+
+For fluent signers, high iconicity facilitates word recognition and word production in both ASL (Thompson et al. 2009) and BSL (Vinson et al. 2015). But for later learners of signed languages, the effects of iconicity are more mixed.
+In one study (Marshall & Morgan, 2015), adult learners of BSL were asked to describe scenarios where two objects changed location. (For example, at first a ball is in front of a pen, and then the ball is moved behind the pen.) These learners made plenty of mistakes when signing their descriptions, but most of their mistakes were in the handshape, which is an arbitrary component of the sign. They almost never made mistakes in the location or orientation of the signs, which iconically represent the location and orientation of the objects. So in this study, the iconicity of the location and orientation parameters facilitated the learners’ productions of phrases that referred to spatial relationships.
+On the other hand, iconicity can also interfere with adults’ learning. Ortega & Morgan (2015) asked beginner BSL learners to watch videos of individual signs then imitate each sign as accurately as possible. The researchers coded the accuracy of the learners’ productions. Unsurprisingly, the learners were less accurate at imitating signs that were more complex. But for the signs with the greatest complexity, the learners signed iconic words much less accurately than arbitrary ones. The researchers offered a couple possible explanations for this surprising result.
+Maybe the iconicity of the signs made it easier for learners to remember their meanings, so they paid less attention to the forms and were therefore less accurate in signing them. On the other hand, it’s possible that the existence of an iconic non-language gesture interfered with learning the iconic sign. For example, after seeing a video of the sign for WRITE, the learners did not imitate the BSL handshape, but instead used a gesture that imitated their handshape and movement when actually writing.
+It’s clear from these results that beginner signers are transferring some of their existing, iconic, non-language knowledge to their learning of a signed language. Sometimes that transfer facilitates their learning, and sometimes it interferes. In the next couple sections we’ll look at other ways that existing knowledge transfers to a learner’s developing grammar for their new language.
+[self-test]
+
+## References
+
+Dingemanse, M., Blasi, D. E., Lupyan, G., Christiansen, M. H., & Monaghan, P. (2015). Arbitrariness, Iconicity, and Systematicity in Language. Trends in Cognitive Sciences, 19(10), 603–615.
+Marshall, C. R., & Morgan, G. (2015). From Gesture to Sign Language: Conventionalization of Classifier Constructions by Adult Hearing Learners of British Sign Language. Topics in Cognitive Science, 7(1), 61–80.
+Taub, S. F. (2001). Language from the body iconicity and metaphor in American Sign Language. Cambridge University Press.
+Thompson, R. L., Vinson, D. P., & Vigliocco, G. (2009). The link between form and meaning in American Sign Language: Lexical processing effects. Journal of Experimental Psychology: Learning, Memory, and Cognition, 35, 550–557.
+Vinson, D., Thompson, R. L., Skinner, R., & Vigliocco, G. (2015). A faster path between meaning and form? Iconicity facilitates sign recognition and production in British Sign Language. Journal of Memory and Language, 82, 56–85.
+
+Weinreich, U. 1953. Languages in contact: Findings and Problems. New York: Linguistic Circle of New York.

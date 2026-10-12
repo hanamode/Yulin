@@ -1,0 +1,53 @@
+# A1.5 Head movement in yes-no questions
+
+Note: This is adapted from Section 6.19.
+Recall from Section 6.7 that yes-no questions are questions that can be answered with yes or no, and are formed by swapping the positions of the subject and the auxiliary, which is called subject-auxiliary inversion, as shown in (1)-(3). In these examples, the subject is in bold and the auxiliary is underlined.
+
+[表格]
+| | | (1) | | a. | | | They | | have | left. | | | | | | b. | | | Have | | they | left? | | | | (2) | | a. | | | Iryna | | is | eating cake. | | | | | | b. | | | Is | | Iryna | eating cake? | | | | (3) | | a. | | | The man with the long beard and the plaid shirt | | is | waving at you. | | | | | | b. | | | Is | | the man with the long beard and the plaid shirt | waving at you? | | |
+
+If there is no auxiliary, the auxiliary word DO is inserted, and then the auxiliary DO inverts.
+
+[表格]
+| | | (4) | | a. | | | Hari | plays the viola. | | | | | | b. | | | Hari | | does | play the viola. | | | | | | c. | | | Does | | Hari | play the viola? | | |
+
+## Subject-Aux Inversion as Head Movement
+
+Subject-auxiliary inversion reverses the order of the subject and the auxiliary. Thinking not in terms of the linear order of the subject and the auxiliary, but instead in terms of tree structure, could we state this transformation more precisely?
+The tree for They have left, an ordinary declarative clause, will be as in Figure A1.13, according to our PSRs.
+
+[图片：they-have-left-279x300.png]
+
+Figure A1.13: The tree for “They have left.”
+The structural relations in this tree encode the grammatical relations between the subject, the clause as a whole, and the predicate. Those relations should not be fundamentally different in a question. We just want to add a difference in the order of constituents, in order to mark that this is a question.
+The simplest way to change the order of the subject and the auxiliary is to move one of them. We could either move the auxiliary up and to the left, or move the subject down and to the right.
+If we think about embedded questions, these have a question complementizer above the S, if or whether.
+
+[图片：I-wonder-if-they-have-left-300x283.png]
+
+Figure A1.14: Tree of “I wonder if they have left.”
+This complementizer is in the same position that the auxiliary appears in in main clause questions: right before the subject. This gives us a way to understand subject-auxiliary inversion as movement of the auxiliary from S up and to the left, to land in C. This is illustrated in Figure A1.16.
+
+[图片：they-have-left-with-CP-288x300.png]
+
+Figure A1.15: Tree of “Have they left?” before movement.
+
+[图片：have-they-left-220x300.png]
+
+Figure A1.16: Tree of “Have they left?” after movement.
+The movement in Figure A1.16 is an example of Head Movement, which changes a tree by moving a head to the next head above it.
+
+[表格]
+| | | (5) | | | Head Movement | | | | | | | Movement of a head (X) into the next higher head position. | | |
+
+We can now restate the generalization about how Yes-No Questions are formed in English main clauses. To name an instance of head movement, you can identify the start and end points. So the movement we see in English main clause questions is called Aux-to-C movement.
+
+[表格]
+| | | (6) | | | Yes | | -No Question Formation in English | | | | | | | Yes-No Questions are formed by | moving the auxiliary in S to C. | | | |
+
+This is a derivational way of representing the relationship between a fronted auxiliary and the position it occupies in statements: we start with one tree structure and make a change to it in order to arrive at the final structure. There are other ways to represent this dependency, some of which are pursued in non-derivational approaches to syntax.
+
+## Notation for Head Movement
+
+In the history of generative linguistics, there have been several different notations used for movement. In this class, we will put angle brackets around the thing that moved like so: <thing that moved>, and draw an arrow to the position it moves to.
+There are other ways of indicating movement, which you might encounter online or in other resources. These include trace notation, where the original position of the moved element has a “trace” (written t) left in it. This can be thought of as a variable, or as the empty space left behind by the thing that moved. Trace notation won’t be used in this class, but we mention it so that you won’t be confused if you see it elsewhere.

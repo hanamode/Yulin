@@ -1,0 +1,103 @@
+{
+ "batch": 62,
+ "sections": {
+  "chapter-144-slug-12-6-learning-phonetics-and-phonotactics-in-a-later-language": {
+   "title": {"en": "12.6 Learning Phonetics and Phonotactics in a Later Language", "zh": "12.6 在后续语言中学习语音与音位配列"},
+   "summary": {
+    "en": "Adult learners already command the phonetic inventory and phonotactics of their first language, and these habits shape how they produce a later language. Unfamiliar segments tend to be replaced by familiar ones, and unfamiliar syllable shapes are repaired or avoided. Loanwords and foreign proper names show the same adaptation pressures.",
+    "zh": "成年学习者早已掌握第一语言的语音清单和音位配列，这些习惯会影响他们说后续语言的方式：不熟悉的音段容易被熟悉的音段替换，不合法的音节结构会被修补或回避。借词和外来专名的改造同样体现这种压力。"
+   },
+   "points": [
+    {"en": "Adult learners substitute segments from their L1 inventory for sounds they have not yet learned to articulate.", "zh": "成年学习者常用第一语言语音清单中的音段，替换自己尚未学会发音的音。"},
+    {"en": "Phonotactic constraints restrict which sounds may appear in which positions and which syllable structures are legal.", "zh": "音位配列制约限制哪些音能出现在哪些位置，以及哪些音节结构合法。"},
+    {"en": "When a later language violates L1 syllable structure, learners repair the word shape to fit their grammar.", "zh": "当后续语言的音节结构违反第一语言的规则时，学习者会改造词形以符合自己的语法。"},
+    {"en": "Borrowed words undergo the same adaptation: epenthesis, substitution and resyllabification reshape them.", "zh": "借词经历同样的改造：增音、替换和重新音节化都会重塑词形。"},
+    {"en": "English speakers also adapt foreign proper names to English phonotactics, sometimes by deleting an illegal consonant.", "zh": "英语使用者也会把外来专名改造成符合英语音位配列的形式，有时删除不合法的辅音。"}
+   ],
+   "terms": [
+    {"en": "phonetic inventory", "zh": "语音清单", "defEn": "The set of speech segments present in a grammar.", "defZh": "某一语法中实际存在的全部语音音段的集合。"},
+    {"en": "phonotactics", "zh": "音位配列（语音组合法）", "defEn": "Restrictions on what sounds may appear in what positions.", "defZh": "对哪些音可以出现在哪些位置以及音节结构可能性的限制。"},
+    {"en": "epenthesis", "zh": "增音", "defEn": "Inserting a segment to repair an illegal sound sequence.", "defZh": "插入一个音段，使不合法的语音序列变得合法。"},
+    {"en": "loanword", "zh": "借词", "defEn": "A word borrowed from one language into another.", "defZh": "从一种语言借入另一种语言使用的词。"},
+    {"en": "onset", "zh": "音节首", "defEn": "The consonant or consonants before the syllable nucleus.", "defZh": "位于音节韵核之前的那个或那些辅音。"},
+    {"en": "coda", "zh": "韵尾", "defEn": "The consonant or consonants after the syllable nucleus.", "defZh": "位于音节韵核之后的那个或那些辅音。"}
+   ],
+   "examples": [
+    {"text": "Baruch [baɾʊx]", "noteEn": "The Hebrew name ends in a velar fricative absent from English.", "noteZh": "这个希伯来语名字以英语所没有的软腭擦音收尾。"},
+    {"text": "Kavitha [kavit̪a]", "noteEn": "The Tamil name has a dental stop in the last syllable onset.", "noteZh": "这个泰米尔语名字的末音节首是一个齿塞音。"},
+    {"text": "lung, tank, and singer", "noteEn": "English velar nasal appears only in coda position.", "noteZh": "英语的软腭鼻音只能出现在韵尾位置。"},
+    {"text": "Nguyen [ŋwɪn]", "noteEn": "Vietnamese allows the velar nasal in onset position.", "noteZh": "越南语允许软腭鼻音出现在音节首位置。"}
+   ],
+   "body": [
+    {"en": "Speaking your first language gives you years of practice with the segments of its phonetic inventory, the set of segments present in the grammar. Most varieties of English have roughly 25 consonants and about a dozen vowels, a notably large vowel inventory that makes English vowels hard for adult learners. Other inventories differ strikingly: Hawaiian has just eight consonants and five vowels, while Adyghe has only three vowels but between 50 and 60 consonants. When learners meet a segment they have not learned to articulate, they often substitute a segment from their L1 inventory.", "zh": "说第一语言的经历让你对其语音清单中的音段进行了长年练习，语音清单即语法中实际存在的音段集合。多数英语变体大约有 25 个辅音和十来个元音，元音数量偏多，使英语元音对成年学习者格外困难。其他语言的清单差别很大：夏威夷语只有 8 个辅音和 5 个元音，而阿迪格语只有 3 个元音，辅音却多达 50 至 60 个。当学习者遇到尚未学会发音的音段时，往往用第一语言清单中的音段来替换。"},
+    {"en": "Phonotactic constraints in your L1 also shape production, because they restrict which sounds may occupy which positions and which syllable structures are possible. The velar nasal [ŋ] belongs to English but never appears in word onsets, only in codas such as lung, tank, and singer. Vietnamese also has the velar nasal, yet it is grammatical in onset position, as in the surname Nguyen [ŋwɪn]. Syllable structure is constrained too: English tolerates the complex clusters of strengths [strɛŋkθs] and also very simple syllables.", "zh": "第一语言的音位配列制约同样影响发音，因为它限制哪些音可以占据哪些位置、哪些音节结构可以成立。软腭鼻音 [ŋ] 属于英语语音清单，却从不出现在词首，只能出现在 lung、tank 和 singer 这样的韵尾中。越南语也有软腭鼻音，但它可以合法地出现在音节首位置，如姓氏 Nguyen [ŋwɪn]。音节结构也受制约：英语既容许 strengths [strɛŋkθs] 这样复杂的辅音丛，也容许非常简单的音节。"},
+    {"en": "Hawaiian shows how tight such constraints can be: a syllable may have at most one consonant in its onset, no coda consonants and no clusters. Borrowing the English word Christmas [krɪs.məs] therefore requires extensive repair. The consonant may appear only as a single onset, so [krɪ] becomes [kali], with [l] substituting for [r] and [i] for [ɪ]; the coda [s] gains a vowel and its own syllable to yield [ki]; and the [s] of the second syllable becomes another onset. The result is [kalikimaka].", "zh": "夏威夷语显示这类制约可以多么严格：一个音节的首音最多只能有一个辅音，不能有韵尾辅音，也不能有辅音丛。因此借入英语词 Christmas [krɪs.məs] 需要大量改造。辅音只能作为单个音节首出现，于是 [krɪ] 变成 [kali]，其中 [l] 替换 [r]，[i] 替换 [ɪ]；韵尾 [s] 获得元音并自成音节，成为 [ki]；第二个音节的 [s] 则成为另一个音节首。最终结果是 [kalikimaka]。"},
+    {"en": "Proper names are adapted in the same way. English speakers discussing the Polish city Gdańsk [ɡdaj̃sk] usually insert an extra [ə] between the first two consonants, since [ɡd] is not a legal English onset. When English borrows the German name Pfeiffer [pfaɪfɐ], the initial [p] is deleted instead, because [pf] cannot begin an English syllable.", "zh": "专名的改造方式与此相同。英语使用者谈到波兰城市 Gdańsk [ɡdaj̃sk] 时，通常会在前两个辅音之间插入一个 [ə]，因为 [ɡd] 不是合法的英语音节首。英语借入德语名字 Pfeiffer [pfaɪfɐ] 时，词首的 [p] 反而被删除，因为 [pf] 不能充当英语音节的起始。"}
+   ]
+  },
+  "chapter-145-slug-12-7-learning-phonemes-and-allophones-in-a-later-language": {
+   "title": {"en": "12.7 Learning Phonemes and Allophones in a Later Language", "zh": "12.7 在后续语言中学习音位与音位变体"},
+   "summary": {
+    "en": "By twelve months of age infants have established the phoneme categories of their L1, so adult learners perceive a new language through those categories. The Perceptual Assimilation Model predicts which contrasts are easy and which are hard, depending on how new sounds map onto L1 phonemes. Zulu contrasts tested with English-speaking adults support these predictions.",
+    "zh": "婴儿在十二个月大时就已建立起第一语言的音位范畴，因此成年学习者会透过这些范畴去感知新语言。感知同化模型根据新语言语音如何映射到第一语音位来预测哪些对立容易学、哪些困难。用英语成年被试所做的祖鲁语对立实验结果支持这些预测。"
+   },
+   "points": [
+    {"en": "Infants set up the phoneme categories of their L1 by about twelve months of age.", "zh": "婴儿大约在十二个月大时便已建立第一语言的音位范畴。"},
+    {"en": "Positive transfer occurs when a new contrast maps onto an existing contrast in the learner's L1.", "zh": "当新语言的对立映射到学习者第一语言已有的对立时，就产生正迁移。"},
+    {"en": "A new contrast should also be easy if the contrasting phones do not exist in the L1 at all.", "zh": "如果新语言的几个对立音素在第一语言中完全不存在，这一对立同样应当容易学习。"},
+    {"en": "Negative transfer arises when two contrasting phonemes of the later language map onto a single L1 phoneme.", "zh": "当后续语言的两个对立音位映射到第一语言的同一个音位时，就会产生负迁移。"},
+    {"en": "In the Zulu study, English listeners were highly accurate for voicing, moderately accurate for clicks and near chance for the implosive.", "zh": "在祖鲁语研究中，英语听者对清浊对立准确率很高，对搭嘴音中等，对内爆音则接近随机水平。"}
+   ],
+   "terms": [
+    {"en": "Perceptual Assimilation Model", "zh": "感知同化模型", "defEn": "A theory predicting which non-native contrasts are difficult to discriminate.", "defZh": "一种预测哪些非母语对立难以区分的理论。"},
+    {"en": "positive transfer", "zh": "正迁移", "defEn": "L1 knowledge that helps rather than hinders later learning.", "defZh": "第一语言知识对后续语言学习起促进而非阻碍作用。"},
+    {"en": "negative transfer", "zh": "负迁移", "defEn": "L1 knowledge that interferes with learning a later language.", "defZh": "第一语言知识对后续语言学习造成干扰。"},
+    {"en": "phoneme category", "zh": "音位范畴", "defEn": "A mental category grouping sounds treated as the same segment.", "defZh": "把若干听感上视为同一音段的音归为一类的心智范畴。"},
+    {"en": "lateral fricative", "zh": "边擦音", "defEn": "A fricative produced with air flowing along the sides of the tongue.", "defZh": "气流沿舌体两侧流出的擦音。"},
+    {"en": "implosive", "zh": "内爆音", "defEn": "A stop released with air flowing into the mouth rather than out.", "defZh": "除阻时气流向口内流入而非向口外流出的塞音。"}
+   ],
+   "examples": [
+    {"text": "voiced and voiceless lateral fricatives [ɬ and ɮ]", "noteEn": "Zulu fricatives whose voicing contrast English listeners mapped easily.", "noteZh": "祖鲁语中清浊相对的边擦音，英语听者能轻松映射其清浊对立。"},
+    {"text": "a dental [ǀ], an alveolar [ǃ], and a palato-alveolar [ǂ] click", "noteEn": "Three Zulu clicks that have no English counterpart at all.", "noteZh": "祖鲁语的三种搭嘴音，在英语中完全不存在对应音。"},
+    {"text": "The English adults were not much better than chance", "noteEn": "Performance on the plosive and implosive bilabial stops.", "noteZh": "英语成年人在双唇塞音与内爆音上的表现接近猜测水平。"},
+    {"text": "The English listeners were about 95% correct", "noteEn": "High accuracy for the voicing contrast between lateral fricatives.", "noteZh": "对边擦音清浊对立的准确率很高，约为 95%。"}
+   ],
+   "body": [
+    {"en": "Babies have set up the phoneme categories of their first language by the time they are only twelve months old, so by adulthood those categories are deeply embedded in the mental grammar. Psycholinguist Catherine Best proposed the Perceptual Assimilation Model, which predicts which phoneme contrasts will be hard and which will be easy for adult learners; the theory centres on the concepts of phonemes and allophones.", "zh": "婴儿在仅仅十二个月大时便已建立起第一语言的音位范畴，因此到了成年，这些范畴已深深嵌入心智语法。心理语言学家 Catherine Best 提出了感知同化模型，用以预测哪些音位对立对成年学习者困难、哪些容易；该理论的核心概念是音位和音位变体。"},
+    {"en": "Best predicts positive transfer when a contrast in the new language maps onto a contrast already present in the learner's L1, which should make it easy to learn. She also predicts ease in the case of no transfer at all: if the new language has contrastive phones that do not exist in the L1, the learner can simply establish two new phoneme categories from scratch. Negative transfer arises when two contrasting phonemes of the later language map onto a single L1 phoneme category, because the learner has spent a lifetime treating the phonetic difference as mere allophonic variation rather than a meaningful contrast.", "zh": "Best 预测，当新语言的对立映射到学习者第一语言中已有的对立时会出现正迁移，学习应当容易。她也预测完全无迁移的情形同样容易：如果新语言的对立音素在第一语言中根本不存在，学习者可以直接从零建立两个新的音位范畴。负迁移则出现在后续语言的两个对立音位映射到第一语言同一个音位范畴之时，因为学习者一生都把这种语音差异当作单纯的音位变体差异，而非有意义的对立。"},
+    {"en": "Best and her colleagues tested the theory by investigating how English-speaking adults learn Zulu contrasts. English listeners were about 95% correct at distinguishing the voiced and voiceless lateral fricatives [ɬ and ɮ], since English has many fricative pairs contrasting in voicing, so the voicing difference mapped easily onto an existing contrast. They were about 80% correct on three Zulu clicks, a dental [ǀ], an alveolar [ǃ], and a palato-alveolar [ǂ] click; English has no clicks at all, so no L1 phonology interfered.", "zh": "Best 及其同事通过考察说英语的成年人如何学习祖鲁语对立来检验该理论。英语听者区分清浊边擦音 [ɬ and ɮ] 的准确率约为 95%，因为英语中有大量以清浊相对立的擦音，清浊差异可以轻松映射到已有对立上。他们对三种祖鲁语搭嘴音——齿音 [ǀ]、齿龈音 [ǃ] 和腭龈音 [ǂ]——的准确率约为 80%；英语完全没有搭嘴音，因此没有第一语音系干扰。"},
+    {"en": "The hardest case involved two kinds of bilabial stop: a plosive similar to English [b], and an implosive [ɓ] released with air flowing into the mouth. English adults were not much better than chance at hearing this difference. These results are consistent with the Perceptual Assimilation Model, since the listeners possess only one phoneme category for voiced bilabial stops, so their mental grammar treats the implosive as an allophone of the plosive.", "zh": "最困难的情形涉及两类双唇塞音：一种是类似英语 [b] 的爆发音，另一种是除阻时气流向口内流入的内爆音 [ɓ]。英语成年人在分辨这一差异时并不比猜测好多少。这些结果与感知同化模型一致，因为听者对于浊双唇塞音只有一个音位范畴，其心智语法便把内爆音处理为爆发音的一个音位变体。"}
+   ]
+  },
+  "chapter-146-slug-12-7-exercise-your-linguistics-skills": {
+   "title": {"en": "12.9 Exercise your linguistics skills", "zh": "12.9 练习你的语言学技能"},
+   "summary": {
+    "en": "This section presents four open-ended exercises. The first two apply phonetic and phonotactic reasoning to French vowels and a German fricative contrast; the last two ask you to reflect on declarative versus procedural knowledge and on positive and negative transfer in your own language learning.",
+    "zh": "本节给出四道开放式练习。前两道把语音与音位配列的推理应用于法语元音和德语的擦音对立；后两道要求你反思陈述性知识与程序性知识的区别，以及自己语言学习中的正迁移与负迁移。"
+   },
+   "points": [
+    {"en": "Exercise 1 asks which substitutions L1 English learners of French will make for the vowels [y] and [ʏ].", "zh": "练习一要求判断以英语为第一语言的法语学习者会用哪些音替换元音 [y] 和 [ʏ]。"},
+    {"en": "Exercise 2 asks how hard it is for an L1 English speaker to learn a German fricative contrast.", "zh": "练习二询问以英语为母语者学习德语的擦音对立有多困难。"},
+    {"en": "Exercise 3 asks you to sort your L1 knowledge into declarative and procedural knowledge, then compare a later language.", "zh": "练习三要求把自己的第一语言知识分为陈述性知识与程序性知识，再与后续语言作比较。"},
+    {"en": "Exercise 4 asks you to identify which parts of your L1 grammar produced positive or negative transfer.", "zh": "练习四要求指出第一语言语法中哪些部分带来了正迁移或负迁移。"}
+   ],
+   "terms": [
+    {"en": "tense vowel", "zh": "紧元音", "defEn": "A vowel produced with relatively greater muscular tension and peripheral position.", "defZh": "发音时肌肉较紧张、舌位较靠边缘的元音。"},
+    {"en": "lax vowel", "zh": "松元音", "defEn": "A vowel produced with less muscular tension and a more central position.", "defZh": "发音时肌肉较松弛、舌位较居中的元音。"},
+    {"en": "declarative knowledge", "zh": "陈述性知识", "defEn": "Knowledge that something is the case, consciously available as facts.", "defZh": "关于事实的知识，可以有意识地以命题形式提取。"},
+    {"en": "procedural knowledge", "zh": "程序性知识", "defEn": "Knowledge of how to do something, typically used automatically.", "defZh": "关于如何做某事的知识，通常自动化地加以运用。"},
+    {"en": "negative transfer", "zh": "负迁移", "defEn": "Interference in later learning caused by earlier learned patterns.", "defZh": "先前习得的模式对后续学习造成的干扰。"}
+   ],
+   "examples": [
+    {"text": "[lʏn]", "noteEn": "A French word given as data for the lax high front rounded vowel.", "noteZh": "作为松高前圆唇元音语料给出的法语词。"},
+    {"text": "[tʀyke]", "noteEn": "A French word given for the tense high front rounded vowel.", "noteZh": "作为紧高前圆唇元音语料给出的法语词。"},
+    {"text": "the voiceless post-alveolar fricative /ʃ/", "noteEn": "The German phone said to contrast with another fricative phoneme.", "noteZh": "德语中与另一个擦音音位形成对立的清龈后擦音。"},
+    {"text": "voiceless velar fricative [x] and voiceless palatal fricative [ç]", "noteEn": "Two allophones of the German phoneme posed in Exercise 2.", "noteZh": "练习二中那个德语音位的两个音位变体。"}
+   ],
+   "body": [
+    {"en": "The first two exercises apply the phonetics and phonology of this chapter to new data. Exercise 1 supplies French words containing the tense and lax high, front, rounded vowels [y] and [ʏ], including [lʏn], [tʀʏk], [lynɛt] and [tʀyke]. Since neither vowel belongs to the English phonetic inventory, you must predict which English segments learners will substitute and justify your prediction. Exercise 2 concerns German, where the voiceless post-alveolar fricative /ʃ/ contrasts with a phoneme whose allophones are the voiceless velar fricative [x] and the voiceless palatal fricative [ç]; you must judge how difficult this contrast is for an L1 speaker of English.", "zh": "前两道练习把本章的语音学与音系学知识应用于新的语料，要求你从语音清单和音位配列的角度作出预测并说明推理过程。练习一给出含紧、松高前圆唇元音 [y] 和 [ʏ] 的法语词，包括 [lʏn]、[tʀʏk]、[lynɛt] 和 [tʀyke]，两组词分别以松元音和紧元音出现。由于这两个元音都不属于英语的语音清单，你需要预测以英语为第一语言的学习者会替换成哪些英语音段，并说明你的预测依据。练习二涉及德语，其中清龈后擦音 /ʃ/ 与另一个音位形成对立，后者的音位变体是清软腭擦音 [x] 和清硬腭擦音 [ç]；你要结合英语音系的知识，判断这一对立对以英语为母语者究竟容易还是困难，并解释得出结论的方式。"},
+    {"en": "The second pair of exercises turns to reflection on your own grammar. Exercise 3 asks you to examine your L1 mental grammar across phonetics and phonology, lexicon, morphology, syntax, semantics and pragmatics, decide which parts are declarative knowledge and which are more like procedural knowledge, and then ask whether your later-language knowledge should be classified in the same ways. Exercise 4 asks which parts of your L1 grammar produced positive transfer and which produced negative transfer, considering phonetics and phonology as well as morphology and syntax.", "zh": "后两道练习转向对自己语法的反思，不提供额外数据，而是以你自己的语言经验为对象。练习三要求你审视第一语言的心智语法，涵盖语音与音系、词汇、形态、句法、语义和语用各个层面，判断哪些部分属于可以明确陈述的陈述性知识、哪些更像自动运行的程序性知识，进而思考你在后续语言中获得的语法知识是否应以同样方式分类，还是呈现出不同的分布。练习四则要求你回顾自己学习后续语言的经历，指出第一语言语法中哪些部分带来了正迁移、哪些部分造成了负迁移，并要同时考虑语音与音系以及形态和句法这两个方面。"}
+   ]
+  }
+ }
+}

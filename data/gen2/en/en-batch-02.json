@@ -1,0 +1,276 @@
+{
+ "batch": 2,
+ "entries": {
+  "computational-linguistics": {
+   "summaryEn": "Computational linguistics applies computational and statistical methods to natural language, covering tasks such as word segmentation, part-of-speech tagging, parsing, semantic interpretation, machine translation and speech recognition. It develops systems for concrete language tasks while also using computational models to test linguistic hypotheses. Emerging at the intersection of artificial intelligence, corpus linguistics and language engineering, it is a frontier branch that is both applied and theoretical in equal measure.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope of Research",
+     "pEn": [
+      "Computational linguistics is the discipline that studies how computers can process and understand natural language, and it has a dual character, being both engineering and theory. It develops systems able to perform concrete linguistic tasks, and it also uses computational models to test linguistic hypotheses. Its theoretical sources include artificial intelligence and formal linguistics, while its applications connect to machine translation, speech recognition, information retrieval and intelligent question answering.",
+      "Typical tasks include automatic word segmentation, part-of-speech tagging, syntactic parsing, named entity recognition, semantic role labelling, machine translation, sentiment analysis and speech synthesis. Because Chinese is written without spaces between words, segmentation is the first step: 研究生命起源, for example, can be segmented as 研究/生命/起源 or as 研究生/命/起源, and statistical and semantic information must be used to resolve the ambiguity."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts and Methods",
+     "pEn": [
+      "Language models are used to estimate the probability of a word sequence; an n-gram predicts the next word from the preceding n−1 words, which is simple to implement but suffers from data sparsity and requires smoothing or back-off. Hidden Markov models and conditional random fields were long used for tagging tasks, while deep neural networks and pre-trained language models have now become the mainstream approach.",
+      "Word embeddings map words onto dense real-valued vectors, so that semantic relations can be expressed by vector arithmetic, as in king − man + woman ≈ queen. The attention mechanism and the Transformer architecture enable models to capture long-distance dependencies effectively, markedly improving the quality of machine translation and text generation and driving a deep integration of linguistics and deep learning.",
+      "System evaluation commonly uses accuracy, precision, recall and F1, while machine translation employs measures such as BLEU. Data-driven statistical methods and rule-based methods complement each other: rule-based methods are highly interpretable, statistical methods offer broad coverage, and the size and annotation quality of a corpus often directly determine system performance."
+     ]
+    },
+    {
+     "hEn": "A Brief History of Development",
+     "pEn": [
+      "In the 1950s, early attempts at machine translation, together with American structuralism and information theory, gave rise to this field; Chomsky's criticism of statistical methods once made rule-based approaches dominant. In the 1970s and 1980s, augmented transition networks and formal grammars such as LFG and HPSG were widely used in computational implementations.",
+      "In the 1990s, as corpora and computing power grew, statistical methods enjoyed a full revival, and IBM translation models and probabilistic parsers greatly improved performance. Deep learning rose in the 2010s, and after 2018 Transformer-based pre-trained models such as BERT and GPT became a general paradigm, reshaping the technical approach of almost every natural language processing task."
+     ]
+    },
+    {
+     "hEn": "Relations to Other Branches and Controversies",
+     "pEn": [
+      "Computational linguistics shares its object of study with phonology, syntax, semantics and pragmatics, and it also provides modelling and simulation tools for psycholinguistics; corpus linguistics supplies its data basis, and the boundary between the two is increasingly blurred. Speech recognition and speech synthesis, meanwhile, are closely related to experimental phonetics.",
+      "The main controversies centre on whether statistical models genuinely “understand” language, the bias and interpretability of large-scale pre-trained models, fairness for low-resource languages in technological development, and the tension between a purely engineering approach and one driven by linguistic theory. These questions keep computational linguistics permanently at the intersection of linguistics and artificial intelligence."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "corpus", "dEn": "A large annotated collection of authentic language text or speech, forming the data basis for statistical and empirical research."},
+    {"tEn": "part-of-speech tagging", "dEn": "The task of automatically assigning each word in a text its word class, such as noun or verb."},
+    {"tEn": "n-gram", "dEn": "A probabilistic language model predicting the next word from the preceding n−1 words, simple but constrained by data sparsity."},
+    {"tEn": "word embedding", "dEn": "A technique representing words as dense real-valued vectors so that semantically similar words lie close in vector space."},
+    {"tEn": "machine translation", "dEn": "The technology of automatically converting one natural language into another by computer, a classic application of computational linguistics."},
+    {"tEn": "pre-trained language model", "dEn": "A neural language model self-supervised on large-scale text and then fine-tuned for downstream tasks, such as BERT and GPT."}
+   ]
+  },
+  "semantics": {
+   "summaryEn": "Semantics is the study of linguistic meaning, examining word meaning, sentence meaning, and the relations between meaning, reference and truth. Drawing on the principle of compositionality, semantic features and logical form, it analyses the structure of meaning, and it comprises orientations such as lexical semantics, formal semantics and cognitive semantics, interacting widely with pragmatics, syntax, logic and cognitive science.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope",
+     "pEn": [
+      "Semantics studies the meaning expressed by linguistic expressions, including word meaning, phrase meaning and sentence meaning. It is adjacent to pragmatics but the division of labour differs: semantics studies the literal meaning and truth conditions of sentences, whereas pragmatics studies the speaker's intentions and inferences in concrete contexts.",
+      "The basic questions of semantics include: what meaning actually is (reference, idea or use); how word meaning composes into sentence meaning; how synonymy, antonymy, polysemy and ambiguity should be described; and how meaning relates to truth and to speaker intention. Different answers to these questions constitute different theoretical orientations."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "Sense relations are central to lexical semantics and include synonymy (父亲 and 爸爸), antonymy (大 and 小), hyponymy (动物 and 狗), and part–whole relations (手 and 手指). Semantic feature analysis decomposes word meaning into a number of features, so that 男人 can be described as [+human][+male][+adult].",
+      "The principle of compositionality holds that the meaning of a complex expression is determined jointly by the meanings of its parts and by the way they are combined, and it is the cornerstone of formal semantics. Semantic analysis must also handle ambiguity and vagueness: Chinese 他走了 can mean either that he left or that he passed away, and the boundary of 秃头 is vague.",
+      "Meaning is related to reference but is not the same as it: what the ancient Greeks called 晨星 and 昏星 both refer to Venus, yet they have different meanings. On this basis Frege distinguished sense from reference, in order to explain why two expressions for the same object have different cognitive value."
+     ]
+    },
+    {
+     "hEn": "Main Theories",
+     "pEn": [
+      "Traditional semantics was dominated by historical semantics and structural semantics; Trier proposed the theory of lexical fields, holding that word meanings define one another within a lexical field. Truth-conditional semantics was developed by Tarski, Montague and others, equating the meaning of a sentence with its conditions of truth and giving a precise formal characterisation of meaning through model theory and type logic.",
+      "Cognitive semantics, represented by Lakoff and Langacker, holds that meaning is grounded in bodily experience and image schemas; it advances prototype theory, conceptual metaphor and metonymy, frame semantics and cognitive grammar, and it criticises formal semantics for neglecting conceptualisation and subjectivity. There are also formalising approaches such as Generative Lexicon theory and Discourse Representation Theory."
+     ]
+    },
+    {
+     "hEn": "Case Studies and Controversies",
+     "pEn": [
+      "Quantifier scope is a classic object of analysis. 所有人都读了一本书 has two readings: one in which some particular book was read by everyone (∃∀), and one in which everyone read some possibly different book (∀∃). The existence of the ambiguity shows that syntactic structure constrains semantic interpretation.",
+      "Long-standing controversies in semantics include whether meaning can be fully reduced to truth conditions, whether metaphor and vague expressions can be accommodated within formal analysis, and whether the minimal units of word meaning are features or prototypes. These debates have promoted dialogue between formal semantics and cognitive semantics, and have also fostered links between semantics and psycholinguistics and computational linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "sense and reference", "dEn": "Frege's distinction: reference is the object an expression denotes, while sense is its mode of presentation or cognitive value."},
+    {"tEn": "principle of compositionality", "dEn": "The principle that the meaning of a complex expression is determined by its parts and their mode of combination."},
+    {"tEn": "lexical field", "dEn": "A structural-semantic notion: a set of semantically interrelated, mutually defining words, such as the colour terms."},
+    {"tEn": "truth conditions", "dEn": "The conditions under which a sentence is true; truth-conditional semantics equates sentence meaning with these conditions."},
+    {"tEn": "semantic feature", "dEn": "Attributes used to decompose and describe word meaning, such as [+human] or [+male], basic to lexical semantic analysis."},
+    {"tEn": "scope", "dEn": "The syntactic and semantic range bound by an operator such as a quantifier or negator; scope differences often create ambiguity."}
+   ]
+  },
+  "pragmatics": {
+   "summaryEn": "Pragmatics studies the relations between linguistic signs and their users and contexts, focusing on how speakers convey intentions beyond the literal meaning with the help of context, and how hearers infer those intentions. Its core topics include deixis, speech acts, implicature, presupposition and politeness, and it is closely connected with semantics, sociolinguistics and cognitive science.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Disciplinary Position",
+     "pEn": [
+      "Pragmatics studies the use of language in concrete communicative situations, that is, how speakers use context to convey information beyond literal meaning and how hearers infer the speaker's intention on that basis. Like semantics, it is concerned with meaning, but semantics deals mainly with the truth-conditional meaning of sentences, whereas pragmatics deals with speaker meaning and context-dependent meaning. For example, 这里真冷 describes temperature semantically, but pragmatically it is often a request for the hearer to close the window or turn on the heating.",
+      "In 1938 the American philosopher Charles Morris divided semiotics into syntax, semantics and pragmatics, providing the first disciplinary framework for pragmatics. In the 1960s and 1970s the pioneering work of Austin and Grice enabled pragmatics to develop independently of semantics. Since then pragmatics has branched into cross-cultural pragmatics, experimental pragmatics, historical pragmatics and corpus pragmatics."
+     ]
+    },
+    {
+     "hEn": "Research Topics and Basic Concepts",
+     "pEn": [
+      "The core topics of pragmatics include deixis, speech acts, implicature, presupposition, politeness and conversational structure. Deictic expressions can have their reference fixed only through context: in the Chinese sentence 我明天来这里, 我, 明天 and 这里 must be identified through the speaker, the time of speaking and the place of speaking respectively; English tense and honorifics such as Japanese いらっしゃる [iɾaɕɕaɾɯ] likewise carry contextual information.",
+      "A presupposition is a component of meaning that is taken as an established premise in an utterance and still survives negation. For example, 他的妻子是教师 and 他的妻子不是教师 both presuppose 他有妻子, so presupposition has the property of remaining constant under negation, in contrast with ordinary asserted meaning. Pragmatics also studies discourse markers, relevance, information structure, and pragmatic differences and pragmatic failure in cross-cultural communication."
+     ]
+    },
+    {
+     "hEn": "Main Theories and Representative Figures",
+     "pEn": [
+      "In How to Do Things with Words (1962), J. L. Austin proposed speech act theory, distinguishing locutionary, illocutionary and perlocutionary acts, and pointed out that an utterance such as 我宣布会议开始 is itself the performing of an action. John Searle further developed the theory, classifying illocutionary acts into five types—assertives, directives, commissives, expressives and declarations—and discussing indirect speech acts.",
+      "H. P. Grice proposed the cooperative principle together with the four maxims of quantity, quality, relation and manner, showing how conversational implicature is derived from observing or deliberately flouting the maxims. Brown and Levinson (1987) and Leech (1983) supplemented Grice's framework from the perspective of face and politeness, while relevance theory (Sperber & Wilson, 1986) attempts to explain utterance interpretation uniformly by a cognitive principle of relevance."
+     ]
+    },
+    {
+     "hEn": "Sample Analyses",
+     "pEn": [
+      "Take an English dialogue as an example: A: How was the party? B: The music was very loud. Literally, B's reply does not evaluate the party, yet by flouting the maxim of relation it conveys the implicature that the party was not satisfactory, and this implicature can be cancelled without producing a contradiction. The Chinese 你吃了吗？ is usually not a question about whether one has eaten but a conventionalised greeting, a habitual use of a speech act.",
+      "In Japanese, ちょっと難しいですね [tɕotto muzukaɕii desɯ ne] literally means 'it is a bit difficult', but in business settings it often serves as a polite refusal, embodying a negative politeness strategy. Chinese 研究研究 and 再说吧 likewise carry out a refusal through vagueness and delay. These examples show that the same communicative intention is realised by different pragmatic means in different languages, and that pragmatic strategies are markedly culture-specific."
+     ]
+    },
+    {
+     "hEn": "Research Methods and Related Branches",
+     "pEn": [
+      "Pragmatics employs introspective, corpus and experimental methods. The introspective method is used to construct typical conversational exchanges and analyse the mechanisms of inference; corpus methods use naturally occurring spoken data to tally the distribution of discourse markers and politeness strategies, such as the discourse functions of Chinese 那个 and 就是说; experimental methods use reading times, eye movements and event-related potentials (ERP) to investigate how hearers infer conversational implicature in real time.",
+      "Pragmatics and semantics together constitute two levels in the study of meaning; pragmatics shares with sociolinguistics an interest in context, identity and conversational strategies, combines with psycholinguistics and neurolinguistics to form experimental pragmatics, and widely serves second language teaching, translation studies, forensic linguistics and the design of human–computer dialogue systems. How to define the boundary between semantics and pragmatics remains a focus of debate in the field to this day."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "deixis", "dEn": "Elements whose reference can only be fixed through context, such as 我 'I', 明天 'tomorrow' and 这里 'here'."},
+    {"tEn": "speech act", "dEn": "The idea that speaking is acting; Austin distinguished locutionary, illocutionary and perlocutionary acts."},
+    {"tEn": "conversational implicature", "dEn": "A non-literal meaning a speaker conveys implicitly through observing or flouting the cooperative principle, inferable and cancellable."},
+    {"tEn": "cooperative principle", "dEn": "Grice's assumption about communication, comprising the maxims of quantity, quality, relation and manner with their sub-maxims."},
+    {"tEn": "presupposition", "dEn": "Meaning taken for granted in an utterance that remains constant under negation and questioning, as in 他有妻子."},
+    {"tEn": "face", "dEn": "The public self-image that interactants wish to maintain, divided into positive face and negative face."}
+   ]
+  },
+  "typology": {
+   "summaryEn": "Linguistic typology generalises over structural types and implicational universals through cross-linguistic comparison, asking what a language can possibly be like. It takes the world's languages as its population and asks which structures can occur and which cannot, in contrast with descriptive grammars that study a single language. Using parameters such as word order, morphology and phonology, it establishes classifications of languages and seeks to explain the functional and cognitive motivations behind universals rather than merely listing regularities.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Research Goals",
+     "pEn": [
+      "Linguistic typology is the branch that compares language structures across languages, generalises types and universals, and explains their motivations. It does not take any single language as a natural sample but treats the languages of the world as its population, asking which structures can occur and which cannot—a contrast with descriptive grammars that traditionally study only one language.",
+      "Typology and generative grammar both concern language universals, but their paths differ: generative grammar deduces universals from the deep principles of a single language, whereas typology generalises from the actual distribution of a large number of languages and often expresses universals in implicational form, for example 'if a language has SOV word order, it usually employs postpositions'."
+     ]
+    },
+    {
+     "hEn": "Word Order Types and Implicational Universals",
+     "pEn": [
+      "In 1963 Greenberg proposed 45 language universals, laying the foundation of modern typology. Taking the relative order of subject, verb and object as his parameter, he derived six logically possible orders—SVO, SOV, VSO, VOS, OVS and OSV—of which SOV and SVO are the most common and OSV extremely rare.",
+      "Word order parameters are often correlated with one another: SOV languages tend to use postpositions, to place relative clauses before nouns and to place genitives before nouns, while VO languages show the opposite tendencies. Japanese (SOV), for example, says 私の本 ('my book') with the genitive before the noun; Mandarin Chinese is SVO, but the 把 construction fronts the object, showing that word order is not monolithic.",
+      "Universals can also be divided into absolute universals and implicational universals. Absolute universals include the facts that all languages distinguish vowels from consonants and that all have a distinction between nouns and verbs. Explanations of universals involve cognitive processing, discourse function, historical accident and language contact; typology is not content with listing regularities but pursues motivational explanation."
+     ]
+    },
+    {
+     "hEn": "Morphological Types and Other Parameters",
+     "pEn": [
+      "Morphological typology classifies languages by the way morphemes combine into words: isolating languages (such as Chinese and Vietnamese) lack inflection and rely mainly on word order and function words; agglutinating languages (such as Turkish and Japanese) have clear morpheme boundaries with one form for one meaning; inflecting languages (such as Latin and Russian) may express several grammatical meanings in a single morpheme; and polysynthetic languages (such as Inuit) can incorporate several morphemes into one word.",
+      "Other parameters studied include case-marking systems, evidentiality, classifiers, tone and vowel harmony. Chinese classifiers (as in 一本书 and 三个人) have no counterpart in most Indo-European languages and are a typical phenomenon of typological interest; English nouns must distinguish singular from plural, whereas Chinese nouns are usually not obligatorily marked for number and rely on context or classifiers."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Typology relies on diversity sampling and commonly uses balanced sampling to avoid bias caused by genealogical relatedness and areal contact, for example selecting two hundred to four hundred languages stratified by language family. Sources of data include reference grammars, corpora, typological questionnaires and fieldwork, of which fieldwork is especially crucial for languages that lack description.",
+      "Quantitative typology uses large-scale databases (such as WALS) to tally the distribution and correlations of parameters, applies statistical testing to distinguish genuine implicational relations from accidental correlations, and combines with historical linguistics to trace the spread and evolution of linguistic features, making typological conclusions more testable."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "Sampling bias and data quality have long been the focus of criticism: many languages lack reliable reference grammars, and database coding may also be distorted by differences in transcription or interpretation, so that universal claims are called into question. Moreover, implicational universals describe tendencies rather than absolute laws, and exceptions always exist.",
+      "The functional-typological and formal schools disagree over the explanation of universals: the former stresses that communicative needs and cognitive processing shape linguistic structure, while the latter maintains that an innate universal grammar is the source of universals. Typological evidence is often cited by both sides at once, making this one of the enduring core debates of contemporary linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "implicational universal", "dEn": "A conditional cross-linguistic law: if a language has feature A it must also have feature B."},
+    {"tEn": "word order type", "dEn": "A classification of languages by the relative order of subject, verb and object, such as SVO, SOV or VSO."},
+    {"tEn": "isolating language", "dEn": "A language type lacking inflection and expressing grammatical relations mainly by word order and function words, e.g. Chinese."},
+    {"tEn": "agglutinating language", "dEn": "A language type whose words consist of clearly bounded, one-form-one-meaning morphemes, such as Turkish and Japanese."},
+    {"tEn": "language universal", "dEn": "A structural regularity or tendency found across languages, usually divided into absolute and implicational universals."},
+    {"tEn": "balanced sampling", "dEn": "Selecting a language sample stratified by family and area to reduce bias from genealogical relatedness and areal contact."}
+   ]
+  },
+  "phonetics": {
+   "summaryEn": "Phonetics is the discipline that studies the sounds of human language, attending to three aspects, articulation, acoustics and perception, that is, the production, transmission and reception of speech. It describes the physiological and physical properties of concrete phones, providing a foundation for phonology, language teaching and speech engineering, and is usually divided into articulatory, acoustic and auditory phonetics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Disciplinary Position",
+     "pEn": [
+      "Phonetics is the branch of linguistics that studies the sounds of human speech; its task is to describe objectively the physiological, physical and psychological properties of speech sounds and to answer the question of how people produce, transmit and perceive them. It treats speech as a measurable natural phenomenon and focuses on the concrete realisation of phones, rather than, like phonology, on how sounds contrast and combine in a particular language. Phonetics is therefore often regarded as the part of linguistics that connects with the natural sciences and is closely related to physiology, acoustics, psychology and speech engineering.",
+      "Within the branches of linguistics, phonetics and phonology form a complementary pair: the former studies the substance of speech, the latter the function of speech sounds in a particular language system. For example, the difference between [p] and [pʰ] in Mandarin Chinese falls within the scope of phonetic description, whereas whether they can distinguish 爸 [pa⁵¹] from 怕 [pʰa⁵¹] is a question for phonology to answer."
+     ]
+    },
+    {
+     "hEn": "Research Content and Branches",
+     "pEn": [
+      "According to the angle of study, phonetics is usually divided into three branches. Articulatory phonetics studies how the speech organs coordinate to produce speech sounds, examining pulmonary airflow, vocal fold vibration in the larynx, and the adjustments of the oral and nasal cavities; acoustic phonetics studies the sound-wave properties of speech, describing them quantitatively with parameters such as spectra, formants and fundamental frequency; auditory phonetics studies how listeners receive and identify speech, involving cochlear mechanisms and psychoacoustics.",
+      "Applied fields derived from these include experimental phonetics, speech engineering, speech pathology and language teaching. In speech synthesis and speech recognition, for instance, a mapping model between phones and acoustic parameters must be built; in second language teaching, learners' errors must be corrected by comparing the differences in place of articulation between the native language and the target language."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "The minimal unit of phonetic description is the phone, such as [p], [tʰ], [i] and [a]. The International Phonetic Alphabet (IPA) is a transcription system devised by the International Phonetic Association, which follows the principle of 'one sound, one symbol' and can transcribe the sounds of the world's languages with considerable precision. Different variants of the same phoneme are called allophones: English /p/, for example, is realised as unaspirated [p] in spin and as aspirated [pʰ] in pin.",
+      "Phonetic description also involves distinctive features, such as [±aspirated], [±voiced] and [±rounded], which are used to characterise the oppositions between segments. Suprasegmental features include tone, stress and intonation: the Mandarin tones 阴平 [55], 阳平 [35], 上声 [214] and 去声 [51], for instance, have pitch contours that can be verified by measuring fundamental frequency."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Traditional phonetic research relied on the trained ear, describing speech through the speaker's introspection and auditory discrimination. Modern phonetics makes wide use of experimental techniques: an electroglottograph measures vocal fold vibration, ultrasound and electromagnetic articulography observe tongue movement, and spectrographs and spectrograms analyse the energy distribution of sound waves.",
+      "Fieldwork and recording analysis are the basic methods for obtaining phonetic material from unfamiliar languages, and experimental design must control variables such as speech rate, intonation and stress so that they do not interfere with the conclusions. Data usually come from several speakers and, after annotation, segmentation and statistical testing, are used to verify hypotheses; this orientation is known as experimental phonetics."
+     ]
+    },
+    {
+     "hEn": "Relations to Other Branches",
+     "pEn": [
+      "Phonetics provides the substantive basis for phonology, and phonology in turn provides phonetics with a functional framework. Phonetic knowledge also directly serves the study of prosody in morphology and syntax: Chinese 儿化, for example, involves an interaction between phonetics and morphology. In historical linguistics, the discovery of sound change laws (such as the set of consonant correspondences described by Grimm's law) depends on precise description of the speech sounds of ancient documents and dialects.",
+      "In addition, sociolinguistics attends to social variation in speech (such as 女国音 in Beijing Mandarin), psycholinguistics and neurolinguistics study the perception and brain processing of speech, and computational linguistics builds acoustic models using phonetic parameters. Phonetics is thus a shared empirical foundation for many branches of linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "phone", "dEn": "The minimal unit of speech delimited by natural sound properties, such as [p] or [a]; not necessarily distinctive."},
+    {"tEn": "International Phonetic Alphabet", "dEn": "A transcription system devised by the International Phonetic Association, following one-sound-one-symbol, for recording speech sounds accurately."},
+    {"tEn": "speech organ", "dEn": "The physiological organs involved in producing speech, including the lungs, larynx, vocal folds, tongue, lips and soft palate."},
+    {"tEn": "formant", "dEn": "A concentration of acoustic energy produced by vocal tract resonance, usually labelled F1 or F2, correlating with vowel quality."},
+    {"tEn": "distinctive feature", "dEn": "Binary or multivalent attributes characterising segmental oppositions, such as [±aspirated] or [±voiced], basic units of phonological description."},
+    {"tEn": "coarticulation", "dEn": "The temporal overlap and mutual influence of adjacent segments' articulatory movements, as when /n/ becomes [m] in ten bikes."}
+   ]
+  },
+  "phonology": {
+   "summaryEn": "Phonology studies how speech sounds are organised into a system in a language, concerning phonemes, allophones, syllable structure and phonological rules, and examining which sound contrasts are distinctive. Treating sounds as functional units, it complements phonetics, is an important birthplace of structuralism and generative grammar, and has developed such major theories as non-linear phonology and Optimality Theory.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Research Goals",
+     "pEn": [
+      "Phonology studies the systematic organisation of speech sounds in a particular language; its core questions are which sound differences are distinctive in that language and how sounds combine into syllables, words and larger units. Unlike phonetics, which is concerned with the physical substance of speech sounds, phonology is concerned with their function and distribution, and its basic unit is the phoneme.",
+      "In English, for example, [p] and [pʰ] occur in complementary distribution (spin [spɪn] and pin [pʰɪn]) and do not distinguish meaning, so they are two variants of the same phoneme /p/; in Mandarin Chinese, by contrast, [p] and [pʰ] are in opposition, since 爸 [pa⁵¹] and 怕 [pʰa⁵¹] differ in meaning and belong to the two phonemes /p/ and /pʰ/. This shows that the establishment of phonemes depends on the particular language system, not on the absolute properties of sounds."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "A phoneme is the minimal sound unit with a meaning-distinguishing function, and an allophone is its concrete realisation in different phonetic environments, falling into the two types of complementary distribution and free variation. The minimal pair is the classic method for determining phonemic opposition: English bat and pat differ only in the initial sound yet differ in meaning, which confirms the opposition between /b/ and /p/.",
+      "Phonological rules describe the mapping from phonemes to phonetic realisations: the English plural suffix, for instance, has the three forms /s/, /z/ and /ɪz/, distributed according to the voicing and sibilance of the stem-final sound. Distinctive feature theory uses features such as [±voiced] and [±nasal] to characterise the internal structure of phonemes, providing the basis for the formalisation of rules.",
+      "Suprasegmental levels include the syllable, stress, tone and intonation. Chinese is a typical tone language, its syllables consisting of initial, final and tone; Japanese, by contrast, takes the mora as its unit, as in きって [kitte], which contains three morae—a temporal unit that constrains Japanese accent and poetic rhythm."
+     ]
+    },
+    {
+     "hEn": "Main Theories",
+     "pEn": [
+      "The modern development of phonology began with structuralism. Trubetzkoy and Jakobson of the Prague School proposed the theory of phonemic opposition and distinctive features; the American structuralists Bloomfield and Sapir emphasised distributional analysis. In 1968 Chomsky and Halle's The Sound Pattern of English formalised phonological rules as rewrite rules of the form A→B / C__D, establishing the paradigm of generative phonology.",
+      "Thereafter, non-linear phonology (autosegmental phonology, metrical phonology, feature geometry) replaced a single linear sequence with multi-tiered representations, and Optimality Theory replaced rule derivation with the ranking and violation of constraints, holding that the surface form is the optimal output of constraint interaction. These theories have been widely tested in research on Chinese tones and tone sandhi."
+     ]
+    },
+    {
+     "hEn": "Relations to Phonetics and Other Branches",
+     "pEn": [
+      "Phonology and phonetics are interdependent: phonetics provides the articulatory and acoustic description of substance, and phonology explains the function of that substance in the language system. In Chinese, for example, when two third-tone syllables are adjacent the first becomes second tone (third tone + third tone → second tone + third tone); this is a phonological rule, but its actual pitch realisation still has to be confirmed through acoustic analysis.",
+      "Phonology also extends into morphology and syntax: morphophonology deals with allomorphs, and prosodic phonology studies the interaction of stress, intonation and syntactic structure. In research on language acquisition and aphasia, whether learners can correctly apply phonological rules is likewise an important observable indicator of their linguistic competence."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "phoneme", "dEn": "The minimal sound unit with a meaning-distinguishing function in a particular language, usually an abstract set of allophones."},
+    {"tEn": "allophone", "dEn": "A phoneme's concrete realisation in a given environment, such as the aspirated [pʰ] and unaspirated [p] of English /p/."},
+    {"tEn": "minimal pair", "dEn": "Two words differing in one segment yet in meaning, such as bat and pat, used to establish phonemic contrast."},
+    {"tEn": "phonological rule", "dEn": "A rule describing how phonemes map to phonetic realisations, such as the distribution of the English plural /s/, /z/, /ɪz/."},
+    {"tEn": "distinctive feature", "dEn": "Multivalent attributes characterising segmental oppositions, such as [±voiced] or [±aspirated], the basis for analysing phonemic structure."},
+    {"tEn": "Optimality Theory", "dEn": "A phonological theory replacing rule derivation with ranked constraints, holding the surface form to be the optimal output."}
+   ]
+  }
+ }
+}

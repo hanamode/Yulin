@@ -1,0 +1,87 @@
+# 5.8 Compounding
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2337#oembed-1
+
+## Compounds: Putting roots together
+
+The last main “type” of morphology is compounding. Compounds are words built from more than one root (though they can also be built from derived words): if you find a word that contains more than one root in it, you are definitely dealing with a compound. Compounding differs from both derivation and inflection in that it doesn’t involve combinations of roots and affixes, but instead roots with roots.
+English is a language that builds compounds very freely—this is like other languages in the Germanic language family, like German and Dutch. For almost any two categories, you can find examples of compounds in English.
+- Noun-Noun compounds include: doghouse
+- website
+- basketball
+- sunflower
+- moonlight
+- beekeeper
+- heartburn
+- spaceship
+Adjective-Noun compounds include:
+- greenhouse
+- bluebird
+Verb-Noun compounds include:
+- breakwater
+Noun-Adjective compounds include:
+- trustworthy
+- watertight
+Adjective-Adjective compounds include:
+- purebred
+- kind-hearted
+- blue-green
+Noun-Verb compounds include:
+- browbeat
+- manhandle
+- sidestep
+- baby-sit
+Adjective-Verb compounds include:
+- blacklist
+
+## Compounds and Spelling
+
+In English we don’t spell compounds in a consistent way. Some compounds—typically older ones—are spelled without a space, while others are spelled with a hyphen, and many new compounds are spelled with spaces, as though they are separate words.
+We can tell that some sequences of “words” are compounds, though, in a few different ways. First of all, there is a difference in pronunciation. Compounds are always stressed (given emphasis) on their first member, while phrases (sequence of words) get stress on their last member.
+So the compounds:
+- bláckboard
+- gréenhouse
+- blúebird
+
+Are pronounced differently than the corresponding phrases with adjectives followed by nouns:
+- black bóard
+- green hóuse
+- blue bírd
+
+Another difference is in the interpretation: a blackboard need not be black, and a greenhouse usually isn’t green (though you grow green things in it).
+Finally, there’s a syntactic difference. Something we’ll see when we get to Chapter 6 is that there’s no way to string nouns together in English syntax, without connecting them with prepositions or verbs. So any time you see a string of “words” in English that all look like nouns, you have to be dealing with a compound.
+English really likes building very long compounds out of nouns, though this is something many English users associate with German. In German, unlike in English, compounds are always spelled without spaces. So you get words like the following example in (1):
+
+[表格]
+| | | (1) | | | | Donaudampfschiffahrtsgesellschaftskapitän | | | | | | | | Donau-dampf-schiffahrts-gesellschafts-kapitän | | | | | | | | “Danube steam shipping company captain” | | |
+
+The second row in (1) inserts the hyphens in this German compound so that you can see the roots more clearly—but if you look at the English translation, it actually tracks all the same nouns in the German example! English writing has just adopted the convention of writing long or novel compounds with spaces. Structurally, English compounds work just like their German counterparts.
+
+## Compounds and Headedness
+
+If compounds have more than one root in them, which root determines the category of the word?
+Most compounds—especially new compounds you might invent on the spot—have a head. The head of a compound determines its interpretation as well as its category: a sunflower (N-N) is a type of flower (interpretation) and it is a noun (category), so its head is flower; a bluebird (Adj-N) is a type of bird (interpretation), and it is a noun (category), so its head is bird.
+In English, the head of a compound is always on the right: English is a right-headed compound language.
+Compounds that have a head are called endocentric. This is the same endo– morpheme you find in endo-skeleton. An animal (like a human) with a skeleton inside of it is endoskeletal, and a compound with a head inside of it is endocentric.
+What about the compound equivalent of exo-skeletal, animals that have a carapace instead of a skeleton (like insects or crabs)? Compounds that are exocentric don’t have a head inside of them—they don’t describe either of their members.
+Some exocentric compounds don’t have an interpretive head, but still have what we might call a category head, in that the root on the right matches the category of the whole compound. For example, redhead (“person with red hair”) is often listed as an exocentric compound, because it does not describe a type of head. Similarly sabretooth is exocentric because it doesn’t describe a type of tooth. But both of these are noun-noun compounds that are themselves nouns, so their right-hand member is almost a head. A spoilsport (“person who spoils other people’s fun”) is not a type of sport, but it is still a noun.
+But other exocentric compounds don’t even have a head in this sense. For example, outcome looks like a compound of a preposition and a verb, but is a noun. Dust-up is a compound of a noun and a preposition, but is a noun. Tell-all is a compound of a verb and a determiner (all), but is an adjective.
+Finally, there is a special kind of compound usually called dvandva compounds. This term comes from Sanskrit, where dvandva means “pair”. Dvandva compounds can be thought of as “co-headed”—they can be paraphrased with an “and” between the two members. Many dvandva compounds in English involve two roots that only occur in the compound, and that mirror each other’s sounds. These are sometimes called reduplicatives.
+- zigzag
+- helter skelter
+- flip flop
+- riff raff
+- hocus pocus
+
+But we also have some other dvandva compounds:
+- bittersweet
+- secretary-treasurer
+- parent-child (as in “a parent-child bond”)
+- blue-green (and many other terms for intermediate colours)
+
+Overall, dvandva compounds are less common than other types of compounds in English.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2337#h5p-109

@@ -1,0 +1,59 @@
+# 2.3 Derogation, toxicity, and power imbalances
+
+Content Note: This section discusses swear words and the concept of slurs. A slur that is used against women is mentioned briefly.
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2651#oembed-1
+
+## Offense revisited
+
+At the beginning of this chapter, we discussed how language can be used to perform actions and construct our identity. This can be a good thing: we might use language, for example, to establish positive social relationships with people. When I went to elementary school in Japan, it was typical for my classmates to call me Taniguchi-san towards the beginning of the school year. -san is a suffix you can add to the end of names in Japanese: -san is fairly polite, but not too polite. When my classmates in elementary school started to get to know me better, they started to call me Ai-chan. That linguistic act let me know that we’re friends! -chan is a suffix for names, used for endearment. Some of my super close friends even gave me in-group exclusive nicknames like Ai-pyon (-pyon is roughly a hopping sound in Japanese; but they gave me this nickname not because I hopped a lot, but mostly because it sounded cute)! Now that linguistic act said that we were really, really good friends. In this way, language can be an act of expressing solidarity with others.
+It’s important to recognize, however, that language can do harm, too. We introduced the notion of offense in the previous section. Vulgarities
+The term vulgarity refers to expressions that involve taboo bodily references (e.g., shit, ass). The term expletive refers to expressions that are used for outbursts (e.g., damn). Some expressions can be both a vulgarity and an expletive.
+like shit can cause offense in some contexts. Offense is a kind of social and/or psychological harm that is done to discourse participants. This means that if you say shit in a spoken conversation where it is taboo, it’s the people who hear it that the harm is done to. If you sign what is shown in Figure 1 in a signed conversation where it is taboo, then it’s the people who see it that the harm is done to. The harm can range from fairly mild to more severe, depending on how offensive the expression itself is, and what context it was produced in. For example, for some people, I don’t give a damn generally may not be as offensive as I don’t give a shit. If a small Japanese child says kuso omoshire: (roughly ‘fuckin’ hilarious’) during dinner out of rebellion, that might not be as offensive as an adult saying the same thing in a room full of children.
+
+[图片：bullshit-asl-full-1024x768.png]
+
+Figure 1. American Sign Language (ASL) sign for bullshit.
+Offense can happen regardless of speaker/signer intent. Let’s say you were learning Japanese and you had no idea that kuso omoshire: was vulgar (maybe you thought it just meant ‘extremely funny’), and you say it in front of children. People who hear you can still be offended by this, regardless of your lack of malicious intent. Unintentional utterances of vulgarities are likely perceived to be less offensive than intentional ones, but nevertheless, the harm that it caused at the time of utterance cannot be undone — however small it is. It is similar to how stepping on someone’s foot does its harm, regardless of whether it was intentional or not.
+
+## Derogation
+
+Another kind of harm that language can do is derogation (or pejoration). Some linguistic expressions are derogatory (or pejorative), which means that these expressions disparage people. For example, the word jerk and asshole in English are derogatory: they express the utterer’s condemnation of the referent. Offense and derogation are not the same thing. Offense has to do with how discourse participants are affected: if you spill coffee on yourself and say “Shit!” in front of your grandmother, your grandmother may take offense upon hearing that vulgarity. However, what you have said is not derogatory towards her (or anyone); it’s not an insult towards her (or anyone) in any way in this context. So the vulgar expletive shit is offensive (in this context) but not derogatory. Speaking about taboo topics, even if you do not use vulgar terms (e.g., using more “neutral” terms to discuss bodily functions over dinner), may also be offensive but not necessarily derogatory.
+Of course, many expressions that are derogatory are also offensive. The vulgarity asshole is taboo in some contexts and therefore offensive in those contexts. It’s also derogatory because you’re putting someone down with that term.
+It is also possible for expressions to be derogatory but not offensive. This one is a little bit trickier because many derogatory things also cause offense. One example where something may be derogatory but not offensive on the surface might be coded slurs. In 2012, a police officer was fired partially because he called one baseball player a “Monday”. Monday is sometimes used as a coded racial slur. This means that for those who share the knowledge that Monday is code for certain racialised groups, they can say things like I hate Mondays to express their bigoted ideologies to each other — and the people who are targeted by the slur will be unaware of this derogation. So in this case, Monday is (secretly) derogatory, but would not cause offense without the in-group knowledge.
+
+## Slurs, toxicity, and power imbalances
+
+In summary of what we have learned so far: offense has to do with the impact that a linguistic expression has on the discourse participants, and derogation has to do with the attitude that the utterer of the linguistic expression has. Derogatory expressions like jerk, idiot, and asshole are sometimes called particularistic insults or general pejoratives. They are used to condemn a specific person (and not an entire group of people) for some specific behavior at some specific time. When you use particularistic insults, you are expressing your strong disapproval of the other person based on something they did.
+Other derogatory terms may disparage an entire group of people, rather than a particular person for a specific incident. Slurs are insults that denigrate specific marginalized groups of people. For example, femoid is a slur against women, used in certain online subcultures. Calling someone a femoid expresses the utterer’s attitude that this person is condemnable because this person is a woman. This is not a particularistic insult, because it is not the case that the utterer is expressing disapproval of this person (that happens to be a woman) for some specific incident. Rather, they are expressing disapproval of women in general, and therefore by extension disapproval of this person who is a woman.
+Slurs are powerful, highly taboo, and can cause a lot of harm. The great emotional weight of slurs arises from the power differential between the person using the slur and the person targeted by it. Where such a power differential exists, the person wielding the slur is invoking and reenacting an entire historical context of violence against the targeted group (Davis & McCready, 2020). Expressing racism without a slur (e.g., “I hate Japanese people”) and expressing racism with a slur (e.g., “She is a ___”) are both terrible things to do, but using a slur causes extra visceral emotional harm. In fact, some studies show that slurs are processed in a different part of the brain than other forms of language (Singer, 1997). This particular kind of offensive emotional power that slurs have is sometimes called the toxicity of slurs (Rappaport, 2020). As alluded to in the previous section, some slurs are so toxic that even mentioning them or accidentally using words that sound or look similar to them can do harm.
+Because power imbalance is a crucial component of a slur, insults aimed at high-status groups of people don’t have the same effect. Such an insult can be impolite or even offensive, but without the associated invocation of targeted violence, it doesn’t achieve the same level of harm that a true slur does.
+Another consequence of this understanding of slurs is the possibility to reclaim a slur as a means of empowerment, as a marker of shared identity and solidarity against oppression. For example, the word queer was long used as a slur for members of the 2SLGBTQ+ community, but in the 1990s activists and academics began to reclaim the word and use it to express queer solidarity among themselves. These days, queer is a common umbrella term for this community, and Queer Studies is a recognized area of academic study. At the same time, some members of the community who’ve been targeted by this slur are not yet ready to embrace it.
+On the other hand, some slurs have been so thoroughly rehabilitated that they’ve become mainstream. Women fighting for equal voting rights, or suffrage, were originally called suffragists. A British journalist coined the term suffragette in 1906, using the diminutive, feminine –ette ending in an attempt to insult. But the activists adopted the term themselves and it is no longer considered a slur.
+A recurring theme of this chapter and of this book is that language is about more than grammar, and words do more than just refer to literal things in the world. Slurs provide one example of how language encodes and enacts social relationships: we can use language to express our status relative to others, and we also use language to enforce other people’s status relative to ourselves. With your linguistics training in hand, you can use your metalinguistic awareness to examine some of these power relations, and maybe even to resist or correct the damage that can be wielded through language.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2651#h5p-101
+
+## References
+
+Anderson, L., & Lepore, E. (2013). What did you call me? Slurs as prohibited words setting things up. Analytic Philosophy, 54(3), 350-63.
+Bach, K. (2018). Loaded words: On the semantics and pragmatics of slurs. Bad Words: Philosophical Perspectives on Slurs, 60-76.
+Bolinger, R. J. (2017). The pragmatics of slurs. Noûs, 51(3), 439-462.
+Bolinger, R. J. (2020). Contested slurs: Delimiting the linguistic community. Grazer Philosophische Studien, 97(1), 11-30.
+Davis, C., & McCready, E. (2020). The instability of slurs. Grazer Philosophische Studien, 97(1), 63-85.
+Hess, L. F. (2019). Slurs: Semantic and pragmatic theories of meaning. The Cambridge Handbook of The Philosophy of Language.
+Jeshion, R. (2020). Pride and Prejudiced: on the Reclamation of Slurs. Grazer Philosophische Studien, 97(1), 106-137.
+Jeshion, R. (2021). Varieties of pejoratives. Routledge Handbook of Social and Political Philosophy of Language, 211-231.
+Lepore, E., & Anderson, L. (2013). Slurring words. Noûs, 47(1), 25-48.
+McCready, E., & Davis, C. (2019). An Invocational Theory of Slurs. LENLS 14, Tokyo. https://semanticsarchive.net/Archive/TdmNjdiM/mccready-davis-LENLS14.pdf
+Nunberg, G. (2018). The social life of slurs. New Work on Speech Acts, 237-295.
+⚠️ Popa-Wyatt, M. (2020). Reclamation: Taking Back Control of Words. Grazer Philosophische Studien, 97(1), 159-176.
+⚠️ Popa-Wyatt, M., Wyatt, J.L. (2018). Slurs, roles and power. Philosophical Studies, 175(11), 2879–2906.
+⚠️ Rappaport, J. (2020). Slurs and Toxicity: It’s Not about Meaning. Grazer Philosophische Studien, 97(1), 177-202.
+Saka, P. (2007). How To Think About Meaning. Dordrecht: Springer.
+Singer, C. (1997). Coprolalia and other coprophenomena. Neurologic Clinics, 15(2), 299-308.
+
+⚠️ Content note: These papers mention a highly volatile racial slur without censoring it (sometimes in a reclaimed sense, sometimes not).

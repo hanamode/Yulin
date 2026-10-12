@@ -1,0 +1,335 @@
+{
+ "batch": 6,
+ "entries": [
+  {
+   "id": "syntagmatic-paradigmatic",
+   "title": "组合关系与聚合关系",
+   "en": "Syntagmatic and Paradigmatic Relations",
+   "category": "concepts",
+   "tags": [
+    "组合关系",
+    "聚合关系",
+    "索绪尔",
+    "结构主义",
+    "语言系统"
+   ],
+   "summary": "组合关系与聚合关系是索绪尔提出的两种基本结构关系，构成语言系统的纵横两轴。组合关系指语言单位在线性序列中相互连接的关系，如汉语「吃苹果」中动词与宾语的搭配；聚合关系指在同一位置上可以互相替换的单位之间的类别关系，如「吃、喝、看」都可出现在动词位置。二者共同说明语言是一个由价值和对立构成的系统，成为结构主义语言学的核心分析框架，并深刻影响了句法学、音系学与语义学的研究。",
+   "summaryEn": "Syntagmatic and paradigmatic relations are the two fundamental axes of linguistic structure identified by Ferdinand de Saussure. Syntagmatic relations hold between units that co-occur in a linear sequence, as when the verb eat combines with its object. Paradigmatic relations hold between units that can substitute for one another in the same slot, such as eat, drink and see in the verb position. Together they define the language system as a network of values and oppositions, and they remain central to structuralist work in syntax, phonology and semantics.",
+   "sections": [
+    {
+     "h": "定义与来源",
+     "hEn": "Definition and Origin",
+     "p": [
+      "组合关系与聚合关系由索绪尔在《普通语言学教程》中提出。组合关系是以线性序列为基础的横向关系，涉及实际出现的成分之间的搭配与制约；聚合关系又称联想关系，指不在场但可在同一位置相互替换的单位所构成的纵向关系。索绪尔用神庙的柱子作比：柱子与它所支撑的屋檐是组合关系，而与它可替换的其他柱子则是聚合关系。"
+     ],
+     "pEn": [
+      "Saussure introduced the two relations in the Course in General Linguistics. Syntagmatic relations are horizontal and based on linear succession: they connect elements actually present in a sequence and impose co-occurrence restrictions among them. Paradigmatic relations, also called associative relations, are vertical and link absent units that could substitute for one another in the same position. Saussure compared a column in a temple, related syntagmatically to the architrave it supports and paradigmatically to the other columns that might occupy its place."
+     ]
+    },
+    {
+     "h": "组合关系的表现",
+     "hEn": "Manifestations of Syntagmatic Relations",
+     "p": [
+      "组合关系体现为语言单位在序列中的共现与制约。汉语「吃」要求后面出现食物类宾语，可以说「吃苹果」「吃饭」，却不能说「吃思想」；英语形容词的排列也受组合制约，通常说 big red ball 而不说 red big ball。音系层面同样存在组合限制，汉语普通话不允许 /si/ 这样的拼合，日语不允许词首出现 str-，因此英语 street 借入日语时增音为 sutoriito。"
+     ],
+     "pEn": [
+      "Syntagmatic relations surface as co-occurrence restrictions. In Mandarin the verb chi eats selects a food object: chi pingguo and chi fan are acceptable, while chi sixiang is not. English adjective order is likewise constrained, favouring big red ball over red big ball. Phonology shows the same logic: Mandarin forbids the sequence /si/, and Japanese, which bans initial str-, adapts English street as sutoriito."
+     ]
+    },
+    {
+     "h": "聚合关系的表现",
+     "hEn": "Manifestations of Paradigmatic Relations",
+     "p": [
+      "聚合关系表现为可替换单位构成的集合或选择集。汉语「他买了一本新书」中，「一本」可以替换为「两本」「三本」，动词「买」可以替换为「借」「读」，各自构成一个聚合类。音系学中的音位正是通过聚合关系定义的：普通话 /p/ 与 /pʰ/ 构成对立，如「爸」[pa˥˩] 与「怕」[pʰa˥˩] 的区别。语法研究中，词类也可视为按聚合关系划分的替换类。"
+     ],
+     "pEn": [
+      "Paradigmatic relations appear as sets of mutually substitutable items. In the Mandarin sentence ta mai le yi ben xin shu, the phrase yi ben alternates with liang ben and san ben, and the verb mai alternates with jie or du, each set forming a paradigm. Phonemes are defined by such substitution: Mandarin /p/ and /pʰ/ contrast in pa [pa˥˩] versus pha [pʰa˥˩]. Word classes, too, can be regarded as substitution classes."
+     ]
+    },
+    {
+     "h": "理论意义与批评",
+     "hEn": "Theoretical Significance and Criticism",
+     "p": [
+      "两轴区分把语言看作由价值和对立构成的系统，为结构主义音系学、形态学和句法学提供了基本框架，也在雅各布森的组合与选择、韩礼德的横组合与纵聚合中延续。批评者指出，这一区分偏重静态的 langue 而忽略实际使用的动态过程；认知语言学和语料库研究则强调，搭配频率与具体用法事件使组合关系和聚合关系之间的边界并不像经典论述那样分明。"
+     ],
+     "pEn": [
+      "The two axes present language as a system of values and oppositions, providing the framework for structuralist phonology, morphology and syntax and reappearing in Jakobson's combination and selection and in Halliday's chain and choice. Critics note that the distinction privileges the static langue over dynamic use. Cognitive and corpus-based work stresses that collocational frequency and concrete usage events make the boundary between the two relations less clear-cut than the classical account implies."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "组合关系",
+     "tEn": "syntagmatic relation",
+     "d": "在线性序列中实际共现的语言单位之间所形成的关系，如动词与宾语",
+     "dEn": "Relation between units that actually co-occur in a linear sequence."
+    },
+    {
+     "t": "聚合关系",
+     "tEn": "paradigmatic relation",
+     "d": "在同一位置上可以相互替换的语言单位之间所形成的类别关系",
+     "dEn": "Relation between units that can substitute for one another in the same position."
+    },
+    {
+     "t": "价值",
+     "tEn": "value",
+     "d": "语言单位的意义由它在整个系统中与其他单位的对立所决定",
+     "dEn": "The meaning a unit gains from its oppositions with other units in the system."
+    },
+    {
+     "t": "分布",
+     "tEn": "distribution",
+     "d": "某一语言单位能够出现的全部环境的总和，常用于划分类别",
+     "dEn": "The total set of environments in which a given linguistic unit can occur."
+    },
+    {
+     "t": "选择限制",
+     "tEn": "selectional restriction",
+     "d": "组合关系中一个词对其搭配成分的语义特征所施加的制约",
+     "dEn": "A constraint a word imposes on the semantic features of its collocates."
+    },
+    {
+     "t": "替换类",
+     "tEn": "substitution class",
+     "d": "能够在同一语法环境中互相替换的一组单位所构成的集合",
+     "dEn": "A set of units that can replace one another in the same environment."
+    }
+   ],
+   "related": [
+    "saussure",
+    "langue-parole",
+    "signifier-signified",
+    "structuralism",
+    "syntax"
+   ],
+   "sources": [
+    "Wikipedia, \"Ferdinand de Saussure\", https://en.wikipedia.org/wiki/Ferdinand_de_Saussure",
+    "Saussure, Cours de linguistique générale, 1916"
+   ]
+  },
+  {
+   "id": "arbitrariness",
+   "title": "任意性",
+   "en": "Arbitrariness",
+   "category": "concepts",
+   "tags": [
+    "任意性",
+    "符号",
+    "索绪尔",
+    "理据性",
+    "语言本质"
+   ],
+   "summary": "任意性是语言的本质属性之一，指语言符号的能指与所指之间没有必然的自然联系，其结合由社会约定决定。同一概念在汉语中称「书」、英语中称 book、法语中称 livre，语音形式各不相同，说明形式与意义之间不存在理据。任意性由索绪尔系统阐述，被视为符号学的第一原则；但拟声词、语音象征以及部分复合词和派生词表明，语言中同时存在一定程度的理据性，二者只是程度和层面不同。",
+   "summaryEn": "Arbitrariness is a design feature of language: the link between a sign's form and its meaning is not natural but established by social convention. The same concept is shu in Mandarin, book in English and livre in French, showing that sound and sense are not intrinsically connected. Saussure made arbitrariness the first principle of semiology, yet onomatopoeia, sound symbolism and much word formation show that motivated structure also exists. Arbitrariness and motivation differ in degree rather than in kind.",
+   "sections": [
+    {
+     "h": "定义与索绪尔的论述",
+     "hEn": "Definition and Saussure's Account",
+     "p": [
+      "任意性指语言符号的能指即声音形象与所指即概念之间的结合没有自然理据。索绪尔强调，任意性并不意味着说话者可以自由选择名称，而是说形式与意义之间不存在可论证的联系，这种联系由语言社团的约定固定下来。正因如此，同一概念在不同语言中采用不同形式，同一个形式在不同语言中也可以表示完全不同的内容。"
+     ],
+     "pEn": [
+      "Arbitrariness means that the bond between the signifier, the sound image, and the signified, the concept, has no natural motivation. Saussure stressed that this does not imply that speakers may freely choose names; rather, no arguable link exists between form and meaning, and the association is fixed by the conventions of the speech community. Consequently the same concept takes different forms across languages, and identical forms may carry quite different meanings."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Evidence",
+     "p": [
+      "最直接的证据来自跨语言比较：汉语「水」[ʂuei˨˩˦]、英语 water [ˈwɔːtə]、日语 mizu 都表示同一概念，语音形式却毫无相似之处。同义词也显示形式与意义并非一一对应，如汉语「自行车」与「脚踏车」指同一事物，英语 bike 与 bicycle 亦然。此外，英语 tree 与汉语「树」、英语 dog 与汉语「狗」的对应关系无法从意义中推导，只能通过约定逐个学习。"
+     ],
+     "pEn": [
+      "Cross-linguistic comparison offers the clearest evidence. Mandarin shui [ʂuei˨˩˦], English water and Japanese mizu denote the same substance with entirely unrelated sound shapes. Synonymy points the same way: Mandarin zixingche and jiaotache name one object, as do English bike and bicycle. The correspondences between English tree and Mandarin shu, or between dog and gou, cannot be predicted from meaning and must be learned item by item as conventions."
+     ]
+    },
+    {
+     "h": "理据性的限度",
+     "hEn": "The Limits of Arbitrariness",
+     "p": [
+      "任意性并非绝对。拟声词如英语 cuckoo、汉语「布谷」模仿鸟鸣；语音象征如英语 sl- 常与滑动义相关，如 slide、slip、slope；复合词和派生词具有部分理据，如「洗衣机」由「洗」「衣」「机」构成，英语 teacher 由 teach 加 -er 构成。功能语言学和认知语言学据此指出，任意性与象似性在语言中并存，任意性原则可能低估了使用和认知的动因。"
+     ],
+     "pEn": [
+      "Arbitrariness is not absolute. Onomatopoeia such as English cuckoo or Mandarin bugu imitates birdsong; sound symbolism links English sl- to sliding, as in slide, slip and slope; compounds and derivatives are partly motivated, as when xi, yi and ji compose xiyiji, and teacher is built from teach plus -er. Functionalists and cognitive linguists therefore argue that arbitrariness and iconicity coexist, and that the principle underplays usage and cognitive motivation."
+     ]
+    },
+    {
+     "h": "理论影响",
+     "hEn": "Theoretical Impact",
+     "p": [
+      "任意性被视为人类语言区别于动物交际系统的重要特征，常与能产性、移位性等一起列入语言的设计特征。它使语言能够以有限的声音表达无限的意义，并保证符号系统的经济与灵活。在语言习得和语言变化研究中，任意性解释了为何词汇必须逐个习得，也解释了为何音义联系会随着社会约定的变化而改变，如英语 meat 的词义由「食物」缩小为「肉」。"
+     ],
+     "pEn": [
+      "Arbitrariness is often listed among the design features that distinguish human language from animal communication, alongside productivity and displacement. It allows a small inventory of sounds to express an unlimited range of meanings and keeps the system economical and flexible. In acquisition and change, it explains why vocabulary must be learned item by item and why sound-meaning associations shift as conventions change, as when English meat narrowed from food in general to flesh."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "任意性",
+     "tEn": "arbitrariness",
+     "d": "能指与所指之间不存在自然理据而由社会约定决定的属性",
+     "dEn": "Absence of a natural link between signifier and signified, fixed by convention."
+    },
+    {
+     "t": "能指",
+     "tEn": "signifier",
+     "d": "语言符号的声音形象，是符号可感知的形式一面，与所指相对",
+     "dEn": "The sound image of a sign, the perceptible formal side opposed to the signified."
+    },
+    {
+     "t": "所指",
+     "tEn": "signified",
+     "d": "语言符号所表达的概念内容，是符号的意义一面，与能指相对",
+     "dEn": "The conceptual content that a linguistic sign expresses, as opposed to the signifier."
+    },
+    {
+     "t": "理据性",
+     "tEn": "motivation",
+     "d": "语言形式与意义之间存在可以论证的联系而并非完全任意的特性",
+     "dEn": "The property of an arguable link between a form and its meaning."
+    },
+    {
+     "t": "拟声词",
+     "tEn": "onomatopoeia",
+     "d": "通过模仿自然界声音而构成的一类词，如英语 cuckoo",
+     "dEn": "A word whose form is created by imitating a natural sound."
+    },
+    {
+     "t": "语音象征",
+     "tEn": "sound symbolism",
+     "d": "特定语音与特定意义之间反复出现的非任意联想，如英语 sl-",
+     "dEn": "A non-arbitrary and recurrent association between particular sounds and meanings."
+    },
+    {
+     "t": "约定性",
+     "tEn": "conventionality",
+     "d": "语言符号的形式与意义关系由语言社团共同确定并世代相传的性质",
+     "dEn": "The social fixing and transmission of sign relations within a speech community."
+    }
+   ],
+   "related": [
+    "signifier-signified",
+    "iconicity",
+    "saussure",
+    "semiotics",
+    "duality-of-patterning"
+   ],
+   "sources": [
+    "Wikipedia, \"Arbitrariness\", https://en.wikipedia.org/wiki/Arbitrariness",
+    "Saussure, Cours de linguistique générale, 1916"
+   ]
+  },
+  {
+   "id": "iconicity",
+   "title": "象似性",
+   "en": "Iconicity",
+   "category": "concepts",
+   "tags": [
+    "象似性",
+    "理据性",
+    "认知语言学",
+    "句法象似",
+    "符号"
+   ],
+   "summary": "象似性指语言符号的形式与意义之间存在可论证的对应关系，即形式在某种程度上反映或模仿所表达的内容。它与任意性相对，体现在数量象似、顺序象似和距离象似等方面。例如凯撒名句 veni, vidi, vici 中三个动词的排列顺序与事件发生的顺序一致；汉语「他在楼上住」与「他住在楼上」的语序差异也带来意义差别。象似性是认知语言学和功能语言学质疑绝对任意性原则、强调形式受功能驱动的重要依据。",
+   "summaryEn": "Iconicity is the motivated correspondence between the form of a linguistic sign and its meaning, so that structure in some way reflects or imitates what is expressed. It contrasts with arbitrariness and appears in quantity iconicity, order iconicity and distance iconicity. In Caesar's veni, vidi, vici the order of the verbs mirrors the order of events, while Chinese word-order variants such as ta zai loushang zhu and ta zhu zai loushang differ in meaning. Iconicity is a key argument of cognitive and functional linguistics against absolute arbitrariness.",
+   "sections": [
+    {
+     "h": "定义与理论背景",
+     "hEn": "Definition and Background",
+     "p": [
+      "象似性源自符号学中皮尔士的符号分类，指符号与其对象之间存在相似关系，而不仅靠任意约定。在语言学中，它指语言形式的结构同所表达的意义或概念结构之间存在对应。与任意性相对，象似性主张句法并非完全自主，而是在一定程度上受所表达的经验结构制约。认知语言学和功能语言学把象似性视为语言形式受功能驱动的直接证据。"
+     ],
+     "pEn": [
+      "Iconicity derives from Peirce's classification of signs, in which an icon resembles its object rather than standing for it by arbitrary convention. In linguistics it refers to a correspondence between the structure of a linguistic form and the meaning or conceptual structure it encodes. Opposed to arbitrariness, it holds that syntax is not fully autonomous but partly shaped by the experience it expresses. Cognitive and functional linguists treat iconicity as direct evidence that form is motivated by function."
+     ]
+    },
+    {
+     "h": "主要类型与语言实例",
+     "hEn": "Main Types and Examples",
+     "p": [
+      "常见的象似性包括数量象似，即形式越长表示的意义量越大，如英语比较级 tall、taller、tallest 的形态递增；顺序象似，即语言单位的顺序对应事件发生的顺序，如凯撒的 veni, vidi, vici「我来，我见，我征服」；距离象似，即概念距离近则形式距离近，如英语 the book on the table 与 the book that is on the table 的紧密度差异；以及拟声词，如英语 buzz、汉语「叮当」。"
+     ],
+     "pEn": [
+      "Common types include quantity iconicity, where more form encodes more meaning, as in the morphological build-up of tall, taller and tallest; order iconicity, where the sequence of elements mirrors the sequence of events, as in Caesar's veni, vidi, vici; distance iconicity, where conceptual closeness matches formal closeness, as in the book on the table versus the book that is on the table; and onomatopoeia, as in English buzz or Mandarin dingdang."
+     ]
+    },
+    {
+     "h": "句法与语篇中的表现",
+     "hEn": "Syntax and Discourse",
+     "p": [
+      "在句法层面，汉语「他在楼上住」与「他住在楼上」因介词短语位置不同而具有不同的焦点和信息结构，说明语序安排受表达意图影响。英语名词短语内部修饰语紧邻中心语，而关系从句相对靠后，体现概念距离与形式距离的对应。在语篇层面，事件叙述通常按时间先后排列，如「他推开门，走了进去，坐了下来」，其顺序与事件发生的顺序一致。"
+     ],
+     "pEn": [
+      "Syntactically, Mandarin ta zai loushang zhu and ta zhu zai loushang differ in focus and information structure because the prepositional phrase occupies different positions, showing that ordering is sensitive to communicative intent. In English noun phrases, modifiers sit close to the head while relative clauses come later, matching conceptual and formal distance. At discourse level, narratives normally follow temporal order, as in 'He pushed the door open, walked in and sat down'."
+     ]
+    },
+    {
+     "h": "争议与评价",
+     "hEn": "Controversy",
+     "p": [
+      "对象似性的主要质疑在于其证据常依赖直觉，且语言中同时存在大量任意现象，如汉语「猫」与英语 cat 并无形式相似。批评者还指出，象似性解释容易流于循环论证。支持者则通过跨语言调查和心理实验提供证据，例如发现小句顺序会影响人们对事件顺序的记忆与推理。较为稳妥的看法是，象似性与任意性共同发挥作用，只是作用的层面和程度不同。"
+     ],
+     "pEn": [
+      "The main objection is that evidence for iconicity often rests on intuition and that arbitrary patterns are equally abundant, as the unrelated forms mao and cat show. Critics also warn that iconic explanations readily become circular. Supporters counter with cross-linguistic surveys and experiments, including findings that clause order affects how people remember and reason about event order. The more defensible view is that iconicity and arbitrariness interact, differing in level and degree."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "象似性",
+     "tEn": "iconicity",
+     "d": "语言形式与所表达意义之间存在可以论证的相似或对应关系",
+     "dEn": "A motivated resemblance between linguistic form and the meaning it expresses."
+    },
+    {
+     "t": "任意性",
+     "tEn": "arbitrariness",
+     "d": "语言形式与意义之间不存在自然联系，其结合由社会约定决定",
+     "dEn": "The absence of a natural link between linguistic form and meaning."
+    },
+    {
+     "t": "数量象似",
+     "tEn": "quantity iconicity",
+     "d": "语言形式越长，其所表达的意义量或信息量通常也就越大",
+     "dEn": "The principle that a longer linguistic form encodes a larger amount of meaning."
+    },
+    {
+     "t": "顺序象似",
+     "tEn": "order iconicity",
+     "d": "语言单位的排列顺序与事件实际发生的时间先后顺序相互对应",
+     "dEn": "The matching of linguistic order to the chronological order of events."
+    },
+    {
+     "t": "距离象似",
+     "tEn": "distance iconicity",
+     "d": "概念之间距离的远近对应于语言形式之间距离的远近关系",
+     "dEn": "The correspondence between conceptual distance and the formal distance of expressions."
+    },
+    {
+     "t": "拟声词",
+     "tEn": "onomatopoeia",
+     "d": "通过模仿自然界声音而构成的一类词，如英语 buzz",
+     "dEn": "A word whose form is created by imitating a natural sound."
+    },
+    {
+     "t": "理据性",
+     "tEn": "motivation",
+     "d": "语言符号内部形式与意义之间存在可以解释的、非任意的联系",
+     "dEn": "The property of an explainable, non-arbitrary link between form and meaning."
+    }
+   ],
+   "related": [
+    "arbitrariness",
+    "signifier-signified",
+    "cognitive-linguistics",
+    "metaphor-metonymy",
+    "semiotics"
+   ],
+   "sources": [
+    "Wikipedia, \"Iconicity\", https://en.wikipedia.org/wiki/Iconicity",
+    "Peirce, Collected Papers of Charles Sanders Peirce, 1931–1958"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "batch": 18,
+ "out": "data/gen2/batch-18.json",
+ "entries": [
+  {
+   "id": "bilingualism",
+   "title": "双语现象",
+   "en": "Bilingualism",
+   "category": "concepts"
+  },
+  {
+   "id": "language-contact",
+   "title": "语言接触",
+   "en": "Language Contact",
+   "category": "concepts"
+  },
+  {
+   "id": "loanword",
+   "title": "借词",
+   "en": "Loanword",
+   "category": "concepts"
+  }
+ ]
+}

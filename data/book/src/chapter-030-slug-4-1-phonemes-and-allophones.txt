@@ -1,0 +1,42 @@
+# 4.1 Phonemes and allophones
+
+## The essence of phonology
+
+As discussed in Chapter 3, a linguistic signal is composed of smaller physical units: phones, handshapes, movements, etc. These are not combined in purely random ways. For example, the three phones [m], [i], and [k] can be combined to form the English word [mik] meek, but the other five possible combinations are not words of English. Four of these are normally unpronounceable by English speakers: [imk], [ikm], [mki], and [kmi]. However, the fifth, [kim], could easily be integrated into English as a new word. It is just an accident of the history of English that we do not yet have this as an actual word.
+Additionally, when some of these physical units are pronounced near each other, they may affect each other’s articulation. For example, in American Sign Language (ASL), the two signs FOOD and BED can be compounded to form the sign HOME, but not as a strict sequence of FOOD followed by BED. Instead, the two signs are merged into a single sign that contains properties of both of its components.
+The following video clip shows the ASL sign for FOOD, with repeated tapping at the mouth with a flat-O handshape.
+
+[视频：EoL4ASL_FOOD.mp4]
+
+The following video clip shows the ASL sign for BED, with a single articulation of the open-B handshape on the side of the face, with a nonmanual head tilt.
+
+[视频：EoL3ASL_BED.mp4]
+
+The following video clip shows two variants of the ASL sign for HOME (note how the signer numbers each variant before signing it, by pointing to an extended finger on his nondominant hand).
+
+[视频：EoL4ASL_HOMEx2.mp4]
+
+Both variants of HOME blend different parameters of FOOD and BED. For example, both variants use only the flat-O handshape from FOOD, eliminating the open-B handshape from BED. However, both variants use the location at the side of the face from BED, either as a second location after movement (in the first variant) or as the only location with the mouth location of FOOD being lost (in the second variant). Additionally, the repetition from HOME is reduced, resulting in only two total touches in both variants, fewer than what is used in HOME. Finally, the nonmanual head tilt for BED is not used in HOME.
+There are underlying patterns in all languages that determine which combinations of physical units are valid or invalid, as well as what kinds of articulatory changes occur when these physical units are combined. The study of these patterns is called phonology.
+
+## The phonological units of spoken language
+
+In spoken language, one important pattern is how certain phones are pronounced differently, yet are treated as the same conceptual object by speakers. For example, consider the English words atom and atomic. In most varieties of North American English, the consonant phone in the middle of atom is pronounced as an alveolar flap; recall from Section 3.4 that the alveolar flap is symbolized in the IPA by [ɾ]. But in the word atomic, the corresponding phone is a voiceless alveolar plosive followed by a notable puff of air, symbolized in the IPA as [tʰ], where the superscript [ʰ] represents the puff of air (called aspiration). However, these two words are clearly related: atomic is built from the word atom, both in pronunciation and in meaning (see Chapter 5 for more on the topic of word-building). Because of this, it is convenient to think of these two phones as being the same object on some abstract conceptual level, despite being physically different.
+This object is called a phoneme, and its various physical realities as phones are called its allophones. We can think of a phoneme as a set of allophones, with each one connected to certain specific positions. So in this case, we might say that the set {[ɾ], [tʰ]} is a phoneme, with [ɾ] and [tʰ] each being allophones of that phoneme, used in different situations, called environments.
+The most common types of environments require one or more specific phonetic properties immediately to the left, one or more specific phonetic properties immediately to the right, or a combination of both. As with most aspects of linguistics, the environments for allophones can be more complex than what is presented in the simpler cases discussed in this textbook.
+By convention, phonemes are often notated with just a single symbol in slashes / /, because the number of allophones can get quite large, and it would be too cumbersome to continue listing out all of the allophones as a set. The choice of symbol depends on certain assumptions, but for now, we can represent this phoneme with /t/.
+Both of these allophones of /t/ occur between two vowels or syllabic consonants, but the flap [ɾ] is followed by an unstressed vowel or syllabic consonant, while the aspirated [tʰ] is followed by a stressed vowel or syllabic consonant (recall from Section 3.11 that stressed syllables are typically louder, longer, and/or higher pitched than unstressed syllables). So we might conjecture that stress is at least partially responsible for determining which allophone to use for /t/.
+We can test that conjecture by looking at other words where this phoneme occurs (fortunately, it is often spelled with the letter <t> in English) and seeing which allophone is used. In [ˈmɛɾl̩] metal and [məˈtʰælək] metallic, we see the same pattern as in atom and atomic, so our conjecture holds. There are other pairs of related words that show the same pattern: [ˈbæɾl̩] battle and [bəˈtʰæljn̩] battalion, [ˈkrɪɾək] critic and [kraɪˈtʰiriə] criteria, etc.
+If we look beyond related words, we see the same pattern. English words with /t/ between two vowels or syllabic consonants tend to have the flap [ɾ] if the second is unstressed but aspirated [tʰ] if the second is stressed. That is, words like data, writer, and Ottawa have [ɾ], while words like attack, return, and Saskatoon have [tʰ].
+
+## The aim of phonology
+
+We as linguists do not have immediate access to phonemes. They are abstractions, not concrete reality that can be directly measured in the linguistic signal. We have to look at patterns in where we find various phones and figure out whether or not they belong together as allophones of the same phoneme. This is an important part of phonology: determining what the phonemes of a language are, what each phoneme’s allophones are, and which allophones are used in which environments.
+Phonologists are not just concerned with the phonology of just one particular language. We also want to uncover any general universal phonological principles that might underlie all of human language. However, this is difficult. Most importantly, modality matters a great deal in phonology, because the kinds of basic units and patterns are just fundamentally different between different modalities. The parts of the vocal tract used for spoken languages behave differently than the manual and nonmanual articulators used for signed languages.
+Thus, whatever universal phonological principles there may be, they must be quite abstract and independent of specific modalities. Yet, we do find some common principles specific to each modality, so it is useful to consider spoken language phonology separately from signed language phonology, as is done in this textbook.
+Finally, note that different linguists may come to different conclusions about the phonology of a language, because phonemes and other phonological units are abstract theoretical constructs, which means they are sensitive to the starting assumptions we make and the theoretical framework we are using. The examples given to you here have straightforward analyses with very few assumptions, but these are not the only possible analyses, especially in more advanced theories of phonology.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=609#h5p-137

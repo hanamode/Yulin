@@ -1,0 +1,25 @@
+{
+ "batch": 23,
+ "chapter": "Chapter 5: Morphology",
+ "out": "data/book/gen/batch-23.json",
+ "sections": [
+  {
+   "id": "chapter-042-slug-5-4-morphology-beyond-affixes",
+   "title": "5.3 Morphology beyond affixes",
+   "src": "data/book/src/chapter-042-slug-5-4-morphology-beyond-affixes.txt",
+   "chars": 6183
+  },
+  {
+   "id": "chapter-043-allomorphy",
+   "title": "5.4 Allomorphy",
+   "src": "data/book/src/chapter-043-allomorphy.txt",
+   "chars": 3008
+  },
+  {
+   "id": "chapter-044-slug-5-4-lexical-categories-and-the-split-between-derivation-and-inflection",
+   "title": "5.5 Lexical categories",
+   "src": "data/book/src/chapter-044-slug-5-4-lexical-categories-and-the-split-between-derivation-and-inflection.txt",
+   "chars": 6354
+  }
+ ]
+}

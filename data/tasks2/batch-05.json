@@ -1,0 +1,24 @@
+{
+ "batch": 5,
+ "out": "data/gen2/batch-05.json",
+ "entries": [
+  {
+   "id": "conversation-analysis",
+   "title": "会话分析",
+   "en": "Conversation Analysis",
+   "category": "branches"
+  },
+  {
+   "id": "langue-parole",
+   "title": "语言与言语",
+   "en": "Langue and Parole",
+   "category": "concepts"
+  },
+  {
+   "id": "signifier-signified",
+   "title": "能指与所指",
+   "en": "Signifier and Signified",
+   "category": "concepts"
+  }
+ ]
+}

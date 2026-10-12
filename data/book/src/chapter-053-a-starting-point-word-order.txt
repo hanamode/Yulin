@@ -1,0 +1,76 @@
+# 6.2 Word order
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1471#oembed-1
+
+## A starting point: basic word order
+
+If you think about hearing or seeing a sentence, or if you think about reading a sentence that’s been written down, a really obvious property is that words and morphemes come in a particular order. Indeed, the only difference between the grammatical and ungrammatical sentences we saw in 6.1, repeated below in (1), is that the words appear in different orders.
+
+[表格]
+| | | (1) | | a. | | All grypnos are tichek. | | | | | | b. | | *Grypnos tichek all are. | | |
+
+Fixed vs. flexible word order
+The relevance of word order for grammaticality is particularly strong for a language like English, which has relatively fixed word order. There isn’t much flexibility in English to change the order of words in a sentence, without either changing the meaning or making the sentence ungrammatical. Lots of other languages also have relatively fixed word order—among them French, Chatino, and Choktaw (and many more as well)—but lots of other languages have much more flexible word order.
+Languages with relatively flexible word order include Latin, Anishinaabemowin, Kanien’kéha, and ASL, to name just a few. For users of these languages, the order of words in a sentence is often determined by style or by the topic or focus of the sentence.
+What is the basic order of words in English sentences? Based on the grammatical sentences in (2) and the ungrammatical ones in (3), see if you can come up with any generalizations about where the verb appears in English.
+
+[表格]
+| | | (2) | | a. | | Amal ate chocolate. | | | | | | b. | | Beavers build dams. | | | | | | c. | | Cats chase mice. | | | | | | d. | | Daffodils bloom. | | | | | | e. | | Eagles fly. | | |
+
+[表格]
+| | | (3) | | a. | | *Amal chocolate ate. | | | | | | b. | | *Build beavers dams. | | | | | | c. | | *Chase mice cats. | | | | | | d. | | *Bloom daffodils. | | | | | | e. | | *Fly eagles. | | |
+
+These sentences are all statements, not questions or commands: they state a fact about the world, something that could be true or false. Looking at (3b-e), and comparing them with the grammatical sentences in (2), we can make the generalization that the verb cannot be the first word in an English statement.
+What about (3a)? In (3a) the verb isn’t the first word, but the sentence is still ungrammatical. We might try to explain that by saying that the verb also can’t be the last word in a statement—except that the verb does come last in (2d) and (2e), which are both grammatical. So a more accurate generalization would be to say that the verb in an English sentence has to come after at least one noun, and that it can be followed by a second noun, but doesn’t have to be.
+We could write this generalization as a kind of formula or template: the grammatical sentences in (2) have the order N V (N) (the parentheses around the second “N” mean that it is optional).
+Another way to describe word order involves talking not just about categories like nouns and verbs, but grammatical functions like subject and object. Word order in English doesn’t just require that any noun come before the verb, it has to be the noun that corresponds to the subject. Similarly, if the verb is a transitive verb with an object, the object noun must come after the verb. So even though Chocolate ate Amal. is a grammatical sentence of English (though with a somewhat implausible meaning), it can’t express the same meaning as Amal ate chocolate.
+If you aren’t sure about terms like “subject”, “object”, and “transitive”, continue to the end of this section and then come back and re-read the last paragraph. Even if you already feel comfortable with those terms, it’s still a good idea to review the definitions given below, to make sure that you understand the terms in the same way they’re used in this textbook.
+
+## Key grammatical terminology
+
+This section reviews some key grammatical terminology that you might be familiar with from elsewhere (for example, from language classes). This vocabulary is important for describing the basic structure of phrases and sentences, and we’ll use it frequently throughout this chapter. Sentence A sentence is a string of words that expresses a complete statement, question, or command. For statements (as opposed to questions or commands), a sentence expresses a proposition, something that can be true or false. A sentence is a clause that stands on its own as an utterance. Clause A clause is a constituent that includes a subject and a predicate. Some clauses occur inside other clauses (see complex sentence below), and so not all clauses are independent sentences. Predicate A predicate is the state, event, or activity that the sentence attributes to its subject.
+The word “predicate” is used in two ways. Sometimes it is used to refer to a single head or word (usually a verb or an adjective), but other times its used to describe everything in the sentence other than the subject (for example, a whole verb phrase). In this chapter we use it in the first sense, to refer to a word that combines with a subject and (sometimes) one or more objects. Arguments Arguments are phrases that correspond to the participants or actors involved in a sentence’s predicate. They are typically noun phrases, but it’s possible to have arguments of other types (usually prepositional phrases or whole clauses).
+In the sentences in (3) the arguments are in bold and the predicate is italicized.
+
+[表格]
+| | | (3) | | a. | | | Vanja | | loves | | chocolate | . | | | | | | b. | | | The children | | gave | [ | the kitten | ] [ | a toy | ]. | | | | | | c. | | | Everyone | is | excited | . | | |
+
+## CLASSIFYING PREDICATES
+
+Predicates can be classified by their transitivity, which is the number of arguments they take. (This is also sometimes called the valency of a predicate.) The words for transitivity are based on the number of objects a predicate takes. Intransitive An intransitive predicate takes one argument (the subject); no object. Transitive A transitive predicate takes two arguments (subject and direct object); one object. Ditransitive A ditransitive predicate takes three arguments (subject, direct object, and indirect object); two objects.
+
+## CLASSIFYING ARGUMENTS
+
+Arguments can be classified in at least two ways: their position in the sentence, and how they’re related to the predicate (are they the actor, the thing acted upon, etc). For now we’ll focus on the position of arguments, with diagnostics specific to English. Later in this chapter, in 6.10 Arguments and thematic roles, we’ll return to classifying arguments based on their role in the event. Subject Subjects almost always appear before the predicate in English, and control agreement on the verb. If the subject is a pronoun, it is in nominative case (I, we, you, he, she, it, they) Direct object Objects usually appear after the verb in English. If the direct object is a pronoun, it is in accusative case (me, us, you, him, her, it, them) Indirect object: With ditransitive verbs, the indirect object is often the recipient of the direct object. The indirect object is often (but not always) marked by “to” or another preposition; in English, if the indirect object is a pronoun, it is in accusative case (but in languages that have dative case, indirect objects are often in dative case)
+
+## CLASSIFYING SENTENCES
+
+Now that we’ve looked at grammatical terminology relating to predicates and arguments within sentences, let’s talk about terminology for sentences and clauses as a whole. First, we can classify them according to their function—whether they are used to make a statement, ask a question, or give a command. Declarative Declarative clauses are statements, things that can be true or false. Interrogative Interrogative clauses are questions. Questions come in two general types:
+- Yes-No questions, like: Did Romil watch a movie? and
+- Content questions, like: What did Romil watch?
+Imperative Imperative clauses express requests or commands. For example: Open the door (please)!
+Alternatively, we can classify sentences according to their structure; that is, according to whether they contain one clause or more than one clause, and (if more than one clause) how the sub-clauses are related to one other. Simple sentence A sentence is simple if it contains only one clause. All the sentences we have seen so far have been simple sentences. Compound sentence A compound sentence has at least two clauses, linked by a conjunction like and, or, or but. For example: [ Danai laughed ] and [ Seo-yeon cried ]. Complex sentence A complex sentence is one that contains a subordinate embedded clause—a clause inside a clause. This is an example of recursion! For example: Seo-yeon knows [ that Danai laughed ] .
+
+## Variation across languages: order of Subject, Object, and Verb
+
+Having reviewed terminology relating to predicates and their arguments, we’re now in a better position to talk about variation across languages in terms of basic word order—the order found in simple declarative clauses, in the absence of any special emphasis or topic.
+English is Subject-Verb-Object (SVO). This is a very common basic word order; according to the World Atlas of Language Structures (Dryer, 2013), it is found in about 35.5% of the world’s languages. Other languages with this basic word order include ASL, both Mandarin and Cantonese, Nahuatl, and most of the Romance languages. (Even though not all clauses have objects, we still include objects when describing basic word orders; in a sentence without an object, the order for these languages would just be SV.)
+The most common basic word order in the world is Subject-Object-Verb; this is found in 41% of languages, according to Dryer (2013). Japanese and Korean are both SOV languages, as are Turkish, Farsi, Hindi-Urdu, Malayalam, Amharic, and Haida.
+But even though SVO and SOV are the two most common orders, all the other logically possible orders for subjects, objects, and verbs are also attested in the world’s languages.
+Basic Verb-Subject-Object order is found, for example, in Irish and the other Celtic languages, as well as in Anishinaabemowin and some other Algonquian languages. Orders where the object comes before the subject (VOS, OVS, OSV) are less common, but nonetheless found in a few languages.
+As we noted before, however, even though most languages have a basic word order (the order found in neutral declarative sentences), in many languages this order is much more flexible than it is in English.
+When a language’s word order is flexible, it’s usually the case that order determined at least partly by topic and/or focus; the topic is the thing you’re talking about, and the focus is something you want to emphasize. So while English has a very strict SVO word order, languages with word order that is flexible with respect to the subject and predicate might be said to have a strict topic-comment word order, where he first element in the sentence is the topic (the thing the sentence is about) and the rest is a comment on that topic. Language users will often prefer or require particular word orders in particular conversational contexts.
+In Chapter 9.3 Dr. Kanatawakhon-Maracle gives several examples of flexible word order of this type in Mohawk (also known as Kanien’kéha)—showing that translating from English isn’t always straightforward, with many different translations being possible with shades of meaning that can be a bit hard to distinguish in English.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1471#h5p-126
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, this section comes after 6.1 Syntactic knowledge and grammaticality judgements, and the next section is 6.3 Phrases, Heads, and Selection.
+
+## References
+
+Matthew S. Dryer. 2013. Order of Subject, Object and Verb. In: Dryer, Matthew S. & Haspelmath, Martin (eds.) The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wals.info/chapter/81, Accessed on 2022-02-26.)

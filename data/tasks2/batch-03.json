@@ -1,0 +1,24 @@
+{
+ "batch": 3,
+ "out": "data/gen2/batch-03.json",
+ "entries": [
+  {
+   "id": "clinical-linguistics",
+   "title": "临床语言学",
+   "en": "Clinical Linguistics",
+   "category": "branches"
+  },
+  {
+   "id": "forensic-linguistics",
+   "title": "法律语言学",
+   "en": "Forensic Linguistics",
+   "category": "branches"
+  },
+  {
+   "id": "educational-linguistics",
+   "title": "教育语言学",
+   "en": "Educational Linguistics",
+   "category": "branches"
+  }
+ ]
+}

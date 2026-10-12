@@ -1,0 +1,343 @@
+{
+ "batch": 28,
+ "sections": {
+  "chapter-054-phrases-structure-within-the-sentence": {
+   "title": {
+    "en": "6.3 Structure within the sentence: Phrases, heads, and selection",
+    "zh": "6.3 句子内部的结构：短语、中心语与选择"
+   },
+   "summary": {
+    "en": "Human languages group words into constituents, and a phrase is a set of words that acts together as a unit. Within a phrase, the head determines the phrase's category and meaning, and it selects its complements. English places heads before complements while Japanese places them after, a property called head directionality. Phrases may also contain phrases of the same type, which is recursion.",
+    "zh": "所有人类语言都把词组合成句法成分，短语就是共同充当一个整体的一组词。短语中决定类别与意义的核心成分是中心语，中心语选择自己的补足语。英语的中心语位于补足语之前，日语则位于其后，这一属性称为中心语方向性。短语内部还可以包含同类型的短语，这种现象称为递归。"
+   },
+   "points": [
+    {
+     "en": "A phrase is a set of words that act together as a single unit.",
+     "zh": "短语是指在句子中共同起作用、充当一个整体单位的一组词。"
+    },
+    {
+     "en": "The head is the most important word: it determines the phrase's category and core meaning.",
+     "zh": "中心语是短语中最重要的词，它决定整个短语的类别和核心意义。"
+    },
+    {
+     "en": "Heads select their complements, deciding whether a complement is required and what category it must be.",
+     "zh": "中心语会对其补足语进行选择，决定补足语是否必需以及必须属于什么类别。"
+    },
+    {
+     "en": "English heads precede their complements, whereas Japanese heads follow them; this is head directionality.",
+     "zh": "英语的中心语位于补足语之前，日语的中心语则位于其后，这就是中心语方向性。"
+    },
+    {
+     "en": "Recursion allows a phrase to contain another phrase of the same type, as in these videos of a baby panda.",
+     "zh": "递归使短语能够包含另一个同类型短语，如 these videos of a baby panda 所示。"
+    },
+    {
+     "en": "Headedness and phrasing rather than single words are what syntactic generalizations are really about.",
+     "zh": "句法概括针对的是短语而非孤立的单词，中心语性质对所有语言都至关重要。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "head",
+     "zh": "中心语",
+     "defEn": "The most important word in a phrase, which determines the phrase's category.",
+     "defZh": "短语中最重要的词，决定整个短语的类别和意义，并决定该短语在句中的位置。"
+    },
+    {
+     "en": "complement",
+     "zh": "补足语",
+     "defEn": "An element selected by a head, such as the object of a verb.",
+     "defZh": "由中心语选择的成分，如动词的宾语；中心语决定它是否必需以及类别。"
+    },
+    {
+     "en": "selection",
+     "zh": "选择",
+     "defEn": "The property of heads that determines which complements they allow.",
+     "defZh": "中心语的性质，决定它允许哪些补足语，以及补足语是否必需、属于何种类别。"
+    },
+    {
+     "en": "recursion",
+     "zh": "递归",
+     "defEn": "The ability of a structure to contain another structure of the same type.",
+     "defZh": "某一结构可以在自身内部包含另一个同类型结构的能力，是自然语言语法的关键属性。"
+    },
+    {
+     "en": "head directionality",
+     "zh": "中心语方向性",
+     "defEn": "Whether a language places heads before or after their complements.",
+     "defZh": "一种语言把中心语放在补足语之前还是之后的属性，分为中心语前置和中心语后置。"
+    },
+    {
+     "en": "noun phrase",
+     "zh": "名词短语",
+     "defEn": "A group of words whose head is a noun and which acts as a unit.",
+     "defZh": "以名词为中心语、在句中作为一个整体起作用的一组词，如 all kittens。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "All kittens are very cute.",
+     "noteEn": "The group all kittens can be replaced by other plural noun phrases.",
+     "noteZh": "all kittens 这一组词可以被其他含复数名词的名词短语替换。"
+    },
+    {
+     "text": "The ducklings that I saw earlier are very cute.",
+     "noteEn": "A longer group of words can occupy the same subject position.",
+     "noteZh": "更长的词组同样可以出现在句首主语的位置上。"
+    },
+    {
+     "text": "*That I saw earlier is very cute.",
+     "noteEn": "It contains a pronoun but is not a noun phrase, so it cannot be subject.",
+     "noteZh": "虽含有代词 I，但不是名词短语，因此不能充当主语。"
+    },
+    {
+     "text": "Watasi-wa ringo-o tabe-ta.",
+     "noteEn": "Japanese example meaning 'I ate (an) apple', with the verb final.",
+     "noteZh": "日语例，意为“我吃了一个苹果”，动词位于句末，体现中心语后置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Human languages group words into constituents, and grammaticality judgements refer to phrases in structural positions, not to notions like the fourth word of a sentence. A phrase is a set of words that act together as a unit. In All kittens are very cute, the string all kittens can be replaced by Puppies, the ducklings that I saw earlier, or these videos of a baby panda. What the replacements share is a plural noun; with the puppy, are becomes ungrammatical, though is is good.",
+     "zh": "人类语言在词序之外还会把词组合成句法成分，语法性判断针对的是处于特定结构位置的短语，而不是“句中第四个词”这类纯线性的属性。短语是一组共同充当一个单位的词。在 All kittens are very cute 中，all kittens 这一串词可以被 Puppies、the ducklings that I saw earlier 或 these videos of a baby panda 替换。这些替换形式都含有复数名词；若换成单数名词 the puppy，句子与 are 连用就不合语法，但改用 is 又恢复合法。"
+    },
+    {
+     "en": "Merely containing a noun is not enough: strings like that I saw earlier and of a baby panda cannot be subjects, even though they contain a pronoun or a compound noun. A noun phrase is a group of words in which the noun is the most important element, determining part of the meaning and the category of the whole phrase, which fixes where the phrase can go. That noun is the head, the same headedness seen in compounds, applied to words in a phrase.",
+     "zh": "仅仅含有名词还不够：that I saw earlier 和 of a baby panda 虽然含有代词或复合名词，却不能充当主语。名词短语是这样一组词，其中名词是最重要的成分，它既决定意义的重要部分，也决定整个短语的类别，从而决定该短语在句中能出现的位置。这个名词就是中心语，其性质与复合词中的中心语相同，只是应用于短语中的词而非词中的语素。"
+    },
+    {
+     "en": "Heads also determine what else may appear in the phrase, in particular whether it contains an object. Verbs differ in transitivity; each verb has an opinion about how many objects it allows, whereas no verb cares whether it is modified by an adverb. The term is selection: heads select their objects, and for non-verbal heads the more general term complement is used. Phrases may contain phrases of the same type, as these videos of a baby panda contains a baby panda; this is recursion.",
+     "zh": "中心语还决定短语中还能出现什么成分，特别是决定短语是否包含宾语。动词的及物性各不相同，每个动词都“在意”自己能带几个宾语，而没有任何动词在意是否被副词修饰。这一属性称为选择：中心语选择自己的宾语；对非动词中心语，通常用更一般的术语“补足语”。英语名词从不要求补足语，但一旦带补足语，几乎总是小句或介词短语。短语可以包含同类型的短语，如 these videos of a baby panda 中含有 a baby panda，这就是递归。"
+    },
+    {
+     "en": "Languages vary in whether heads precede or follow their complements. English is head-initial: verbs precede objects, prepositions precede noun phrase complements, and nouns precede prepositional phrase complements. Japanese is an SOV, head-final language, as in Watasi-wa ringo-o tabe-ta, Tokyo e, and robotto no shasin. Japanese e is a postposition, and adposition is the general term covering both types.",
+     "zh": "语言在中心语位于补足语之前还是之后这一点上存在差异。英语是中心语前置语言：动词在宾语前，介词在名词短语补足语前，名词在介词短语补足语前。日语是 SOV 的中心语后置语言，如 Watasi-wa ringo-o tabe-ta、Tokyo e 和 robotto no shasin。日语的 e 是后置词，介词与后置词合称 adposition。这一属性称为中心语方向性。"
+    }
+   ]
+  },
+  "chapter-055-identifying-phrases-constituency-tests": {
+   "title": {
+    "en": "6.4 Identifying phrases: Constituency tests",
+    "zh": "6.4 识别短语：成分测试"
+   },
+   "summary": {
+    "en": "A constituent is any group of words that acts together as a unit inside a sentence. Since the mental grammar cannot be observed directly, linguists rely on grammaticality judgements and constituency tests as evidence. This section presents four types of test — replacement, movement, it-clefts, and answers to questions — and explains why the coordination test is unreliable, because constructions such as Right Node Raising join non-constituents.",
+    "zh": "句法成分是在句子内部共同充当一个单位的任何一组词。由于无法直接观察心理语法，语言学家只能借助合乎语法性判断和成分测试来寻找证据。本节介绍四类测试：替换测试、移位测试、it 分裂句以及问句回答；并说明并列测试并不可靠，因为像右节点提升这样的结构会把并非成分的词组并列起来。"
+   },
+   "points": [
+    {
+     "en": "A constituent is any group of words that acts together as a unit within a sentence.",
+     "zh": "句法成分是指在句子内部共同起作用、充当一个单位的任何一组词。"
+    },
+    {
+     "en": "Replacement tests substitute a pronoun, do (too), then or there for the string, and are category-specific.",
+     "zh": "替换测试用代词、do (too)、then 或 there 替换待测词组，且替换词与类别对应。"
+    },
+    {
+     "en": "If a string can be moved elsewhere and the sentence stays grammatical, it is a constituent.",
+     "zh": "若一串词移到句中别处后句子仍然合乎语法，那么它就是句法成分。"
+    },
+    {
+     "en": "Clefts place a string in the frame It was X that Y, where non-constituents give ungrammatical results.",
+     "zh": "分裂句把待测词组放进 It was X that Y 框架，非成分会使句子不合语法。"
+    },
+    {
+     "en": "Constituents can often stand alone as answers, and passing two tests is usually enough.",
+     "zh": "成分通常可以单独充当问句的回答；一般通过两项测试即可确认。"
+    },
+    {
+     "en": "The coordination test is unreliable because Right Node Raising coordinates strings that are not constituents.",
+     "zh": "并列测试并不可靠，因为右节点提升会把并非成分的词组并列起来。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "constituent",
+     "zh": "句法成分",
+     "defEn": "Any group of words that acts together as a unit in a sentence.",
+     "defZh": "在句子内部共同起作用、充当一个单位的任何一组词，是句法的核心概念之一。"
+    },
+    {
+     "en": "constituency test",
+     "zh": "成分测试",
+     "defEn": "A diagnostic, such as replacement or movement, that shows whether a string is a constituent.",
+     "defZh": "用来检验一串词是否为句法成分的诊断方法，如替换测试、移位测试等。"
+    },
+    {
+     "en": "replacement test",
+     "zh": "替换测试",
+     "defEn": "Replacing a string with a pronoun, do, then or there to test constituency.",
+     "defZh": "用代词、do (too)、then 或 there 替换待测词组，以检验其是否为成分的测试。"
+    },
+    {
+     "en": "cleft construction",
+     "zh": "分裂结构",
+     "defEn": "A sentence of the form It is or It was X that Y, used to test constituency.",
+     "defZh": "形式为 It is/was X that Y 的句式，把待测词组置于 X 位置以检验成分。"
+    },
+    {
+     "en": "coordination",
+     "zh": "并列",
+     "defEn": "Joining two elements with a coordinator such as and or but.",
+     "defZh": "用 and、but 等并列连词把两个成分连接起来，被连接的成分称为并列项。"
+    },
+    {
+     "en": "Right Node Raising",
+     "zh": "右节点提升",
+     "defEn": "A construction in which coordinated clauses seem to share a following object.",
+     "defZh": "两个并列的小句或动词短语似乎共同拥有其后一个宾语的结构，会使并列项并非成分。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The students saw it after class.",
+     "noteEn": "Replacing a movie with it is grammatical, so a movie is a noun phrase here.",
+     "noteZh": "用 it 替换 a movie 后句子合法，说明此处 a movie 是名词短语。"
+    },
+    {
+     "text": "At that strange little shop Nimra bought a scarf.",
+     "noteEn": "Moving the prepositional phrase to the front still yields a grammatical sentence.",
+     "noteZh": "把介词短语移到句首后句子依然合乎语法，说明它是句法成分。"
+    },
+    {
+     "text": "It was a movie about dinosaurs that the students saw.",
+     "noteEn": "A cleft showing that the whole noun phrase is a constituent.",
+     "noteZh": "分裂句测试表明整个名词短语 a movie about dinosaurs 是一个成分。"
+    },
+    {
+     "text": "Rathna's brother baked these delicious cookies.",
+     "noteEn": "Used for cleft and question-answer tests, as in Who baked these delicious cookies?",
+     "noteZh": "用于分裂句与问句回答测试，可回答 Who baked... 这样的问句。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Constituency, along with headedness, is one of the central concepts of syntax. Calling a string of words a phrase amounts to claiming that language users represent it as a unit in their mental grammar. The technical term for such a unit is constituent: any group of words that acts together within a sentence. Since the mental grammar cannot be observed directly, we need evidence from grammaticality judgements and a few simple tests: replacement, movement, it-clefts, and answers to questions. A coordination test is often introduced too, but it is not always reliable.",
+     "zh": "成分性与中心语性质一样，是句法的核心概念之一。把一串词称为短语，就等于主张语言使用者在心理语法中把它表征为一个单位。这样的单位在术语上称为句法成分，即在句子内部共同起作用的任何一组词。由于无法直接观察心理语法，我们需要证据，而证据来自合乎语法性判断和几项简单测试：替换、移位、it 分裂句以及问句回答。许多教材还引入并列测试，但它并不总是可靠。"
+    },
+    {
+     "en": "Replacement tests substitute a single word for the string under investigation. A noun phrase can be replaced by a pronoun such as it or they, a verb phrase by do or do too, some prepositional phrases by then or there, and adjective phrases by a known adjective such as happy. Replacement is category-specific, so the result both identifies a constituent and reveals its category. Both grammaticality and meaning must be checked: The students saw it about dinosaurs is unacceptable on the intended meaning, even though it is fine elsewhere.",
+     "zh": "替换测试用一个词替换待考察的词组。名词短语可以用 it、they 等代词替换，动词短语可以用 do 或 do too 替换；部分介词短语可以用 then 或 there 替换，形容词短语可以用 happy 这类已知形容词替换。替换与类别相关，因此测试结果既能确认成分，也能揭示其类别。关键在于同时考察合乎语法性和意义：The students saw it about dinosaurs 在别的情境中可以用，但在想表达的原意上不可接受。"
+    },
+    {
+     "en": "Movement tests relocate a string, usually to the front of the sentence, and ask whether the result is grammatical and keeps the same meaning. Clefts place the string after It was and the rest of the sentence after that, as in It was a movie about dinosaurs that the students saw, while non-constituents fail these tests. To cleft a verb phrase, English requires a tense form of do in the original verb position.",
+     "zh": "移位测试把待测词组移到句中别处，通常是句首，然后判断新句子是否合乎语法且意义不变，如 At that strange little shop Nimra bought a scarf。分裂句把待测词组放在 It was 之后，把句子其余部分放在 that 之后，如 It was a movie about dinosaurs that the students saw。非成分无法通过这两类测试，例如 It was a movie that the students saw about dinosaurs。若要对动词短语作分裂，英语需要在原动词位置放一个带时的 do。"
+    },
+    {
+     "en": "Constituents also tend to be grammatical as answers to questions: What did Rathna's brother bake? These delicious cookies. A result of a constituency test applies only to the specific sentence being tested, so a string that fails in one sentence may still be a constituent elsewhere. Passing two of the four tests is normally enough to be confident that a string is a constituent.",
+     "zh": "成分通常也能合法地充当问句的回答：What did Rathna's brother bake? These delicious cookies. 成分测试的结果只适用于所测试的那个具体句子，因此在某句中通不过测试的词组在别的句子里可能仍是成分。并非每个成分都能通过所有测试，但一般只要通过四项测试中的两项，就可以确信该词组是句法成分。"
+    }
+   ]
+  },
+  "chapter-056-functional-categories": {
+   "title": {
+    "en": "6.5 Functional categories",
+    "zh": "6.5 功能语类"
+   },
+   "summary": {
+    "en": "Not every word in a sentence belongs to a lexical category. Words such as the, will, in and very are functional categories, the grammatical glue that holds syntax together, and they typically carry purely grammatical meaning. This section describes determiners, pronouns, auxiliaries, prepositions and other functional categories, and explains why functional categories are closed classes, since new members are hard to add.",
+    "zh": "句子中并非每个词都属于词汇语类。the、will、in、very 这类词属于功能语类，是把句法黏合起来的语法黏合剂，通常只表达纯语法的意义。本节介绍限定词、代词、助动词、介词等功能语类，并说明功能语类是封闭类，因为很难为其增添新成员。"
+   },
+   "points": [
+    {
+     "en": "Functional categories are the grammatical glue of syntax and carry purely grammatical meaning.",
+     "zh": "功能语类是把句法黏合起来的语法黏合剂，通常表达纯语法的意义。"
+    },
+    {
+     "en": "Determiners come first in noun phrases, only one is allowed, and they include articles, demonstratives and quantifiers.",
+     "zh": "限定词位于名词短语最前，只能出现一个，包括冠词、指示词和部分量词。"
+    },
+    {
+     "en": "Auxiliaries accompany a main verb, show tense and agreement, and precede not and the subject in questions.",
+     "zh": "助动词与主要动词同现，携带时与一致，并出现在否定词和疑问句主语之前。"
+    },
+    {
+     "en": "Modals occur only as auxiliaries, do not agree with the subject, and include will, can and must.",
+     "zh": "情态助动词只能作助动词，不与主语一致，包括 will、can、must 等。"
+    },
+    {
+     "en": "Prepositions express locations or grammatical relations and almost always select a noun phrase complement.",
+     "zh": "介词表达处所或语法关系，几乎总是选择一个名词短语作补足语。"
+    },
+    {
+     "en": "Functional categories are closed classes, though new pronouns such as neopronouns can still be added.",
+     "zh": "功能语类属于封闭类，但人们仍可以提出并使用新的代词，如新代词。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "functional category",
+     "zh": "功能语类",
+     "defEn": "A category of words with mostly grammatical meaning, such as determiners and auxiliaries.",
+     "defZh": "主要表达语法意义的一类词，如限定词、助动词等，可看作把句法黏合起来的语法黏合剂。"
+    },
+    {
+     "en": "determiner",
+     "zh": "限定词",
+     "defEn": "A functional category that occurs first in a noun phrase, only one per phrase.",
+     "defZh": "出现在名词短语最前位置的功能语类，每个短语只能有一个，包括冠词、指示词和部分量词。"
+    },
+    {
+     "en": "auxiliary",
+     "zh": "助动词",
+     "defEn": "A verb-like element that shows tense or agreement and accompanies a main verb.",
+     "defZh": "与主要动词同现、可携带时与一致的功能语类，否定和疑问句中位置特殊。"
+    },
+    {
+     "en": "modal auxiliary",
+     "zh": "情态助动词",
+     "defEn": "An auxiliary such as will or must that never agrees with the subject.",
+     "defZh": "will、can、must 等只能作助动词、且不与主语一致的一类助动词。"
+    },
+    {
+     "en": "preposition",
+     "zh": "介词",
+     "defEn": "A functional element expressing location or grammatical relation, usually with a noun phrase complement.",
+     "defZh": "表达处所或语法关系、几乎总是带名词短语补足语的功能成分，可由程度词修饰。"
+    },
+    {
+     "en": "closed class",
+     "zh": "封闭类",
+     "defEn": "A category that is hard to add new words to, unlike open lexical classes.",
+     "defZh": "很难增添新成员的语类，功能语类多属此类，与开放的词汇语类相对。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The spaceship will arrive in orbit very soon.",
+     "noteEn": "Contains the functional words the, will, in and very alongside lexical words.",
+     "noteZh": "句中除实词外，还含有 the、will、in、very 等功能词。"
+    },
+    {
+     "text": "the three red books",
+     "noteEn": "An article precedes numbers and adjectives in the noun phrase.",
+     "noteZh": "冠词位于数词和形容词之前，出现在名词短语的最前位置。"
+    },
+    {
+     "text": "The bears are dancing.",
+     "noteEn": "The auxiliary are appears after the subject and before the main verb.",
+     "noteZh": "助动词 are 位于主语之后、主要动词之前。"
+    },
+    {
+     "text": "the cat of my friend from school",
+     "noteEn": "Possession can also be marked by a prepositional phrase after the noun.",
+     "noteZh": "所有关系也可由位于名词之后的介词短语表达。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Although nouns, verbs, adjectives and adverbs are lexical categories, not all words in a sentence belong to them. In The spaceship will arrive in orbit very soon, spaceship is the head noun of the noun phrase the spaceship, arrive is a verb, orbit a noun and soon an adverb, but the, will, in and very are not lexical words at all: they belong to functional categories, the grammatical glue that holds syntax together. Lexical categories mostly describe things, states or events, while functional categories often have purely grammatical meaning or use.",
+     "zh": "名词、动词、形容词和副词属于词汇语类，但句子中并非所有词都属于这些类别。在 The spaceship will arrive in orbit very soon 中，spaceship 是名词短语 the spaceship 的中心名词，arrive 是动词，orbit 是名词，soon 是副词，而 the、will、in、very 都不是实词，它们属于功能语类，可以看作把句法黏合起来的语法黏合剂。词汇语类大多描写事物、状态或事件，功能语类则常常只有纯语法的意义或用途。"
+    },
+    {
+     "en": "Determiners form one of the most important functional categories of this chapter. Articles, demonstratives such as this and those, and quantifiers such as every and most all occupy the same initial position in a noun phrase, occur only one at a time, and are in complementary distribution; possessors such as my and the possessive phrase a friend from school's behave the same way. The possessive marker 's attaches to a whole phrase rather than to the head noun, which makes it a clitic rather than an affix. Pronouns are a special functional category that can replace a whole noun phrase, though this textbook still treats them as nouns.",
+     "zh": "限定词是本章最重要的功能语类之一。冠词、this 和 those 等指示词、every 和 most 等量词都出现在名词短语的同一初始位置，且一次只能出现一个，彼此处于互补分布；my 以及 a friend from school's 这样的领属成分也遵循同样的分布。领属标记 's 附着在整个短语而非中心名词上，因此是附缀而不是词缀。代词是一类特殊的功能语类，可以替换整个名词短语，但本教材仍把它们归入名词。"
+    },
+    {
+     "en": "Auxiliaries resemble verbs in showing tense and agreement, but they always occur with a lexical main verb. In English they follow the subject and precede the main verb, appear to the left of not in negatives, and are fronted in yes-no questions. Be, have and do can also be main verbs, while the modals will, can and must occur only as auxiliaries and never agree with the subject. Prepositions express locations or grammatical relations and almost always select a noun phrase complement. Functional categories are closed classes: coining a new noun is easy, but adding a new determiner is hard, though new pronouns can still be proposed.",
+     "zh": "助动词与动词相似，可以携带时和一致，但总是与实义主要动词同现。在英语中，助动词位于主语之后、主要动词之前，在否定句中出现在 not 左侧，在是非问句中移到句首。be、have、do 也可以用作主要动词；情态助动词 will、can、must 等则只能作助动词，且不与主语一致。介词表达处所或语法关系，几乎总是选择名词短语作补足语。功能语类属于封闭类：创造新名词很容易，增加新的限定词则很难，但人们仍会提出新的代词。"
+    }
+   ]
+  }
+ }
+}

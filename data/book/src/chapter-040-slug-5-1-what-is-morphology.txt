@@ -1,0 +1,37 @@
+# 5.1 What is morphology?
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2319#oembed-1
+
+In linguistics, morphology is the study of how words are put together. For example, the word cats is put together from two pieces: cat, which refers to a particular type of furry four-legged animal (🐈), and -s, which indicates that there’s more than one such animal (🐈 🐈‍⬛ 🐈).
+Most words in English have only one or two pieces in them, but some technical words can have many more, like non-renewability, which has at least five (non-, re-, new, -abil, and -ity). In many languages, though, words are often made up of many parts, and a single word can express a meaning that would require a whole sentence in English.
+For example, in the Harvaqtuurmiutut variety of Inuktitut, the word iglujjualiulauqtuq has 5 pieces, and expresses a meaning that we can translate into English with the sentence “They (sg) made a big house.” (iglu = house, –jjua = big, –liu = make, –lauq = distant past, –tuq = declarative; this example is from a 2010 paper by Richard Compton and Christine Pittman).
+Not all combinations of pieces are possible, however. To go back to the simple example of cat and -s, in English we can’t put those two pieces in the opposite order and still get the same meeting—scat is a word in English, but it doesn’t mean “more than one cat”, and it doesn’t have the pieces cat and -s in it, instead it’s an entirely different word.
+One of the things we know when we know a language is how to create new words out of existing pieces, and how to understand new words that other people use—at least, as long as those new words are made of pieces we’ve encountered before. We also know what combinations of pieces are not possible. In this chapter we’ll learn about the different ways that human languages can build words, as well as about the structure that can be found inside words.
+
+## What is a word?
+
+If morphology is the investigation of how words are put together, we first need a working definition of what a word is.
+In everyday life, in English we might think of a word as something that’s written with spaces on either side. This is an orthographic (or spelling-based) definition of what a word is. But just as writing isn’t necessarily a reliable guide to a language’s phonetics or phonology, it doesn’t always identify words in the sense that is relevant for linguistics. And not all languages are written with spaces in the way English is—not all languages have a standard written form at all. So we need a definition of “word” that doesn’t rely on writing.
+The definition of “word” is actually a hotly debated topic in linguistics! Linguists might distinguish phonological words (words for the purposes of sound patterns), morphological words (words for the purposes of morphology), and syntactic words (words for the purposes of sentence structure), and might sometimes disagree about the boundaries between some of these.
+For the purposes of linguistic investigation of grammar we can say that a word is the smallest separable unit in language.
+What this means is that a word is the smallest unit that can stand on its own in an utterance. For example, content words in English (nouns, verbs, adjectives, and adverbs) can stand by themselves as one-word answers to questions, as you can see in the mini-dialogues in (1).
+
+[表格]
+| | | (1) | | a. | | What do you like to eat? | | | | | | | | | Answer: | cake (noun) | | | | | | b. | | What did you do last night? | | | | | | | | | Answer: | sleep (verb) | | | | | | c. | | What colour is the sky today? | | | | | | | | | Answer: | orange (adjective) | | | | | | d. | | How did you wake up this morning? | | | | | | | | | Answer: | slowly (adverb) | | |
+
+Words are also syntactically independent, which means they can appear in different positions in a sentence, changing their order with respect to other elements even while the order of elements inside each word stays the same.
+Even though words are the smallest separable units of language, that doesn’t mean that words are the smallest unit of language overall. As we already saw earlier in this section, words themselves can have smaller pieces inside them, as in the simple cases of cats (cat–s) or non-renewability (non-re-new-abil-ity)—but these smaller pieces can’t stand on their own.
+To refer to these smaller pieces within words, we use the technical term morpheme. A morpheme is the smallest systematic pairing of both form (sign or sound) and meaning or grammatical function. (We say “meaning or grammatical function” instead of just “meaning” because while some morphemes have clear meanings, of the type that will be discussed in Chapter 7 in the context of lexical semantics, other morphemes express more abstract grammatical information.)
+Words that contain more than one morpheme, like cats or nonrenewability or iglujjualiulauqtuq, are morphologically complex. Words with only a single morpheme, like cat or new, are morphologically simple.
+Ask yourself if the word “morphology” itself is morphologically complex. Can you identify morphemes within this word, systematic pairs of form and meaning? Historically, this word is built from two morphemes borrowed from Classical Greek: morph- “shape” and -ology “study of”. People who know English don’t necessarily know Classical Greek, though. Regardless of a word’s etymology (the history of a word), the question of whether it is morphologically complex is a question about how people who know that word use it today. A word might be morphologically complex for some people, but morphologically simple for others. Neither of those options is “correct” or “incorrect”, they just represent different grammars in the minds of language users.
+In linguistics morphology is the study of word shapes. In biology, though, morphology is the study of the shape of animals and other organisms, and if you do an internet search for “morphology”, the first hits often relate to the biological meaning.
+Our goal in morphology is to understand how words can be built out of morphemes in a given language. In the rest of this chapter we will first look at the shapes of different morphemes (and morphological processes); in later sections we will review different functions that morphology can have, looking at divisions between derivational morphology, inflectional morphology, and compounding.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2319#h5p-102
+
+## References
+
+Compton, Richard, and Christine Pittman. 2010. Word-formation by phase in Inuit. Lingua 120:2167–2192

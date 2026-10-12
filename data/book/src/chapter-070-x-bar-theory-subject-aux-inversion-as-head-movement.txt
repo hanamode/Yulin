@@ -1,0 +1,99 @@
+# 6.19 Trees: Movement
+
+## X-bar theory: Subject-Aux Inversion as Head Movement
+
+The first transformation we saw, in Section 6.7, was Subject-Auxiliary Inversion, which reverses the order of the subject and the auxiliary.
+Thinking not in terms of the linear order of the subject and the auxiliary, but instead in terms of our X-Bar structure, could we state this transformation more precisely?
+The tree for [They have left.], an ordinary declarative clause, will be as in Figure 6.28.
+
+[图片：619_tree1_theyhaveleft.png]
+
+Figure 6.28 Tree diagram for the declarative sentence [They have left.]
+The structural relations in this tree encode the grammatical relations between the subject, the clause as a whole, and the predicate. Those relations should not be fundamentally different in a question. We just want to add a difference in the order of constituents, in order to mark that this is a question.
+One way to change the order of the subject and the auxiliary is to move one of them. We could either move the auxiliary up and to the left, or move the subject down and to the right.
+If we think about embedded questions, which we developed an X-bar theory analysis for in Section 6.18, these had a question (+Q) complementizer above the TP, if or whether. This complementizer is in the same position that the auxiliary appears in in main clause questions: right before the subject. This gives us a way to understand Subject-Auxiliary Inversion as movement of the auxiliary from T up and to the left, to land in C. This is illustrated in Figure 6.29.
+
+[图片：619_tree2_haveTtoC.png]
+
+Figure 6.29 Tree diagrams for the question [ Have they left? ] before and after T-to-C Head Movement
+The movement in Figure 6.29 is an example of Head Movement, which changes a tree by moving a head to the next head above it. Head Movement: Movement of a head (X) into the next higher head position.
+We can now restate the generalization about how Yes-No Questions are formed in English main clauses. To name an instance of head movement, you can identify the start and end points. So the movement we see in English main clause questions is called T-to-C movement. Yes-No Question Formation in English: Yes-No Questions are formed by moving the auxiliary in T to C.
+This is a derivational way of representing the relationship between a fronted auxiliary and the position it occupies in statements: we start with one tree structure, and make a change to it in order to arrive at the final structure. There are other ways to represent this dependency, some of which are pursued in non-derivational approaches to syntax, but in this chapter we will continue to formalize these dependencies in terms of movement derivations.
+
+Notation for Head Movement
+In the history of generative linguistics, there have been several different notations used for movement. In this textbook we draw a line through the moving head in its base position (like this), and draw an arrow to the position it moves to.
+There are other ways of indicating movement, which you might encounter online or in other resources. These include trace notation, where the original position of the moved element has a “trace” left in it (written as the letter t in italics). This can be thought of as a variable, or as the empty space left behind by the thing that moved. Trace notation won’t be used in this textbook, but we mention it so that you won’t be confused if you see it elsewhere.
+
+## X-bar theory: Question word fronting as Phrasal Movement
+
+As we saw in Section 6.8, content questions in English also involve a change in word order from corresponding statements. However, we’ll see in this section that we can’t describe that change just in terms of head movement. Instead, we’re going to introduce a second (and final) type of movement: Phrasal Movement.
+Recall some examples of content questions in English:
+
+[表格]
+| | | (1) | | a. | | | What | has the squirrel hidden? | | | | | | b. | | | Where | is it snowing? | | | | | | c. | | | When | was it snowing? | | | | | | d. | | | How | do squirrels hide nuts? | | |
+
+All these questions involve Subject-Aux Inversion, which we analyzed earlier as T-to-C movement for main clause Yes-No questions. We can tell this has applied because the auxiliary is before the subject in all the content questions in (1).
+But we can’t use T-to-C movement to analyze how the content question word gets to the front of the sentence for two reasons:
+- The auxiliary is already in C. We can’t put two words in one head, so we need to put the WH word somewhere higher up (=to the left).
+- The thing that moves to the front of the sentence in a WH-question isn’t just a head, it’s a whole phrase.
+
+How can we tell that what moves is a whole phrase? We can tell by looking at a wider range of content questions.
+
+[表格]
+| | | (2) | | a. | | | What kind of nuts | has the squirrel hidden? | | | | | | b. | | | Which city | is it snowing in? | | | | | | c. | | | Which nuts | did the squirrels hide? | | |
+
+Here instead of the single word what or where, we have larger NPs moving to the front of the question—though these larger NPs still contain content question words. Here what and which are determiners, occurring in the same position that this or the or a would occur.
+So we know that the content question phrase isn’t pronounced in the C head in content questions. Where is it pronounced, then?
+To answer this question, let’s consider again word order for the statement The squirrel has hidden nuts. The auxiliary has is in T, and the object nuts is the complement of the verb hidden. We can represent this in a labelled bracket structure:
+
+[表格]
+| | | (3) | | | | [ | TP | [ | NP | the squirrel] [ | T’ | [ | T | has ] [ | VP | hidden nuts ] ] ] | | |
+
+In the content question, what changes is that we have what as the object of hidden, instead of nuts. We also have a +Q C head above TP, because that’s where the auxiliary in T moves. We can schematize the structure before we do any movement as in Figure 6.30. (The tree before any movement occurs is called Deep Structure in some theories of syntax, though we won’t focus on that terminology here.)
+
+[图片：619_tree3_hiddenwhat.png]
+
+Figure 6.30 Tree diagram for the question [What has the squirrel hidden?] prior to any movement
+Now we need to transform this clause so that the question phrase appears in initial position, at the beginning of the sentence. This isn’t head movement, it’s Phrasal Movement, also referred to as XP Movement. A phrase can’t go in a head position, but it can move to the empty Specifier position in CP. Phrasal Movement: Movement of a phrase (XP) into a higher specifier position.
+This type of Phrasal Movement is known as WH-movement; Phrasal Movement is usually named for the type of phrase that moves. WH-movement: Move a WH-phrase from its original position into Spec,CP.
+Figure 6.31 shows what the tree structure will look like after both T-to-C Movement and WH-movement have applied.
+
+[图片：619_tree4_whathas.png]
+
+Figure 6.31 Tree diagram for the question [What has the squirrel hidden?] after both T-to-C and WH-movement
+What does it look like when we have a complex NP moving to Spec,CP? Basically the same, as shown in Figure 6.32. This tree also shows the auxiliary did in C, inserted as a result of Do-Support:
+
+[图片：619_tree5_whatkind.png]
+
+Figure 6.31 Tree diagram for the question [What kind of nuts did the squirrel hide?] after both T-to-C and WH-movement
+Embedded content questions, which we saw in Section 6.9, have very similar tree structures. They are like main clause content questions in putting the WH-phrase at the front of the CP, but unlike main clause content questions in that they don’t do Subject-Auxiliary Inversion (T-to-C movement).
+What would this look like in a tree? Consider the embedded content question in (4):
+
+[表格]
+| | | (4) | | | | I know [ | CP | what squirrels hide]. | | |
+
+The tree for this sentence would be as in Figure 6.32.
+
+[图片：619_tree6_knowwhat.png]
+
+Figure 6.31 Tree diagram for embedded content question I know what squirrels hide.
+Notice that the embedded C is empty! In many varieties of English, when you get a phrase in embedded Spec,CP, it’s impossible to also have an overt complementizer. So sentences like (5) are always ungrammatical in my English, even though if is a +Q complementizer.
+
+[表格]
+| | | (5) | | | | *I know [ | CP | what if squirrels hide]. | | |
+
+This isn’t true in all languages, though! In many languages WH-movement is totally compatible with an overt complementizer. One such language is Tlingit, a Na-Dené language spoken by members of the Tlingit Nation, whose territory includes parts of Southeast Alaska in the United States, and parts of the Yukon territory and Northern British Columbia in Canada. In Tlingit content questions, the content question word must appear in the left edge of the sentence, but must also be followed by a question particle sá, as shown in (6). (The Tlingit examples here are drawn from Cable (2007). “Ergative” is a case that appears on transitive subjects; the symbol <g̲> represents a voiced uvular stop, an acute accent on a vowel indicates high tone, and the symbol <x’> represents a glottalized velar fricative.)
+
+[表格]
+| | | (6) | | a. | | Daa | | sá | | kéet | | axá? | | | | | | | | | | what | | +Q | | killerwhale | | he.eats.it | | | | | | | | | | “What do killerwhales eat?” | | | | | | b. | | Aadóoch | | sá | | kg̲watóow | | yá | | x’úx’? | | | | | | | | who.ERGATIVE | | +Q | | he.will.read.it | | this | | book | | | | | | | | “Who will read this book?” | | |
+
+Other phrases can appear before the content question word, but only when they are the topic of the sentence. One way to understand the word order in (6) is that the content question word has moved to the specifier of CP, while the head of CP is also filled by a +Q complementizer sá. So the restriction we see in English against having a phrase in Spec,CP and an overt C head in the same phrase isn’t a universal one, it’s just one type of syntactic pattern.
+Movement gives us another tool for understanding the variation in word order that we see across different languages. In this section we’ve focused on how we can use movement to analyze the word order difference between statements and questions in English. This can be applied to any other type of construction or to any other language: if there is a difference in word order in a language that can’t be explained by X-bar structure, one possibility is that the difference results from either a head or a phrase moving in some contexts but not others.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.9 Embedded content questions, and the next section is 6.10 Arguments and thematic roles.

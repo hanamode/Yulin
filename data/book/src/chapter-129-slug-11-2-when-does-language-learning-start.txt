@@ -1,0 +1,28 @@
+# 11.2 When does language learning start?
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=517#oembed-1
+We saw earlier that early exposure to language input is super-important because the mind starts building a mental grammar from a very young age. Just how early does language learning start? For hearing babies, it can start even before birth! If we measure the heart rate of a fetus in the uterus, we find that the heart rate increases in response to external sounds at about the seven-month point in pregnancy, so we know that a fetus can hear outside noises even while it’s still inside the uterus. Not only can fetuses hear, but they’re also remembering some of what they hear: by eight months of pregnancy, a fetus’s heart rate increases more in response to their pregnant parent’s voice than to a stranger’s voice (Kisilevsky et al., 2003). This means they’ve stored some memory of what their parent’s voice sounds like.
+Ok, so by looking at fetal heart rates we can conclude that hearing babies have already stored some auditory memories by the time they’re born. But that doesn’t necessarily mean they have any mental grammar, does it? How can we tell what newborns know about their language? After birth, there are so many more interesting stimuli in their world that measuring heart rate isn’t as informative, but they certainly can’t tell us what they know. What can we observe that would tell us something about mental grammar?
+
+How to be a linguist: Observing High-Amplitude Sucking
+
+[图片：Ch12_Fig1_soother-150x150.jpg]
+
+Figure 11.1. A pacifier.
+Babies can’t do much, but one thing they’re very good at is sucking. Using an instrument called a pressure transducer, which is connected to a pacifier, we can measure how powerfully they suck. When a baby is interested in something, like a sound that she’s hearing, she starts to suck harder. If you keep playing that same sound, eventually she’ll get bored and her sucking strength will decrease. When her sucking strength drops off, we say that the baby has habituated to the sound. But if you play a new sound, she gets interested again and starts sucking powerfully again. So we can observe if a baby notices the difference between two sounds by observing whether her sucking strength increases when you switch from one sound to the other.
+
+Using this high-amplitude sucking habituation method, researchers have found that newborns whose parents speak French notice the difference between French and Russian sentences spoken by the same person (Mehler et al., 1988). The fact that these newborn infants are sensitive to this difference tells us that they must have some memory of the patterns of French, to be able to tell it apart from Russian. What could these babies with French parents have learned about French before they were born? A lot of the sound information they receive in the uterus is quite muffled, but what they do have access to is the prosody. The rhythmic pattern of French depends on syllables of similar length, while that of Russian depends on syllable stress. That prosodic rhythm is audible to a fetus in the uterus, so by the time they’re born, babies can tell the difference between the rhythm they’ve heard before and an unfamiliar rhythm.
+In fact, if the pregnant parent speaks more than one language, a newborn can even tell the difference between those two languages! In a high-amplitude sucking study in British Columbia, babies born to Thai-English bilingual parents noticed when the spoken language switched from English to Thai (Byers-Heinlein et al., 2010). This suggests that their minds are already starting to set up two different mental grammars for the two languages they’ll be acquiring!
+So even when they’re just born, hearing babies have not only learned what their parent’s voice sounds like, they’ve also already learned some of the prosody of the language (or languages!) spoken in their environment.
+I also want us to remember, though, that language acquisition is not a race. In some cultures, parents like to believe that their child is “advanced” in some way: smarter or stronger than other babies. Even though this chapter talks about general patterns of acquisition, remember that there is huge variation across individual children, and learning something earlier isn’t necessarily any advantage. The reason I mention that here is there’s no evidence that a fetus that doesn’t have access to speech sounds in utero, either because the fetus is deaf or the parent uses signed language, is disadvantaged in any way. As soon as they’re exposed to language in a modality they can access, they start building their mental grammar.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=517#h5p-67
+
+## References
+
+Byers-Heinlein, K., Burns, T. C., & Werker, J. F. (2010). The Roots of Bilingualism in Newborns. Psychological Science, 21(3), 343–348.
+Kisilevsky, B. S., Hains, S. M. J., Lee, K., Xie, X., Huang, H., Ye, H. H., Zhang, K., & Wang, Z. (2003). Effects of Experience on Fetal Voice Recognition. Psychological Science, 14(3), 220–224.
+Mehler, J., Jusczyk, P., Lambertz, G., Halsted, N., Bertoncini, J., & Amiel-Tison, C. (1988). A precursor of language acquisition in young infants. Cognition, 29, 143–178.

@@ -1,0 +1,25 @@
+{
+ "batch": 43,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-43.json",
+ "sections": [
+  {
+   "id": "chapter-094-slug-8-6-inferences-neurodiversity",
+   "title": "8.6 How inferences arise, and neurodiversity in inference making",
+   "src": "data/book/src/chapter-094-slug-8-6-inferences-neurodiversity.txt",
+   "chars": 10999
+  },
+  {
+   "id": "chapter-095-slug-8-7-violating-vs-flouting-a-maxim",
+   "title": "8.7 Violating vs. flouting a maxim",
+   "src": "data/book/src/chapter-095-slug-8-7-violating-vs-flouting-a-maxim.txt",
+   "chars": 2925
+  },
+  {
+   "id": "chapter-096-slug-8-8-more-about-the-cooperative-principle",
+   "title": "8.8 More about the Cooperative Principle",
+   "src": "data/book/src/chapter-096-slug-8-8-more-about-the-cooperative-principle.txt",
+   "chars": 3964
+  }
+ ]
+}

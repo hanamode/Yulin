@@ -1,0 +1,25 @@
+{
+ "batch": 12,
+ "chapter": "Chapter 2: Language, Power, and Privilege",
+ "out": "data/book/gen/batch-12.json",
+ "sections": [
+  {
+   "id": "chapter-015-slug-2-6-linguistic-law-enforcement",
+   "title": "2.6 Linguistic law enforcement",
+   "src": "data/book/src/chapter-015-slug-2-6-linguistic-law-enforcement.txt",
+   "chars": 14199
+  },
+  {
+   "id": "chapter-016-slug-2-7-legally-enshrined-harms",
+   "title": "2.7 Legally enshrined harms",
+   "src": "data/book/src/chapter-016-slug-2-7-legally-enshrined-harms.txt",
+   "chars": 7427
+  },
+  {
+   "id": "chapter-017-slug-2-8-exercise-your-linguistics-skills",
+   "title": "2.8 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-017-slug-2-8-exercise-your-linguistics-skills.txt",
+   "chars": 1250
+  }
+ ]
+}

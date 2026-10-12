@@ -1,0 +1,25 @@
+{
+ "batch": 8,
+ "chapter": "Chapter 1: Human Language and Language Science",
+ "out": "data/book/gen/batch-08.json",
+ "sections": [
+  {
+   "id": "chapter-006-slug-1-6-doing-good-with-language-science",
+   "title": "1.6 Doing good with language science",
+   "src": "data/book/src/chapter-006-slug-1-6-doing-good-with-language-science.txt",
+   "chars": 4168
+  },
+  {
+   "id": "chapter-007-slug-1-7-do-chatbots-have-language",
+   "title": "1.7 Do ChatBots have Language?",
+   "src": "data/book/src/chapter-007-slug-1-7-do-chatbots-have-language.txt",
+   "chars": 6981
+  },
+  {
+   "id": "chapter-008-slug-1-8-how-do-chatbots-synthesize-sentences",
+   "title": "1.8 How do ChatBots Synthesize Sentences?",
+   "src": "data/book/src/chapter-008-slug-1-8-how-do-chatbots-synthesize-sentences.txt",
+   "chars": 10803
+  }
+ ]
+}

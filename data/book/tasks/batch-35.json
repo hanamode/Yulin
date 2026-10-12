@@ -1,0 +1,25 @@
+{
+ "batch": 35,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-35.json",
+ "sections": [
+  {
+   "id": "part-007-chapter-7-semantics",
+   "title": "Chapter 7: Semantics",
+   "src": "data/book/src/part-007-chapter-7-semantics.txt",
+   "chars": 1504
+  },
+  {
+   "id": "chapter-074-slug-7-1-linguistic-meaning",
+   "title": "7.1 Linguistic meaning",
+   "src": "data/book/src/chapter-074-slug-7-1-linguistic-meaning.txt",
+   "chars": 7467
+  },
+  {
+   "id": "chapter-075-slug-7-2-compositionality-why-not-just-syntax",
+   "title": "7.2 Compositionality: Why not just syntax?",
+   "src": "data/book/src/chapter-075-slug-7-2-compositionality-why-not-just-syntax.txt",
+   "chars": 7671
+  }
+ ]
+}

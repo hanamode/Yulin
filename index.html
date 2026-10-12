@@ -1,63 +1,111 @@
 <!DOCTYPE html>
-<html lang="zh-CN" data-theme="light">
+<html lang="zh-CN" data-theme="light" data-lang="zh" data-parallel="off">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>语林 · 语言学百科</title>
-<meta name="description" content="语林是一个中文语言学百科全书：收录语言学分支学科、核心概念、理论学派、研究方法、语言学家与语系文字等条目，支持全文检索。">
+<meta name="description" content="《Essentials of Linguistics》第二版的中英双语精读网站：按原书章节顺序逐节精编，含摘要、要点、关键术语与例证，并附英文原文；另收一部语言学百科。">
 <meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#f7f5f0">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23a8442a'/><text y='72' x='50' text-anchor='middle' font-size='58' fill='%23fffdf9' font-family='serif'>语</text></svg>">
+<meta name="theme-color" content="#f7f8fa">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23a8442a'/><text y='72' x='50' text-anchor='middle' font-size='58' fill='%23fffdf8' font-family='serif'>语</text></svg>">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 <a class="skip-link" href="#view">跳到正文</a>
 
 <header class="topbar">
-  <button class="icon-btn only-mobile" id="menuBtn" aria-label="打开导航" aria-expanded="false">☰</button>
+  <button class="icon-btn only-mobile" id="menuBtn" aria-label="打开导航" aria-expanded="false"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M2 4h12M2 8h12M2 12h12" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round"/></svg></button>
 
   <a class="brand" href="#/">
     <span class="brand-mark" aria-hidden="true">语</span>
     <span class="brand-text">
       <strong>语林</strong>
-      <em>语言学百科</em>
+      <em>LINGUISTICS</em>
     </span>
   </a>
 
   <div class="search" role="search">
-    <span class="search-icon" aria-hidden="true">⌕</span>
-    <input id="searchInput" type="search" placeholder="搜索条目、术语、关键词…"
-           autocomplete="off" spellcheck="false" aria-label="搜索百科条目"
+    <span class="search-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><circle cx="7" cy="7" r="4.4" stroke="currentColor" stroke-width="1.4" fill="none"/><path d="M10.4 10.4L14 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg></span>
+    <input id="searchInput" type="search" placeholder="搜索本书与术语百科…"
+           autocomplete="off" spellcheck="false" aria-label="搜索"
            aria-expanded="false" aria-controls="suggestBox" role="combobox">
     <kbd class="search-kbd">/</kbd>
     <div class="suggest" id="suggestBox" role="listbox" hidden></div>
   </div>
 
   <div class="topbar-actions">
-    <button class="icon-btn" id="randomBtn" title="随机条目（R）" aria-label="随机条目">⚄</button>
-    <button class="icon-btn" id="themeBtn" title="切换深浅色主题（T）" aria-label="切换主题">◐</button>
+    <div id="langSwitch"></div>
+    <button class="icon-btn" id="randomBtn" title="随机一节（R）" aria-label="随机一节"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M2 4.5h2.6l1.6 2.2M14 4.5h-3.1L5.4 12H2m12-.5h-3.1l-1.1-1.6" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M11.6 2.6L14 4.5l-2.4 1.9M11.6 9.6L14 11.5l-2.4 1.9" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <button class="icon-btn" id="themeBtn" title="切换深浅色主题（T）" aria-label="切换主题"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><circle cx="8" cy="8" r="3.4" stroke="currentColor" stroke-width="1.4" fill="none"/><path d="M8 .9v1.8M8 13.3v1.8M15.1 8h-1.8M2.7 8H.9M12.9 3.1l-1.3 1.3M4.4 11.6l-1.3 1.3M12.9 12.9l-1.3-1.3M4.4 4.4L3.1 3.1" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg></button>
   </div>
 </header>
 
 <div class="layout">
-  <aside class="sidebar" id="sidebar" aria-label="分类导航"></aside>
+  <aside class="sidebar" id="sidebar" aria-label="导航"></aside>
   <div class="scrim" id="scrim" hidden></div>
   <main class="view" id="view" tabindex="-1"></main>
 </div>
 
 <footer class="footer">
   <div class="footer-inner">
-    <p><strong>语林 · 语言学百科</strong> — 一个离线可用的中文语言学知识库。</p>
-    <p class="muted">共 <span id="footCount">0</span> 个条目 · 内容用于学习与教学参考，引用请核对原始文献。</p>
-    <p class="muted">快捷键：<kbd>/</kbd> 搜索 · <kbd>R</kbd> 随机 · <kbd>T</kbd> 换主题 · <kbd>Esc</kbd> 返回</p>
+    <p><strong>语林</strong> — 以 <em>Essentials of Linguistics, 2nd edition</em>（Anderson 等，eCampusOntario，2022，CC BY-NC-SA 4.0）为底本的中英双语精读网站。</p>
+    <p class="muted">全书 <span id="footCount">0</span> 个小节按原书顺序排列；每节英文原文逐字提取自原书，未作改动。</p>
+    <p class="muted">快捷键：<kbd>/</kbd> 搜索 · <kbd>R</kbd> 随机 · <kbd>L</kbd> 切换语言 · <kbd>T</kbd> 换主题 · <kbd>Esc</kbd> 返回</p>
   </div>
 </footer>
 
 <button class="to-top" id="toTop" aria-label="回到顶部" hidden>↑</button>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<!-- 数据 -->
 <script src="data/categories.js"></script>
 <script src="data/entries.js"></script>
+<!-- BOOK_DATA_START -->
+<script src="data/book/toc.js"></script>
+<script src="data/book/meta.js"></script>
+<script src="data/book/en-01.js"></script>
+<script src="data/book/en-02.js"></script>
+<script src="data/book/en-03.js"></script>
+<script src="data/book/en-04.js"></script>
+<script src="data/book/en-05.js"></script>
+<script src="data/book/en-06.js"></script>
+<script src="data/book/en-07.js"></script>
+<script src="data/book/en-08.js"></script>
+<script src="data/book/en-09.js"></script>
+<script src="data/book/en-10.js"></script>
+<script src="data/book/en-11.js"></script>
+<script src="data/book/en-12.js"></script>
+<script src="data/book/en-13.js"></script>
+<script src="data/book/en-14.js"></script>
+<script src="data/book/en-15.js"></script>
+<script src="data/book/en-16.js"></script>
+<script src="data/book/en-17.js"></script>
+<script src="data/book/en-18.js"></script>
+<script src="data/book/en-19.js"></script>
+<script src="data/book/en-20.js"></script>
+<script src="data/book/en-21.js"></script>
+<script src="data/book/en-22.js"></script>
+<script src="data/book/en-23.js"></script>
+<script src="data/book/en-24.js"></script>
+<script src="data/book/en-25.js"></script>
+<script src="data/book/en-26.js"></script>
+<script src="data/book/en-27.js"></script>
+<script src="data/book/condense-01.js"></script>
+<script src="data/book/condense-02.js"></script>
+<script src="data/book/condense-03.js"></script>
+<script src="data/book/condense-04.js"></script>
+<script src="data/book/condense-05.js"></script>
+<script src="data/book/condense-06.js"></script>
+<script src="data/book/condense-07.js"></script>
+<script src="data/book/condense-08.js"></script>
+<!-- BOOK_DATA_END -->
+
+<!-- 程序 -->
+<script src="assets/js/core.js"></script>
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/book.js"></script>
+<script src="assets/js/wiki.js"></script>
+<script src="assets/js/views.js"></script>
 <script src="assets/js/app.js"></script>
 </body>
 </html>

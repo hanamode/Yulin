@@ -1,0 +1,140 @@
+{
+ "batch": 15,
+ "sections": {
+  "chapter-023-slug-3-6-the-international-phonetic-alphabet": {
+   "title": {"en": "3.6 The International Phonetic Alphabet", "zh": "3.6 国际音标"},
+   "summary": {
+    "en": "Words are not always easy to divide into phones, and writing systems are too irregular and too language-specific to transcribe them reliably. Linguists therefore use the International Phonetic Alphabet, a standard symbol system first published in the late nineteenth century and still revised today. Transcriptions are placed in square brackets and may be broad or narrow. The section explains the IPA's guiding principles and shows how English consonants and vowels are transcribed.",
+    "zh": "词中的音素并不总能轻易切分，而书写系统又过于不规则、只服务于单一语言，无法可靠地标写语音。因此语言学家采用国际音标这套标准符号系统，它于19世纪末首次公布，至今仍在修订。标音写在方括号内，可宽可严。本节说明国际音标的组织原则与使用建议，并示范英语辅音和元音的标音。"
+   },
+   "points": [
+    {"en": "Words are not always neatly divisible into phones; waveforms show that some words have clear boundaries while others do not.", "zh": "词并不总能被整齐地切分为音素；波形图显示，有些词的音素边界清晰，有些则不然。"},
+    {"en": "Because writing systems are inconsistent and language-specific, linguists transcribe phones with the International Phonetic Alphabet inside square brackets.", "zh": "由于书写系统既不统一又只服务于单一语言，语言学家用国际音标在方括号内标写音素。"},
+    {"en": "Transcription may be broad, giving only what is needed to distinguish words, or narrow, recording fine phonetic detail.", "zh": "标音可宽可严：宽式标音只记录区分词所必需的信息，严式标音则记录细致的语音特征。"},
+    {"en": "The IPA recommends typographic simplicity: choose upright symbols over rotated ones and use diacritics only when their meaning is crucial.", "zh": "国际音标提倡排印上的简洁：能用正体符号就不用旋转符号，只有当附加符号的意义至关重要时才使用。"},
+    {"en": "English consonants and vowels vary across dialects, so the transcriptions given are a rough North American baseline, not any single speaker.", "zh": "英语的辅音和元音随方言而变，本节标音只是大致的北美基线，并不代表任何具体说话人。"}
+   ],
+   "terms": [
+    {"en": "International Phonetic Alphabet (IPA)", "zh": "国际音标", "defEn": "A standard system of symbols used to transcribe the phones of any spoken language.", "defZh": "一套用于标写任何口语语言音素的标准符号系统，由国际语音协会创制并不断修订。"},
+    {"en": "transcription", "zh": "标音", "defEn": "A notation of the phones of a word, conventionally enclosed in square brackets.", "defZh": "对词中音素的符号记录，按惯例写在方括号内，可宽可严。"},
+    {"en": "diacritic", "zh": "附加符号（变音符号）", "defEn": "A special mark placed on or beside a symbol to modify its meaning.", "defZh": "置于符号上下方或旁边以改变其含义的特殊标记，如送气符号与卷舌符号。"},
+    {"en": "waveform", "zh": "波形图", "defEn": "A picture that graphically represents the air vibrations of sound waves.", "defZh": "以图形方式表示声波所引起空气振动情况的图像，可用于观察音素边界。"},
+    {"en": "affricate", "zh": "塞擦音", "defEn": "A phone with a stop closure followed by a fricated release, written with a tie-bar.", "defZh": "先形成塞音闭塞、随后以摩擦方式除阻的音素，标写时用连音符把塞音与擦音符号连接起来。"},
+    {"en": "rhotic", "zh": "r 音类（rhotic）", "defEn": "A class of consonants with great cross-linguistic variation, including English r.", "defZh": "一类在跨语言比较中差异极大的辅音，英语中拼作 r 的辅音即属此类。"}
+   ],
+   "examples": [
+    {"text": "nab and wool", "noteEn": "Waveforms for these English words differ in how clearly they can be segmented into phones.", "noteZh": "原文用这两个英语词的波形图作对比：nab 的音素边界明显，wool 则平滑过渡、难以切分。"},
+    {"text": "either, data, and route", "noteEn": "English words that have more than one equally valid pronunciation.", "noteZh": "原文举出的英语词，说明同一个词常有多种同样合理的读音。"},
+    {"text": "[t͡ʃ]", "noteEn": "The simplified transcription of the voiceless postalveolar affricate at the start of chin.", "noteZh": "英语 chin 开头清龈后塞擦音的简化标音，省去了圆唇和后移两个附加符号。"},
+    {"text": "witch and which", "noteEn": "A pair distinguished by voiced [w] and voiceless [ʍ] for the few speakers who have both.", "noteZh": "对少数仍区分这两个词的说话人而言，witch 用浊音 [w]，which 用清音 [ʍ]。"}
+   ],
+   "body": [
+    {
+     "en": "Speech is a continuous physical signal, and dividing it into individual phones is not always straightforward. Waveforms of the English words nab and wool make the difference clear: nab shows abrupt transitions among three distinct regions, while wool runs smoothly from beginning to end with no obvious divisions. In this textbook words are segmented for you, but raw recordings of an unfamiliar language may leave the boundaries between phones uncertain.",
+     "zh": "言语是连续的物质信号，把它切分为一个个音素并不总是轻而易举。英语词 nab 与 wool 的波形图清楚地显示了这种差别：nab 的波形在三个明显不同的区域之间骤然过渡，而 wool 的波形自始至终平滑连贯，看不出明显的分界。本教材已为读者切分好词中的音素，但在处理一门陌生语言的原始录音时，音素之间的边界可能并不明确。"
+    },
+    {
+     "en": "Once phones can be identified, they need a notation that conveys pronunciation unambiguously. Such a notation is a transcription, placed in square brackets, and it may be broad or narrow. An existing writing system cannot serve this purpose: English spelling uses the letter a for the vowels of nab, father, halo, and diva, while the same vowel in diva, meet, meat, me, and mummy can be written in different ways.",
+     "zh": "一旦能够辨认音素，就需要一种能无歧义地传达读音的标写方式。这种标写称为标音，写在方括号内，可宽可严。现成的书写系统无法胜任这一任务：英语拼写中字母 a 可表示 nab、father、halo、diva 中的不同元音，而 diva、meet、meat、me、mummy 中的同一元音又用不同的字母或字母组合表示。"
+    },
+    {
+     "en": "The International Phonetic Alphabet was created by the International Phonetic Association, founded in 1886, and has been revised many times; its newest symbol, the labiodental tap [ⱱ], was added in 2005. The IPA's value lies less in memorizing symbols than in understanding the concepts behind them, much as the periodic table matters for what its entries mean rather than for the symbols alone.",
+     "zh": "国际音标由国际语音协会创制，该协会成立于 1886 年，此后这套标音系统历经多次修订，最新的一个符号是 2005 年增补的唇齿闪音 [ⱱ]。国际音标的价值不在于背下符号，而在于理解符号背后的概念，就像元素周期表的意义在于各项所代表的含义，而不只是符号本身。"
+    },
+    {
+     "en": "When transcribing English, the IPA recommends the typographically simplest notation that still conveys the crucial information. English r varies enormously, from alveolar [ɹ] to retroflex [ɻ] and beyond, so a plain [r] is a reasonable broad choice. Likewise the affricate of chin is usually written [t͡ʃ] rather than the more accurate [ṯ͡ʃʷ], because the postalveolar release already implies a postalveolar closure.",
+     "zh": "在标写英语时，国际音标建议采用仍能传达关键信息的、排印上最简洁的写法。英语的 r 变体极多，从齿龈音 [ɹ] 到卷舌音 [ɻ] 等不一而足，因此宽式标音中选用普通的 [r] 是合理的。同样，chin 中的塞擦音通常写作 [t͡ʃ]，而不写更精确的 [ṯ͡ʃʷ]，因为龈后除阻本身已经蕴含了龈后的闭塞位置。"
+    }
+   ]
+  },
+  "chapter-024-slug-3-7-signed-language-articulators": {
+   "title": {"en": "3.7 Signed language articulators", "zh": "3.7 手语发音器官"},
+   "summary": {
+    "en": "Signed languages have articulatory properties just as spoken ones do, but the units differ: a sign is a whole independent word, while the shape and the location of the hand cannot be separated from each other. The manual articulators are the arms, hands, and fingers, which move at six kinds of joints; the rest of the body forms the nonmanual articulators. The section shows how to identify which joints move in a sign.",
+    "zh": "手语和口语一样具有发音属性，但单位并不相同：一个手语符号本身就是独立的词，而手的形状与所在位置则彼此不可分离。手部发音器官是手臂、手和手指，它们通过六类关节运动；身体其余部分构成非手部发音器官。本节示范如何判断一个手语符号中哪些关节正在运动。"
+   },
+   "points": [
+    {"en": "Signed languages have two units of articulation: whole signs and the individual articulatory properties of a sign.", "zh": "手语的发音单位有两个层次：完整的手语符号，以及符号内部各项具体的发音属性。"},
+    {"en": "Handshape and location are inseparable, just as place and manner of articulation cannot be chosen independently.", "zh": "手的形状与位置不可分离，正如发音部位与发音方法也无法彼此独立地选定。"},
+    {"en": "The manual articulators are the arms, hands, and fingers, moving at the shoulder, elbow, radioulnar, wrist, base knuckle, and interphalangeal joints.", "zh": "手部发音器官包括手臂、手和手指，通过肩、肘、桡尺、腕、指根（掌指）和指间等六类关节运动。"},
+    {"en": "The shoulder is very mobile; the elbow and interphalangeal joints mainly flex and extend; the wrist and base knuckles cannot rotate.", "zh": "肩关节活动范围最大；肘和指间关节主要作屈伸运动；腕关节与指根关节则不能旋转。"},
+    {"en": "Nonmanual articulators such as the torso, head, and face carry meaning, so hand-tracking gloves cannot translate signing fully.", "zh": "躯干、头部和面部等非手部发音器官也承载意义，因此只追踪手部的翻译手套无法完整翻译手语。"}
+   ],
+   "terms": [
+    {"en": "manual articulators", "zh": "手部发音器官", "defEn": "The arms, hands, and fingers, which are the primary articulators used for signing.", "defZh": "手臂、手和手指，是打手语时最主要使用的发音器官，也是手语发音研究的主要对象。"},
+    {"en": "nonmanual articulators", "zh": "非手部发音器官", "defEn": "Body parts other than the hands that contribute to signing, such as the torso, head, and face.", "defZh": "除手以外参与手语表达的身体部位，如躯干、头部和面部，也称非手部成分。"},
+    {"en": "abduction", "zh": "外展", "defEn": "Movement of a limb outward or upward, away from the midline of the body.", "defZh": "肢体向外或向上、离开身体中线的运动，如肩或腕的侧向抬离。"},
+    {"en": "adduction", "zh": "内收", "defEn": "Movement of a limb inward or downward, towards the midline of the body.", "defZh": "肢体向内或向下、朝向身体中线的运动，与「外展」方向相反。"},
+    {"en": "flexion", "zh": "屈曲", "defEn": "Bending a joint so that the angle between the bones becomes smaller.", "defZh": "弯曲关节，使相关两块骨头之间的夹角变小、肢体向身体收拢的运动。"},
+    {"en": "extension", "zh": "伸展", "defEn": "Bending a joint in the opposite direction, straightening the bones involved.", "defZh": "朝相反方向弯曲关节，使相关骨头伸直的运动，与「屈曲」相对。"}
+   ],
+   "examples": [
+    {"text": "[bɛd]", "noteEn": "The English word bed, whose individual phones can each be pronounced on their own.", "noteZh": "英语词 bed 的音标，其中每个音素都可以单独说出，说明音素具有独立性。"},
+    {"text": "SORRY", "noteEn": "An ASL sign with repeated elbow flexion and extension and repeated shoulder abduction and adduction.", "noteZh": "一个美国手语符号，运动中包含肘的反复屈伸以及肩的反复外展和内收。"},
+    {"text": "APPLE", "noteEn": "An ASL sign whose only movement is repeated rotation of the radioulnar joint.", "noteZh": "一个美国手语符号，其唯一运动来自桡尺关节的反复旋转。"},
+    {"text": "CHOOSE", "noteEn": "An ASL sign with non-repeated base knuckle flexion and wrist extension.", "noteZh": "一个美国手语符号，包含一次性的指根关节屈曲与腕关节伸展。"}
+   ],
+   "body": [
+    {
+     "en": "Signed languages lack a direct equivalent of the phone. A sign is the basic independent meaningful unit, comparable to a spoken word, but its articulatory properties, such as the shape of the hand and its location, cannot be separated: shaping the hand necessarily happens somewhere, and placing it somewhere necessarily involves configuring the fingers. Spoken languages thus have three units (words, articulatory properties, and phones), while signed languages clearly have two (signs and their articulatory properties); whether a third intermediate unit exists is debated.",
+     "zh": "手语没有与音素直接对应的单位。手语符号是基本的独立表意单位，大致相当于口语的词，但其各项发音属性彼此不可分离：手要以某种方式成形，必然是在某个位置上成形；要把手放到某个位置，也必然涉及手指的某种配置。因此口语有三类单位（词、发音属性、音素），而手语明确具有两类（手语符号及其发音属性）；是否存在居中的第三类单位，仍有争论。"
+    },
+    {
+     "en": "The manual articulators are the arms, hands, and fingers, and they move by means of joints. Six joint types are distinguished: shoulder, elbow, radioulnar, wrist, base knuckles, and interphalangeal joints. The shoulder allows abduction and adduction, flexion and extension, and rotation, giving the upper arm a wide range of motion. The elbow is more restricted, mainly flexing and extending, and it cannot usually extend backwards from a hanging position. The radioulnar joint lets the radius and ulna pivot around each other, rotating the forearm.",
+     "zh": "手部发音器官是手臂、手和手指，它们依靠关节运动。这里区分六类关节：肩、肘、桡尺、腕、指根（掌指）和指间关节。肩关节可作外展与内收、屈曲与伸展以及旋转，使上臂具有很大的活动范围。肘关节活动较为受限，主要作屈伸，而且通常不能从下垂位置向后伸展。桡尺关节使桡骨与尺骨相互扭转，从而实现前臂的旋转。"
+    },
+    {
+     "en": "The wrist and base knuckles allow abduction, adduction, extension, and flexion but no rotation, while the interphalangeal joints only flex and extend. When describing a sign, only the core movement counts; transitional movements into and out of the sign are ignored, as is any fixed configuration of joints. Analysing the ASL sign SORRY, for instance, leaves the elbow and shoulder as the joints of interest, since the hand traces a circle through repeated elbow flexion and extension together with shoulder abduction and adduction.",
+     "zh": "腕关节和指根关节可作外展、内收、伸展和屈曲，但不能旋转；指间关节只能屈伸。描写一个手语符号时，只有核心运动才算数：进入和退出手语符号的过渡动作被忽略，关节固定的配置也不算运动。例如分析美国手语符号 SORRY 时，真正相关的关节只剩下肘和肩，因为手在胸前画圈，动作包括肘的反复屈伸以及肩的外展和内收。"
+    },
+    {
+     "en": "All remaining body parts are nonmanual articulators, especially the torso, head, and face, which produce gaze changes, eyebrow movements, head tilts, and lip shapes. These are part of a sign and cannot be ignored, which is one reason gloves that track only the hands cannot translate signed languages completely.",
+     "zh": "身体其余部分构成非手部发音器官，尤其是躯干、头部和面部，可产生目光变化、眉毛升降、头部倾斜、唇形变化等。这些动作是手语符号的组成部分，在完整的分析中不可忽略；这正是只追踪手部的翻译手套无法完整翻译手语的原因之一。"
+    }
+   ]
+  },
+  "chapter-025-slug-3-8-describing-signs": {
+   "title": {"en": "3.8 Describing signs", "zh": "3.8 描写手语符号"},
+   "summary": {
+    "en": "Manual articulations fall into four parameters: handshape, orientation, location, and movement. Handshapes are often named after the numbers or letters they represent in a particular signed language, but those labels do not carry over between languages. Orientation splits into palm orientation and finger orientation, while movement divides into path movement at the elbow and shoulder and local movement at the other joints. Signs differing in one parameter form minimal pairs.",
+    "zh": "手部发音可归入四个参数：手形、朝向、位置和运动。手形常借用它在某一手语中代表的数字或字母来命名，但这些名称不能跨语言通用。朝向分为掌向与手指朝向；运动分为由肘和肩完成的路径运动与由其余关节完成的局部运动。只在一个参数上有差别的手语符号构成最小对立对。"
+   },
+   "points": [
+    {"en": "Manual articulations are grouped into four parameters: handshape, orientation, location, and movement.", "zh": "手部发音可归为四个参数：手形、朝向、位置和运动，它们是描写手语符号的基本维度。"},
+    {"en": "Handshapes are often named after the letter or number they represent, but these names are not universal across signed languages.", "zh": "手形常按它所代表的字母或数字命名，但这些名称在不同的手语之间并不通用。"},
+    {"en": "Some handshapes are unmarked: the most common across languages, acquired earliest by children, and easiest to articulate and distinguish.", "zh": "有些手形属于无标记手形：在各国手语中最常见、儿童最早习得，也最容易发出和区分。"},
+    {"en": "Orientation has two components, palm orientation and finger orientation, and depends only on the wrist, radioulnar, elbow, and shoulder joints.", "zh": "朝向包含掌向和手指朝向两个成分，只取决于腕、桡尺、肘和肩这四个关节。"},
+    {"en": "Movement is path movement at the elbow or shoulder or local movement at the radioulnar, wrist, base knuckle, or interphalangeal joints.", "zh": "运动分为路径运动与局部运动：前者由肘或肩完成，后者由桡尺、腕、指根或指间关节完成。"},
+    {"en": "Signs that differ in only one parameter are minimal pairs, and a minimal pair can turn on any one of the four.", "zh": "只在一个参数上有差别的手语符号构成最小对立对，四个参数中的任何一个都可以成为区别所在。"}
+   ],
+   "terms": [
+    {"en": "parameters", "zh": "参数", "defEn": "The four categories of manual articulation: handshape, orientation, location, and movement.", "defZh": "对手部发音所作的四类划分，即手形、朝向、位置和运动，也称基本要素。"},
+    {"en": "handshape", "zh": "手形", "defEn": "The static configuration of the base knuckles and interphalangeal joints in a sign.", "defZh": "一个手语符号中指根关节与指间关节的静态配置方式，由各关节是否屈曲及程度决定。"},
+    {"en": "orientation", "zh": "朝向", "defEn": "The direction the hand faces, determined by the wrist, radioulnar, elbow, and shoulder joints.", "defZh": "手所面对的方向，由腕、桡尺、肘和肩四个关节的配置决定。"},
+    {"en": "location", "zh": "位置", "defEn": "Where in space or on the body a sign is articulated.", "defZh": "一个手语符号在空间中或身体上被发出的位置，默认位置是身前的中性手语空间。"},
+    {"en": "movement", "zh": "运动", "defEn": "How the manual articulators move, divided into path movement and local movement.", "defZh": "手部发音器官如何运动，分为在肘和肩完成的路径运动与在其余关节完成的局部运动。"},
+    {"en": "minimal pair", "zh": "最小对立对", "defEn": "A pair of signs differing in just one parameter.", "defZh": "只在一个参数上存在差别的一对手语符号，可用来确定该参数具有区别作用。"}
+   ],
+   "examples": [
+    {"text": "SORRY and PLEASE", "noteEn": "An ASL minimal pair differing in handshape: open-A versus open-B.", "noteZh": "美国手语中的最小对立对，二者的手形不同，分别为 open-A 与 open-B。"},
+    {"text": "PROOF versus STOP", "noteEn": "An ASL minimal pair differing in orientation, with the dominant palm up in PROOF and facing left in STOP.", "noteZh": "美国手语中的最小对立对，区别在朝向：PROOF 的掌心向上，STOP 的掌心朝向说话人左侧。"},
+    {"text": "APPLE versus ONION", "noteEn": "An ASL minimal pair differing in location: the cheek versus the side of the head near the eye.", "noteZh": "美国手语中的最小对立对，区别在位置：APPLE 在脸颊，ONION 在头部靠近眼睛的一侧。"},
+    {"text": "THINK versus WONDER", "noteEn": "An ASL minimal pair differing in movement: inward motion versus a circle near the head.", "noteZh": "美国手语中的最小对立对，区别在运动：THINK 向头部移动，WONDER 在头部附近画圈。"}
+   ],
+   "body": [
+    {
+     "en": "Many manual articulations recur in the same combinations, so they are grouped into four parameters, also called primes: handshape, orientation, location, and movement. Handshape is the static configuration of the base knuckles and interphalangeal joints, described by which joints are flexed and by how much. Because prose descriptions are cumbersome, handshapes are often drawn or labelled with the letter or number they represent.",
+     "zh": "许多手部发音方式反复以相同的组合出现，因此可以归入四个参数（也称基本要素）：手形、朝向、位置和运动。手形是指根关节与指间关节的静态配置，可根据哪些关节发生屈曲以及屈曲的程度来描写。由于文字描写相当累赘，手形常常直接用图形表示，或用它所代表的字母、数字来命名。"
+    },
+    {
+     "en": "Those labels must be used cautiously. The S handshape represents the English letter in ASL but the Swedish letter G in Swedish Sign Language, and Russian Sign Language cannot be described with an R handshape at all, since its alphabet uses the Cyrillic letter Р, represented by the handshape that is EIGHT in ASL. Beyond letters and numbers, many handshapes have no such label. Some are unmarked, being the most common and earliest acquired, while marked handshapes are not universal and differ in frequency across languages.",
+     "zh": "使用这些名称时必须谨慎：S 手形在美国手语中代表英文字母，在瑞典手语中却代表瑞典语字母 G；俄语手语更无法用 R 手形来描述，因为其字母表使用西里尔字母 Р，而该字母在美国手语中对应的手形恰恰是 EIGHT。除字母和数字之外，许多手形并没有这类名称。部分手形是无标记的，最为常见，也最早被儿童习得；有标记手形则并不通用，在不同语言中的常见程度也不相同。"
+    },
+    {
+     "en": "The other four joints produce orientation, which has a palm component and a finger component; bending the base knuckles changes handshape only. Location is where in space or on the body a sign is made, most often neutral signing space in front of the torso or some part of the head. Movement divides into path movement at the elbow or shoulder and local movement at the radioulnar, wrist, base knuckle, or interphalangeal joints, and it interacts with the other parameters.",
+     "zh": "其余四个关节决定朝向，朝向包含掌向与手指朝向两个成分；弯曲指根关节只会改变手形，不会改变朝向。位置是一个手语符号在空间中或身体上被发出的地方，最常见的是身前的中性手语空间或头部的某一部位。运动分为由肘或肩完成的路径运动与由桡尺、腕、指根或指间关节完成的局部运动，并与其他参数相互交织，因此分析一个手语符号时需要同时说明各参数的配合情况。"
+    }
+   ]
+  }
+ }
+}

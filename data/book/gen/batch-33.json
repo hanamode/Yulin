@@ -1,0 +1,321 @@
+{
+ "batch": 33,
+ "sections": {
+  "chapter-069-x-bar-structure-embedded-clauses-as-cps": {
+   "title": {
+    "en": "6.18 Trees: Embedded clauses",
+    "zh": "6.18 树形图：嵌入小句"
+   },
+   "summary": {
+    "en": "Complementizers are what allow a clause to be embedded as the complement of a verb, and X-bar principles require the C head to project a CP above the embedded TP. English may leave the declarative C head null, and uses if or whether for embedded Yes-No questions. The features [–Q] and [+Q] sort declarative from interrogative C heads, while nonfinite embedding takes a null C or for with to in T.",
+    "zh": "标句词使小句能够嵌入，充当动词的补足语；按 X 杠理论，标句词中心语必须投射出 CP，并以内嵌 TP 为补足语。英语陈述标句词的 C 位置可以没有语音形式，内嵌是非问句则由 if 或 whether 占据 C。特征 [–Q] 与 [+Q] 把 C 中心语分为陈述式与疑问式，非限定内嵌小句的 C 是零形式或 for，T 的中心语是 to。"
+   },
+   "points": [
+    {
+     "en": "Because every head projects a phrase, the complementizer C heads a CP that takes TP as its complement.",
+     "zh": "每个中心语都要投射出短语，标句词 C 投射为 CP，以内嵌 TP 为补足语。"
+    },
+    {
+     "en": "In English the declarative C head may be null, so that can be absent while the CP remains.",
+     "zh": "英语陈述句的 C 中心语可以为空，that 可以不出现，但 CP 依然存在。"
+    },
+    {
+     "en": "Embedded Yes-No questions place if or whether in C, giving them the same structure as declaratives.",
+     "zh": "内嵌是非问句把 if 或 whether 放在 C，结构与内嵌陈述小句相同。"
+    },
+    {
+     "en": "Declarative C heads are [–Q] and interrogative ones are [+Q], and verbs select which types they take.",
+     "zh": "陈述标句词带 [–Q] 特征，疑问标句词带 [+Q] 特征，动词选择与哪类 CP 组合。"
+    },
+    {
+     "en": "Nonfinite embedded clauses take a null C or for, with to heading the embedded T.",
+     "zh": "非限定内嵌小句以零形式 ∅ 或 for 作标句词，由 to 充当内嵌 T 的中心语。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "complementizer",
+     "zh": "标句词",
+     "defEn": "A functional head that introduces an embedded clause and heads a CP.",
+     "defZh": "引导内嵌小句、并投射出 CP 的功能性中心语，英语中如 that、if、whether 以及零形式。"
+    },
+    {
+     "en": "embedded clause",
+     "zh": "嵌入小句",
+     "defEn": "A clause that appears inside a larger sentence and serves as a verb's complement.",
+     "defZh": "位于更大句子内部、充当动词补足语的小句，可以是否定形式，也可以是非限定形式。"
+    },
+    {
+     "en": "complementizer phrase (CP)",
+     "zh": "标句词短语（CP）",
+     "defEn": "The phrase projected by a complementizer head, which takes TP as its complement.",
+     "defZh": "由标句词中心语投射而成的短语，以内嵌的 TP 为补足语，是内嵌小句在树形图中的整体。"
+    },
+    {
+     "en": "Q feature",
+     "zh": "Q 特征",
+     "defEn": "A feature marking a C head as declarative [–Q] or interrogative [+Q].",
+     "defZh": "用来标记 C 中心语性质的特征：陈述式为 [–Q]，疑问式为 [+Q]。"
+    },
+    {
+     "en": "nonfinite clause",
+     "zh": "非限定小句",
+     "defEn": "An embedded clause whose T is headed by the nonfinite marker to.",
+     "defZh": "内嵌小句中 T 以非限定标记 to 为中心语的那一类，其 C 是零形式或 for。"
+    },
+    {
+     "en": "null complementizer",
+     "zh": "零标句词",
+     "defEn": "A C head with no pronounced form, as in English declarative embedding.",
+     "defZh": "没有语音形式的 C 中心语，例如英语陈述内嵌小句中可以省略的 that。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Deniz said that Samnang might leave.",
+     "noteEn": "An embedded declarative in which that fills the C head position.",
+     "noteZh": "内嵌陈述小句，that 充当 C 中心语，整个 CP 做 said 的补足语。"
+    },
+    {
+     "text": "Deniz said ∅ Samnang might leave.",
+     "noteEn": "The same structure with a null C head in English.",
+     "noteZh": "结构完全相同，只是英语的 C 中心语没有语音形式，通常记作 ∅。"
+    },
+    {
+     "text": "Eryl wonders whether ghosts exist",
+     "noteEn": "An embedded Yes-No question with whether in the C head.",
+     "noteZh": "内嵌是非问句，由 whether 充当 C 中心语，属于带 [+Q] 特征的疑问标句词。"
+    },
+    {
+     "text": "I want for ghosts to exist",
+     "noteEn": "A nonfinite embedded clause with for as C and to in T.",
+     "noteZh": "非限定内嵌小句，for 作 C 中心语，非限定标记 to 作内嵌 T 的中心语。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier sections showed that complementizers are what allow a clause to be embedded, that is, to serve as the complement of a verb. Because every head must project a phrase of the same category, the complementizer C projects a CP. Since verbs select whether they take an embedded clause, that CP is the complement of the verb, and the CP in turn takes TP as its own complement. When a clause such as Samnang might leave is embedded under said, the lower TP is placed inside the CP rather than inside the main clause VP, because the C head and its CP would not fit there.",
+     "zh": "此前的章节已经说明，标句词使小句得以嵌入，充当动词的补足语。按照 X 杠结构的原则，每个中心语都必须投射出同类短语，因此标句词 C 投射出 CP。动词可以选择是否带内嵌小句，所以这个 CP 是动词的补足语，CP 本身又以 TP 为补足语。Deniz said something 与 Samnang might leave 各对应一棵 TP 树形图；当 Samnang might leave 嵌入 said 之下时，较低的 TP 要放进 CP 内部，不能放进主句 VP，因为 C 中心语及其 CP 在那里没有位置。主句 VP 只包含动词本身，内嵌小句整体作为 CP 与动词处于姐妹关系。"
+    },
+    {
+     "en": "English does not always pronounce the complementizer. In Deniz said ∅ Samnang might leave the CP is still assumed to exist, but its C head is null; this differs from claiming that no CP is present. Embedded Yes-No questions look structurally much like embedded declaratives, except that if or whether occupies the C head, as in Eryl wonders whether ghosts exist. Declarative heads, whether that or null, carry a negative Q feature, while interrogative heads such as if and whether carry a positive Q feature, so verbs select which CP types they combine with.",
+     "zh": "英语并不总是把标句词说出来。在 Deniz said ∅ Samnang might leave 中，我们仍假定存在 CP，只是它的 C 中心语为空，这与认为根本没有 CP 不同。内嵌是非问句在结构上与内嵌陈述小句大体一致，区别只在于 if 或 whether 占据 C 中心语，如 Eryl wonders whether ghosts exist。陈述标句词无论 that 还是零形式都带否定 Q 特征，if 与 whether 等疑问标句词带肯定 Q 特征。不同动词因此可以只与陈述 CP 组合、只与疑问 CP 组合、两者皆可或都不行，这正是用特征刻画 C 中心语的原因。"
+    },
+    {
+     "en": "Embedded nonfinite clauses take a null C or for as their complementizer, which can be called a nonfinite complementizer, and their TP is headed by the nonfinite marker to, as in I want for ghosts to exist. The basic structure of clauses is now formalized within X-bar theory. The next step is to express transformations over tree structures, beginning with the concept of syntactic movement.",
+     "zh": "非限定内嵌小句的标句词是零形式或 for，可称为非限定标句词，其 TP 以非限定标记 to 为中心语，如 I want for ghosts to exist。这类小句与限定内嵌小句的另一处差别，就在于 T 的中心语不是时标记，而是非限定标记 to。内嵌小句既可取限定形式，也可取非限定形式，但二者都需要 CP 一层。至此小句的基本结构已在 X 杠理论中形式化，下一步是在树形结构上表达转换，首先引入句法移位的概念。"
+    }
+   ]
+  },
+  "chapter-070-x-bar-theory-subject-aux-inversion-as-head-movement": {
+   "title": {
+    "en": "6.19 Trees: Movement",
+    "zh": "6.19 树形图：移位"
+   },
+   "summary": {
+    "en": "Subject-Auxiliary Inversion in English main clause questions is analyzed as Head Movement, in which the auxiliary moves from T up to C, a derivation called T-to-C movement. Content questions additionally require Phrasal Movement, fronting an entire WH-phrase into Spec,CP, a process known as WH-movement. Embedded content questions undergo the same WH-movement without inversion, and languages such as Tlingit allow an overt question complementizer alongside a filled Spec,CP.",
+    "zh": "英语主句是非问句中的主谓倒装被分析为中心语移位，也就是助动词由 T 向上移入 C，这种推导称为 T 到 C 移位。内容疑问句还需要短语移位，把整个 WH 短语前置到 CP 的指示语位置，即 WH 移位。内嵌内容疑问句同样进行 WH 移位，但不发生主谓倒装；特林吉特语等语言还允许在 CP 指示语已被占据的同时出现显性疑问标句词，说明英语的限制并非普遍规律。"
+   },
+   "points": [
+    {
+     "en": "Subject-Auxiliary Inversion in English main clause questions is the auxiliary moving from T to C.",
+     "zh": "英语主句是非问句中的主谓倒装，就是助动词从 T 位置移入 C 位置的移位。"
+    },
+    {
+     "en": "Head Movement moves a head into the next higher head position and is drawn with an arrow.",
+     "zh": "中心语移位把中心语移入树形图中上一个更高的中心语位置，书中用箭头标示移动的终点。"
+    },
+    {
+     "en": "A fronted question phrase is not a head but a whole phrase, so it cannot land in C.",
+     "zh": "前置的疑问语段不是单个中心语，而是整个短语，因此不能落在 C 这个中心语位置。"
+    },
+    {
+     "en": "Phrasal Movement moves a phrase into a higher specifier, and WH-movement targets Spec,CP.",
+     "zh": "短语移位把短语移入更高的指示语位置，WH 移位的着陆点就是 CP 的指示语。"
+    },
+    {
+     "en": "Embedded content questions front the WH-phrase but do not carry out T-to-C movement.",
+     "zh": "内嵌内容疑问句把 WH 短语前置，但不进行 T 到 C 移位，因此不出现主谓倒装。"
+    },
+    {
+     "en": "English forbids an overt complementizer with a filled Spec,CP, but Tlingit permits it.",
+     "zh": "英语不允许 CP 指示语被占据时再出现显性标句词，特林吉特语却允许二者共存。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Head Movement",
+     "zh": "中心语移位",
+     "defEn": "Movement of a head into the next higher head position in the tree.",
+     "defZh": "把中心语移入树形图中相邻的更高中心语位置的移位，通常用箭头表示。"
+    },
+    {
+     "en": "T-to-C movement",
+     "zh": "T 到 C 移位",
+     "defEn": "Head movement of the auxiliary from T into C in main clause questions.",
+     "defZh": "英语主句疑问句中助动词由 T 移到 C 的中心语移位，用以构成是非问句。"
+    },
+    {
+     "en": "Phrasal Movement",
+     "zh": "短语移位",
+     "defEn": "Movement of a phrase into a higher specifier position.",
+     "defZh": "把整个短语移入更高指示语位置的移位，又称 XP 移位。"
+    },
+    {
+     "en": "WH-movement",
+     "zh": "WH 移位",
+     "defEn": "Movement of a WH-phrase from its original position into Spec,CP.",
+     "defZh": "把 WH 短语从其基础位置移入 CP 指示语位置的短语移位。"
+    },
+    {
+     "en": "trace",
+     "zh": "语迹",
+     "defEn": "The empty position left behind by a moved element, written as italic t.",
+     "defZh": "移位成分在原位留下的空位，通常写作斜体字母 t，本书并未采用。"
+    },
+    {
+     "en": "Spec,CP",
+     "zh": "CP 指示语",
+     "defEn": "The specifier position of CP, the landing site of WH-movement.",
+     "defZh": "CP 的指示语位置，是 WH 短语移位后的着陆点，通常容纳疑问短语。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Have they left?",
+     "noteEn": "A main clause Yes-No question derived by T-to-C movement of the auxiliary.",
+     "noteZh": "内嵌是非问句，助动词 have 从 T 移到 C，因而出现在主语之前。"
+    },
+    {
+     "text": "What has the squirrel hidden?",
+     "noteEn": "A content question combining WH-movement with T-to-C movement of the auxiliary.",
+     "noteZh": "内容疑问句，WH 短语移入 CP 指示语，助动词同时移到 C。"
+    },
+    {
+     "text": "I know what squirrels hide",
+     "noteEn": "An embedded content question showing WH-movement but no subject-auxiliary inversion.",
+     "noteZh": "内嵌内容疑问句有 WH 移位但没有主谓倒装，C 中心语为空。"
+    },
+    {
+     "text": "Daa sá kéet axá?",
+     "noteEn": "Tlingit content question with the particle sá after the fronted word.",
+     "noteZh": "特林吉特语内容疑问句，疑问词前置后还必须跟上疑问助词 sá，意为“杀人鲸吃什么”。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Subject-Auxiliary Inversion, seen earlier, reverses the linear order of subject and auxiliary. Stated over X-bar structure, it is the auxiliary moving up and to the left. Embedded questions place a +Q complementizer if or whether before the subject, the same position an auxiliary occupies in a main clause question, so the auxiliary can be seen as moving from T to C. That is an instance of Head Movement, and the English pattern is named T-to-C movement. This textbook draws a line through the moving head in its base position and an arrow to where it lands; other resources may keep a trace, written as italic t, which this textbook does not use.",
+     "zh": "此前见过的主谓倒装改变的是主语与助动词的线性顺序。若用 X 杠结构表述，这就是助动词向左上方移动。内嵌疑问句把 +Q 标句词 if 或 whether 放在紧邻主语之前，而这正是主句疑问句中助动词出现的位置，因此倒装可理解为助动词由 T 移入 C。这属于中心语移位，英语主句疑问句中的这一模式称为 T 到 C 移位。本书在被移走的中心语上划一条横线，再用箭头指向移位终点；其他资料可能在原位留下斜体 t 作语迹，本书不予采用。"
+    },
+    {
+     "en": "Content questions also front a question phrase, as in What has the squirrel hidden, Where is it snowing, and How do squirrels hide nuts. All show inversion, since the auxiliary precedes the subject, but T-to-C movement alone cannot explain the fronted phrase. The auxiliary already occupies C, and no head position can hold two words, so the question phrase must go higher. What moves is not a head but a whole phrase, as the larger NPs in What kind of nuts has the squirrel hidden and Which city is it snowing in show. These land in the empty Spec,CP by Phrasal Movement, or XP Movement; this instance is WH-movement.",
+     "zh": "内容疑问句还把疑问语段前置，如 What has the squirrel hidden、Where is it snowing、How do squirrels hide nuts，其助动词都在主语之前，说明发生了倒装。但仅靠 T 到 C 移位无法解释前置的疑问语段：助动词已占据 C，而一个中心语位置容不下两个词。再者，WH 疑问句中移动的不是中心语，而是整个短语，从 What kind of nuts has the squirrel hidden 与 Which city is it snowing in 这类更大的名词短语可以看出。这些短语落在空着的 CP 指示语，属于短语移位，也叫 XP 移位，即 WH 移位。"
+    },
+    {
+     "en": "Embedded content questions such as I know what squirrels hide put the WH-phrase at the front of the CP but do not invert, so their trees lack the T-to-C step and their C position is empty. In many varieties of English an overt complementizer is impossible alongside a fronted phrase, which makes I know what if squirrels hide ungrammatical. That restriction is not universal. Tlingit, a Na-Dené language of Southeast Alaska and adjacent Canada, requires the question word at the left edge followed by the question particle sá, so Spec,CP and an overt +Q head are both filled.",
+     "zh": "I know what squirrels hide 这样的内嵌内容疑问句把 WH 短语放在 CP 之前，却不发生倒装，所以树形图缺少 T 到 C 这一步，C 位置是空的。在许多英语变体中，前置短语与显性标句词不能同时出现，因此 I know what if squirrels hide 不合语法。这一限制并非普遍规律。特林吉特语是阿拉斯加东南部及加拿大邻近地区的纳-德内语，其内容疑问句要求疑问词位于最左端，后面跟疑问助词 sá，于是 CP 指示语和显性 +Q 中心语同时被填充。"
+    }
+   ]
+  },
+  "chapter-071-x-bar-theory-question-word-fronting-as-phrasal-movement": {
+   "title": {
+    "en": "6.20 Trees: Movement beyond questions",
+    "zh": "6.20 树形图：疑问句之外的移位"
+   },
+   "summary": {
+    "en": "Movement is not limited to questions. English auxiliaries like be and have begin lower than T and move there by Head Movement, while in French and earlier English all verbs undergo V-to-T movement. Passives use two types of movement: the passive auxiliary raises from a VP shell to T, and the object NP moves into the empty subject position, a process called NP movement. Languages thus differ both in head ordering and in which movements occur.",
+    "zh": "移位并不只出现在疑问句中。英语的 be 和 have 等助动词起点低于 T，通过中心语移位上升到 T；而在法语以及早期英语中，所有动词都进行 V 到 T 移位。被动句同时使用两类移位：被动助动词从 VP 壳层移到 T，宾语 NP 则移入空着的主语位置，即 NP 移位。可见语言不仅在中心语前后位置上存在差异，在出现哪些移位上也各不相同。"
+   },
+   "points": [
+    {
+     "en": "Auxiliaries such as be and have start out below T and move into T by Head Movement.",
+     "zh": "be 和 have 这类助动词的起点在 T 之下，通过中心语移位上升到 T 位置。"
+    },
+    {
+     "en": "Only a modal or to truly starts in T; other auxiliaries move there when T is unfilled.",
+     "zh": "真正起始于 T 的只有情态动词和非限定 to，其他助动词只在 T 尚未被占据时移入 T。"
+    },
+    {
+     "en": "When a modal fills T, the lower auxiliary stays in an extra VP shell.",
+     "zh": "情态动词占据 T 时，较低的助动词留在额外的 VP 壳层中。"
+    },
+    {
+     "en": "In French all verbs show the same distribution, which supports V-to-T movement of main verbs.",
+     "zh": "法语中所有动词的分布都相同，这支持主句动词也进行 V 到 T 移位的分析。"
+    },
+    {
+     "en": "Passives combine V-to-T movement of be with NP movement of the object into Spec,TP.",
+     "zh": "被动句把 be 的 V 到 T 移位与宾语 NP 移入 TP 指示语这两种移位组合在一起。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "V-to-T movement",
+     "zh": "V 到 T 移位",
+     "defEn": "Head movement in which a verb raises from V into the T position.",
+     "defZh": "动词从 V 位置上升到 T 位置的中心语移位，法语中所有动词都进行这种移位。"
+    },
+    {
+     "en": "VP shell",
+     "zh": "VP 壳层",
+     "defEn": "An extra VP layer hosting a lower auxiliary when T is already filled.",
+     "defZh": "当 T 已被情态动词占据时，用来容纳较低助动词的额外 VP 层次。"
+    },
+    {
+     "en": "modal",
+     "zh": "情态动词",
+     "defEn": "An auxiliary that starts out in T, such as will or might.",
+     "defZh": "起始位置就在 T 的一类助动词，如 will、might，通常每句只能出现一个。"
+    },
+    {
+     "en": "NP movement",
+     "zh": "NP 移位",
+     "defEn": "Movement of an NP into Spec,TP to fill an otherwise empty subject position.",
+     "defZh": "把名词短语移入 TP 指示语以填补空主语位置的短语移位。"
+    },
+    {
+     "en": "passive",
+     "zh": "被动（句）",
+     "defEn": "A clause type in which passive be blocks the subject and the object raises.",
+     "defZh": "由被动助词 be 阻止主语在初始位置出现、并使宾语上移的一类句式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The leaves will be falling.",
+     "noteEn": "Future plus progressive, with the modal in T and be in a VP shell.",
+     "noteZh": "将来时加进行体，情态动词 will 在 T，助动词 be 留在额外的 VP 壳层中。"
+    },
+    {
+     "text": "Les feuilles tombaient toujours.",
+     "noteEn": "A French main verb appearing before toujours meaning always, which indicates V-to-T movement.",
+     "noteZh": "法语主句动词出现在 toujours（“总是”）之前，说明主动词也移到了 T。"
+    },
+    {
+     "text": "The ship was sunk (by the pirates).",
+     "noteEn": "The passive counterpart of an active sentence with a theme object.",
+     "noteZh": "与主动句对应的被动句，受事 the ship 由宾语位置移入主语位置。"
+    },
+    {
+     "text": "The leaves will not have fallen.",
+     "noteEn": "Only will precedes negation, showing that have is not in T.",
+     "noteZh": "只有 will 出现在否定词之前，说明 have 并没有处在 T 位置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Movement is not confined to questions. English auxiliaries share a distribution different from main verbs: they appear before negation, before adverbs like always, and they undergo Subject-Auxiliary Inversion. But modals and nonfinite to differ from be and have. Modals generally cannot stack, and only the highest auxiliary behaves like T, so in The leaves will have been falling only will precedes negation, always and inversion, while the lower auxiliaries pattern with main verbs in an extra VP layer, or VP shell. The proposal is that only tense features, modals and to start out in T, and other auxiliaries move there only if that position is unfilled. Only be, as auxiliary and copula, and auxiliary have move to T in contemporary English.",
+     "zh": "移位不局限于疑问句。英语各助动词的分布与主动词不同：它们出现在否定词之前、always 这类副词之前，并且可以参与主谓倒装。但情态动词和非限定 to 与 be、have 不同。情态动词通常不能叠加，只有最高的助动词才像 T 一样分布，因此在 The leaves will have been falling 中只有 will 位于否定词、always 与倒装之前，较低的助动词与主动词一样位于额外的 VP 壳层。由此提出的假设是：只有时的特征、情态动词和非限定 to 起始于 T，其他助动词仅在 T 未被占据时移入 T。当代英语中只有 be 与作助动词的 have 移入 T。"
+    },
+    {
+     "en": "In French, and in earlier English, all verbs move to T. French auxiliaries resemble English ones, appearing before negation and before adverbs like toujours meaning always. What differs is that French main verbs show the same distribution, as Les feuilles tombaient toujours shows. English main verbs cannot: The leaves fell not, The leaves fell always and Fell the leaves are all ungrammatical, though such orders occurred in Early Modern English around the 1600s. The difference is analyzed by saying that only be and auxiliary have undergo V-to-T movement in English, whereas all verbs do in French.",
+     "zh": "在法语和早期英语中，所有动词都移入 T。法语助动词与英语助动词相似：出现在否定词之前，以及 toujours（“总是”）这类副词之前。不同之处在于法语的主句动词分布完全相同，Les feuilles tombaient toujours 就体现了这一点。英语主动词做不到，The leaves fell not、The leaves fell always 和 Fell the leaves 都不合语法，尽管这类语序在约 17 世纪的早期现代英语中允许。因此可这样分析：英语只有 be 和作助动词的 have 进行 V 到 T 移位，而法语所有动词都进行这一移位。"
+    },
+    {
+     "en": "Passives also use both movement types. In a movement-based theory, passive syntax, in particular the presence of passive be, prevents the subject from being introduced at all, leaving an empty subject position, as in the representation of was sunk with the ship still the object. Because English requires a subject in Spec,TP, the object NP the ship must move there, a new instance of phrasal movement called NP movement. Deriving the ship was sunk therefore involves two steps: passive be moves from a VP shell to T, and the object NP moves into Spec,TP.",
+     "zh": "被动句同样使用两类移位。在采用移位的理论中，被动句的句法，尤其是被动助词 be 的出现，从一开始就阻止主语被引入，从而留下空的主语位置，如 was sunk 的初始表征中 the ship 仍处于宾语位置。由于英语要求 TP 指示语必须有主语，宾语 NP the ship 必须移入该位置，它是短语移位的新类型，即 NP 移位。因此推导 the ship was sunk 需两步：被动助词 be 从 VP 壳层移入 T，宾语 NP 移入 TP 指示语。"
+    }
+   ]
+  }
+ }
+}

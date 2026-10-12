@@ -1,0 +1,94 @@
+{
+ "batch": 63,
+ "sections": {
+  "part-013-chapter-13-psycholinguistics-and-neurolinguistics": {
+   "title": {"en": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics", "zh": "第 13 章：心理语言学与神经语言学"},
+   "summary": {
+    "en": "This chapter explores experiments in psycholinguistics and neurolinguistics that reveal how language works in the human mind, and shows how experimental evidence can support the concepts of linguistic theory introduced in earlier chapters. Readers will learn about key experimental methods, how to back theoretical claims with experimental evidence, and why linguistics is viewed as part of cognitive science.",
+    "zh": "本章探讨心理语言学与神经语言学的实验，揭示语言在人脑中的运作方式，并说明实验证据如何支持前几章提出的语言学理论概念。读者将了解若干重要的实验方法，学会用实验证据支撑理论主张，并理解语言学为何被视为认知科学的一部分。"
+   },
+   "points": [
+    {"en": "Experiments in psycholinguistics and neurolinguistics reveal how language works in the human mind.", "zh": "心理语言学与神经语言学的实验揭示语言在人类心智中的运作方式。"},
+    {"en": "Experimental evidence can be used to support concepts from linguistic theory.", "zh": "实验证据可以用来支持语言学理论中的概念。"},
+    {"en": "The chapter introduces important experimental methods and explains why linguistics belongs to cognitive science.", "zh": "本章介绍重要的实验方法，并解释语言学为何属于认知科学。"}
+   ],
+   "terms": [
+    {"en": "psycholinguistics", "zh": "心理语言学", "defEn": "interdisciplinary field that tests hypotheses about linguistic representations and processes in the mind", "defZh": "通过实验检验关于心智中语言表征与语言加工过程之假设的交叉学科"},
+    {"en": "neurolinguistics", "zh": "神经语言学", "defEn": "research area studying how language is organized and implemented in the biology of the brain", "defZh": "研究语言如何在人脑的生物学基础上组织与实现的研究领域"},
+    {"en": "cognitive science", "zh": "认知科学", "defEn": "broader field of research into the mind, of which linguistics forms one part", "defZh": "研究心智的更大研究领域，语言学是其中的一个组成部分"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "This chapter turns to experiments in psycholinguistics and neurolinguistics, the two research areas that investigate how language is realized in the human mind and brain. The aim is to show how findings from controlled experiments can serve as evidence for the concepts of linguistic theory developed in earlier chapters, and to introduce some of the methods that produce that evidence.", "zh": "本章转向心理语言学与神经语言学的实验，这两个研究领域考察语言如何在人的心智与大脑中实现。目的是说明受控实验的发现如何为前几章建立的语言学理论概念提供证据，并介绍产生这些证据的若干方法。"},
+    {"en": "By the end of the chapter, readers should be able to describe several important experimental methods in these fields, use experimental evidence to support claims made in theoretical linguistics, and explain why linguistics is regarded as part of cognitive science.", "zh": "学完本章，读者应能描述这两个领域中若干重要的实验方法，用实验证据支持理论语言学提出的主张，并解释语言学为何被视为认知科学的一部分。"}
+   ]
+  },
+  "chapter-147-the-mind-makes-language": {
+   "title": {"en": "13.1 The mind makes language", "zh": "13.1 心智创造语言"},
+   "summary": {
+    "en": "Linguistic hypotheses about phonemes, morphemes and phrase structure are really hypotheses about how the mind represents language. Psycholinguists test such claims with behavioural experiments, while neurolinguists study how the language system is implemented in the brain, using methods from cognitive neuroscience and data from language disorders.",
+    "zh": "关于音位、语素、短语结构等语言学假设，实际上都是关于心智如何表征语言的假设。心理语言学家用行为实验检验这类主张，神经语言学家则借助认知神经科学的方法以及语言障碍的数据，研究语言系统如何在大脑中实现。"
+   },
+   "points": [
+    {"en": "Linguistic hypotheses about phonemes, morphemes and phrase structure are hypotheses about mental representation.", "zh": "关于音位、语素、短语结构的语言学假设，其实是关于心智表征的假设。"},
+    {"en": "A classical view of cognitive science gives the mind symbolic representations plus operations that transform them.", "zh": "认知科学的经典观点认为心智拥有符号表征，以及对这些表征进行转换的操作。"},
+    {"en": "Mental grammars are the means by which linguistic representations are transformed, for example before speech.", "zh": "心智语法是转换语言表征的手段，例如在说出话语之前进行的转换。"},
+    {"en": "Psycholinguists devise behavioural experiments, such as measuring how quickly a word decision is made.", "zh": "心理语言学家设计行为实验，例如测量对单词做出判断的速度。"},
+    {"en": "Neurolinguists study how the cognitive system of language is organized in the brain's biology.", "zh": "神经语言学家研究语言这一认知系统如何在大脑的生物学基础上组织起来。"}
+   ],
+   "terms": [
+    {"en": "cognitive science", "zh": "认知科学", "defEn": "field that studies the mind and its symbolic representations and operations", "defZh": "研究心智及其符号表征与操作的研究领域"},
+    {"en": "symbolic representation", "zh": "符号表征", "defEn": "mental symbol standing for something, transformed by mental operations", "defZh": "心智中代表某事物的符号，可被心智操作所转换"},
+    {"en": "mental grammar", "zh": "心智语法", "defEn": "the means by which linguistic representations are transformed in the mind", "defZh": "心智中用以转换语言表征的机制"},
+    {"en": "psycholinguistics", "zh": "心理语言学", "defEn": "interdisciplinary field devising experiments on linguistic representations and processes in the mind", "defZh": "设计实验研究心智中语言表征与加工过程的交叉学科"},
+    {"en": "neurolinguistics", "zh": "神经语言学", "defEn": "research focusing on how language is organized and implemented in the brain", "defZh": "着重研究语言如何在大脑中组织与实现的研究"}
+   ],
+   "examples": [
+    {"text": "measuring how quickly someone can make a decision about a word after seeing it on a computer screen", "noteEn": "A behavioural method used by psycholinguists to probe mental processing.", "noteZh": "心理语言学家用来探究心智加工过程的一种行为方法。"},
+    {"text": "a phoneme is encoded into the appropriate phone according to the phonological rules of the language prior to being spoken", "noteEn": "Illustrates mental grammars transforming linguistic representations before speech.", "noteZh": "说明心智语法在说话之前对语言表征进行转换。"},
+    {"text": "examining disorders of language that arise from problems in the brain, for example following a stroke or other brain injury", "noteEn": "Data source for neurolinguists alongside cognitive neuroscience methods.", "noteZh": "神经语言学家除认知神经科学方法之外的数据来源。"}
+   ],
+   "body": [
+    {"en": "Linguistics belongs to cognitive science. The hypotheses developed in this book about phonemes, morphemes and phrase structure are, in a real sense, hypotheses about how the human mind represents language. On the classical view, the mind contains symbolic representations together with operations that transform them; within that framework, mental grammars are the machinery by which linguistic representations are changed. In spoken languages, for instance, a phoneme is converted into the appropriate phone by the phonological rules of the language before it is spoken.", "zh": "语言学属于认知科学。本书关于音位、语素、短语结构等提出的假设，实际上都是关于人类心智如何表征语言的假设。按照经典观点，心智包含符号表征以及转换这些表征的操作；在这一框架内，心智语法就是改变语言表征的机制。例如在有声语言中，音位在说出之前会依据该语言的音系规则转换为相应的音素。"},
+    {"en": "Native speakers' intuitions sometimes provide enough evidence that a particular element or rule forms part of the mind's capacity for language, but linguists often want other kinds of evidence, or want to know how those elements are deployed in production and comprehension. Psycholinguistics is the interdisciplinary field in which researchers design experiments to test hypotheses about linguistic representations and processes in the mind, normally using behavioural methods.", "zh": "母语者的直觉有时足以证明某一语言要素或规则是心智语言能力的一部分，但语言学家往往需要其他类型的证据，或者想了解这些要素在语言产出与理解中如何被调用。心理语言学正是这样一个交叉学科领域：研究者设计实验，检验关于心智中语言表征与加工过程的假设，通常采用行为方法。"},
+    {"en": "Psycholinguists also propose and evaluate theories of mental processes, while this chapter stresses the link between their findings and linguistic theory. Underlying both fields is the assumption that the mind has a biological basis in the brain. Neurolinguists ask how language as a cognitive system is organized and implemented biologically, drawing on cognitive neuroscience methods and on language disorders that follow stroke or other brain injury. They too may evaluate linguistic theory while pursuing theories of their own.", "zh": "心理语言学家还提出并评估关于心智过程的理论，而本章着重强调其研究发现与语言学理论之间的联系。两个领域都以下述假设为基础：心智在大脑中有其生物学基础。神经语言学家追问语言这一认知系统如何在生物学上组织与实现，所依据的是认知神经科学的方法，以及中风或其他脑损伤之后出现的语言障碍。他们同样既评估语言学理论，也发展自己的理论。"},
+    {"en": "Because both fields are far too vast to summarize in a single chapter, the chapter concentrates on experiments that give further evidence for important concepts from earlier chapters, and highlights some of the key experimental methods these researchers use.", "zh": "由于这两个领域都过于庞大，无法在一章之内予以概括，本章集中介绍那些为前几章重要概念提供进一步证据的实验，并着重说明研究者使用的一些关键实验方法。"}
+   ]
+  },
+  "chapter-148-evidence-for-phonemes-as-mental-categories": {
+   "title": {"en": "13.2 Evidence for phonemes as mental categories", "zh": "13.2 音位作为心理范畴的证据"},
+   "summary": {
+    "en": "Every language organizes speech sounds into its own phonological system, which forms part of a speaker's mental grammar. Thinking of a phoneme as a mental category predicts that the brain should treat acoustically different sounds as the same. Using MEG, Phillips and colleagues (2000) found a phonological Mismatch Negativity, showing that the brain accesses phonological categories early in auditory processing.",
+    "zh": "每种语言都把语音组织成自己的音系系统，该系统构成说话人心智语法的一部分。把音位看作心理范畴，可以预测大脑会把声学上不同的语音当作同一类。Phillips 等人（2000）用脑磁图发现了一种音系层面的失匹配负波，表明大脑在听觉加工的早期就已通达音位范畴。"
+   },
+   "points": [
+    {"en": "Two sounds that are allophones of one phoneme in a language may be separate phonemes in another.", "zh": "在一门语言中属于同一音位的两个音位变体，在另一门语言中可能是不同的音位。"},
+    {"en": "Each language has its own phonological system, which is part of the speaker's mental grammar.", "zh": "每种语言都有自己的音系系统，它是说话人心智语法的一部分。"},
+    {"en": "A phoneme can be viewed as a mental category of speech sounds that the mind maps sounds onto.", "zh": "音位可以视为语音的心理范畴，心智把听到的语音归入其中。"},
+    {"en": "The Mismatch Negativity is a brain response to a stimulus that stands out from repeated background stimuli.", "zh": "失匹配负波是大脑对与重复背景刺激不同的刺激所做出的反应。"},
+    {"en": "Phillips et al. (2000) used a voicing contrast whose many-to-one relation existed only at the phonological level.", "zh": "Phillips 等人（2000）使用的浊音对立，其多对一关系只存在于音系层面。"},
+    {"en": "The phonological mismatch effect arose in auditory cortex, early in perceptual processing.", "zh": "音系层面的失匹配效应出现在听觉皮层，即知觉加工的早期阶段。"}
+   ],
+   "terms": [
+    {"en": "phoneme", "zh": "音位", "defEn": "smallest unit in a language that can create contrast between words", "defZh": "一种语言中能够造成词与词之间对立的最小单位"},
+    {"en": "allophone", "zh": "音位变体", "defEn": "one of the variant speech sounds that realize a single phoneme", "defZh": "实现同一个音位的若干变异语音之一"},
+    {"en": "minimal pair", "zh": "最小对立对", "defEn": "two words differing in meaning and in only one phoneme", "defZh": "意义不同而仅相差一个音位的两个词"},
+    {"en": "Voice Onset Time", "zh": "浊音起始时间", "defEn": "time between release of a stop and the beginning of vowel voicing", "defZh": "塞音除阻到元音开始振动之间的时间"},
+    {"en": "Mismatch Negativity", "zh": "失匹配负波", "defEn": "negative-going brain response to a stimulus that mismatches repeated stimuli", "defZh": "与重复刺激不匹配的刺激所引发的负向脑电反应"},
+    {"en": "magnetoencephalography (MEG)", "zh": "脑磁图", "defEn": "method recording magnetic field changes, locating brain responses better than EEG", "defZh": "记录磁场变化的方法，定位脑反应来源优于脑电图"}
+   ],
+   "examples": [
+    {"text": "The English words pat (/pæt/) and bat (/bæt/) differ only in the initial phoneme (/p/ or /b/), but have different meanings.", "noteEn": "A minimal pair showing that /p/ and /b/ are separate English phonemes.", "noteZh": "一个最小对立对，说明 /p/ 与 /b/ 是英语中彼此对立的音位。"},
+    {"text": "[pʰ] vs. [p]", "noteEn": "Aspirated and unaspirated stops that cannot contrast in English.", "noteZh": "送气与不送气的塞音，在英语中不能构成对立。"},
+    {"text": "speakers of English perceive a /t/ sound when Voice Onset time is above about 25ms, and a /d/ sound when it is below", "noteEn": "The sharp perceptual boundary between the /d/ and /t/ categories.", "noteZh": "/d/ 与 /t/ 两个范畴之间界限分明的知觉边界。"},
+    {"text": "many other languages that treat [pʰ] and [p] as separate phonemes, for example Hindi and Thai", "noteEn": "Languages whose phonology categorizes the same sounds differently.", "noteZh": "音系把同样两个语音归为不同音位的语言。"}
+   ],
+   "body": [
+    {"en": "Chapter 4 showed that every language has its own phonology: two sounds that are allophones of one phoneme in one language may be separate phonemes in another. Each language thus organizes speech sounds into a phonological system that belongs to speakers' mental grammar. This section reviews experiments supporting the idea that phonology is something the mind and brain actually do.", "zh": "第 4 章指出，每种语言都有自己的音系：在一门语言中属于同一音位的两个音位变体，在另一门语言中可能是彼此对立的音位。因此每种语言都把语音组织成属于自己的音系系统，该系统属于说话人心智语法的一部分。本节考察支持下述看法的实验：音系确实是心智与大脑所做的事情。"},
+    {"en": "A phoneme is the smallest unit that can create contrast, so exchanging one phoneme for another can create a minimal pair. English pat (/pæt/) and bat (/bæt/) differ only in the initial phoneme yet mean different things, showing that /p/ and /b/ are separate phonemes. A phoneme can also be called a mental category of speech sounds. English voiceless stops like /p/ are aspirated ([pʰ]) at the start of a stressed syllable, but [pʰ] and [p] cannot contrast in English because they are variants of one phoneme, so the mind maps both onto /p/. Hindi and Thai, by contrast, treat them as separate phonemes.", "zh": "音位是能够造成对立的最小单位，用一个音位替换另一个音位可以构成最小对立对。英语的 pat（/pæt/）与 bat（/bæt/）只在首音位上不同，意义却不同，说明 /p/ 与 /b/ 是英语中彼此对立的音位。音位也可以说是语音的心理范畴。英语中 /p/ 这类清塞音在重读音节开头会送气（[pʰ]），但 [pʰ] 与 [p] 在英语中不能构成对立，因为它们只是同一个音位的变体，心智把二者都归入 /p/。相比之下，印地语和泰语把它们视为不同的音位。"},
+    {"en": "Phonological analysis reveals a speaker's categories, but here the question is whether the brain itself maps acoustically varying sounds onto one category. Phillips and colleagues (2000) sought a surprise response to a sound in a different phonological category. Earlier research had established the Mismatch Negativity, a reaction to a rare tone differing in frequency from repeated tones, measurable even when listeners ignore the sounds.", "zh": "音系分析借助最小对立对或语音出现环境的描写来揭示说话人的范畴，但本节的问题是：大脑本身是否会把声学上有差异的语音归入同一范畴。Phillips 等人（2000）寻找大脑对属于不同音系范畴的语音产生的惊奇反应。此前的研究已确立失匹配负波：当少数音调的频率不同于重复出现的音调时，大脑会产生这种反应，即使听者不注意声音也能测到。"},
+    {"en": "Using magnetoencephalography (MEG), which records magnetic field changes and locates their source better than EEG, Phillips et al. tested the voicing contrast between /dæ/ and /tæ/, which differ in Voice Onset Time. English speakers hear /t/ when VOT is above about 25ms and /d/ when it is below, a sharp switch, yet VOT varies within each category. The many-to-one relation thus existed only phonologically, not acoustically, and it elicited a phonological Mismatch Negativity originating in an auditory part of the brain, showing that phonological contrasts are accessed early in perceptual processing.", "zh": "Phillips 等人使用脑磁图（MEG），它记录磁场变化，定位反应来源优于脑电图（EEG），考察了 /dæ/ 与 /tæ/ 之间的浊音对立，二者之别在于浊音起始时间。英语使用者听到浊音起始时间高于约 25 毫秒的音时判定为 /t/，低于该值时判定为 /d/，转换是突变而非渐变的，但在每个范畴内部浊音起始时间仍有差异。因此多对一关系只存在于音系层面而非纯声学层面，它引发了音系层面的失匹配负波；该反应源自大脑处理听觉信息的部分，说明音系对立在知觉加工的早期就被通达。"}
+   ]
+  }
+ }
+}

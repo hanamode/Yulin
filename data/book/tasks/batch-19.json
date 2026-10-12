@@ -1,0 +1,25 @@
+{
+ "batch": 19,
+ "chapter": "Chapter 4: Phonology",
+ "out": "data/book/gen/batch-19.json",
+ "sections": [
+  {
+   "id": "chapter-032-slug-4-3-contrastive-distribution-and-minimal-pairs",
+   "title": "4.3 Contrastive distribution and minimal pairs",
+   "src": "data/book/src/chapter-032-slug-4-3-contrastive-distribution-and-minimal-pairs.txt",
+   "chars": 6008
+  },
+  {
+   "id": "chapter-033-slug-4-4-complementary-distribution",
+   "title": "4.4 Complementary distribution",
+   "src": "data/book/src/chapter-033-slug-4-4-complementary-distribution.txt",
+   "chars": 5544
+  },
+  {
+   "id": "chapter-034-slug-4-5-phonemic-analysis",
+   "title": "4.5 Phonemic analysis",
+   "src": "data/book/src/chapter-034-slug-4-5-phonemic-analysis.txt",
+   "chars": 13527
+  }
+ ]
+}

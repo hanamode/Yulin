@@ -1,0 +1,38 @@
+{
+ "batch": 26,
+ "sections": {
+  "chapter-051-practice-time": {
+   "title": {"en": "5.12 Exercise your linguistics skills", "zh": "5.12 练习你的语言学技能"},
+   "summary": {
+    "en": "This closing section gathers an exercise set that practices the chapter's core tools, graded from basic through intermediate to advanced, with each item pointing to the relevant earlier section. Learners segment Turkish and Kreyòl data into morphemes, classify English affixes as derivational or inflectional, determine the lexical categories of words, and identify compounds in English sentences and in Hebrew data, including compounds spelled solid, spaced, or hyphenated.",
+    "zh": "本节是一组由基础到进阶的练习，用于操练本章的核心工具。学习者要切分土耳其语与克里奥尔语（Kreyòl）材料中的语素，判断英语词缀属派生还是屈折，确定词类，并辨认英语和希伯来语中的复合词。"
+   },
+   "points": [
+    {"en": "Exercise 1 segments Turkish words into roots and suffixes and builds the phrase meaning 'in our little hands'.", "zh": "练习一要求切分土耳其语词中的词根与后缀，并构造出表示“在我们的小手里”的说法。"},
+    {"en": "Exercise 2 asks learners to describe the environments in which the Kreyòl definite article appears as a, la, or ã.", "zh": "练习二要求描述克里奥尔语定冠词以 a、la、ã 三种形式出现的环境，并判断制约条件。"},
+    {"en": "Exercises 3 to 5 classify English affixes, test lexical categories, and debate whether conceive and deceive are complex.", "zh": "练习三至五判断英语词缀类型、测试词类，并讨论 conceive、deceive 等词是否为复合形式。"},
+    {"en": "Exercises 6 and 7 examine English compound spelling and Hebrew compounds built from nominal roots.", "zh": "练习六、七考察英语复合词的拼写差异，以及由名词性词根构成的希伯来语复合词。"},
+    {"en": "The difficulty labels Basic, Intermediate, and Advanced, together with section references, point to the relevant part of the chapter.", "zh": "每个练习标注基础、中级或进阶，并给出对应小节编号，指向本章的相关内容。"}
+   ],
+   "terms": [
+    {"en": "morpheme", "zh": "语素", "defEn": "The smallest meaningful unit of language, identified here by comparing recurring forms across words.", "defZh": "语言中最小的音义结合单位，在练习中通过比较各个词里反复出现的形式来切分并确定。"},
+    {"en": "allomorph", "zh": "语素变体", "defEn": "One of the forms in which a morpheme appears, such as the Kreyòl article a, la, or ã.", "defZh": "同一语素在具体环境中实现出的形式，如克里奥尔语定冠词的 a、la、ã。"},
+    {"en": "derivational affix", "zh": "派生词缀", "defEn": "An affix that changes the meaning or category of its base, as in purity or Canadian.", "defZh": "改变词基意义或词类的词缀，如 purity、Canadian 中的词缀，能构成新词。"},
+    {"en": "inflectional affix", "zh": "屈折词缀", "defEn": "An affix that adds grammatical information without changing the category of its base.", "defZh": "只添加语法信息而不改变词基词类的词缀，如 newest 的 -est、nieces 的 -s。"},
+    {"en": "lexical category", "zh": "词类", "defEn": "The class of a word, such as noun, verb, or adjective, established by distributional criteria.", "defZh": "词所属的类别，如名词、动词、形容词，依据分布而非意义来判定。"},
+    {"en": "compound", "zh": "复合词", "defEn": "A word formed from two or more roots, spelled solid, spaced, or hyphenated in English.", "defZh": "由两个或更多词根构成的词，英语中可连写、分写或用连字符连接。"}
+   ],
+   "examples": [
+    {"text": "evdʒıklerimizde ‘in our little houses’", "noteEn": "The Turkish form stacks diminutive, plural, first person plural possessive, and locative suffixes on the root ev.", "noteZh": "该土耳其语形式在词根 ev 上依次叠加指小、复数、第一人称复数领属和处所后缀。"},
+    {"text": "panie ‘basket’ ~ paniea ‘the basket’; pitit ‘child’ ~ pititla ‘the child’", "noteEn": "The Kreyòl definite article appears as a after a vowel and as la after a consonant.", "noteZh": "克里奥尔语定冠词在元音后作 a，在辅音后作 la，属可预测的语音条件制约。"},
+    {"text": "chẽ ‘dog’ ~ chẽã ‘the dog’", "noteEn": "After a nasalized vowel the Kreyòl article is ã rather than a.", "noteZh": "在鼻化元音之后，克里奥尔语定冠词取 ã 而非 a，说明其选择依据后接语音环境。"},
+    {"text": "yom huledet ‘birthday’", "noteEn": "A Hebrew compound of the nouns day and birth, illustrating the nominal roots involved.", "noteZh": "由“日”和“出生”两个名词构成的希伯来语复合词，说明参与复合的是名词性词根。"}
+   ],
+   "body": [
+    {"en": "Exercise 1 presents sixteen Turkish words transcribed in the International Phonetic Alphabet and asks learners to list every morpheme with its gloss, to say whether each is a root, a prefix, or a suffix, and finally to build a phrase meaning 'in our little hands'. The roots are deniz 'sea', el 'hand', ev 'house', and diʃ 'tooth', and the remaining material is a set of suffixes, since no prefix occurs in the data. Exercise 2 shifts to Kreyòl, where each noun is paired with its definite form, and asks for a generalization about the allomorphs of the article and a decision about whether the allomorphy is lexically or phonologically conditioned.", "zh": "练习一给出十六个用国际音标转写的土耳其语词，要求列出每个语素并写出其释义词或语法功能，说明它是词根、前缀还是后缀，最后据此构造表示“在我们的小手里”的说法。该组数据的词根有 deniz（海）、el（手）、ev（房）、diʃ（牙），其余材料都是后缀，数据中未出现任何前缀。练习二转向克里奥尔语，每个名词都配以带定冠词的形式，要求就冠词各语素变体出现的环境作出概括，并判断这种语素变体是词汇条件制约还是语音条件制约。"},
+    {"en": "Exercise 3 gives eight English words and asks which affixes each contains, whether each affix is derivational or inflectional, and, for the inflectional ones, what grammatical information they carry. Exercise 4 looks at a highlighted word in each of ten sentences, asking learners to identify its category and to state the criteria used. For every morphologically complex word they must also identify the root, list the affixes, and work out each affix's selectional requirement together with the change it makes to the category or meaning of its base. Exercise 5, marked Advanced, asks whether conceive, receive, perceive, and deceive are morphologically simple or complex, and to justify the answer and weigh any opposing evidence.", "zh": "练习三给出八个英语词，要求指出其中包含哪些词缀、每个词缀属派生还是屈折，并对屈折词缀说明其表达的语法信息。练习四给出十个句子，要求判断句中加粗词的词类并说明所用判定标准；对其中形态复杂的词，还要找出词根、列出全部词缀，并说明每个词缀的选择限制以及它给词基的词类或意义带来的变化。练习五标为进阶，要求讨论 conceive、receive、perceive、deceive 是形态简单词还是形态复杂词，并给出理由、权衡可能存在的反证。"},
+    {"en": "Exercise 6 turns to compounding: English compounds may be written solid, as in redhead and greenhouse, spaced, as in ice cream and ski boots, or hyphenated, as in gluten-free and long-term, and learners must pick the compounds out of four sentences quoted from a novel. Exercise 7 presents Hebrew compounds, among them beyt xolim 'hospital', batey sefer 'schools', and yom huledet 'birthday', and asks which categories of roots can compound and whether Hebrew compounds are left-headed or right-headed. Both exercises close with footnotes giving the source of the sentence data and of the Hebrew examples.", "zh": "练习六讨论复合：英语复合词有的连写，如 redhead、greenhouse；有的分写，如 ice cream、ski boots；有的用连字符，如 gluten-free、long-term。学习者须从引自一部小说的四个句子中挑出全部复合词。练习七给出希伯来语复合词，如 beyt xolim（医院）、batey sefer（学校）、yom huledet（生日），要求判断哪些类别的词根可以参与复合，以及希伯来语复合词是左中心还是右中心。两个练习都以脚注收尾，分别注明小说语句与希伯来语例证的出处。"}
+   ]
+  }
+ }
+}

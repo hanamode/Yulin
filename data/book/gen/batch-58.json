@@ -1,0 +1,109 @@
+{
+ "batch": 58,
+ "sections": {
+  "chapter-133-slug-11-6-understanding-word-combinations": {
+   "title": {"en": "11.6 Understanding word combinations", "zh": "11.6 理解词语组合"},
+   "summary": {
+    "en": "Babies understand far more language than they produce, so researchers use preferential looking to probe their knowledge. Split-screen studies show that six- to ten-month-olds link word forms to meanings, and that children as young as fifteen months use word order to choose the matching scene. Toy experiments further reveal that one-year-olds read novel words differently in noun and adjective frames, and two-year-olds are sensitive to verb subcategories.",
+    "zh": "婴儿能理解的语言远多于他们能产出的语言，因此研究者借助优先注视法探查其语言知识。分屏实验表明，六到十个月的婴儿已把词形与意义联系起来，十五个月大的孩子还能依据词序选择与句子相符的场景。玩具实验进一步显示，一岁幼儿能区分名词框架与形容词框架中的生造词，两岁儿童对动词次范畴也已敏感。"
+   },
+   "points": [
+    {"en": "Babies' comprehension outruns their production, so researchers must use indirect experimental methods to observe what they understand.", "zh": "婴儿的理解能力远超产出能力，研究者必须借助间接实验方法来观察他们究竟理解了什么。"},
+    {"en": "In preferential looking, babies watch a split screen while a recorded voice names one of two objects.", "zh": "在优先注视法中，婴儿观看分屏画面，同时录音说出其中一件物体的名称。"},
+    {"en": "Six-month-olds look at the named object above chance, and by ten months the effect is reliable.", "zh": "六个月大的婴儿看向被命名物体的比例已高于随机水平，到十个月时这种表现相当稳定。"},
+    {"en": "With two similar scenes, fifteen-month-olds choose the one matching the sentence, showing sensitivity to constituent structure.", "zh": "面对两个相似场景时，十五个月大的孩子会选择与句子相符的一个，说明他们对句法成分结构已经敏感。"},
+    {"en": "Novel words in noun frames are taken as category names, while those in adjective frames are taken as properties.", "zh": "出现在名词框架中的生造词被理解为类别名称，出现在形容词框架中的则被理解为属性。"},
+    {"en": "Two-year-olds use transitive and intransitive frames to infer whether a novel verb involves two participants or one.", "zh": "两岁儿童能依据及物与不及物框架，推断生造动词涉及一个还是两个参与者。"}
+   ],
+   "terms": [
+    {"en": "preferential looking", "zh": "优先注视法", "defEn": "An experimental method that records where infants look in response to spoken language.", "defZh": "一种通过记录婴儿听到话语时注视方向来研究语言理解的实验方法。"},
+    {"en": "compositionality", "zh": "组合性原则", "defEn": "The meaning of a sentence depends both on word meanings and on how words combine.", "defZh": "句子的意义不仅由各个词的意义决定，也由这些词的组合方式决定。"},
+    {"en": "syntactic category", "zh": "句法范畴", "defEn": "A class of words sharing grammatical distribution, such as noun or adjective.", "defZh": "根据语法分布划分出来的词类，如名词、动词、形容词等。"},
+    {"en": "transitive frame", "zh": "及物框架", "defEn": "A sentence pattern in which a verb takes both a subject and an object.", "defZh": "一种句法模式，其中动词同时带有主语和宾语两个论元。"},
+    {"en": "intransitive frame", "zh": "不及物框架", "defEn": "A sentence pattern in which a verb takes a subject but no object.", "defZh": "一种句法模式，其中动词只带主语而不带宾语，因而只有一个论元。"},
+    {"en": "novel word", "zh": "生造词", "defEn": "A made-up word that children have never heard before the experiment.", "defZh": "实验者临时编造出来、儿童此前从未听到过的词，用以测试其理解策略。"}
+   ],
+   "examples": [
+    {"text": "Look! Can you find the bear?", "noteEn": "The recorded sentence in a preferential looking task names one of the two pictures.", "noteZh": "优先注视任务中播放的录音句子，用来命名两幅图片中的一幅。"},
+    {"text": "Look! The kid is chasing the woman!", "noteEn": "Only one of the two scenes matches this sentence, so word order matters.", "noteZh": "两个场景中只有一个与该句相符，因此词序对理解至关重要。"},
+    {"text": "These are blickets. This one is a blicket and this one is a blicket.", "noteEn": "A novel word presented in a noun frame, leading children to choose by category.", "noteZh": "生造词出现在名词框架中，使儿童按类别而非颜色作出选择。"},
+    {"text": "The lady is mooping my brother. The lady and my brother are mooping.", "noteEn": "The transitive and intransitive frames tested whether two-year-olds track verb subcategories.", "noteZh": "及物与不及物两种框架用来检验两岁儿童是否掌握动词次范畴。"}
+   ],
+   "body": [
+    {"en": "Babies begin learning phonology at birth and lexical semantics before their first birthday. First words appear around twelve months, and word combinations at roughly eighteen to twenty-four months. Yet comprehension far outruns production, and is much harder to observe, so researchers need indirect methods to probe what toddlers know about syntax.", "zh": "婴儿从出生起就开始习得音位系统，一岁前已开始掌握词汇语义。他们约十二个月说出第一个词，十八到二十四个月开始组合词语。然而理解远超产出，且更难观察，研究者需借助间接方法了解幼儿已掌握哪些句法知识。"},
+    {"en": "One method is preferential looking. A baby faces a split screen showing two pictures while a recorded voice says something like \"Look! Can you find the bear?\" Researchers record head turns or eye movements. Babies look reliably at the named object by about ten months, and above chance at six months. When the two sides show the same participants in different configurations, the sentence \"Look! The kid is chasing the woman!\" matches only one. Fifteen-month-olds look more often at that scene, suggesting sensitivity to how words are combined.", "zh": "一种方法是优先注视法。婴儿面对分成两半的屏幕，两侧各有一幅图片，录音播放类似「Look! Can you find the bear?」的句子，研究者记录其转头方向或眼动。婴儿到十个月左右能稳定看向被命名的物体，六个月时已高于随机水平。当两侧是同一组参与者但配置不同的场景时，「Look! The kid is chasing the woman!」只与其中一个相符，十五个月大的孩子更常看向那个场景，说明他们对词语组合的方式已经敏感。"},
+    {"en": "Experiments with toys. Booth and Waxman (2003) taught 14-month-olds a made-up word, blickets, in a noun frame: \"These are blickets. This one is a blicket and this one is a blicket.\" Asked for \"the blicket\", children reached for a new toy of the same category but a different colour. When the word appeared in an adjective frame, blickish, they chose the toy matching in colour. One-year-olds thus treat a novel word in noun position as naming a thing or category, and one in adjective position as naming a property.", "zh": "另一些实验改用玩具。Booth 和 Waxman（2003）用名词框架把生造词 blickets 教给十四个月大的婴儿：「These are blickets. This one is a blicket and this one is a blicket.」要「the blicket」时，婴儿去拿同类别但颜色不同的新玩具；同一个词换成形容词框架 blickish，他们就选择颜色相同的玩具。可见一岁幼儿把名词位置的新词理解为指称事物或类别，把形容词位置的新词理解为属性。"},
+    {"en": "By two, children are sensitive to verb subcategories too. In a split-screen study by Arunachalam and Waxman (2010), the novel verb mooping appeared in a transitive frame, \"The lady is mooping my brother,\" and two-year-olds looked more often at a scene where one participant acts on the other, such as pushing. In the intransitive frame \"The lady and my brother are mooping,\" they looked more often at a scene where both participants do the same activity, such as waving. Children thus know a great deal about word combination before producing it themselves.", "zh": "到两岁时，儿童对动词的次范畴也已敏感。在 Arunachalam 和 Waxman（2010）的分屏实验中，生造动词 mooping 出现在及物框架「The lady is mooping my brother」里时，两岁儿童更常看向一个参与者对另一个参与者施加动作（如推）的场景；而出现在不及物框架「The lady and my brother are mooping」里时，他们更常看向两个参与者共同做同一活动（如挥手）的场景。可见在儿童自己把词组合成短语之前很久，他们就已经相当了解词语组合的方式。"}
+   ]
+  },
+  "chapter-134-slug-11-7-syntax-in-early-utterances": {
+   "title": {"en": "11.7 Syntax in early utterances", "zh": "11.7 早期话语中的句法"},
+   "summary": {
+    "en": "From about 1;6 to 2;0 children begin combining words, but their telegraphic utterances contain mostly content words. Large corpora show almost no violations of syntactic category, and the rare unusual forms reflect productive derivation. Children also ask simple wh-questions with the wh-word moved to the front, and elicitation studies reveal that even complex embedded questions show structure paralleling adult grammar.",
+    "zh": "从一岁半到两岁起，儿童开始把词组合起来，但话语多为电报式，主要包含实词。大规模语料显示，儿童的词类误用极少，个别不寻常的形式其实反映了富有生成性的派生过程。儿童还会把 wh 词移到句首提出简单疑问句；诱导实验则表明，即使复杂的嵌入疑问句也已具备与成人语法平行的结构。"
+   },
+   "points": [
+    {"en": "At 1;6 to 2;0 children begin combining two or three words into telegraphic utterances with few function words.", "zh": "一岁半到两岁时，儿童开始把两三个词组合成电报式话语，其中功能词很少。"},
+    {"en": "Across over 200 hours of child speech (Cazden 1968; Maratsos 1982), almost no syntactic category errors appeared.", "zh": "两百多小时儿童话语语料中（Cazden 1968；Maratsos 1982）几乎无词类误用。"},
+    {"en": "Forms like crackering come from a productive process that also derives the verb to salt from the noun salt.", "zh": "crackering 这类形式来自能产派生，正如名词 salt 可派生出动词 to salt。"},
+    {"en": "English-acquiring children ask questions such as Where kitty? and Who crying? soon after they begin combining words.", "zh": "习得英语的儿童开始组词后不久就会问 Where kitty? 和 Who crying? 这类问题。"},
+    {"en": "Sign-acquiring children produced wh-questions as young as 1;7 in ASL and Brazilian Sign Language.", "zh": "习得手语的儿童最早在一岁七个月就能产出 wh 疑问句，见于美国手语和巴西手语。"},
+    {"en": "Elicitation with puppets shows preschoolers move the wh-word to the front but also pronounce it in its original position.", "zh": "用玩偶进行的诱导实验显示，学龄前儿童把 wh 词移到句首，同时又在原位把它读出来。"}
+   ],
+   "terms": [
+    {"en": "telegraphic", "zh": "电报式的", "defEn": "Describing early child utterances that keep content words and omit most function words.", "defZh": "形容儿童早期话语只保留实词、省略大多数功能词的特点。"},
+    {"en": "corpus", "zh": "语料库", "defEn": "A large collection of recorded speech used for linguistic analysis.", "defZh": "为语言分析而收集的大量真实话语材料，通常经过转写和标注。"},
+    {"en": "elicitation", "zh": "诱导法", "defEn": "A method that creates a context encouraging children to produce a particular structure.", "defZh": "通过设计具体情境来促使儿童产出某一特定句法结构的方法。"},
+    {"en": "embedded clause", "zh": "嵌入小句", "defEn": "A clause that appears inside another clause, often as a complement.", "defZh": "出现在另一个小句内部、通常充当补足语或修饰语的小句。"},
+    {"en": "wh-question", "zh": "wh 疑问句", "defEn": "A question containing a wh-word such as who, what or where.", "defZh": "包含 who、what、where 等 wh 词的疑问句，通常需要移位。"},
+    {"en": "generativity", "zh": "生成性", "defEn": "The property of a grammar that lets speakers create and understand novel forms.", "defZh": "语法使说话者能够创造并理解前所未有的新形式与新句子的属性。"}
+   ],
+   "examples": [
+    {"text": "Mummy trousers me. I'm crackering my soup. I want to comfortable you.", "noteEn": "The rare non-adult forms found in the corpus, all showing category flexibility.", "noteZh": "语料中发现的少数非成人形式，都体现了词类的灵活运用。"},
+    {"text": "Where kitty? Who crying?", "noteEn": "Early child questions with the wh-word at the beginning, as in adult English.", "noteZh": "儿童早期疑问句，wh 词像成人英语那样位于句首，其余成分则被省略。"},
+    {"text": "Who do you think ___ will win the election? What did Lexi say she wanted ___ for lunch?", "noteEn": "The target embedded wh-questions, whose declarative counterparts show where the wh-word originates.", "noteZh": "实验目标的嵌入 wh 疑问句，其陈述句形式显示 wh 词原本的位置。"},
+    {"text": "Who do you think who wants to hug Grover? What do you think what's in that box?", "noteEn": "Children's answers moved the wh-word but also kept it in the embedded position.", "noteZh": "儿童产出的句子既把 wh 词移到句首，又保留了它在嵌入小句中的原位。"}
+   ],
+   "body": [
+    {"en": "Beginning around age 1;6 to 2;0, most children combine words into phrases of two or even three words. These telegraphic utterances contain mostly content words such as nouns and verbs, with few function words and few inflectional morphemes. Whether they carry syntactic structure is hard to tell.", "zh": "大约从一岁半到两岁起，多数儿童开始把词组合成两三个词的短语。这些电报式话语大多是名词、动词等实词，功能词和屈折语素很少。它们是否具有句法结构，很难一眼看出。"},
+    {"en": "Large corpus studies (Cazden, 1968; Maratsos, 1982) searched children's speech for words used in violation of their syntactic category, such as a noun used as a verb. Across more than 200 hours of recording, almost no category errors appeared. The few examples, such as \"Mummy trousers me,\" \"I'm crackering my soup,\" and \"I want to comfortable you,\" actually show generativity: English freely derives verbs from nouns, as when salt yields to salt, meaning to sprinkle salt on something. So a child who derives crackering from cracker is using the grammar productively, and syntactic categories look robust even in early utterances.", "zh": "针对儿童话语的大规模语料研究（Cazden, 1968；Maratsos, 1982）寻找违反词类的用法，例如把名词当作动词。在两百多小时录音中几乎找不到词类误用。少数例子如「Mummy trousers me.」「I'm crackering my soup.」「I want to comfortable you.」其实体现了生成性：英语常由名词派生出动词，正如 salt 可派生出意为「撒盐」的 to salt。因此，把 cracker 派生出 crackering 的孩子是在能产地运用语法，词类在早期话语中已相当稳固。"},
+    {"en": "Corpus data show that English-acquiring children begin asking questions soon after they start combining words. Simple questions such as \"Where kitty?\" and \"Who crying?\" are common, with the wh-word moved to the front as in adult English, while why questions appear later. Sign-acquiring children produce wh-questions as young as 1;7 in ASL and Brazilian Sign Language (LSB).", "zh": "语料数据表明，习得英语的儿童开始组词后不久就会提问。像「Where kitty?」和「Who crying?」这样的简单疑问句很常见，wh 词与成人英语一样移到句首；why 疑问句出现得稍晚。习得手语的儿童最早在一岁七个月就能产出 wh 疑问句，见于美国手语（ASL）和巴西手语（LSB）。"},
+    {"en": "Complex structures are rare in speech, so researchers use elicitation, often with puppets. Rosalind Thornton studied embedded wh-questions with a blindfolded bear puppet: the child hid toys in boxes, then asked the bear to guess what was inside. Crain and Thornton (1991) asked whether children's grammars allow a wh-word to originate inside an embedded clause, as in \"Who do you think ___ will win the election?\" and \"What did Lexi say she wanted ___ for lunch?\" Some children asked \"Who do you think who wants to hug Grover?\" or \"What do you think what's in that box?\" They moved the wh-word to the front like adults but also pronounced it in its original position.", "zh": "复杂结构在自然话语中很少出现，因此研究者采用诱导法，常借助玩偶。Rosalind Thornton 用一只蒙眼的小熊玩偶研究嵌入 wh 疑问句：先让孩子把玩具藏进盒子，再请孩子问小熊猜猜里面是什么。Crain 和 Thornton（1991）想弄清儿童的语法是否允许 wh 词来自嵌入小句内部，如「Who do you think ___ will win the election?」和「What did Lexi say she wanted ___ for lunch?」。有孩子问出「Who do you think who wants to hug Grover?」或「What do you think what's in that box?」。他们像成人一样把 wh 词移到句首，同时又在原位把它读了出来。"}
+   ]
+  },
+  "chapter-135-slug-11-8-developing-meaning": {
+   "title": {"en": "11.8. Developing word meanings", "zh": "11.8 词义的发展"},
+   "summary": {
+    "en": "Children's semantic knowledge develops in parallel with their syntax. English-acquiring children respect the mass/count distinction early, and four-year-olds interpret more string and more strings differently. Mandarin-acquiring children use classifiers to make the same distinction. Experiments with puppets show that even preschoolers interpret gradable adjectives relative to context and apply predicates like round to individual items.",
+    "zh": "儿童的语义知识与其句法能力同步发展。习得英语的儿童很早就遵守可数与不可数的区分，四岁儿童对 more string 与 more strings 的理解明显不同；习得汉语普通话的儿童则用量词表达同样的区分。玩偶实验显示，学龄前儿童已能依据语境理解程度形容词，并把 round 这类谓语用于个体事物。"
+   },
+   "points": [
+    {"en": "Singular count nouns require a determiner in English, while mass nouns take no determiner and resist plurals.", "zh": "英语中单数可数名词必须带限定词，不可数名词则不带限定词，也不能有复数形式。"},
+    {"en": "Before age 2;0 children rarely pluralized mass nouns, though plurals like dogs and balls were common.", "zh": "两岁前儿童很少把不可数名词变成复数，尽管 dogs、balls 这类复数形式已经很常见。"},
+    {"en": "Four-year-olds chose several small strings for more strings and the single pile for more string.", "zh": "四岁儿童听到 more strings 时选几段短线，听到 more string 时选那一整团。"},
+    {"en": "Mandarin marks the mass/count distinction with classifiers; three-year-olds chose the matching object about 60% of the time.", "zh": "汉语普通话用量词标记可数与不可数的区分，三岁儿童选择相符物体的正确率约六成。"},
+    {"en": "Children treated big as context-dependent, choosing the bigger block even when both blocks were big.", "zh": "儿童把 big 理解为依赖语境的，即使两块积木都大，也选择相对更大的那一块。"},
+    {"en": "Children over three pointed to round buttons rather than triangular buttons arranged in a circle.", "zh": "三岁以上的儿童会指向圆形纽扣，而不是摆成圆形的三角形纽扣。"}
+   ],
+   "terms": [
+    {"en": "count noun", "zh": "可数名词", "defEn": "A noun that can be pluralized and needs a determiner in the singular in English.", "defZh": "在英语中可以构成复数、且单数形式通常需要限定词的名词。"},
+    {"en": "mass noun", "zh": "不可数名词", "defEn": "A noun that resists pluralization and appears without a determiner in English.", "defZh": "在英语中一般不能构成复数、也不带限定词的名词，如 rice。"},
+    {"en": "classifier", "zh": "量词", "defEn": "A function word that marks the semantic category of a noun, as in Mandarin.", "defZh": "标记名词语义类别的功能词，汉语普通话用量词区分可数与不可数。"},
+    {"en": "gradable adjective", "zh": "程度形容词", "defEn": "An adjective whose meaning involves a degree on a context-dependent scale.", "defZh": "意义涉及某一程度、并依赖语境确定量级的形容词，如 tall。"},
+    {"en": "non-gradable adjective", "zh": "非程度形容词", "defEn": "An adjective that does not denote a degree and resists comparison or very.", "defZh": "不表示程度、也不能受 very 修饰或构成比较级的形容词，如 wooden。"}
+   ],
+   "examples": [
+    {"text": "I want a cookie. *I want cookie. I want cookies. *I want a rice. I want rice. *I want rices. I want three cookies. *I want three rices.", "noteEn": "The morphosyntactic contrasts between count and mass nouns in English.", "noteZh": "英语中可数名词与不可数名词在形态句法上的系统对比，星号表示不合语法。"},
+    {"text": "Who has more strings? Who has more string?", "noteEn": "The two questions that elicited different choices in the string experiment.", "noteZh": "线绳实验中引出了不同选择结果的两个问题。"},
+    {"text": "Mǐqí shuō tā yào ___ something. Gàosù lǎoshī mǐqí yào ___ shénme.", "noteEn": "The Mandarin frame whose blank held either a count-classifier or a mass-classifier.", "noteZh": "普通话测试句，空白处由实验者填入可数量词或不可数量词。"},
+    {"text": "But I have TWO red ones! Point to the round buttons.", "noteEn": "Children's objection to an ambiguous request, and the button test instruction.", "noteZh": "儿童对有歧义请求的异议，以及纽扣测试中玩偶给出的指令。"}
+   ],
+   "body": [
+    {"en": "English distinguishes count nouns like pencils and cookies from mass nouns like rice and money: singular count nouns need a determiner (I want a cookie), while mass nouns need none but resist plurals. Gordon (1988) studied two English-acquiring children between 1;9 and 3;6; before 2;0 they rarely pluralized mass nouns, though plurals like dogs and balls were common. Barner and Snedeker (2005) showed four-year-olds string pictures: \"Who has more strings?\" drew the several short pieces, \"Who has more string?\" the single pile.", "zh": "英语把 pencils、cookies 这样的可数名词与 rice、money 这样的不可数名词区分开来：单数可数名词必须带限定词（I want a cookie），不可数名词不带限定词，却也不能有复数。Gordon（1988）研究了两名习得英语的儿童（一岁九个月到三岁六个月）：两岁前他们很少把不可数名词变成复数，而 dogs、balls 这类复数形式已很常见。Barner 和 Snedeker（2005）给四岁儿童看线绳图片，听到「Who has more strings?」时他们选择几段短线，听到「Who has more string?」时选择那一整团。"},
+    {"en": "Mandarin encodes this difference with classifiers, function words marking the semantic category of nouns. Chien et al. (2003) had children help a Mickey Mouse toy learning Chinese. Each trial offered three choices, two individual objects and one substance like rice, after a sentence containing a count- or mass-classifier and ending in an unknown word. Guessing gives about 33% correct, but three-year-olds reached about 60%, and six-year-olds were adult-like.", "zh": "汉语普通话用量词而非形态手段编码这一差别，量词是标记名词语义类别的功能词。Chien 等（2003）让孩子帮助一个正在学说汉语的米老鼠玩偶：每次测试有三个选项，两件个体物体和一种物质（如米），句中含可数量词或不可数量词，句末则是他们不认识的词。纯靠猜约有 33% 正确，而三岁儿童已达约 60%，六岁儿童则达到成人水平。"},
+    {"en": "Gradable adjectives such as tall describe a degree on a context-dependent scale, whereas non-gradable adjectives such as wooden do not. Syrett et al. (2010) asked three- to five-year-olds to help a puppet ask for things. Faced with a red circle and a red square, children did not simply pick one red item; they objected with \"But I have TWO red ones!\" Asked for \"the big one\" among blocks that differed in size, they chose the bigger block even when both were big.", "zh": "tall 这类程度形容词表示依赖语境的量级上的程度，wooden 这样的非程度形容词则不然。Syrett 等（2010）请三到五岁儿童帮玩偶要东西。面对一个红圆圈和一个红方块，孩子不会随便挑一个红色的，而是提出异议：「But I have TWO red ones!」。当玩偶在大小有别的积木中要「the big one」时，即使两块都大，他们也选择相对更大的那块。"},
+    {"en": "Syrett (2015) used button pictures to test predicates. Children saw buttons of various sizes, colours and shapes, then star-shaped buttons arranged into the outline of a star. At test, triangle-shaped buttons arranged into a circle appeared beside circle-shaped buttons arranged into a triangle, and the puppet said, \"Point to the round buttons.\" Children over three reliably chose the round buttons, and even two-and-a-half-year-olds did so three quarters of the time. Children thus know that a predicate like round applies to individual items, not to groups.", "zh": "Syrett（2015）用纽扣图片测试谓语理解。孩子先看到大小、颜色、形状各异的纽扣，再看到星形纽扣摆成一颗星的轮廓。测试时，摆成圆形的三角形纽扣与摆成三角形的圆形纽扣并排出现，玩偶说：「Point to the round buttons.」三岁以上儿童稳定地指向圆形纽扣，即使两岁半的孩子也有四分之三的时候选择正确。可见儿童知道 round 这类谓语适用于个体事物，而不是一组事物。"}
+   ]
+  }
+ }
+}

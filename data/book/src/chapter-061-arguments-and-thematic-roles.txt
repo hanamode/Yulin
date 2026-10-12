@@ -1,0 +1,81 @@
+# 6.10 Arguments and thematic roles
+
+## Arguments as participants in events
+
+In Section 6.2 we classified predicates in terms of their transitivity—that is, the number of arguments they combine with. Intransitive verbs take only a subject, while transitive verbs take both a subject and an object, and ditransitive verbs take a subject, an object, and an indirect object.
+Importantly, “subject” and “object” are structural terms, not semantic ones. In English, a subject appears at the beginning of a declarative clause, has nominative case (if it’s a pronoun), and controls agreement on the tensed verb. An object in English occurs after the verb, and has accusative case (if it’s a pronoun).
+We might ask, though, whether all subjects are interpreted similarly, or if all objects are.
+Looking towards semantics (the study of meaning), verbs can be thought of as describing events or states. The difference between events and situations, in semantics, is that events are often thought of as dynamic (things are actively happening), whereas states are static (things that are simply true, without anything happening, like being tall). From here on in this section we’ll use eventuality as a general term for both events and states.
+An eventuality involves some number of participants. The participants in an eventuality can play various roles, which in linguistics are called thematic roles.
+Do subjects always play the same role in an eventuality? If we look at the following examples, it looks like they don’t:
+
+[表格]
+| | | (1) | | a. | | The children yelled. | | (children did something on purpose) | | | | | | b. | | The wind blew the tree down. | | (wind did something, but not on purpose) | | | | | | c. | | The tree burned. | | (something happened to the tree) | | |
+
+Indeed, we sometimes see this even with a single verb, as with sink in (2).
+
+[表格]
+| | | (2) | | a. | | The pirate sank the ship. | | (the pirate did something on purpose) | | | | | | b. | | The ship sank. | | (something happened to the ship) | | |
+
+In the sentences in (2), we see that the verb sink can be either transitive or intransitive. In (2a) [the pirate] is the subject and in (2b) [the ship] is the subject, but they play different roles in the eventuality. Indeed, in (2a) [the ship] is the object, but plays the same role in the eventuality as it does when it’s the subject in (2b).
+But for other verbs, we don’t see this kind of “trading places”:
+
+[表格]
+| | | (3) | | a. | | The author wrote the book. | | | | | | b. | | The author wrote. | | |
+
+In (3) the subject stays the same in the transitive and intransitive uses of the verb write, and [the author] continues to play the same kind of role in the eventuality.
+To talk about the different roles associated with subjects and objects, we can define a number of thematic roles that are relevant in natural language. There are potentially many such roles, but in this chapter we’ll focus on just a few. Agent: Agents are animate actors who do things on purpose.
+- [The pirate] sank the ship. (subject = agent)
+Causer: Causers are often inanimate (not alive); they cause things to happen but without acting on purpose.
+- [The bilge pump malfunction] sank the ship. (subject = causer)
+
+Not all animate subjects are agents: some animate subjects instead perceive something or experience a mental state. Experiencer: An experiencer is an animate participant that experiences a mental state. This includes perceiving something, as with the subjects of verbs like see, hear, etc.
+- [Pirates] frighten me. (me = experiencer, [pirates] = causer)
+- I fear [pirates]. / I like [pirates]. (I = experiencer, [pirates] = causer)
+- [The pirates] saw an approaching storm. ([the pirates] = experiencer)
+Theme: The theme is the participant to which something happens, and may be changed by the event.
+- The pirate sank [the ship]. ([the ship] = theme, affected/changed by the event)
+- The author read [a book]. ([a book] = theme, not affected by the event)
+
+Some work on thematic roles distinguishes themes (undergo an event, but are not affected or changed) from patients (undergo an event, and are affected or changed as a result). The objects of verbs of consumption (like eat) or creation (like build) are prototypical patients; they either disappear or come into existence as a result of the verb’s action. The distinction between themes and patients is not relevant for our discussion here, though, and so we won’t worry about it. Instrument: An instrument is the thing an agent uses to accomplish an action, often (but not necessarily) introduced in English by the preposition with.
+- The pirate sank the ship [with a cannon]. (PP = instrument)
+Location: A location is the place where an eventuality occurs, often (but not necessarily) introduced by a locative preposition.
+- The pirate sank the ship [at sea]. (PP = location)
+Goal: The goal is the location or person that receives the theme. In most ditransitives, the indirect object is the goal of the eventuality.
+- The pirates sent [the ship] a message.
+- The pirates sent a message to [the ship]. ([the ship] = goal; a message = theme)
+
+Different verbs don’t just select how many arguments they combine with, but also select what thematic roles those arguments take. At the same time, verbs aren’t totally free to map thematic roles onto argument positions; for example, while we’ve seen that an experiencer can be either the subject or object of a verb, if a verb combines with both an agent and a theme, the agent is always the subject. Also, whenever a verb takes only a single argument, that argument will necessarily be the subject (at least in English, and in many other languages).
+Looking at verbs with only one argument, we find both agent-intransitives (intransitive verbs where the subject is an agent) and theme-intransitives (intransitive verbs where the subject is a theme) in English. (If we kept looking, we could also find intransitives whose single argument had other thematic roles as well, but these are the most common.)
+
+[表格]
+| | | (4) | | | | | Agent intransitives: | | | | | | | a. | | The pirate laughed. | | | | | | b. | | Everyone jumped. | | | | | | c. | | The author wrote. | | |
+
+[表格]
+| | | (5) | | | | | Theme intransitives: | | | | | | | a. | | The tree fell. | | | | | | b. | | The ship sank. | | | | | | c. | | The ice melted. | | | | | | d. | | A train arrived. | | |
+
+## Eventualities with no participants
+
+Does every verb have to have at least one argument? Do all eventualities have at least one participant? In languages like English, every sentence has to have a pronounced subject (as long as the clause is finite and non-imperative). But consider sentences like the ones in (6):
+
+[表格]
+| | | (6) | | a. | | It is raining. | | | | | | b. | | It is snowing. | | |
+
+We might think that weather verbs like rain, snow, etc. take something like a theme subject—the it subject refers to something like “the weather”.
+Pronouns like it can usually be replaced with full NPs, however, and yet it’s quite odd to replace the it subject of weather verbs with [the sky] or [the weather]:
+
+[表格]
+| | | (7) | | a. | | #The sky is raining. | | | | | | b. | | #The weather is snowing. | | |
+
+(Remember that marking a sentence with a hashmark indicates that it’s grammatical but semantically odd.)
+Thinking in terms of thematic roles gives us a handle on what’s going on with this type of predicate: these are verbs that describe eventualities that don’t have any participants. So when it’s raining or snowing, then (at least in English) we don’t describe that as being something that anything is doing, it’s just something that happens.
+Where does the it come from, then? One influential suggestion is that this it just shows up to give the sentence a subject, when there’s no other subject available. (This is kind of like Do-Support, but for subject position.)
+So a verb like rain or snow has one syntactic argument (a subject), but describes an eventuality with no participants.
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.19 Trees: Movement and the next section is 6.11 Changing argument structure: Causatives and passives.
+
+## Check your understanding
+
+Coming soon!

@@ -1,0 +1,41 @@
+# 3.9 Signed language notation
+
+There is no commonly accepted equivalent of the IPA for transcribing signs. The most historically significant notation system for signs was developed by William Stokoe (pronounced [stoki]), whose work (1960, 1965) is also notable for having demonstrated that signed languages have the same kinds of linguistic structures that spoken languages do, effectively kickstarting the entire field of signed language linguistics.
+Stokoe’s system of symbols, popularly called Stokoe notation, divides signs based on the four parameters discussed in Section 3.8, though he originally considered orientation to be a subcomponent of the handshape parameter. Battison (1978) argued that orientation should be its own distinct parameter, and this has become the standard analysis of the internal structure of signs, with nonmanual articulations sometimes considered a fifth parameter.
+The Stokoe notation for a basic one-handed sign has the structure LHOM where L is the symbol for the location, H is the symbol for the handshape, O is a subscripted symbol for the orientation, and M is a superscripted symbol for the movement. Various other marks and symbols can be used to indicate more complex signs (two-handed, changing handshapes, compounds, etc.). A partial list of Stokoe’s original symbols is given in Figure 3.35.
+
+[图片：3.34-stokoe.png]
+
+Figure 3.35. Sample symbols from Stoke notation.
+For example, the ASL sign THANK-YOU could be notated as in Figure 3.36, with the initial curved shape indicating the chin as the location, Ḃ indicating the B handshape with the thumb extended, the downward tick mark ⫟ indicating a palm orientation toward the signer, and an upward tick mark ⫠ indicated movement away from the signer.
+
+[图片：3.35-stokoe-example.png]
+
+Figure 3.36. One possible use of Stokoe notation for ASL THANK-YOU.
+Stokoe notation was designed for ASL, so it is not suited for signed languages generally, but the concept of analyzing signs into distinct parameters that underlies this system has influenced all remotely successful subsequent notation systems, such as SignWriting (Sutton 1981, 1990) and Hamburg Notation System (HamNoSys) (Prillwitz and Schulmeister 1987, Prillwitz et al. 1987, 1989). These two systems have more iconic symbols than Stokoe notation (making them somewhat easier to understand), and they have no inherent ties to ASL (making them more universally applicable).
+For example, the SignWriting and HamNoSys symbols in Figure 3.37 both represent the same handshape, also shown in Figure 3.37.
+
+[图片：3.36-notation-comparison.png]
+
+Figure 3.37. Notation from SignWriting (left) and HamNoSys (centre) for the U handshape (right).
+Note how both the SignWriting and HamNoSys symbols iconically represent the extension of the middle and index fingers, as lines pointing out from the closed fist (represented as a square in SignWriting and an oval in HamNoSys). HamNoSys also shows the extra detail of the thumb crossing over the palm, while SignWriting shows the difference in length between the middle and index fingers.
+This handshape is used to represent the English letter <U> in ASL, so it is notated by U in Stokoe notation. This relationship between letter and handshape would not transfer to other signed languages, such as Jordanian Sign Language, in which the same handshape is used for the Arabic letter <ت> (Hendriks 2008), which represents the phone [t]. This phone has no relationship to the English letter <U>, so the more iconic SignWriting or HamNoSys symbols would be more meaningful notation than Stokoe notation for representing this handshape when describing languages like Jordanian Sign Language.
+Other notation systems for signed languages have been constructed (see Hochgesang 2014 for an overview), but no single consistent standard has emerged, and the systems that do exist can be difficult to work with. For example, they typically require special symbols not available in most fonts, so many people wanting to describe signed languages may not have access to the relevant symbols, and documents describing signed languages may not be reliably readable on different computers. This lack of a consistent standard notation makes the study of signed language phonetics and phonology more difficult.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=598#h5p-113
+
+## References
+
+Battison, Robbin. 1978. Lexical borrowing in American Sign Language. Silver Spring, MD: Linstok Press.
+Hendriks, Bernadet. 2008. Jordanian Sign Language: Aspects of grammar from a cross-linguistic perspective. Doctoral dissertation, University of Amsterdam, Amsterdam
+Hochgesang, Julie A. 2014. Using design principles to consider representation of the hand in some notation systems. Sign Language Studies 14(4): 488–542.
+Prillwitz, Sigmund, Regina Leven, Heiko Zienert, Thomas Hanke, and Jan Henning. 1987. HamNoSys: Hamburg Notation System for sign languages: An introduction. Hamburg: Zentrum für Deutsche Gebärdensprache.
+Prillwitz, Sigmund, Regina Leven, Heiko Zienert, Thomas Hanke, and Jan Henning. 1989. HamNoSys version 2.0: Hamburg Notation System for sign languages: An introductory guide, International Studies on Sign Language and Communication of the Deaf, vol. 5. Hamburg: Signum.
+Prillwitz, Sigmund and Rolf Schulmeister. 1987. Entwicklung eines computergesteuerten Gebärdenlexikons mit bewegten Bildern. Das Zeichen 1(1): 52–57.
+Stokoe, William C. 1960. Sign language structure: An outline of the visual communication systems of the American Deaf. No 8 in Studies in Linguistics, Occasional Papers. Buffalo, NY: University of Buffalo.
+Stokoe, William C., Dorothy C. Casterline, and Carl G. Croneberg. 1965. A dictionary of American Sign Language on linguistic principles. Silver Spring, MD: Linstok Press.
+Sutton, Valerie. 1981. Sign Writing for everyday use. Boston: Sutton Movement Writing Press.
+Sutton, Valerie. 1990. Lessons in SignWriting. La Jolla, CA: SignWriting Press.

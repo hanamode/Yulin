@@ -1,0 +1,24 @@
+{
+ "batch": 29,
+ "out": "data/gen2/batch-29.json",
+ "entries": [
+  {
+   "id": "relevance-theory",
+   "title": "关联理论",
+   "en": "Relevance Theory",
+   "category": "theories"
+  },
+  {
+   "id": "acceptability-judgement",
+   "title": "可接受性判断",
+   "en": "Acceptability Judgement",
+   "category": "methods"
+  },
+  {
+   "id": "acoustic-analysis",
+   "title": "声学分析",
+   "en": "Acoustic Analysis",
+   "category": "methods"
+  }
+ ]
+}

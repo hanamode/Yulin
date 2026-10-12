@@ -1,0 +1,403 @@
+{
+ "batch": 6,
+ "entries": {
+  "construction-grammar": {
+   "summaryEn": "Construction Grammar is a family of grammatical theories that emerged in the 1980s and takes the construction as its basic unit, holding that grammatical knowledge consists of form-meaning pairings ranging from words and idioms to abstract syntactic patterns. It stresses the mental representation, non-derivational character and hierarchical network organisation of grammar, standing in sharp contrast to the rule-projection and deep-structure views of generative grammar.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Construction Grammar is not a single theory but an umbrella term for a group of grammatical theories that share certain basic assumptions. Its core claim is that the basic units of linguistic knowledge are constructions, that is, pairings of form with meaning (or function) whose form or meaning cannot be fully predicted from their component parts or from existing constructions. Words, idioms, phrasal patterns and abstract sentence patterns therefore all fall within one theoretical framework, differing only in complexity and abstractness.",
+      "The approach was first proposed by Fillmore, Kay, Lakoff and others in the 1980s and was later developed by Goldberg, Langacker, Croft and others. The classic example is the English let alone construction: He doesn't like coffee, let alone tea. The overall meaning of let alone cannot be derived compositionally from let and alone, and the construction requires the coordinated items to stand in a scalar negative relation, making it a typical idiomatic construction."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "Constructional meaning is a key notion in Construction Grammar: it is the meaning carried by a syntactic pattern itself, independently of any particular verb. The English ditransitive construction [Subj V Obj1 Obj2] itself expresses 'caused transfer': in Pat gave Chris a book, give already carries the meaning of giving, whereas in He baked her a cake, bake means only 'to bake' and its 'giving' sense comes from the construction, showing that constructional meaning can coerce and augment a verb's argument structure.",
+      "Constructions are not listed in isolation but are linked into a hierarchical construction network through relations such as schema-instance and part-whole. The abstract ditransitive schema, for example, subsumes the concrete give construction, which in turn subsumes particular sentences. Grammar is thus seen as a dynamic, learnable mental network of constructions varying in degrees of generality, rather than a derivational device that generates expressions from rules."
+     ]
+    },
+    {
+     "hEn": "Main Approaches",
+     "pEn": [
+      "Berkeley Construction Grammar (Fillmore, Kay and others) is grounded in frame semantics and devotes attention to the fine-grained description of idioms and of the 'constructicon', its representative works being analyses of the let alone construction and of the WXDY construction. Goldberg's cognitive Construction Grammar combines constructions with the study of argument structure, offering a systematic argument that 'constructions themselves have meaning' and discussing the acquisition and generalisation of constructions.",
+      "Langacker's Cognitive Grammar treats grammar as a network of combinations of symbolic units and is highly compatible with Construction Grammar; Croft's Radical Construction Grammar goes further in arguing that constructions, rather than word classes, are the primitive units of syntactic description, with grammatical categories defined by their position and function within constructions. There are also cognitively and computationally oriented branches such as Bergen and Chang's Embodied Construction Grammar."
+     ]
+    },
+    {
+     "hEn": "Linguistic Examples",
+     "pEn": [
+      "Chinese resultative verb compounds are a common illustration in constructional analysis, as in 张三哭湿了手帕 and 他喝醉了酒. The resultative complement gives the otherwise monovalent 哭 a causative-result meaning, and its argument configuration cannot be predicted directly from the verb's meaning, showing that the resultative construction is a pattern with its own constructional meaning. The Chinese 把-construction (他把书放在桌子上) is likewise treated as a construction carrying 'disposal' and 'displacement' meanings.",
+      "The English the X-er, the Y-er construction (The more you eat, the fatter you get.) expresses the proportional co-variation of two processes, and its use of comparatives and the definite article departs from ordinary syntax, so that it can only be accounted for by the construction itself. The functionally equivalent Chinese 越……越…… construction (越说越激动) likewise cannot be derived from general syntactic rules."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "The criteria for defining a construction have long been disputed. The early criterion was unpredictability, but Goldberg later proposed that even fully predictable meanings may be stored as constructions provided their frequency is high enough; this has been criticised as too broad, since it makes 'construction' almost equivalent to 'linguistic unit' and weakens the explanatory power of the theory.",
+      "Construction Grammar and generative grammar continue to debate whether syntax is autonomous and whether rules can cover idioms. Supporters hold that Construction Grammar handles core syntax and peripheral idioms in a unified way and is supported by child acquisition data and psychological experiments; critics regard the theory as largely descriptive generalisation that lacks strict predictive power and does not sufficiently specify the representation and processing mechanisms of the construction network."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "construction",
+     "dEn": "A pairing of form with meaning or function whose overall properties cannot be fully predicted from its parts."
+    },
+    {
+     "tEn": "constructional meaning",
+     "dEn": "Meaning carried by a syntactic pattern itself, independently of any particular verb, such as caused transfer."
+    },
+    {
+     "tEn": "construction network",
+     "dEn": "The hierarchical organisation linking constructions through relations such as schema-instance and part-whole."
+    },
+    {
+     "tEn": "argument structure construction",
+     "dEn": "An abstract pattern specifying how a verb's arguments map onto syntactic constituents, such as the ditransitive."
+    },
+    {
+     "tEn": "frame semantics",
+     "dEn": "Fillmore's semantic theory holding that word meaning can be understood only against a background knowledge frame."
+    },
+    {
+     "tEn": "idiomatic construction",
+     "dEn": "A construction with fixed form and non-compositional meaning, such as English let alone or Chinese 越……越……."
+    }
+   ]
+  },
+  "generativism": {
+   "summaryEn": "Generative Grammar was founded by Chomsky and holds that linguistics should aim to explain how speakers use finite means to produce an infinite number of sentences. It distinguishes competence from performance, argues that syntax is autonomous and recursive, and posits an innate Universal Grammar in the human mind. The theory has been reconstructed several times and is the core paradigm of modern formal linguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Basic Claims",
+     "pEn": [
+      "Generative grammar is a linguistic theory founded by N. Chomsky beginning with Syntactic Structures in 1957. 'Generative' means that a finite set of rules explicitly specifies which sentences are well formed and assigns a structural description to every well-formed sentence, thereby explaining speakers' creativity in understanding and producing sentences they have never heard before. Grammar is treated as a psychological entity, and the goal is to characterise the linguistic knowledge in the human mind.",
+      "The theory makes several basic claims: linguistic research should be concerned with competence rather than performance; syntax is autonomous and cannot be reduced to semantics or context; and grammatical rules are recursive, so that finite rules can generate infinitely many sentences. Chomsky further proposes the hypothesis of Universal Grammar, holding that human beings are innately equipped with a shared set of linguistic principles by which children rapidly acquire their native language from limited data, a position known as nativism."
+     ]
+    },
+    {
+     "hEn": "Theoretical Development",
+     "pEn": [
+      "The theory has gone through roughly several stages. The Classical Theory (1957) described syntax by means of phrase structure rules plus transformational rules. The Standard Theory (1965) distinguished deep structure from surface structure and had semantic interpretation apply to deep structure; after the challenge of generative semantics it was revised into the Extended Standard Theory. In the 1970s Government and Binding (GB) replaced specific rules with principles and parameters, explaining language through modules such as X-bar theory, theta theory, Case theory and binding theory and attributing cross-linguistic differences to parameter settings.",
+      "From the 1990s the Minimalist Program argued that the mechanisms of grammar should satisfy the two interface conditions of the conceptual-intentional and sensorimotor systems, reducing operations such as movement to Merge and feature checking and pursuing economy and simplicity of theory. Non-transformational lines that arose from within generative grammar, such as Lexical-Functional Grammar and Generalised Phrase Structure Grammar, also constitute important branches of formal linguistics."
+     ]
+    },
+    {
+     "hEn": "Core Concepts",
+     "pEn": [
+      "Deep structure and surface structure: the former represents the initial combination of syntactic constituents, the latter the form that results after transformations such as movement and is actually pronounced. The difference between the two explains passive and interrogative sentences and ambiguity. Transformational rules describe the movement, deletion and insertion of constituents. Recursiveness is a fundamental property of syntax: in 我知道他以为你说的话是真的 the embedded clauses can be nested indefinitely, and sentence length has in principle no upper bound.",
+      "The hierarchical nature of phrase structure is represented by tree diagrams. In English The boy saw the girl, The boy and the girl are each a noun phrase (NP), saw the girl is a verb phrase (VP), and the whole is a sentence (S). Tree diagrams clearly display the hierarchy and c-command relations among constituents and are the most common representational tool of generative syntax."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "English yes-no questions can be seen as the result of movement. In the declarative John will leave the auxiliary will follows the subject; the corresponding question Will John leave? can be described as will moving from the tense position to the complementiser position at the beginning of the sentence, and this 'subject-auxiliary inversion' is the classic illustration of a transformational operation. Chinese questions mostly rely on wh-words in situ, but the 是……的 pattern in 他是昨天来的 exhibits syntactic constraints on the focus element.",
+      "Ambiguous structures best demonstrate the need for hierarchical analysis. 咬死了猎人的狗 has two readings: one in which '(the dog) bit the hunter to death' and one in which '(someone) bit the hunter's dog to death', corresponding to different immediate constituent divisions and theta assignments. English Flying planes can be dangerous is likewise ambiguous depending on whether planes is the thematic argument of flying or its object, and generative grammar uses such cases to argue that surface word order is not sufficient to determine meaning."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Generative grammar pushed linguistics towards formalisation and explanation, fostered the independent flourishing of syntax, and directly gave rise to formalist traditions in psycholinguistics, neurolinguistics and computational linguistics; Chomsky's Universal Grammar hypothesis has also deeply influenced the study of language acquisition. Its formal tools have been transplanted into computer science and natural language processing, and tree diagrams and formal grammars have become widely used frameworks of analysis.",
+      "There are three main criticisms. Functionalism and Cognitive Linguistics hold that it relies excessively on syntactic autonomy and idealised data and neglects the social and communicative functions of language and the role of frequency of use; corpus linguistics points out that its introspective examples lack empirical grounding; and psychological and neuroscientific evidence concerning the specific mechanisms of Universal Grammar remains controversial. Nevertheless, generative grammar remains one of the most influential paradigms in contemporary theoretical linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "competence and performance",
+     "dEn": "Competence is the grammar internalised by a speaker; performance is its actual use in concrete situations."
+    },
+    {
+     "tEn": "Universal Grammar",
+     "dEn": "Chomsky's hypothesised system of innate linguistic principles providing the biological basis for first language acquisition."
+    },
+    {
+     "tEn": "deep structure and surface structure",
+     "dEn": "Deep structure is the initial combination of syntactic constituents; surface structure is the form pronounced after transformations apply."
+    },
+    {
+     "tEn": "recursiveness",
+     "dEn": "The property whereby a syntactic rule may apply repeatedly to its own output, generating infinitely many sentences from finite means."
+    },
+    {
+     "tEn": "transformational rule",
+     "dEn": "A rule that moves, deletes or inserts syntactic constituents in order to derive a surface structure from a deep structure."
+    },
+    {
+     "tEn": "Minimalist Program",
+     "dEn": "Chomsky's 1990s programme explaining syntax through minimal operations such as Merge in pursuit of theoretical economy."
+    }
+   ]
+  },
+  "systemic-functional": {
+   "summaryEn": "Systemic Functional Grammar was founded by Halliday and treats language as a network of systems constituted by choices, so that speaking is a matter of making choices within those systems. It posits the three metafunctions of ideational, interpersonal and textual meaning and describes clauses through systems such as transitivity, mood and theme, stressing the close ties between language, social context and discourse; it is widely used in discourse analysis and language teaching.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Origins",
+     "pEn": [
+      "Systemic Functional Grammar (SFG) is a linguistic theory established by M. A. K. Halliday on the basis of the London School tradition. It has two components: systemic grammar is concerned with language as a 'network of choices', and functional grammar with the meaning functions borne by linguistic form. Its basic position is that language is formed in social interaction and that grammar is the resource that organises meaning potential.",
+      "The theory derives from Malinowski's ideas about context and from Firth's prosodic analysis and context theory. Halliday set out the framework systematically in An Introduction to Functional Grammar (1985), making it one of the most influential functionalist grammatical models of the present day and leading to its wide use in the analysis and teaching of Chinese, English and other languages."
+     ]
+    },
+    {
+     "hEn": "The Three Metafunctions",
+     "pEn": [
+      "Halliday holds that all languages must simultaneously satisfy three kinds of meaning requirement, the metafunctions. The ideational metafunction expresses experience and logical relations and is realised by the transitivity system, lexis and logical semantics; the interpersonal metafunction establishes and maintains social relations and expresses attitudes and judgements and is realised by the systems of mood, modality and person; the textual metafunction organises the other two into coherent discourse and is realised by thematic structure, information structure and cohesive devices.",
+      "The three metafunctions operate simultaneously in every clause, constituting multiple analytical perspectives on one and the same structure. In English The boy broke the window, for example, the ideational layer is 'Actor - Process - Goal', the interpersonal layer is a declarative of 'Subject + Finite + Predicator', and the textual layer is 'Theme The boy + Rheme broke the window'. The three layers are superimposed rather than mutually exclusive."
+     ]
+    },
+    {
+     "hEn": "System, Stratification and Realisation",
+     "pEn": [
+      "The core notion of systemic grammar is the system network: each system is a set of mutually exclusive options, and choosing one excludes the others. The English mood system, for example, first chooses among declarative, interrogative and imperative, and interrogative further chooses between yes-no and wh-interrogative. Grammatical description thus becomes a characterisation of choice paths rather than a list of fixed rules.",
+      "Language is seen as a system of strata comprising context, semantics, lexicogrammar and phonology/graphology, with adjacent strata related by realisation: semantics is realised by lexicogrammar, and lexicogrammar by phonology. The context stratum contains the three register variables field, tenor and mode, which respectively predict the preferred choices of transitivity, mood and theme in a text, so that register is the bridge linking language to situation."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "The transitivity analysis of the Chinese clause 昨天他在图书馆看完了一本小说 is as follows: the circumstantial elements 昨天 and 在图书馆, the Actor 他, the Process 看完, and the Goal 一本小说. If we say instead 那本小说他昨天看完了, the process is expressed in a passive-like form, the Goal is 那本小说 and the Actor 他 retreats to a secondary position, reflecting the speaker's rearrangement of the starting point of the information.",
+      "The mood system can be used to compare different languages. English forms questions by inverting the subject and the Finite: He is reading. versus Is he reading?; Chinese typically uses interrogative particles and intonation: 他正在看书吗？ is formed by adding 吗 to the declarative. Halliday calls the subject and the Finite together the 'Mood element', and it is precisely this element that carries the expression of questioning, stating and other speech functions."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Systemic Functional Grammar is widely applied in discourse analysis, stylistics, critical discourse analysis, language education and translation studies; its metafunctional framework and register theory provide operational tools for analysing real texts, and it has also been used in discourse generation and multimodal research in computational linguistics, while in China it has given rise to a tradition of systemic functional research on Chinese.",
+      "Criticism comes mainly from formalists and from some functionalists: the former hold that its system networks lack formal rigour and computability; the latter consider the division into three metafunctions to be a priori and its account of syntactic generation insufficiently precise. In addition, the relation between register and text is often alleged to be circular. Nevertheless, the theory remains one of the most complete and most widely applied systems in functionally oriented linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "metafunction",
+     "dEn": "Halliday's three universal meaning functions - ideational, interpersonal and textual - all simultaneously manifested in any clause."
+    },
+    {
+     "tEn": "system network",
+     "dEn": "A network of grammatical choices made up of mutually exclusive options, describing the choice paths a speaker takes in discourse."
+    },
+    {
+     "tEn": "transitivity system",
+     "dEn": "The ideational system that construes experience as processes, participants and circumstances, such as material, mental and relational processes."
+    },
+    {
+     "tEn": "mood and modality",
+     "dEn": "Mood, formed by Subject and Finite, expresses speech functions such as stating and questioning; modality expresses possibility and obligation."
+    },
+    {
+     "tEn": "register",
+     "dEn": "A contextual configuration of field, tenor and mode that predicts the semantic and lexicogrammatical choices of a text."
+    },
+    {
+     "tEn": "realisation",
+     "dEn": "The relation between adjacent strata of language, as when semantics is realised by lexicogrammar and lexicogrammar by phonology."
+    }
+   ]
+  },
+  "structuralism": {
+   "summaryEn": "Structuralism is the most far-reaching linguistic movement of the twentieth century, founded by Saussure. It holds that language is a self-contained relational system constituted by differences and oppositions, that it should be described synchronically, and it distinguishes langue from parole, signifier from signified, and syntagmatic from paradigmatic relations. Its methods deeply influenced anthropology, literary criticism and semiotics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Origins",
+     "pEn": [
+      "Structuralism is a linguistic paradigm whose central proposition is that language is a system. It originates in the general linguistics lectures given by the Swiss linguist F. de Saussure at the University of Geneva, which were compiled by his students and published as the Course in General Linguistics (1916), after which it spread widely. Saussure opposed the nineteenth-century historical-comparative linguistics with its tracing of etymologies and isolated sound changes, arguing instead that language should be studied as a whole whose internal elements mutually constrain one another.",
+      "'Structure' does not refer to an outward formal arrangement but to the relations of opposition and difference among the components of a system. The value of a component does not depend on itself but on which components it is opposed to within the system. The structuralist slogan is therefore 'in language there are only differences': it is the opposition between [p] and [b] that makes pinch and bin different words, not some absolute phonetic quality in itself."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts and Binary Oppositions",
+     "pEn": [
+      "Saussure proposed a set of foundational distinctions. Langue and parole: the former is the abstract sign system existing in the social collective, the latter the individual's concrete use of language. Signifiant and signifié: the linguistic sign has two faces, a sound image and a concept, and the link between them is arbitrary. Synchrony and diachrony: the former describes the relations within a system at a given period, the latter traces the evolution of elements over time, and Saussure argued that synchronic description should take priority.",
+      "On the horizontal axis Saussure distinguishes syntagmatic from paradigmatic relations. In the Chinese sentence 我吃苹果, the linear concatenation 我—吃—苹果 is a syntagmatic relation; 吃 and 喝, 看, 买 and so on, which may occupy the same position and substitute for one another, form a paradigmatic relation. The former is combination in praesentia, the latter a potential network of associations."
+     ]
+    },
+    {
+     "hEn": "Main Schools",
+     "pEn": [
+      "The Prague School (from 1926) extended structuralism to phonology and functional syntax: Trubetzkoy proposed the distinction between the phoneme and its allophones along with distinctive features, and Jakobson further developed binary opposition and feature analysis; they also created the 'functional sentence perspective', discussing the information structure of theme and rheme. The Copenhagen School (from 1936), led by Hjelmslev, sought a more abstract glossematics, distinguishing the two planes of expression and content along with their form and substance.",
+      "American descriptivism is represented by Boas, Sapir and Bloomfield. In order to record American Indian languages that lacked writing, they developed descriptive procedures focusing on formal distribution and avoiding meaning; Bloomfield's Language (1933) established a rigorous descriptivist tradition with a behaviourist orientation, and later Harris and others proposed distributional analysis and immediate constituent analysis, which became the signature methods of structuralist syntax."
+     ]
+    },
+    {
+     "hEn": "Methods and Examples",
+     "pEn": [
+      "Structuralist method emphasises the segmentation and classification of observable material: first segment the stream of speech, then group sounds into phonemes according to distribution, and finally describe hierarchical relations. Phoneme grouping follows two iron laws, 'opposition' and 'complementary distribution'. In English [pʰ] and [p] occur in complementary environments (aspirated word-initially, unaspirated after s) and are therefore grouped as two variants of one phoneme; in Mandarin Chinese, by contrast, [pʰ] and [p] form a minimal pair, since 怕 [pʰa⁵¹] and 爸 [pa⁵¹] differ in meaning and must be assigned to two phonemes.",
+      "At the syntactic level, immediate constituent analysis divides a structure into two parts layer by layer. English The old man read the book is first divided into The old man and read the book, and each of these is then divided into The + old man and read + the book. This method intuitively reveals the hierarchical construction of sentences, but it struggles with ambiguous structures such as 咬死了猎人的狗, because the same string of words can correspond to two different divisions, a problem left to later transformational generative grammar."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Structuralism moved linguistics from atomistic historical study towards the study of systems, and its methodology spread through Jakobson, Lévi-Strauss, Barthes and others into anthropology, mythology, literary theory and semiotics, forming the large-scale structuralist movement of the twentieth century. Within linguistics it laid down the basic framework of phonology, morphology and descriptive grammar and remains to this day a routine tool of language survey and language teaching.",
+      "Criticism comes mainly from two directions. First, generative grammar charges it with being content with classification and induction and with lacking any pursuit of linguistic creativity and explanatory adequacy; second, sociolinguistics and functionalism criticise it for abstracting language away from its users and social context and for neglecting variation and communicative function. Nevertheless, distinctions such as synchrony versus diachrony and langue versus parole remain basic coordinates of modern linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "langue and parole",
+     "dEn": "Saussure's distinction: langue is the abstract sign system shared by a society, parole the individual's actual use of it."
+    },
+    {
+     "tEn": "signifier and signified",
+     "dEn": "The sound image and the concept that form the two faces of the linguistic sign, their union being arbitrary."
+    },
+    {
+     "tEn": "syntagmatic and paradigmatic relations",
+     "dEn": "Syntagmatic relations hold between elements in a linear sequence; paradigmatic relations between elements substitutable in the same slot."
+    },
+    {
+     "tEn": "synchrony and diachrony",
+     "dEn": "Synchronic study describes a language system at one period; diachronic study traces the evolution of linguistic elements over time."
+    },
+    {
+     "tEn": "phoneme and allophone",
+     "dEn": "A phoneme is the smallest sound unit distinguishing meaning; an allophone is its actual pronunciation in a given environment."
+    },
+    {
+     "tEn": "immediate constituent analysis",
+     "dEn": "A structuralist method that divides a syntactic structure into two parts layer by layer to reveal its hierarchy."
+    }
+   ]
+  },
+  "cognitive-linguistics": {
+   "summaryEn": "Cognitive Linguistics is a movement that arose in the 1970s and 1980s and holds that language is a product of general human cognitive abilities, with grammar and meaning inseparable. It rejects the autonomy of syntax and emphasises embodiment, prototype categorisation, conceptual metaphor and image schemas, investigating the cognitive mechanisms behind language through authentic data, cross-linguistic comparison and psychological experiments.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope",
+     "pEn": [
+      "Cognitive Linguistics is not a single theory but an intellectual movement sharing the premise that language is rooted in cognition. It makes three core claims: linguistic ability is not a module independent of other cognitive abilities but shares mechanisms with perception, memory, categorisation and reasoning; the basic function of language is symbolisation, and grammatical form itself carries meaning; and meaning is essentially conceptualisation, which cannot be understood apart from human bodily experience and imagination.",
+      "Its subject matter covers categorisation and prototypes, conceptual metaphor and metonymy, image schemas and cognitive domains, figure-ground organisation, perspective and subjectivity, iconicity, and theoretical frameworks such as Cognitive Grammar and Construction Grammar. It stands in sharp opposition to generative grammar and also overlaps extensively with functional linguistics, pragmatics and psycholinguistics."
+     ]
+    },
+    {
+     "hEn": "Basic Theories",
+     "pEn": [
+      "Prototype theory derives from the experiments of the psychologist Rosch. Categories are not defined by necessary and sufficient conditions but are organised around a best example, the prototype, with members distributed according to family resemblance and with fuzzy boundaries. The prototype of the category 'bird' is something like a sparrow or a robin, while penguins and ostriches are marginal members; among Chinese 水果, apples and bananas are most typical, while tomatoes are marginal. This explains why marginal members are responded to more slowly in judgement and reasoning tasks.",
+      "Conceptual metaphor theory, proposed by Lakoff and Johnson, holds that metaphor is not rhetorical decoration but a cognitive mechanism by which one abstract conceptual domain is systematically understood in terms of a more concrete one. Consider 'argument is war': English attack a position, defend, He won the argument; Chinese has 唇枪舌剑, 攻其不备, 驳倒. Another example is 'more is up, less is down': 价格上涨, 产量下降.",
+      "Image schemas are preconceptual structures distilled repeatedly from bodily experience, such as container, path, part-whole and up-down. Cognitive Grammar (Langacker) characterises relations in terms of trajector and landmark and holds that grammar is a network of combinations of symbolic units. Conceptual blending theory (Fauconnier and Turner) describes the process by which elements from several mental spaces are mapped and compressed to produce new structure."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Cognitive Linguistics relies mainly on introspection, observation of natural data and cross-linguistic comparison, insisting that theoretical hypotheses be tested against real language material rather than conclusions drawn from invented example sentences alone. Researchers commonly collect evidence from dictionaries, literary texts, newspapers and spoken language in order to examine the distribution of polysemy networks and metaphorical expressions.",
+      "Over the past two decades corpus methods and psychological experiments have been widely introduced: collocational, frequency and diachronic data are used to describe the evolution of constructions and word meanings, while reaction times, priming, eye tracking and neuroimaging experiments test cognitive hypotheses. Statistical study of the collocational distribution of words such as 爬 and 涨 with 上 across large corpora, for example, can support arguments for the psychological reality of orientational metaphor."
+     ]
+    },
+    {
+     "hEn": "Linguistic Examples",
+     "pEn": [
+      "In Cognitive Linguistics metonymy is regarded as a basic cognitive mode on a par with metaphor, whereby one conceptual entity stands for another entity related to it. Thus 白宫发表声明 uses a place for an institution, 我读莎士比亚 uses an author for his works, and 他要了一杯咖啡 uses a container's contents for the container. These uses are highly productive, showing that metonymy is a routine mechanism of everyday language.",
+      "Chinese syntactic structures have often been argued to have cognitive motivations. The principle of temporal sequence proposed by Tai holds that in serial verb constructions the order of verbs matches the order in which the events occur, as in 他进去拿书; the order of coordinate pairs such as 大小, 高低 and 远近 reflects an iconic tendency from the more to the less salient. Such observations link syntactic form directly to cognitive experience."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "The fundamental disagreement between Cognitive Linguistics and generative grammar concerns whether syntax is autonomous and whether linguistic ability is modular. Generativists hold that syntactic computation is independent of meaning and general cognition, whereas Cognitive Linguistics insists that grammatical form is shaped by meaning and usage. The debate remains unresolved, though dialogue between the two sides on language acquisition and processing is increasing.",
+      "Methodological criticisms include the following: core notions such as 'image schema' and 'construction' are difficult to define operationally; the criteria for identifying metaphor depend to some extent on the researcher's judgement and risk subjectivity and circularity; and some experiments supporting the influence of language on thought or the psychological reality of metaphor are hard to replicate. Nevertheless, Cognitive Linguistics has markedly broadened the horizons of semantics, pragmatics, second language teaching and translation studies."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "prototype",
+     "dEn": "The most representative and most easily activated member of a category, such as the sparrow in the category 'bird'."
+    },
+    {
+     "tEn": "conceptual metaphor",
+     "dEn": "A cognitive mechanism by which one abstract conceptual domain is systematically understood in terms of a concrete one."
+    },
+    {
+     "tEn": "image schema",
+     "dEn": "A preconceptual simple spatial structure repeatedly distilled from bodily experience, such as container or path."
+    },
+    {
+     "tEn": "figure-ground",
+     "dEn": "The organising relation between the salient focus of attention in cognition and the background serving as reference."
+    },
+    {
+     "tEn": "Cognitive Grammar",
+     "dEn": "The grammatical theory founded by Langacker, holding that grammar is a network of combinations of symbolic units."
+    },
+    {
+     "tEn": "conceptual blending",
+     "dEn": "The cognitive process of mapping and integrating conceptual elements from several mental spaces into a new structure."
+    }
+   ]
+  },
+  "linguistic-relativity": {
+   "summaryEn": "Linguistic relativity examines whether and how the structure of a language affects the thought and cognition of its speakers. It derives from the writings of Humboldt, Sapir and Whorf and is commonly known as the Sapir-Whorf hypothesis. Its strong version claims that language determines thought, while the weak version claims that language influences attention, memory and classification tendencies; colour terms, spatial reference and temporal metaphor are classic areas of contemporary research.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and the Hypothesis",
+     "pEn": [
+      "Linguistic relativity refers to the claim that structural features of a language influence the ways of thinking and the cognitive habits of its speakers. Its extreme form is called linguistic determinism, which holds that thought is wholly determined by language and that the categories a person can think in are limited by those provided by the native language. In the mid-twentieth century this proposition was regarded as an untestable philosophical assertion and was for a long time neglected.",
+      "Contemporary discussion usually distinguishes a strong and a weak version. The strong version, determinism, holds that without the corresponding linguistic form there is no corresponding thought; the weak version holds that language guides attention and influences memory encoding and classification tendencies but does not constitute an absolute boundary on thought. The weak version is a testable empirical proposition and is the object of most empirical research today."
+     ]
+    },
+    {
+     "hEn": "A Brief History",
+     "pEn": [
+      "The intellectual origins can be traced to the German scholar W. von Humboldt, who argued in the nineteenth century that each language embodies a distinctive worldview (Weltansicht). The American anthropological linguist Boas, in describing American Indian languages, stressed that every language has its own structural categories and cannot be measured by imposing Indo-European frameworks on it, and the 'relativist' methodology was thereby established.",
+      "In Language (1921) Sapir treated language as a 'guide to thought', holding that linguistic form predetermines certain ways of interpreting experience. His student Whorf went further, using the Hopi conception of time as an example to advance the famous claim that language shapes the 'thought world', and the relevant papers were posthumously collected in Language, Thought, and Reality (1956). Early arguments were criticised for inadequate linguistic description and circular reasoning, and the claim that 'Hopi has no category of time' has been corrected by subsequent research."
+     ]
+    },
+    {
+     "hEn": "Classic Evidence and Experiments",
+     "pEn": [
+      "Colour terms are the most mature area for testing linguistic relativity. Russian obligatorily distinguishes light blue goluboy from dark blue siniy, which are two basic colour terms. Winawer et al. (2007) had participants discriminate colour patches across the category boundary (between light and dark blue) and within the same category; Russian speakers were significantly faster than English speakers in the cross-category condition, indicating that an obligatory lexical distinction can influence perceptual judgement. The Chinese 青, which covers both blue and green, is also often cited as an example of fuzzy boundaries.",
+      "As regards spatial reference, Guugu Yimithirr in Australia uses absolute directions, describing positions in terms of east, west, north and south, whereas languages such as English commonly use the relative directions left and right. Levinson and his colleagues found that speakers of that language could still maintain absolute orientation accurately after rotation, and that performance on non-verbal tasks varied systematically with the spatial frame of the language. Temporal expression also differs across languages: English predominantly uses horizontal metaphors (the days ahead), while Chinese commonly uses vertical metaphors (上个月, 下个月), and Boroditsky (2001) found that Chinese speakers' temporal representations were more readily primed by vertical space.",
+      "Grammatical gender has received comparable attention. German Brücke ('bridge') is a feminine noun and Spanish puente is masculine; Boroditsky et al. (2003) asked participants to name objects and describe their properties, and German speakers tended to use words such as 'beautiful' and 'elegant' while Spanish speakers tended to use words such as 'sturdy' and 'strong'. In addition, numeral systems and the category of evidentiality have been used to investigate the influence of language on numerical reasoning and on the encoding of information sources."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "Methodological doubts come first: the cross-category advantage in colour discrimination may stem from general perceptual categorisation or task strategy rather than from linguistic labels; some experiments have been difficult to replicate reliably across laboratories, and effect sizes are often considered small. Spatial experiments likewise face the problem that participants' upbringing, cultural habits and linguistic experience are hard to disentangle.",
+      "At the conceptual level, strong linguistic determinism is difficult to sustain: aphasic patients and children who have not mastered the relevant vocabulary can still engage in the relevant thought, showing that concepts do not depend entirely on language. The relation between language and thought is more likely bidirectional, with conceptual habits in turn shaping linguistic structure. Contemporary consensus therefore generally favours weak relativity."
+     ]
+    },
+    {
+     "hEn": "Contemporary Research",
+     "pEn": [
+      "Current research has shifted towards cognitive domains that can be measured precisely, including colour, space, time, number, grammatical gender, evidentiality and causal attribution. Pirahã in the Amazon, for example, lacks exact numerals, and Gordon (2004) found that its speakers performed poorly on tasks requiring exact numerical matching; this result, however, has also been explained as a product of task design and cultural practice, and the debate continues.",
+      "Bilingualism and acquisition research provide new sources of evidence: switching linguistic frames brings changes in cognitive strategy, and linguistic labels can facilitate category learning and memory retrieval. Taken together, the mainstream position in the field is that language significantly influences attention allocation, memory encoding and classification tendencies, but that this influence is a matter of degree, moderated by task, situation and individual experience rather than an insurmountable determination."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "linguistic relativity",
+     "dEn": "The claim that the structure of a language influences thought and cognitive habits, usually referring to the weak version."
+    },
+    {
+     "tEn": "linguistic determinism",
+     "dEn": "The strong claim that thought is wholly determined by language and constrained by native-language categories."
+    },
+    {
+     "tEn": "Sapir-Whorf hypothesis",
+     "dEn": "The collective name, associated with Sapir and Whorf, for the claim that language shapes thought."
+    },
+    {
+     "tEn": "absolute frame of reference",
+     "dEn": "A spatial description frame using fixed directions such as east, west, north and south, as in Guugu Yimithirr."
+    },
+    {
+     "tEn": "grammatical gender",
+     "dEn": "A grammatical category of noun classification that may influence speakers' associations with and descriptions of objects."
+    },
+    {
+     "tEn": "colour terms",
+     "dEn": "The lexical system by which a language divides the colour domain, a classic testing ground for linguistic relativity."
+    }
+   ]
+  }
+ }
+}

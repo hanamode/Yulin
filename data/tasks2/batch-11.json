@@ -1,0 +1,24 @@
+{
+ "batch": 11,
+ "out": "data/gen2/batch-11.json",
+ "entries": [
+  {
+   "id": "free-bound-morpheme",
+   "title": "自由语素与黏着语素",
+   "en": "Free and Bound Morphemes",
+   "category": "concepts"
+  },
+  {
+   "id": "lexical-category",
+   "title": "词类",
+   "en": "Lexical Category",
+   "category": "concepts"
+  },
+  {
+   "id": "inflection-derivation",
+   "title": "屈折与派生",
+   "en": "Inflection and Derivation",
+   "category": "concepts"
+  }
+ ]
+}

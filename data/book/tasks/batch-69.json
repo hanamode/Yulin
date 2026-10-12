@@ -1,0 +1,25 @@
+{
+ "batch": 69,
+ "chapter": "Appendix 1: PSRs and Flat Tree Structures",
+ "out": "data/book/gen/batch-69.json",
+ "sections": [
+  {
+   "id": "chapter-161-a1-2-properties-of-psr-trees",
+   "title": "A1.3 Properties of PSR Trees",
+   "src": "data/book/src/chapter-161-a1-2-properties-of-psr-trees.txt",
+   "chars": 5597
+  },
+  {
+   "id": "chapter-162-a1-3-structural-ambiguity",
+   "title": "A1.4 Structural Ambiguity",
+   "src": "data/book/src/chapter-162-a1-3-structural-ambiguity.txt",
+   "chars": 2530
+  },
+  {
+   "id": "chapter-163-a1-3-head-movement-in-yes-no-questions",
+   "title": "A1.5 Head movement in yes-no questions",
+   "src": "data/book/src/chapter-163-a1-3-head-movement-in-yes-no-questions.txt",
+   "chars": 3928
+  }
+ ]
+}

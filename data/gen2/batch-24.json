@@ -1,0 +1,214 @@
+{
+  "batch": 24,
+  "entries": [
+    {
+      "id": "aphasia",
+      "title": "失语症",
+      "en": "Aphasia",
+      "category": "concepts",
+      "tags": ["失语症", "神经语言学", "布罗卡区", "韦尼克区", "语言障碍", "脑损伤"],
+      "summary": "失语症是脑损伤引起的后天性语言障碍，患者在语音、词汇、句法或语篇层面出现选择性缺损，而智力与交际意图往往相对保留。1861 年布罗卡与 1874 年韦尼克的研究确立了左半球额下回与颞上回的关键地位，并开创了临床神经语言学。此后研究者划分出布罗卡失语、韦尼克失语、传导性失语与命名性失语等类型，并借助双语与手语患者、跨语言对比检验语言加工的理论假设，同时推动了语言能力的模块性与神经网络两种解释之争。",
+      "summaryEn": "Aphasia is an acquired language disorder caused by brain damage, in which patients show selective impairment at the phonetic, lexical, syntactic or discourse level while general intelligence and communicative intent are often relatively preserved. The discoveries of Paul Broca in 1861 and Carl Wernicke in 1874 established the role of the left inferior frontal and superior temporal regions and founded clinical neurolinguistics. Subsequent work distinguished Broca's, Wernicke's, conduction and anomic aphasia, and the study of bilingual and signing patients has become a major testing ground for theories of language processing.",
+      "sections": [
+        {
+          "h": "定义与神经基础",
+          "hEn": "Definition and Neural Basis",
+          "p": [
+            "失语症指脑卒中、外伤、肿瘤或退行性疾病导致的大脑损伤所引起的语言能力丧失或退化，它不同于单纯的发音器官麻痹或感觉器官缺陷造成的言语障碍。多数患者的病灶位于左半球外侧裂周围区域：额下回的布罗卡区受损常影响言语产生，颞上回的韦尼克区受损常影响言语理解。1861 年布罗卡报告了以「tan」为唯一可发音节的患者 Leborgne，1874 年韦尼克提出感觉性失语并描绘了连接两区的联系纤维，由此奠定了「语言中枢」的经典模型。"
+          ],
+          "pEn": [
+            "Aphasia refers to the loss or deterioration of language following brain damage from stroke, trauma, tumour or degenerative disease. It is distinct from dysarthria caused by paralysis of the articulators or from sensory loss, since the deficit concerns linguistic knowledge and processing rather than the peripheral channel. Lesions are most often perisylvian in the left hemisphere: damage to Broca's area in the inferior frontal gyrus tends to disrupt speech production, whereas damage to Wernicke's area in the superior temporal gyrus tends to disrupt comprehension. Broca's 1861 report of Leborgne, a patient whose only utterance was tan, and Wernicke's 1874 account of sensory aphasia established the classical centre-and-connection model."
+          ]
+        },
+        {
+          "h": "主要类型与语言表现",
+          "hEn": "Main Syndromes and Linguistic Symptoms",
+          "p": [
+            "布罗卡失语以非流利、语法缺失为特征。英语患者常省略功能词和屈折词尾，例如想表达 The girl is eating an apple 时说出 girl eat apple；汉语患者的「语法缺失」表现不同，功能词脱落不如英语明显，更多表现为动词与语序范畴的困难以及韵律简化。韦尼克失语则言语流利但内容空洞，出现语义性错语，例如把 fork 说成 spoon，并伴有严重的理解障碍。传导性失语复述能力显著受损，命名性失语以找词困难为主而句法相对完好，此外还有完全性失语与原发性进行性失语等类型。",
+            "跨语言研究显示，失语症的表现受母语结构制约。屈折语患者易丢失词尾，汉语、泰语等声调语言患者则可能出现声调范畴的混淆，把「妈」mā 与「马」mǎ 混同。手语失语患者的损伤模式与口语患者相似，说明语言能力并不依赖听觉与发音通道。"
+          ],
+          "pEn": [
+            "Broca's aphasia is marked by non-fluent, agrammatic speech. English-speaking patients typically omit function words and inflections, producing girl eat apple for the intended The girl is eating an apple. Chinese-speaking patients show a different profile: function-word omission is less conspicuous, and difficulty with verbs and word-order categories, together with prosodic simplification, predominates. Wernicke's aphasia presents fluent but empty speech with semantic paraphasias, such as spoon for fork, alongside severe comprehension deficits. Conduction aphasia impairs repetition disproportionately, anomic aphasia centres on word-finding with relatively intact syntax, and global and primary progressive aphasias complete the clinical range.",
+            "Cross-linguistic evidence shows that symptoms are shaped by the structure of the patient's language. Speakers of inflectional languages readily lose endings, whereas speakers of tone languages such as Mandarin or Thai may confuse tonal categories, merging mā with mǎ. Aphasia in deaf signers produces patterns resembling those of hearing patients, indicating that language ability is not tied to the auditory-vocal channel."
+          ]
+        },
+        {
+          "h": "研究方法与评估",
+          "hEn": "Research Methods and Assessment",
+          "p": [
+            "临床评估常用波士顿诊断性失语症检查、西方失语症成套测验以及汉语失语症成套测验，分别测查自发言语、听理解、复述、命名、阅读与书写六个方面。语言学研究则采用会话分析、诱发任务和语误记录，考察患者在音位、形态与句法各层面的系统缺损，例如观察其能否分辨「爸」bà 与「怕」pà 的送气对立。影像手段方面，结构性核磁共振用于定位病灶，功能性核磁共振与脑磁图用于揭示残余功能的重组，失语症患者的双分离现象长期被用作论证语言模块性的证据。"
+          ],
+          "pEn": [
+            "Clinical assessment commonly relies on the Boston Diagnostic Aphasia Examination, the Western Aphasia Battery and their Mandarin adaptations, which sample spontaneous speech, auditory comprehension, repetition, naming, reading and writing. Linguistic research adds conversation analysis, elicited production tasks and error corpora in order to characterise systematic impairment at the phonological, morphological and syntactic levels, for instance whether a patient can discriminate the aspirated contrast in bà versus pà. Structural MRI localises the lesion, while functional MRI and magnetoencephalography track reorganisation of spared tissue. Double dissociations between aphasic patients have long served as evidence in debates over the modularity of language."
+          ]
+        },
+        {
+          "h": "理论争议与当代发展",
+          "hEn": "Theoretical Debates and Recent Developments",
+          "p": [
+            "经典模型把特定脑区与特定语言功能一一对应，但大量病例显示损伤与症状并非简单对应：布罗卡区受损者未必语法缺失，语法缺失者也常伴有理解困难。模块论者以失语症的双分离支持语言模块的独立存在，神经网络取向则强调语言功能依赖分布式皮层与白质通路的动态协作。当代研究结合弥散张量成像与脑电技术，关注恢复机制、双语患者的语言选择障碍以及失语症康复中的词汇再学习，并与临床语言学、神经语言学形成紧密互动。"
+          ],
+          "pEn": [
+            "The classical model mapped individual brain regions onto individual language functions, yet many cases show no simple correspondence: damage to Broca's area does not always produce agrammatism, and agrammatic patients frequently have comprehension difficulties as well. Modular theorists cite double dissociations in aphasia as evidence that language is an autonomous faculty, whereas network approaches stress the dynamic cooperation of distributed cortical regions and white-matter tracts. Contemporary work combines diffusion tensor imaging with electrophysiology to study recovery, impaired language selection in bilingual patients and lexical relearning in therapy, forging close links with clinical linguistics and neurolinguistics."
+          ]
+        }
+      ],
+      "terms": [
+        {"t": "失语症", "tEn": "aphasia", "d": "脑损伤引起的后天性语言能力缺损，可涉及语音、词汇与句法多个层面。", "dEn": "Acquired loss of language ability after brain damage, affecting several linguistic levels."},
+        {"t": "布罗卡区", "tEn": "Broca's area", "d": "左半球额下回后部的皮层区域，与言语产生和句法加工密切相关。", "dEn": "Cortical region in the posterior inferior frontal gyrus linked to speech production and syntax."},
+        {"t": "韦尼克区", "tEn": "Wernicke's area", "d": "左半球颞上回后部的皮层区域，在言语理解中起关键的作用。", "dEn": "Cortical region in the posterior superior temporal gyrus associated with speech comprehension."},
+        {"t": "语法缺失", "tEn": "agrammatism", "d": "失语症患者言语中功能词与屈折词尾系统性脱落或误用的现象。", "dEn": "Systematic omission or misuse of function words and inflections in aphasic speech."},
+        {"t": "错语", "tEn": "paraphasia", "d": "用错误的音或词替代目标形式，分为音位性错语与语义性错语。", "dEn": "Substitution of a wrong sound or word for the target, either phonemic or semantic."},
+        {"t": "双分离", "tEn": "double dissociation", "d": "两名患者各缺损一项能力而保留另一项，用以论证功能独立性。", "dEn": "Pattern in which two patients show complementary deficits, supporting functional independence."},
+        {"t": "原发性进行性失语", "tEn": "primary progressive aphasia", "d": "由神经退行性疾病引起的逐渐加重的语言障碍，初期不伴全面痴呆。", "dEn": "Gradually worsening language impairment from neurodegeneration, initially without general dementia."}
+      ],
+      "related": ["neurolinguistics", "clinical-linguistics", "phoneme", "syllable", "language-acquisition"],
+      "sources": [
+        "Wikipedia, \"Aphasia\", https://en.wikipedia.org/wiki/Aphasia",
+        "Goodglass, H. & Kaplan, E., The Assessment of Aphasia and Related Disorders, 1972",
+        "《语言学纲要》，北京大学出版社"
+      ]
+    },
+    {
+      "id": "categorical-perception",
+      "title": "范畴感知",
+      "en": "Categorical Perception",
+      "category": "concepts",
+      "tags": ["范畴感知", "语音知觉", "区别特征", "送气", "婴儿研究", "语音学"],
+      "summary": "范畴感知指听者把物理上连续变化的声学信号感知为少数离散范畴的现象，表现为辨别成绩在范畴边界处骤升、在范畴内部几乎为零。研究以嗓音起始时间等连续统为刺激，用辨认与辨别实验加以测量，例如英语听者对 /b/ 与 /p/ 的分界，汉语听者对「爸」bà 与「怕」pà 的送气对立。该现象既见于语音也见于乐音与颜色，婴儿与某些动物表现出类似效应，但范畴边界的位置随母语而异，是语言经验塑造知觉的经典证据。",
+      "summaryEn": "Categorical perception is the tendency of listeners to perceive physically continuous acoustic variation as a small number of discrete categories. It is shown by a sharp rise in discrimination accuracy at the category boundary and near-chance performance within a category. Experiments use continua such as voice onset time and require identification and discrimination responses, as with the English /b/–/p/ boundary or the Mandarin aspirated contrast in bà versus pà. The effect appears for speech, music and colour, and the location of boundaries varies with native language, making it classic evidence that experience shapes perception.",
+      "sections": [
+        {
+          "h": "定义与判别标准",
+          "hEn": "Definition and Diagnostic Criteria",
+          "p": [
+            "范畴感知是语音知觉研究的核心概念，指听者把连续变化的声学参数感知为彼此离散的范畴，而不是连续的渐变。判定范畴感知有两条标准：其一，辨认曲线上出现陡峭的边界，听者对边界附近的刺激突然改变标签；其二，辨别成绩呈现高峰与低谷，即两个跨边界的刺激虽在物理上等距，却比同一范畴内的等距刺激更容易区分。若只有陡峭的辨认曲线而无辨别峰，通常只称为范畴性辨认。"
+          ],
+          "pEn": [
+            "Categorical perception is a central notion in speech perception research: listeners perceive a continuously varying acoustic parameter as a set of discrete categories rather than as a continuum. Two criteria define it. First, the identification function shows a steep boundary, so that stimuli near that point abruptly change label. Second, discrimination shows peaks and troughs, so that two stimuli straddling the boundary are easier to tell apart than two physically equidistant stimuli from the same category. When only the steep identification function is present, researchers speak more cautiously of categorical identification alone."
+          ]
+        },
+        {
+          "h": "经典实验范式与语言实例",
+          "hEn": "Classic Paradigms and Linguistic Examples",
+          "p": [
+            "在 Liberman 等人 1957 年的经典实验中，研究者合成了一系列嗓音起始时间从负值到正值连续变化的音节，英语听者把短延时刺激听成 /b/、长延时刺激听成 /p/，边界约在 25 毫秒处，且他们在边界两侧的辨别成绩远高于范畴内部。汉语普通话的送气对立边界位置不同：不送气 p [p] 与送气 p [pʰ] 的对立使「爸」bà 与「怕」pà 在约 50 毫秒附近分界，说明边界位置由母语的音位系统决定。类似范式也用于塞音发音部位与元音连续统的研究。",
+            "除辅音之外，声调、元音与乐音同样显示范畴化的倾向。汉语听者面对阴平与阳平之间连续变化的基频，辨认曲线仍出现较陡的转折，只是辨别峰不如辅音实验那样突出；英语听者对同一批刺激多作连续判断，这种跨语言差异构成语言相对论在知觉层面的证据，也说明范畴化程度本身是一个连续变量。"
+          ],
+          "pEn": [
+            "In the classic experiments of Liberman and colleagues in 1957, listeners heard synthetic syllables in which voice onset time varied continuously from negative to positive values. English listeners labelled short-lag tokens as /b/ and long-lag tokens as /p/, with a boundary near 25 milliseconds, and their discrimination was far better across that boundary than within either category. The Mandarin aspirated contrast has a different boundary: unaspirated p [p] versus aspirated p [pʰ] divides bà from pà near 50 milliseconds, showing that boundary location is set by the phonological system of the native language. Related paradigms have been applied to place of articulation and to vowel continua.",
+            "Categorisation is not limited to consonants. When pitch varies along a continuum between the high-level and the rising Mandarin tone, identification still shows a relatively steep transition, although the discrimination peak is less pronounced than in stop experiments. English listeners tend to judge the same stimuli continuously. Such cross-linguistic differences provide perceptual evidence often cited in discussions of linguistic relativity, and they indicate that the degree of categorisation is itself a continuous variable."
+          ]
+        },
+        {
+          "h": "发展证据与神经机制",
+          "hEn": "Developmental and Neural Evidence",
+          "p": [
+            "Eimas 等人 1971 年发现，一至四个月的英语婴儿对 /b/ 与 /p/ 的边界同样表现出辨别峰，甚至能区分母语中并不对立的印地语或萨利什语辅音对立。这提示范畴感知具有先天基础，但后续追踪显示婴儿的辨别能力在一岁前后逐渐向母语靠拢，对非母语对立的敏感性下降。Kuhl 提出知觉磁石效应，说明母语范畴会把邻近刺激吸附到原型附近，导致范畴内部辨别变差。神经层面，脑磁图记录的失匹配负波在跨范畴变化时更明显，反映了听觉皮层对音位范畴的自动编码。"
+          ],
+          "pEn": [
+            "Eimas and colleagues reported in 1971 that English-learning infants aged one to four months show the same discrimination peak at the /b/–/p/ boundary and can even distinguish contrasts absent from their native language, such as Hindi or Salish stops. This suggests an innate basis for categorical perception. Follow-up studies, however, show that sensitivity gradually shifts toward the native inventory during the first year, with discrimination of non-native contrasts declining. Kuhl's perceptual magnet effect holds that native categories attract neighbouring stimuli toward a prototype, which reduces within-category discrimination. At the neural level, mismatch negativity recorded with magnetoencephalography is larger for across-category change, indicating automatic encoding of phonological categories in auditory cortex."
+          ]
+        },
+        {
+          "h": "争议与批评",
+          "hEn": "Controversies and Criticisms",
+          "p": [
+            "争议集中在三点。第一，语音的范畴感知是否特殊：部分研究显示黑猩猩等动物对嗓音起始时间也表现边界效应，而训练后的听者对非语音连续统亦可产生范畴化，因此有学者主张这是普遍知觉机制而非语言模块。第二，实验中的辨别峰可能来自任务中的范畴标签而非纯知觉过程，若使用不依赖标签的范式，效应会减弱。第三，范畴感知并非全有或全无，元音、摩擦音的知觉更接近连续；有学者认为它只是听者依赖长期语言经验的连续统计线索进行最优决策的结果，而非感知本身发生了离散化。",
+            "此外，边界的位置并非固定不变，语速加快、语境改变与方言差异都会使其移动；粤语中送气与不送气的对立在声学参数上也与普通话有别。婴儿研究还显示，最初的普遍辨别能力会随母语经验的积累而重组。这些事实提示，范畴感知不是知觉系统的固定属性，而是知觉机制与语言经验持续协商的产物，其强度因语音类别、任务与听者群体而异。"
+          ],
+          "pEn": [
+            "Three issues remain contested. First, is categorical perception specific to speech? Some studies report boundary effects for voice onset time in non-human primates, and listeners can be trained to categorise non-speech continua, prompting the claim that the effect reflects general perceptual mechanisms rather than a language module. Second, discrimination peaks may depend on category labels supplied by the task rather than on purely perceptual processes, since the effect weakens under label-free paradigms. Third, the phenomenon is not all-or-none: vowels and fricatives are perceived more continuously, and some researchers argue that listeners simply make optimal decisions from long-term statistical cues rather than genuinely discretising the signal.",
+            "Boundary location is also not fixed: it shifts with speaking rate, context and dialect, and Cantonese aspiration differs acoustically from Mandarin. Infant studies further show that an initially universal discrimination capacity is reorganised as native experience accumulates. Categorical perception is therefore best seen not as a fixed property of the perceptual system but as the outcome of continuous negotiation between perceptual mechanisms and linguistic experience, its strength varying with sound class, task and listener population."
+          ]
+        }
+      ],
+      "terms": [
+        {"t": "范畴感知", "tEn": "categorical perception", "d": "把连续的声学变化感知为离散范畴，在范畴边界处辨别成绩骤然上升。", "dEn": "Perceiving continuous acoustic variation as discrete categories with sharp discrimination peaks."},
+        {"t": "嗓音起始时间", "tEn": "voice onset time", "d": "塞音除阻到声带振动开始之间的时间，是区分送气与否的关键参数。", "dEn": "Interval between stop release and onset of voicing, key to aspirated contrasts."},
+        {"t": "辨认任务", "tEn": "identification task", "d": "让听者对连续统上的刺激逐一贴上范畴标签，以绘制辨认曲线的实验程序。", "dEn": "Procedure in which listeners label each stimulus along a continuum with a category."},
+        {"t": "辨别任务", "tEn": "discrimination task", "d": "要求听者判断两个刺激是否相同，用于测量跨边界与范畴内差异。", "dEn": "Task requiring listeners to judge whether two stimuli differ, measuring boundary effects."},
+        {"t": "知觉磁石效应", "tEn": "perceptual magnet effect", "d": "母语原型把邻近刺激吸附到自身，使范畴内部的辨别变得困难。", "dEn": "Tendency of a native prototype to attract nearby stimuli, worsening within-category discrimination."},
+        {"t": "范畴边界", "tEn": "category boundary", "d": "连续统上听者突然改变范畴标签的声学位置，其位置随母语而移动。", "dEn": "Acoustic location on a continuum where listeners abruptly switch category labels."}
+      ],
+      "related": ["phonetics", "phoneme", "distinctive-feature", "language-acquisition", "experimental-phonetics"],
+      "sources": [
+        "Wikipedia, \"Categorical perception\", https://en.wikipedia.org/wiki/Categorical_perception",
+        "Liberman, A. M., Harris, K. S., Hoffman, H. S. & Griffith, B. C., The discrimination of speech sounds within and across phoneme boundaries, 1957",
+        "《语言学纲要》，北京大学出版社"
+      ]
+    },
+    {
+      "id": "phonemic-restoration",
+      "title": "语音复原效应",
+      "en": "Phonemic Restoration Effect",
+      "category": "concepts",
+      "tags": ["语音复原", "言语知觉", "自上而下加工", "音位", "语境效应", "心理语言学"],
+      "summary": "语音复原效应指言语信号中的某个音被噪声或咳嗽声取代后，听者仍能清楚地「听到」该音，并能准确判断它在词中的位置。Warren 在 1970 年以英语单词 legislature 为材料首次报告这一现象：把其中的 [s] 替换为咳嗽声，受试者往往察觉不到缺失。该效应说明言语知觉并非自下而上的音段逐级识别，而是高度依赖词汇与句法语境的自上而下重构，同时它被广泛用作考察音位恢复、语境效应与听者主观报告之间关系的实验窗口。",
+      "summaryEn": "The phonemic restoration effect occurs when a speech sound is replaced by noise or a cough and listeners still clearly hear the missing sound and can report its position in the word. Warren first reported the phenomenon in 1970 using the English word legislature, in which [s] was replaced by a cough: participants often failed to notice the gap. The effect shows that speech perception is not a strictly bottom-up process but depends on top-down reconstruction guided by lexical and syntactic context, making it a standard window on phonological restoration.",
+      "sections": [
+        {
+          "h": "定义与经典实验",
+          "hEn": "Definition and the Classic Experiment",
+          "p": [
+            "语音复原效应指当言语信号中某一音段被短促噪声、咳嗽声或纯音完全遮蔽时，听者仍主观地听到该音段，且通常意识不到信号存在缺失。Warren 1970 年的实验把英语单词 legislature 中的 [s] 整段切除，代之以咳嗽声，受试者几乎无人报告缺失，反而认为咳嗽与语音同时存在，并能正确说出被替换音的位置。在控制条件下，用纯音或静音替换同一音段，听者立即察觉异常，说明复原依赖遮蔽声之外的语境线索而非简单的信号填补。",
+            "关键的控制还在于词汇地位：若把同一缺失置于非词序列中，复原显著减弱，表明词汇知识是复原的必要条件之一。后续研究进一步显示，听者报告缺失音的位置准确率与词汇完整性之间存在稳定的伴随关系，说明词汇层面的通达参与了音段层面的还原。"
+          ],
+          "pEn": [
+            "The phonemic restoration effect refers to the fact that when a segment of the speech signal is completely masked by a brief noise, a cough or a tone, listeners still subjectively hear that segment and are typically unaware that any part of the signal is missing. In Warren's 1970 experiment the [s] in the English word legislature was excised and replaced by a cough. Almost no participant noticed the gap; most reported hearing the cough as overlapping intact speech and could still localise the missing sound. When the same segment was replaced by a tone or by silence, listeners immediately detected the anomaly, showing that restoration draws on context rather than on simple filling of the acoustic gap.",
+            "A crucial control concerns lexical status: when the same gap is embedded in a non-word sequence, restoration weakens markedly, indicating that lexical knowledge is a necessary condition. Later work found a stable association between the accuracy with which listeners localise the missing sound and the lexical integrity of the carrier, suggesting that lexical access participates in the reconstruction of segmental information."
+          ]
+        },
+        {
+          "h": "语境线索与影响因素",
+          "hEn": "Contextual Cues and Influencing Factors",
+          "p": [
+            "复原所依赖的线索包括词汇、句法与语义语境以及韵律信息。听者更容易复原高可预测位置的音，例如在句子 The boy rode his bi____ 中填入 cycle，而在信息量低的位置复原较弱。遮蔽声的类型也很重要：能自然融入言语流的宽带噪声与咳嗽更易被忽略，而纯音因与语音频谱差异显著而触发察觉。此外，遮蔽时长存在上限，一般超过约 100 至 150 毫秒后复原明显减弱，说明听觉系统只能跨越有限的信号中断进行整合。",
+            "Ganong 效应与类似的音位归并实验显示，歧义语音会被知觉为符合语境预期的词，其机制与语音复原同源，都体现语境对音段识别的调节。若目标音所在位置的可预测性较低，听者的复原强度与信心均随之下降，这说明复原并非无条件发生，而是由语境约束强度与声学证据的可靠性共同决定。"
+          ],
+          "pEn": [
+            "The cues supporting restoration include lexical, syntactic and semantic context together with prosodic information. Listeners restore sounds at highly predictable positions more readily, as when the sentence The boy rode his bi____ is completed as bicycle, and restoration is weaker where predictability is low. The nature of the masking sound also matters: broadband noise or a cough that blends into the speech stream is easily overlooked, whereas a pure tone, whose spectrum differs sharply from speech, invites detection. Duration is limited as well; once the gap exceeds roughly 100 to 150 milliseconds, restoration declines markedly, indicating that the auditory system can integrate only a limited interruption.",
+            "The Ganong effect and related phoneme-induction experiments show that ambiguous speech is heard as the word matching contextual expectation, a mechanism closely related to restoration and likewise reflecting contextual modulation of segment identification. Where the predictability of the missing sound is low, both the strength of restoration and listeners' confidence decline, indicating that restoration is jointly determined by the constraint of context and the reliability of the acoustic evidence."
+          ]
+        },
+        {
+          "h": "理论意义与研究拓展",
+          "hEn": "Theoretical Implications and Extensions",
+          "p": [
+            "语音复原效应是言语知觉交互式模型的经典证据。自下而上模型主张先识别音段再通达词汇，而 TRACE 等交互激活模型允许词汇层的信息反过来激活音位层，从而在信号缺失处补足音位表征，这与复原现象高度吻合。该效应同样说明知觉经验具有建构性：听者感知到的并非信号的忠实复制，而是融合了语言知识与声学证据的合成结果。相关范式已被用于研究连贯言语知觉、双耳分听与噪声下的言语识别，并应用于助听器设计与听力康复评估。",
+            "在第二语言习得与失语症研究中，复原能力常被用作衡量听者词汇通达速度与语境利用效率的行为指标。跨语言比较进一步显示，复原强度受母语词汇结构与音位配列的调节：汉语听者更依赖声调与音节内部的语境线索，而英语听者更依赖词重音与形态结构。"
+          ],
+          "pEn": [
+            "The phonemic restoration effect is classic evidence for interactive models of speech perception. Strictly bottom-up accounts identify segments before lexical access, whereas interactive activation models such as TRACE allow lexical information to feed back onto phonological representations, filling in missing segments and matching the restoration data. The effect also shows that perceptual experience is constructive: what listeners hear is not a faithful copy of the signal but a synthesis of linguistic knowledge and acoustic evidence. Related paradigms have been applied to connected speech perception, dichotic listening and speech recognition in noise, with practical use in hearing-aid design and audiological assessment.",
+            "In second language acquisition and aphasia research, restoration ability indexes lexical access and the efficiency of contextual use. Cross-linguistic comparison indicates that restoration strength is modulated by native vocabulary structure and phonotactics: Mandarin listeners rely more on tonal and syllabic cues, while English listeners depend more on lexical stress and morphological structure. This pattern has been used to explain individual differences in listening under adverse conditions."
+          ]
+        },
+        {
+          "h": "争议与批评",
+          "hEn": "Controversies and Criticisms",
+          "p": [
+            "争议之一是复原是否真的属于知觉层面。批评者指出，听者报告「听到了」缺失的音可能只是判断偏向：在不确定条件下他们倾向于选择符合语境的答案，而非真正产生了缺失音的心理表征。支持知觉解释的证据来自脑电研究，发现被遮蔽音位对应的失匹配负波仍可被诱发，说明大脑对预期音位进行了自动加工。另一争议关乎填充机制，有学者主张不存在专门填补，只是跨时段的信息整合与神经振荡同步的结果。",
+            "此外，不同研究测量方式差异较大，要求指出缺失位置与仅报告是否察觉会得到不同结果，因此可比性受限。遮蔽声的强度与频谱、任务的时间压力以及听者的年龄与听力状况，都会改变复原量的估计，这使研究者呼吁统一实验参数并同时收集主观报告与客观生理指标。"
+          ],
+          "pEn": [
+            "One controversy concerns whether restoration is genuinely perceptual. Critics argue that reports of having heard the missing sound may reflect response bias: under uncertainty listeners favour the contextually appropriate answer rather than actually generating a representation of the absent segment. Evidence for a perceptual interpretation comes from electrophysiology, where a mismatch negativity corresponding to the masked phoneme can still be elicited, suggesting automatic processing of the expected sound. A further dispute concerns the filling mechanism, with some researchers denying any dedicated filling and attributing the effect to cross-temporal integration and neural oscillatory alignment.",
+            "Measurement also varies widely across studies, since asking participants to localise the missing sound yields different results from asking merely whether something was noticed, which limits direct comparison. The intensity and spectrum of the masker, time pressure in the task, and listeners' age and hearing status all alter estimates of the amount of restoration, prompting calls for standardised parameters and for combining subjective reports with objective physiological measures."
+          ]
+        }
+      ],
+      "terms": [
+        {"t": "语音复原效应", "tEn": "phonemic restoration effect", "d": "被噪声遮蔽的音段仍被听者主观听到，并常察觉不到信号缺失。", "dEn": "Perceptual illusion in which a masked speech segment is still subjectively heard."},
+        {"t": "自上而下加工", "tEn": "top-down processing", "d": "由词汇、句法与语义等高层知识引导的知觉加工方向，与自下而上相对。", "dEn": "Perceptual processing guided by higher-level lexical, syntactic and semantic knowledge."},
+        {"t": "音位归纳", "tEn": "phoneme induction", "d": "歧义语音被听成符合语境预期的那个音位的现象，如 Ganong 效应所显示。", "dEn": "Hearing ambiguous speech as the phoneme fitting context, as in the Ganong effect."},
+        {"t": "语境效应", "tEn": "context effect", "d": "上下文信息改变听者对某个语音刺激的辨认结果，属常见知觉现象。", "dEn": "Influence of surrounding context on a listener's identification of a stimulus."},        {"t": "失匹配负波", "tEn": "mismatch negativity", "d": "对偏差刺激自动产生的脑电反应，用于检验被遮蔽音位的加工。", "dEn": "Automatic ERP response to deviant stimuli, used to test processing of masked phonemes."},
+        {"t": "交互激活模型", "tEn": "interactive activation model", "d": "允许词汇层与音位层双向激活的言语知觉计算模型，可解释复原现象。", "dEn": "Computational model of speech perception allowing bidirectional lexical and phonological activation."}
+      ],
+      "related": ["phonetics", "phoneme", "psycholinguistics", "categorical-perception", "experimental-phonetics"],
+      "sources": [
+        "Wikipedia, \"Phonemic restoration effect\", https://en.wikipedia.org/wiki/Phonemic_restoration_effect",
+        "Warren, R. M., Perceptual restoration of missing speech sounds, Science, 1970",
+        "《语言学纲要》，北京大学出版社"
+      ]
+    }
+  ]
+}

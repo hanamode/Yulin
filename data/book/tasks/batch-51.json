@@ -1,0 +1,25 @@
+{
+ "batch": 51,
+ "chapter": "Chapter 10: Language Variation and Change",
+ "out": "data/book/gen/batch-51.json",
+ "sections": [
+  {
+   "id": "part-010-chapter-10-language-variation-and-change",
+   "title": "Chapter 10: Language Variation and Change",
+   "src": "data/book/src/part-010-chapter-10-language-variation-and-change.txt",
+   "chars": 690
+  },
+  {
+   "id": "chapter-116-slug-10-1-what-is-variationist-sociolinguistics",
+   "title": "10.1 What is variationist sociolinguistics?",
+   "src": "data/book/src/chapter-116-slug-10-1-what-is-variationist-sociolinguistics.txt",
+   "chars": 1457
+  },
+  {
+   "id": "chapter-117-slug-10-2-language-varies",
+   "title": "10.2 Language varies",
+   "src": "data/book/src/chapter-117-slug-10-2-language-varies.txt",
+   "chars": 14741
+  }
+ ]
+}

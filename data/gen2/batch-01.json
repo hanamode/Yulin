@@ -1,0 +1,382 @@
+{
+ "batch": 1,
+ "entries": [
+  {
+   "id": "synchronic-diachronic",
+   "title": "共时语言学与历时语言学",
+   "en": "Synchronic and Diachronic Linguistics",
+   "category": "branches",
+   "tags": [
+    "共时",
+    "历时",
+    "索绪尔",
+    "语言状态",
+    "音变",
+    "方法论"
+   ],
+   "summary": "共时语言学与历时语言学的区分由索绪尔在《普通语言学教程》中系统提出，是现代语言学方法论的基础。共时研究把某一时期的语言视为自足的系统，考察其内部单位之间的对立与组合关系，例如现代汉语普通话的声调系统；历时研究则追踪语言在不同时期之间的演变，解释音变、类推与语法化等过程。后来学者指出，任何共时状态都沉积着不同历史层次的成分，因此两种研究无法截然分离。",
+   "summaryEn": "The distinction between synchronic and diachronic linguistics, set out by Ferdinand de Saussure in the Cours de linguistique générale, is foundational to modern linguistic method. Synchronic study treats a language as a self-contained system at one point in time, describing the oppositions among its units, whereas diachronic study traces how a language changes from one period to another, explaining sound change, analogy and grammaticalization. Later scholars argued that since every synchronic state retains inherited layers, the two approaches cannot be kept entirely apart.",
+   "sections": [
+    {
+     "h": "定义与理论来源",
+     "hEn": "Definition and Theoretical Origin",
+     "p": [
+      "共时语言学指截取语言发展的某一横断面，描写该时期语言系统的内部结构和各单位之间的相互关系；历时语言学则研究语言在时间轴上的演变过程，说明某一形式如何由较早的阶段发展而来。索绪尔在《普通语言学教程》中以棋局为喻：共时研究好比观察棋盘上棋子此刻的位置关系，历时研究则关注每一步走子如何改变局面。他主张共时描写应当优先于历时研究，因为只有处于同一时间层面的单位才构成真正的价值系统。"
+     ],
+     "pEn": [
+      "Synchronic linguistics takes a cross-section of a language at one period and describes the internal structure of that system and the relations among its units; diachronic linguistics studies change along the time axis, explaining how a given form developed from an earlier stage. Saussure illustrated the difference with the analogy of a chess game: synchronic study observes the present configuration of the pieces, while diachronic study follows the sequence of moves that produced it. He argued that synchronic description should take priority, since only units belonging to the same temporal plane form a genuine system of values. The practical consequence is that each period must first be described on its own terms before change can be measured."
+     ]
+    },
+    {
+     "h": "研究内容与方法",
+     "hEn": "Subject Matter and Methods",
+     "p": [
+      "共时研究关注音位系统、形态变化、句法构造与词汇语义的分类和分布，常用替换、分布分析和最小对立对来确立单位，例如用 pit 与 bit 的对立确立英语的 /p/ 与 /b/。历时研究关注音变规律、类推、语法化、借词与语言分化，常用文献考据、方言比较和比较法重建古代形式，并用时间层次排列音变规则，如格里姆定律所描写的日耳曼语辅音演变。"
+     ],
+     "pEn": [
+      "Synchronic work examines phonological inventories, morphological patterns, syntactic constructions and lexical semantics, using substitution, distribution and minimal pairs to establish units, for instance the contrast of pit and bit that establishes English /p/ versus /b/. Diachronic work examines regular sound change, analogy, grammaticalization, borrowing and language split; it relies on textual philology, dialect comparison and the comparative method to reconstruct earlier forms, and it orders changes by relative chronology, as in Grimm's Law for the Germanic consonant shift."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "现代英语名词复数的规则形式 books [bʊks] 与不规则形式 oxen、children 并存，若作共时描写，它们是同一系统中的两套形态手段；从历时看，-en 和 -ren 是古英语弱变化与古英语复数词尾的历史遗留。汉语「了」在共时平面是体标记，如「他吃了饭」；从历时看它由表示「完结」的动词虚化而来，是典型的语法化过程。可见同一语言事实在两种视角下呈现出不同的面貌。"
+     ],
+     "pEn": [
+      "In present-day English the regular plural books [bʊks] coexists with oxen and children. Synchronically these are two morphological strategies within one system; diachronically the endings -en and -ren are fossils of earlier Old English plural formation. The Chinese particle 了 le functions synchronically as a perfective marker, as in 他吃了饭 ta chi-le fan he ate the meal, but historically it grammaticalized from a verb meaning to finish. The same linguistic fact thus looks quite different depending on whether it is viewed as part of a system or as a stage in a process."
+     ]
+    },
+    {
+     "h": "关系、争议与批评",
+     "hEn": "Relations, Debates and Criticism",
+     "p": [
+      "布拉格学派提出泛时视角，认为音变本身受系统制约，因而不能把共时与历时截然分开。社会语言学也表明，进行中的变化就存在于当下的共时变异之中，例如英语的 who/whom 交替。争议集中在索绪尔是否过度强调了两者的对立，多数学者倾向于认为二者是同一研究对象的两个互补维度，而非互不相容的两种语言学。"
+     ],
+     "pEn": [
+      "The Prague School proposed a panchronic perspective, arguing that sound change is itself constrained by the system, so synchronic and diachronic facts cannot be sharply separated. Sociolinguistics likewise shows that change in progress is observable in present-day variation, such as the alternation of who and whom in English. The controversy concerns whether Saussure overstated the opposition; most linguists now treat the two as complementary dimensions of one object of study rather than mutually exclusive kinds of linguistics."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "共时语言学",
+     "tEn": "Synchronic Linguistics",
+     "d": "截取某一时间断面，描写语言系统内部单位之间关系的语言学分支。",
+     "dEn": "The study of a language system as it exists at a single point in time."
+    },
+    {
+     "t": "历时语言学",
+     "tEn": "Diachronic Linguistics",
+     "d": "研究语言在时间中的演变过程、规律及其原因的语言学分支。",
+     "dEn": "The study of how languages change over time and why."
+    },
+    {
+     "t": "语言状态",
+     "tEn": "State of Language",
+     "d": "某一时期被视为自足系统的语言整体，是共时描写的对象。",
+     "dEn": "The totality of a language viewed as a self-contained system at one period."
+    },
+    {
+     "t": "音变",
+     "tEn": "Sound Change",
+     "d": "语音系统在历史发展中有规律地发生的演变，如格里姆定律。",
+     "dEn": "A regular historical modification affecting the sounds of a language."
+    },
+    {
+     "t": "语法化",
+     "tEn": "Grammaticalization",
+     "d": "实词或结构逐渐失去实义并获得语法功能，如汉语了的历史演变。",
+     "dEn": "The historical process by which lexical items develop grammatical functions."
+    },
+    {
+     "t": "语言内部与外部因素",
+     "tEn": "Internal and External Factors",
+     "d": "分别指语言系统自身的演变动因与接触社会带来的动因。",
+     "dEn": "Causes of change arising within the system versus from contact and society."
+    },
+    {
+     "t": "泛时语言学",
+     "tEn": "Panchronic Linguistics",
+     "d": "主张把共时描写与历时解释结合起来考察语言演变的语言学视角。",
+     "dEn": "An approach that studies change by combining synchronic and diachronic perspectives."
+    }
+   ],
+   "related": [
+    "saussure",
+    "historical-linguistics",
+    "sound-change",
+    "langue-parole",
+    "grammaticalization"
+   ],
+   "sources": [
+    "Wikipedia, \"Diachrony and synchrony\", https://en.wikipedia.org/wiki/Diachrony_and_synchrony",
+    "Wikipedia, \"Historical linguistics\", https://en.wikipedia.org/wiki/Historical_linguistics",
+    "Saussure, Cours de linguistique générale, 1916",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "applied-linguistics",
+   "title": "应用语言学",
+   "en": "Applied Linguistics",
+   "category": "branches",
+   "tags": [
+    "应用语言学",
+    "二语习得",
+    "语言教学",
+    "语言规划",
+    "中介语",
+    "跨学科"
+   ],
+   "summary": "应用语言学是把语言学理论、描写成果与研究方法用于解决语言相关实际问题的交叉学科。它并不局限于语言教学，还涵盖二语习得、语言测试、翻译研究、词典编纂、语言规划与政策以及计算与临床语言应用等领域。早期研究以二十世纪四五十年代的外语教学为中心，随后扩展到更广泛的社会实践。其研究兼采实证与理论，既依赖语料库与课堂实验，也不断回应语言习得与语言使用的理论问题。",
+   "summaryEn": "Applied linguistics is the interdisciplinary field that uses linguistic theory, description and method to address practical language-related problems. It is not confined to language teaching but includes second language acquisition, language testing, translation studies, lexicography, language planning and policy, and computational or clinical applications. Its early centre of gravity was foreign language teaching in the 1940s and 1950s, since when it has broadened toward social practice. Critics once called it a consumer of second-hand theory; today it is recognized as a field with its own agenda.",
+   "sections": [
+    {
+     "h": "定义与研究范围",
+     "hEn": "Definition and Scope",
+     "p": [
+      "应用语言学有狭义与广义两种理解。狭义上它专指第二语言教学与习得研究，因为这一领域最早制度化；广义上它指一切以语言学知识回应现实语言问题的研究，包括语言规划、翻译、词典学、法律与临床语言、语言技术等。其共同特征是问题导向：研究始于实际需求，再选择或发展合适的理论与工具。因此应用语言学常与其他学科交叉，形成教育语言学、临床语言学、法律语言学等分支。"
+     ],
+     "pEn": [
+      "Applied linguistics may be understood narrowly or broadly. Narrowly it refers to second language teaching and acquisition research, the area that was institutionalized first; broadly it covers any work that brings linguistic knowledge to bear on real-world language problems, including language planning, translation, lexicography, forensic and clinical language work, and language technology. Its defining feature is problem orientation: inquiry begins with a practical need and then selects or develops suitable theory and tools. This explains why applied linguistics is habitually interdisciplinary and why subfields such as educational, clinical and forensic linguistics have emerged from it."
+     ]
+    },
+    {
+     "h": "主要分支",
+     "hEn": "Major Branches",
+     "p": [
+      "语言教学研究关注教学法、语法教学的显隐性与课堂互动；二语习得研究中介语的发展顺序、语言迁移与关键期效应；语言测试研究信度、效度与评分标准；语言规划研究标准语的选择、推广与濒危语言保护；翻译与词典学研究对等、搭配与释义；计算与语料应用研究机器翻译、词性标注与语言模型评测。这些分支共享实证取向，但研究对象与方法差别明显。"
+     ],
+     "pEn": [
+      "Language teaching research examines methodology, the explicitness of grammar instruction and classroom interaction; second language acquisition research studies the developmental order of interlanguage, language transfer and critical period effects; language testing research addresses reliability, validity and rating scales; language planning studies the selection and promotion of standard varieties and the protection of endangered languages; translation and lexicography study equivalence, collocation and definition; computational and corpus applications cover machine translation, part-of-speech tagging and the evaluation of language models."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Research Methods",
+     "p": [
+      "应用语言学兼用量化与质性方法。语料库分析可统计搭配频率与语域差异，例如比较学术英语中 however 与 but 的使用分布；课堂实验与准实验设计检验教学干预的效果；访谈、话语分析和问卷调查揭示学习者信念与语言态度。三角验证是常见原则，即以多种数据来源相互印证，避免单一方法的偏差，同时强调研究伦理与学习者隐私的保护。"
+     ],
+     "pEn": [
+      "Applied linguistics employs both quantitative and qualitative methods. Corpus analysis can quantify collocation frequency and register differences, for example the distribution of however and but in academic English; classroom experiments and quasi-experimental designs test the effects of instructional intervention; interviews, discourse analysis and questionnaires reveal learner beliefs and language attitudes. Triangulation, the cross-checking of findings against several data sources, is a common principle, and researchers increasingly stress ethics and the protection of learner privacy."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Illustrative Examples",
+     "p": [
+      "以汉语母语者学习英语冠词为例，学习者常说出 I bought book yesterday，遗漏强制性的定冠词或不定冠词，这既反映汉语缺少冠词系统的迁移影响，也反映中介语的发展阶段。教学研究据此设计聚焦形式的活动，如对比 the 与 a 的指称功能。语言测试中的实例则有口语评分量表对停顿与话语标记的描写，如 well、you know 在流利度评定中的作用。"
+     ],
+     "pEn": [
+      "Consider Chinese-speaking learners of English and the article system. Learners often produce I bought book yesterday, omitting the obligatory article, which reflects both transfer from articleless Chinese and a developmental stage of interlanguage. Teaching research accordingly designs focus-on-form activities contrasting the referential functions of the and a. In language testing, a comparable example is the treatment of pauses and discourse markers such as well and you know in rating scales for oral fluency."
+     ]
+    },
+    {
+     "h": "发展简史与争议",
+     "hEn": "History and Controversy",
+     "p": [
+      "该领域在二十世纪四五十年代随外语教学需求兴起，与结构主义描写和听说法关系密切；七十年代以后，二语习得研究和社会语言学取向使研究视野大为扩展。争议主要有三：应用语言学是否只是理论的消费者；其研究结论能否推广到不同教学情境；以及语言政策研究是否应更直接介入社会公平问题。这些争论促使该领域不断反思自身的方法论立场。"
+     ],
+     "pEn": [
+      "The field emerged in the 1940s and 1950s alongside the demand for foreign language teaching and was closely tied to structuralist description and audiolingual method. After the 1970s, second language acquisition research and sociolinguistic perspectives greatly widened its scope. Three controversies persist: whether applied linguistics merely consumes theory produced elsewhere; whether its findings generalize across teaching contexts; and whether language policy research should engage more directly with questions of social equity. These debates keep the field reflective about its own methodology."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "应用语言学",
+     "tEn": "Applied Linguistics",
+     "d": "运用语言学理论、描写成果和方法解决实际语言问题的交叉学科。",
+     "dEn": "The field that applies linguistic theory and methods to practical language problems."
+    },
+    {
+     "t": "二语习得",
+     "tEn": "Second Language Acquisition",
+     "d": "研究学习者在课堂或自然环境中掌握第二语言的过程与规律。",
+     "dEn": "The study of how learners acquire a second language in instructed or natural settings."
+    },
+    {
+     "t": "中介语",
+     "tEn": "Interlanguage",
+     "d": "学习者自建的、介于母语与目标语之间的过渡性语言系统。",
+     "dEn": "A learner's developing system that lies between the first and target language."
+    },
+    {
+     "t": "语言迁移",
+     "tEn": "Language Transfer",
+     "d": "母语知识对第二语言学习产生的促进或干扰作用，又称迁移。",
+     "dEn": "The facilitating or interfering influence of the first language on second language learning."
+    },
+    {
+     "t": "语言测试",
+     "tEn": "Language Testing",
+     "d": "对语言能力进行测量、评分并论证其信度与效度的研究领域。",
+     "dEn": "The study of measuring, scoring and validating assessments of language ability."
+    },
+    {
+     "t": "语言规划",
+     "tEn": "Language Planning",
+     "d": "政府或机构对语言地位、本体规范与教育用途作出的决策。",
+     "dEn": "Deliberate decisions about the status, corpus and educational use of languages."
+    },
+    {
+     "t": "语料库语言学",
+     "tEn": "Corpus Linguistics",
+     "d": "以大规模真实语料为数据基础、借助统计方法研究语言。",
+     "dEn": "The study of language through large collections of authentic text."
+    },
+    {
+     "t": "语言政策",
+     "tEn": "Language Policy",
+     "d": "政府或机构关于语言使用、教学与传播的正式规定与导向。",
+     "dEn": "Official rules and orientations governing the status and educational use of languages."
+    }
+   ],
+   "related": [
+    "language-acquisition",
+    "interlanguage",
+    "language-transfer",
+    "critical-period",
+    "corpus-linguistics"
+   ],
+   "sources": [
+    "Wikipedia, \"Applied linguistics\", https://en.wikipedia.org/wiki/Applied_linguistics",
+    "Wikipedia, \"Second-language acquisition\", https://en.wikipedia.org/wiki/Second-language_acquisition",
+    "Corder, Introducing Applied Linguistics, 1973",
+    "《应用语言学导论》，商务印书馆"
+   ]
+  },
+  {
+   "id": "dialectology",
+   "title": "方言学",
+   "en": "Dialectology",
+   "category": "branches",
+   "tags": [
+    "方言学",
+    "方言地理学",
+    "同言线",
+    "田野调查",
+    "社会方言",
+    "方言地图"
+   ],
+   "summary": "方言学是研究方言差异、分布及其成因的语言学分支。传统方言学以田野调查为基础，记录特定地点的语音、词汇和语法特点，用方言地图与同言线呈现地域变异，并借助历史语言学追溯方言的分化与接触。社会方言学由拉波夫等人发展，把阶层、年龄、性别与语体等因素纳入分析，关注进行中的语言变化，其调查方法对语言资源保护也有重要价值。",
+   "summaryEn": "Dialectology is the branch of linguistics that studies the differences among dialects, their geographical and social distribution, and the causes of that variation. Traditional dialectology rests on fieldwork, recording the phonology, lexicon and grammar of selected localities and displaying regional variation on dialect maps bounded by isoglosses, while drawing on historical linguistics to reconstruct divergence and contact. Social dialectology, developed by William Labov and others, incorporates class, age, gender and style, and focuses on change in progress. The field is closely linked to historical linguistics and sociolinguistics.",
+   "sections": [
+    {
+     "h": "定义与研究目标",
+     "hEn": "Definition and Aims",
+     "p": [
+      "方言学研究同一语言内部的地域变体与社会变体，目标是描写差异、划定方言区并解释差异的来源。它既关心语音的系统对应，如汉语「病」在北京话读作 [piŋ⁵¹]、在广州话读作 [pɛŋ²²]，也关心词汇与语法的不同，如北方说「太阳」、部分南方方言说「日头」。方言学还试图回答方言如何分化、接触与消亡，因此与语言史和语言规划密切相关。"
+     ],
+     "pEn": [
+      "Dialectology studies the regional and social varieties within a language, aiming to describe their differences, delimit dialect areas and explain the sources of variation. It attends to systematic phonological correspondences, as when the Chinese word 病 is [piŋ⁵¹] in Beijing Mandarin and [pɛŋ²²] in Cantonese, and equally to lexical and grammatical differences, such as the northern 太阳 versus 日头 for sun in some southern varieties. It also asks how dialects diverge, converge through contact, or disappear, which makes it relevant to language history and policy."
+     ]
+    },
+    {
+     "h": "基本概念",
+     "hEn": "Basic Concepts",
+     "p": [
+      "同言线是划分方言界限的等语线，把使用某一语言特征的地点连接起来；多条同言线重合处常被视为方言边界，但重合很少完全整齐。方言地图与语言地图集是呈现材料的基本工具。地域方言与城市方言、社会方言相对而言，标准语则是经过规范化的变体。方言连续体指地理上相邻的变体彼此可懂，距离越远可懂度越低，例如荷兰语与德语边界地带的情形。"
+     ],
+     "pEn": [
+      "An isogloss is a line on a map joining localities that share a particular linguistic feature; where several isoglosses bundle together, a dialect boundary is often posited, though such bundles are rarely tidy. Dialect maps and linguistic atlases are the basic instruments for presenting the data. Regional and urban dialects are contrasted with social dialects, while a standard language is a codified variety. A dialect continuum describes neighbouring varieties that are mutually intelligible when adjacent but not at greater distances, as along the Dutch-German border."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Research Methods",
+     "p": [
+      "传统方言调查多采用方言学问卷与诱导法，选择典型发音人，通常为年长者、长期居住本地且少受外界影响者，通过词表、句表和故事复述记录语音。数据分析阶段绘制方言地图、统计特征分布并比较同言线走向。社会方言学则采用社会语言学访谈与随机抽样，量化社会变项的相关性，如英语中 -ing 与 -in 的交替与说话人阶层和语体的关系。"
+     ],
+     "pEn": [
+      "Traditional surveys use dialect questionnaires and elicitation with carefully chosen informants, typically older lifelong residents with limited outside contact, recording material through word lists, sentence lists and narrative. In the analysis stage researchers draw dialect maps, measure the distribution of features and compare isogloss patterns. Social dialectology instead uses sociolinguistic interviews and random sampling to quantify correlations between social variables, as with the alternation of -ing and -in in English and its relation to speaker class and style."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Illustrative Examples",
+     "p": [
+      "汉语方言的分布提供了典型材料：北京话「人」读 [ʐən³⁵]，上海话读 [ȵin¹³]；广州话保留入声韵尾，如「十」读 [sɐp̚²]。英语方言同样有系统差异，美国英语多读 rhotic 的 r，如 car [kɑɹ]，而英格兰南部许多口音读作 [kɑː]。这些对应关系既可用于划分方言区，也可用于观察语音演变的传播路径。"
+     ],
+     "pEn": [
+      "The Chinese dialects offer classic material: the word 人 person is [ʐən³⁵] in Beijing and [ȵin¹³] in Shanghainese, while Cantonese preserves final stops, as in 十 ten [sɐp̚²]. English dialects show similarly systematic contrasts: most American accents are rhotic, pronouncing car as [kɑɹ], whereas many accents in southern England have [kɑː]. Such correspondences serve both to delimit dialect areas and to trace the diffusion of sound changes across space."
+     ]
+    },
+    {
+     "h": "与其他分支的关系",
+     "hEn": "Relations to Other Branches",
+     "p": [
+      "方言学与历史语言学互为支撑：方言证据是重建原始语和判断音变先后次序的重要依据。与社会语言学结合形成社会方言学与变异研究；与地理学结合形成语言地理学；与语言接触研究结合则解释方言借用与混合。濒危语言记录也大量使用方言调查方法。反过来，音系学与形态学的理论成果又帮助研究者把方言差异表述为系统的规则对应。"
+     ],
+     "pEn": [
+      "Dialectology and historical linguistics support each other, since dialect evidence is crucial for reconstructing proto-languages and dating sound changes. Combined with sociolinguistics it yields social dialectology and variationist research; combined with geography it becomes linguistic geography; combined with contact studies it explains borrowing and mixing between varieties. Documentation of endangered languages likewise relies heavily on dialect survey techniques. In the other direction, phonological and morphological theory helps researchers state dialect differences as systematic rule correspondences."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "方言学",
+     "tEn": "Dialectology",
+     "d": "研究方言的差异、地理与社会分布及其历史成因的语言学分支。",
+     "dEn": "The study of dialect variation, its distribution and its historical and social causes."
+    },
+    {
+     "t": "同言线",
+     "tEn": "Isogloss",
+     "d": "方言地图上连接具有同一语言特征地点的界线，可用以划分方言区。",
+     "dEn": "A line on a map joining places that share a particular linguistic feature."
+    },
+    {
+     "t": "方言地图",
+     "tEn": "Dialect Map",
+     "d": "以地图形式呈现方言特征地理分布与地域差异的调查研究工具。",
+     "dEn": "A map displaying the geographical distribution of dialect features across a region."
+    },
+    {
+     "t": "地域方言",
+     "tEn": "Regional Dialect",
+     "d": "与特定地理区域相联系、在语音词汇语法上具有特点的语言变体。",
+     "dEn": "A language variety associated with a particular geographical area or locality."
+    },
+    {
+     "t": "社会方言",
+     "tEn": "Social Dialect",
+     "d": "由社会阶层、年龄、性别或职业等因素界定的语言变体。",
+     "dEn": "A variety defined by social factors such as class, age or gender."
+    },
+    {
+     "t": "方言连续体",
+     "tEn": "Dialect Continuum",
+     "d": "地理上相邻变体彼此可懂、距离越远可懂度越低的声音序列。",
+     "dEn": "A geographical chain of varieties intelligible to neighbours but not at the extremes."
+    },
+    {
+     "t": "语言地图集",
+     "tEn": "Linguistic Atlas",
+     "d": "系统汇集某一地区方言调查结果与分布图示的地图集，如法国语言地图集。",
+     "dEn": "A systematic collection of maps recording dialect survey results for a region."
+    },
+    {
+     "t": "发音人",
+     "tEn": "Informant",
+     "d": "在方言调查中提供语言材料的本地说话人，通常为年长居民。",
+     "dEn": "A local speaker who supplies linguistic data in a dialect survey."
+    }
+   ],
+   "related": [
+    "dialect",
+    "sociolinguistics",
+    "labov",
+    "language-family",
+    "sociolinguistic-variable"
+   ],
+   "sources": [
+    "Wikipedia, \"Dialectology\", https://en.wikipedia.org/wiki/Dialectology",
+    "Wikipedia, \"Dialect\", https://en.wikipedia.org/wiki/Dialect",
+    "Chambers and Trudgill, Dialectology, Cambridge University Press, 1980",
+    "《汉语方言学》，语文出版社"
+   ]
+  }
+ ]
+}

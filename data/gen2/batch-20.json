@@ -1,0 +1,264 @@
+{
+ "batch": 20,
+ "entries": [
+  {
+   "id": "sociolinguistic-variable",
+   "title": "社会变项",
+   "en": "Sociolinguistic Variable",
+   "category": "concepts",
+   "tags": ["社会变项", "语言变异", "变体", "拉波夫", "定量社会语言学"],
+   "summary": "社会变项是变异社会语言学的基本分析单位，指同一项目在言语社区中交替出现的两个或多个形式，如英语后缀可读 -ing [ɪŋ] 或 -in' [ɪn]。研究者把变项视为可计量对象，考察变体选择与阶层、性别、年龄、语体等因素的相关性。拉波夫在纽约市百货公司的 (r) 调查是经典范例。社会变项把语言结构描写为异质而有序的系统，共时变异由此成为观察语言演变的窗口。",
+   "summaryEn": "A sociolinguistic variable is the basic unit of analysis in variationist sociolinguistics. It denotes a linguistic item with two or more forms that alternate within a speech community, such as the English suffix realised as -ing [ɪŋ] or -in' [ɪn]. Researchers treat the variable as a measurable object and examine how the choice of variants correlates with class, gender, age and style. Labov's department-store study of (r) in New York City is the classic demonstration. The variable models language as a heterogeneous yet orderly system and makes synchronic variation a window on change.",
+   "sections": [
+    {
+     "h": "定义与基本性质",
+     "hEn": "Definition and Basic Properties",
+     "p": [
+      "社会变项是变异社会语言学的基本分析单位，指同一语言项目在言语社区中交替出现的两个或多个形式。例如英语动名词后缀可读作 -ing [ɪŋ]，也可读作 -in' [ɪn]，这一对形式就构成一个变项，其具体实现称为变体。变项本身不携带词汇意义，变体的选择却与社会身份、语体正式程度和交际场合系统相关，因而可以用频率和概率加以描写。",
+      "需要区分语言变项与社会变项。前者只关注结构层面的交替形式，后者侧重变异与社会因素之间的相关性。变项既可以是音系单位，如英语的 (r) 与 (ing)，也可以是语法或词汇单位，如汉语「七」在去声前的可选变调，或「咱们」与「我们」的选用。"
+     ],
+     "pEn": [
+      "A sociolinguistic variable is the basic unit of analysis in variationist sociolinguistics. It refers to a linguistic item that alternates between two or more forms within a speech community. In English, for instance, the gerund suffix may be realised as -ing [ɪŋ] or as -in' [ɪn]; the pair constitutes one variable and each realisation is a variant. Variants carry no lexical meaning of their own, yet their selection correlates systematically with social identity, formality and situation, so it can be described in terms of frequency and probability.",
+      "A distinction is often drawn between a linguistic variable and a sociolinguistic variable. The former concerns structural alternation alone, whereas the latter concerns the correlation between that alternation and social factors. Variables may be phonological, such as English (r) and (ing), or grammatical and lexical, such as the optional tone change of Mandarin qi, seven, before a fourth tone, or the choice between zanmen and women for we."
+     ]
+    },
+    {
+     "h": "语言变异的具体实例",
+     "hEn": "Concrete Examples of Variation",
+     "p": [
+      "拉波夫在纽约市三家百货公司的调查是经典范例。他询问店员「fourth floor」（四楼），考察词首与词尾 (r) 的发音，发现高档商店员工发 [r] 的比例明显高于中档和低档商店；当被要求重复时，各阶层都提高了 [r] 的使用率，显示出对显性声望的靠拢。",
+      "汉语中也不乏此类变项。北京话的「女国音」指部分年轻女性把 j、q、x 读成舌尖音，如「学习」xuéxí 中的 xi 读作 [si]；普通话的「七」「八」在去声前可自由变读为阳平，如「七个」可说 qī ge 或 qí ge。这些变异都与说话人的社会属性或语体相关。"
+     ],
+     "pEn": [
+      "Labov's survey of three New York City department stores is the classic example. Shop assistants were asked about the fourth floor, which elicited tokens of (r) in coda position. Employees in the high-status store used consonantal [r] noticeably more often than those in the middle and lower stores, and when asked to repeat, speakers from every stratum increased their use of [r], displaying accommodation to overt prestige.",
+      "Mandarin provides further examples. In Beijing, the so-called female pronunciation fronted j, q and x to dental articulations among some young women, so that the xi of xuexi, to study, was realised as [si]. In Putonghua, qi, seven, and ba, eight, optionally shift to the second tone before a fourth-tone syllable, giving both qi ge and qi ge for seven items. Such variation correlates with speakers' social attributes or speech style."
+     ]
+    },
+    {
+     "h": "研究内容与方法",
+     "hEn": "Research Questions and Methods",
+     "p": [
+      "变异研究通常提出三类问题：某一变体在言语社区中的分布如何；分布差异与哪些社会因素相关；变异是否正在导致语言演变。典型做法是设计社会语言学访谈，让说话人讲述童年游戏、危险经历等情感话题以降低对话语的注意程度，再抽取大量自然语料进行定量统计。",
+      "定量分析常用变项规则模型，把阶层、性别、年龄、语体等作为自变量，估计各变体出现的概率。拉波夫还总结出从「小心言语」到「随意言语」的语体阶梯，说明同一说话人会随场合调整变异程度。"
+     ],
+     "pEn": [
+      "Variationist research typically asks three questions: how a variant is distributed across a speech community, which social factors the distribution correlates with, and whether the variation is driving language change. The standard instrument is the sociolinguistic interview, in which speakers are encouraged to talk about childhood games or dangerous experiences so that attention to speech drops, after which large samples of natural speech are quantified.",
+      "Quantitative analysis often employs the variable rule model, treating class, gender, age and style as independent variables and estimating the probability of each variant. Labov also described a stylistic continuum from careful to casual speech, showing that the same speaker shifts the rate of a variant according to formality. This allows group patterns and individual repertoires to be compared within a single statistical framework."
+     ]
+    },
+    {
+     "h": "主要发现与理论意义",
+     "hEn": "Major Findings and Theoretical Significance",
+     "p": [
+      "大量研究显示，变异并非随机的自由交替，而是受阶层、性别、年龄与社交网络共同约束。中产阶级下层往往表现出对显性声望的过度追求，而工人阶级男性则可能借助非标准变体表达隐性声望与本土认同。特鲁吉尔在诺里奇的研究即发现 -in' 读法在男性体力劳动者中更为常见。",
+      "在理论层面，社会变项把索绪尔式的同质语言系统改写为异质而有序的言语社区，说明语言结构本身就包含变异成分，语言演变正是通过共时变异实现的。这一视角为历史语言学提供了可观察的当代证据。"
+     ],
+     "pEn": [
+      "A large body of work shows that variation is not random free alternation but is constrained jointly by class, gender, age and social network. The lower middle class often over-shoots in the direction of overt prestige, whereas working-class men may exploit non-standard variants to claim covert prestige and local identity. Trudgill's Norwich study, for example, found -in' to be more frequent among male manual workers.",
+      "Theoretically, the notion of the sociolinguistic variable replaces the homogeneous language system with a heterogeneous yet orderly speech community. Variation is not noise around a stable structure but part of the structure itself, and language change proceeds through synchronic variation. This gives historical linguistics an observable contemporary source of evidence and links social differentiation directly to linguistic evolution. Variationist findings therefore provide a bridge between the grammar of a single speaker and the long-term history of a language."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticisms",
+     "p": [
+      "批评者指出，社会变项的划分有时依赖研究者的直觉，不同研究对同一变项的编码方式不一致，导致结果难以直接比较。此外，仅以阶层、性别等宏观范畴解释变异，可能掩盖说话人的能动性与局部交际目的。",
+      "另一些学者主张采用民族志方法，关注说话人如何在社会实践中主动调用变体建构身份，而非被动反映固定的社会位置。语体、受众设计与听众设计等概念由此进入变异研究，社区实践中的局部意义也受到重视。"
+     ],
+     "pEn": [
+      "Critics note that the delimitation of a variable sometimes rests on the analyst's intuition, and that coding conventions differ across studies, making results hard to compare directly. Explaining variation through macro-categories such as class and gender may also obscure speakers' agency and local communicative goals. Early variationist work in particular was accused of treating social categories as fixed containers rather than as constructs produced in interaction.",
+      "Others advocate ethnographic and interactional methods that examine how speakers actively mobilise variants to construct identity in social practice rather than passively reflecting a fixed social position. Notions such as style, audience design and referee design have accordingly entered variationist research, alongside attention to the local meanings that variants acquire in particular communities of practice. This shift has generated productive dialogue between quantitative and qualitative traditions in the study of language variation."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "社会变项", "tEn": "sociolinguistic variable", "d": "在言语社区中具有两个或多个交替形式、其选择与社会因素相关的语言项目。", "dEn": "A linguistic item with two or more variants whose selection correlates with social factors in a community."},
+    {"t": "变体", "tEn": "variant", "d": "社会变项在具体话语中实现出来的某一形式，如 -ing 或 -in'。", "dEn": "One of the alternative forms that realise a variable in actual speech, such as -ing or -in'."},
+    {"t": "显性声望", "tEn": "overt prestige", "d": "社会公开认可的标准变体所享有的正面评价，通常与中产阶层语体相联系。", "dEn": "The publicly recognised value of standard variants, typically associated with middle-class speech."},
+    {"t": "隐性声望", "tEn": "covert prestige", "d": "非标准变体在特定群体内部获得的正面价值，常与男性工人的本土认同相关。", "dEn": "The positive value of non-standard variants within a local group, often among working-class men."},
+    {"t": "语体变异", "tEn": "stylistic variation", "d": "同一说话人因交际场合、话题或对话语的注意程度不同而在变体之间切换的现象。", "dEn": "A speaker's shifting among variants according to situation, topic or degree of attention to speech."},
+    {"t": "定量社会语言学", "tEn": "quantitative sociolinguistics", "d": "运用抽样与统计方法描写变体分布及其社会相关性的研究范式。", "dEn": "The approach that describes variant distributions and their social correlates using sampling and statistics."},
+    {"t": "言语社区", "tEn": "speech community", "d": "共享同一套语言变体及其使用与评价规范的说话人群体。", "dEn": "A group of speakers who share norms for using and evaluating a set of linguistic variants."}
+   ],
+   "related": ["sociolinguistics", "labov", "speech-community", "sociolinguistic-interview", "dialect"],
+   "sources": [
+    "Wikipedia, \"Variation (linguistics)\", https://en.wikipedia.org/wiki/Variation_(linguistics)",
+    "Labov, The Social Stratification of English in New York City, 1966",
+    "Labov, Sociolinguistic Patterns, 1972",
+    "Trudgill, The Social Differentiation of English in Norwich, 1974"
+   ]
+  },
+  {
+   "id": "critical-period",
+   "title": "关键期假说",
+   "en": "Critical Period Hypothesis",
+   "category": "concepts",
+   "tags": ["关键期假说", "语言习得", "敏感期", "大脑偏侧化", "伦内伯格"],
+   "summary": "关键期假说主张，语言习得受生物成熟所限，存在一个通常于青春期前后关闭的时间窗口。若儿童在此期间未能接触语言，母语式的习得便不再可能。该假说由伦内伯格在《语言的生物学基础》中系统提出，常以吉妮、阿韦龙的维克多等语言剥夺个案以及聋人手语习得研究为证据。它深刻影响第二语言教学与语言政策，但因个案混杂因素、成功晚学者以及任务难度等问题而持续受到质疑。",
+   "summaryEn": "The critical period hypothesis holds that language acquisition is constrained by a biologically timed window, usually closing around puberty. If a child is not exposed to language during this period, native-like acquisition becomes impossible. Lenneberg formulated the hypothesis systematically in Biological Foundations of Language, and it is supported by deprivation cases such as Genie and Victor of Aveyron, as well as studies of deaf signers. It has shaped second language teaching and language policy, yet remains contested because of confounding factors, successful late learners and task effects.",
+   "sections": [
+    {
+     "h": "定义与理论来源",
+     "hEn": "Definition and Theoretical Origins",
+     "p": [
+      "关键期假说主张，语言习得受生物成熟的时间窗口限制：在某一界限之前，儿童可以自然、轻松地习得母语；超过该界限后，习得效率与最终水平显著下降。该假说由伦内伯格在《语言的生物学基础》中系统提出，用以解释大脑偏侧化与语言功能定位的发展节奏。",
+      "与之密切相关的是敏感期概念。关键期通常意味着界限分明且不可逆，敏感期则强调窗口内习得效果最佳、边界相对模糊。当代文献常把两者混用，或干脆以敏感期替代关键期，这种术语上的松动使不同研究的结论难以直接比较。"
+     ],
+     "pEn": [
+      "The critical period hypothesis claims that language acquisition is constrained by a biologically timed window. Before a certain maturational boundary, children acquire their first language naturally and effortlessly; after it, both the rate of learning and the ultimate level attained decline markedly. Lenneberg formulated the hypothesis systematically in Biological Foundations of Language, linking it to cerebral lateralisation and the development of hemispheric specialisation for language.",
+      "The closely related notion of a sensitive period is usually distinguished from a strict critical period. A critical period implies a sharp, irreversible boundary, whereas a sensitive period suggests optimal learning within a window whose edges are gradual. Contemporary writing often uses the two labels interchangeably, or prefers sensitive period in order to avoid the implication of a hard cut-off. This terminological looseness makes findings hard to compare across studies."
+     ]
+    },
+    {
+     "h": "证据：个案与实验研究",
+     "hEn": "Evidence: Case Studies and Experiments",
+     "p": [
+      "支持性证据主要来自语言剥夺个案。1970 年在美国洛杉矶发现的吉妮在约二十个月大时被隔离，直到十三岁半才接触语言，此后她虽能学会大量词汇，却始终未能掌握正常的句法。法国阿韦龙的维克多以及成年后才接触手语的切尔西也呈现类似模式。",
+      "实验研究方面，纽波特与约翰逊考察了移居美国的朝鲜语和汉语使用者，发现约七岁前到达者的语法判断成绩与英语母语者无异，而十五岁以后到达者成绩明显偏低。对美国手语聋人的研究也显示，首次接触语言的年龄比居住时长更能预测语言水平。"
+     ],
+     "pEn": [
+      "Supporting evidence comes mainly from cases of language deprivation. Genie, discovered in Los Angeles in 1970, had been isolated from about twenty months until she was thirteen and a half; she acquired a large vocabulary but never mastered normal syntax. Victor of Aveyron and Chelsea, who first encountered sign language in adulthood, show comparable limitations in morphology and syntax despite prolonged instruction.",
+      "In experimental work, Newport and Johnson studied Korean- and Chinese-speaking immigrants to the United States. Those who arrived before about age seven performed like native speakers on grammaticality judgements, whereas those arriving after fifteen performed substantially worse. Studies of deaf learners of American Sign Language reveal a similar age effect: age of first exposure, rather than length of residence, predicts performance."
+     ]
+    },
+    {
+     "h": "语言实例与敏感期表现",
+     "hEn": "Linguistic Examples and Sensitive Period Effects",
+     "p": [
+      "在音系层面，年龄效应尤其明显。许多成年后才学习英语的日语使用者难以稳定区分 /r/ 与 /l/，常把 right 与 light 混同，而童年初学者通常能达到母语者水平。词汇层面则相反，成年人习得新词的能力终生保持，母语者可以不断吸收新词与术语。",
+      "语法层面的例子可见于英语过去时形态。母语儿童先说出 goed、foots 这类过度概括形式，随后自行修正；而缺乏早期输入的成年学习者常在时态标记上长期停留于不稳定状态，说出 Yesterday he go to school 之类句子。学习汉语的成年人也常滥用体标记「了」，说明不同子系统的敏感期并不一致。"
+     ],
+     "pEn": [
+      "Age effects are especially pronounced in phonology. Many Japanese speakers who begin learning English in adulthood cannot reliably distinguish /r/ from /l/, confusing right with light, whereas early child learners usually reach native-like accuracy. Vocabulary behaves differently: adults continue to acquire new words throughout life, as when native speakers readily absorb new coinages and technical terms. Age of acquisition thus interacts with the subsystem of language being learned, rather than governing all aspects of proficiency uniformly.",
+      "Morphosyntax offers further illustrations. Children acquiring English pass through overgeneralisation, producing goed and foots before they correct themselves. Adult learners without early exposure often remain unstable in tense marking for years, uttering sentences such as Yesterday he go to school instead of went. Learners of Mandarin similarly overuse the perfective particle le with stative predicates. The contrast suggests that different linguistic subsystems have different sensitive periods."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": [
+      "批评集中在三方面。其一，语言剥夺个案往往伴随虐待、营养不良与社会孤立等混杂因素，难以把年龄与创伤分离；其二，确实存在成功的中年二语学习者，说明界限并非绝对；其三，年龄效应可能部分源于动机、认同与输入量等社会心理因素，而非纯粹的生理限制。",
+      "测验任务本身的难度也会影响结论。有研究发现，当给予更充分的反应时间或降低记忆负担时，晚学者在部分语法判断任务上的成绩可接近母语者，这提示所谓关键期效应可能被任务要求放大。"
+     ],
+     "pEn": [
+      "Criticism centres on three issues. First, deprivation cases are confounded by abuse, malnutrition and social isolation, so age cannot be cleanly separated from trauma. Second, successful late second-language learners do exist, showing that the boundary is not absolute; Birdsong and others have documented late learners who pass for native speakers on demanding tasks. Third, age effects may partly reflect psychosocial factors such as motivation, identity and the amount of input.",
+      "Task demands also shape conclusions. When late learners are given more time or a lighter memory load, their accuracy on some grammaticality tasks approaches that of native speakers, suggesting that the apparent critical-period effect may be inflated by processing requirements rather than by a purely maturational constraint. This has led many researchers to reframe the debate in terms of a gradual sensitive period interacting with experience."
+     ]
+    },
+    {
+     "h": "应用与启示",
+     "hEn": "Applications and Implications",
+     "p": [
+      "关键期研究对语言教育政策影响深远。它常被用来支持在小学阶段开设外语课程，也用于论证移民儿童与听障儿童应尽早获得可理解的语言输入。美国手语与口语教育之争、双语教育的时间安排都与此相关，因为其中涉及幼儿能否及早接触一门自然语言。",
+      "不过研究者普遍提醒，教学决策不能简单依据关键期。成人学习者在语音上处于劣势，却拥有元认知策略与已有知识，在词汇、读写和语用层面仍可取得显著成效。更稳妥的结论是：早期接触确有优势，但并非通向高水平的唯一路径，丰富的输入与互动在任何年龄都至关重要。"
+     ],
+     "pEn": [
+      "Research on the critical period has strongly influenced educational policy. It is frequently invoked to justify starting foreign languages in primary school and to argue that immigrant and deaf children should receive accessible linguistic input as early as possible. Debates over American Sign Language versus oral education, and over the timing of bilingual programmes, are closely related, since access to a natural language in early childhood is at stake.",
+      "Researchers nevertheless caution that pedagogy should not be derived mechanically from the hypothesis. Adult learners are disadvantaged in phonology yet possess metacognitive strategies and prior knowledge, allowing substantial gains in vocabulary, literacy and pragmatics. The practical lesson is that early exposure is advantageous but not the only route to high proficiency, and that rich input and interaction matter at every age."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "关键期假说", "tEn": "critical period hypothesis", "d": "主张语言习得受生物成熟限定、存在不可逆时间窗口的假说。", "dEn": "The claim that language acquisition is limited by a biologically timed, largely irreversible window."},
+    {"t": "敏感期", "tEn": "sensitive period", "d": "习得效果最佳的发育阶段，其边界较为模糊且可受经验调节。", "dEn": "A developmental phase of optimal learning whose boundaries are gradual and experience-dependent."},
+    {"t": "大脑偏侧化", "tEn": "cerebral lateralisation", "d": "语言等认知功能逐渐由某一侧大脑半球主导的发育过程。", "dEn": "The developmental process by which functions such as language come to be dominated by one hemisphere."},
+    {"t": "语言剥夺", "tEn": "language deprivation", "d": "儿童在语言发展早期缺乏可及的自然语言输入的状态或经历，常导致习得严重滞后。", "dEn": "The condition of a child lacking accessible natural language input during the early years."},
+    {"t": "最终语言水平", "tEn": "ultimate attainment", "d": "学习者在停止发展后所达到并趋于稳定的语言水平，是检验关键期效应的常用指标。", "dEn": "The stable level of proficiency a learner eventually reaches when development levels off."},
+    {"t": "化石化", "tEn": "fossilisation", "d": "中介语中偏离目标语的形式长期稳定、难以自动消除的现象。", "dEn": "The persistent stabilisation of non-target forms in a learner's interlanguage."},
+    {"t": "母语习得", "tEn": "first language acquisition", "d": "儿童在自然环境中无需系统教学而掌握第一语言的过程。", "dEn": "A child's acquisition of a first language in natural settings without formal instruction."}
+   ],
+   "related": ["language-acquisition", "psycholinguistics", "neurolinguistics", "interlanguage", "bilingualism"],
+   "sources": [
+    "Wikipedia, \"Critical period hypothesis\", https://en.wikipedia.org/wiki/Critical_period_hypothesis",
+    "Lenneberg, Biological Foundations of Language, 1967",
+    "Johnson, J. S. & Newport, E. L., \"Critical period effects in second language learning\", Cognitive Psychology, 1989"
+   ]
+  },
+  {
+   "id": "interlanguage",
+   "title": "中介语",
+   "en": "Interlanguage",
+   "category": "concepts",
+   "tags": ["中介语", "第二语言习得", "语言迁移", "偏误分析", "化石化"],
+   "summary": "中介语指第二语言学习者在习得过程中构建的一种过渡性语言系统，它既不同于母语，也不同于目标语。该术语由塞林格于 1972 年提出，用以反对把学习者语言视为母语习惯机械迁移的观点，强调学习者拥有自己的规则系统。中介语具有系统性、可变性、可渗透性与化石化等特征，常被用于解释偏误来源、语言迁移与习得顺序。这一概念是第二语言习得研究的核心，也是应用语言学的重要工具。",
+   "summaryEn": "Interlanguage is the transitional linguistic system that a second language learner constructs during acquisition. It differs both from the learner's first language and from the target language. Selinker introduced the term in 1972 to argue against the view that learner language is merely transferred first-language habits, insisting that learners operate with their own internalised rules. Its properties include systematicity, variability, permeability and fossilisation. The construct underpins research on error sources, language transfer and acquisition orders, and it remains central to second language acquisition studies.",
+   "sections": [
+    {
+     "h": "定义与提出背景",
+     "hEn": "Definition and Origins",
+     "p": [
+      "中介语指第二语言学习者在习得过程中形成的一种过渡性语言系统，它既不同于学习者的母语，也不同于目标语。该术语由塞林格于 1972 年提出，用以反对把学习者语言视为母语习惯机械迁移的观点，强调学习者拥有自己的规则系统，并且该系统会随学习进程不断重构。",
+      "中介语研究兴起于二十世纪六十年代末至七十年代，与偏误分析的兴起密切相关。此前盛行的对比分析假设认为，母语与目标语的差异可以预测学习困难；中介语视角则把注意力转向学习者实际产出的语言及其内在系统性。"
+     ],
+     "pEn": [
+      "Interlanguage is the transitional linguistic system that a second language learner constructs during acquisition. It differs both from the learner's first language and from the target language. Selinker introduced the term in 1972 to argue against the view that learner language is merely first-language habits transferred mechanically, insisting instead that learners operate with their own internalised rule system. This system is dynamic and is restructured as learning proceeds.",
+      "The study of interlanguage emerged in the late 1960s and 1970s alongside error analysis. The earlier contrastive analysis hypothesis held that differences between the native and target languages predict learning difficulty; the interlanguage perspective shifted attention to what learners actually produce and to the systematicity of their output. Corder's notion of learner language as a dialect in its own right was an important step in this reorientation."
+     ]
+    },
+    {
+     "h": "基本特征",
+     "hEn": "Fundamental Properties",
+     "p": [
+      "中介语具有系统性、可变性、可渗透性与化石化四个基本特征。系统性指学习者的偏误并非杂乱无章，而是遵循稳定的规则；可变性指同一学习者在不同语境下产出不同形式；可渗透性指新的语言输入会修改既有规则；化石化指某些偏离形式长期稳定、难以自动纠正。",
+      "中介语还表现出动态发展的阶段性。学习者通常先经过沉默期与套语阶段，再逐步发展出带有系统性的语法；新旧规则常常并存一段时间，形成共时变异，这一过程被称为重构，它使中介语呈现出既相对稳定又不断更新的面貌。"
+     ],
+     "pEn": [
+      "Interlanguage has four frequently cited properties. It is systematic, in that learner errors follow stable rules rather than being random. It is variable, since the same learner produces different forms in different contexts. It is permeable, because new input can modify existing rules. And it is subject to fossilisation, the long-term stabilisation of deviant forms that resist automatic correction. These properties together make learner language a legitimate object of linguistic description rather than a defective copy of the target language.",
+      "Interlanguage also develops in stages. Learners typically pass through a silent period and a formulaic phase before producing rule-governed grammar, and old and new rules often coexist for some time, giving rise to synchronic variability and repeated restructuring. This developmental sequence has been documented for English negation, question formation and relative clauses. Each stage is a coherent grammar in its own right rather than a defective version of the target language."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "中介语的典型表现是母语迁移与目标语规则过度概括的叠加。汉语母语者说英语时可能产出 Open the light，源自在汉语中说「开灯」；也可能说 I very like it，对应「我很喜欢它」的语序与程度表达。儿童与成人学习者还会把规则动词的过去时形式类推到不规则动词，说出 goed、foots 之类形式。",
+      "相反方向的例子同样存在。英语母语者学习汉语时，常把汉语的体标记「了」简单对应于英语过去时，说出「我昨天买三本书」，遗漏必须出现的「了」；他们也容易遗漏动词后的方位成分，说「我把书放在桌子」，而规范形式是「我把书放在桌子上」。"
+     ],
+     "pEn": [
+      "Typical interlanguage patterns combine first-language transfer with overgeneralisation of target-language rules. Mandarin speakers of English may produce Open the light, calqued on Mandarin kai deng, or I very like it, reflecting the Mandarin pattern for expressing degree. Learners of English, like children acquiring it, also extend regular past marking to irregular verbs, producing goed and foots. Such forms are not random mistakes: they arise from identifiable strategies that learners apply systematically while processing the target language.",
+      "Transfer also runs the other way. English speakers learning Mandarin often equate the aspect particle le with the English past tense, producing wo zuotian mai san ben shu and omitting the required le in wo zuotian mai le san ben shu, I bought three books yesterday. They also tend to drop postverbal locative elements, saying wo ba shu fang zai zhuozi instead of the standard wo ba shu fang zai zhuozi shang, I put the book on the table."
+     ]
+    },
+    {
+     "h": "相关理论与研究",
+     "hEn": "Related Theories and Research",
+     "p": [
+      "中介语与语言迁移研究关系密切。迁移可表现为正迁移，也可表现为负迁移，即通常所说的干扰。习得顺序研究则显示，不同母语背景的学习者在掌握英语否定句与疑问句时经历大致相同的阶段，这被用来论证语言习得中普遍性因素的存在。",
+      "在生成语法框架下，研究者关注普遍语法在中介语中是否仍然可及；在基于用法的框架下，中介语被视为由具体用例与频率逐步抽象而成的构式网络。两种路径对化石化的解释截然不同，前者诉诸学习者心理语法的属性，后者强调固化程式与有限输入。"
+     ],
+     "pEn": [
+      "Interlanguage is closely tied to research on language transfer. Transfer may be positive or negative, the latter commonly called interference. Research on acquisition orders shows that learners from different first-language backgrounds pass through broadly similar stages in acquiring English negation and questions, an argument for universal factors in acquisition. Krashen's monitor model and Pienemann's processability theory offer competing explanations of these sequences.",
+      "Within generative grammar, researchers ask whether universal grammar remains accessible in interlanguage. Within usage-based approaches, interlanguage is seen as a network of constructions abstracted from concrete usage events and their frequencies. The two frameworks offer sharply different accounts of fossilisation: generativists attribute persistent non-target forms to properties of the learner's mental grammar, while usage-based scholars point to entrenched routines and limited input."
+     ]
+    },
+    {
+     "h": "批评与发展",
+     "hEn": "Criticisms and Later Developments",
+     "p": [
+      "对中介语的批评主要有二。其一，化石化的判定往往依赖观察者一时的判断，被认定永久固化的形式可能在数年后自行消失；其二，早期研究多以课堂学习者为对象，忽视自然语境中的学习者以及社会互动因素。",
+      "此后研究逐渐拓展为对学习者语料库的大规模分析，并引入社会文化理论与会话分析视角，关注学习者在互动中共同建构语言的过程。中介语概念因此从静态系统转向动态、情境化的语言发展观。"
+     ],
+     "pEn": [
+      "Two criticisms of the construct stand out. First, fossilisation is often diagnosed on the basis of a snapshot judgement, yet a form judged permanent may disappear years later. Second, early research drew heavily on classroom learners and neglected naturalistic learners and social interaction. The boundary between interlanguage and a stable dialect is also difficult to draw in practice. Longitudinal evidence suggests that apparent fossilisation may sometimes reflect a plateau that later gives way to further development.",
+      "Later work has turned to large-scale learner corpus analysis and has imported sociocultural theory and conversation analysis, focusing on how learners jointly construct language in interaction. The concept has accordingly moved from a static system towards a dynamic, situated view of second language development. Dynamic systems theory and complex adaptive system models are prominent in this reorientation. Learner corpus research now allows these claims to be tested on millions of words of authentic learner production."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "中介语", "tEn": "interlanguage", "d": "第二语言学习者构建的、介于母语与目标语之间的过渡性语言系统。", "dEn": "The transitional system constructed by a second language learner, distinct from both languages."},
+    {"t": "母语迁移", "tEn": "language transfer", "d": "母语的知识与习惯对第二语言习得产生影响的现象，可分为正迁移与负迁移。", "dEn": "The influence of first-language knowledge or habits on second language learning."},
+    {"t": "偏误分析", "tEn": "error analysis", "d": "系统考察学习者错误的类型与来源，以揭示其语言系统的方法。", "dEn": "The systematic study of learner errors and their sources in order to reveal the learner's system."},
+    {"t": "化石化", "tEn": "fossilisation", "d": "中介语中偏离目标语的形式长期稳定、不再自动消失的现象。", "dEn": "The long-term stabilisation of non-target forms in learner language that resist automatic correction."},
+    {"t": "过度概括", "tEn": "overgeneralisation", "d": "把某一规则不恰当地推广到例外情形，如把过去时一律加 -ed。", "dEn": "Applying a rule too widely to exceptions, as when all past tenses take -ed."},
+    {"t": "目标语", "tEn": "target language", "d": "学习者正在学习的第二语言或外语，是中介语发展的参照目标。", "dEn": "The second or foreign language being learned, against which interlanguage development is measured."},
+    {"t": "习得顺序", "tEn": "acquisition order", "d": "不同母语背景的学习者掌握某一语法结构时反复出现的阶段序列。", "dEn": "The sequence of stages through which learners pass in acquiring a grammatical structure."}
+   ],
+   "related": ["language-transfer", "language-acquisition", "applied-linguistics", "universal-grammar", "psycholinguistics"],
+   "sources": [
+    "Wikipedia, \"Interlanguage\", https://en.wikipedia.org/wiki/Interlanguage",
+    "Selinker, L., \"Interlanguage\", International Review of Applied Linguistics, 1972",
+    "Corder, S. P., Introducing Applied Linguistics, 1973"
+   ]
+  }
+ ]
+}

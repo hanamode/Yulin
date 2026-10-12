@@ -1,0 +1,60 @@
+# 5.12 Exercise your linguistics skills
+
+Exercise 1. Basic; 5.2, 5.11. Below is a list of words from Turkish, the most widely-spoken member of the Turkic language family, and the national language of Turkey and Northern Cyprus (also spoken as a minority language in many other countries). of examples taken from Turkish. All words are transcribed in the International Phonetic Alphabet. List all the morphemes that occur in the Turkish data, and give their glosses (that is: state their meaning or grammatical function). For each morpheme, state whether it is a root, a prefix, or a suffix. Paying attention to the order of morphemes in these examples, how would you say “in our little hands” in Turkish? (Note: for ease of analysis, some of the data have been simplified from true Turkish.)
+- [deniz] ‘a sea’
+- [elim] ‘my hand’
+- [denize] ‘to a sea’
+- [eller] ‘hands’
+- [denizin] ‘of a sea’
+- [diʃler] ‘teeth’
+- [eve] ‘to a house’
+- [diʃimizin] ‘of our tooth’
+- [evden] ‘from a house’
+- [diʃlerimizin] ‘of our teeth’
+- [evdʒıkden] ‘from a little house’
+- [eldʒıke] ‘to a little hand’
+- [denizdʒıkde] ‘in a little sea’
+- [denizlerimizde] ‘in our seas’
+- [elde] ‘in a hand’
+- [evdʒıklerimizde] ‘in our little houses’
+
+Exercise 2. Intermediate; 5.4. Examine the following pairs of words from Kreyòl (also known as Haitian Creole), a Romance language spoken in Haiti. List all the morphemes that occur in these examples. For any morpheme with two or more allomorphs, make a generalization about the environment in which each one occurs, and state whether the allomorphy is lexically or phonologically conditioned. (Note: a tilde over a vowel indicates that the vowel is nasalized.)
+- panie ‘basket’ ~ paniea ‘the basket’
+- trou ‘hole’ ~ troua ‘the hole’
+- chẽ ‘dog’ ~ chẽã ‘the dog’
+- pitit ‘child’ ~ pititla ‘the child’
+- ãj ‘angel’ ~ ãjla ‘the angel’
+- madãm ‘lady’ ~ madãmla ‘the lady’
+
+Exercise 3. Basic; 5.6–5.7. For each of the following English words, identify the affix(es) in the word. For each affix, say whether it is derivational or inflectional. For inflectional affixes, say what grammatical information the affix indicates.
+purity
+newest
+misunderstand
+Canadian
+unlikely
+weaken
+nieces
+expectantly
+Exercise 4. Intermediate; 5.5–5.7, 5.10. For the bolded word in each of the following sentences of English, identify its category, and state the criterion (or criteria) you used to determine its category. For all the morphologically complex words, identify the root and all the affixes, and determine each affix’s selectional requirement (what it attaches to) and what change it makes to the category and/or meaning of its base. Bonus: try drawing trees to show the structure of any morphologically complex words.
+- The car goes very fast.
+- Amy likes hot weather.
+- Some babies never sleep.
+- I dream about the future.
+- I had a dream last night.
+- Our discussion was very interesting.
+- They started to run quickly.
+- I appreciate your politeness.
+- The store misclassified that book.
+- She founded a nongovernmental organization.
+
+Exercise 5. Advanced; 5.1–5.6. Consider the English words conceive, receive, perceive, and deceive. Are these words morphologically simple or morphologically complex? Justify your answer with reference to concepts introduced in this chapter, mentioning additional facts of English morphology if relevant. Discuss evidence that argues for a different conclusion, if any.
+Exercise 6. Intermediate; 5.8. Compound words in English are variable in their spelling: some are spelled with no space between the elements of the compound (redhead, greenhouse), some are spelled with a space (ice cream, ski boots), and some are spelled with a hyphen between the elements (gluten-free, long-term). Identify all the compounds in the following sentences[1]:
+> “Amélie Tourain leaned forward a little and switched on her desk light.” “The third occasion on which she said something funny the headmistress had glanced at her over Doris Anderson’s note-book, then at Mlle Devaux, and after that things went much easier with the grammar teacher.” “Mlle Tourain was sitting back in her chair now, and had begun to tap the rubber end of her pencil against the brass ink-pot.” “She had spoken with an undercurrent of passion running through her words, as she was speaking now.”
+
+Exercise 7. Basic; 5.8. The examples below show compounds in Hebrew, a Semitic language. What category or categories of roots can participate in compounding, based on these examples? Do compounds in Hebrew appear to be left-headed or right-headed?[2]
+
+[表格]
+| | | (a) | | beyt | | xolim | | (b) | | batey | | sefer | | | | | | house | | patient | | | | houses | | book | | | | | | hospital | | | | schools | | | | (c) | | ‘orex | | din | | (d) | | yom | | huledet | | | | | | editor | | law | | | | day | | birth | | | | | | lawyer | | | | birthday | | | | (e) | | gan | | xayot | | (f) | | gan | | yeladim | | | | | | garden | | animals | | | | garden | | children | | | | | | zoo | | | | kindergarten | | |
+
+- The sentences for Exercise 6 are taken from Swiss Sonata by Gwethalyn Graham, which is in the Public Domain in Canada. ↵
+- The Hebrew examples are adapted from Borer, H. (2011). "Afro-Asiatic, Semitic: Hebrew." In The Oxford Handbook of Compounding, eds. R. Lieber and P. Štekauer. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199695720.013.0027 ↵

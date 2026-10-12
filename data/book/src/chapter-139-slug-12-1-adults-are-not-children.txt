@@ -1,0 +1,30 @@
+# 12.1 Adults are not children
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2630#oembed-1
+In many Intro Linguistics textbooks, this chapter would be titled Second Language Acquisition (SLA), which is also the common name for the subfield of linguistics that studies adult language learning. The label SLA encodes an assumption that the typical learner is proficient in exactly one language — the first language, which was acquired “natively” — and that the subsequent language is therefore the second one. That assumption is quite narrow, given that about one-third of people in the world use two different languages regularly, and many of those people use three or more languages (Wei, 2007). A similar assumption is embedded in academic programs that require credit in a “foreign” language: foreign to whom? These terms reveal the Anglocentrism of the field by implicitly assuming that a typical learner speaks English as their first language and learns something other than English, that is, something foreign, as their second language.
+The same assumption is contained within in the label English as a Second Language (ESL), which highlights the otherness of those who learn English in adulthood. Some teachers of English to adults use terms like additional language or other language, which don’t encode quite the same assumptions. And so-called foreign languages are now sometimes referred to as world languages. As we learned in Chapter 2, there are few, if any, truly neutral terms for discussing human differences. In this chapter we’ll use the terms L1 or first language for any language learned from early childhood, even if the learner acquires more than one at once, and later language for any language learned after the first one(s).
+In fact, that’s one key difference between learning a first language and learning a later one: you already have one mental grammar when you start acquiring another one. In a later unit we’ll consider how the grammar of your L1 influences the grammars of your later languages. The other key difference is that adults are different from children.
+
+## Cognitive and Linguistic Differences
+
+As the previous chapter showed, language learning is not usually difficult or effortful for young children. As long as they’re in an environment where they have access to language used by adults, they’ll learn it pretty quickly. One reason it’s so easy for little ones is because of their neural plasticity: their brains are super-keen to make new connections in response to their experiences. The older you get, the harder it is for your brain to grow new neural pathways, so the harder it is to learn new things. It’s not impossible by any means, it just takes more effort!
+On the other hand, adults have some advantages over children. We have metacognitive skills we can apply consciously to language learning, such as memorizing new vocabulary and morphology, choosing to study a little bit each day, or seeking out books, movies, podcasts or other media in our new language. We also have metalinguistic awareness that we can employ. For example, we can consciously practice placing our articulators in new positions, or we can compare and contrast the syntactic structures in our new language with those from our L1.
+
+## Socioemotional Differences
+
+Another factor that can make language learning harder for adults than for children is our self-consciousness. Learning a new language usually involves interacting with other people, including other people who are more proficient than us. If you’re adult who’s used to being seen as competent, it can be embarrassing to feel like a beginner and to make mistakes.
+Like the field of Linguistics as a whole, the subfield of Second Language Acquisition is often narrowly focused on grammar, especially on acquiring phonetics, morphology and syntax. This approach to teaching and learning is related to colonial ways of thinking that treat language as an object or asset that can be acquired in isolation from people, communities, and relationships (Czaykowska-Higgins et al., 2017; Lukaniec & Palakurthy, 2022; MacKenzie et al., 2022).
+But as we’ve been learning throughout this book, language is not just a collection of structural properties! Chapter 2 showed that our language use is interwoven with our emotions and identities. And unlike babies developing an L1, adult language learners bring all kinds of cultural knowledge, traditions, expectations and, yes, emotions to our language learning, which we may or may not be consciously aware of. The next unit will look at these socioemotional factors in more detail .
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2630#h5p-121
+
+## References
+
+Czaykowska-Higgins, E., Burton, S., McIvor, O., & Marinakis, A. (2017). Supporting Indigenous language revitalisation through collaborative post-secondary proficiency-building curriculum. In W. Y. Leonard & H. De Korne (Eds.), Language Documentation and Description (Vol. 14, pp. 136–159). EL Publishing.
+Lukaniec, M., & Palakurthy, K. (2022). Additional Language Learning in the Context of Indigenous Language Reclamation. In K. Geeslin, The Routledge Handbook of Second Language Acquisition and Sociolinguistics (1st ed., pp. 341–355). Routledge.
+MacKenzie, A., Engman, M., & McGurk, O. (2022). Overt and symbolic linguistic violence: Plantation ideology and language reclamation in Northern Ireland. Teaching in Higher Education, 1–12.
+McIvor, O. (2020). Indigenous Language Revitalization and Applied Linguistics: Parallel Histories, Shared Futures? Annual Review of Applied Linguistics, 40, 78–96.
+Wei, L. (2007). Dimensions of Bilingualism. In L. Wei (Ed.), The bilingualism reader (2nd ed., pp. 3–22). Routledge.

@@ -1,0 +1,16 @@
+# Accessibility Statement
+
+This textbook conforms to the Accessibility requirements of eCampusOntario’s Virtual Learning Strategy. In addition, the authors understand the importance of accessibility and strive to not only meet the minimum accessibility standards, but to research and develop accessibility standards particular to linguistic diagrams, formalisms, and notation.
+Below we list several of the measures we have taken to increase accessibility.
+- Pages are navigable by screenreader. (Note: Firefox does not seem to work well.)
+- Alt-text is provided for all non-decorative images and diagrams. For syntax and morphology trees, the alt-text is currently formatted as a bracketed diagram, but we are exploring ways to communicate the hierarchal structure in a way that is easier to interpret in audio format.
+- A definition file for special characters from the International Phonetic Alphabet is available for screenreaders. (Coming soon!)
+- Graphs, charts, and maps are described in writing in the body of the text.
+- Many parts of the text are provided in parallel video format. In these cases, the text functions as a transcript of the video. (More coming soon!)
+- Glossed linguistic examples are formatted in tables that can be navigated by tabbing, and are tagged as non-English when applicable for screenreaders.
+- High contrast colour is used.
+- This ebook is available to export as PDF or EPUB. PDF versions can be printed. All interactive content is available in the backmatter of the text for exported copies.
+- Pressbooks supports zooming the font size by 200% across all of its platforms.
+
+We welcome feedback both in terms of what is working well and for issues that we overlooked or can be improved. We can be emailed at teaching.in.linguistics@gmail.com.
+Note: As of “soft launch” on February 28th, 2022, not all of these accessibility features have been implemented. However, we plan to continue working on them throughout the rest of 2022. We still welcome feedback at this preliminary stage!

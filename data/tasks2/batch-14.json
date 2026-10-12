@@ -1,0 +1,24 @@
+{
+ "batch": 14,
+ "out": "data/gen2/batch-14.json",
+ "entries": [
+  {
+   "id": "recursion",
+   "title": "递归",
+   "en": "Recursion",
+   "category": "concepts"
+  },
+  {
+   "id": "entailment",
+   "title": "蕴涵",
+   "en": "Entailment",
+   "category": "concepts"
+  },
+  {
+   "id": "presupposition",
+   "title": "预设",
+   "en": "Presupposition",
+   "category": "concepts"
+  }
+ ]
+}

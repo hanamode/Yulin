@@ -1,0 +1,48 @@
+# 8.9 Illocutionary meaning
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2712#oembed-1
+
+## Illocutionary meaning
+
+​ In Chapter 7, Section 7.11, we talked about the meaning of sentences in terms of their truth condition. This tells us what the sentence entails: it tells us what the sentence means on its own, regardless of context. So far in this chapter, we have also seen that when we combine the literal truth-conditional meaning of the sentence with the discourse context, other layers of linguistic meaning emerge, like implicatures. Implicatures rely on the fact that sentences don’t occur in isolation in natural language use: they’re a part of a larger discourse context.
+In this section, we will explore illocutionary meaning: sentential meaning in terms of what the speaker/signer means in making an utterance. The idea is that after we compositionally build up the literal meaning of a sentence, we do something with this sentence in a conversation. In other words, what’s the point of saying something in a conversation? Let’s take a look at what exactly you do with a sentence in discourse.
+
+## What is illocutionary meaning?
+
+Illocutionary meaning again is the meaning of a sentence in terms of what the speaker/signer means in making an utterance. To understand what this means, let’s take a look at the conversation in (1).
+
+​ (1) (Context: Aya and Bo are roommates, and are trying to decide what to make for dinner.)
+​ Aya: Should we have spaghetti for dinner?
+​ Bo: We have tomato sauce and ground beef in the fridge.
+​ Aya: Yeah. Can we make pasta bolognese with those ingredients?
+​ Bo: Yeah, I think so.
+​ Aya: OK, cool. We’ll do spaghetti then.
+
+Let’s focus on Bo’s utterance, We have tomato sauce and ground beef in the fridge. The sense of this sentence is the lexical meaning of all the words it contains combined. But Bo is not saying this sentence in this conversation for the sake of expressing the sense of the sentence. He is saying this because he believes this sentence to be true, and he would like for the addressee, Aya, to agree with it. This layer of meaning is what we are referring to as illocutionary meaning, and what we mean by “what we mean in making an utterance.” In this case, Bo has made an assertion. In contrast, if you look at Aya’s first utterance in (1), she has posed a question: Should we have spaghetti for dinner?. Assertion vs. question is a way of classifying sentences based on their illocutionary meaning. There’s more that you can do in a conversation than just assert things and ask questions. For example, you might exclaim things in an exclamative (e.g., What a beautiful raccoon!) or you might give orders with an imperative (e.g., Look at the raccoon!). In this textbook, we will focus on just assertions and questions. In the rest of this chapter, we will ask the following question: what does it mean for someone to make an assertion vs. pose a question in discourse?
+
+##
+
+## Re: Language is performative
+
+In Chapter 2, we introduced the idea that language is performative, meaning that things happen and the world changes when you say or sign things. When someone says I name this ship the S.S. Anne, they christen the ship. Writing I bequeath my card collection to my child in a will gives rise to certain contractual rights about the future ownership of the card collection. As philosopher John Langshaw Austin wrote, “to say something is to do something” (emphasis his) (Austin 1975). Austin originally used the term “performatives” to refer to certain types of sentences, like ship christening, bequeathing in wills, and marriage vows. Under the original definition, performatives are utterances that are made for the purpose of doing something and giving rise to a conventional consequence (e.g., transfer of rights, legal union, etc.). The term usually refers to something that uses performative verbs like “I hereby name“, “I hereby bequeath“, “I now pronounce you”, etc.
+Anything that you linguistically express that serves the purpose of “doing something” is called a speech/sign act. Note that some linguists use the term speech act to refer to acts in all modalities of language. So when you say a performative like “I now pronounce you married,” that’s a speech act. You don’t always have to use performative verbs to do a speech/sign act, though. For example, if you simply ask the question “Did you break my bike?” in spoken English (instead of expressing it as a performative like “I hereby ask if you broke my bike”), it’s still a speech act: it’s an act of inviting the addressee to supply information. So performatives are just a special kind of speech/sign act.
+By making a speech/sign act, there are different actions that you make simultaneously: you make a locutionary act, an illocutionary act, and a perlocutionary act. Let’s take the sentence You’re manspreading, uttered by a woman to a man on a bus.
+The locutionary act of a speech/sign act is an expression of the locutionary meaning of the sentence, which is the literal meaning of the sentence. The locutionary meaning of You’re manspreading is something like ‘the addressee, presupposed to be male, is sitting with their legs wide apart.’
+The illocutionary act of a speech/sign act is an expression of the illocutionary meaning of the sentence, which is what you “do” in making an utterance. Typically, in making an assertion, what the speaker “does” is commit herself to the truth of the utterance (the performative version would be something like ‘I hereby publicly declare that I believe that you are manspreading’). In this particular case, she’s also likely “doing” something else too: making a request (for him to move his legs). Those are both illocutionary acts. Other than asserting and requesting, illocutionary acts can include: asking, resigning, promising, congratulating, and more.
+Finally, the perlocutionary act (or perlocutionary effect) of a speech/sign act is an expression of the perlocutionary meaning of the sentence, which is the actual effect of the utterance on the addressee. In this case, the perlocutionary effect of You’re manspreading might be that the addressee moves his legs to make more room for the speaker.
+In the rest of this chapter, we will focus on the illocutionary meaning of sentences, particularly that of assertions and questions. Note that there isn’t a one-to-one correspondence between the form of a sentence and its illocutionary meaning. In one context, You got first place! might be an act of congratulating (e.g., adults are playing a video game), but in another context, it might be an act of scolding (e.g., an adult immaturely beat a bunch of children in a video game). In fact, even if you utter a performative like I hereby promise that I will buy you the game, it doesn’t really have the illocutionary meaning of a promise unless the utterer sincerely means it. Some types of illocutionary meaning are closely connected to certain word order, intonation, or performative verbs, though: for example, T-to-C movement in spoken English typically indicates that a question is being asked.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2712#h5p-95
+
+## References
+
+Austin, J. L. (1975). How to Do Things with Words. Oxford University Press.
+Cohen, T. (1973). Illocutions and perlocutions. Foundations of Language, 9(4), 492-503.
+Searle, J. R. (1975). A taxonomy of illocutionary acts, in K. Gunderson (ed.), Language, Mind and Knowledge, Minneapolis, MN: University of Minnesota Press, 344–369.
+Searle, J. R. (1985). Expression and meaning: Studies in the theory of speech acts. Cambridge University Press.
+Searle, J. R., Searle, J. R. S., Vanderveken, D., & Willis, S. (1985). Foundations of Illocutionary Logic. CUP Archive.
+
+Vanderveken, D. (1990). Meaning and Speech Acts: Principles of Language Use (Vol. 1). Cambridge University Press.

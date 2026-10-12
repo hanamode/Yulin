@@ -1,0 +1,10 @@
+# Chapter 5: Morphology
+
+In this chapter, we look at words and at the meaningful pieces that combine to create words. We will see that languages vary in how words are built, but that nonetheless we can find structure inside of words in all languages. In linguistics, the study of word forms is known as morphology.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Identify morphologically complex words, and the morphemes within them
+- Distinguish between inflectional morphology, derivational morphology, and compounds
+- Explain how a word’s morphology interacts with its lexical category
+- Analyze the structure of complex words

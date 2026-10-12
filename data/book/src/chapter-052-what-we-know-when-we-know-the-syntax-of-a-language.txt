@@ -1,0 +1,50 @@
+# 6.1 Syntactic knowledge and grammaticality judgements
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1469#oembed-1
+In linguistics, syntax is the study of how words are organized into phrases and sentences. Just as the morphemes in a word are organized into structures, the words in a sentence are also best viewed not just as a string of words, but instead as having a hierarchical structure. And just as words contain a head morpheme, we’ll see that every phrase has an element that is its syntactic head.
+What kind of knowledge do we have about the syntax of a language we know? Let’s start by considering the sentence in (1):
+
+[表格]
+| | | (1) | | | | All grypnos are tichek. | | |
+
+You might not know what a grypno is, or what it means to be tichek (because these are made-up words!), but you can tell that this sentence is still the right kind of “shape” for English. In other words, (1) is consistent with the way English speakers put words together into sentences.
+Compare this with the sentence in (2):
+
+[表格]
+| | | (2) | | | | *Grypnos tichek all are. | | |
+
+Unlike (1), (2) isn’t the right shape for a sentence in English. Even if you did know what a grypno was, or what it meant to be tichek, this still wouldn’t be the way to put those words together into a sentence in English.
+Something we can be pretty confident about is that you’ve never heard or read either of these sentences before encountering them in this chapter. In fact, most of the sentences you encounter in this textbook are likely to be made up of words you haven’t heard or read in exactly that order before. So that means that your internal grammar of English must be able to generalize to new cases—this is the generativity of language, something introduced back in Chapter 1.2.
+As someone who uses language—in the case of (1) and (2), as someone who speaks and reads English—you can identify sentences that do or do not fit the patterns required by your internal grammar. In syntax we describe sentences that do match those patterns as grammatical for a given language user, and sentences that do not match required patterns as ungrammatical.
+
+## Grammaticality judgements in syntax
+
+In syntax when we say something is ungrammatical we don’t mean that it’s “bad grammar” in the sense that it doesn’t follow the type of grammatical rules you might have learned in school. Instead, we call things ungrammatical when they are inconsistent with the grammatical system of language user.
+The evaluation of a sentence by a language user is called a grammaticality judgement. Grammaticality judgements are a tool for investigating the linguistic system of an individual language user—there is no way to get a grammaticality judgement for “English” as a whole, only grammaticality judgements from individual English speakers. Despite that, sometimes you will see a sentence described as grammatical or ungrammatical “in English” or another language; technically this is a shorthand for saying that users of English (or another language) generally agree about whether it is grammatical or not. In many cases different users of a language disagree about the status of a particular example, and this tells us something about syntactic variation in that language!
+We are often most interested in examples that are ungrammatical, because they tell us about the limits on building sentences in a language. The convention in linguistics is to mark ungrammatical examples with an asterisk (*) at the beginning of the sentence, sometimes called a star (which is slightly easier to say). Whenever you see that symbol in front of an example in this chapter, as in example (2) above, it indicates that the example is ungrammatical in the linguistic sense.
+Sometimes we want to indicate that a sentences is weird because of its meaning, rather than its syntax. In these cases we use a hashmark symbol (#) instead of a star.
+For example, consider an example like (3):
+
+[表格]
+| | | (3) | | | | #The book pedalled the ladder harmoniously. | | |
+
+This sentence is the right shape for English, it just doesn’t make any sense—books can’t pedal anything, ladders can’t be pedalled, and it’s not clear how you could pedal something harmoniously. So we would say that the sentence in (3) is grammatical but semantically odd, and that’s what the hashtag symbol indicates.
+Most of the sentences we will consider in this chapter are ones that many English speakers (but not all) share similar judgements about. If you disagree with any of the judgements reported here, you can take the opportunity to think about what that tells you about your own grammar, and whether the difference could be explained using the tools we develop here. If the theory developed here can’t account for your pattern of grammaticality judgements, that shows that we need to make changes to the theory!
+
+## The goals of syntactic theory
+
+Our goal in syntax is to develop a theory that can do two things:
+- Predict which sentences are grammatical and which ones are ungrammatical and
+- Explain the observed properties of grammatical sentences.
+
+In much of this chapter we’ll focus on the syntax of varieties of English, because English is a language that’s common to everyone who reads this textbook. At the same time, we will often have opportunities to see how other languages show us the scope of variation for syntax in human languages. In the end, we want to build a theory that can be used to explain not just properties of English, but properties of all human languages.
+What kind of theory do we need to make these kinds of predictions? If languages were finite we could simply list all the grammatical sentences, state that anything not on the list was an ungrammatical sentence, and be done. But any language user can generate sentences that no one has ever encountered before, and other users of the same language can understand those sentences, so what we “know” when we know the syntax of a language must be more than just a list of grammatical sentences. In the next section of this chapter, we’ll see that what we know about syntax can’t be just about the order of words, it has to be something about their grouping (constituency) as well.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1469#h5p-118
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, you should continue with 6.2 Word order.

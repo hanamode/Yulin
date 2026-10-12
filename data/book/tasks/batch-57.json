@@ -1,0 +1,25 @@
+{
+ "batch": 57,
+ "chapter": "Chapter 11: Child Language Acquisition",
+ "out": "data/book/gen/batch-57.json",
+ "sections": [
+  {
+   "id": "chapter-130-slug-11-3-phonemic-contrast",
+   "title": "11.3 Phonemic contrast",
+   "src": "data/book/src/chapter-130-slug-11-3-phonemic-contrast.txt",
+   "chars": 6075
+  },
+  {
+   "id": "chapter-131-slug-11-4-early-production",
+   "title": "11.4 Early language production",
+   "src": "data/book/src/chapter-131-slug-11-4-early-production.txt",
+   "chars": 8309
+  },
+  {
+   "id": "chapter-132-slug-11-5-the-language-environment-and-the-so-called-word-gap",
+   "title": "11.5 The Language environment and the so-called word gap",
+   "src": "data/book/src/chapter-132-slug-11-5-the-language-environment-and-the-so-called-word-gap.txt",
+   "chars": 6413
+  }
+ ]
+}

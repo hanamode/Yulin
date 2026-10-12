@@ -1,0 +1,255 @@
+{
+ "batch": 19,
+ "entries": [
+  {
+   "id": "pidgin-creole",
+   "title": "皮钦语与克里奥尔语",
+   "en": "Pidgin and Creole",
+   "category": "concepts",
+   "tags": [
+    "语言接触",
+    "混合语",
+    "克里奥尔化",
+    "通用语",
+    "语法简化"
+   ],
+   "summary": "皮钦语与克里奥尔语指语言接触中产生的两种混合语。皮钦语是在没有共同语言的群体间临时形成的交际工具，词汇多取自强势语言，语法则被大幅简化，无人以之为母语，如十九世纪通商口岸的洋泾浜英语。当皮钦语在一代人中稳定下来并被儿童作为母语习得，便发展为克里奥尔语，如海地克里奥尔语。二者是观察语言起源、接触与演变的天然实验室。",
+   "summaryEn": "Pidgins and creoles are contact languages that arise where speakers of different languages need to communicate. A pidgin draws most of its vocabulary from a dominant language but drastically simplifies its grammar, and no community speaks it as a mother tongue; Chinese Pidgin English is a classic case. When children acquire such a variety natively and it stabilises, it becomes a creole, as with Haitian Creole. The pair offers a natural laboratory for studying language genesis, contact and change.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "皮钦语是两种或多种语言接触时，为满足有限的跨语言交际需要而形成的辅助语。它通常词汇量小、语法规则少、语序相对固定，且使用范围多限于贸易、港口或种植园。克里奥尔语则是皮钦语被下一代作为母语自然习得后稳定下来的语言，具备完整的语法系统和母语者群体。判断标准在于是否有儿童以之为第一语言习得，而非结构复杂程度。"
+     ],
+     "pEn": [
+      "A pidgin is an auxiliary language that emerges when two or more speech communities need to communicate but share no common tongue. It typically has a reduced lexicon, few morphological rules, a relatively fixed word order, and a restricted range of use such as trade, ports or plantations. A creole is a variety that has stabilised after children acquired a pidgin as their mother tongue, and consequently it has a full grammatical system and a community of native speakers. The decisive criterion is nativisation by children rather than structural complexity."
+     ]
+    },
+    {
+     "h": "形成过程",
+     "hEn": "Development",
+     "p": [
+      "皮钦语的形成通常经历行话阶段、稳定阶段与扩展阶段。早期词汇来自不同语言，规则不稳定；随着使用频繁，语法逐渐固定。若该语言长期只用于跨群体交际，可能停留在皮钦语状态甚至消失；若社区需要它承担全部交际功能，下一代便把它当作母语来习得，语法随之扩展、形态逐渐发展，于是完成克里奥尔化。克里奥尔语还可能因与标准语持续接触而发生去克里奥尔化，重新向词汇来源语靠拢。"
+     ],
+     "pEn": [
+      "Pidgin development is usually described as passing through a jargon phase, a stabilisation phase and an expansion phase. Early vocabulary is drawn from several sources and the rules fluctuate; with frequent use the grammar becomes fixed. If the variety remains confined to intergroup contact it may stay a pidgin or disappear altogether. If the community needs it for all communicative functions, the next generation acquires it natively, the grammar expands, morphology develops, and creolisation is complete. Continued contact with the lexifier can later trigger decreolisation, a drift back towards the standard language."
+     ]
+    },
+    {
+     "h": "语言特征与示例",
+     "hEn": "Features and Examples",
+     "p": [
+      "皮钦语的语法常受下层语言塑造，词汇多来自上层语言。以巴布亚新几内亚的托克皮辛语为例，Mi go long maket 意为「我去市场」，其中 go 来自英语 go，long 来自英语 along 并语法化为介词，maket 来自 market。夏威夷克里奥尔英语用 Ai go stei hia 表示「我住在这里」，海地克里奥尔语 Mwen renmen ou 意为「我爱你」。习语 long time no see 常被追溯至洋泾浜英语。"
+     ],
+     "pEn": [
+      "Pidgin grammar is often said to be shaped by the substrate languages while the lexicon comes from the superstrate, or lexifier. In Tok Pisin, spoken in Papua New Guinea, Mi go long maket means 'I am going to the market': go comes from English go, long derives from along and has been grammaticalised as a preposition, and maket from market. Hawaiian Creole English expresses 'I live here' as Ai go stei hia, and Haitian Creole renders 'I love you' as Mwen renmen ou. The English idiom long time no see is widely traced to Chinese Pidgin English."
+     ]
+    },
+    {
+     "h": "主要理论",
+     "hEn": "Theories",
+     "p": [
+      "关于克里奥尔语的来源，学界提出三种主要解释。单源论主张它们源自十七世纪大西洋沿岸的某种共同皮钦语；重造论认为儿童在习得过程中依据普遍语法重新创造了语法，比克顿的语言生物程序假说即属此类；底层论则强调非洲语言的语法遗留，如海地克里奥尔语中源自丰语的体貌标记。此外还有不完整习得说与渐变模型等竞争性观点。"
+     ],
+     "pEn": [
+      "Three main explanations of creole origins have been proposed. The monogenesis hypothesis traces them to a single seventeenth-century Atlantic pidgin. The recreation view holds that children rebuilt the grammar from scratch under universal constraints, as in Bickerton's Language Bioprogram Hypothesis. The substrate view stresses grammatical survivals from African languages, such as tense-aspect markers in Haitian Creole that resemble Fongbe patterns. Incomplete second-language acquisition and gradualist models offer further accounts."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates",
+     "p": [
+      "批评者指出，皮钦语与克里奥尔语的界限并不像二分法那样清晰，许多变体处于连续统之中，如牙买加从克里奥尔语到标准英语的连续体。把克里奥尔语视为简化或不完整语言的观点带有殖民时代偏见，实际上其语法同样系统严密。去克里奥尔化、克里奥尔语连续统与语言态度相互交织，研究者必须结合社会历史条件加以解释。"
+     ],
+     "pEn": [
+      "Critics note that the pidgin-creole divide is less clear-cut than the dichotomy suggests, since many varieties form a continuum, as in Jamaica between the creole and standard English. Treating creoles as simplified or defective languages reflects colonial-era prejudice, whereas their grammars are as systematic as any other. Decreolisation, the creole continuum and speakers' attitudes are intertwined, so any explanation must take social and historical conditions into account."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "皮钦语", "tEn": "Pidgin", "d": "没有母语者的接触辅助语，词汇与形态大幅简化，只用于跨群体的有限交际。", "dEn": "A contact variety with no native speakers, a reduced lexicon and a restricted grammar."},
+    {"t": "克里奥尔语", "tEn": "Creole", "d": "由皮钦语经儿童母语习得而稳定下来、具备完整语法与母语者群体的语言。", "dEn": "A nativised contact language with a full grammar and a community of native speakers."},
+    {"t": "克里奥尔化", "tEn": "Creolisation", "d": "皮钦语被下一代作为母语习得、语法与词汇随之扩展并稳定下来的过程。", "dEn": "The process by which a pidgin becomes a native language with an expanded grammar."},
+    {"t": "去克里奥尔化", "tEn": "Decreolisation", "d": "克里奥尔语在持续接触中逐渐向词汇来源语靠拢、失去自身特征的演变。", "dEn": "The drift of a creole back towards its lexifier through continued contact."},
+    {"t": "上层语言", "tEn": "Superstrate", "d": "语言接触中处于支配地位、为混合语提供大部分词汇的语言，又称词汇来源语。", "dEn": "The dominant contact language that supplies most of the lexicon, also called the lexifier."},
+    {"t": "底层语言", "tEn": "Substrate", "d": "在语言接触中让位、但仍影响混合语语法与语音的原有母语。", "dEn": "The displaced language whose grammar and phonology still influence the contact variety."},
+    {"t": "通用语", "tEn": "Lingua franca", "d": "母语不同的人之间共同使用的交际语言，如历史上的地中海混合语。", "dEn": "A language used for communication between speakers of different mother tongues."}
+   ],
+   "related": ["language-contact", "code-switching", "bilingualism", "sociolinguistics", "loanword"],
+   "sources": [
+    "Wikipedia, \"Pidgin\", https://en.wikipedia.org/wiki/Pidgin",
+    "Wikipedia, \"Creole language\", https://en.wikipedia.org/wiki/Creole_language",
+    "Hymes, Pidginization and Creolization of Languages, 1971",
+    "Bickerton, Roots of Language, 1981"
+   ]
+  },
+  {
+   "id": "language-endangerment",
+   "title": "语言濒危与语言消亡",
+   "en": "Language Endangerment and Language Death",
+   "category": "concepts",
+   "tags": [
+    "语言转用",
+    "代际传承",
+    "濒危语言",
+    "语言复兴",
+    "语言记录"
+   ],
+   "summary": "语言濒危与语言消亡指语言因使用者减少、代际传承中断而走向衰落乃至彻底消失的过程。当儿童不再把某语言作为母语学习，该语言便进入濒危状态；最后一位母语者去世后即为语言消亡，如埃雅克语与曼岛语的命运。语言消亡常伴随地方知识体系与文化认同的损失，因此语言记录、复兴实践与政策干预成为当代语言学的重要课题。",
+   "summaryEn": "Language endangerment and language death describe the decline of a language as its speakers shift away and intergenerational transmission breaks down. A language becomes endangered once children stop acquiring it as a mother tongue, and it is dead when its last native speaker dies, as happened with Eyak and Manx. The loss usually carries away local knowledge and cultural identity, which makes documentation, revitalisation and policy intervention urgent tasks for linguistics.",
+   "sections": [
+    {
+     "h": "定义与分级",
+     "hEn": "Definition and Classification",
+     "p": [
+      "语言濒危指某语言的使用者人数持续下降、使用域不断收缩，代际传承出现断裂。衡量濒危程度的关键不是人口总数，而是儿童是否仍在家庭中自然习得该语言。克劳斯把语言分为安全、濒危、垂危与消亡四级；菲什曼的代际传承失调量表进一步把复兴的可能性与代际使用状况联系起来。联合国教科文组织的《世界濒危语言地图》按活力程度划分六个等级，从安全到已灭绝。"
+     ],
+     "pEn": [
+      "Language endangerment refers to a steady decline in the number of speakers, a shrinking range of domains, and a breakdown in transmission from one generation to the next. The decisive measure is not the size of the population but whether children still acquire the language naturally at home. Krauss distinguished safe, endangered, moribund and extinct languages, while Fishman's Graded Intergenerational Disruption Scale tied the prospects for revival to intergenerational use. UNESCO's Atlas of the World's Languages in Danger grades vitality on a six-point scale from safe to extinct."
+     ]
+    },
+    {
+     "h": "成因",
+     "hEn": "Causes",
+     "p": [
+      "濒危的直接机制是语言转用，即说话人集体改用另一门更有权势的语言。其背后常有多重压力：政治上的同化政策与语言禁令，经济上对主流语言的就业回报，教育系统只使用官方语言，以及婚姻与城市迁移造成的交际环境改变。二十世纪不少寄宿学校禁止原住民儿童使用母语，直接切断了代际传承。灾害、疾病与战争也会在小语种社区造成急剧的语言丧失。"
+     ],
+     "pEn": [
+      "The immediate mechanism is language shift, in which a community collectively adopts a more powerful language. Behind it lie multiple pressures: assimilationist policies and outright bans, the economic returns of the dominant language, schooling conducted only in an official tongue, and changing marriage and migration patterns in cities. Residential schools that punished indigenous children for speaking their own languages severed transmission directly in many parts of the world during the twentieth century. Disasters, epidemics and war can also cause abrupt loss in small communities."
+     ]
+    },
+    {
+     "h": "消亡类型与语言实例",
+     "hEn": "Types and Examples",
+     "p": [
+      "语言消亡可分为渐变消亡与突变消亡。渐变消亡源于长期的语言转用，如康沃尔语在十八世纪末失去最后一批日常使用者，曼岛语的内德·马德雷尔于一九七四年去世标志其母语传承终结。突变消亡则由殖民暴力或灾害导致，如塔斯马尼亚诸语言在数十年内彻底消失。最后一位母语者的去世被称为语言死亡，但该语言仍可能以第二语言、礼仪用语或复兴对象的形式存续。"
+     ],
+     "pEn": [
+      "Language death may be gradual or sudden. Gradual death follows prolonged shift, as with Cornish, which lost its last everyday speakers around the end of the eighteenth century, and Manx, whose last native speaker, Ned Maddrell, died in 1974. Sudden death results from colonial violence or catastrophe, as with the Tasmanian languages, which vanished within decades. The passing of the last native speaker marks the death of a language, yet it may survive as a second language, a liturgical medium or an object of revival."
+     ]
+    },
+    {
+     "h": "记录与复兴",
+     "hEn": "Documentation and Revitalisation",
+     "p": [
+      "面对濒危，语言学家的工作包括田野记录、音档建设与语法词典编纂，同时协助社区开展教学与媒体使用。记录伦理要求研究者与社区共同决定资料的归属与使用方式。复兴措施涵盖沉浸式学校、成人课程与官方地位提升，如新西兰的毛利语语言巢与夏威夷的普纳纳利奥学校。判断复兴成效通常看家庭内是否恢复使用，而不仅是课堂人数或考试分数。"
+     ],
+     "pEn": [
+      "Responses to endangerment include fieldwork documentation, archival recordings and grammar or dictionary writing, together with support for community teaching and media use. Ethical documentation requires researchers and communities to decide jointly how materials are owned and used. Revitalisation measures range from immersion schooling and adult classes to official status, as with Maori language nests in New Zealand and the Punana Leo schools in Hawaii. Success is usually judged by whether the language returns to the home rather than by enrolment figures alone."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates",
+     "p": [
+      "学界对濒危框架本身也有反思。有批评者指出，把语言比作需要抢救的物种可能忽视社区自身的能动性与多语并存的价值，也容易把说话人刻画为被动的受害者。另一些研究强调，语言转用有时是社区追求现代性与社会流动的理性选择，因此干预须尊重社区意愿。记录与复兴的目标并不总是一致，档案对学术的价值与对社区认同的价值需要分别评估。"
+     ],
+     "pEn": [
+      "The endangerment framework itself has been questioned. Critics argue that likening languages to endangered species in need of rescue can obscure community agency and the value of stable multilingualism, and may portray speakers as passive victims. Other scholars stress that shift is sometimes a reasoned response to aspirations for modernity and mobility, so intervention should follow community wishes. Documentation and revitalisation also serve different ends: the value of an archive for scholarship and its value for community identity must be assessed separately."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "语言濒危", "tEn": "Language endangerment", "d": "语言使用域收缩、使用者减少、代际传承中断而面临消失风险的状况。", "dEn": "The condition of a language whose domains are shrinking and transmission is breaking down."},
+    {"t": "语言消亡", "tEn": "Language death", "d": "一门语言失去全部母语者、不再作为活语言在社区中使用的过程。", "dEn": "The loss of all native speakers so that a language is no longer living."},
+    {"t": "语言转用", "tEn": "Language shift", "d": "一个言语社区集体放弃原有语言、改用另一门更有权势语言的过程。", "dEn": "A community's collective replacement of its own language with a more powerful one."},
+    {"t": "代际传承", "tEn": "Intergenerational transmission", "d": "父母在日常互动中把语言自然地传给子女并为其所习得的过程。", "dEn": "The passing of a language from parents to children in natural acquisition."},
+    {"t": "语言复兴", "tEn": "Language revitalisation", "d": "通过政策、教育与社区行动恢复语言的使用与代际传承的努力。", "dEn": "Efforts to restore the use and transmission of a language through policy and education."},
+    {"t": "语言记录", "tEn": "Language documentation", "d": "对语言进行录音、转写、标注与分析并建立长期档案的工作。", "dEn": "Systematic recording, transcription and analysis of a language for posterity."}
+   ],
+   "related": ["fieldwork", "sociolinguistics", "language-contact", "standard-language", "language-ideology"],
+   "sources": [
+    "Wikipedia, \"Endangered language\", https://en.wikipedia.org/wiki/Endangered_language",
+    "Wikipedia, \"Language death\", https://en.wikipedia.org/wiki/Language_death",
+    "Fishman, Reversing Language Shift, 1991",
+    "Crystal, Language Death, 2000",
+    "UNESCO, Atlas of the World's Languages in Danger, 2010"
+   ]
+  },
+  {
+   "id": "language-ideology",
+   "title": "语言意识形态",
+   "en": "Language Ideology",
+   "category": "concepts",
+   "tags": [
+    "语言态度",
+    "标准语",
+    "语言纯粹主义",
+    "语言政策",
+    "元语用"
+   ],
+   "summary": "语言意识形态指说话人对语言形式、语言使用与语言差异所持有的、往往不自觉的信念与价值判断体系。它把语言结构与说话人的社会身份、道德评价联系起来，例如认为某种口音更聪明或更粗鲁，或认定书面标准语才是真正的语言。西尔弗斯坦、伍拉德与希费林等学者将其确立为社会语言学的核心概念，用以解释标准化、语言纯粹主义与语言政策背后的权力关系。",
+   "summaryEn": "Language ideology refers to the often unconscious beliefs and value judgements that speakers hold about linguistic forms, usage and variation. It links linguistic structure to social identity and moral evaluation, as when a particular accent is heard as intelligent or crude, or when a written standard is taken to be the real language. Silverstein, Woolard and Schieffelin established it as a central sociolinguistic concept for explaining standardisation, purism and the power relations behind language policy.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "语言意识形态是关于语言的一整套共享信念与情感态度，它规定什么样的语言算得体、正确、优美，也规定谁有资格说话。它不同于个人对语言的零散意见，而是具有社会共享性与历史延续性的框架，并通过日常互动不断再生产。西尔弗斯坦把它界定为使用者对语言结构及其使用的元语用观念，强调意识形态不是附着在语言之上的装饰，而是参与构成语言事实本身。"
+     ],
+     "pEn": [
+      "Language ideology is a shared body of beliefs and affective attitudes about language. It defines what counts as appropriate, correct or beautiful speech, and who is entitled to speak. Unlike an individual's scattered opinions, it is socially shared and historically durable, and it is continuously reproduced through everyday interaction. Silverstein defined it as speakers' metapragmatic conceptions of linguistic structure and use, insisting that ideology is not decoration attached to language but part of what constitutes linguistic facts themselves."
+     ]
+    },
+    {
+     "h": "核心议题与研究来源",
+     "hEn": "Core Issues and Sources",
+     "p": [
+      "该概念源于博厄斯与萨丕尔以来的语言人类学传统，并在二十世纪九十年代由伍拉德与希费林系统化。研究议题包括：语言如何被用来划分社会群体，标准语与方言的等级如何建立，纯粹主义与语言崇拜如何运作，以及多语社会中的语言选择如何体现身份与权力。欧文与加尔提出三个符号过程：图像化，即把语言差异读作社会性格的表征；递归性，即把某一层级的对立投射到其他层级；抹除，即让不合意的差异不可见。"
+     ],
+     "pEn": [
+      "The concept grew out of the linguistic anthropology of Boas and Sapir and was codified by Woolard and Schieffelin in the 1990s. Its topics include how language demarcates social groups, how the hierarchy of standard and vernacular is built, how purism and language worship operate, and how language choice in multilingual settings encodes identity and power. Irvine and Gal proposed three semiotic processes: iconisation, which turns a linguistic difference into an image of social character; fractal recursivity, which projects a contrast onto other levels; and erasure, which makes inconvenient distinctions invisible."
+     ]
+    },
+    {
+     "h": "典型示例",
+     "hEn": "Examples",
+     "p": [
+      "标准语意识形态认为存在唯一正确、优美的语言形式，其他变体都是缺陷，如英语世界对 ain't 或双重否定的污名化。语言纯粹主义要求排除外来成分，例如法国曾抵制 email 并推广 courriel。汉语语境中，关于方言土气与普通话标准的评价常与地域身份和城乡差异交织。希尔对美国西班牙语借词的研究发现，说话人用 mock Spanish 制造幽默的同时把西班牙语使用者刻板化。"
+     ],
+     "pEn": [
+      "Standard language ideology holds that one variety is uniquely correct and elegant while others are deficient, as in the stigma attached to ain't or double negation in English. Purism demands the exclusion of foreign elements, as when French authorities resisted email and promoted courriel. In Chinese contexts, judgements that fangyan are rustic while Putonghua is standard are entangled with regional and urban-rural identities. Jane Hill showed that English speakers' mock Spanish creates humour while stereotyping Spanish speakers."
+     ]
+    },
+    {
+     "h": "与语言政策的关系",
+     "hEn": "Relation to Language Policy",
+     "p": [
+      "语言意识形态直接影响政策的制定与实施，包括哪一种变体被选为标准语、学校使用何种教学语言、少数语言是否被承认为官方语言。例如坦桑尼亚以斯瓦希里语为教学语言的选择，与殖民时期英语支配的意识形态形成张力。语言态度调查常通过配对变语实验测量，兰伯特的研究表明听者会根据口音迅速推断说话人的智力与可信度，这种判断往往与真实语言能力无关。"
+     ],
+     "pEn": [
+      "Language ideology shapes both the making and the implementation of policy: which variety is selected as standard, which language of instruction schools use, and whether minority languages gain official recognition. Tanzania's choice of Swahili as a medium of instruction, for instance, sits in tension with the colonial-era prestige of English. Language attitudes are often measured with the matched-guise technique; Lambert's experiments showed that listeners infer a speaker's intelligence and trustworthiness from accent within seconds, and that such judgements are largely independent of actual linguistic ability."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates",
+     "p": [
+      "批评者指出，语言意识形态这一概念容易泛化，把一切与语言相关的观念都纳入其中，从而失去分析力。也有学者质疑研究者能否真正超越自身的意识形态立场，因为看似客观的描述本身也可能强化标准语的权威。更多研究主张采用民族志方法，长期观察社区内部的语言实践与元语用评论，只有把说话人的评价放回具体情境，才能理解语言意识形态如何运作。"
+     ],
+     "pEn": [
+      "Critics contend that the concept can become so broad as to lose analytic force, absorbing every belief about language. Others question whether researchers can transcend their own ideological positions, since even a neutral description may reinforce the authority of the standard. Many now argue for ethnographic methods that track metapragmatic commentary within communities over time: only by returning speakers' evaluations to their concrete situations can we understand how language ideology works."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "语言意识形态", "tEn": "Language ideology", "d": "关于语言形式与语言使用的一整套共享信念、情感与价值判断体系。", "dEn": "Shared beliefs and value judgements about linguistic forms and their use."},
+    {"t": "标准语意识形态", "tEn": "Standard language ideology", "d": "认为只有一种变体正确而优美、其他变体皆有缺陷并应被贬低的观念。", "dEn": "The belief that one variety alone is correct and superior to all others."},
+    {"t": "语言纯粹主义", "tEn": "Linguistic purism", "d": "主张排除外来成分或所谓不纯成分、维护语言纯洁性的态度。", "dEn": "The stance that foreign or supposedly impure elements should be excluded."},
+    {"t": "元语用", "tEn": "Metapragmatics", "d": "说话人对语言使用本身所作的评论、意识与反思，是意识形态的载体。", "dEn": "Speakers' explicit commentary on, and awareness of, language use itself."},
+    {"t": "图像化", "tEn": "Iconisation", "d": "把语言差异解读为说话人社会性格与道德品质表征的符号过程。", "dEn": "The semiotic process that reads linguistic difference as social character."},
+    {"t": "抹除", "tEn": "Erasure", "d": "使不符合既有意识形态的语言差异与多样性变得不可见的过程。", "dEn": "The process that renders ideologically inconvenient distinctions invisible and unremarkable."},
+    {"t": "配对变语实验", "tEn": "Matched-guise technique", "d": "由同一人用不同口音或语言朗读同一材料以测量听者态度的实验。", "dEn": "An experiment in which one speaker uses different accents to measure listeners' attitudes."}
+   ],
+   "related": ["sociolinguistics", "standard-language", "language-endangerment", "diglossia", "dialect"],
+   "sources": [
+    "Wikipedia, \"Language ideology\", https://en.wikipedia.org/wiki/Language_ideology",
+    "Wikipedia, \"Linguistic purism\", https://en.wikipedia.org/wiki/Linguistic_purism",
+    "Silverstein, Language Structure and Linguistic Ideology, 1979",
+    "Woolard & Schieffelin, Language Ideology, Annual Review of Anthropology, 1994",
+    "Lippi-Green, English with an Accent, 1997"
+   ]
+  }
+ ]
+}

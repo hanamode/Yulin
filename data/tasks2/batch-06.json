@@ -1,0 +1,24 @@
+{
+ "batch": 6,
+ "out": "data/gen2/batch-06.json",
+ "entries": [
+  {
+   "id": "syntagmatic-paradigmatic",
+   "title": "组合关系与聚合关系",
+   "en": "Syntagmatic and Paradigmatic Relations",
+   "category": "concepts"
+  },
+  {
+   "id": "arbitrariness",
+   "title": "任意性",
+   "en": "Arbitrariness",
+   "category": "concepts"
+  },
+  {
+   "id": "iconicity",
+   "title": "象似性",
+   "en": "Iconicity",
+   "category": "concepts"
+  }
+ ]
+}

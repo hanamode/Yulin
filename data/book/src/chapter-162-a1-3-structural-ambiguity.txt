@@ -1,0 +1,34 @@
+# A1.4 Structural Ambiguity
+
+Note: This is adapted from Section 6.17
+When we talked about morphology, we saw a first example of structural ambiguity in Section 5.9: cases where the same string of morphemes can have more than one structure, with each structure corresponding to a different
+interpretation.
+The same thing is found in syntax. Consider the following example:
+
+[表格]
+| | | (1) | | | | I saw someone with a telescope. | | |
+
+This has two possible interpretations:
+- I was using a telescope, and I saw someone. (PP modifies VP)
+- I saw someone, and that person had a telescope. (PP modifies NP)
+
+When a sentence is restated with a new wording, it is called a paraphrase. You may be asked to provide paraphrases of the two meanings of an ambiguous sentence and draw the trees that represent the two meanings an a linguistics assignment or test. If you are asked to do this, make sure your paraphrases aren’t also ambiguous, and make sure you draw a tree of the original sentence, not your paraphrase.
+In the first interpretation, the prepositional phrase [PP with a telescope] modifies the verb phrase headed by saw. In the second interpretation, the same prepositional phrase modifies the noun phrase someone. These two structures are illustrated below:
+
+[图片：I-saw-someone-with-a-telescope-VP-attachment-300x208.png]
+
+Figure A1.11: Tree diagram showing [PP with a telescope] as a modifier of the verb, meaning “I used a telescope to see someone”.
+
+[图片：I-saw-someone-with-a-telescope-NP-attachment-300x245.png]
+
+Figure A1.12: Tree diagram showing [PP with a telescope] as a modifier of the NP object, meaning “I saw a person and that person had a telescope”
+The same will be true for other cases of structural ambiguity—each meaning will correspond to a different potential tree structure.
+We can use the principle of modification, repeated in (2), to decide how to draw structurally ambiguous sentences.
+
+[表格]
+| | | (2) | | | Principle of Modification | | | | | | | If an XP modifies a head Y, then XP must be Y’s sister, or, in other words, XP must be the daughter of YP | | |
+
+If we apply this to the sentence in (1), we may notice that with a telescope can modify either the verb saw or the noun someone. If it modifies the verb saw, it will have the meaning that the act of seeing was done using a telescope and the PP will be sister to the verb, as shown in Figure A1.11. On the other hand, if the PP modifies the noun someone, it will have the meaning that the someone has the telescope and the PP will be sister to the noun, as shown in Figure A1.12.
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3176#h5p-134

@@ -1,0 +1,138 @@
+# 6.8 Main clause content questions
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1499#oembed-1
+
+## From Yes-No questions to content questions
+
+Until now we’ve only talked about Yes-No questions—questions that can be answered by saying “yes” or “no” in a language like English.
+
+[表格]
+| | | (1) | | | | | Is it snowing? | | | (Main clause Yes-No question) | | |
+
+[表格]
+| | | (2) | | | | | They asked | if it’s snowing | . | | | (Embedded Yes-No question) | | |
+
+Not all languages have words corresponding to “yes” and “no”! In many languages, the way you answer a Yes/No–question is by repeating the verb with or without negation. For example to answer Is it raining? you could say Is. or Isn’t. This is the case in Mandarin, for example, as well as in Irish.
+If you know a language other than English, ask yourself how you would answer a Yes/No-question. Would you use a word like “yes” or “no”, would you repeat the verb, or would you do something else?
+Yes-No questions like these just ask whether something is or is not the case. But we can ask more complex questions, asking for specific information about part of a sentence. For example, in (3) we ask about the time something took place, and in (4) we ask about the location.
+
+[表格]
+| | | (3) | | | | | When | was it snowing?. | | (asking about | time | ) | | |
+
+[表格]
+| | | (4) | | | | | Where | is it snowing? | | (asking about | location | ) | | |
+
+These are content questions. In English they are often called WH-questions because they involve question words that start with the letters “wh” (who, what, where, when, why, which… and how, which doesn’t start with “wh” but does contain both those letters). These words are traditionally labelled interrogative pronouns, but in this chapter we will simply call them content question words. In linguistics the label “WH-questions” is often generalized to other languages, but in this textbook we will stick to “content questions” since the relevant words don’t start with “WH” in other languages.
+
+In many languages content question words do tend to start with some of the same sounds. For example, in French many (though not all) of these words begin with “qu-” (pronounced [k] or [kw]):
+- qui (who)
+- quoi (what)
+- quand (when)
+- quelle (which)
+
+And in Anishinaabemowin many content question words start with [a] or [aa], though in some varieties the short vowel [a] is no longer pronounced in these words (so “who” is wenen and “what” is wegonen).
+- awenen (who)
+- awegonen (what)
+- aanapii (when)
+- aaniin (how, why, in what way)
+- aandi (where)
+
+Whether or not a language has a group of question words that start with the same sound, all languages have ways of asking content questions, just like all languages have ways of asking Yes-No questions.
+Unlike Yes-No questions, the answer to a content question would be a word or phrase corresponding to the question word that was used. If someone asks:
+
+[表格]
+| | | (5) | | | | Who were you talking to? | | |
+
+It wouldn’t make any sense to answer with yes or no. Instead the answer would be a noun phrase like “my friend” or “the person over there” or “U’ilani”, or a full sentence (“I was talking to my friend / the person over there / U’ilani.”)
+Just like Yes-No questions, content questions in English involve a change in word order from what we find in corresponding statements.
+Consider the following very short dialogue:
+
+[表格]
+| | | (6) | | A: | | That squirrel has hidden | something | . | | | | | | B: | | | What | has the squirrel hidden? | | |
+
+By asking the question with what, Person B is asking for more information about the something Person A mentioned. But even though this question is about the object of the verb hide, the question word what appears at the very beginning of the clause.
+We find the same thing with all content questions in English: no matter where the phrase we’re asking about would show up in a statement, the content question word has to go at the beginning of the sentence. As (7b), (8b), and (9b) show, in my English it’s not possible to ask a regular content question where you leave the content question word (where, when, or what) in the same position as the corresponding word or phrase in the statement—though these are fine as echo questions, which are discussed briefly below.
+
+[表格]
+| | | (7) | | | | | Where | is it snowing? | | | | | | a. | | It’s snowing | in | Ottawa | . | | | | | | | b. | | *It’s snowing where? | | |
+
+[表格]
+| | | (8) | | | | | When | was it snowing? | | | | | | a. | | It was snowing | yesterday | . | | | | | | b. | | *It was snowing when? | | |
+
+[表格]
+| | | (9) | | | | | How | do squirrels hide nuts. | | | | | | a. | | Squirrels hide nuts | by burying them | . | | | | | | b. | | *Squirrels hide nuts how? | | |
+
+All the grammatical main clause content questions we’ve seen here also involve Subject-Aux Inversion, just like Yes-No questions do. We can see this because the auxiliary is before the subject in all the grammatical content questions.
+But Subject-Aux inversion isn’t the only change in word order, we also need to state a generalization about the position of the question word itself. We will formalize the generalization in Section 6.19 in the context of movement within syntactic tree structures, but for now we can state the following generalization. Question Word Fronting A content question word (e.g. who, what, where, when, why, how), or a phrase headed by a content question word, must appear at the beginning of the clause.
+
+Echo Questions
+When a content question word shows up in the same position in questions that a corresponding phrase would have appeared in a non-question, we say that the question word has stayed in-situ (=“in place”). In many languages, this is the normal way to form content questions—there’s no word order change of the type we see in English. In English, in-situ content questions aren’t the default—that is, most people wouldn’t use them when genuinely looking for information. This is why they’re marked ungrammatical in the examples above.
+However, in-situ questions can be used in some contexts in English to ask what are called echo questions. When you didn’t quite hear what someone said, you can use an echo question to ask someone to repeat themself. In this case, you also use different intonation than in a regular content question: regular content questions have the same intonation as statements (falling towards the end), while echo questions require the same intonation as Yes-No questions (with a rise towards the end).
+So we would have a regular content question like Where is it snowing?, a Yes-No question like Is it snowing?, and an echo question It’s snowing where?—you can listen to the different intonation patterns of these sentences in the video version of this section.
+
+## Variation across languages: Questions
+
+Depending on what other languages you know, you may already have been thinking in previous sections about the fact that not all languages have Subject-Aux Inversion in questions, and now you might also notice that not all languages have Question Word Fronting. There are a variety of question-marking strategies in different languages, and in this section we review some of the most common ones.
+Many languages use a fixed question word to mark Yes-No questions, sometimes called a question particle. For example, one of the more common ways to form a Yes-No question in French is to add est-ce que to the beginning of the sentence:
+
+[表格]
+| | | (10) | | | | Nous | | avons | | trouvé | | les | | fantômes. | | | | | | | | we | | have | | found | | the | | ghosts. | | | | | | | | “We have found the ghosts.” | | |
+
+[表格]
+| | | (11) | | | | Est-ce que | | vous | | avez | | trouvé | | les | | fantômes? | | | | | | | | | +Q | | | you.PL | | have | | found | | the | | ghosts. | | | | | | | | “Have y’all found the ghosts?” | | |
+
+The particle est-ce que looks like multiple words, and historically it does come from a phrase meaning something like “is it that”, but in contemporary French it acts like a single word, which we could hypothetically think of being spelled “eska”.
+French has another way of forming questions that does involve Subject-Aux Inversion. Alongside the examples above, you can also say:
+
+[表格]
+| | | (12) | | | | Avez-vous | | trouvé | | les | | fantômes. | | | | | | | | have-you.PL | | found | | the | | ghosts. | | | | | | | | “Have y’all found the ghosts?” | | |
+
+This way of forming questions is somewhat old-fashioned for many current speakers of French, especially when speaking instead of writing. The more common strategy today is to use a question particle like est-ce que—or to just use question intonation.
+We can treat est-ce que as a [+Q] complementizer that occurs in main clauses—exactly as though we marked questions in English by just adding whether or if to the beginning of the sentence.
+Japanese also forms questions by adding a question particle, but because Japanese is head-final, the particle appears at the end of the sentence:
+
+[表格]
+| | | (13) | | | | Gakusei-wa | | yuurei-o | | mitsuke-ta. | | | | | | | | Student-TOPIC | | ghost-ACC | | find-PAST | | | | | | | | “The student found the ghost.” | | |
+
+[表格]
+| | | (14) | | | | Gakusei-wa | | yuurei-o | | mitsuke-ta | | | ka | | | | | | | | | Student-TOPIC | | ghost-ACC | | find-PAST | | | +Q | | | | | | | | | “Did the student find the ghost?” | | |
+
+Similarly, one way to form Yes-No questions in Mandarin is to use the particle ma (the Mandarin examples here are from Liing 2014).
+
+[表格]
+| | | (15) | | | | wàimiàn | | zài | | xià | | yǔ | | | | | | | | outside | | PROG | | fall | | rain | | | | | | | | “It’s raining outside.” | | |
+
+[表格]
+| | | (16) | | | | wàimiàn | | zài | | xià | | yǔ | | | ma | | | | | | | | | outside | | PROG | | fall | | rain | | | +Q | | | | | | | | | “Is it raining outside?” | | |
+
+We should note, though, that the analysis of Yes-No Questions in Mandarin is a little bit more complicated than the analysis of these questions in Japanese or French. First of all, the particle appears at the end of the sentence in Mandarin, like in Japanese, even though Mandarin is otherwise head-initial, like English and French. Second, there are several other ways to ask Yes-No questions in Mandarin, which are just as common (if not more common) than adding the particle ma.
+Overall, it is very common for languages to form questions by adding a particle to the beginning or end of a sentence—but it is also very common to form questions by changing the position of a verb or auxiliary, like we see in English.
+It’s tempting to think of question particles as being like the English auxiliary do, but remember that do only shows up in English when there’s no other auxiliary. The question particle in a language like French, Japanese, or Mandarin is more like the English complementizers if or whether, except found in main clauses instead of only in embedded clauses.
+Just as not all languages have Subject-Aux Inversion in questions, not all languages exhibit Question Word Fronting. If a language doesn’t have Question Word Fronting, it usually leaves content question words in-situ.
+Japanese, for example, is a language with in-situ content questions. Question words like nani (“what”) are pronounced in the same place as the corresponding non-question arguments are.
+
+[表格]
+| | | (17) | | | | Usagi-wa | | nani-o | | tabe-ru | | ka | | | | | | | | rabbit-TOPIC | | what-ACC | | eat-PRES | | +Q | | | | | | | | “What do rabbits eat?” | | |
+
+[表格]
+| | | (18) | | | | Usagi-wa | | yasai-o | | tabe-ru | | | | | | | | rabbit-TOPIC | | vegetable-ACC | | eat-PRES | | | | | | | | “Rabbits eat vegetables.” | | |
+
+The key point to notice in these generalizations is that the word order in (17) and (18) is the same, even though (17) is a content question and (18) is the corresponding statement. Both have a different word order than the English translation, partly because Japanese is head-final (so the verb comes at the end) and partly because the word nani-o stays in-situ.
+The question particle ka also appears in this content question, just like it does in Yes-No questions in Japanese, as we saw above. (In French and Mandarin, the question particles est-ce que and ma do not occur in content questions.)
+
+## Summary
+
+In this section we’ve seen that not all questions can be answered by “yes” or “no”. In English, main clause content questions are marked syntactically in two ways: (i) just like with Yes-No questions, Subject-Aux Inversion must reverse the order of the subject and auxiliary, and (ii) the content question word (who, what, where, when, why, or how) must appear at the beginning of the sentence.
+While some other languages mark questions in the same way English does, there are other patterns as well. It’s very common for Yes-No questions to be marked by a question particle—we saw examples involving French est-ce que, Japanese ka, and Mandarin ma. For content questions, many languages leave content question words in situ, so that statements and questions have the same basic word order, as we saw for Japanese. Other patterns are possible, but these are some of the most common ones.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.7 Main clause Yes-No questions and the next section is 6.9 Embedded content questions.
+
+## References
+
+Liing, Woan-Jen. 2014. How to ask questions in Mandarin Chinese. Doctoral Dissertation, CUNY.

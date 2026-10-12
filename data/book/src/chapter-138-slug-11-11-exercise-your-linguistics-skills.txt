@@ -1,0 +1,25 @@
+# 11.11 Exercise your linguistics skills
+
+Exercise 1. Here are some examples of utterances by young children reported by Bowerman (1988).
+- Button me the rest.
+- I don’t want any more grapes. They just cough me.
+- I want to comfortable you.
+
+In each example, the child has used a word (bolded) in a way that is unusual when compared to adult English grammar. For each example, describe the word’s category and/or subcategory in adult grammar, then compare how the child’s use of the word differs.
+
+Exercise 2. Ambridge et al. (2006) conducted an elicitation experiment to observe preschool children’s production of wh-questions. Here’s an example of what the researcher said to the child:
+- Mickey and Minnie are drinking something.
+- I wonder what they are drinking.
+- Ask the dog what they are drinking.
+
+The children often responded with an adult-like sentence, such as, “What are they drinking?”. But they sometimes made errors like these ones:
+- What they are drinking?
+- What are they are drinking?
+
+Draw a tree diagram to represent the adult version of the question. Then compare the children’s errors to it. How do the children’s grammars, as evidenced by their errors, differ from the adult grammar?
+Exercise 3. Imagine your cousin’s young child starts kindergarten at age 3;10. Before starting kindergarten, the child has spent half-days in an English-language daycare, and the rest of their time at home with their parents and grandparents, where the adults most often speak Farsi. At the first parent-teacher interview, the teacher points out that your cousin is behind the other children on some of the typical milestones, and advises the parents to start speaking English at home. What power structures are at play in this advice? What biases does the teacher have? What advice could you give to your cousin, informed by what you know about language acquisition and about power and privilege?
+
+## References
+
+Ambridge, B., Rowland, C. F., Theakston, A. L., & Tomasello, M. (2006). Comparing different accounts of inversion errors in childrenʼs non-subject wh-questions: ‘What experimental data can tell us?’ Journal of Child Language, 33(3), 519–557.
+Bowerman, M. (1988). The “No Negative Evidence” Problem: How do Children Avoid Constructing an Overly General Grammar? In J. A. Hawkins (Ed.), Explaining language universals (pp. 73–101). Blackwell.

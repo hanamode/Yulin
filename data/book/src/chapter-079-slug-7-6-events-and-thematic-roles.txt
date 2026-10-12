@@ -1,0 +1,139 @@
+# 7.6 Events and thematic roles
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=819#oembed-1
+So far in this chapter, we have discussed how there are different types of meaning, and how there are different theories about how lexical meaning works in our minds. In this section, we begin to explore various linguistic phenomena that highlight our semantic competence as language users. The way to think about meaning like a linguist is to look for semantic patterns. Here are some questions we will answer in analysing linguistic meaning:
+- Why is this combination of words well-formed, and why is that combination of words ill-formed? What does this tell me about the lexical semantics of this word? What other words behave this way? (e.g., I drank the water sounds OK, but I drank the ice does not; this tells us that drink requires its object argument to be liquid)
+- What semantic categories are there in language? What semantic classes of verbs are there? What semantic classes of nouns are there? What semantic classes of adjectives are there?
+- What types of information is linguistic meaning generally sensitive to?
+- In what ways do different languages vary in their semantic parameters?
+
+To make Question 2 easier to keep track of, the upcoming sections are organised by syntactic categories. This section (7.6) will focus on verbs, 7.7 will focus on nouns, and 7.8 and 7.9 will focus on adjectives.
+
+How to be a linguist: Meaning and unacceptability
+
+We have seen already that the asterisk symbol * indicates that a linguistic expression is descriptively ill-formed (ungrammatical). For example, the following sentence is ungrammatical in English:
+
+(1) *Karen made scarf the.
+
+The ungrammaticality of (1) is clearly due to the order of the DP the scarf: since English is a head-initial language, the determiner must precede the noun phrase. This syntactic rule is violated in (1), therefore it is descriptively unacceptable.
+When the descriptive badness has to do with the meaning (rather than the syntax like in (1)), linguists sometimes use the hashtag/pound symbol #, like in (2).
+
+(2) (Context: Mako danced a tango (a kind of dance).)
+#Mako recited a tango.
+(Intended meaning: ‘Mako performed a tango’)
+
+(3) (Context: Tamara put her hands together quietly to meditate.)
+#Tamara clapped.
+(Intended meaning: ‘Tamara put her hands together’)
+
+(2) and (3) are both syntactically well-formed, but they are infelicitous in the given context (i.e., the sentence is syntactically OK, but it isn’t something you would utter in that particular context). The # indicates this particular kind of linguistic anomaly. Note, however, that some linguists use * more generally for all types of descriptive violations, whether it be syntactic, semantic, pragmatic, or phonological ones. You may also encounter the question mark symbol ? when the acceptability judgment is not crisp (i.e., “not crashingly bad, but not perfectly good either”).
+Sentences like (2) and (3) are useful if you are trying to figure out what a word means. To figure out what a word means, you start by forming a hypothesis based on observations. Let’s say that you observe in spoken English that you can say things like Tamara clapped if Tamara is applauding. From this, we hypothesize that clap means ‘putting one’s hands together.’ Here is the thought process: IF this hypothesis is right, THEN in any context where your hands simply come together, like the one in (3), you should be able to use the verb clap. So we test this hypothesis: in a context like clap, can you say Tamara clapped? I think many English speakers would say no: this is infelicitous in this context (hence the pound sign). This little experiment suggests that our hypothesis was wrong, and that clap means something more than just putting your hands together. What do you think is an additional required condition for something to count as clapping? (See “Check your understanding” at the end of this section for a sample answer.)
+Coming up with a hypothesis and testing it with data — now that’s thinking like a linguist! Try formulating a hypothesis about what a word means, then see if there are any counterexamples to disprove your claim. Adjust your hypothesis to account for the counterexamples. The repetition of this procedure will lead to better insight about the lexical semantics of that word!
+
+## Syntax throwback: Arguments and thematic roles
+
+In the Syntax chapter (Chapter 6), we learned that some verbs are intransitive, some are transitive, and some are ditransitive. This concerns how many arguments the verb takes. (4), (5), and (6) show an example of an intransitive verb, a transitive verb, and a ditransitive verb, respectively. The predicate is bolded, and the arguments are underlined.
+
+[表格]
+| | | (4) | | | | | Dan | | blinked | . | | | | (5) | | | | | Ida | | imitated | | Raj | . | | | | (6) | | | | | | | Cristina | | gave | | Alan | | a lab report | . | | | | |
+
+Syntax review!
+Predicate: the state, event, or activity that the sentence attributes to its subject. Can be used in two ways: (i) to refer to everything in the sentence minus the subject, or (ii) to refer to just the head verb, adjective, or noun in the “predicate” described in (i).
+Argument: the participants in the event or state described by the predicate.
+
+We tend to think of verbs when we think about predicates, but recall from 7.2 that nouns and adjectives can be used predicatively, too. In English, nouns and adjectives that are used predicatively follow the copula be.
+
+[表格]
+| | | (7) | | | | | The artist | is | happy | . | | | | (8) | | | | | Abhi | is a | student | | | |
+
+Many predicates refer to some sort of event. Events are dynamic: something is happening. The sentences in (9)-(11) describe events.
+
+[表格]
+| | | (9) | | | | | Kat built a table. | | | | | (10) | | | | | Nana ran. | | | | | (11) | | | | | Ivan put the paper in the envelope. | | | |
+
+Some predicates do not point to anything “happening”: what’s going on is much more stative (non-dynamic). (12)-(14) describe states.
+
+[表格]
+| | | (12) | | | | | Leila knew the student. | | | | | (13) | | | | | The poster hung on the wall. | | | | | (14) | | | | | The interviewer had purple hair. | | | |
+
+You can tell events apart from states because an event can be an answer to the question “What happened?” while states generally cannot. This is exemplified in (15)-(16).
+
+[表格]
+| | | (15) | | | | | A: What happened? B: { Kat built a table. / Nana ran. / Ivan put the paper in the envelope. } | | | | | (16) | | | | | A: What happened? B: { #Leila knew the student / #The poster hung on the wall. / #The interviewer had purple hair. } | | | |
+
+The umbrella term that includes both events and states is eventuality. Verbs seem to encode what kind of eventualities are involved in its meaning.
+Recall also that participants in eventualities take on various roles, depending on what the predicate is. So this means that the lexical information of verbs don’t just specify the number of arguments that it takes; it also specifies what role these arguments have. These roles are called thematic roles. Here is a list of thematic roles that were introduced in the Syntax chapter.
+- Agent: Agents are animate actors who do things on purpose.
+- Causer: Usually inanimate (not alive), cause things to happen but without acting on purpose.
+- Theme: The participant affected by the event, may be changed by the event.
+- Instrument: The thing an agent uses to accomplish an action. (Often, but not necessarily, in a with PP)
+- Location: The place where the event takes place.
+- Experiencer: An animate participant that experiences a mental state, including perceptions (see, hear, etc.)
+- Goal: The location or place that receives the theme.
+
+Language myth!
+You might have been taught that “the subject is the doer of the action, and the object is the undergoer of the action” before taking linguistics classes. This is not true! Recall from the Syntax chapter that subject and object are structural notions: subject is the TP specifier position, and the object of the verb is the verb’s complement. Remember that in passive constructions like The document was written by Hong-Yan, the subject is the document, and it’s not the “doer” at all!
+
+## Eventualities, entailments, and conjunction
+
+What do thematic roles tell us about the meaning of verbs? Consider the following sentence.
+
+[表格]
+| | | (17) | | | | | The chef lifted the egg with the spatula. | | | |
+
+There are several things that this sentence entails:
+- There was a lifting event;
+- The egg was the theme of this event;
+- The spatula was the instrument of this event;
+- The chef was the agent of this event.
+
+This entailment pattern is similar to entailments of sentences that are coordinated with the conjunction and:
+
+[表格]
+| | | (18) | | | | | The big cat stole a treat | and | the small cat meowed | | | |
+
+(18) entails:
+- The big cat stole a treat;
+- The small cat meowed.
+
+Based on this similarity, we can also analyse the lexical semantics of lift to also involve “and” (conjunction). Putting all of the observations together, we can propose that the lexical semantics of lift specifies what participants it needs in the event, and that this is expressed conjunctively. Using variables (recall Section 7.3), we can express the meaning of lift like this (this kind of semantic representation that makes reference to events can be called event semantics):
+
+[表格]
+| | | (19) | | | | There is an event | e | | | & | | | | | | | | | | e is a LIFTING event | | & | | | | | | | | | | x is the THEME of e | | & | | | | | | | | | | y is the INSTRUMENT of e | | & | | | | | | | | | | z is the AGENT of e. | | |
+
+Semantics and logic
+
+“&” is a logical symbol that expresses conjunction: it means ‘and’. You may be familiar with this symbol, since it is often used outside of mathematics, logic, and linguistics in our everyday lives. You may also encounter the symbols ∧ or • for logical conjunction; they mean the same thing as &.
+
+Remember that variables are place holders. The idea is that each argument in the sentence in (13) fills in, or saturates, these argument positions represented by the variables. Let’s assume that the argument positions get saturated in the order we see them in (15): so x gets filled in first, then y, and then z. As a reminder, the syntactic structure of this sentence looks like the structure in Figure 7.12. Let’s see what happens when the meaning of lift combines with the meaning of the arguments in this sentence. Let’s assume that the egg means whatever specific egg we are referring to in the discourse, that the spatula is also a specific spatula, and that the chef is also a specific chef that has been mentioned in the discourse already.
+
+[图片：chef-tree2-1024x698.png]
+
+Figure 7.12. The structure for the sentence The chef lifted the egg with the spatula.
+As a first step, the verb combines with its object. When the verb merges with its object the egg, the meaning of the egg would go into the x. That produces the verb phrase lifted the egg, which would have a meaning like this:
+
+[表格]
+| | | (20) | | | | There is an event | e | | | & | | | | | | | | | | e is a LIFTING event | | & | | | | | | | | | | | the egg | is the THEME of e | | & | | | | | | | | | | y is the INSTRUMENT of e | | & | | | | | | | | | | z is the AGENT of e. | | |
+
+This verb phrase then merges with the prepositional phrase with the spatula, and the meaning of the spatula will go into y:
+
+[表格]
+| | | (21) | | | | There is an event | e | | | | & | | | | | | | | | | | e is a LIFTING event | | & | | | | | | | | | | | the egg | is the THEME of e | | & | | | | | | | | | | | the spatula | is the INSTRUMENT of e | | & | | | | | | | | | | z is the AGENT of e. | | |
+
+Finally, the verb phrase lift the egg with the spatula merges with the subject DP the chef (we will ignore tense for simplicity). The meaning of the chef goes into z:
+
+[表格]
+| | | (22) | | | | There is an event | e | | | | & | | | | | | | | | | | e is a LIFTING event | | & | | | | | | | | | | | the egg | is the THEME of e | | & | | | | | | | | | | | the spatula | is the INSTRUMENT of e | | & | | | | | | | | | | | the chef | is the AGENT of e. | | |
+
+This gives us the full meaning of The chef lifted the egg with the spatula, and it gives us the entailment pattern we saw in (17), due to the conjunction that is a part of the lexical meaning of lift.
+To summarise, one way to analyse what is happening with the thematic roles of arguments in sentences is to posit that the thematic roles are specified in the basic meaning of verbs.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=819#h5p-73
+
+## References
+
+Kearns, K. (2011). Semantics. Basingstoke: Palgrave Macmillan.
+Davidson, D. (1967). The logical form of action sentences. In N. Rescher, ed. The Logic of Decision and Action. Pittsburgh, PA; University of Pittsburgh Press. 81-120.

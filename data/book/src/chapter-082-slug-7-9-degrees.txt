@@ -1,0 +1,66 @@
+# 7.9 Degrees
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=817#oembed-1
+When you describe someone as being tall, a response to that might be “How tall?” There are various ways to answer this question in English, including very tall and 6ft tall. You can also compare two people’s heights by saying one person is taller than the other. In this way, many adjectives allow for the specification of the magnitude, or degree of the property held by an individual. (1)-(3) show examples of degree-related constructions like this.
+
+[表格]
+| | | (1) | | | | | That’s a very | | | | scary | | | | story. | | | | | (2) | | | | | | It’s | | warm | | er today than yesterday. | | | | | | (3) | | | | | | That person is 6ft | tall | . | | | | |
+
+Adjectives like scary, warm, and tall are called gradable adjectives. Gradable adjectives allow for modification with the word very like in (1), and can appear in comparative constructions (2). If there is a unit of measurement for the adjective, the adjective can also often be modified with a measure phrase like 6ft for tall in (3).
+One way to analyse gradability is to posit that the lexical semantics of these adjectives have degrees as an argument. In other words, tall doesn’t just mean ‘x is tall’ (where x is the variable for the subject) — it means something like ‘x is tall to a degree d‘. Furthermore, it must be specified that this degree d lies along a scale. Think of a scale as an abstract measuring stick. Tallness is measured along a length scale, and warm is measured along a temperature scale. When you say 6ft tall, you are specifying that the degree of tallness on the scale is 6ft. When you say very tall, you are saying that this degree is considered high in that context. When you use a comparative like A is taller than B, you are saying that A and B both lie on the same scale (height in this case), and that B’s degree on this scale is higher than A’s degree on this scale.
+For something like length and temperature, the idea of scales may seem intuitive because English happens to have units of measurement for these things (e.g., cm, ft, °C, °F), but it is worth emphasising here that all gradable adjectives have an associated scale, regardless of whether the unit of measurement is lexicalised in that language or not. For example, English certainly does not have a unit of measurement for scary, but because we still have the intuition and descriptive observation that there are varying magnitudes of scariness, we can analyse scary as having a scale in its lexical semantics, too. It may help to think of it this way: you can always make up a scale for gradable adjectives, even if it doesn’t have a conventional unit. For example, you can ask questions like “On scale of 1 to 10, how scary was the movie?”.
+In Italian Sign Language / Lingua dei Segni Italiana (LIS, ‘Lingua Italiana dei Segni’), the degrees on a scale are “visible” with certain adjectives (Aristodemo and Geraci 2018). (4) shows the word-by-word sequence of ‘Pietro is tall’ in LIS (Illustration is based on Aristodemo and Geraci 2018).
+
+[表格]
+| | | (4) | |
+[图片：pietro-300x265.png]
+| |
+[图片：ix.png]
+| |
+[图片：sil-tall-labeled.png]
+| | | | | | PIETRO | α | | | IX | α | | | TALL | s | -deg | d | | | |
+
+The sign in the second image (which looks like pointing) represents a pronoun. In the gloss underneath the image, pointing pronouns are glossed as “IX”. Pronouns have deictic meaning: it refers to a specific person, thing, time, or space, and what it refers to depends on the context. The subscript α in IXα indicates that this is a pronoun that points towards locus α A locus (plural loci) is a position in signing space typically tied to nominal element. In (4), the relevant locus is introduced by PIETRO: the pointing pronoun is referring to the locus introduced by PIETRO in the first image. To show this, PIETROα also has the subscript α in the gloss.
+Let’s take a look at the sign for TALL in the third image. This sign introduces two loci: s for the minimum degree for what counts as tall (we can call this degree the standard for tall), and d for the degree of tallness that Pietro has.
+In LIS, you can use a pointing pronoun to refer to degree loci introduced by some gradable adjectives. So for example, (5) is a possible sentence in LIS.
+
+[表格]
+| | | (5) | | | | PIETRO TALL | s | -deg | d | IX | d | 1 METER 70 | | | | | | | | ‘Pietro is tall; his height is 1.70 meters.’ | | |
+
+In (5), notice that the pointing pronoun (IX) is referring to Pietro’s degree of height. This is what we mean by “the degrees are visible” in this LIS sentence: the degree argument of tall is an overt “object” that a pronoun can refer to. In other words, the d in the semantics of tall (x is tall to a degree d) is actually expressed overtly in LIS. In spoken English, this degree argument that is a part of the lexical semantics of the adjective is not expressed overtly. So unlike in SIL, in spoken English a sentence with a pronoun that refers to the degree argument is not possible.
+
+[表格]
+| | | (6) | | * | | Pietro is tall. It is 1.70 meters. | | | | | | | | Intended meaning: ‘Pietro is is tall and his height is 1.70 meters.’ | | |
+
+Adjectives that do not inherently have degrees and scales in their meaning exist across languages as well. Consider (7) and (8).
+
+[表格]
+| | | (7) | | ? | | | This vase is very | | | | ceramic | | | . | | | | | | (8) | | ? | | | This table is more | | | | wooden | | | | than that one. | | | |
+
+Adjectives that resist degree modification like ceramic and wooden are called non-gradable adjectives. Non-gradable adjectives generally cannot be modified by very, and do not appear in comparative constructions. This is because when something is ceramic, it’s not a matter of how ceramic something is: x is ceramic, well, if x is made out of clay and hardened by heat. Similarly, something is wooden if it’s made out of wood. These kinds of adjectives simply classify things into categories: you’re either wooden or not wooden, and you’re either ceramic or not ceramic.
+Note however that we as language users are very good at coming up with scales, even if an adjective is originally non-gradable. For example, an adjective like alive is in principle non-gradable: you’re either dead or alive, and we typically don’t measure “how alive” someone or something is. However, if someone said That mosquito is very alive even though I smacked it, for many people it’s actually not completely unacceptable. In this case, the scale for aliveness may be measuring something like how much vigor the mosquito is exhibiting externally. The important take-away here is that we can coerce (force) non-gradable adjectives to have a gradable interpretation in some contexts by assigning it a scale.
+Some languages do not have degree arguments at all. In Washo (spoken by the indigenous Washoe people near the California-Nevada border in the U.S.) and in Motu (spoken by the Motuans, an indigenous ethnic group of Papua New Guinea), there are no morphemes that correspond to the comparative -er or more in English. (9) and (10) are how comparisons would be expressed in these languages, respectively.
+
+[表格]
+| | | (9) | | | | Washo (Bochnak 2015) | | | | | | | | t’é:liwhu | | delkáykayiʔ | | k’éʔi | | daʔmóʔmoʔ | | delkáykayiʔé:s | | | | | | | | man | | | tall | | | | is | | | | woman | | | | tall.not | | | | | | | | | | ‘The man is taller than the woman’ | | | (Literally: ‘The man is tall, the woman is not tall’) | | | | | | | | | | | | (10) | | | | Motu (Beck et al. 2009) | | | | | | | | Mary na | | lata | | to | | Frank na | | kwadogi | | | | | | | | Mary TOP | | | tall | | | | but | | | | Frank TOP | | | | short | | | | | | | | | | ‘Mary is taller than Frank’ | | | (Literally: ‘Mary is tall but Frank is short’) | | | | | | | | | | |
+
+(9) and (10) show that it’s logically still possible to express comparison without a degree morpheme like -er. The method of comparison in Washo and Motu is called implicit comparison (Kennedy 2007, Sapir 1944). When you make an implicit comparison of entities x and y with respect to the property tall, you manipulate the context so that tall is true of one of the entities, but not both. So in (10), a certain standard of what counts as tall has been established in the context such that Mary is put in the tall category, but Frank is not. If Mary is in the tall category but Frank is not, it necessarily means that Mary’s height exceeds Frank, which is why can still get a comparative reading.
+Languages like English with degree morphemes like -er employ explicit comparison (Kennedy 2007, Sapir 1944). When you explicitly compare x and y with respect to the property tall, what you are saying is that the degree to which x is tall (e.g., 160cm) is higher than the degree to which y is tall (e.g., 150cm). You are explicitly comparing two degrees, or two measurements. It’s actually possible in English to make both explicit and implicit comparisons. For example, (11) is an explicit comparison of degrees, while (12) is an implicit comparison.
+
+[表格]
+| | | (11) | | | | | Marcin is taller than Anne-Michelle. | | | | | (12) | | | | | Compared to Anne-Michelle, Marcin is tall. | | | |
+
+In summary, adjectives specify in their lexical entry whether it has a degree argument or not. The lexical specifications can vary from language to language.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=817#h5p-64
+
+## References
+
+Aristodemo, V., & Geraci, C. (2018). Visible degrees in Italian sign language. Natural Language & Linguistic Theory, 36(3), 685-699.
+Beck, S., Krasikova, S., Fleischer, D., Gergel, R., Hofstetter, S.,Savelsberg, C., Vanderelst, J., and Villalta, E. (2009). Crosslinguistic variation in comparison constructions. Linguistic Variation Yearbook, 9(1):1–66.
+Bochnak, M. R. (2015). The degree semantics parameter and cross-linguistic variation. Semantics and Pragmatics, 8:6–1.
+Kennedy, C. (2007). Modes of comparison. In Proceedings from the Annual Meeting of the Chicago Linguistic Society, volume 43, 141–165. Chicago Linguistic Society.
+Sapir, E. (1944). Grading, a study in semantics. Philosophy of Science, 11(2), 93-116.

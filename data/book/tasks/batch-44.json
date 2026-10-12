@@ -1,0 +1,25 @@
+{
+ "batch": 44,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-44.json",
+ "sections": [
+  {
+   "id": "chapter-097-slug-8-9-illocutionary-meaning",
+   "title": "8.9 Illocutionary meaning",
+   "src": "data/book/src/chapter-097-slug-8-9-illocutionary-meaning.txt",
+   "chars": 8097
+  },
+  {
+   "id": "chapter-098-slug-8-10-illocutionary-meaning-compositionality",
+   "title": "8.10 Thinking about illocutionary meaning compositionally",
+   "src": "data/book/src/chapter-098-slug-8-10-illocutionary-meaning-compositionality.txt",
+   "chars": 8237
+  },
+  {
+   "id": "chapter-099-slug-8-11-what-is-a-context",
+   "title": "8.11 What is a context?",
+   "src": "data/book/src/chapter-099-slug-8-11-what-is-a-context.txt",
+   "chars": 8031
+  }
+ ]
+}

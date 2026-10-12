@@ -1,0 +1,102 @@
+{
+ "batch": 45,
+ "sections": {
+  "chapter-100-slug-8-12-assertion": {
+   "title": {"en": "8.12 Assertion", "zh": "8.12 断言"},
+   "summary": {
+    "en": "An assertion, marked by the illocutionary operator ASSERT, does two things: it puts the proposition into the speaker's Discourse Commitment set, and it raises the issue whether that proposition is true at the top of the QUD stack. Because illocutionary meaning takes effect the moment an utterance is made, it cannot be cancelled, which produces Moore's Paradox.",
+    "zh": "断言由施为算子 ASSERT 标记，其作用有两方面：把命题放入说话人的话语承诺集，并把该命题是否为真这一问题置于讨论中的问题栈顶端。施为意义在话语说出的瞬间即已生效，无法被取消，因此一边断言一边否认自己的信念会产生摩尔悖论。"
+   },
+   "points": [
+    {"en": "Uttering an assertion publicizes that the speaker believes the proposition to be true.", "zh": "说出一个断言即公开表明说话人相信该命题为真。"},
+    {"en": "Denying the asserted belief yields Moore's Paradox, which is odd but not strictly contradictory.", "zh": "一边断言一边否认自己的信念会形成摩尔悖论，听起来怪异却并非严格矛盾。"},
+    {"en": "ASSERT p adds p to the speaker's Discourse Commitment set.", "zh": "ASSERT p 把命题 p 加入说话人／手语者的话语承诺集。"},
+    {"en": "It also places the question is p true at the top of the QUD stack.", "zh": "它同时把 p 是否为真这一问题置于讨论中的问题栈顶端。"},
+    {"en": "Assertions invite agreement or disagreement, but they do not by themselves add p to the Common Ground.", "zh": "断言会引来同意或反对，但仅凭断言并不能把 p 加入共同背景。"}
+   ],
+   "terms": [
+    {"en": "illocutionary meaning", "zh": "施为意义", "defEn": "The meaning an utterance carries by being performed, such as committing or asking.", "defZh": "话语一经说出便产生的意义，如作出承诺或提出问题。"},
+    {"en": "Moore's Paradox", "zh": "摩尔悖论", "defEn": "The oddity of asserting p while denying belief in p.", "defZh": "断言 p 的同时又否认自己相信 p 所造成的怪异现象。"},
+    {"en": "Discourse Commitment set", "zh": "话语承诺集", "defEn": "The set of propositions whose truth the speaker has publicly endorsed.", "defZh": "说话人已公开认可其为真的命题所构成的集合。"},
+    {"en": "Question Under Discussion (QUD) stack", "zh": "讨论中的问题栈（QUD 栈）", "defEn": "An ordered stack of the issues currently raised in a discourse.", "defZh": "按顺序堆叠当前话语中所提出的诸问题的结构。"},
+    {"en": "Common Ground", "zh": "共同背景", "defEn": "The propositions all discourse participants take to be true.", "defZh": "所有话语参与者都视为真的命题集合。"},
+    {"en": "at-issue meaning", "zh": "命题内容意义", "defEn": "The literal content of a sentence that is up for debate.", "defZh": "句子中可供讨论、争辩的字面内容。"}
+   ],
+   "examples": [
+    {"text": "?? It's snowing, but I don't believe that it's snowing.", "noteEn": "Asserting p while denying belief in p produces Moore's Paradox.", "noteZh": "断言 p 却否认相信 p，由此产生摩尔悖论。"},
+    {"text": "We have tomato sauce and ground beef in the fridge.", "noteEn": "Bo's assertion updates his Discourse Commitment set and the QUD stack.", "noteZh": "博的断言更新了他自己的话语承诺集以及问题栈。"},
+    {"text": "Yeah.", "noteEn": "Aya's agreement shows that an assertion raises an issue for discussion.", "noteZh": "阿雅的肯定回应表明断言提出了一个可供讨论的议题。"}
+   ],
+   "body": [
+    {"en": "An assertion carries illocutionary meaning contributed by the ASSERT morpheme. In asserting, the speaker publicizes a belief that the proposition is true. Trying to deny that belief while still asserting produces Moore's Paradox, as in ?? It's snowing, but I don't believe that it's snowing. The sentence is odd rather than plainly contradictory, since snow and a non-believer could coexist; but illocutionary meaning simply happens when the utterance is made, so it cannot be cancelled.", "zh": "断言所携带的施为意义由 ASSERT 语素贡献。说话人作出断言，就是公开表明自己相信该命题为真。若一边断言、一边否认这一信念，就会形成摩尔悖论，例如「?? It's snowing, but I don't believe that it's snowing.」。这句话之所以怪异，并不是因为它严格自相矛盾——下雪与有人不相信下雪在概念上可以并存——而是因为施为意义在话语说出的瞬间就已发生，无法被取消。"},
+    {"en": "In the dinner conversation, Bo's utterance decomposes as ASSERT [we have tomato sauce and ground beef in the fridge]. The proposition therefore lands in Bo's Discourse Commitment set.", "zh": "在晚餐对话中，博说出的话语可分解为 ASSERT [we have tomato sauce and ground beef in the fridge]。该命题因此被放入博的话语承诺集。"},
+    {"en": "An assertion does more than publicize a belief. Since the point of conversation is to add propositions to the Common Ground, Bo is seeking Aya's agreement, and his utterance raises an issue. Aya can reply Yeah, or in another context No we don't, which shows that assertions introduce a topic into the QUD stack: is p true? The literal content that is up for debate is the at-issue meaning. Believing something does not make it a fact, so asserting p does not automatically put p into the Common Ground; other participants must agree first.", "zh": "断言不止于公开自己的信念。由于会话的目的就是把命题加入共同背景，博实际上是在争取阿雅的认同，因而这句话也提出了一个议题。阿雅可以回答 Yeah，在别的语境中也可以回答 No we don't，可见断言把命题作为讨论话题引入问题栈：p 是否为真？可供争论的字面内容就是命题内容意义。相信某事并不等于它是事实，所以断言 p 不会自动把 p 放入共同背景，必须先取得其他话语参与者的同意。"},
+    {"en": "The illocutionary force of ASSERT is summarized as follows: ASSERT p puts p in the speaker's Discourse Commitment set, and puts is p true? at the top of the QUD stack. Replacing p with the proposition about tomato sauce and ground beef gives the analysis of Bo's utterance. The next section compares this with the illocutionary force of questions.", "zh": "ASSERT 的施为力量可以概括为两步：ASSERT p 把 p 放入说话人／手语者的话语承诺集，并把 p 是否为真这一问题置于问题栈顶端。把 p 替换为关于番茄酱和牛肉末的命题，就得到对博那句话的分析。下一节将把这一分析与疑问的施为力量作比较。"}
+   ]
+  },
+  "chapter-101-slug-8-13-question": {
+   "title": {"en": "8.13 Question", "zh": "8.13 疑问"},
+   "summary": {
+    "en": "The interrogative operator INTERR places the issue whether p is true or whether the negation of p is true at the top of the QUD stack. Unlike ASSERT, a question does not add p to the speaker's Discourse Commitment set, because asking does not require any belief. In the Aya and Bo dialogue, Aya asks whether they can make pasta bolognese with those ingredients.",
+    "zh": "疑问施为算子 INTERR 把 p 为真还是非 p 为真这一问题置于问题栈顶端。与 ASSERT 不同，提问不会把 p 加入说话人的话语承诺集，因为提问并不要求任何信念。在阿雅与博的对话中，阿雅询问能否用那些食材做意大利肉酱面。"
+   },
+   "points": [
+    {"en": "INTERR p asks whether p is true or whether its negation is true.", "zh": "INTERR p 询问 p 为真还是 p 的否定为真。"},
+    {"en": "A question raises a topic but commits the utterer to no particular proposition.", "zh": "疑问提出话题，却不使说话人对任何具体命题作出承诺。"},
+    {"en": "Unlike ASSERT, INTERR p leaves the speaker's Discourse Commitment set unchanged.", "zh": "与 ASSERT 不同，INTERR p 不改变说话人的话语承诺集。"},
+    {"en": "The QUD for an assertion is is p true, while for a polar question it is is p true or is not-p true.", "zh": "断言的问题栈内容是 p 是否为真，极性问句则是 p 为真还是非 p 为真。"},
+    {"en": "The contrast reflects the speaker's bias in assertions but openness in questions.", "zh": "这一差别反映出断言中说话人有偏向，而提问时则持开放态度。"}
+   ],
+   "terms": [
+    {"en": "INTERR", "zh": "疑问施为算子 INTERR", "defEn": "The interrogative illocutionary operator that gives a clause its questioning force.", "defZh": "赋予小句提问力量的疑问施为算子。"},
+    {"en": "polar question", "zh": "极性问句（是非问句）", "defEn": "A question asking whether a proposition is true or false.", "defZh": "询问某一命题为真还是为假的问句。"},
+    {"en": "propositional negation", "zh": "命题否定", "defEn": "Negation of a whole proposition, written with the symbol ¬.", "defZh": "对整个命题的否定，用符号 ¬ 表示。"},
+    {"en": "Question Under Discussion (QUD) stack", "zh": "讨论中的问题栈（QUD 栈）", "defEn": "An ordered stack of the issues currently raised in a discourse.", "defZh": "按顺序堆叠当前话语中所提出的诸问题的结构。"}
+   ],
+   "examples": [
+    {"text": "Can we make pasta bolognese with those ingredients?", "noteEn": "Aya's polar question, analysed as INTERR we can make pasta bolognese with those ingredients.", "noteZh": "阿雅的极性问句，可分析为 INTERR we can make pasta bolognese with those ingredients。"},
+    {"text": "Should we have spaghetti for dinner?", "noteEn": "The opening question of the dialogue raises the first issue on the stack.", "noteZh": "对话开头的提问把第一个议题放上问题栈。"},
+    {"text": "Is it snowing?", "noteEn": "With a polar question the speaker is open to either p or its negation.", "noteZh": "使用极性问句时，说话人对 p 及其否定两者都持开放态度。"}
+   ],
+   "body": [
+    {"en": "This section analyses the bolded question in the dialogue. Compositionally it breaks down as INTERR we can make pasta bolognese with those ingredients, where the illocutionary operator acts on the proposition we can make pasta bolognese with those ingredients. Unlike an assertion, a question does not commit the utterer to any particular proposition. Aya may ask whether they can make pasta bolognese without believing that they can; in this context it is natural to think she asks because she genuinely does not know. So INTERR p does not update the speaker's Discourse Commitment set.", "zh": "本节分析对话中加粗的疑问句。按组合方式，它可分解为 INTERR we can make pasta bolognese with those ingredients，其中的施为算子作用于命题 we can make pasta bolognese with those ingredients。与断言不同，疑问不使说话人对任何具体命题作出承诺。阿雅可以询问能否做意大利肉酱面，却并不相信真的能做；在这个语境中，自然的理解是她确实不知道答案。因此 INTERR p 不更新说话人的话语承诺集。"},
+    {"en": "Questions, like assertions, do raise a topic for discussion. With a yes-no question the speaker asks whether the proposition is true or false. Since the issues in the QUD stack concern what should be added to the Common Ground, the question can be reframed as which one is true and should go in the Common Ground: we can make pasta bolognese, or we cannot.", "zh": "与断言一样，疑问确实提出了讨论话题。用是非问句时，说话人询问该命题为真还是为假。由于问题栈中的议题归根结底是哪个命题应当加入共同背景，这个问题可以改写为：哪一个为真、应当进入共同背景——能做意大利肉酱面，还是不能做。"},
+    {"en": "INTERR p puts is p true, or is not-p true? at the top of the QUD stack, where the symbol ¬ stands for propositional negation, meaning it is not the case that. Reading the formula with the pasta proposition gives it is not the case that we can make pasta bolognese, a long-winded way of saying we cannot make pasta bolognese. For ASSERT p the QUD is merely is p true?, which captures the intuition that someone asserting p is biased towards adding p to the Common Ground, whereas a polar question leaves the speaker open to either p or its negation.", "zh": "INTERR p 把 p 为真还是非 p 为真置于问题栈顶端，其中符号 ¬ 表示命题否定，意为并非如此。把 p 代入意大利肉酱面的命题，¬p 读作「并非我们能做意大利肉酱面」，也就是「我们不能做意大利肉酱面」的冗长说法。而对 ASSERT p 来说，问题栈上只有 p 是否为真，这正好说明：断言 p 的人倾向于把 p 加入共同背景，而极性问句则让说话人对 p 或其否定都保持开放。"},
+    {"en": "The comparison of the two operators shows that the difference in QUD is what distinguishes asserting from asking. The following section brings these pieces together to show how illocutionary meaning works across a whole conversation.", "zh": "两个算子的对比表明，问题栈上的差异正是断言与提问的分界。接下来的部分将把这些环节整合起来，展示施为意义如何贯穿整段会话发挥作用。"}
+   ]
+  },
+  "chapter-102-slug-8-14-analysing-meaning-dynamically": {
+   "title": {"en": "8.14 Analysing meaning dynamically", "zh": "8.14 动态地分析意义"},
+   "summary": {
+    "en": "Illocutionary meaning can be modelled as updates to a context made up of the Common Ground, the QUD stack and the participants' Discourse Commitment sets. Tracking the Aya and Bo conversation step by step shows how each utterance changes these sets until the QUD stack is empty. This approach is called dynamic semantics; it also models disagreements, where commitment sets change but the Common Ground does not.",
+    "zh": "施为意义可以建模为对语境的更新，语境由共同背景、问题栈以及各参与者的话语承诺集构成。逐步追踪阿雅与博的对话，可以看出每次话语如何改变这些集合，直到问题栈清空。这种分析思路称为动态语义学；它同样能刻画意见不合的情形：话语承诺集改变而共同背景不变。"
+   },
+   "points": [
+    {"en": "Every utterance changes the context, so discourse is a sequence of context updates.", "zh": "每一次话语都会改变语境，因此话语是语境更新的序列。"},
+    {"en": "An empty starting context contains no propositions, though trivial presuppositions may be taken for granted.", "zh": "起始的空语境不含任何命题，但一些琐碎的预设可能已被视为理所当然。"},
+    {"en": "Assertions update the speaker's commitment set and the QUD stack; questions update only the QUD stack.", "zh": "断言更新说话人的话语承诺集与问题栈；疑问只更新问题栈。"},
+    {"en": "The Common Ground grows when both participants commit to the same proposition, resolving the topmost question.", "zh": "当双方都承诺同一命题时，共同背景随之扩展，最上层的问题得以解决。"},
+    {"en": "Dynamic semantics examines meaning across sentences, including pronoun reference.", "zh": "动态语义学跨句考察意义，包括代词指称等现象。"}
+   ],
+   "terms": [
+    {"en": "dynamic semantics", "zh": "动态语义学", "defEn": "A theory treating sentence meaning as an update to the context.", "defZh": "把句子意义视为对语境之更新的理论。"},
+    {"en": "context update", "zh": "语境更新", "defEn": "The change an utterance makes to the discourse context.", "defZh": "一次话语给话语语境带来的改变。"},
+    {"en": "Common Ground", "zh": "共同背景", "defEn": "The propositions shared and agreed on by discourse participants.", "defZh": "话语参与者共同认可并共享的命题集合。"},
+    {"en": "presupposition", "zh": "预设", "defEn": "A proposition already taken for granted before an utterance.", "defZh": "在话语说出之前就已被视为理所当然的命题。"},
+    {"en": "set theory notation", "zh": "集合论记法", "defEn": "Writing sets with curly braces, as in {p, q}.", "defZh": "用花括号表示集合的写法，例如 {p, q}。"}
+   ],
+   "examples": [
+    {"text": "Should we have spaghetti for dinner?", "noteEn": "Aya's opening question updates the QUD stack, producing Context 2.", "noteZh": "阿雅开头的提问更新了问题栈，得到语境 2。"},
+    {"text": "This bolognese sauce has no salt in it.", "noteEn": "In the disagreement example, Aya asserts a proposition Bo rejects.", "noteZh": "在意见不合的例子中，阿雅断言了一个博所否认的命题。"},
+    {"text": "Yes it does! I totally put some in.", "noteEn": "Bo's counter-assertion commits him to the opposite proposition.", "noteZh": "博的反驳断言使他对相反的命题作出承诺。"},
+    {"text": "{p, q}", "noteEn": "Sets are written with curly braces in set theory notation.", "noteZh": "在集合论记法中，集合用花括号书写。"}
+   ],
+   "body": [
+    {"en": "Illocutionary meaning can be analysed as updates to contexts. Starting from an empty context, in which the Common Ground, the QUD stack and both Discourse Commitment sets are empty, each utterance changes something. Trivial assumptions such as we are in the kitchen may already sit in the Common Ground, provided both take them for granted; these are the propositions usually called presuppositions. Sets are drawn as circles for convenience, though set theory notation writes them with curly braces, as in {p, q}.", "zh": "施为意义可以被分析为对语境的更新。从空语境出发——共同背景、问题栈以及双方的话语承诺集均为空——每一次话语都会带来某种改变。像「我们在厨房里」这样的琐碎假设可能已经存在于共同背景中，只要双方都视之为理所当然；这类命题通常称为预设，此处暂不纳入。为便于观察，图中用圆圈表示集合，而集合论记法则用花括号书写，如 {p, q}。"},
+    {"en": "Aya's first utterance, Should we have spaghetti for dinner?, is a question, so it updates the QUD stack, and as the only issue raised so far it sits at the top. The difference between this context and the previous one is exactly the illocutionary meaning of the question. This theory of meaning as context update is sometimes called dynamic semantics; it is dynamic because it looks at meaning cross-sententially, at how utterances relate to one another. It suits phenomena such as pronoun reference, and the framework used here is inspired by Farkas and Bruce (2010).", "zh": "阿雅的第一句话 Should we have spaghetti for dinner? 是疑问，因此更新问题栈；由于它是目前为止唯一提出的议题，便位于栈顶。这一语境与此前语境的差别，正是该疑问的施为意义。把意义视为语境更新的理论有时称为动态语义学；它之所以是动态的，是因为它跨句考察意义，即关注不同话语之间如何相互关联。它适用于代词指称一类现象，本节采用的框架受到 Farkas 与 Bruce（2010）研究的启发。"},
+    {"en": "Bo's assertion We have tomato sauce and ground beef in the fridge updates both his Discourse Commitment set and the QUD stack, pushing the earlier question down, since only the topmost question can be addressed at a time. Aya's Yeah adds the proposition to her commitment set as well, so it enters the Common Ground, and the resolved question is removed from the stack. The conversation continues through further questions and assertions until the original issue is answered and the QUD stack is empty.", "zh": "博的断言 We have tomato sauce and ground beef in the fridge 同时更新了他自己的话语承诺集和问题栈，并把先前的问题压到下方，因为每次话语只能处理最上层的问题。阿雅回答 Yeah 后，该命题也进入她的话语承诺集，于是进入共同背景，已解决的问题随之从栈中移除。会话继续经过若干提问与断言，直到最初的问题得到回答、问题栈清空。"},
+    {"en": "The system also models disagreement. In the exchange about salt in the bolognese sauce, each participant's commitment set is updated, but because Aya and Bo never settle on the same proposition, the Common Ground stays unchanged. Discourse can therefore be seen as a sequence of updates to the context, driven by the illocutionary meaning of each contribution.", "zh": "这一系统也能刻画意见不合。在关于肉酱面里有没有盐的对话中，双方的话语承诺集都被更新，但由于阿雅与博始终未能就同一命题达成一致，共同背景保持不变。因此，话语可以看作由各次贡献的施为意义所驱动的一连串语境更新。"}
+   ]
+  }
+ }
+}

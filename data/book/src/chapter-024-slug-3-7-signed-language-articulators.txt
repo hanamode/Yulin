@@ -1,0 +1,118 @@
+# 3.7 Signed language articulators
+
+## The phonetic units of signed languages
+
+As discussed in Section 3.1, articulatory phonetics is concerned with how the body produces a linguistic signal, regardless of modality. We do not normally want to describe the overall articulation of an entire word in spoken language, so we break it down into phones for easier discussion. So what is the comparable unit for signed languages?
+In signed languages, the basic independent meaningful unit, the equivalent of a spoken language word, is generally an individual sign. But signs do not seem to have a direct equivalent of phones. Phones are pieces of words that can generally be spoken on their own, completely separate from any other phones. For example, we can take any of the individual phones in the English word [bɛd] ‘bed’, and say each one on their own. It may be awkward, especially for plosives like [b] and [d], but it is not impossible. The independence of phones from words and each other, as well as their ability to be recombined in different ways to create new words, are key properties of spoken languages.
+Now consider the corresponding sign BED in ASL in the following video clip.
+
+[视频：EoL3ASL_BED.mp4]
+
+Here we see that the sign is formed by configuring the hand in a particular way (flattened out with an open palm) in a particular location (at the side of the head). These traits are inseparable: if we want to shape the hand in some particular way, we must necessarily do so somewhere, and similarly, if we want to put the hand in some location, we must necessarily also configure the fingers somehow.
+In this way, signs seem more like phones than strings of phones. We cannot make an articulation with the tongue tip and alveolar ridge without also deciding how far apart they are, and we cannot articulate a manner of articulation without choosing an active and passive articulator, and thus, without choosing a place of articulation. That is, individual articulatory properties of phones like place and manner are interdependent, in the same way that the shape of the hand and its location are interdependent. But an entire phone itself and an entire sign itself have independent existence from other phones and signs and can be articulated separately from others.
+So, the two fundamental units of articulation in signed language that we are concerned with are signs (whole independent words) and the individual articulatory properties of a sign (how various articulators are shaped and moved). Contrast this with spoken languages, where we have three units: entire words, individual articulatory properties (place, manner, etc.), and phones (combinations of articulatory properties that are independent subunits of words). Whether or not signed languages have a corresponding third intermediate unit is a matter of debate. Such a unit may indeed exist, or we may simply be trying to hard to impose our understanding of spoken languages onto signed languages. See Section 3.10 for discussion of syllables as a possible kind of intermediate organizational unit that both spoken and signed languages seem to have.
+
+Notation of signs: In academic writing, linguistic units from spoken languages are often given in italics, with the gloss (meaning) in single quotes, while signs from signed languages are often given in all capitals or small capitals. So we would write bed when referring to the English word and lit ‘bed’ when referring to the equivalent French word, but we would write BED or BED when referring to the equivalent sign in ASL.
+When writing about ASL using English, it makes sense to use English to write ASL signs, but what should do when writing in English about a signed language like Quebec Sign Language (langue des signes québécoise, abbreviated LSQ) or Turkish Sign Language (Türk İşaret Dili, TİD), which do not have the same connection to English that ASL does?
+One option is to write the sign in English (or whatever language you are writing in). So, just as we would write about the ASL sign BED, we would also write about the LSQ sign BED and the TİD sign BED. Another option is to write the sign by switching to the ambient written language most connected to that signed language, and add a gloss in English. In this case, LSQ has a connection to French and TİD has a connection to Turkish, so while we would write about the ASL sign BED, for the other two signs, we would write about the LSQ sign LIT ‘bed’ and the TİD sign YATAK ‘bed’, using the French word lit and the Turkish word yatak. Both options have advantages and drawbacks, and you will see both used in the linguistics literature, though the first option is perhaps the most common.
+For signed languages, we have two main categories of articulators to analyze the properties of. The manual articulators are the arms, hands, and fingers, which are the primary articulators used for signing. However, most of the rest of the body is also used in signed languages, especially the torso, head, and facial features. All of these other articulators are called the nonmanual articulators or sometimes just nonmanuals.
+
+## Manual articulators
+
+The manual articulators move by means of joints, which are points in the body where two or more bones come together to allow for some kind of movement. There are six joint types in the manual articulators: shoulder, elbow, radioulnar joint (or simply radioulnar), wrist, base knuckles, and interphalangeal joints (or simply interphalangeal), arranged as shown in Figure 3.21.
+
+[图片：3.20-joints.jpg]
+
+Figure 3.21. Joints in the manual articulators.
+
+## Shoulder articulation
+
+The shoulder rolls around inside the shoulder blade, allowing for a wide range of motion for the upper arm, as shown in Figure 3.22. The motion we use for jumping jacks, with the arms making up and down arcs out to the left and right of the torso is called abduction (for the upward/outward direction) and adduction (for the downward/inward direction). The motion for raising and lowering the arm up in front of us is flexion (for raising) and extension (for lowering). Finally, the shoulder can keep the upper arm in a fixed position while changing the position of the forearm through rotation. Movement at the shoulder joint can be any combination of these three kinds of movement.
+
+[图片：3.21-shoulder-movement.png]
+
+Figure 3.22. Shoulder movement.
+
+## Elbow articulation
+
+The elbow is the joint between the upper arm and forearm, and it has a more restricted range of motion than the shoulder, allowing only flexion (bending to bring the forearm closer to the upper arm) and extension (bending the opposite way), as shown in Figure 3.23. Other kinds of movements at the elbow are heavily restricted or impossible. Note that unlike the shoulder, the elbow cannot typically extend backwards from a hanging position, only from a flexed position.
+
+[图片：3.22-elbow-movement-216x300.png]
+
+Figure 3.23. Elbow movement.
+
+## Radioulnar articulation
+
+The forearm contains two large bones, the radius (which is on the thumb side of the arm) and the ulna (on the pinky side). The radius and ulna come together in three different places for three different kinds of movement: at the elbow, at the wrist, and in the middle of the forearm. All three of these points of movement are considered radioulnar joints biologically and have separate names (the superior radioulnar joint at the elbow, the inferior radioulnar joint at the wrist, and the medial radioulnar joint inside the forearm), but in the context of signed language phonetics, we normally only need to talk about one of them, since their movements are all connected. By convention, the one we discuss is the medial radioulnar joint, where the radius and ulna pivot around each other, allowing the forearm to rotate, as shown in Figure 3.24.
+
+[图片：3.23-radioulnar-movement-213x300.png]
+
+Figure 3.24. Radioulnar movement.
+
+## Wrist articulation
+
+The wrist is the joint between the forearm and the hand, and it is almost as mobile as the shoulder, as shown in Figure 3.25, allowing for abduction (sideways towards the thumb), adduction (sideways towards the pinky), extension (bending backwards), and flexion (bending forwards), but no rotation. Note that what we might initially think of as rotation at the wrist is actually due to radioulnar articulation. Like the shoulder, the wrist can typically extend backwards from a straightened position.
+
+[图片：3.24-wrist-movement-300x204.png]
+
+Figure 3.25. Wrist movement.
+
+## Base knuckle articulation
+
+The base knuckles are the joints where the fingers connect to the palm of the hands. Like the wrist, these joints allow for abduction, adduction, extension, and flexion, but no rotation, and like the elbow, the base knuckles cannot typically extend very far backward from a straightened position. The main movements available for the base knuckles are shown in Figure 3.26. Each base knuckle can generally move independently of the other, though some movements are more difficult than others.
+
+[图片：3.25-base-movement.png]
+
+Figure 3.26. Base knuckle movement.
+
+## Interphalangeal articulation
+
+The interphalangeal joints are the various joints between the individual bones within the fingers. The thumb has only one interphalangeal joint, while the other four fingers have two interphalangeal joints each. Most humans cannot easily articulate the two interphalangeal joints of the same finger separately, so they are usually analyzed together for the purpose of describing signed language articulation. Like the elbow, the interphalangeal joints can only extend and flex, as shown in Figure 3.27, and they typically cannot extend backward very much from a straightened position.
+
+[图片：3.26-interphalangeal-movement-300x105.png]
+
+Figure 3.27. Interphalangeal movement.
+
+## Describing manual movement
+
+An important aspect of describing manual movement in a sign is being able to identify which joints are moving and what kind of movement they are using. This can be quite difficult, because many signed language articulations involve multiple joints moving in different ways. In the following discussion, we explore a few example signs from ASL to determine what kind of movement is occurring.
+Consider the ASL sign SORRY in the following video clip.
+
+[视频：EoL3ASL_SORRY.mp4]
+
+First, note that the hand must raise up to the chest before the sign begins. This movement does not really count as part of the sign. It is similar to how phones are articulated. In order to make an alveolar plosive like [t], the tongue tip must move to make full contact with the alveolar ridge. The initial movement to the alveolar ridge is not part of [t] itself, but it is necessary incidental movement to get ready to articulate [t]. We can tell that this initial movement is not an inherent part of [t] because of the behaviour of words like ant [ænt]. Since the tongue tip is already on the alveolar ridge for [n], we do not need to move it away and then move it back for [t]; we just keep it in place on the alveolar ridge, because that is what is inherent to [t].
+The same is true for the initial positioning movement for SORRY, as well as the final movement to return the hand to its lower starting position. When describing the articulation of a sign, we normally only care about the core movement that happens during the sign itself, not the transitional movements into or out of the sign. Sometimes, it may be difficult to determine whether a given movement is an incidental transitional movement or is instead inherent to the sign, but most of the time, it should be clear what initial and final movements can be ignored.
+Now consider the articulation of the hand. It is shaped into a rigid fist, which requires flexing the base knuckles and the interphalangeal joints (except for the thumb, which is extended). However, this is a fixed configuration, not a movement, so we can ignore those joints when describing movement. The actual movement is the hand tracing a small circle on the chest. There seems to be no significant movement at the wrist or radioulnar joints, since the entire forearm down through the hand and fingers all act as a single fixed unit. Thus, we can also ignore these two joints as well.
+That leaves the elbow and shoulder as our joints of interest for manual movement in SORRY. Looking carefully at the elbow, we see that it flexes and extends slightly during the circle, causing a change in the angle between the upper arm and forearm. In addition, the elbow itself also changes position in space, moving a bit out to the signer’s right side and back again. This cannot be due to elbow movement, since joint movement cannot change the position of a joint itself; if a joint moves through space, it must be because some other joint is moving it. The only joint we have left is the shoulder, so this must be what is responsible for the elbow changing location. The relevant shoulder movement appears to be a small amount of abduction and adduction, perhaps combined with very slight flexion and extension as well.
+So, to describe the movement in the ASL sign SORRY, we would say there is both elbow and shoulder movement, and if we need to be more precise, we would say that there is repeated flexion and extension of the elbow, and repeated abduction and adduction of the shoulder, and perhaps also some amount of repeated flexion and extension of the shoulder.
+Next, consider the ASL sign APPLE in the following video clip.
+
+[视频：EoL3ASL_APPLE.mp4]
+
+Again, we must ignore the transitional movements into and out of the sign, and as with SORRY, we see that the hand in APPLE is in a fixed shape, this time with the index finger extended at the base knuckle but flexed at the interphalangeal joints, while all of the other fingers are closed loosely together with flexed base knuckles and interphalangeal joints. All of these joints stay in their position throughout the sign, so we can ignore them for describing movement.
+Where we do see movement is rotation of the forearm. We know that the wrist cannot rotate, so this must be due to radioulnar rotation. There is no other movement in APPLE, so we can ignore the elbow and shoulder joints.
+Thus, for APPLE in ASL, we would say that it has radioulnar movement only, and more precisely, that it has repeated radioulnar rotation.
+Finally, consider the ASL sign CHOOSE in the following video clip.
+
+[视频：EoL3ASL_CHOOSE1H.mp4]
+
+For CHOOSE, the initial transitional movement almost looks like it could be part of the sign, with the hand raising, then flicking backward, as all part of one motion. In this particular case, we will ignore this initial raising, but in general, and it can be difficult to know whether to ignore it or not.
+The core movements that we are concerned with here are the movements of the fingers and the backward wrist flick. For the finger movement, we see that the index and thumb come together in a pinching motion. This requires flexion of the base knuckles to bring the two fingers together, and perhaps a very small amount of interphalangeal flexion as the finger and thumb bend very slightly rather than staying perfectly straight. The backwards wrist flick is articulated by extending the wrist backward. There is no radioulnar twisting and no notable elbow or shoulder movement.
+Thus, for CHOOSE in ASL, we would say that it has base and wrist movement, and perhaps some minor interphalangeal movement, and more precisely, that it has non-repeated base (and maybe interphalangeal) flexion and wrist extension.
+
+## Nonmanual articulators
+
+The rest of the body, the nonmanual articulators, especially the torso and the parts of the face, have complex and varied movement, such as eye gaze changes, eyelid narrowing and opening, eyebrow raising and lowering, torso leaning and rotation, head tilting and rotation, cheek puffing, lip rounding and spreading, teeth baring, etc. Nearly any other body part can be a nonmanual articulator, even the feet and buttocks in some signed languages, such as Adamorobe Sign Language in Ghana (Nyst 2007) and Kata Kolok in Indonesia (Marsaja 2008).
+The ASL sign SORRY has some of these nonmanual articulations. The signer furrows his brow, pushes his lips together, slightly puffs his cheeks, and gives a slow head shake. All of these nonmanual movements are part of the sign. For any given sign, the nonmanual articulations may not all be necessary to understand the sign, but they are still part of its articulation.
+Nonmanual articulation is beyond the scope of an introductory textbook like this, but it plays a crucial role in signed languages and cannot be ignored in a full analysis of signed languages. This is one of the drawbacks for tools like “signed language gloves” that supposedly translate signed language movements into text or speech. These devices regularly appear in popular media; a typical example is presented in Chin 2020. Since these gloves only capture some aspects of manual articulation, but no nonmanual articulation at all, they cannot fully translate signed languages. In addition, the burden of usage is on deaf people, and they are not the primary beneficiaries, since the translation is for hearing people who do not sign. See Hill 2020 for further discussion of these issues and the need to directly involve deaf people when designing any kind of signed language technology, to ensure that the technology is actually useful to deaf people.
+Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=594#h5p-111
+
+## References
+
+Chin, Matthew. 2020. Wearable-tech glove translates sign language into speech in real time. UCLA Newsroom. https://newsroom.ucla.edu/releases/glove-translates-sign-language-to-speech
+Hill, Joseph. 2020. Do deaf communities actually want sign language gloves? Nature Electronics 3(9): 512–513.
+Marsaja, I. Gede. 2008. Desa Kolok — A deaf village and its sign language in Bali, Indonesia. Nijmegen: Ishara Press.
+Nyst, Victoria. 2007. A descriptive analysis of Adamorobe Sign Language (Ghana). University of Amsterdam PhD dissertation.

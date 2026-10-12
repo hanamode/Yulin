@@ -1,0 +1,49 @@
+# 2.2 Language and offence
+
+Content Note: This section discusses swear words and also makes brief mention of the concept of racial slurs.
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2646#oembed-1
+
+## Taboos and offence
+
+In the previous section, we saw that language has a power beyond communicating the literal meaning: things can happen in the world as a result of us uttering something. Language is very powerful in this way. We just discussed how language is how we perform our identity. Another power that language has is the emotional effect that producing and/or perceiving certain expressions can have on us. Let’s unpack what that means in this section and the next section.
+What do we mean by emotional effect? One example of this is swears. Although the English words poop and shit have the same basic meaning and refer to the same physical substance, they are not completely interchangeable in conversation. While poop is fairly innocuous, almost childish, shit is considered taboo, which means that its use is avoided except under certain circumstances. Violating this taboo by using it in the wrong circumstances is likely to cause offence. For example, if you break your toe and shout, “Oh, poop!”, no one will be offended (though you may not feel as satisfied!), but if you ask a young child, “Do you need to take a shit?”, this will surely offend many adults. Context matters, and using taboo language in the wrong context is culturally offensive, rather than just amusing or awkward.
+Contrast this with other pairs of words that have the same basic meaning but different associations, but neither of which are considered offensive. For example, the English words odour and aroma both refer to smells. We tend to talk about unpleasant odours and pleasant aromas, but mixing up these associations won’t offend anyone. The negative association of the word odour is not sufficient to make the word taboo.
+It’s easy to think that taboos are avoided in conversation because the taboo words themselves are bad somehow. This might be true for cases like shit where the word itself has a lot of negative emotional content attached to it. However, this is not always the case. In Kambaata (a Highland East Cushitic language of the Afro-Asiatic family, spoken in Ethiopia), it is traditionally taboo for a woman to use any words that begin with the same sounds as the name of her spouse’s parents, so she is expected to use taboo avoidance, which is the replacement of taboo words with other words (Treis, 2005). This is not because of any negativity towards the in-laws or their names, but rather, it is a sign of respect for these relatives.
+So language taboos can exist for either negative or positive reasons. What makes an expression taboo is that uttering it breaks the taboo and causes offence. Across the world’s languages, there are many types of taboo language. The names of respected people are often taboo: in-laws (as in Kambaata and many other languages), community elders, emperors, etc. Many languages also have taboo words for bodily waste, sexual organs and functions, death, and religious items or ideas.
+Likewise, the strategies for taboo avoidance are varied. In Kambaata, many words have alternate forms that would be used to avoid matching an in-law’s name. For example, a married Kambaata woman whose father-in-law is named Tiráago might replace the word timá ‘leftover dish’ with ginjirá to avoid using the beginning ti– sound that matches her father-in-law’s name.
+Instead of avoiding similarity, another taboo avoidance strategy is to replace the taboo word with a similar form, to help evoke the taboo word without actually uttering it. This is common for swear words, which may often be replaced with less offensive words that have similar form. An English speaker might yell out sugar or shoot when they stub their toe instead of shit. The matching initial sound retains some of the emotional power of uttering the actual swear word, while minimizing the offence that could result from violating the taboo against swearing.
+
+Swearing and physical pain
+
+The power of swearing is very real! Many studies (e.g. Stephens et al. 2009; 2020) show that swearing in response to pain actually seems to reduce the pain we feel. Interestingly, though similar-sounding words from taboo avoidance might carry some of the same emotional power, they don’t seem to help with the pain itself in the way that the original swear words do. So the next time you drop a hammer on your foot, take comfort in knowing that your offensive swears can be beneficial!
+
+## Using a word versus mentioning a word
+
+Most of the time when we communicate, each word is just one of many words strung together in an utterance. This is the ordinary use of these words. So in an English sentence like wheat is a grain, each of the words are used to say something about the world. In this case, the sentence is discussing wheat as a real world object, the actual physical grain itself, with the word wheat being used to refer to the grain.
+However, an important feature of language is that it can be used to describe itself. That is, we can use language metalinguistically to discuss properties of language. This is what makes the entire field of linguistics possible! But it’s not just linguists who do this. Ordinary language users frequently have metalinguistic conversations about language, and they do so by mentioning words and expressions as linguistic objects, rather than using them to refer to real world concepts. For example, while we use the word wheat in sentences like wheat is a grain, a sentence about the word itself would be mentioning it rather than using it, for example, if we were talking about how the word wheat is historically related to the word white. Here, we are not talking about the physical grain itself or the literal colour white, but rather, we are talking about the English words for that grain and that colour.
+
+How to be a linguist:
+
+The convention when we’re being meta, that is, mentioning words that we need to talk about metalinguistically, is to present the mentioned words and expression in italics. We will revisit this convention in Chapter 7, when we talk about the meaning of linguistic expressions.
+This difference between using a word and mentioning it is sometimes called the use-mention distinction. It is helpful to keep this in mind especially when discussing taboo words. In some cases, mentioning the taboo word doesn’t seem to call up the taboo the same way that using it does. To return to our shit example, there’s a fairly strong taboo against using swear words in professional writing like textbooks, so it would be surprising if we used the word shit in this chapter. However, when the topic under discussion is swear words as linguistic objects, as a phenomenon within language, we need to be able to mention the word shit, which is what we’ve done here.
+The use-mention distinction does not give us the free pass to utter all taboo words in all contexts. There are especially offensive and highly volatile taboo words, like racial slurs (words that insult and denigrate certain marginalised groups of people, in this case based on perceived race), whose mere mentions are known to cause visceral emotions in hearers. Even for non-slurring taboo words like shit, some contexts are so sensitive to the taboo, that even mentions of them violate the taboo. In both of these cases, if you need to allude to the word, you can use a different strategy. You might choose a complex circumlocution like a four-letter word referring to excrement, or you might mask the word in some way by replacing some letters with asterisks or dashes (s***, s–t), referring to the word by its first letter (s-word), bleeping an audio track, or blurring an image or video.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2646#h5p-117
+
+## References
+
+Anderson, L., & Lepore, E. (2013). What did you call me? Slurs as prohibited words setting things up. Analytic Philosophy, 54(3), 350-63.
+Lepore, E., & Anderson, L. (2013). Slurring words. Noûs, 47(1), 25-48.
+McCready, E., & Davis, C. (2019). An Invocational Theory of Slurs. LENLS 14, Tokyo. https://semanticsarchive.net/Archive/TdmNjdiM/mccready-davis-LENLS14.pdf
+Davis, C., & McCready, E. (2020). The instability of slurs. Grazer Philosophische Studien, 97(1), 63-85.
+⚠️ Rappaport, J. (2020). Slurs and Toxicity: It’s Not about Meaning. Grazer Philosophische Studien, 97(1), 177-202.
+Snefjella, B., Schmidtke, D., & Kuperman, V. (2018). National character stereotypes mirror language use: A study of Canadian and American tweets. PLOS ONE, 13(11), e0206188.
+Stephens, R., Atkins, J., & Kingston, A. (2009). Swearing as a response to pain. NeuroReport, 20(12), 1056–1060.
+Stephens, R., & Robertson, O. (2020). Swearing as a Response to Pain: Assessing Hypoalgesic Effects of Novel “Swear” Words. Frontiers in Psychology, 11.
+Treis, Y. (2005). Avoiding Their Names, Avoiding Their Eyes: How Kambaata Women Respect Their In-Laws. Anthropological Linguistics, 47(3), 292–320.
+
+⚠️ Content note: This paper mentions a highly volatile racial slur without censoring it.

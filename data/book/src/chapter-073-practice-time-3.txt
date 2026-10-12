@@ -1,0 +1,101 @@
+# 6.22 Exercise your linguistics skills.
+
+Exercise 1. Intermediate; 6.2. An important skill for anyone studying linguistics is to come up with potential sentences, and test whether they’re grammatical—and it’s important to remember that grammaticality judgements don’t describe what is “supposed” to be correct, but what fluent users of the language actually do. For this exercise, come up sentences that match the following descriptions, in a language you are fluent in. This exercise is likely to be easiest to do for the language(s) you first acquired as a child, or for the language(s) you use most often day-to-day at home or work.
+- 2 fully acceptable sentences (neither ungrammatical nor semantically odd)
+- 2 ungrammatical sentences (*)
+- 2 grammatical but semantically odd sentences (#)
+
+Exercise 2. Basic; 6.2. For each of the following sentences, do the following: (i) determine whether the sentence is simple, compound, or complex; (ii) determine whether the sentence is declarative, interrogative, or imperative; (iii) identify the main predicate, and state whether it is intransitive, transitive, or ditransitive; (iv) identify the subject and (if applicable) the direct and indirect objects.
+- The children read the book.
+- I loaned her some money.
+- The weather is cold.
+- Emily may win the race.
+- I have finished my homework.
+- My very best friend arrived recently.
+- You can easily recognize the town hall.
+- We always talked in the kitchen.
+- The weather report said that it would be colder.
+- Everyone has already left but someone forgot their phone.
+
+Exercise 3. Basic; 6.3. For each of the following sentences, determine the category of the bolded phrase(s):
+- Peter sat in the kitchen.
+- Everyone likes chocolate.
+- Alice bought a very rare book.
+- The people we talked to all admired our ideas.
+- They almost always eat on the porch.
+
+Exercise 4. Intermediate; 6.3. Consider the following sentences of a constructed language, Language X. Based on these examples, what is the basic order of subject, object, and verb in Language X? Is this language head-initial or head-final? (Data adapted from the random constructed language generator Vulgar.)
+- Tsa akisesho ku ipapu. (English translation: “I went to the school.”)
+- Qo itsemoj chetsupu. (English translation: “They read the book.”)
+- Qo wadij fukapu. (English translation: “They caught the cat.”)
+- Wadi hinpu. (English translation: “The cat slept.”)
+- Tsa qup ij pasu shapu. (English translation: “I sent them a letter.”)
+- Qo pasuj chetsupu. (English translation: “They read the letter.”)
+
+Exercise 5. Intermediate; 6.4. For each bolded string of words in the following sentences, apply two constituency tests to determine whether the words form a syntactic constituent.
+- A large golden fish is swimming in the pond.
+- Tomorrow we might take a drive to visit some friends.
+- Some friends of hers have been in the audience every evening.
+- What I said was that the correct answer will surprise you.
+
+Exercise 6. Basic; 6.5 (and 5.5). In the following paragraph, identify all the nouns, verbs, and adjectives. This text is drawn from Swiss Sonata by Gwethalyn Graham, which is in the Public Domain in Canada.
+“The main door of the school is on the side away from the town. The drive leading to it is long, cutting straight across between the tennis courts after it leaves the big wooden gates, then curving round the extreme edge of the gardens until, after a long, straight stretch up the slope, it ends in the courtyard by the front door. It takes about five minutes’ fast walking to get from the gates to the grateful seclusion of the court during which you become thoroughly self-conscious as you notice the eyes watching you from the windows. Once you reach the corner of the house you are safe.”
+Exercise 7. Basic; 6.5. In the following sentences, give the category of all the words from closed-class categories. This text is drawn from Swiss Sonata by Gwethalyn Graham, which is in the Public Domain in Canada.
+“All the rooms on the ground floor open off the T-shaped front hall. When you come in from the courtyard the doors of Mlle Tourain’s study are directly opposite you; on your right are the kitchens and laundry-rooms and between them and the study, occupying the whole corner, is the dining-room. On your left, behind the big dark staircase which curves up to the first floor, is the girls’ living-room, and in front of it on the south-east corner, the main classroom.”
+Exercise 8. Basic; 6.5. In the following sentences, identify all the modal auxiliaries, non-modal auxiliaries, and the main verb uses of have and be. This text is drawn from Swiss Sonata by Gwethalyn Graham, which is in the Public Domain in Canada.
+“Some day they are going to get it mended but at present they are too busy, for Mlle Tourain is correcting proofs for the second volume of her work on the history of Swiss independence, which will appear next autumn, and she, Mary Ellerton, has no time for anything, since she dismissed the housekeeper and has her job as well as that of assistant principal.”
+Exercise 9. Basic; 6.6. For each of the following sentences, do the following: (i) identify every verb and every subject; (ii) identify the embedded clause and the main clause; (iii) determine whether the embedded clause is a statement, a question, or an infinitive; (iv) identify the complementizer.
+- Some meteorologists believed that the storm would hit the coast.
+- Every person in town worried that the mayor was embezzling funds.
+- We wondered if it would rain tomorrow.
+- My friend asked if I like comics.
+- I want everyone to leave.
+
+Exercise 10. Basic; 6.7. Below are a series of Yes-No Questions in English. Undo Subject-Aux Inversion to generate the corresponding statements.
+- Was there someone at the door?
+- Would your friend like to come with you?
+- Can you believe what they were saying?
+- Have you heard the story everyone has been talking about?
+- Were they waiting for a long time?
+- Does it matter?
+- Do birds that swim also fly?
+- Have the people who read the notes asked any questions?
+- Did you ever wonder about it?
+
+Exercise 11. Basic; 6.8. Below are a series of statements in English with one or more phrases underlined. Apply relevant transformations to generate corresponding content questions, one question for each underlined phrase. For example, for “They are reading a book.” the corresponding content questions would be “Who is reading a book?” and “What are they reading?”
+- Someone is playing the bagpipes outside.
+- The library will ask to see proof of your address. (form questions for “proof of your address” and “your address”)
+- Several people have been talking about the recent scandal.
+- Frogs use their tongues to catch flies.
+- They always go to the beach in the summer.
+
+Exercise 12. Basic; 6.10. The following sentences are taken from The Venturesome Voyages of Captain Voss, by John Claus Voss, which is in the Public Domain in Canada. For each sentence, identify the thematic role of each NP.
+Because I had found, from the day I first met Dempster on Cocos Island till he died, that he was a straightforward and reliable man, I have decided to place confidence in you. I now ask, can you and will you procure for me a vessel and fit her out properly, sail with me to Cocos Island and assist me to put the treasure on board and take it to Victoria?
+The wind freshened considerably and hauled round to the west, at the same time throwing up a lively choppy sea, which made the little vessel jump about worse than a bucking horse.
+All three ships under full sail passed Cape Flattery towards evening, shaping their courses toward the south-west with a fresh easterly breeze.
+Exercise 13. Intermediate; 6.11. The following paragraph is taken from Swiss Sonata by Gwethalyn Graham, which is in the Public Domain in Canada. The main verb, together with any auxiliaries, has been underlined in several clauses. For each such clause, say whether it is passive or active.
+Her eyes reached Miss Ellerton, the games mistress, who, after a few impatient glances in Mlle Tourain’s direction, had got up from her chair and wandered over to the french windows where she was standing now, holding the curtain back with one hand and looking over the lovely grey town where dusk already lurked here and there. Some of the light which yet remained in the outer world was caught in her hair and outlined her small features so that the others, sitting patiently in their chairs, were aged by their contrasting dullness. Amélie Tourain leaned forward a little and switched on her desk light, then remained motionless looking at the girl by the window. An unaccountable conviction that Miss Ellerton was in some way connected with the turmoil in her mind had complete possession of her.
+Exercise 14. Basic; 6.13–6.15. Draw trees for sentences (a) through (e) in Exercise 2.
+Exercise 15. Intermediate; 6.13–6.15. Below are three sentences from Japanese. You can ignore morphological alternations in the form of the Japanese word for ‘three’ (sanninno in B and sandaino in c). For the purposes of this question you can assume numerals like ‘three’ are determiners (d) in Japanese, even though we would usually treat them as numerals (Num). Data for this question drawn from Crabtree & Powers 1991: 209; Sugisaki 2011:2.
+Describe in words how the order of words in NP, VP, and PP are different from the ones for similar categories in English. Based on the templates for specific phrase categories, provide a general X-bar schema that can generate all three Japanese sentences provided here. Draw tree structure diagrams for sentences (b) and (c).
+- Taroo-ga ringo-o tabeta. Taroo-NOM apple-ACC ate ‘Taro ate an apple.’
+- Sanninno gakusei-ga kita. three student-NOM came ‘Three students came.’
+- Gakusei-ga sandaino kuruma-de kita. student-NOM three car-in came ‘Students came in three cars.’
+
+Exercise 16. Basic; 6.16. Draw trees for sentences (f) through (h) in Exercise 2.
+Exercise 17. Intermediate; 6.17. Groucho Marx has famously joked, “One morning I shot an elephant in my pyjamas. How he got in my pyjamas I don’t know.” Draw the two tree diagrams that correspond to the two separate meanings of the sentence, “I shot an elephant in my pyjamas.”
+Exercise 18. Basic; 6.18. Draw trees for the sentences in Exercise 9, which all involve embedded clauses.
+Exercise 19. Basic; 6.19. Draw trees for the following sentences, which all involve main clause questions in English. Show any instances of movement with arrows, crossing out the relevant head or phrase in its original position.
+- Were they waiting a long time?
+- Does it matter?
+- Who can bring snacks?
+- What book were you reading?
+- Where is that train going?
+- When was this building built?
+
+Exercise 20. Basic; 6.20. Each of the following sentences is passive. For each one, come up with a corresponding active sentence (in most cases this will require inventing an agent). Draw trees for these sentences, showing any instances of movement with arrows, crossing out the relevant head or phrase in its original position.
+- She was being followed.
+- Their secrets were revealed by a newspaper story.
+- This cheese has been aged for 3 years.
+- That scarf was knit on very small needles.
+- Was the mystery solved?

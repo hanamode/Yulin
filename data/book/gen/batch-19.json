@@ -1,0 +1,107 @@
+{
+ "batch": 19,
+ "sections": {
+  "chapter-032-slug-4-3-contrastive-distribution-and-minimal-pairs": {
+   "title": {"en": "4.3 Contrastive distribution and minimal pairs", "zh": "4.3 对立分布与最小对立对"},
+   "summary": {
+    "en": "Two phones contrast when their distributions overlap, occurring in at least some of the same environments. A minimal pair proves such contrast because two words differ in exactly one position. When minimal pairs are unavailable, near-minimal pairs and speaker judgements about nonce words can serve as evidence.",
+    "zh": "当两个音素的分布存在重叠，即至少在某些环境中都能出现时，二者构成对立，形成对立分布。最小对立对能证明这种对立，因为两个词只在某一位置上存在差别。当找不到最小对立对时，可以借助近似最小对立对以及说话人对非词的判断来获取证据。"
+   },
+   "points": [
+    {"en": "Overlapping distributions mean two phones contrast; one minimal pair is enough to prove contrastive distribution.", "zh": "两个音素的分布一旦重叠即构成对立；只要找到一例最小对立对，就足以证明它们处于对立分布。"},
+    {"en": "A minimal pair has all the same phones in the same order except at one crucial position.", "zh": "最小对立对指两个词除某一关键位置外，所有音素及其排列顺序都完全相同。"},
+    {"en": "Rare phones like English [ʒ] have such limited distributions that minimal pairs are hard to find.", "zh": "像英语 [ʒ] 这样罕见的音素分布极受限制，因此很难为其找到最小对立对。"},
+    {"en": "A near-minimal pair has extra differences elsewhere, making it weaker evidence than a true minimal pair.", "zh": "近似最小对立对在别处还有额外差异，因此其证据力度弱于真正的最小对立对。"},
+    {"en": "Collecting multiple near-minimal pairs raises confidence that the small differences are incidental.", "zh": "收集多个近似最小对立对，可以提高我们对其余微小差异属于偶然、无关判断的信心。"},
+    {"en": "Nonce words fill minimal pair gaps when speakers accept them as possible words of the language.", "zh": "非词可以填补最小对立对的空缺，前提是说话人认可其为该语言中可能存在的词。"}
+   ],
+   "terms": [
+    {"en": "contrastive distribution", "zh": "对立分布", "defEn": "Two phones occur in at least some of the same environments, overlapping in distribution.", "defZh": "两个音素至少能在某些相同环境中出现，即分布存在重叠。"},
+    {"en": "minimal pair", "zh": "最小对立对", "defEn": "Two words identical in every phone and position except one crucial position.", "defZh": "两个词除某一关键位置外，音素及其顺序完全相同，只在该位置上有别。"},
+    {"en": "near-minimal pair", "zh": "近似最小对立对", "defEn": "A pair differing at the crucial position but also in one or more other places.", "defZh": "在关键位置上存在差别，但在其他一处或多处也同时有别的一对词。"},
+    {"en": "nonce word", "zh": "非词（临时编造词）", "defEn": "A word made up for one-time use, such as in linguistic experimentation.", "defZh": "为一次性使用而临时编造出来的词，常用于语言学实验或测试。"},
+    {"en": "minimal triplet", "zh": "最小三连组", "defEn": "Three words differing from each other at only one position.", "defZh": "三个词彼此只在某一个位置上存在差别的组合形式。"}
+   ],
+   "examples": [
+    {"text": "[pɪl] pill and [kɪl] kill", "noteEn": "A minimal pair: the two words share the form [▁ɪl] and differ in one position.", "noteZh": "最小对立对：两个词共享 [▁ɪl] 的形式，只在起始位置上存在差别。"},
+    {"text": "[plɛʒr̩] pleasure and [prɛʃr̩] pressure", "noteEn": "A near-minimal pair, since [l] versus [r] differs elsewhere in the word.", "noteZh": "近似最小对立对：关键位置之外还存在 [l] 与 [r] 的差别。"},
+    {"text": "[beʒ] beige versus the nonce word [beʃ]", "noteEn": "Speakers accept [beʃ] as a possible distinct word, showing [ʒ] and [ʃ] contrast.", "noteZh": "说话人认可 [beʃ] 是可能存在的另一个词，说明 [ʒ] 与 [ʃ] 确实构成对立。"},
+    {"text": "beet, bit, bait, bet, bat, but, bot, bought, boat, and boot", "noteEn": "A minimal 10-tuplet showing ten vowels contrasting with each other.", "noteZh": "最小十连组，表明十个元音彼此之间都存在对立。"}
+   ],
+   "body": [
+    {"en": "Besides the distribution of a single phone, phonologists compare the relative distribution of two phones. If some environments allow both, their distributions overlap and the phones are said to contrast, which gives contrastive distribution. The notion adapts the signed-language minimal pair, two signs sharing all articulation except one parameter, to words in spoken languages.", "zh": "除单个音素的分布外，音系学还比较两个音素之间的相对分布。若某些环境中二者都能出现，它们的分布便有重叠，称这两个音素互相对立，即处于对立分布。这一概念把手语中「除某一参数外发音动作相同」的最小对立对，推广到口语的词上。"},
+    {"en": "English [p] and [k] share many environments, as in [pɪl] pill and [kɪl] kill, [lɪp] lip and [lɪk] lick, [spɪl] spill and [skɪl] skill. Each pair has all the same phones in the same order except at one position, so [pɪl] and [kɪl] both fit the shape [▁ɪl]. One such pair suffices to establish contrastive distribution, making minimal pairs central to grouping phones into phonemes.", "zh": "英语的 [p] 与 [k] 出现在许多相同环境中，如 [pɪl] pill 与 [kɪl] kill、[lɪp] lip 与 [lɪk] lick、[spɪl] spill 与 [skɪl] skill。每一对除某一位置外，音素的数量和顺序都相同，例如 [pɪl] 与 [kɪl] 都符合 [▁ɪl] 的形式。仅凭这样一对词就足以确立对立分布，因此最小对立对是把音素归并为音位的关键依据。"},
+    {"en": "Minimal pairs are not always available. English [ʒ] is the rarest consonant, occurring in [ruʒ] rouge, [ɡərɑʒ] garage, [vɪʒn̩] vision, and [mɛʒr̩] measure but almost never word-initially outside borrowings, proper names, and the neologism [ʒʊʒ] zhoozh. Comparisons with [ʃ] therefore rest on unusual words such as [əluʒn̩] allusion versus [əluʃn̩] Aleutian. When no true minimal pair exists, we rely on near-minimal pairs like [plɛʒr̩] pleasure and [prɛʃr̩] pressure, which also differ in [l] versus [r].", "zh": "最小对立对并非总能找到。英语中最罕见的辅音 [ʒ] 出现在 [ruʒ] rouge、[ɡərɑʒ] garage、[vɪʒn̩] vision 和 [mɛʒr̩] measure 等词中，但除借词、专名和新造词 [ʒʊʒ] zhoozh 以外几乎不出现在词首。因此与 [ʃ] 的比较只能依靠 [əluʒn̩] allusion 对 [əluʃn̩] Aleutian 这类生僻词项。当真正的最小对立对不存在时，就改用近似最小对立对，如 [plɛʒr̩] pleasure 与 [prɛʃr̩] pressure，其差别还包括 [l] 与 [r]。"},
+    {"en": "A single minimal pair is powerful evidence, but a single near-minimal pair is not, since the extra differences might themselves matter to the distribution; gathering several increases confidence. Speakers can also judge nonce words invented to fill minimal pair gaps, such as [beʃ] created from [beʒ] beige, and if they accept it as a possible distinct word, the two phones are reasonably taken to contrast. Minimal triplets or larger n-tuplets, like the ten vowels of the words listed above, reduce the work involved.", "zh": "单个最小对立对是强有力的证据，单个近似最小对立对却不然，因为那些额外差异本身也可能与分布相关；只有累积多个才能提高信心。说话人还能判断为填补空缺而编造的非词，例如由 [beʒ] beige 造出的 [beʃ]；若该形式被认可为可能存在的另一个词，即可合理认定二者构成对立。最小三连组乃至更大的 n 连组，如上述十个元音构成的组合，能大幅减少所需的工作量。"}
+   ]
+  },
+  "chapter-033-slug-4-4-complementary-distribution": {
+   "title": {"en": "4.4 Complementary distribution", "zh": "4.4 互补分布"},
+   "summary": {
+    "en": "Two phones are in complementary distribution when their environments never overlap. Such phones may belong to different phonemes, as with English [h] and [ŋ], or to the same phoneme as allophones, as with long [iː] and short [i]. Phonetic similarity helps decide between these two analyses.",
+    "zh": "当两个音素出现的环境从不重叠时，它们处于互补分布。这样的音素可能分属不同音位，如英语的 [h] 与 [ŋ]；也可能作为音位变体同属一个音位，如长元音 [iː] 与短元音 [i]。判断这两种分析要靠语音相似性。"
+   },
+   "points": [
+    {"en": "Complementary distribution means each phone has its own set of environments, which never overlap.", "zh": "互补分布指两个音素各有一套出现环境，且这两套环境从不重叠。"},
+    {"en": "Contrastive distribution proves separate phonemes, but it is not required for two phones to be separate phonemes.", "zh": "对立分布足以证明两个音素分属不同音位，但分属不同音位并不要求必须存在对立分布。"},
+    {"en": "English [h] and [ŋ] are in complementary distribution yet belong to different phonemes.", "zh": "英语的 [h] 与 [ŋ] 处于互补分布，但仍属于两个不同的音位。"},
+    {"en": "Long [iː] and short [i] are in complementary distribution and are allophones of a single phoneme.", "zh": "长音 [iː] 与短音 [i] 处于互补分布，却是同一个音位的两个音位变体。"},
+    {"en": "Phonetic similarity, meaning shared articulatory properties, guides the choice between these analyses.", "zh": "语音相似性，即发音特征上的共同点，是作出上述取舍的依据。"}
+   ],
+   "terms": [
+    {"en": "complementary distribution", "zh": "互补分布", "defEn": "Two phones occur in completely different, non-overlapping sets of environments.", "defZh": "两个音素分别出现在两套完全不同、互不重叠的环境之中。"},
+    {"en": "phonetic similarity", "zh": "语音相似性", "defEn": "The degree to which phones share articulatory properties such as phonation, place, and manner.", "defZh": "音素之间在发声、发音部位、发音方法等发音特征上共有的程度。"},
+    {"en": "allophone", "zh": "音位变体", "defEn": "A phone that is a concrete realization of a particular phoneme.", "defZh": "某一音位在实际语音中具体实现出来的音素形式。"},
+    {"en": "phonation", "zh": "发声", "defEn": "The property of consonants concerning voicing and related laryngeal states.", "defZh": "辅音在浊音与否及喉部状态方面的特征，是定义辅音的主要属性之一。"},
+    {"en": "manner of articulation", "zh": "发音方法", "defEn": "The property describing how airflow is modified in producing a consonant.", "defZh": "描述气流在发出辅音时受到何种阻碍或调节的发音特征。"}
+   ],
+   "examples": [
+    {"text": "[həˈræs] harass", "noteEn": "For these speakers [h] appears at the beginning of a word.", "noteZh": "对这些说话人而言，[h] 可以出现在词的起始位置。"},
+    {"text": "[vəˈhɪkjulr̩] vehicular and [ˈviəkl̩] vehicle", "noteEn": "The [h] appears in the stressed syllable of one related word but not the other.", "noteZh": "[h] 出现在其中一个相关词的重读音节中，而在另一个词里消失。"},
+    {"text": "nonce forms such as ŋəræs and lɒh", "noteEn": "Swapping [h] and [ŋ] produces forms that speakers judge ungrammatical.", "noteZh": "把 [h] 与 [ŋ] 互换所造出的形式，被说话人判定为不合乎语法。"},
+    {"text": "[biːd] bead versus [bit] beat", "noteEn": "Long [iː] occurs before voiced codas; short [i] occurs before voiceless ones.", "noteZh": "长音 [iː] 出现在浊辅音韵尾之前，短音 [i] 则出现在清辅音之前。"}
+   ],
+   "body": [
+    {"en": "Two phones may stand in complementary distribution, each occupying environments that never overlap. For many English speakers [h] occurs word-initially, as in [həˈræs] harass, or at the start of a stressed syllable, as in [ˌkɒmprəˈhɛnd] comprehend and [ˈt͡ʃaɪldˌhʊd] childhood. The phone [ŋ] occurs only where [h] cannot: in a coda, as in [lɒŋ] long and [fɪŋ.ɡr̩] finger, or at the start of an unstressed syllable, as in [ˈsɪ.ŋr̩] singer. Swapping the two yields ungrammatical nonce forms, so no minimal pair exists and the phones appear not to contrast.", "zh": "两个音素也可能处于互补分布，各自占据彼此从不重叠的环境。对许多英语说话人来说，[h] 出现在词首，如 [həˈræs] harass，或出现在重读音节之首，如 [ˌkɒmprəˈhɛnd] comprehend 和 [ˈt͡ʃaɪldˌhʊd] childhood。[ŋ] 只出现在 [h] 不能出现的位置：韵尾，如 [lɒŋ] long 和 [fɪŋ.ɡr̩] finger；或非重读音节之首，如 [ˈsɪ.ŋr̩] singer。把二者互换会造出不合乎语法的非词，因此不存在最小对立对，二者看上去并不构成对立。"},
+    {"en": "Yet [h] and [ŋ] clearly belong to different phonemes, written with different symbols even in broad transcription, so contrastive distribution is sufficient but not necessary for separate phonemes. In most North American pronunciations the [iː] of [biːd] bead and the [i] of [bit] beat are distinct phones, the long one roughly 1.2 to 1.5 times as long. They too are in complementary distribution: [iː] requires a following coda of only voiced consonants, as in [biːd] bead, whereas a voiceless coda consonant yields short [i], as in [bit] beat.", "zh": "然而 [h] 与 [ŋ] 显然分属不同音位，即使在宽式标音中也用不同符号记录，可见对立分布足以说明音素分属不同音位，却并非必要条件。在多数北美英语发音中，[biːd] bead 的 [iː] 与 [bit] beat 的 [i] 是两个不同的音素，[iː] 的时长约为 [i] 的 1.2 至 1.5 倍。它们同样处于互补分布：[iː] 后面必须跟只含浊辅音的韵尾，如 [biːd] bead；韵尾辅音中只要有一个清音，就出现短音 [i]，如 [bit] beat。"},
+    {"en": "The two pairs therefore receive different analyses: [h] and [ŋ] are treated as separate phonemes /h/ and /ŋ/, while [iː] and [i] are allophones of one phoneme /i/. Phonetic similarity underlies the decision. Though both are consonants, [h] and [ŋ] differ in phonation, place, and manner of articulation, the main properties defining a consonant. The long and short high front vowels instead share vowel quality in height, backness, rounding, and tenseness, differing only in length. Care is needed: the allophones [ɾ] and [tʰ] of /t/ are both alveolar yet otherwise differ sharply.", "zh": "因此这两对音素得到不同的分析：[h] 与 [ŋ] 被处理为彼此不同的音位 /h/ 和 /ŋ/，而 [iː] 与 [i] 则被处理为同一音位 /i/ 的两个音位变体。判断依据是语音相似性。[h] 与 [ŋ] 虽都是辅音，却在发声、发音部位和发音方法上都不相同。长短高前元音则在舌位高低、前后、圆唇和松紧四个方面具有相同的元音音质，只在长度上有别。不过判断仍需谨慎：/t/ 的两个音位变体 [ɾ] 与 [tʰ] 同为齿龈音，其他方面差异很大。"},
+    {"en": "In general, contrastive distribution guarantees separate phonemes, while complementary distribution leaves two possibilities: English [h] and [ŋ] belong to different phonemes, whereas [iː] and [i] belong to one phoneme.", "zh": "总之，对立分布意味着两个音素分属不同音位；互补分布则有两种可能，例如英语的 [h] 与 [ŋ] 分属不同音位，而 [iː] 与 [i] 同属一个音位。"}
+   ]
+  },
+  "chapter-034-slug-4-5-phonemic-analysis": {
+   "title": {"en": "4.5 Phonemic analysis", "zh": "4.5 音位分析"},
+   "summary": {
+    "en": "Phonemic analysis determines the phonemes of a language, their allophones, and each allophone's distribution; the result is a phonemicization. Because phonemes are abstract, several analyses may fit the data, and competing accounts are compared by the principle of simplicity. Georgian laterals demonstrate a six-step procedure ending in phoneme /ɫ/.",
+    "zh": "音位分析旨在确定一种语言的音位、各音位的音位变体及其分布，所得整体分析称为音位化。由于音位是抽象概念，同一批数据可能容许多种分析，因此需要依据简约性原则比较不同方案。格鲁吉亚语边音的分析展示了完整的六个步骤，最终得出音位 /ɫ/。"
+   },
+   "points": [
+    {"en": "Phonemic analysis identifies a language's phonemes, their allophones, and each allophone's distribution.", "zh": "音位分析要确定一种语言的音位、各音位的音位变体以及每个音位变体的分布。"},
+    {"en": "Languages generally lack a single unique phonemicization, since phones can be divided into phonemes in many ways.", "zh": "语言通常不存在唯一正确的音位化方案，因为把音素划分为音位可以有多种方式。"},
+    {"en": "When two analyses both fit the data, the simpler one is preferred under the principle of simplicity.", "zh": "当两种分析都符合数据时，依据简约性原则优先选择较简单的那一种。"},
+    {"en": "Step one identifies the phones of interest and groups larger sets by natural classes.", "zh": "第一步是确定所关注的音素；若音素较多，还需按自然类加以归组。"},
+    {"en": "Comparing simplified environments reveals whether the phones overlap or stand in complementary distribution.", "zh": "对简化后的环境进行比较，即可看出两个音素是对立还是互补分布。"},
+    {"en": "The default allophone occurs in the widest variety of environments and usually represents the phoneme.", "zh": "默认音位变体出现在最多样的环境中，通常用它的符号来代表整个音位。"}
+   ],
+   "terms": [
+    {"en": "phonemic analysis", "zh": "音位分析", "defEn": "Analyzing a language to determine its phonemes, allophones, and allophonic distributions.", "defZh": "对一种语言进行分析，以确定其音位、音位变体以及各变体的分布。"},
+    {"en": "phonemicization", "zh": "音位化", "defEn": "The overall analysis assigning the phones of a language to phonemes.", "defZh": "把一种语言的音素整体归入各个音位的分析结果。"},
+    {"en": "principle of simplicity", "zh": "简约性原则", "defEn": "The preference for the simpler analysis when competing analyses fit the data equally.", "defZh": "当多种分析同样符合数据时，优先采用更简单分析的准则。"},
+    {"en": "default allophone", "zh": "默认音位变体", "defEn": "The allophone appearing in the widest variety of environments, the elsewhere case.", "defZh": "出现环境最为广泛的那个音位变体，即其余情况下的默认形式。"},
+    {"en": "natural class", "zh": "自然类", "defEn": "A group of sounds sharing phonetic properties that pattern together.", "defZh": "在音系行为上具有共同表现、共享某些语音特征的一组音。"},
+    {"en": "secondary articulation", "zh": "次要发音", "defEn": "An additional constriction superimposed on a sound's primary articulation.", "defZh": "在主要发音之外附加的另一个收紧动作，如软腭化。"}
+   ],
+   "examples": [
+    {"text": "[vxlet͡ʃh] 'I split'", "noteEn": "Provides the environment x▁e for the clear lateral [l].", "noteZh": "为清边音 [l] 提供 x▁e 这一环境。"},
+    {"text": "[leɫo] 'goal'", "noteEn": "Contains both phones: a word-initial environment for [l] and e▁o for dark [ɫ].", "noteZh": "同时包含两个音素：[l] 的词首环境与暗 [ɫ] 的 e▁o。"},
+    {"text": "[lif] leaf versus [fiɫ] feel", "noteEn": "English shows clear [l] word-initially and dark [ɫ] word-finally.", "noteZh": "英语中清 [l] 位于词首，暗 [ɫ] 位于词尾。"},
+    {"text": "[aɫq’a] 'siege'", "noteEn": "Only dark [ɫ] occurs before consonants, confirming the prediction.", "noteZh": "辅音前只出现暗 [ɫ]，印证了分析所作的预测。"}
+   ],
+   "body": [
+    {"en": "Phonemic analysis establishes a language's phonemes, their allophones, and each allophone's distribution; the finished analysis is a phonemicization. Phones may be divided into phonemes in many ways, so no language has just one possible phonemicization, and since phonemes are abstract an analysis cannot be directly verified. Where competing analyses both fit the data, the principle of simplicity favours the simpler one.", "zh": "音位分析要确定一种语言的音位、各音位的音位变体及每个变体的分布，完成后的整体分析称为音位化。把音素划分为音位可以有多种方式，因此任何语言都不只有一种可能的音位化方案；又因音位是抽象概念，我们无法直接检验分析是否正确。当两种分析都符合数据时，简约性原则倾向于较简单的一种。"},
+    {"en": "The method can be shown with the Georgian lateral approximants, clear [l] and velarized dark [ɫ], which differ in whether the tongue back is raised. First identify the phones of interest, grouping larger sets by natural class if useful; then list the environment of every occurrence word by word. Thus [vxlet͡ʃh] 'I split' supplies x▁e for [l], and [leɫo] 'goal' supplies environments for both phones. The third step checks for overlap, which would indicate contrastive distribution, as English [p] and [k] would; Georgian shows none.", "zh": "这一方法可用格鲁吉亚语的边音来说明：清 [l] 与软腭化的暗 [ɫ]，差别在于舌背是否抬起。先确定所关注的音素，必要时把较大的音素集合按自然类归组；再逐词列出每次出现的环境。于是 [vxlet͡ʃh]「我劈开」为 [l] 提供 x▁e，[leɫo]「目标」则同时为两个音素提供环境。第三步检查环境是否重叠，重叠即意味着对立分布，正如英语 [p] 与 [k] 的情形；格鲁吉亚语的数据中没有这种重叠。"},
+    {"en": "The fourth step simplifies the lists. The left environments vary with no consistent natural class, while the right environments group clearly, so the left side can be ignored. The reduced lists show [l] only before the front vowels [e] and [i], and [ɫ] only before the back vowel [o], the central vowel [a], the voiceless fricatives [ʃ], [s], and [x], and the end of a word. These opposite environments are classic complementary distribution, and since the laterals share phonation, place, and manner, differing only in secondary articulation, they count as allophones of one phoneme.", "zh": "第四步是简化环境清单。两个音素的左侧环境纷繁多样，找不出前后一致的自然类，右侧环境却能各自形成清楚的类别，因此可以忽略左侧。简化后的清单显示：[l] 只出现在前元音 [e] 和 [i] 之前；[ɫ] 只出现在后元音 [o]、央元音 [a]、清擦音 [ʃ]、[s]、[x] 之前以及词末。这些恰好相互对立的环境正是典型的互补分布；又因两个边音在发声、发音部位和发音方法上相同，只差次要发音，足以视为同一音位的音位变体。"},
+    {"en": "The final step chooses the default allophone. Since [ɫ] occurs in many dissimilar environments, it is the elsewhere case, and convention uses its symbol to represent the phoneme, giving /ɫ/. Phonemes are abstract and possibly mental, while allophones are concrete measurable sounds, so the bracketing matters. The phoneme /ɫ/ corresponds to [l] before front vowels and [ɫ] elsewhere, as in the diagram of Figure 4.1; this predicts that [aɫq’a] 'siege' can only contain dark [ɫ].", "zh": "最后一步确定默认音位变体。由于 [ɫ] 出现在许多彼此不同的环境中，属于其余情况下的默认形式，而按惯例用它的符号代表音位，故记作 /ɫ/。音位是抽象的、可能属于心理表征的实体，音位变体则是具体可测的语音，因此括注方式不可混用。音位 /ɫ/ 对应 [l] 与 [ɫ]，其中 [l] 出现在前元音之前，[ɫ] 出现在其余环境，见图 4.1 的树形图；由此预测 [aɫq’a]「围攻」中只能是暗 [ɫ]。"}
+   ]
+  }
+ }
+}

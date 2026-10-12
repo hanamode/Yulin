@@ -1,0 +1,347 @@
+{
+ "batch": 38,
+ "sections": {
+  "chapter-082-slug-7-9-degrees": {
+   "title": {
+    "en": "7.9 Degrees",
+    "zh": "7.9 程度"
+   },
+   "summary": {
+    "en": "Adjectives like scary, warm and tall are gradable: they accept modification by very, appear in comparatives, and can combine with a measure phrase. Such adjectives carry a degree argument whose value lies on a scale. The section shows degrees made visible in Italian Sign Language, comparison without degree morphemes in Washo and Motu, and the contrast between implicit and explicit comparison.",
+    "zh": "scary、warm、tall 这类形容词是程度形容词：它们可以受 very 修饰，可以出现在比较结构中，也能与度量短语组合。这类形容词的词汇语义中含有一个程度论元，其取值沿某一量表确定。本节展示意大利手语中可见的程度、瓦肖语和莫图语不用程度语素的比较方式，并区分隐性比较与显性比较。"
+   },
+   "points": [
+    {
+     "en": "Gradable adjectives accept very, occur in comparatives, and take measure phrases when a conventional unit of measurement exists.",
+     "zh": "程度形容词可受 very 修饰，能用于比较结构，并且在存在约定度量单位时可接受度量短语。"
+    },
+    {
+     "en": "A degree analysis treats tall as meaning 'x is tall to a degree d', where d is measured along an abstract scale.",
+     "zh": "程度分析把 tall 的意义处理为“x 达到程度 d 的 tall”，其中 d 沿一条抽象量表取值，量表如同量尺。"
+    },
+    {
+     "en": "Every gradable adjective has an associated scale, even when the language has no conventional unit such as cm or °C.",
+     "zh": "每个程度形容词都关联一条量表，即使该语言没有 cm、°C 这类约定单位，量表也依然存在。"
+    },
+    {
+     "en": "In Italian Sign Language the degree argument of tall is overt, so a pronoun can point to Pietro's degree locus.",
+     "zh": "在意大利手语中，tall 的程度论元是显性的，因此指向代词可以指代 Pietro 所达到的程度位置。"
+    },
+    {
+     "en": "Non-gradable adjectives such as ceramic and wooden classify rather than measure, though context can coerce a gradable reading.",
+     "zh": "ceramic、wooden 等非程度形容词表示分类而非计量，但语境可以迫使它们获得可分级的程度解读。"
+    },
+    {
+     "en": "Washo and Motu compare without degree morphemes by implicit comparison, whereas English usually compares degrees explicitly with -er.",
+     "zh": "瓦肖语和莫图语不用程度语素，而以隐性比较表达比较义；英语则通常用 -er 显性比较两个程度。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "gradable adjective",
+     "zh": "程度形容词",
+     "defEn": "An adjective whose meaning includes a degree, allowing very-modification and comparative use.",
+     "defZh": "语义中含有程度成分、可受 very 修饰并能用于比较结构的形容词，如 tall、warm、scary。"
+    },
+    {
+     "en": "degree",
+     "zh": "程度",
+     "defEn": "A value on a scale that measures how much of a property holds.",
+     "defZh": "量表上的一个具体取值，用来衡量某一属性在多大程度上成立。"
+    },
+    {
+     "en": "scale",
+     "zh": "量表",
+     "defEn": "An abstract measuring stick along which the degrees of a gradable adjective are ordered.",
+     "defZh": "一条抽象的量尺，程度形容词的各个程度值沿其排列，如长度量表、温度量表。"
+    },
+    {
+     "en": "non-gradable adjective",
+     "zh": "非程度形容词",
+     "defEn": "An adjective that resists degree modification and comparatives because it classifies rather than measures.",
+     "defZh": "不能受程度修饰、也不能用于比较结构的形容词，因为它只表示分类而非计量。"
+    },
+    {
+     "en": "implicit comparison",
+     "zh": "隐性比较",
+     "defEn": "Comparison made by manipulating context so that a predicate holds of one entity but not another.",
+     "defZh": "通过调整语境使谓语只对其中一个比较对象成立，从而间接表达比较意义。"
+    },
+    {
+     "en": "explicit comparison",
+     "zh": "显性比较",
+     "defEn": "Comparison that directly compares two degrees or measurements, as English -er does.",
+     "defZh": "直接比较两个具体的程度值或测量值，如英语比较级 -er 所表达的比较。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "That's a very scary story.",
+     "noteEn": "Very modifies the gradable adjective scary, showing that its meaning includes a degree.",
+     "noteZh": "very 能修饰程度形容词 scary，说明 scary 的语义中含有程度与量表成分。"
+    },
+    {
+     "text": "It's warmer today than yesterday.",
+     "noteEn": "A comparative construction: today's degree of warmth is higher than yesterday's.",
+     "noteZh": "这是比较结构：今天温暖所达到的程度高于昨天所达到的程度。"
+    },
+    {
+     "text": "That person is 6ft tall.",
+     "noteEn": "A measure phrase specifies the exact degree of tallness on the height scale.",
+     "noteZh": "度量短语具体指明该身高在身高量表上达到的程度值。"
+    },
+    {
+     "text": "t’é:liwhu delkáykayiʔ k’éʔi daʔmóʔmoʔ delkáykayiʔé:s",
+     "noteEn": "Washo expresses 'The man is taller than the woman' by saying the man is tall and the woman is not.",
+     "noteZh": "瓦肖语用“男人高、女人不高”来表达“男人比女人高”，即隐性比较。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Many adjectives let speakers say how much of a property an individual has. Scary, warm and tall belong to this class, the gradable adjectives: they can be modified by very, as in That's a very scary story, they appear in comparatives such as It's warmer today than yesterday, and, where a unit of measurement exists, they combine with a measure phrase, as in That person is 6ft tall.",
+     "zh": "许多形容词允许说话人说明某一属性在多大程度上成立。scary、warm、tall 就属于这一类，称为程度形容词：它们可以受 very 修饰，如 That's a very scary story；可以出现在比较结构中，如 It's warmer today than yesterday；当存在度量单位时，还可以与度量短语组合，如 That person is 6ft tall。"
+    },
+    {
+     "en": "One analysis builds a degree into the lexical semantics of these adjectives. Tall does not simply mean 'x is tall'; it means 'x is tall to a degree d', with d on a scale, an abstract measuring stick. Tallness is measured along a length scale and warmth along a temperature scale. A measure phrase pins down a degree; very says it counts as high in the context; a comparative ranks two entities' degrees on one scale. Even scary, which has no conventional unit, has a scale: we can rate how scary a film was from 1 to 10.",
+     "zh": "一种分析把程度纳入这些形容词的词汇语义。tall 并不只表示“x 高”，而表示“x 达到程度 d 的 tall”，其中 d 落在一条量表上——一条抽象的量尺。高矮沿长度量表衡量，冷暖沿温度量表衡量。度量短语确定一个程度值；very 表示该程度在语境中被视为高；比较结构把两个实体放在同一量表上并排出它们的程度高低。即使 scary 没有约定单位，它同样有量表，因为我们可以按 1 到 10 分评价一部电影有多吓人。"
+    },
+    {
+     "en": "Across languages, degrees are not always hidden. In Italian Sign Language certain adjectives make them visible: TALL introduces a locus s for the standard of tallness and a locus d for Pietro's degree, and a pointing pronoun can refer back to d, so the degree argument surfaces overtly. Washo and Motu have no morphemes for -er or more; they compare implicitly, saying that the man is tall but the woman is not, or that Mary is tall and Frank short. English can compare degrees explicitly, but also implicitly, as in Compared to Anne-Michelle, Marcin is tall.",
+     "zh": "在不同语言中，程度并不总是隐而不显。在意大利手语里，某些形容词让程度变得可见：TALL 这一手势引入两个位置，s 表示算得上高的最低程度（即 tall 的标准），d 表示 Pietro 所达到的程度；指别代词可以回指 d，于是程度论元以显性成分出现。瓦肖语和莫图语没有与 -er 或 more 对应的语素，它们采用隐性比较：说男人高而女人不高，或说 Mary 高而 Frank 矮。英语既能显性比较程度，也能使用隐性比较，如 Compared to Anne-Michelle, Marcin is tall。"
+    },
+    {
+     "en": "Not every adjective has a degree. Ceramic and wooden resist very and comparatives, because they classify things into categories: something is either wooden or not. Yet speakers readily supply scales: That mosquito is very alive can be rescued by measuring visible vigour. Whether an adjective carries a degree argument is a lexical specification that varies across languages.",
+     "zh": "并非所有形容词都有程度。ceramic 和 wooden 不能受 very 修饰，也不能用于比较结构，因为它们把事物分入类别：要么是木制的，要么不是。不过语言使用者很善于临时补充量表，That mosquito is very alive 可以借助看起来多有活力而变得可接受。形容词是否带有程度论元，属于词汇层面的规定，并且会因语言而异。"
+    }
+   ]
+  },
+  "chapter-083-slug-7-10-why-not-the-dictionary": {
+   "title": {
+    "en": "7.10 Why not the dictionary?",
+    "zh": "7.10 为什么不能依赖词典？"
+   },
+   "summary": {
+    "en": "Dictionaries are often treated as the ultimate authority on language, yet they are written by fallible humans and may even contain invented entries such as Dord and mountweazels. Many genuine words, including tubist and beigeness, are left out for reasons of efficiency, and definitions capture only part of a word's meaning. Language users, not lexicographers, create meaning.",
+    "zh": "人们常把词典视为语言的最高权威，但词典由会犯错的人编写，甚至含有 Dord、mountweazel 这类虚构词条。出于效率考虑，tubist、beigeness 等真实存在的词也可能未被收录，而词典释义只呈现词义的一部分。创造意义的是语言使用者，词典编纂者只是记录了其中一部分用法，因此词典永远无法成为语言的完整记录。"
+   },
+   "points": [
+    {
+     "en": "Lexicographers are human and make errors: the meaningless entry Dord entered Merriam-Webster because of a misread note.",
+     "zh": "词典编纂者也是人，会出错：Merriam-Webster 因误读一条批注而收入了毫无意义的词条 Dord。"
+    },
+    {
+     "en": "Some entries are deliberately invented, called mountweazels, in order to catch publishers who copy a dictionary.",
+     "zh": "有些词条是为识别抄袭者而故意编造的，称为 mountweazel，即防抄袭的假词条。"
+    },
+    {
+     "en": "Because lexicographers choose what to include, productive derived words like tubist or unenthusiasticness may be absent for efficiency.",
+     "zh": "由于收录范围由编纂者决定，出于效率考虑，tubist、unenthusiasticness 这类能产的派生词可能不被收录。"
+    },
+    {
+     "en": "Definitions are partial: using museum for 'person who works at a museum' is descriptively valid but is not listed.",
+     "zh": "释义只是部分的：用 museum 指在博物馆工作的人在描述上完全成立，却不见于词典的义项。"
+    },
+    {
+     "en": "What makes a word real is use in the relevant community, not presence in a dictionary; Johnson's dictionary pursued prescriptive aims.",
+     "zh": "一个词是否真实，取决于相关语言社群是否实际使用，而非是否见于词典；约翰逊的词典带有规定语言的意图。"
+    },
+    {
+     "en": "Sentential minimal pairs such as Japanese eda-o otta and #sara-o otta let linguists test hypotheses about lexical meaning.",
+     "zh": "日语 eda-o otta 与 #sara-o otta 这类句子层面的最小对立对，可用来检验关于词汇意义的假设。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "lexicographer",
+     "zh": "词典编纂者",
+     "defEn": "A person who writes or compiles the entries of a dictionary.",
+     "defZh": "编写和编纂词典词条的人，其工作受到人类知识与编纂效率的限制。"
+    },
+    {
+     "en": "mountweazel",
+     "zh": "蒙威泽尔词条（mountweazel）",
+     "defEn": "A fictitious entry placed in a dictionary or reference work to detect plagiarism.",
+     "defZh": "词典或工具书中故意编造的假词条，用来发现未经许可的抄袭行为。"
+    },
+    {
+     "en": "derivational morpheme",
+     "zh": "派生语素",
+     "defEn": "An affix that builds a new word, often with a predictable meaning, like -ist or -ness.",
+     "defZh": "能够构成新词、往往还会改变词类的词缀，其意义通常可以预测，如 -ist、-ness。"
+    },
+    {
+     "en": "minimal pair",
+     "zh": "最小对立对",
+     "defEn": "A pair of expressions that are identical except for exactly one parameter.",
+     "defZh": "除一个参数外其余部分完全相同的两个表达式，用以检验该差异造成的影响。"
+    },
+    {
+     "en": "prescriptive",
+     "zh": "规定性的",
+     "defEn": "Concerned with prescribing how language should be used rather than describing how it is used.",
+     "defZh": "主张规定语言应当如何使用的立场，与描写实际用法的取向相对。"
+    },
+    {
+     "en": "descriptive",
+     "zh": "描述性的",
+     "defEn": "Based on how people actually use language rather than on rules about how they ought to.",
+     "defZh": "以语言使用者的实际用法为依据，而不是依据应当如何使用的语言规范。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Dord",
+     "noteEn": "A ghost entry in Merriam-Webster that was wrongly taken to mean 'density'.",
+     "noteZh": "Merriam-Webster 中因误读批注而出现的假词条，曾被当成表示密度的词。"
+    },
+    {
+     "text": "Purpleness is, but not beigeness",
+     "noteEn": "Shows that -ness nouns are formed freely, yet dictionaries include only some of them.",
+     "noteZh": "说明 -ness 名词可以自由构成，但词典只收录其中的一部分形式。"
+    },
+    {
+     "text": "I visited a museum in Toronto today.",
+     "noteEn": "Here museum has its ordinary sense of a place where art and other things are exhibited.",
+     "noteZh": "此处 museum 用的是通常意义，指展出艺术品等物品的场所。"
+    },
+    {
+     "text": "#sara-o otta",
+     "noteEn": "Japanese sentence meaning 'She broke a plate'; compared with eda-o otta, it shows that otta restricts its object.",
+     "noteZh": "意为“她打破了盘子”的日语句子；与 eda-o otta 对比可见 otta 对宾语有所限制。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Many people treat the dictionary as the ultimate authority on language, insisting that something is not a word unless it appears there. That reasoning is flawed, because lexicographers are human and humans err. In the early 1930s a consultant wrote 'D or d' beside the entry for density in Merriam-Webster, and a lexicographer printed Dord as a word meaning 'density'; the error survived until 1947. Dictionaries may also contain deliberate fictions called mountweazels, such as the 1975 entry on the imaginary photographer Lillian Virginia Mountweazel.",
+     "zh": "有一种流行的误解，认为词典是语言的最高权威，人们有时还会以词典里没有为由断言某个说法不算词。这种推理并不成立。词典编纂者也是人，而人会犯错。20 世纪 30 年代初，一位顾问在 Merriam-Webster 的 density 词条旁写下 D or d，某位编纂者却误把 Dord 当作表示密度的词印入词典，这个错误直到 1947 年才改正。词典中还可能刻意安置假词条，即 mountweazel：1975 年就收录了虚构摄影师 Lillian Virginia Mountweazel 的条目，用来发现抄袭者。"
+    },
+    {
+     "en": "Dictionaries also omit genuine words. The suffix -ist attaches productively to instrument nouns, giving guitarist, violinist and oboist, yet tubist has no entry in the Oxford English Dictionary, even though the National Academy Orchestra of Canada used the word in 2021. Similarly, unenthusiastic and purpleness are listed, but unenthusiasticness and beigeness are not. Listing every derived form would be uneconomical, so omission reflects efficiency, not invalidity; different dictionaries also serve different purposes.",
+     "zh": "词典也不可能收录所有词。-ist 这类能产后缀可以自由附着在乐器名词后表示演奏者，如 guitarist、violinist、oboist。然而 tubist 在 Oxford English Dictionary 中并没有词条，尽管加拿大国家管弦乐团 2021 年曾使用这个词。同样，unenthusiastic 被收录，unenthusiasticness 却没有；purpleness 被收录，beigeness 却没有。把所有派生形式都列出并不经济，因此未收录通常出于效率考虑，而非否定这个词；何况各类词典用途不同。"
+    },
+    {
+     "en": "Even a listed word is not fully defined. In The museum said they were closing indefinitely, museum does not denote the building but roughly 'person who works at the museum', a meaning absent from the Oxford English Dictionary. The use is nonetheless descriptively valid, because people do use it that way. A word can carry many context-dependent meanings that no lexicographer can record. A dictionary is a reference work and a partial record of usage, giving a general picture and enough information to guess how a word might be used.",
+     "zh": "即使是已收录的词，释义也不完整。在 The museum said they were closing indefinitely 中，museum 并不指建筑物，而大致相当于在博物馆工作的人，这一意义并未见于 Oxford English Dictionary。但这种用法在描述上是成立的，因为人们确实这样使用。一个词可以有许多依赖语境的意义，任何编纂者都无法全部记录下来。词典是一种参考工具，是对语言用法的部分记录：它给出大致图景，以及足以推测用法的信息。"
+    },
+    {
+     "en": "Dictionaries were never meant to record everything. James Murray, an editor of the first Oxford English Dictionary, noted that the vocabulary of a living language is not a fixed quantity circumscribed by definite limits. Because language keeps changing, the number of real words is never finite, and lexicographers record only part of the vocabulary. Linguists therefore observe use, testing hypotheses with sentential minimal pairs such as the Japanese eda-o otta and #sara-o otta.",
+     "zh": "词典从来就不打算记录一切。第一版 Oxford English Dictionary 的编者詹姆斯·默里指出，一种广泛使用、高度发达的活语言的词汇并不是被确定界限所限定的固定量。语言始终在变化，因此真实词的数量永远不是有限的，编纂者只记录了词汇的一部分。要探究词义，语言学家转而观察实际用法，并用句子层面的最小对立对检验假设，例如日语的 eda-o otta 与 #sara-o otta。"
+    }
+   ]
+  },
+  "chapter-084-slug-7-11-denotation": {
+   "title": {
+    "en": "7.11 Denotation",
+    "zh": "7.11 外延"
+   },
+   "summary": {
+    "en": "This section contrasts sense, the semantic information stored in the mental lexicon, with denotation, what a linguistic expression points to. One-place predicates denote sets, proper names denote unique individuals or references, and declarative sentences denote truth values. Since world knowledge is often lacking, sentence denotations are usually given as truth conditions, and denotation is technically relativised to our cognitive representation of the world.",
+    "zh": "本节对比涵义与指称：涵义是存放在心理词库中的语义信息，指称则是语言表达式所指向的对象。一元谓语指称集合，专有名词指称唯一的个体即其指称对象，陈述句则指称真值。由于我们往往缺乏相关世界知识，句子的外延通常以真值条件给出；严格说来，指称是相对于我们对世界的认知表征而言的。"
+   },
+   "points": [
+    {
+     "en": "Sense is the semantic information stored in the mental lexicon, while denotation is what an expression points to.",
+     "zh": "涵义是存放在心理词库中的语义信息，指称则是表达式所指向的对象。"
+    },
+    {
+     "en": "One-place predicates, including some nouns, adjectives and intransitive verbs, denote sets of things in the world.",
+     "zh": "一元谓语（包括部分名词、形容词和不及物动词）指称现实世界中事物所构成的集合。"
+    },
+    {
+     "en": "Proper names denote a unique individual, called the expression's reference, and are written as bolded constants such as n.",
+     "zh": "专有名词指称唯一的个体，即该表达式的指称对象，通常写作加粗的常项如 n。"
+    },
+    {
+     "en": "Constants have fixed values while variables are placeholders; early alphabet letters conventionally serve as constants.",
+     "zh": "常项的值固定不变，变项则是可以变化的占位符号；习惯上字母表靠前的字母用作常项。"
+    },
+    {
+     "en": "Only sentences have truth values, written T or F, as the test It is true/false that shows.",
+     "zh": "只有句子才具有真值，写作 T 或 F，这可由 It is true/false that 这一句式加以检验，名词和短语则不行。"
+    },
+    {
+     "en": "A sentence's denotation is its truth value, computed as truth condition plus world knowledge; otherwise we state the truth condition.",
+     "zh": "句子的外延就是其真值，由真值条件加上世界知识得出；若缺乏世界知识，则只写出真值条件。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "sense",
+     "zh": "涵义",
+     "defEn": "The semantic information a word expresses and that speakers store in the mental lexicon.",
+     "defZh": "词语所表达的语义信息，也是说话人存放在心理词库中的内容。"
+    },
+    {
+     "en": "denotation",
+     "zh": "外延（指称）",
+     "defEn": "What a linguistic expression points to in the actual world, or in our cognitive representation of it.",
+     "defZh": "语言表达式在现实世界（严格说是我们对现实世界的认知表征）中所指向的对象。"
+    },
+    {
+     "en": "reference",
+     "zh": "指称对象",
+     "defEn": "The unique individual that an expression such as a proper name denotes.",
+     "defZh": "专有名词等表达式所指称的那个唯一确定的个体对象，又称该表达式的指称。"
+    },
+    {
+     "en": "truth value",
+     "zh": "真值",
+     "defEn": "The abstract value true or false that a declarative sentence has.",
+     "defZh": "陈述句所具有的抽象取值，即要么为真、要么为假，通常分别写作 T 与 F。"
+    },
+    {
+     "en": "truth condition",
+     "zh": "真值条件",
+     "defEn": "The circumstances under which a sentence would receive a particular truth value.",
+     "defZh": "使一个句子获得某一特定真值（真或假）所需要满足的具体情形或条件。"
+    },
+    {
+     "en": "constant",
+     "zh": "常项",
+     "defEn": "A symbol with a fixed value, such as bolded n for the individual Nathan Sanders.",
+     "defZh": "取值固定不变、始终代表同一个体的符号，例如用加粗的 n 表示语言学家 Nathan Sanders。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The building to the north of the bank",
+     "noteEn": "A phrase with its own sense that nonetheless denotes the post office in the town.",
+     "noteZh": "该短语有自身的涵义，却与另一短语指称同一座邮局。"
+    },
+    {
+     "text": "My house",
+     "noteEn": "Same sense for every speaker, but its denotation depends on who utters it.",
+     "noteZh": "无论由谁说出，其涵义相同，但指称对象随说话人而改变。"
+    },
+    {
+     "text": "⟦sour⟧ = the set of all sour things in the actual world",
+     "noteEn": "One-place predicates denote sets of things rather than a single individual.",
+     "noteZh": "一元谓语的外延是事物构成的集合，而不是某一个个别的对象。"
+    },
+    {
+     "text": "⟦My neighbour’s cat’s liver weighs 326 grams⟧ = T if my neighbour’s cat’s liver weighs 326 grams in the actual world, F otherwise",
+     "noteEn": "When world knowledge is unavailable, a sentence's denotation is stated as its truth condition.",
+     "noteZh": "当缺乏相关世界知识时，句子的外延就以真值条件的形式给出。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier in the chapter, meaning was analysed as sense: the semantic information a word expresses, stored in the mental lexicon. Sense is hard to pin down. It is probably not a list of necessary and sufficient conditions, it seems tied to concepts, and predicates specify how many arguments they take and what roles those arguments carry. Nouns specify countability, adjectives specify whether they are stage-level or individual-level, and some adjectives carry a degree argument. Lexical semanticists therefore ask general questions about semantic classes and lexical organisation.",
+     "zh": "本章前面主要从涵义的角度分析意义，即词语所表达、存放于心理词库中的信息。涵义很难精确刻画：它很可能不是一组充分必要条件，而与概念相关联；谓语还规定自己带几个论元、这些论元充当什么角色。名词规定可数性，形容词规定属于阶段层面还是个体层面，有些形容词还带有程度论元。因此词汇语义学家更关心语义类别与词条组织这类一般问题，而不是孤立地确定某一个词的意义。"
+    },
+    {
+     "en": "Denotation offers another angle. The denotation of an expression is what it points to in the actual world: sour points to all sour things, such as lemons, limes, grapefruit, vinegar and pickles, and pencil points to the set of all pencils. Strictly speaking, it points to our cognitive representation of the actual world, because unicorn and Mario denote nothing in reality yet are clearly meaningful.",
+     "zh": "指称提供了另一个分析角度。表达式的外延就是它在现实世界中所指向的对象：sour 指向所有酸的东西，如 lemons、limes、grapefruit、vinegar、pickles；pencil 指向所有铅笔构成的集合。严格说来，指称是表达式在我们的认知表征中所指向的对象，因为 unicorn、Mario 在现实中并不存在，却显然有意义。"
+    },
+    {
+     "en": "Sense and denotation are related: the sense of a word is what you use to decide what it points to. A map of a town makes the difference clear. The building to the north of the bank and the building to the east of the library contain different words and therefore different senses, yet both denote the same post office. My house, by contrast, has one sense for every speaker but its denotation changes with the speaker.",
+     "zh": "涵义与指称相互关联：正是借助一个词的涵义，我们才能判断它指向什么。用一张城镇地图可以清楚看出二者的差别。The building to the north of the bank 与 The building to the east of the library 用词不同，涵义因而不同，但二者指称同一座邮局。相反，My house 对每个说话人来说涵义相同，其指称却随说话人而改变。"
+    },
+    {
+     "en": "For one-place predicates, denotation is a set: ⟦pencil⟧ is the set of all pencils and ⟦snore⟧ the set of all things that snore. A proper name denotes a particular individual, abbreviated by a bolded constant such as n; unlike variables, constants cannot vary. Only sentences have truth values, T or F, as the construction It is true/false that shows. The denotation of Nathan Sanders is bald is therefore T, or a truth condition if we lack the relevant world knowledge.",
+     "zh": "对一元谓语而言，外延是一个集合：⟦pencil⟧ 是所有铅笔的集合，⟦snore⟧ 是所有打呼噜之物的集合。专有名词指称某个特定个体，可缩写为加粗常项如 n；与变项不同，常项的值不能改变。只有句子才有真值 T 或 F，这可由 It is true/false that 这一结构检验。因此 Nathan Sanders is bald 的外延是 T；若缺少相关世界知识，则改以真值条件的形式表达。"
+    }
+   ]
+  }
+ }
+}

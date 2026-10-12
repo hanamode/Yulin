@@ -1,0 +1,25 @@
+{
+ "batch": 50,
+ "chapter": "Chapter 9: Reclaiming Indigenous Languages",
+ "out": "data/book/gen/batch-50.json",
+ "sections": [
+  {
+   "id": "chapter-113-slug-9-9-growing-up-speaking-nishnaabemwin",
+   "title": "9.9 Growing up speaking Nishnaabemwin",
+   "src": "data/book/src/chapter-113-slug-9-9-growing-up-speaking-nishnaabemwin.txt",
+   "chars": 12348
+  },
+  {
+   "id": "chapter-114-slug-9-10-learning-nishnaabemwin-at-university",
+   "title": "9.10 Learning Nishnaabemwin at University",
+   "src": "data/book/src/chapter-114-slug-9-10-learning-nishnaabemwin-at-university.txt",
+   "chars": 14173
+  },
+  {
+   "id": "chapter-115-slug-9-11-resources-for-teaching-and-learning-nishnaabemwin",
+   "title": "9.11 Resources for teaching and learning Nishnaabemwin",
+   "src": "data/book/src/chapter-115-slug-9-11-resources-for-teaching-and-learning-nishnaabemwin.txt",
+   "chars": 17007
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "batch": 17,
+ "sections": {
+  "chapter-029-slug-3-12-tone-and-intonation": {
+   "title": {
+    "en": "3.12 Tone and intonation",
+    "zh": "3.12 声调与语调"
+   },
+   "summary": {
+    "en": "Spoken languages can manipulate pitch in two main ways. Tone contrasts syllables or whole words to produce different meanings, while intonation operates over phrases and sentences to signal conversational functions such as statements versus questions. The section explains how pitch is measured, surveys the three tone notation systems, and describes level, contour, and sentence-level pitch patterns.",
+    "zh": "口语语言对音高的运用主要有两种方式。声调作用于音节或整个词，用以区分不同的意义；语调则作用于短语和句子，表达陈述与疑问等交际功能。本节说明音高的物理与感知基础，介绍三种标调系统，并描述平调、曲拱声调以及句子层面的音高模式。"
+   },
+   "points": [
+    {
+     "en": "Pitch is our auditory perception of how fast the vocal folds vibrate; the physical measure is fundamental frequency (f0).",
+     "zh": "音高是人对声带振动快慢的听觉感知，其物理量度是基频（f0）。"
+    },
+    {
+     "en": "Tone works at the syllable or word level, whereas intonation works over phrases and sentences to express conversational function.",
+     "zh": "声调作用于音节或词的层面，语调则作用于短语和句子，表达交际功能。"
+    },
+    {
+     "en": "The IPA notates tone with diacritics above the phone or tone letters after the syllable, and non-IPA tone numbers are also common.",
+     "zh": "国际音标用音素上方的附加符号或音节后的调符标记声调，非国际音标的数字标调法也很常见。"
+    },
+    {
+     "en": "Besides high, low, and mid level tones, languages may have contour tones that rise or fall within a single syllable.",
+     "zh": "除高、低、中平调之外，语言还可能具有在一个音节内上升或下降的曲拱声调。"
+    },
+    {
+     "en": "Each notation system has drawbacks, including clashes with other traditions and limited font support for tone letters.",
+     "zh": "每种记音系统都有缺陷，或与其他标调传统冲突，或因字体支持不足而难以显示调符。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "pitch",
+     "zh": "音高",
+     "defEn": "The auditory perception of the rate at which the vocal folds vibrate.",
+     "defZh": "对声带振动快慢的听觉感知，振动越快则音高越高。"
+    },
+    {
+     "en": "tone",
+     "zh": "声调",
+     "defEn": "Pitch manipulated at the syllable or word level to make different meanings.",
+     "defZh": "在音节或词的层面运用音高，从而区分不同意义。"
+    },
+    {
+     "en": "intonation",
+     "zh": "语调",
+     "defEn": "Pitch manipulated over phrases and sentences to convey conversational functions.",
+     "defZh": "在短语和句子层面运用音高，用以表达陈述、疑问等交际功能。"
+    },
+    {
+     "en": "level tone",
+     "zh": "平调",
+     "defEn": "A tone whose pitch stays relatively stable from beginning to end.",
+     "defZh": "音高从起点到终点保持相对稳定的声调，如高平调与低平调。"
+    },
+    {
+     "en": "contour tone",
+     "zh": "曲拱声调",
+     "defEn": "A tone that changes in pitch during the course of the syllable.",
+     "defZh": "在一个音节内部音高发生变化的声调，如降调与升调。"
+    },
+    {
+     "en": "minimal triplet",
+     "zh": "最小三连对",
+     "defEn": "Three words that differ only in the tones of their syllables.",
+     "defZh": "三个词在音段上相同，仅靠声调形成对立的一组词。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[lúk] ‘vomit’ and [lùk] ‘weave’",
+     "noteEn": "Bemba one-syllable words differing only in high versus low tone.",
+     "noteZh": "本巴语的单音节词，仅以高调与低调形成对立。"
+    },
+    {
+     "text": "[àwó] ‘slap’, [àwō] ‘comb’, [àwò] ‘star’",
+     "noteEn": "Igala minimal triplets with high, mid, and low second-syllable tones.",
+     "noteZh": "伊加拉语的最小三连对，第二音节分别为高调、中调、低调。"
+    },
+    {
+     "text": "[nâ] ‘taro’ and [pǎ] ‘fish’",
+     "noteEn": "Awa falling and rising contour tones on a single syllable.",
+     "noteZh": "阿瓦语的降调与升调，都落在同一个音节上。"
+    },
+    {
+     "text": "This is VEGETARIAN chili (not BEEF chili).",
+     "noteEn": "An English intonation pattern marking emphasis to correct a wrong assumption.",
+     "noteZh": "英语语调模式之一，通过强调某词来纠正对方的错误预设。"
+    }
+   ],
+   "body": [
+    {
+     "en": "During voicing the vocal folds vibrate at a certain rate. Linguists call that physical vibration fundamental frequency, abbreviated f0, and reserve the word pitch for our auditory perception of it. Since this discussion concerns abstract cognitive categories rather than speaker-specific physical details, the term pitch is used throughout. Pitch can also be manipulated as a system of its own.",
+     "zh": "发声时声带以一定频率振动。语言学家把这一物理振动称为基频，缩写为 f0，而把音高（pitch）留给对这一振动的听觉感知。由于本节关注的是抽象的认知范畴，而非因人而异的个人发音细节，因此全篇采用音高这一术语。音高在重音系统中还与时长、强度相互作用，但它也可以被单独调动，构成独立的系统。"
+    },
+    {
+     "en": "When pitch is manipulated at the level of syllables or whole words to make completely different meanings, the system is called tone; when it operates over phrases and sentences to express conversational functions such as statements versus questions, it is called intonation. Languages are correspondingly described as tonal and intonational. Tone is notated in the IPA either with diacritics above the phone or with tone letters after the syllable, and non-IPA superscript numbers on a 1–5 scale are also common, as in Bemba [lúk] ‘vomit’ and [lùk] ‘weave’. Each system has drawbacks, including clashes with other numbering traditions and limited font support for tone letters.",
+     "zh": "若在音节或整个词的层面调动音高以产生完全不同的意义，这一系统称为声调；若在短语和句子层面调动音高，用以表达陈述或疑问等交际功能，则称为语调。语言也相应地分为声调语言和语调语言。国际音标或用音素上方的附加符号标调，或用音节后的调符标调，非国际音标的 1–5 上标数字也很常见，如本巴语的 [lúk]‘呕吐’与 [lùk]‘编织’。各系统均有缺陷：数字标调与威妥玛拼音 ma1 等传统冲突，附加符号与汉语拼音及重音标记重叠，调符则因字体支持不足而难以普遍显示。"
+    },
+    {
+     "en": "In many tone languages each syllable can in principle carry its own tone, allowing a wide range of combinations, as in Bemba [βúːlá] ‘take’ and [ùkúwà] ‘fall’. Tone systems are not always binary: Igala has a mid tone between high and low, written with the macron [ˉ], the tone letter [˧], or the number [3], which yields minimal triplets such as [àwó] ‘slap’, [àwō] ‘comb’, and [àwò] ‘star’. Level tones hold a steady pitch, whereas contour tones change pitch within the syllable: Awa has falling [nâ] ‘taro’ and rising [pǎ] ‘fish’.",
+     "zh": "在许多声调语言中，每个音节原则上都可带有独立的声调，因而出现大量组合，如本巴语的 [βúːlá]‘拿取’与 [ùkúwà]‘落下’。声调系统并不总是二分的：伊加拉语有介于高低之间的中调，可用长音符号 [ˉ]、调符 [˧] 或数字 [3] 表示，由此形成 [àwó]‘拍打’、[àwō]‘梳子’、[àwò]‘星星’这样的最小三连对。平调音高保持稳定，曲拱声调则在音节内部改变音高：阿瓦语有降调 [nâ]‘芋头’和升调 [pǎ]‘鱼’。"
+    },
+    {
+     "en": "Finally, pitch changes across whole sentences count as intonation, which conveys a sentence's function rather than which words it contains. The English sentence this is vegetarian chili takes many patterns depending on whether it is a statement or a question and on which word is emphasized, as in This is VEGETARIAN chili (not BEEF chili). Analysing intonation therefore draws on syntax, semantics, and pragmatics alike.",
+     "zh": "最后，贯穿整个句子的音高变化属于语调，它传达的是句子的功能，而非句子由哪些词构成。英语句子 this is vegetarian chili 可有许多语调模式，取决于它用作陈述句还是疑问句，以及强调的是哪个词，如 This is VEGETARIAN chili (not BEEF chili)。完整的语调分析需要兼顾句法、语义、语用以及词层面的重音或声调。"
+    }
+   ]
+  }
+ }
+}

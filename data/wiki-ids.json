@@ -1,0 +1,998 @@
+[
+ {
+  "id": "historical-linguistics",
+  "title": "历史语言学",
+  "en": "Historical Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "syntax",
+  "title": "句法学",
+  "en": "Syntax",
+  "category": "branches"
+ },
+ {
+  "id": "morphology",
+  "title": "形态学",
+  "en": "Morphology",
+  "category": "branches"
+ },
+ {
+  "id": "psycholinguistics",
+  "title": "心理语言学",
+  "en": "Psycholinguistics",
+  "category": "branches"
+ },
+ {
+  "id": "sociolinguistics",
+  "title": "社会语言学",
+  "en": "Sociolinguistics",
+  "category": "branches"
+ },
+ {
+  "id": "neurolinguistics",
+  "title": "神经语言学",
+  "en": "Neurolinguistics",
+  "category": "branches"
+ },
+ {
+  "id": "computational-linguistics",
+  "title": "计算语言学",
+  "en": "Computational Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "semantics",
+  "title": "语义学",
+  "en": "Semantics",
+  "category": "branches"
+ },
+ {
+  "id": "pragmatics",
+  "title": "语用学",
+  "en": "Pragmatics",
+  "category": "branches"
+ },
+ {
+  "id": "typology",
+  "title": "语言类型学",
+  "en": "Linguistic Typology",
+  "category": "branches"
+ },
+ {
+  "id": "phonetics",
+  "title": "语音学",
+  "en": "Phonetics",
+  "category": "branches"
+ },
+ {
+  "id": "phonology",
+  "title": "音系学",
+  "en": "Phonology",
+  "category": "branches"
+ },
+ {
+  "id": "implicature",
+  "title": "会话含义",
+  "en": "Conversational Implicature",
+  "category": "concepts"
+ },
+ {
+  "id": "constituent",
+  "title": "句法成分",
+  "en": "Constituent",
+  "category": "concepts"
+ },
+ {
+  "id": "syntactic-tree",
+  "title": "句法树",
+  "en": "Syntactic Tree",
+  "category": "concepts"
+ },
+ {
+  "id": "cooperative-principle",
+  "title": "合作原则",
+  "en": "Cooperative Principle",
+  "category": "concepts"
+ },
+ {
+  "id": "deixis",
+  "title": "指示语",
+  "en": "Deixis",
+  "category": "concepts"
+ },
+ {
+  "id": "minimal-pair",
+  "title": "最小对立对",
+  "en": "Minimal Pair",
+  "category": "concepts"
+ },
+ {
+  "id": "deep-structure",
+  "title": "深层结构与表层结构",
+  "en": "Deep Structure and Surface Structure",
+  "category": "concepts"
+ },
+ {
+  "id": "politeness",
+  "title": "礼貌原则",
+  "en": "Politeness Theory",
+  "category": "concepts"
+ },
+ {
+  "id": "speech-act",
+  "title": "言语行为",
+  "en": "Speech Act",
+  "category": "concepts"
+ },
+ {
+  "id": "lexical-semantics",
+  "title": "词汇语义学",
+  "en": "Lexical Semantics",
+  "category": "concepts"
+ },
+ {
+  "id": "code-switching",
+  "title": "语码转换",
+  "en": "Code-switching",
+  "category": "concepts"
+ },
+ {
+  "id": "morpheme",
+  "title": "语素",
+  "en": "Morpheme",
+  "category": "concepts"
+ },
+ {
+  "id": "language-acquisition",
+  "title": "语言习得",
+  "en": "Language Acquisition",
+  "category": "concepts"
+ },
+ {
+  "id": "phoneme",
+  "title": "音位",
+  "en": "Phoneme",
+  "category": "concepts"
+ },
+ {
+  "id": "allophone",
+  "title": "音位变体",
+  "en": "Allophone",
+  "category": "concepts"
+ },
+ {
+  "id": "sound-change",
+  "title": "音变",
+  "en": "Sound Change",
+  "category": "concepts"
+ },
+ {
+  "id": "optimality-theory",
+  "title": "优选论",
+  "en": "Optimality Theory",
+  "category": "theories"
+ },
+ {
+  "id": "functionalism",
+  "title": "功能语言学",
+  "en": "Functionalism",
+  "category": "theories"
+ },
+ {
+  "id": "construction-grammar",
+  "title": "构式语法",
+  "en": "Construction Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "generativism",
+  "title": "生成语法",
+  "en": "Generative Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "systemic-functional",
+  "title": "系统功能语法",
+  "en": "Systemic Functional Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "structuralism",
+  "title": "结构主义语言学",
+  "en": "Structuralism",
+  "category": "theories"
+ },
+ {
+  "id": "cognitive-linguistics",
+  "title": "认知语言学",
+  "en": "Cognitive Linguistics",
+  "category": "theories"
+ },
+ {
+  "id": "linguistic-relativity",
+  "title": "语言相对论",
+  "en": "Linguistic Relativity",
+  "category": "theories"
+ },
+ {
+  "id": "experimental-phonetics",
+  "title": "实验语音学",
+  "en": "Experimental Phonetics",
+  "category": "methods"
+ },
+ {
+  "id": "comparative-method",
+  "title": "比较法",
+  "en": "Comparative Method",
+  "category": "methods"
+ },
+ {
+  "id": "fieldwork",
+  "title": "田野调查",
+  "en": "Fieldwork",
+  "category": "methods"
+ },
+ {
+  "id": "corpus-linguistics",
+  "title": "语料库语言学",
+  "en": "Corpus Linguistics",
+  "category": "methods"
+ },
+ {
+  "id": "elicitation",
+  "title": "诱导法",
+  "en": "Elicitation",
+  "category": "methods"
+ },
+ {
+  "id": "questionnaire",
+  "title": "问卷调查法",
+  "en": "Questionnaire Survey",
+  "category": "methods"
+ },
+ {
+  "id": "bloomfield",
+  "title": "伦纳德·布龙菲尔德",
+  "en": "Leonard Bloomfield",
+  "category": "people"
+ },
+ {
+  "id": "grice",
+  "title": "保罗·格莱斯",
+  "en": "H. P. Grice",
+  "category": "people"
+ },
+ {
+  "id": "labov",
+  "title": "威廉·拉波夫",
+  "en": "William Labov",
+  "category": "people"
+ },
+ {
+  "id": "sapir",
+  "title": "爱德华·萨丕尔",
+  "en": "Edward Sapir",
+  "category": "people"
+ },
+ {
+  "id": "jakobson",
+  "title": "罗曼·雅各布森",
+  "en": "Roman Jakobson",
+  "category": "people"
+ },
+ {
+  "id": "chomsky",
+  "title": "诺姆·乔姆斯基",
+  "en": "Noam Chomsky",
+  "category": "people"
+ },
+ {
+  "id": "saussure",
+  "title": "费尔迪南·德·索绪尔",
+  "en": "Ferdinand de Saussure",
+  "category": "people"
+ },
+ {
+  "id": "halliday",
+  "title": "韩礼德",
+  "en": "M. A. K. Halliday",
+  "category": "people"
+ },
+ {
+  "id": "vowel-shift",
+  "title": "元音大推移",
+  "en": "Great Vowel Shift",
+  "category": "writing"
+ },
+ {
+  "id": "indo-european",
+  "title": "印欧语系",
+  "en": "Indo-European",
+  "category": "writing"
+ },
+ {
+  "id": "ipa",
+  "title": "国际音标",
+  "en": "International Phonetic Alphabet",
+  "category": "writing"
+ },
+ {
+  "id": "latin-alphabet",
+  "title": "拉丁字母",
+  "en": "Latin Alphabet",
+  "category": "writing"
+ },
+ {
+  "id": "grimm-law",
+  "title": "格里姆定律",
+  "en": "Grimm’s Law",
+  "category": "writing"
+ },
+ {
+  "id": "chinese-characters",
+  "title": "汉字",
+  "en": "Chinese Characters",
+  "category": "writing"
+ },
+ {
+  "id": "sino-tibetan",
+  "title": "汉藏语系",
+  "en": "Sino-Tibetan",
+  "category": "writing"
+ },
+ {
+  "id": "language-family",
+  "title": "语系",
+  "en": "Language Family",
+  "category": "writing"
+ },
+ {
+  "id": "synchronic-diachronic",
+  "title": "共时语言学与历时语言学",
+  "en": "Synchronic and Diachronic Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "applied-linguistics",
+  "title": "应用语言学",
+  "en": "Applied Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "dialectology",
+  "title": "方言学",
+  "en": "Dialectology",
+  "category": "branches"
+ },
+ {
+  "id": "philology",
+  "title": "语文学",
+  "en": "Philology",
+  "category": "branches"
+ },
+ {
+  "id": "semiotics",
+  "title": "符号学",
+  "en": "Semiotics",
+  "category": "branches"
+ },
+ {
+  "id": "ethnolinguistics",
+  "title": "民族语言学",
+  "en": "Ethnolinguistics",
+  "category": "branches"
+ },
+ {
+  "id": "clinical-linguistics",
+  "title": "临床语言学",
+  "en": "Clinical Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "forensic-linguistics",
+  "title": "法律语言学",
+  "en": "Forensic Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "educational-linguistics",
+  "title": "教育语言学",
+  "en": "Educational Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "biolinguistics",
+  "title": "生物语言学",
+  "en": "Biolinguistics",
+  "category": "branches"
+ },
+ {
+  "id": "contact-linguistics",
+  "title": "接触语言学",
+  "en": "Contact Linguistics",
+  "category": "branches"
+ },
+ {
+  "id": "discourse-analysis",
+  "title": "话语分析",
+  "en": "Discourse Analysis",
+  "category": "branches"
+ },
+ {
+  "id": "conversation-analysis",
+  "title": "会话分析",
+  "en": "Conversation Analysis",
+  "category": "branches"
+ },
+ {
+  "id": "langue-parole",
+  "title": "语言与言语",
+  "en": "Langue and Parole",
+  "category": "concepts"
+ },
+ {
+  "id": "signifier-signified",
+  "title": "能指与所指",
+  "en": "Signifier and Signified",
+  "category": "concepts"
+ },
+ {
+  "id": "syntagmatic-paradigmatic",
+  "title": "组合关系与聚合关系",
+  "en": "Syntagmatic and Paradigmatic Relations",
+  "category": "concepts"
+ },
+ {
+  "id": "arbitrariness",
+  "title": "任意性",
+  "en": "Arbitrariness",
+  "category": "concepts"
+ },
+ {
+  "id": "iconicity",
+  "title": "象似性",
+  "en": "Iconicity",
+  "category": "concepts"
+ },
+ {
+  "id": "duality-of-patterning",
+  "title": "二层性",
+  "en": "Duality of Patterning",
+  "category": "concepts"
+ },
+ {
+  "id": "displacement-feature",
+  "title": "移位性",
+  "en": "Displacement",
+  "category": "concepts"
+ },
+ {
+  "id": "markedness",
+  "title": "标记性",
+  "en": "Markedness",
+  "category": "concepts"
+ },
+ {
+  "id": "phonotactics",
+  "title": "音位配列",
+  "en": "Phonotactics",
+  "category": "concepts"
+ },
+ {
+  "id": "syllable",
+  "title": "音节",
+  "en": "Syllable",
+  "category": "concepts"
+ },
+ {
+  "id": "distinctive-feature",
+  "title": "区别特征",
+  "en": "Distinctive Feature",
+  "category": "concepts"
+ },
+ {
+  "id": "assimilation",
+  "title": "同化",
+  "en": "Assimilation",
+  "category": "concepts"
+ },
+ {
+  "id": "dissimilation",
+  "title": "异化",
+  "en": "Dissimilation",
+  "category": "concepts"
+ },
+ {
+  "id": "epenthesis",
+  "title": "增音",
+  "en": "Epenthesis",
+  "category": "concepts"
+ },
+ {
+  "id": "tone",
+  "title": "声调",
+  "en": "Tone",
+  "category": "concepts"
+ },
+ {
+  "id": "intonation",
+  "title": "语调",
+  "en": "Intonation",
+  "category": "concepts"
+ },
+ {
+  "id": "stress",
+  "title": "重音",
+  "en": "Stress",
+  "category": "concepts"
+ },
+ {
+  "id": "free-bound-morpheme",
+  "title": "自由语素与黏着语素",
+  "en": "Free and Bound Morphemes",
+  "category": "concepts"
+ },
+ {
+  "id": "lexical-category",
+  "title": "词类",
+  "en": "Lexical Category",
+  "category": "concepts"
+ },
+ {
+  "id": "inflection-derivation",
+  "title": "屈折与派生",
+  "en": "Inflection and Derivation",
+  "category": "concepts"
+ },
+ {
+  "id": "head",
+  "title": "中心语",
+  "en": "Head",
+  "category": "concepts"
+ },
+ {
+  "id": "phrase-structure-rule",
+  "title": "短语结构规则",
+  "en": "Phrase Structure Rule",
+  "category": "concepts"
+ },
+ {
+  "id": "syntactic-movement",
+  "title": "句法移位",
+  "en": "Syntactic Movement",
+  "category": "concepts"
+ },
+ {
+  "id": "argument-structure",
+  "title": "论元结构",
+  "en": "Argument Structure",
+  "category": "concepts"
+ },
+ {
+  "id": "agreement",
+  "title": "一致关系",
+  "en": "Agreement",
+  "category": "concepts"
+ },
+ {
+  "id": "grammatical-case",
+  "title": "格",
+  "en": "Grammatical Case",
+  "category": "concepts"
+ },
+ {
+  "id": "recursion",
+  "title": "递归",
+  "en": "Recursion",
+  "category": "concepts"
+ },
+ {
+  "id": "entailment",
+  "title": "蕴涵",
+  "en": "Entailment",
+  "category": "concepts"
+ },
+ {
+  "id": "presupposition",
+  "title": "预设",
+  "en": "Presupposition",
+  "category": "concepts"
+ },
+ {
+  "id": "proposition",
+  "title": "命题",
+  "en": "Proposition",
+  "category": "concepts"
+ },
+ {
+  "id": "reference-sense",
+  "title": "指称与涵义",
+  "en": "Reference and Sense",
+  "category": "concepts"
+ },
+ {
+  "id": "compositionality",
+  "title": "组合性原则",
+  "en": "Compositionality",
+  "category": "concepts"
+ },
+ {
+  "id": "semantic-field",
+  "title": "语义场",
+  "en": "Semantic Field",
+  "category": "concepts"
+ },
+ {
+  "id": "metaphor-metonymy",
+  "title": "隐喻与转喻",
+  "en": "Metaphor and Metonymy",
+  "category": "concepts"
+ },
+ {
+  "id": "prototype",
+  "title": "原型范畴",
+  "en": "Prototype",
+  "category": "concepts"
+ },
+ {
+  "id": "register",
+  "title": "语域",
+  "en": "Register",
+  "category": "concepts"
+ },
+ {
+  "id": "dialect",
+  "title": "方言",
+  "en": "Dialect",
+  "category": "concepts"
+ },
+ {
+  "id": "standard-language",
+  "title": "标准语",
+  "en": "Standard Language",
+  "category": "concepts"
+ },
+ {
+  "id": "bilingualism",
+  "title": "双语现象",
+  "en": "Bilingualism",
+  "category": "concepts"
+ },
+ {
+  "id": "language-contact",
+  "title": "语言接触",
+  "en": "Language Contact",
+  "category": "concepts"
+ },
+ {
+  "id": "loanword",
+  "title": "借词",
+  "en": "Loanword",
+  "category": "concepts"
+ },
+ {
+  "id": "pidgin-creole",
+  "title": "皮钦语与克里奥尔语",
+  "en": "Pidgin and Creole",
+  "category": "concepts"
+ },
+ {
+  "id": "language-endangerment",
+  "title": "语言濒危与语言消亡",
+  "en": "Language Endangerment and Language Death",
+  "category": "concepts"
+ },
+ {
+  "id": "language-ideology",
+  "title": "语言意识形态",
+  "en": "Language Ideology",
+  "category": "concepts"
+ },
+ {
+  "id": "sociolinguistic-variable",
+  "title": "社会变项",
+  "en": "Sociolinguistic Variable",
+  "category": "concepts"
+ },
+ {
+  "id": "critical-period",
+  "title": "关键期假说",
+  "en": "Critical Period Hypothesis",
+  "category": "concepts"
+ },
+ {
+  "id": "interlanguage",
+  "title": "中介语",
+  "en": "Interlanguage",
+  "category": "concepts"
+ },
+ {
+  "id": "language-transfer",
+  "title": "语言迁移",
+  "en": "Language Transfer",
+  "category": "concepts"
+ },
+ {
+  "id": "universal-grammar",
+  "title": "普遍语法",
+  "en": "Universal Grammar",
+  "category": "concepts"
+ },
+ {
+  "id": "grammaticalization",
+  "title": "语法化",
+  "en": "Grammaticalization",
+  "category": "concepts"
+ },
+ {
+  "id": "cognate",
+  "title": "同源词",
+  "en": "Cognate",
+  "category": "concepts"
+ },
+ {
+  "id": "allomorphy",
+  "title": "语素变体",
+  "en": "Allomorphy",
+  "category": "concepts"
+ },
+ {
+  "id": "thematic-role",
+  "title": "题元角色",
+  "en": "Thematic Role",
+  "category": "concepts"
+ },
+ {
+  "id": "grammaticality",
+  "title": "合乎语法性",
+  "en": "Grammaticality",
+  "category": "concepts"
+ },
+ {
+  "id": "competence-performance",
+  "title": "语言能力与语言运用",
+  "en": "Competence and Performance",
+  "category": "concepts"
+ },
+ {
+  "id": "speech-community",
+  "title": "言语社区",
+  "en": "Speech Community",
+  "category": "concepts"
+ },
+ {
+  "id": "aphasia",
+  "title": "失语症",
+  "en": "Aphasia",
+  "category": "concepts"
+ },
+ {
+  "id": "categorical-perception",
+  "title": "范畴感知",
+  "en": "Categorical Perception",
+  "category": "concepts"
+ },
+ {
+  "id": "phonemic-restoration",
+  "title": "语音复原效应",
+  "en": "Phonemic Restoration Effect",
+  "category": "concepts"
+ },
+ {
+  "id": "word-embedding",
+  "title": "词向量",
+  "en": "Word Embedding",
+  "category": "concepts"
+ },
+ {
+  "id": "language-model",
+  "title": "语言模型",
+  "en": "Language Model",
+  "category": "concepts"
+ },
+ {
+  "id": "machine-translation",
+  "title": "机器翻译",
+  "en": "Machine Translation",
+  "category": "concepts"
+ },
+ {
+  "id": "part-of-speech-tagging",
+  "title": "词性标注",
+  "en": "Part-of-Speech Tagging",
+  "category": "concepts"
+ },
+ {
+  "id": "diglossia",
+  "title": "双言制",
+  "en": "Diglossia",
+  "category": "concepts"
+ },
+ {
+  "id": "sign-language",
+  "title": "手语",
+  "en": "Sign Language",
+  "category": "concepts"
+ },
+ {
+  "id": "writing-system",
+  "title": "文字系统",
+  "en": "Writing System",
+  "category": "concepts"
+ },
+ {
+  "id": "minimalism",
+  "title": "最简方案",
+  "en": "Minimalist Program",
+  "category": "theories"
+ },
+ {
+  "id": "lexical-functional-grammar",
+  "title": "词汇功能语法",
+  "en": "Lexical-Functional Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "dependency-grammar",
+  "title": "依存语法",
+  "en": "Dependency Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "usage-based-linguistics",
+  "title": "基于用法的语言学",
+  "en": "Usage-based Linguistics",
+  "category": "theories"
+ },
+ {
+  "id": "head-driven-phrase-structure-grammar",
+  "title": "中心语驱动短语结构语法",
+  "en": "Head-driven Phrase Structure Grammar",
+  "category": "theories"
+ },
+ {
+  "id": "relevance-theory",
+  "title": "关联理论",
+  "en": "Relevance Theory",
+  "category": "theories"
+ },
+ {
+  "id": "acceptability-judgement",
+  "title": "可接受性判断",
+  "en": "Acceptability Judgement",
+  "category": "methods"
+ },
+ {
+  "id": "acoustic-analysis",
+  "title": "声学分析",
+  "en": "Acoustic Analysis",
+  "category": "methods"
+ },
+ {
+  "id": "phonetic-transcription",
+  "title": "标音",
+  "en": "Phonetic Transcription",
+  "category": "methods"
+ },
+ {
+  "id": "corpus-annotation",
+  "title": "语料标注",
+  "en": "Corpus Annotation",
+  "category": "methods"
+ },
+ {
+  "id": "sociolinguistic-interview",
+  "title": "社会语言学访谈",
+  "en": "Sociolinguistic Interview",
+  "category": "methods"
+ },
+ {
+  "id": "austin",
+  "title": "约翰·奥斯汀",
+  "en": "J. L. Austin",
+  "category": "people"
+ },
+ {
+  "id": "searle",
+  "title": "约翰·塞尔",
+  "en": "John Searle",
+  "category": "people"
+ },
+ {
+  "id": "lakoff",
+  "title": "乔治·莱考夫",
+  "en": "George Lakoff",
+  "category": "people"
+ },
+ {
+  "id": "langacker",
+  "title": "罗纳德·兰盖克",
+  "en": "Ronald Langacker",
+  "category": "people"
+ },
+ {
+  "id": "trudgill",
+  "title": "彼得·特鲁吉尔",
+  "en": "Peter Trudgill",
+  "category": "people"
+ },
+ {
+  "id": "boas",
+  "title": "弗朗茨·博厄斯",
+  "en": "Franz Boas",
+  "category": "people"
+ },
+ {
+  "id": "whorf",
+  "title": "本杰明·李·沃尔夫",
+  "en": "Benjamin Lee Whorf",
+  "category": "people"
+ },
+ {
+  "id": "grimm",
+  "title": "雅各布·格林",
+  "en": "Jacob Grimm",
+  "category": "people"
+ },
+ {
+  "id": "jespersen",
+  "title": "奥托·叶斯柏森",
+  "en": "Otto Jespersen",
+  "category": "people"
+ },
+ {
+  "id": "firth",
+  "title": "约翰·弗斯",
+  "en": "J. R. Firth",
+  "category": "people"
+ },
+ {
+  "id": "brown-levinson",
+  "title": "布朗与列文森",
+  "en": "Brown and Levinson",
+  "category": "people"
+ },
+ {
+  "id": "niger-congo",
+  "title": "尼日尔-刚果语系",
+  "en": "Niger-Congo",
+  "category": "writing"
+ },
+ {
+  "id": "afroasiatic",
+  "title": "亚非语系",
+  "en": "Afroasiatic",
+  "category": "writing"
+ },
+ {
+  "id": "uralic",
+  "title": "乌拉尔语系",
+  "en": "Uralic",
+  "category": "writing"
+ },
+ {
+  "id": "austronesian",
+  "title": "南岛语系",
+  "en": "Austronesian",
+  "category": "writing"
+ },
+ {
+  "id": "proto-language",
+  "title": "原始语",
+  "en": "Proto-language",
+  "category": "writing"
+ },
+ {
+  "id": "logogram",
+  "title": "表意文字",
+  "en": "Logogram",
+  "category": "writing"
+ },
+ {
+  "id": "syllabary",
+  "title": "音节文字",
+  "en": "Syllabary",
+  "category": "writing"
+ }
+]

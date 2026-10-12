@@ -1,0 +1,335 @@
+{
+ "batch": 16,
+ "sections": {
+  "chapter-026-slug-3-9-signed-language-notation": {
+   "title": {
+    "en": "3.9 Signed language notation",
+    "zh": "3.9 手语标音法"
+   },
+   "summary": {
+    "en": "There is no widely accepted equivalent of the IPA for transcribing signs. The most historically significant system, Stokoe notation, analyses each sign into location, handshape, orientation, and movement, and its underlying idea shaped later systems such as SignWriting and HamNoSys. Because no consistent standard has emerged, and special symbols are hard to display, describing signed language phonetics remains difficult.",
+    "zh": "目前没有像国际音标那样被普遍接受的手语转写系统。历史上最重要的斯托科标音法把每个手语词分析为位置、手形、掌向和运动四个参数，这一思路影响了后来的手语书写系统与汉堡标音系统。由于始终未形成统一标准，且专用符号难以显示，手语语音学与音系学的研究仍存在困难。"
+   },
+   "points": [
+    {
+     "en": "Stokoe's notation divides signs into parameters and helped establish the field of signed language linguistics.",
+     "zh": "斯托科标音法把词分解为若干参数，其研究也奠定了手语语言学这一领域。"
+    },
+    {
+     "en": "A basic one-handed sign has the structure LHOM: location, handshape, subscript orientation, superscript movement.",
+     "zh": "单手基本词的记法结构为 LHOM，即位置、手形、下标掌向与上标运动。"
+    },
+    {
+     "en": "Stokoe notation was designed for ASL, while SignWriting and HamNoSys use more iconic symbols.",
+     "zh": "斯托科标音法是为美国手语设计的，而手语书写与汉堡标音系统的符号更具象似性。"
+    },
+    {
+     "en": "No consistent standard exists, and the special symbols are often unavailable in ordinary fonts.",
+     "zh": "至今没有统一标准，专用符号在普通字体中往往无法显示。"
+    },
+    {
+     "en": "This lack of a standard notation makes signed language phonetics and phonology harder to study.",
+     "zh": "缺乏标准记音方式使手语语音学与音系学研究更加困难。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Stokoe notation",
+     "zh": "斯托科标音法",
+     "defEn": "A symbol system that analyses signs into location, handshape, orientation, and movement.",
+     "defZh": "由斯托科创制的符号系统，把词分析为位置、手形、掌向与运动四个参数。"
+    },
+    {
+     "en": "handshape",
+     "zh": "手形",
+     "defEn": "One of the parameters of a sign, describing the shape of the hand.",
+     "defZh": "手语词的参数之一，指手部构型，即手指与手掌共同构成的形状。"
+    },
+    {
+     "en": "palm orientation",
+     "zh": "掌向",
+     "defEn": "The parameter describing which way the palm faces during a sign.",
+     "defZh": "手语词的参数之一，描述发词时手掌朝向何方，如朝向说话者或背离说话者。"
+    },
+    {
+     "en": "SignWriting",
+     "zh": "手语书写（SignWriting）",
+     "defEn": "A later notation system with iconic symbols that is not tied to ASL.",
+     "defZh": "较晚出现的标音系统，符号具象似性，且不依附于美国手语。"
+    },
+    {
+     "en": "HamNoSys",
+     "zh": "汉堡标音系统（HamNoSys）",
+     "defEn": "The Hamburg Notation System, a later iconic notation not tied to ASL.",
+     "defZh": "汉堡标音系统的缩写，符号具象似性，不依附于美国手语。"
+    },
+    {
+     "en": "nonmanual articulation",
+     "zh": "非手控发音",
+     "defEn": "Articulation of the face or body, sometimes treated as a fifth parameter.",
+     "defZh": "指面部或身体的动作，如表情与点头，有时被视为手语词四参数之外的第五个参数。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "the ASL sign THANK-YOU",
+     "noteEn": "A basic sign whose Stokoe notation includes location, handshape, orientation, and movement.",
+     "noteZh": "一个基本词，其斯托科标音包含位置、手形、掌向与运动四个成分。"
+    },
+    {
+     "text": "the B handshape with the thumb extended",
+     "noteEn": "In the example, the symbol B with a dot marks the handshape parameter.",
+     "noteZh": "在该例中，带点的符号 B 标示手形这一参数。"
+    },
+    {
+     "text": "it is notated by U in Stokoe notation",
+     "noteEn": "The U handshape represents the English letter U in ASL, hence its Stokoe symbol.",
+     "noteZh": "U 手形在美国手语中表示英文字母 U，因此斯托科标音用 U 表示它。"
+    },
+    {
+     "text": "the same handshape is used for the Arabic letter <ت> (Hendriks 2008), which represents the phone [t]",
+     "noteEn": "In Jordanian Sign Language the same handshape stands for a different letter.",
+     "noteZh": "在约旦手语中，同一手形表示的是另一个字母。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Signs have no commonly accepted equivalent of the International Phonetic Alphabet. The most historically significant system was created by William Stokoe, whose work also demonstrated that signed languages have the same kinds of linguistic structures as spoken languages and thereby helped launch the field of signed language linguistics.",
+     "zh": "手语目前没有像国际音标那样被普遍接受的转写系统。历史上最重要的标音系统由斯托科（William Stokoe）创制；他的研究还证明手语具备与口语相同的语言结构，从而推动了手语语言学这一领域的诞生。"
+    },
+    {
+     "en": "Stokoe notation divides signs according to the four parameters, treating orientation as a subcomponent of handshape, although Battison argued that orientation is a separate parameter, which is now the standard analysis; nonmanual articulations are sometimes counted as a fifth. A basic one-handed sign has the structure LHOM, with L for location, H for handshape, a subscript O for orientation, and a superscript M for movement, and further marks cover complex signs.",
+     "zh": "斯托科标音法按四个参数划分手语词，最初把掌向视为手形的下位成分；巴蒂森（Battison）主张掌向应独立为一个参数，这已成为标准的内部结构分析，非手控发音有时被算作第五个参数。单手基本词的结构为 LHOM：L 表示位置，H 表示手形，下标 O 表示掌向，上标 M 表示运动；更复杂的词可加用其他符号。"
+    },
+    {
+     "en": "Because the system was designed for ASL, it does not serve signed languages generally, but its parametric approach influenced later systems such as SignWriting and HamNoSys, which use more iconic symbols and have no inherent ties to ASL. The U handshape, for instance, is notated by U in Stokoe notation because it represents the English letter U in ASL, yet the same handshape stands for the Arabic letter ت in Jordanian Sign Language.",
+     "zh": "由于该系统是为美国手语设计的，它并不适用于一般的手语；但其按参数分析的思路影响了后来的手语书写系统和汉堡标音系统，后两者的符号更具象似性，且不依附于美国手语。例如 U 手形在美国手语中表示英文字母 U，故在斯托科标音中记作 U；而在约旦手语中，同一手形表示阿拉伯字母 ت。"
+    },
+    {
+     "en": "No single consistent standard has emerged. Existing systems typically need special symbols that most fonts do not contain, so many people cannot access them and documents may not display reliably on different computers. This makes the study of signed language phonetics and phonology more difficult.",
+     "zh": "至今没有形成统一的标准。现有系统通常需要大多数字体并不包含的专用符号，许多人无法获取这些符号，文档在不同电脑上也未必能可靠显示。这使手语语音学与音系学的研究更加困难。"
+    }
+   ]
+  },
+  "chapter-027-slug-3-10-syllables": {
+   "title": {
+    "en": "3.10 Syllables",
+    "zh": "3.10 音节"
+   },
+   "summary": {
+    "en": "Beyond individual phones, spoken words group into syllables, each built around a nucleus with optional onset and coda margins. Syllables may be shown in tree diagrams or abbreviated in CV-notation, and languages generally prefer onsets to codas and simple margins to complex ones. Syllabification often follows sonority, and signed languages may have comparable syllable-like units.",
+    "zh": "在单个音素之外，口语的词还组织成音节，每个音节以韵核为中心，两侧有可选的音节首和韵尾。音节结构可用树形图表示，也可用 CV 记法简写；跨语言来看，音节首比韵尾更受偏好，简单边缘比复杂边缘更受偏好。音节划分常以音响度为依据，手语中也可能存在类似的类音节单位。"
+   },
+   "points": [
+    {
+     "en": "Words divide into syllables, each with a nucleus and optional onset and coda margins.",
+     "zh": "词可划分为音节，每个音节有韵核以及可选的音节首和韵尾。"
+    },
+    {
+     "en": "Syllable structure can be shown in a tree diagram or abbreviated in CV-notation.",
+     "zh": "音节结构可用树形图表示，也可用 CV 记法简写。"
+    },
+    {
+     "en": "Across languages, onsets are preferred to codas, and simple margins to complex margins.",
+     "zh": "跨语言来看，音节首比韵尾更受偏好，简单边缘比复杂边缘更受偏好。"
+    },
+    {
+     "en": "Syllabification is often based on sonority and usually obeys the sonority sequencing principle.",
+     "zh": "音节划分常以音响度为基础，通常遵循音响度序列原则。"
+    },
+    {
+     "en": "Signs may also have syllable-like units, commonly analysed as static states and dynamic states.",
+     "zh": "手语词可能也有类音节单位，通常分析为静态单位与动态单位。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "syllable",
+     "zh": "音节",
+     "defEn": "A unit of structure containing a nucleus and possibly onset and coda margins.",
+     "defZh": "一种结构单位，包含韵核以及可能出现的音节首和韵尾。"
+    },
+    {
+     "en": "onset",
+     "zh": "音节首",
+     "defEn": "The margin to the left of the nucleus, either simple or complex.",
+     "defZh": "音节中位于韵核左侧的边缘成分，由辅音充当，可分为简单与复杂两类。"
+    },
+    {
+     "en": "nucleus",
+     "zh": "韵核",
+     "defEn": "The loudest, most prominent position in a syllable, usually a vowel.",
+     "defZh": "音节中最响亮、最凸显的位置，通常由元音充当，也可由成音节辅音充当。"
+    },
+    {
+     "en": "coda",
+     "zh": "韵尾",
+     "defEn": "The margin to the right of the nucleus, either simple or complex.",
+     "defZh": "音节中位于韵核右侧的边缘成分，由辅音充当，可分为简单与复杂两类。"
+    },
+    {
+     "en": "sonority",
+     "zh": "音响度",
+     "defEn": "An abstract measure of the relative prominence of phones, roughly loudness.",
+     "defZh": "衡量音素相对凸显程度的抽象尺度，大致相当于响度，元音最高，阻塞音最低。"
+    },
+    {
+     "en": "syllabification",
+     "zh": "音节划分",
+     "defEn": "The association of phones to appropriate positions in syllable structure.",
+     "defZh": "把各个音素指派到音节结构中相应位置的过程，通常以音响度为依据。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[kæ.nə.də] Canada",
+     "noteEn": "Syllable boundaries are marked with the IPA symbol [.] between syllables.",
+     "noteZh": "音节边界在转写中用国际音标符号 [.] 标示。"
+    },
+    {
+     "text": "[ə.prot͡ʃ] approach",
+     "noteEn": "The first syllable has no margins; the second has a complex onset and simple coda.",
+     "noteZh": "其第一个音节没有边缘成分，第二个音节有复杂音节首和简单韵尾。"
+    },
+    {
+     "text": "[plænt] plant",
+     "noteEn": "Well formed, since sonority rises through the onset and falls through the coda.",
+     "noteZh": "该音节合乎音响度序列原则：音响度在音节首上升，在韵尾下降。"
+    },
+    {
+     "text": "[ɡvphrt͡skhvni] გვფრცქვნი ‘you (singular) are peeling us’",
+     "noteEn": "A Georgian word whose complex onset tolerates sonority reversals.",
+     "noteZh": "格鲁吉亚语词，其复杂音节首容许音响度的方向反转。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Spoken words are not only strings of phones; they also group into units called syllables, each of which may contain several phones. A syllable is often written with the Greek letter sigma, and boundaries are marked in transcription with [.], as in [kæ.nə.də] Canada. The most prominent position, the nucleus, is usually a vowel, though English permits syllabic consonants in [br̩d] bird, and Tashlhiyt Berber even allows syllabic obstruents in words such as [ts̩.kr̩] ‘she did’.",
+     "zh": "口语的词不只是音素的串连，它们还组合成称作音节的单位，一个音节可以包含多个音素。音节常用希腊字母 σ 表示，转写时音节边界用 [.] 标示，如 [kæ.nə.də] Canada。音节中最凸显的位置是韵核，通常由元音充当；不过英语允许成音节辅音，如 [br̩d] bird，塔舍尔希特柏柏尔语甚至允许成音节阻塞音，如 [ts̩.kr̩]「她做了」。"
+    },
+    {
+     "en": "The remaining phones form the margins: the onset on the left and the coda on the right, each either simple or complex. In [ə.prot͡ʃ] approach, the first syllable has no onset or coda while the second has a complex onset [pr] and a simple coda [t͡ʃ]; affricates count as one phone in margins, but diphthongs usually count as two. Syllable structure may be drawn as a tree diagram or abbreviated in CV-notation, so [ə.prot͡ʃ] becomes V.CCVC. A syllable without a coda is open, one with a coda is closed, and one without an onset is onsetless.",
+     "zh": "其余音素构成边缘成分：左侧为音节首，右侧为韵尾，二者都可分为简单与复杂两类。在 [ə.prot͡ʃ] approach 中，第一个音节没有音节首和韵尾，第二个音节有复杂音节首 [pr] 和简单韵尾 [t͡ʃ]；塞擦音在边缘中算作一个音素，而复元音通常算作两个。音节结构可画成树形图，也可用 CV 记法简写，因此 [ə.prot͡ʃ] 可记作 V.CCVC。没有韵尾的音节是开音节，有韵尾的是闭音节，没有音节首的则称无首音节。"
+    },
+    {
+     "en": "Across languages, onsets are preferred and codas disfavoured: languages may require onsets or prohibit codas, but not the reverse, and simple margins are preferred to complex ones. Languages also arrange sonority, the abstract prominence of phones, differently, yet syllabification usually obeys the sonority sequencing principle, which requires sonority to rise through the onset, peak in the nucleus, and fall through the coda. Thus [plænt] plant is well formed, while *[lpætn] violates the principle.",
+     "zh": "跨语言来看，音节首受偏好而韵尾不受偏好：语言可能要求有音节首或禁止韵尾，却不会有相反的情况，简单边缘也比复杂边缘更受偏好。各语言对音响度这一抽象凸显程度的排列可以不同，但音节划分通常遵循音响度序列原则，即音响度在音节首上升、在韵核达到顶点、在韵尾下降。因此 [plænt] plant 是合格的音节，而 *[lpætn] 违反该原则。"
+    },
+    {
+     "en": "Syllables also have a somewhat questionable status, since speakers' intuitions about hire [haɪr] and higher [haɪ.r̩] often do not match their own recorded speech, which suggests syllables have psychological rather than physical reality. Signed languages may likewise have syllable-like units, commonly analysed as sequences of static states, roughly location plus orientation, and dynamic states, essentially movement, with dynamic units claimed to be more sonorous. Whether a syllabic model truly applies to signed languages remains an open question.",
+     "zh": "音节的地位也因此有些可疑：说话人对 hire [haɪr] 与 higher [haɪ.r̩] 的直觉往往与他们自己录音中的发音并不吻合，这说明音节可能只具有心理现实性，而非物理现实性。手语中可能同样存在类音节单位，通常分析为静态单位（大致相当于位置加掌向）与动态单位（基本上即运动）的序列，并有人认为动态单位音响度更高。音节模型是否真正适用于手语，仍是一个开放问题。"
+    }
+   ]
+  },
+  "chapter-028-slug-3-11-stress": {
+   "title": {
+    "en": "3.11 Stress",
+    "zh": "3.11 重音"
+   },
+   "summary": {
+    "en": "Stressed syllables are made prominent through greater loudness, longer duration, or higher pitch in speech, and through tension or longer holds in signs. Most words have exactly one primary stress, while other stressed syllables carry secondary stress. Stress may be lexical and therefore unpredictable, or fully predictable from syllable structure, subject to a small set of restrictions.",
+    "zh": "在口语中，重读音节通过更强的响度、更长的时长或更高的音高获得凸显；手语则以更强的肌肉紧张或更长的保持动作实现类似效果。多数词只有一个主重音，其余重读音节为次重音。重音既可能是需要逐词记忆、因而不可预测的词汇性重音，也可能完全由音节结构预测，并受到少数几条限制的约束。"
+   },
+   "points": [
+    {
+     "en": "Stressed syllables are prominent through loudness, duration, or pitch; signed languages use tension and holds.",
+     "zh": "重读音节靠响度、时长或音高凸显；手语则通过肌肉紧张和保持动作实现。"
+    },
+    {
+     "en": "Primary stress is marked [ˈ] and secondary stress [ˌ] before the onset of a syllable.",
+     "zh": "主重音在音节首之前用 [ˈ] 标记，次重音用 [ˌ] 标记。"
+    },
+    {
+     "en": "Lexical stress is unpredictable and can create minimal pairs, as in Khowar.",
+     "zh": "词汇性重音不可预测，可形成最小对立对，如霍瓦语中的例子。"
+    },
+    {
+     "en": "Predictable stress usually falls on one of the first two or last two syllables.",
+     "zh": "可预测的重音通常落在词的前两个或后两个音节之一上。"
+    },
+    {
+     "en": "Secondary stress tends to alternate, and not all imaginable stress patterns occur.",
+     "zh": "次重音往往交替出现，而并非所有可想象的重音模式都存在。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "stress",
+     "zh": "重音",
+     "defEn": "The prominence given to a syllable within the linguistic signal.",
+     "defZh": "音节在语言信号中所获得的凸显，由响度、时长、音高等语音属性共同实现。"
+    },
+    {
+     "en": "primary stress",
+     "zh": "主重音",
+     "defEn": "The single highest degree of stress within a word.",
+     "defZh": "一个词中程度最高的那一个重音，通常每词只有一个，在音节首之前用 [ˈ] 标记。"
+    },
+    {
+     "en": "secondary stress",
+     "zh": "次重音",
+     "defEn": "Stress lower than primary, marked with a lower tick mark.",
+     "defZh": "程度低于主重音的重音，在音节首之前用低竖线符号 [ˌ] 标记。"
+    },
+    {
+     "en": "lexical stress",
+     "zh": "词汇性重音",
+     "defEn": "Stress whose placement is unpredictable and memorized for each word.",
+     "defZh": "位置不可预测、需要逐词记忆的重音，可形成最小对立对。"
+    },
+    {
+     "en": "penultimate stress",
+     "zh": "倒数第二音节重音",
+     "defEn": "Primary stress on the second syllable from the end of a word.",
+     "defZh": "主重音落在词的倒数第二个音节上的重音模式，是常见的可预测模式之一。"
+    },
+    {
+     "en": "stress-timed",
+     "zh": "重音计时（stress-timed）",
+     "defEn": "A rejected classification in which stresses fall at roughly equal intervals.",
+     "defZh": "一种已被否定的分类，认为重音之间时间间隔大致相等。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[ˈbʌ.niˌhʌɡ] bunny hug",
+     "noteEn": "A Saskatchewan English word for a hoodie, showing all three degrees of stress.",
+     "noteZh": "萨斯喀彻温英语中表示连帽衫的词，展示三个重音等级。"
+    },
+    {
+     "text": "[ˈtɑɾu] ‘fast runner’ versus [tɑˈɾu] ‘batter’",
+     "noteEn": "A Khowar minimal pair distinguished only by the placement of stress.",
+     "noteZh": "霍瓦语的最小对立对，仅靠重音位置区分意义。"
+    },
+    {
+     "text": "[ˈklinˈʃevn̩] clean-shaven",
+     "noteEn": "A compound in which two syllables carry roughly equal primary stress.",
+     "noteZh": "复合词，其中两个音节带有大致相等的主重音。"
+    },
+    {
+     "text": "I’m going to the store to buy milk and eggs",
+     "noteEn": "Sentence in which the preposition to and the conjunction and are unstressed.",
+     "noteZh": "句中前置词 to 与连词 and 通常不重读。"
+    }
+   ],
+   "body": [
+    {
+     "en": "As organising units, syllables shape the rhythm of language, especially because stressed syllables are more prominent in the linguistic signal. In speech, stressed syllables often combine increased loudness, longer duration, and higher pitch; signed languages with syllables seem to mark stress with greater muscular tension, quicker movements, or longer holds. Languages differ considerably in which phonetic properties they use. The common stress-timed versus syllable-timed classification, however, lacks phonetic support and is best avoided.",
+     "zh": "作为组织单位，音节塑造了语言的节奏，一个重要原因在于重读音节在语言信号中更为凸显。在口语中，重读音节往往兼有更强的响度、更长的时长和更高的音高；有音节的手语似乎以更强的肌肉紧张、更快的运动或更长的保持动作来标记重音。各语言使用哪些语音属性差异很大。不过，重音计时与音节计时这一通行分类缺乏语音事实的支持，最好避免使用。"
+    },
+    {
+     "en": "In spoken languages a word may have many syllables and thus several degrees of stress. Usually exactly one syllable carries the highest degree, called primary stress and marked [ˈ] before the syllable onset; other stressed syllables have secondary stress, marked [ˌ] before the onset, and the remaining syllables are unstressed. All three levels appear in [ˈbʌ.niˌhʌɡ] bunny hug, a Saskatchewan English word for a hoodie. Non-IPA diacritics such as the acute and grave accents are also used, but must be applied carefully because they have other functions.",
+     "zh": "在口语中，一个词可以有多个音节，从而具备多个重音等级。通常恰有一个音节承载最高等级的重音，称为主重音，在音节首之前用 [ˈ] 标记；其他重读音节为次重音，在音节首之前用 [ˌ] 标记，其余音节不重读。三个等级都出现在 [ˈbʌ.niˌhʌɡ] bunny hug 中，这是萨斯喀彻温英语里表示连帽衫的说法。人们也用尖音符、抑音符等非国际音标符号标注重音，但这些符号另有用途，必须谨慎使用以免歧义。"
+    },
+    {
+     "en": "Many languages have lexical stress, whose placement is unpredictable and must be memorized for each word, and this can create minimal pairs such as [ˈtɑɾu] ‘fast runner’ versus [tɑˈɾu] ‘batter’ in Khowar. In other languages stress is fully predictable from syllable structure. Predictable stress falls nearly always on one of the first two or the last two syllables, giving initial, peninitial, ultimate, and penultimate stress; antepenultimate stress also occurs, as if the final syllable were invisible, but a matching third-from-the-beginning pattern is not found.",
+     "zh": "许多语言具有词汇性重音，其位置不可预测，必须逐词记忆，这能形成最小对立对，如霍瓦语中 [ˈtɑɾu]「跑得快的人」与 [tɑˈɾu]「击球手」。在另一些语言中，重音完全可由音节结构预测。可预测的重音几乎总是落在词的前两个或后两个音节之一上，由此有首音节重音、第二音节重音、末音节重音和倒数第二音节重音；也会出现倒数第三音节重音，仿佛末音节不可见，却找不到与之对应的、从词首数第三个音节固定重音的模式。次重音往往每隔一个音节交替出现。"
+    },
+    {
+     "en": "Despite such complexity, some generalisations hold. No spoken language consistently places primary stress on, say, the middle syllable of every word, nor does one consistently alternate two stressed with two unstressed syllables. This suggests deeper principles behind stress assignment, perhaps tied to its purpose: stress may aid processing, so it should be relatively regular and anchored to word boundaries. Not every imaginable stress pattern is possible; instead, a small set of specific restrictions seems to govern it.",
+     "zh": "尽管存在这些复杂性，仍有若干概括成立。没有哪种口语总是把主重音落在每个词的中间音节上，也没有哪种口语总是以两个重读音节与两个非重读音节交替。这说明重音的指派背后有更深层的原则，或许与重音的功能有关：重音可能有助于语言信号的加工，因此应相对规则，并锚定在词的边界上。并非所有可想象的重音模式都可行，支配重音的似乎只是少数几条具体限制。"
+    }
+   ]
+  }
+ }
+}

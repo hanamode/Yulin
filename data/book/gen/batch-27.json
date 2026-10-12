@@ -1,0 +1,283 @@
+{
+ "batch": 27,
+ "sections": {
+  "part-006-chapter-6-syntax": {
+   "title": {
+    "en": "Chapter 6: Syntax",
+    "zh": "第 6 章：句法"
+   },
+   "summary": {
+    "en": "This chapter moves from the internal structure of words to the way words are organized into phrases and sentences, the area of linguistics known as syntax. It states the chapter's learning goals: using constituency tests to identify phrases, classifying words by distribution, relating grammatically connected sentences, and drawing tree diagrams. An alternative reading path interleaves core concepts with tree diagrams and X-bar theory.",
+    "zh": "本章从词的内部结构转向词如何组织成短语和句子，这一领域在语言学中称为句法。开篇列出本章的学习目标：运用成分测试识别短语、依据分布给词分类、辨认语法上相互关联的句子，以及绘制树形图。章首还提供了一条把核心概念与树形图、X 杠理论交叉安排的替代阅读路径。"
+   },
+   "points": [
+    {
+     "en": "Syntax studies how words are organized into phrases and sentences, which have hierarchical structure rather than being mere sequences.",
+     "zh": "句法研究词如何组织成短语和句子，这些单位具有层级结构，而不只是单纯的线性序列。"
+    },
+    {
+     "en": "Just as a word contains a head morpheme, every phrase can be shown to have a syntactic head.",
+     "zh": "正如词含有中心语素，每个短语也都可以证明拥有一个句法上的中心语。"
+    },
+    {
+     "en": "Constituency tests provide the evidence used to identify which phrases are present within a sentence.",
+     "zh": "成分测试提供证据，用来判定一个句子内部包含哪些短语。"
+    },
+    {
+     "en": "Words are sorted into lexical and functional categories on the basis of their distribution.",
+     "zh": "词依据其在句中的分布，被划分为词汇类与功能类两大类。"
+    },
+    {
+     "en": "Core concepts and argumentation come in 6.1 to 6.12, while tree diagrams and X-bar theory come in 6.13 to 6.21.",
+     "zh": "核心概念与论证安排在 6.1 至 6.12，树形图与 X 杠理论则安排在 6.13 至 6.21。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "syntax",
+     "zh": "句法",
+     "defEn": "The study of how words are organized into phrases and sentences.",
+     "defZh": "研究词如何组织成短语和句子、并揭示其层级结构的语言学分支。"
+    },
+    {
+     "en": "constituency test",
+     "zh": "成分测试",
+     "defEn": "A diagnostic that provides evidence for identifying the phrases making up a sentence.",
+     "defZh": "通过换位、替换、省略等手段，为判定句子由哪些短语构成提供证据的测试方法。"
+    },
+    {
+     "en": "tree diagram",
+     "zh": "树形图",
+     "defEn": "A visual representation of the structural analysis of a sentence.",
+     "defZh": "用分层的节点与连线呈现句子结构分析结果的图形表示。"
+    },
+    {
+     "en": "X-bar theory",
+     "zh": "X 杠理论",
+     "defEn": "A formalization of phrase structure presented in the second half of the chapter.",
+     "defZh": "本章后半部分用以刻画短语结构、区分指示语与附加语等形式化理论。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Chapter 5 examined the internal structure of words. This chapter turns to a larger unit of organization: how words are arranged into phrases and sentences, which linguists call syntax. The guiding idea is that a sentence is not merely a string of words in sequence but has a hierarchical structure, much as a word is built from organized morphemes. Just as every word has a head morpheme, every phrase can be shown to have a syntactic head.",
+     "zh": "第 5 章考察了词的内部结构，本章则转向更大的组织单位：词如何组合成短语和句子，语言学家称之为句法。核心观点是，句子并不只是一串按顺序排列的词，而是具有层级结构，正如词由有组织的语素构成一样。正像每个词都有中心语素，每个短语也都可以证明有一个句法上的中心语。"
+    },
+    {
+     "en": "The stated learning goals are to use constituency tests as evidence for identifying the phrases inside a sentence, to sort words into lexical and functional categories according to their distribution, to recognize relationships among grammatically related sentences such as active and passive or statements and questions, and to draw tree diagrams for English sentences. The chapter is organized so that core concepts and argumentation come first, in 6.1 to 6.12, and tree diagrams with X-bar theory come second, in 6.13 to 6.21; an interleaved reading order is offered for courses that prefer to combine the two from the start. Appendix 1 offers an alternative formalization that uses phrase structure rules instead of X-bar theory.",
+     "zh": "本章列出的学习目标包括：运用成分测试所提供的证据识别句子中的短语；依据分布把词归入词汇类与功能类；辨认语法上相互关联的句子之间的关系，如主动与被动、陈述与疑问；为英语句子绘制树形图。全章在编排上把核心概念与论证放在前半部分，即 6.1 至 6.12，把树形图与 X 杠理论放在后半部分，即 6.13 至 6.21；对于希望一开始就把两者结合起来的课程，书中还给出了一种交叉式的阅读顺序。附录 1 还提供了另一种形式化方式，即用短语结构规则代替 X 杠理论。"
+    }
+   ]
+  },
+  "chapter-052-what-we-know-when-we-know-the-syntax-of-a-language": {
+   "title": {
+    "en": "6.1 Syntactic knowledge and grammaticality judgements",
+    "zh": "6.1 句法知识与合乎语法性判断"
+   },
+   "summary": {
+    "en": "Syntax studies how words are organized into phrases and sentences, which have hierarchical structure rather than being mere strings of words. Speakers can judge whether novel sentences such as All grypnos are tichek. fit the patterns of their internal grammar, and these grammaticality judgements reveal the limits on sentence building. The goals of syntactic theory are to predict which sentences are grammatical and to explain the properties of grammatical sentences, since a language is not a finite list.",
+    "zh": "句法研究词如何组织成短语和句子，而句子具有层级结构，并非单纯的词串。说话人能够判断像 All grypnos are tichek. 这样的新句子是否符合其内在语法的模式，这类合乎语法性判断揭示了造句所受的限制。句法理论的目标是预测哪些句子合乎语法，并解释合乎语法的句子所具有的性质，因为语言并不是一份有限的句子清单。"
+   },
+   "points": [
+    {
+     "en": "Syntax is the study of how words are organized into phrases and sentences, which have hierarchical structure.",
+     "zh": "句法研究词如何组织成短语和句子，而句子具有层级结构。"
+    },
+    {
+     "en": "Just as a word has a head morpheme, every phrase has an element that is its syntactic head.",
+     "zh": "正如词有中心语素，每个短语也都有一个充当句法中心语的成分。"
+    },
+    {
+     "en": "Grammaticality judgements come from individual language users, never from a language as a whole.",
+     "zh": "合乎语法性判断来自个别的语言使用者，而不可能来自作为整体的某种语言。"
+    },
+    {
+     "en": "Ungrammatical examples are marked with an asterisk, and semantically odd but grammatical ones with a hashmark.",
+     "zh": "不合乎语法的例子用星号标示，合乎语法但语义怪异的例子则用井号标示。"
+    },
+    {
+     "en": "Syntactic theory aims to predict which sentences are grammatical and to explain the properties of grammatical sentences.",
+     "zh": "句法理论旨在预测哪些句子合乎语法，并解释合乎语法的句子所具有的性质。"
+    },
+    {
+     "en": "Knowledge of syntax cannot be a mere list, because speakers generate and understand sentences they have never encountered.",
+     "zh": "句法知识不可能只是一份清单，因为说话人能生成并理解从未遇到过的句子。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "syntax",
+     "zh": "句法",
+     "defEn": "The study of how words are organized into phrases and sentences.",
+     "defZh": "研究词如何组织成短语和句子、并揭示其层级结构的语言学分支。"
+    },
+    {
+     "en": "grammaticality judgement",
+     "zh": "合乎语法性判断",
+     "defEn": "A language user's evaluation of whether a sentence is grammatical.",
+     "defZh": "语言使用者对某个句子是否符合其内在语法所作的评价，只能来自个人。"
+    },
+    {
+     "en": "grammatical",
+     "zh": "合乎语法的",
+     "defEn": "Describes a sentence that matches the patterns of a user's internal grammar.",
+     "defZh": "指符合某一语言使用者内在语法模式的句子，通常不加任何标记。"
+    },
+    {
+     "en": "ungrammatical",
+     "zh": "不合乎语法的",
+     "defEn": "Describes a sentence inconsistent with the grammatical system of a language user.",
+     "defZh": "指与某一语言使用者的语法系统不一致的句子，语言学中用星号标示。"
+    },
+    {
+     "en": "generativity",
+     "zh": "生成性",
+     "defEn": "The property by which a grammar generalizes to produce and understand novel sentences.",
+     "defZh": "语法能够推广到新情形，从而生成并理解前所未见的句子的特性。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "All grypnos are tichek.",
+     "noteEn": "Made-up words arranged in an order that still fits the patterns of English.",
+     "noteZh": "由生造词构成，但排列顺序仍符合英语模式的句子。"
+    },
+    {
+     "text": "*Grypnos tichek all are.",
+     "noteEn": "The same invented words in an order that does not fit English; the star marks ungrammaticality.",
+     "noteZh": "同样的生造词以不符合英语的顺序排列；星号标示其不合乎语法。"
+    },
+    {
+     "text": "#The book pedalled the ladder harmoniously.",
+     "noteEn": "Well formed for English but semantically odd, which the hashmark indicates.",
+     "noteZh": "结构上合乎英语，但语义怪异，井号正表示这一点。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Syntax is the branch of linguistics that asks how words are organized into phrases and sentences. Like the morphemes inside a word, the words in a sentence are best thought of as having a hierarchical structure rather than forming a simple string, and each phrase, like each word, contains a syntactic head. Example (1), All grypnos are tichek., is built from invented words, yet it has the right shape for English, whereas *Grypnos tichek all are. does not. Since speakers have never heard either sentence, their internal grammar must generalize to new cases; this is the generativity of language.",
+     "zh": "句法是语言学中研究词如何组织成短语和句子的分支。如同词内部的语素，句子中的词最好也被看作具有层级结构，而不是构成一个简单的词串；并且和词一样，每个短语都含有句法上的中心语。例（1）All grypnos are tichek. 由生造词构成，却仍然具备英语应有的形式，而 *Grypnos tichek all are. 则不然。既然说话人从未听到过这两个句子，其内在语法就必然能够推广到新的情形，这就是语言的生成性。"
+    },
+    {
+     "en": "A language user's evaluation of a sentence is a grammaticality judgement. Sentences that match the patterns of that user's internal grammar are grammatical; those that do not are ungrammatical. Calling something ungrammatical does not mean it breaks a schoolroom rule, only that it is inconsistent with a speaker's grammatical system. Judgements belong to individual speakers rather than to a language as a whole, though saying something is ungrammatical in English is usually shorthand for general agreement among its users. Ungrammatical examples take an asterisk, and sentences that are grammatical but semantically odd take a hashmark.",
+     "zh": "语言使用者对句子所作的评价就是合乎语法性判断。符合该使用者内在语法模式的句子是合乎语法的，不符合的则是不合乎语法的。说不合乎语法，并不是指它违反了课堂上教的规则，而只是指它与说话人的语法系统不一致。判断属于个别的说话人，而不属于作为整体的某种语言；不过说某句在英语中不合乎语法，通常只是表示英语使用者对此大体有一致看法。不合乎语法的例子前加星号，合乎语法但语义怪异的句子前加井号。"
+    },
+    {
+     "en": "Syntactic theory has two goals: to predict which sentences are grammatical and which are not, and to explain the observed properties of grammatical sentences. Much of the chapter uses varieties of English, but other languages reveal the scope of syntactic variation, and the eventual aim is a theory of all human languages. A mere list of grammatical sentences would not suffice, since speakers can produce and understand sentences that no one has encountered before.",
+     "zh": "句法理论有两个目标：预测哪些句子合乎语法、哪些不合乎语法，并解释合乎语法的句子所呈现的性质。本章大部分内容讨论英语的各种变体，但其他语言展示了句法变异的范围，最终目标则是建立一种适用于所有人类语言的理论。仅仅列出合乎语法的句子是不够的，因为说话人能够生成并理解任何人都未曾遇到过的句子。"
+    }
+   ]
+  },
+  "chapter-053-a-starting-point-word-order": {
+   "title": {
+    "en": "6.2 Word order",
+    "zh": "6.2 词序"
+   },
+   "summary": {
+    "en": "Word order is one of the most obvious properties of a sentence and is central to English. The grammatical All grypnos are tichek. and the ungrammatical *Grypnos tichek all are. differ only in the order of their words. English statements require the verb to follow at least one noun, giving the pattern N V (N), and English is Subject-Verb-Object, an order reported in about 35.5% of the world's languages, while Subject-Object-Verb is the most common at 41%.",
+    "zh": "词序是句子最明显的特征之一，在英语中尤为重要。合乎语法的 All grypnos are tichek. 与不合乎语法的 *Grypnos tichek all are. 之间只有词序之别。英语陈述句要求动词位于至少一个名词之后，形成 N V（N）的模式；英语属于主—动—宾（SVO）语言，约 35.5% 的世界语言采用该词序，而主—宾—动（SOV）以 41% 最为常见。"
+   },
+   "points": [
+    {
+     "en": "English has relatively fixed word order, so rearranging words usually changes the meaning or yields an ungrammatical sentence.",
+     "zh": "英语词序相对固定，因此调换词序通常会改变意义或造成不合乎语法的句子。"
+    },
+    {
+     "en": "In an English statement the verb must follow at least one noun and may be followed by a second: N V (N).",
+     "zh": "在英语陈述句中，动词必须位于至少一个名词之后，其后可以再跟一个名词，即 N V（N）。"
+    },
+    {
+     "en": "Subjects almost always precede the predicate and control agreement on the verb, while direct objects usually follow it.",
+     "zh": "主语几乎总是位于谓语之前并决定动词的一致形式，直接宾语则通常位于动词之后。"
+    },
+    {
+     "en": "Predicates are classified by transitivity: intransitive takes one argument, transitive two, and ditransitive three.",
+     "zh": "谓语按及物性分类：不及物谓语带一个论元，及物谓语带两个，双及物谓语带三个。"
+    },
+    {
+     "en": "English is Subject-Verb-Object, and Subject-Object-Verb, at 41%, is the most common basic order in the world.",
+     "zh": "英语是主—动—宾语言；主—宾—动以 41% 成为世界上最常见的基本词序。"
+    },
+    {
+     "en": "Languages with flexible order often use a strict topic-comment arrangement, where style, topic and focus determine placement.",
+     "zh": "词序灵活的语言常采用严格的话题—述题安排，由语体、话题与焦点决定成分位置。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "basic word order",
+     "zh": "基本词序",
+     "defEn": "The order found in simple declarative clauses, without special emphasis or topic.",
+     "defZh": "在没有任何特殊强调或话题化的简单陈述小句中呈现的、作为默认值的词序。"
+    },
+    {
+     "en": "subject",
+     "zh": "主语",
+     "defEn": "The argument that usually precedes the predicate and controls agreement on the verb.",
+     "defZh": "通常位于谓语之前、决定动词一致形式，且代词形式使用主格的论元。"
+    },
+    {
+     "en": "direct object",
+     "zh": "直接宾语",
+     "defEn": "An argument that usually appears after the verb; pronominal objects take accusative case.",
+     "defZh": "通常出现在动词之后的论元；其代词形式使用宾格，如 me、us、him。"
+    },
+    {
+     "en": "argument",
+     "zh": "论元",
+     "defEn": "A phrase corresponding to a participant or actor involved in the sentence's predicate.",
+     "defZh": "与句子谓语所涉及的参与者或行为者相对应的短语，多为名词短语。"
+    },
+    {
+     "en": "transitivity",
+     "zh": "及物性（配价）",
+     "defEn": "The number of arguments that a predicate takes, also called its valency.",
+     "defZh": "谓语所带论元的数目，也称配价；据此分为不及物、及物与双及物。"
+    },
+    {
+     "en": "topic and focus",
+     "zh": "话题与焦点",
+     "defEn": "The topic is what a sentence is about; the focus is what the speaker emphasizes.",
+     "defZh": "话题是句子所谈论的对象，焦点则是说话人想要强调或突出的内容。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Amal ate chocolate.",
+     "noteEn": "A grammatical English statement in which the verb follows the subject and precedes the object.",
+     "noteZh": "合乎语法的英语陈述句，动词位于主语之后、宾语之前。"
+    },
+    {
+     "text": "*Amal chocolate ate.",
+     "noteEn": "The same words in a disallowed order, showing that the verb cannot come last here.",
+     "noteZh": "同样几个词以不被允许的顺序排列，说明此处动词不能位于句末。"
+    },
+    {
+     "text": "Chocolate ate Amal.",
+     "noteEn": "Grammatical English with an implausible meaning; it cannot mean the same as Amal ate chocolate.",
+     "noteZh": "合乎语法但意义不合常理；它无法表达与 Amal ate chocolate. 相同的意思。"
+    },
+    {
+     "text": "[ Danai laughed ] and [ Seo-yeon cried ]",
+     "noteEn": "A compound sentence in which two clauses are linked by the conjunction and.",
+     "noteZh": "由并列连词 and 连接两个小句而成的复合句。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Word order is one of the most obvious properties of a sentence, and for English it carries great weight: the grammatical All grypnos are tichek. and the ungrammatical *Grypnos tichek all are. differ only in word order. English has relatively fixed order, and changing it usually alters the meaning or makes a sentence ungrammatical. French, Chatino and Choktaw are also relatively fixed, while Latin, Anishinaabemowin, Kanien'kéha and ASL permit much more flexible order, where style, topic and focus shape the arrangement.",
+     "zh": "词序是句子最明显的特征之一，在英语中尤其重要：合乎语法的 All grypnos are tichek. 与不合乎语法的 *Grypnos tichek all are. 之间只有词序之别。英语的词序相对固定，改动词序通常会改变意义或使句子不合乎语法。法语、查蒂诺语与乔克托语的词序也相对固定，而拉丁语、阿尼什纳贝语、卡尼恩凯哈语与美国手语则容许灵活得多的词序，其排列方式由语体、话题与焦点决定。"
+    },
+    {
+     "en": "Grammatical examples like Amal ate chocolate. and ungrammatical ones like *Amal chocolate ate. show that the verb cannot be first in an English statement. Since the verb does come last in Daffodils bloom. and Eagles fly., the most accurate generalization is that the verb must follow at least one noun and may be followed by a second: N V (N). Word order is also sensitive to grammatical function, since it is the subject that precedes the verb and the object that follows it; Chocolate ate Amal. therefore cannot mean the same as Amal ate chocolate.",
+     "zh": "像 Amal ate chocolate. 这样的合乎语法例句和 *Amal chocolate ate. 这样的不合乎语法例句表明，英语陈述句中的动词不能位于句首。由于动词在 Daffodils bloom. 和 Eagles fly. 中确实位于句末，最准确的概括应是：动词必须跟在至少一个名词之后，其后可以再跟一个名词，即 N V（N）。词序还与语法功能相关，位于动词之前的是主语，位于其后的是宾语；因此 Chocolate ate Amal. 不能表达与 Amal ate chocolate. 相同的意思。"
+    },
+    {
+     "en": "Predicates are classified by transitivity, the number of arguments they take: intransitive predicates take one argument, transitive two, and ditransitive three. Arguments, the phrases naming participants in the event, are usually noun phrases but may also be prepositional phrases or whole clauses. Subjects almost always precede the predicate and control agreement, direct objects usually follow the verb, and with a ditransitive the indirect object is often the recipient. English is Subject-Verb-Object, an order Dryer (2013) reports in about 35.5% of languages; Subject-Object-Verb is the most common at 41%, and every logically possible order is attested somewhere.",
+     "zh": "谓语按及物性分类，即按其所能带论元的数目分类：不及物谓语带一个论元，及物谓语带两个，双及物谓语带三个。论元是指称事件参与者的短语，通常是名词短语，也可以是介词短语或整个小句。主语几乎总是位于谓语之前并决定一致形式，直接宾语通常位于动词之后，在双及物结构中间接宾语往往是接受者。英语是主—动—宾语言，据 Dryer（2013）报告，约 35.5% 的语言采用这一词序；主—宾—动以 41% 最为常见，而所有逻辑上可能的词序在世界语言中都确有实例。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "batch": 10,
+ "out": "data/gen2/batch-10.json",
+ "entries": [
+  {
+   "id": "tone",
+   "title": "声调",
+   "en": "Tone",
+   "category": "concepts"
+  },
+  {
+   "id": "intonation",
+   "title": "语调",
+   "en": "Intonation",
+   "category": "concepts"
+  },
+  {
+   "id": "stress",
+   "title": "重音",
+   "en": "Stress",
+   "category": "concepts"
+  }
+ ]
+}

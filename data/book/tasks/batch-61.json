@@ -1,0 +1,25 @@
+{
+ "batch": 61,
+ "chapter": "Chapter 12: Adult Language Learning",
+ "out": "data/book/gen/batch-61.json",
+ "sections": [
+  {
+   "id": "chapter-141-slug-12-3-gaining-proficiency",
+   "title": "12.3 Gaining proficiency",
+   "src": "data/book/src/chapter-141-slug-12-3-gaining-proficiency.txt",
+   "chars": 6634
+  },
+  {
+   "id": "chapter-142-slug-12-4-cognitive-processes-in-language-learning",
+   "title": "12.4 Cognitive processes in language learning",
+   "src": "data/book/src/chapter-142-slug-12-4-cognitive-processes-in-language-learning.txt",
+   "chars": 9448
+  },
+  {
+   "id": "chapter-143-slug-12-5-your-l1-has-an-influence",
+   "title": "12.5 Learning a New Modality",
+   "src": "data/book/src/chapter-143-slug-12-5-your-l1-has-an-influence.txt",
+   "chars": 6940
+  }
+ ]
+}

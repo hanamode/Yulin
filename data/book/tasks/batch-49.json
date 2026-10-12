@@ -1,0 +1,25 @@
+{
+ "batch": 49,
+ "chapter": "Chapter 9: Reclaiming Indigenous Languages",
+ "out": "data/book/gen/batch-49.json",
+ "sections": [
+  {
+   "id": "chapter-110-future",
+   "title": "9.6 One view on the future of Indigenous languages",
+   "src": "data/book/src/chapter-110-future.txt",
+   "chars": 3550
+  },
+  {
+   "id": "chapter-111-slug-9-7-reclaiming-michif",
+   "title": "9.7 Reclaiming Michif",
+   "src": "data/book/src/chapter-111-slug-9-7-reclaiming-michif.txt",
+   "chars": 20557
+  },
+  {
+   "id": "chapter-112-slug-9-8",
+   "title": "9.8 Reclaiming Hul’q’umi’num’",
+   "src": "data/book/src/chapter-112-slug-9-8.txt",
+   "chars": 13686
+  }
+ ]
+}

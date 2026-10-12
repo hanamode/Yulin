@@ -1,0 +1,79 @@
+# 7.7 Countability
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=813#oembed-1
+A fundamental aspect of nominal meaning is whether the entity is countable or not. Descriptively, nouns that are countable can be pluralized, can appear with numerals, and take the determiner many. All of the nouns (bolded) in (1)-(3) are called count nouns in English because they have these properties.
+
+[表格]
+| | | (1) | | | | | I bought these | | | | shirt | | | | s today. | | | | | (2) | | | | | | Beth needs three | | | | chair | | | | s in this room. | | | | | | (3) | | | | | | There are so many | | | | cup | | | | s on the shelf. | | | | |
+
+There is another class of nouns which cannot be pluralized in English, like dirt. Nouns like dirt are called mass nouns. They often point to substances or entities that are otherwise considered to be a homogenous group. For example, rice is also a mass noun in English. In principle individual grains of rice can be counted, but linguistically rice behaves like a mass noun. Mass nouns resist pluralization, cannot take numerals, and takes the determiner much rather than many. This is shown in (4)-(6).
+
+[表格]
+| | | (4) | | a. | | * | | | That is a lot of | | | | dirt | | | | s. | | | | | | | b. | | | | | | That is a lot of | | | | dirt. | | | | | | | | (5) | | | | * | | | | Beth needs three | | | | mud | | | | s for this garden. | | | | | | (6) | | a. | | * | | | | There are so many | | | | rice | | | | s in the rice cooker. | | | | | | | | b. | | | | | | There is so much | | | | rice | | | | in the rice cooker. | | | | |
+
+Conceptually, count nouns are countable in the sense that, for example, if I have one cup on the table and then put another cup on the table, this results in two distinct, separate cup entities where the boundary of each one is perceptible. We say that count nouns are bounded for this reason. Mass nouns like dirt is different because if I have a pile of dirt on the table and add more dirt to it, you still have just one pile of dirt, just larger. So mass nouns are unbounded.
+You may have noticed that in (4)-(6), pluralised mass nouns sound acceptable in certain contexts. For example, saying a lot of dirts, three muds, or many rices gives rise to the kind interpretation: a lot of kinds of dirt, three kinds of mud, and many kinds of rice. Like this, mass nouns can often be used in a “count” way.
+Besides counting the kinds of the mass noun, another way to make mass nouns countable is to put them into containers. For example, nouns like water and pudding are homogenous substances and therefore are fundamentally a mass noun, but when pluralised they have a fairly natural interpretation in which you are counting the number of containers that contain the substance. This is shown in (7)-(8).
+
+[表格]
+| | | (7) | | a. | | | | | There is so much | | | | water | | | | in the sink. | | | | (mass) | | | | | | | b. | | | | | Can we have two | | | | water | | | | s? | | | | | (count, ‘two glasses of water’) | | | | | | (8) | | a. | | | | | There is a lot of | | | | pudding | | | | in this bowl. | | | | | (mass) | | | | | | | | b. | | | | | There are four | | | | pudding | | | | s in the fridge. | | | | | (count, ‘two cups (containers) of pudding’) | | | | |
+
+The reverse is possible as well: in some contexts, fundamentally count nouns can be used in “mass” ways. Pumpkin for example is at the basic level a count noun, but if for example a truck carrying a bunch of pumpkins crashed on the highway and the pumpkins got smashed and got everywhere on the road, you can use it in a “mass” way. This is shown in (9)-(10).
+
+[表格]
+| | | (9) | | | | | | There are many | pumpkin | s on the truck. | | | (count) | | | | | (10) | | | | | | | | The pumpkin truck crashed on the highway and there was so much | pumpkin | everywhere. | | | | | | (mass) | | | | |
+
+What we learn from these observations is that nouns lexically encode whether it is a count noun or a mass noun in its lexical entry. However, there also seems to be a rule in English where a mass noun can be converted into a count noun, and vice versa.
+Whether a noun is linguistically count or mass varies from language to language. Consider (11) and (12). For example in Halkomelem (Hul’qumi’num), an indigenous language spoken by various First Nations peoples of the British Columbia Coast, fog can be readily pluralized, giving rise to the meaning ‘lots of fog’. In French, singular cheveu is interpreted as ‘a strand of hair,’ while cheveux, which is morphosyntactically marked plural, is interpreted as ‘a mass of hair,’ as in the hair on your head.
+
+[表格]
+| | | (11) | | | | | Halkomelem | | | | | | | | | | | | | | | tsel | | | | kw’éts-lexw | | | | te/ye | | | | | shweláthetel | | | | | | | | | | | 1sg.s | | | | see-trans.3o | | | | det/det.pl | | | | | fogs | | | | | | | | | | | ‘I’ve seen a lot of fog’ (Wiltschko 2008) | | | |
+
+[表格]
+| | | (12) | | a. | | | French | | | | | | | | | | | | | | | Il y a | | | | | un cheveu | | | | | dans | | | | ma soupe | | | | | | | | | | there.is | | | | | a hair | | | | | in | | | | my soup | | | | | | | | | | ‘There is a strand of hair in my soup’ | | | |
+
+[表格]
+| | | | (12) | | | b. | | | Je | | | | veux | | | | me brosser | | | | les | cheveux | | | | | | | | | | | I | | | want | | | myself to.brush | | | | the.pl | hairs | | | | | | | | | | | ‘I want to brush my hair’ | | | |
+
+It is also worthwhile to note that some languages like Japanese do not have productive morphosyntactic plural marking. For example, (13) can be interpreted as ‘bring cups’ or ‘bring a cup’ depending on context.
+
+[表格]
+| | | (13) | | | | Japanese | | | | | | | | koppu | | mottekite | | | | | | | | cup | | bring | | | | | | | | ‘Bring cups / a cup’ | | |
+
+Some linguists have analysed languages like Japanese as having only mass nouns (Chierchia 1998). This does not mean that you cannot count things ever in Japanese. Japanese has a rich system of noun classifiers. Similar to the way in English hair is counted as ‘one strand of hair,’ ‘two strands of hair,’ etc., Japanese has morphemes that attach to numerals to turn mass nouns into bounded bits. Which morpheme is used depends on the semantic classification of the noun being counted. Consider the data in (14).
+
+[表格]
+| | | (14) | | | | Japanese | | | | | | | | a. | | kami | | 3- | mai | | | kudasai | | | | | | | | paper | | 3- | CL | | | give | | | | | | | | ‘Please give me 3 pieces of paper’ (Classifier: thin sheets) | | | | | | b. | | enpitsu | | 2- | hon | | | kudasai | | | | | | | | pencil | | 2- | CL | | | give | | | | | | | | ‘Please give me 2 pencils’ (Classifier: long cylindrical objects) | | | | | | c. | | kuruma | | 1- | dai | | | kudasai | | | | | | | | car | | 1- | CL | | | give | | | | | | | | ‘Please give me 1 car’ (Classifier: object with mechanical parts) | | | | | | d. | | neko | | 12- | hiki | | | kudasai | | | | | | | | cat | | 12- | CL | | | give | | | | | | | | ‘Please give me 12 cats’ (Classifier: smallish quadripedal animals) | | | | | | e. | | tori | | 4- | wa | | | kudasai | | | | | | | | bird | | 4- | CL | | | give | | | | | | | | ‘Please give me 4 birds’ (Classifier: animals with wings) | | | | | | f. | | tomato | | 5- | tsu | / 5- | ko | | | kudasai | | | | | | | | tomato | | 5- | CL | / 5- | CL | | | give | | | | | | | | ‘Please give me 5 tomatoes’ (Classifier: general) | | |
+
+The bolded morpheme (glossed as “CL” for “Classifier”) is the classifier in each sentence. The idea is that literally saying something like ‘2 pencils’ (*2 enpitsu or *enpitsu 2) is ungrammatical in Japanese. You must use a classifier when counting things. Nouns in Japanese are categorised into grammatical groups that are roughly semantically-based. For example, “thin, flat objects” forms a category, whose typical member include objects like paper, posters, and pizza. Nouns in this class use the classifier -mai as in (14a). The classifier -hon in (14b) is typically used for long, thin, often cylindrical objects like pencils, pens, and drinking straws. -dai in (14c) is used for typically mechanical objects with perceptible parts (e.g., cars, trucks, and computers), -hiki in (14d) for smaller quadripedal mammals (e.g., dogs, cats, hamsters), and -wa in (14e) for animals with wings (e.g., chicken, sparrow, eagle). -tsu and -ko are the “elsewhere” classifiers that can be used for a more heterogenous group of inanimate nouns that don’t fall into a specific class (e.g., tomatoes, pebbles, cushions, etc.). Some members of a noun class can be surprising: for example, usagi ‘rabbit’ takes the classifier typically used for animals with wings (-wa), likely because their ears are perceived to be like wings. ke:ki ‘cake’, if whole, takes the classifier -dai for “mechanical objects with perceptible parts” and if by the slice, the classifier -kire for “slices” or –pi:su for “pieces”.
+
+How to be a linguist: Context matters!
+
+We see from the discussion of the mass/count distinction that the context matters when you are making (or asking for) acceptability judgments about sentences. We saw in the previous “How to be a linguist” that what’s felicitous or infelicitous is often very informative of the semantics of a word. Here’s another tip. When making (or asking for) acceptability judgments, be very careful about what’s actually well-formed vs. ill-formed. For example, what do you think about (15)?
+
+(15) I swam in vanilla extract.
+
+You might have the intuition that there is something unusual about this sentence — but should we conclude from this that this is a semantically bad sentence? Hold on! Not quite. (15) might sound odd out of the blue because based on your world knowledge, you know that vanilla extract is usually used in small amounts — not a large enough quantity to swim in. However, with a proper context like in (16), this is a perfectly natural thing to say:
+
+(16) (Context: I work at a vanilla extract factory, and while I was examining the quality of the product, I fell in a 4000-gallon tank of vanilla extract.)
+I swam in vanilla extract.
+
+The moral of the story is that make sure you think about the context carefully when examining data. Is the sentence bad in all contexts, or just certain ones? In fact, the difference that the context makes may be quite informative in terms of what a linguistic expression means. Consider (17) and (18): same sentence, same emoji, but different context.
+
+(17) (Context: Your friend’s dog did a cute and funny trick at a dog show)
+Your dog was so cute 😂
+(18) (Context: At the funeral service for your friend’s cute dog that passed away)
+#Your dog was so cute 😂
+
+Your dog was so cute without the emoji would be fine in both (17) and (18); the addition of the emoji is what matters. For many readers, the emoji is infelicitous in (18). This tells us something about the meaning of this particular emoji: it doesn’t mean SAD-crying! The context in (17), where the emoji is felicitous, suggests that it means LAUGHING-crying: it perhaps means that something is funny. Try this same-sentence-different-context approach yourself with the upside-down smiley emoji, 🙃. What does it mean? When do you use it? Back up your intuition with an example sentence. Construct a sentence with this emoji, and come up with two different contexts: one in which the emoji is felicitous, and another one in which the emoji is infelicitous. If this emoji is not a part of your lexicon, do the same exercise but ask someone else who uses the emoji for the acceptability judgement: “Is this sentence natural in this context? How about this context?”. Can you infer from their response what sentiment the upside-down smiley indicates? (See “Check your understanding” at the end of this section for a sample answer.)
+This kind of approach to meaning may be useful whenever you encounter a new word (either in your first language or additional language(s)!). Instead of just asking “What does this word mean?”, consider asking linguist questions like “In what kinds of contexts do you use this word in? Where can you not use it?”! This will get you a more nuanced picture of the meaning of that word!
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=813#h5p-60
+
+## References
+
+Chierchia, G. (1998). Reference to kinds across language. Natural language semantics, 6(4), 339-405.
+Wiltschko, M. (2008). The syntax of non-inflectional plural marking. Natural Language & Linguistic Theory, 26(3), 639-694.

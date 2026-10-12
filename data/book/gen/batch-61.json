@@ -1,0 +1,336 @@
+{
+ "batch": 61,
+ "sections": {
+  "chapter-141-slug-12-3-gaining-proficiency": {
+   "title": {
+    "en": "12.3 Gaining proficiency",
+    "zh": "12.3 达到熟练水平"
+   },
+   "summary": {
+    "en": "Fluency and proficiency are not neutral facts but judgements shaped by standardization. Canada and the United States publish detailed benchmarks that rank learners, and scale labels such as Superior imply that other users are inferior. For Indigenous languages the question is harder still, because definitions depend on colonial documentation, yet benchmarks can also serve reawakening programs. Ultimately learners themselves decide what counts as proficient.",
+    "zh": "流利与熟练并非中立的事实，而是受标准化影响的判断。加拿大和美国都发布了详尽的能力基准，对学习者分级；Superior（高级）这类量表名称本身就在暗示另一些使用者是低劣的。对原住民语言而言，问题更为复杂：定义依赖殖民时期的文献记录，但基准也能服务于语言复兴项目。归根结底，什么算熟练由学习者自己决定。"
+   },
+   "points": [
+    {
+     "en": "Building another grammar as an adult takes enormous effort and practice, and many learners never feel fully fluent.",
+     "zh": "成年后建构另一套语法需要巨大的努力与练习，许多学习者始终觉得自己不够流利。"
+    },
+    {
+     "en": "Like all standardization, official proficiency benchmarks rank learners and carry implicit value judgements.",
+     "zh": "与一切标准化一样，官方能力基准对学习者分级，并暗含价值判断。"
+    },
+    {
+     "en": "Naming the top level Superior automatically implies that other language users are inferior, feeding accent prejudice.",
+     "zh": "把最高等级命名为高级，就自动暗示其他语言使用者低劣，从而助长口音偏见。"
+    },
+    {
+     "en": "For Indigenous languages, defining fluency is complicated because colonial linguists wrote the documentation.",
+     "zh": "对原住民语言来说，流利度的定义之所以复杂，是因为文献由殖民时期的语言学家撰写。"
+    },
+    {
+     "en": "Some reawakening programs nonetheless adopt published benchmarks as concrete goals for learners.",
+     "zh": "尽管如此，一些语言复兴项目仍采用已发布的基准作为学习者的具体目标。"
+    },
+    {
+     "en": "Since learners do the work themselves, they get to decide what counts as proficient for their own purposes.",
+     "zh": "既然学习由学习者自己付出努力，他们就该按自己的目的来界定什么算熟练。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "fluency",
+     "zh": "流利度",
+     "defEn": "The ability to use a language easily and effectively, often defined by standards.",
+     "defZh": "轻松有效地使用语言的能力，其判定往往依据某种标准。"
+    },
+    {
+     "en": "benchmark",
+     "zh": "基准",
+     "defEn": "A published standard describing levels of proficiency in a language.",
+     "defZh": "官方发布、用于描述语言能力等级的标准。"
+    },
+    {
+     "en": "standardized variety",
+     "zh": "标准变体",
+     "defEn": "The socially higher-status variety with more grammar books and dictionaries.",
+     "defZh": "社会地位更高、拥有更多语法书和词典的语言变体。"
+    },
+    {
+     "en": "language reawakening",
+     "zh": "语言复兴（语言唤醒）",
+     "defEn": "Work that brings a dormant language back into regular use.",
+     "defZh": "使休眠语言重新恢复日常使用的工作。"
+    },
+    {
+     "en": "colonialism",
+     "zh": "殖民主义",
+     "defEn": "Domination in which socially dominant groups claim the right to define valid knowledge.",
+     "defZh": "社会主导群体宣称有权界定何为有效知识的支配关系。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Benchmarks",
+     "noteEn": "Canada publishes these for English and French proficiency in the two official languages.",
+     "noteZh": "加拿大为两种官方语言的英语、法语能力发布的基准。"
+    },
+    {
+     "text": "Proficiency Guidelines",
+     "noteEn": "ACTFL’s five-level scale, whose two highest levels are named Superior and Distinguished.",
+     "noteZh": "ACTFL 的五级量表，其中最高两级分别命名为高级与卓异。"
+    },
+    {
+     "text": "Onkwawenna Kentyohkwa",
+     "noteEn": "A Kanyen’kéha school that sets benchmarks as goals for its learners.",
+     "noteZh": "一所 Kanyen’kéha 语学校，以能力基准作为学习者的目标。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Learning a language as an adult is a great deal of work, and many later learners feel they never reach the fluency they hoped for. This section asks whether that notion of fluency is itself problematic: who decides what counts as fluent? Adult language learning is bound up with language standards, and a standardized variety is not better than others, only higher in status and richer in grammar books.",
+     "zh": "成年后学习一门语言非常费力，许多后学语言者觉得自己始终没能达到期望的流利程度。本节追问：流利这一概念本身是否就有问题？由谁来决定什么算流利？成人语言学习与语言标准紧密交织，而标准变体并不比别的变体更好，只是社会地位更高、附带的语法书和词典更多。"
+    },
+    {
+     "en": "Language teachers normally see their job as helping adults meet the standard, and governments publish detailed scales. Canada issues Benchmarks for English and French defining Basic, Intermediate and Advanced proficiency in listening, speaking, reading and writing, while the American Council on the Teaching of Foreign Languages publishes Proficiency Guidelines with five levels, the top two named Superior and Distinguished. The value judgement sits in the name: labelling some users superior implies that others are inferior, which is how accent prejudice arises.",
+     "zh": "语言教师通常把工作理解为帮助成年人达到标准，政府也会发布详尽的量表。加拿大为英语和法语发布基准，界定听、说、读、写的基本、中级和高级能力；美国外语教学委员会发布五级能力指南，最高两级命名为高级（Superior）与卓异（Distinguished）。价值判断就在名称中：把某些使用者标为高级，就暗示另一些低劣，口音偏见由此产生。"
+    },
+    {
+     "en": "For Indigenous languages the notion of fluency is more tangled. Learners often want to use the language in a way consistent with its traditional form, yet any language in regular use inevitably changes. Megan Lukaniec, working with archival documents to reawaken Wendat, describes both a pressure to remain true to the documented language and a freedom to forge a new path for it. Wesley Leonard, reawakening the sleeping myaamia language, notes the irony that those documents reenact colonial power by asserting the right to define valid knowledge.",
+     "zh": "对原住民语言来说，流利的含义更为纠结。学习者往往希望按传统的形态使用语言，但任何处于日常使用中的语言都不可避免地发生变化。Megan Lukaniec 借助档案文献复兴温达特语（Wendat），她既感到要忠实于文献记录的压强，也拥有为这门语言开辟新路的自由。正在复兴沉睡的 myaamia 语的 Wesley Leonard 指出其中的讽刺：这些文献本身就是殖民权力的再次行使，宣称有权界定何为有效知识。"
+    },
+    {
+     "en": "Standardizing documents can nevertheless help learning and teaching: programs such as the Kanyen’kéha school Onkwawenna Kentyohkwa use benchmarks like ACTFL’s Proficiency Guidelines as goals. Since learners differ in whether they want to read scholarly work, watch a film without subtitles, converse with relatives or pass a test, benchmarks may or may not help. Because you are the one doing the work, you decide what counts as proficient: if you can watch the film or talk with your aunties, you may call yourself proficient.",
+     "zh": "不过，标准化文件对学习与教学也可能有用：Kanyen’kéha 语的 Onkwawenna Kentyohkwa 学校等项目，就把 ACTFL 能力指南等基准作为学习者的目标。学习者的目的各不相同：读学术著作、看不带字幕的电影、与亲属交谈，或通过考试，因此基准可能有用，也可能无用。既然付出努力的是你自己，那么什么算熟练就由你决定：如果你已经能看懂那部电影，或能和姑姨们聊天，就可以称自己为熟练。"
+    }
+   ]
+  },
+  "chapter-142-slug-12-4-cognitive-processes-in-language-learning": {
+   "title": {
+    "en": "12.4 Cognitive processes in language learning",
+    "zh": "12.4 语言学习中的认知过程"
+   },
+   "summary": {
+    "en": "This section turns from social to psychological factors. A learner needs communicative input, and processing limits mean only part of it becomes intake; early grammars therefore rely heavily on content words, and sign learners make systematic handshape errors. Researchers distinguish declarative from procedural knowledge, and proficiency grows as processing becomes rapid and automatic through practice. It also introduces interlanguage and the interlanguage speech intelligibility benefit.",
+    "zh": "本节从社会因素转向心理因素。学习者需要具有交际性的输入，而加工能力的限制使其中只有一部分成为吸收；因此早期语法严重依赖实词，手语学习者的错误也集中在手形上。研究者区分陈述性知识与程序性知识，熟练度随加工经由练习变得快速自动化而提高。本节还介绍中介语以及中介语语音可懂度优势。"
+   },
+   "points": [
+    {
+     "en": "Language learning needs input that is used communicatively, linking forms with meaningful messages, not just abundant input.",
+     "zh": "语言学习需要用于交际的输入，把语言形式与有意义的信息联系起来，而不只是追求输入量。"
+    },
+    {
+     "en": "Researchers contrast declarative knowledge, which is explicit, with procedural knowledge, which is unconscious.",
+     "zh": "研究者区分陈述性知识与程序性知识：前者是显性知识，后者是无意识的知识。"
+    },
+    {
+     "en": "Attention and working memory are limited, so a learner’s intake is much smaller than the available input.",
+     "zh": "注意力与工作记忆有限，因此学习者的吸收量远小于可获得的输入量。"
+    },
+    {
+     "en": "Early grammars are dominated by content words rather than function words or inflectional morphemes.",
+     "zh": "早期语法以实词为主，虚词和屈折语素所占比例较小。"
+    },
+    {
+     "en": "Adult sign learners simplify systematically, most often in handshape and especially with two independent hands.",
+     "zh": "成年手语学习者会做系统性简化，最常出错的是手形，双手独立运动时尤为明显。"
+    },
+    {
+     "en": "Interlanguage is the not-yet-fluent grammar of a learner, and it brings an intelligibility benefit among later learners.",
+     "zh": "中介语是学习者尚未流利的语法；它使后学语言者之间产生可懂度优势。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "input",
+     "zh": "输入",
+     "defEn": "The language a learner hears, sees signed, or reads.",
+     "defZh": "学习者听到、看到手语或读到的语言材料。"
+    },
+    {
+     "en": "intake",
+     "zh": "吸收（摄入）",
+     "defEn": "The portion of the input that the mind actually processes.",
+     "defZh": "输入中真正被头脑加工处理的那一部分。"
+    },
+    {
+     "en": "declarative knowledge",
+     "zh": "陈述性知识",
+     "defEn": "Knowledge you know explicitly, such as your postal code.",
+     "defZh": "你能明确意识到的知识，例如自己的邮政编码。"
+    },
+    {
+     "en": "procedural knowledge",
+     "zh": "程序性知识",
+     "defEn": "Unconscious knowledge that underlies skilled, automatic behaviour.",
+     "defZh": "支撑熟练自动化行为的无意识知识。"
+    },
+    {
+     "en": "interlanguage",
+     "zh": "中介语",
+     "defEn": "A learner’s grammar that is not yet like an L1 user’s.",
+     "defZh": "学习者尚未达到母语者水平的语法系统。"
+    },
+    {
+     "en": "intelligibility",
+     "zh": "可懂度",
+     "defEn": "How accurately listeners can identify what a talker said.",
+     "defZh": "听者能否准确辨认说话人所讲内容的程度。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "a user of Auslan (Australian Sign Language) describing an event happening in Melbourne in January 2022",
+     "noteEn": "An unfamiliar signed sample that most learners cannot process much of.",
+     "noteZh": "大多数学习者无法有效加工的生疏手语样本。"
+    },
+    {
+     "text": "a user of Kaurna (an Indigenous language of South Australia) introducing himself on the radio",
+     "noteEn": "An unfamiliar spoken sample where word boundaries are hard to find.",
+     "noteZh": "生疏的口语样本，连词与词的界限都难以辨认。"
+    },
+    {
+     "text": "handshape",
+     "noteEn": "The usual locus of systematic articulation errors for adult sign learners.",
+     "noteZh": "成年手语学习者系统性发音错误最常见的位置。"
+    },
+    {
+     "text": "interlanguage speech intelligibility benefit",
+     "noteEn": "Bent and Bradlow’s name for later learners being more intelligible to each other.",
+     "noteZh": "Bent 与 Bradlow 对后学语言者彼此更易听懂这一现象的命名。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier sections examined the social side of adult language learning; this one considers the psychological side. As in L1 acquisition, the goal is to construct a mental grammar, and one crucial ingredient is easily overlooked: learners need input, seeing the language signed or written or hearing it spoken. Input is only useful when it is used communicatively, so that the mind links the forms of the language with a meaningful message.",
+     "zh": "前面的小节考察了成人语言学习的社会面向，本节转向心理面向。与第一语言习得一样，目标是建构一套心理语法。有一个关键要素容易被忽视：学习者需要输入，要看到手语或书面语，或听到口语。只有用于交际时输入才有用，这样头脑才能把语言形式与有意义的信息联系起来。"
+    },
+    {
+     "en": "Researchers debate whether the patterns of a later language come from overt instruction or are learned unconsciously, often contrasting declarative knowledge, which you know explicitly, such as your postal code, with procedural knowledge, which is unconscious and lets you recognize a sibling you have not seen in months. Either way, input helps only if the mind can process it, and beginners can attend to very little: confronted with Auslan or Kaurna, you may fail to recognize words or morphemes or even tell where words begin and end.",
+     "zh": "关于后学语言的规律来自显性教学还是无意识习得，研究者争论不休，并常把陈述性知识与程序性知识相对照：前者是你明确知道的东西，如邮政编码；后者是无意识的，让你能认出几个月未见的兄弟姐妹。无论哪种情况，输入只有在头脑能加工时才有用，而初学者能注意到的极少：面对 Auslan 或 Kaurna，你可能认不出词或语素，甚至分不清词与词的界限。"
+    },
+    {
+     "en": "Because processing constraints limit intake, many early grammars consist disproportionately of content words rather than function words or inflectional morphemes, since the semantic content of nouns and verbs carries more crucial information than conjunctions or tense morphemes do. Processing limits also shape production: adults beginning to sign make systematic simplifications whose commonest errors are in handshape, especially in two-handed signs and most of all when the hands move independently.",
+     "zh": "由于加工限制压缩了吸收量，许多早期语法中实词的比例过高，虚词和屈折语素则偏少，因为在理解或表达某个想法时，名词和动词的语义内容比连词或时语素提供更关键的信息。加工限制也影响产出：成年人开始打手语时会出现系统性简化，最常见的错误在 handshape（手形），双手打出的手势尤其如此，两手独立运动时最为突出。"
+    },
+    {
+     "en": "Gaining proficiency means moving from conscious, effortful processing to rapid, automatic processing, which takes a great deal of practice. There is also a period when you can produce and understand to some degree but your grammar still differs from an L1 user’s; this not-yet-fluent grammar is called interlanguage, and some researchers argue that interlanguages resemble each other regardless of your L1. Interlanguage also appears in accents: Bent and Bradlow found that adult learners of English from many L1 backgrounds were more intelligible to other later learners than L1 English talkers were.",
+     "zh": "提高熟练度意味着从有意识、费力的加工转向快速自动化的加工，而这需要大量练习。此外还有一段时期，你已具备一定的产出和理解能力，但语法仍与母语者相去甚远；这种尚未流利的语法称为中介语，一些研究者认为，无论第一语言是什么，中介语之间都有许多共同点。中介语也体现在口音上：Bent 与 Bradlow 发现，第一语言背景各异的英语后学语言者对其他后学语言者而言，比英语母语者更易听懂。"
+    }
+   ]
+  },
+  "chapter-143-slug-12-5-your-l1-has-an-influence": {
+   "title": {
+    "en": "12.5 Learning a New Modality",
+    "zh": "12.5 学习一种新的模态"
+   },
+   "summary": {
+    "en": "Unlike infants, adults already know at least one language, and that L1 grammar influences the grammar they are building, an effect called transfer, which can be positive or negative. When the new language also has a new modality, iconicity plays a role: it can ease learning when form resembles meaning, yet for adult sign learners it can also interfere, as when an iconic co-speech gesture competes with the actual sign.",
+    "zh": "与婴儿不同，成年人已经掌握至少一门语言，其第一语言的语法会影响正在建构的语法，这种效应称为迁移，可分为正迁移与负迁移。当所学语言还涉及新的模态时，象似性会起作用：形式与意义相似时可促进学习，但对成年手语学习者也可能造成干扰，例如象似性的伴随手势与真正的手势符号相互竞争。"
+   },
+   "points": [
+    {
+     "en": "A later learner already knows another language, so the L1 mental grammar influences the developing grammar.",
+     "zh": "后学语言者已掌握另一门语言，因此第一语言的心理语法会影响正在发展的语法。"
+    },
+    {
+     "en": "Transfer is positive when L1 structures resemble the new language, making that part of learning easier.",
+     "zh": "当第一语言结构与新语言相似时，迁移为正迁移，使该部分学习更容易。"
+    },
+    {
+     "en": "Negative transfer, or interference, occurs when L1 knowledge makes new structures harder to learn.",
+     "zh": "当第一语言知识使新结构更难学会时，出现负迁移，又称干扰。"
+    },
+    {
+     "en": "Iconicity is more common in signed languages because the visual modality can represent meaning visually.",
+     "zh": "象似性在手语中更常见，因为视觉模态可以直接表现意义。"
+    },
+    {
+     "en": "Adult BSL learners erred mainly in arbitrary handshape, almost never in the iconic location or orientation.",
+     "zh": "成年 BSL 学习者的错误主要出现在任意的词形手形上，几乎不出现在具有象似性的位置或朝向。"
+    },
+    {
+     "en": "For the most complex signs, learners were less accurate with iconic signs than with arbitrary ones.",
+     "zh": "对最复杂的手势符号，学习者在象似性符号上的准确度反而低于任意性符号。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "transfer",
+     "zh": "迁移",
+     "defEn": "Influence of the L1 mental grammar on a later language grammar.",
+     "defZh": "第一语言心理语法对后学语言语法的影响。"
+    },
+    {
+     "en": "positive transfer",
+     "zh": "正迁移",
+     "defEn": "L1 knowledge that facilitates learning when structures are similar.",
+     "defZh": "当结构相似时，第一语言知识对学习起促进作用。"
+    },
+    {
+     "en": "negative transfer",
+     "zh": "负迁移",
+     "defEn": "Interference in which L1 knowledge makes new structures harder.",
+     "defZh": "第一语言知识使新结构更难学习的干扰现象。"
+    },
+    {
+     "en": "iconicity",
+     "zh": "象似性",
+     "defEn": "The similarity between the form of a word and its meaning.",
+     "defZh": "词的形式与意义之间的相似关系。"
+    },
+    {
+     "en": "arbitrary",
+     "zh": "任意的",
+     "defEn": "Describing a form whose connection with meaning is not motivated.",
+     "defZh": "指形式与意义的联系没有理据。"
+    },
+    {
+     "en": "reduplication",
+     "zh": "重叠",
+     "defEn": "Repetition of a form, here representing a repeated sound.",
+     "defZh": "形式的重复，在此象征声音的反复。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "onion [ʌnjən] in English is Zwiebel [tsvibəl] in German and κρεμμύδι [kɾɛmydi] in Greek",
+     "noteEn": "Three words for the same vegetable whose forms are entirely arbitrary.",
+     "noteZh": "同一蔬菜的三个词形，其形式完全是任意的。"
+    },
+    {
+     "text": "[koɾo]",
+     "noteEn": "A Japanese word for a small light object rolling in a single circle.",
+     "noteZh": "日语词，指小而轻的物体滚动一圈。"
+    },
+    {
+     "text": "[ɡoɾogoɾo]",
+     "noteEn": "Voicing plus reduplication signals large irregular objects rolling continuously.",
+     "noteZh": "浊音化加重叠，表示一个或多个大的不规则物体不断滚动。"
+    },
+    {
+     "text": "after seeing a video of the sign for WRITE",
+     "noteEn": "Learners used a writing gesture instead of imitating the BSL handshape.",
+     "noteZh": "学习者用写字的手势代替了模仿 BSL 的手形。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Unlike an infant, an adult learning a later language already knows at least one other language, and the mental grammar of that L1 can influence the grammar being developed. This effect is called transfer. A structure in your L1 that resembles the one in your later language may produce positive transfer, facilitating learning; where the structures differ, negative transfer, also called interference, may make the new structures harder to learn.",
+     "zh": "与婴儿不同，成年后学习另一门语言时，你已经掌握至少一门别的语言，而这门第一语言的心理语法会影响正在发展的语法，这种效应称为迁移。第一语言中与后学语言相似的结构可能带来正迁移，促进学习；结构不同时，负迁移（也叫干扰）则可能使新结构更难学会。"
+    },
+    {
+     "en": "The situation is especially interesting when the new language also has a new modality, for example when your L1 is spoken and the language you are learning is signed. Little transfer might be expected between the two grammars, yet iconicity appears to have both positive and negative transfer effects for adult learners of a signed language. A word’s iconicity has to do with the similarity between its form and its meaning. For many words the relation is entirely arbitrary: onion is [ʌnjən] in English, Zwiebel [tsvibəl] in German and κρεμμύδι [kɾɛmydi] in Greek.",
+     "zh": "当所学语言还涉及新的模态时，情况尤其有趣，例如第一语言是口语而所学的是手语。两套语法之间本来看似不会有太多迁移，但象似性对成年手语学习者似乎同时产生正、负两方面效应。词的象似性指形式与意义之间的相似程度。很多词的形式与意义完全任意：洋葱在英语中是 [ʌnjən]，德语中是 Zwiebel [tsvibəl]，希腊语中是 κρεμμύδι [kɾɛmydi]。"
+    },
+    {
+     "en": "Some words, however, have an iconic relation to their meaning. In spoken languages iconicity appears in words referring to sounds, as in Japanese [koɾo] and [ɡoɾo], where reduplication iconically represents the repetition of the sound and the contrast between voiceless and voiced forms represents the difference between a small, pleasant sound and a loud, rumbly noise. Iconic forms are more common in signed languages because the visual modality can represent much of a word’s meaning visually, so the BSL, Turkish Sign Language (Türk İşaret Dili) and Icelandic Sign Language (Íslenskt táknmál) signs for beard all iconically represent a beard’s shape and location.",
+     "zh": "但有些词与意义存在象似关系。口语中象似性出现在指称声音的词里，例如日语 [koɾo] 与 [ɡoɾo]：重叠象征声音反复，清浊对立表现小而悦耳的声音与响亮低沉噪音之别。象似形式在手语中更常见，因为视觉模态能直接表现词义，因此英国手语（BSL）、土耳其手语（Türk İşaret Dili）和冰岛手语（Íslenskt táknmál）中表示胡须的手势都以象似方式表现胡须的形状与位置。"
+    },
+    {
+     "en": "For fluent signers, high iconicity facilitates word recognition and production in ASL and BSL, but for later learners the effects are mixed. Marshall and Morgan asked adult BSL learners to describe scenarios in which two objects changed location, such as a ball moving from in front of a pen to behind it. The learners made many mistakes, mostly in handshape, an arbitrary component of the sign, and almost never in the location or orientation that iconically represent the objects. Ortega and Morgan, however, found that beginners imitating signs were less accurate with iconic words than arbitrary ones among the most complex signs, perhaps because a remembered iconic meaning drew attention from form, or an iconic gesture interfered.",
+     "zh": "对熟练的手语者来说，高象似性在 ASL 和 BSL 中都能促进词的识别与产出，但对后学语言者，效应则较为混杂。Marshall 与 Morgan 请成年 BSL 学习者描述两个物体改变位置的场景，例如球从笔前移到笔后。学习者的错误大多在 handshape（手形）这一任意成分上，几乎不出现在象似地表现物体位置与朝向的成分上。Ortega 与 Morgan 则发现，BSL 初学者模仿手势时，在最复杂的手势中，象似性符号的准确度低于任意性符号，这或许是因为记住的象似意义使注意偏离形式，也可能因为象似性的非语言手势造成干扰。"
+    }
+   ]
+  }
+ }
+}

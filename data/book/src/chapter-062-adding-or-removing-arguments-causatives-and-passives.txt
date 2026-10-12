@@ -1,0 +1,84 @@
+# 6.11 Changing argument structure: Causatives and passives
+
+So far we’ve only looked at thematic roles that verb roots come specified with. But all languages have ways to adjust the thematic roles expressed in a clause, either syntactically or morphologically.
+
+## Adding arguments: Causatives
+
+For example, many languages have a causative construction. Causatives add an extra causer or agent (which becomes a new subject). English has several syntactic causative constructions, which we saw in Section 5.7 in the context of causative morphology; the causative construction with the verb make is shown again in (1):
+
+[表格]
+| | | (1) | | a. | | They read a book. | | (transitive: subject = agent, object = theme) | | | | | | b. | | | I made | them read a book. | | (causative: adds a second causer/agent) | | |
+
+Notice that in (1b) the original subject (they) appears after make and is in accusative case (them)—its structural position in the sentence changes in the causative construction, even though its thematic role stays the same.
+Other languages have morphological causatives, that don’t involve a causative verb like make, but instead have verbal morphology that does the same work of adding an additional causer argument. Japanese is a language with a morphological causative, illustrated in (2).
+
+[表格]
+| | | (2) | | a. | | Neko-wa | | tabe-ta | | | | | | | | cat-TOPIC | | eat-PAST | | | | | | | | “The cat ate.” | | | | (intransitive: subject = agent) | | | | | | b. | | Watasi-wa | | neko-ni | | tabe-sase-ta | | | | | | | | I-TOPIC | | cat-DAT | | eat-CAUS-PAST | | | | | | | | “I made the cat eat.” | | (causative: adds a second causer/agent) | | |
+
+Like in English, the original subject from (2a) (neko-wa) takes on different case marking in the causative sentence in (2b) (neko-ni)—though in Japanese, the causee agent (the person or thing being made to do something) is marked with dative case, rather than the accusative case we see in English. In many languages with both causatives and morphological case, causees end up marked as with either dative or accusative case.
+There are many other argument adding constructions in natural languages. One other that we see in English are benefactive applicatives, which add a participant that the event is done for, usually as an indirect object. For example: I baked a cake. → I baked my friend a cake.
+
+## Removing arguments: Passives
+
+Conversely, there are constructions that remove an argument from the ones the verb usually selects. Perhaps the most famous of these is the passive.
+English, like many of the world’s languages, has a passive construction, which removes the original subject of a verb, resulting in the original object becoming the passive subject. A non-passive sentence is known as an active sentence. For example:
+
+[表格]
+| | | (3) | | a. | | They | wrote | a book. | | (original sentence: active) | | | | | | b. | | A book | was written | (by them). | | (passive) | | |
+
+A grammatical passive can be identified by the following three properties:
+- Original subject of the basic (active) transitive verb is demoted: it ceases to be the subject, and is optionally expressed in a propositional phrase (in English = by phrase) or in a noun phrase marked with specific case morphology.
+- Object of the basic (active) transitive verb becomes the subject of the passive clause.
+- Characteristic morphology or syntax (in English = be + Past Participle -en/-ed)
+
+All three of these properties are needed for a clause to be a true grammatical passive. Active and passive are often referred to as grammatical voices (as in active voice or passive voice). Some languages have other grammatical voices, for example middle voice in Greek, but we will not discuss other voice constructions in this chapter.
+The first property of passives relates them to corresponding active sentences. This is a key property of passives: for any passive clause, there is always an active counterpart. (This is similar to questions, which we described in terms of their grammatical relationship to statements.)
+Consider the following active sentence:
+
+[表格]
+| | | (4) | | | | The pirates sank the ship. | | |
+
+This is transitive, so it has a passive counterpart:
+
+[表格]
+| | | (5) | | | | The ship was sunk (by the pirates). | | |
+
+The sentence in (5) has all three defining properties of passives:
+- The verb is replaced by be + past participle sunk
+- The original subject is demoted and appears in an optional by-phrase
+- The subject is [the ship], which was the theme object of the active verb.
+
+Compare this with the theme-intransitive we saw in the previous section:
+
+[表格]
+| | | (6) | | | | The ship sank (*by the pirates). | | |
+
+In contrast to (5), the sentence in (6) does not have all three defining properties of a grammatical passive:
+- The subject is [the ship], which was the theme object of the active verb, but
+- The original subject cannot be expressed in a by-phrase
+- There is no auxiliary be, and no past participle.
+
+While the subject in both these cases is [the ship], the theme intransitive doesn’t have the other properties of a passive clause.
+
+Passives in Popular Discourse
+In prescriptive grammar and in popular discussions, the passive has a bad reputation, and advice or “rules” for writing often says that you should avoid the passive entirely. Sometimes this is justified by saying that the passive “hides” the agent of an event.
+In fact, though, the passive allows you to express the agent in a by-phrase in a way that other intransitives do not:
+
+[表格]
+| | | (7) | | a. | | The ship was sunk by the pirates. | | (Passive, but expresses the agent) | | | | | | b. | | The ship sank. | | (Active! But no way to express who did the sinking) | | | | | | c. | | The bomb exploded. | | (Active! But doesn’t say who set the bomb) | | |
+
+So the reason given for avoiding the passive doesn’t hold up.
+In both writing advice and in online discussions, you often see headlines criticized for using “passive voice” when they use verbs like “dies”/“died” or “something went wrong”, without identifying the cause of death or who did something wrong. This points out a problem with the content of various types of public language (headlines, public statements by politicians), but they frame the criticism in terms of grammatical structure.
+This is an example of how language ideologies—our attitudes and beliefs about language—can be expressed in popular discourse. Here people express a legitimate criticism of public writing—that writers haven’t clearly expressed the agent or person responsible for an action—but present that criticism as though it is a grammatical issue (and in a way that doesn’t match the original grammatical meaning of the term “passive”). While there’s nothing wrong with changing the meaning of the word “passive”—the meanings of words change all the time!—it’s useful to be aware of its technical meaning as applied to grammatical structure.
+
+## Summary
+
+All languages have ways of changing the pattern of arguments in a clause. Sometimes these changes involve special morphology on the verb or other elements in the sentence, but they always have syntactic effects: they might add or remove arguments, or change how those arguments appear (in terms of their structural position or their morphological marking, or both). Here we’ve looked at just a few examples—causatives and benefactive applicatives that add arguments, and passives that remove an argument—but languages can have many more. Think about whether any of the languages you know have similar constructions to the ones we’ve seen here, or if they have other ways of changing the pattern of arguments in a clause.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.10 Arguments and thematic roles and the next section is 6.20 Trees: Movement beyond questions, which discusses the structure of passives in terms of trees and movement.

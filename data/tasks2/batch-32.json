@@ -1,0 +1,24 @@
+{
+ "batch": 32,
+ "out": "data/gen2/batch-32.json",
+ "entries": [
+  {
+   "id": "langacker",
+   "title": "罗纳德·兰盖克",
+   "en": "Ronald Langacker",
+   "category": "people"
+  },
+  {
+   "id": "trudgill",
+   "title": "彼得·特鲁吉尔",
+   "en": "Peter Trudgill",
+   "category": "people"
+  },
+  {
+   "id": "boas",
+   "title": "弗朗茨·博厄斯",
+   "en": "Franz Boas",
+   "category": "people"
+  }
+ ]
+}

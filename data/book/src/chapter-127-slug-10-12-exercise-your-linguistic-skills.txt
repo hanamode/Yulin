@@ -1,0 +1,16 @@
+# 10.12 Exercise Your Linguistics Skills
+
+Exercise 1. In addition to saw~sore, a few other minimal pairs in New York City English were listed in section section 10.5: udder~other, beg~bag, and bruin~brewing. In each of these pairs, the second word contains a different linguistic variable. Can you identify each of the three variables and their variants based on the minimal pairs? Would all of these pairs of words be minimal pairs in the variety/varieties of English that you’re familiar with?
+Exercise 2. Different points throughout this chapter contain ‘reported speech’ – a representation of some past or hypothetical speech or thought. In English, reported speech is typically introduced with a quotative verb like ‘to say’; orthographically reported speech appears within quotation marks (“”). Skim back through the chapter looking for all instances of reported speech and document the quotative verbs used to introduce each token. How many variants did you find? Can you think of other variants?
+Exercise 3. Not all variables that correlate with social class also correlate with contextual style like in Figure 10.4. Labov makes a theoretical distinction between variables that are markers (they correlate with both social class and style) and variables that are indicators (they correlate with social class but do not correlate with style). What do you think is important about this distinction between markers and indicators? Hint: Think about the fact that the correlation with contextual style is also a correlation with attention paid to speech.
+Exercise 4. You and your colleague are conducting a study of variation between the citation form variant and lowered variant of the KNOW, THINK, and NAME signs in Auslan. You’ve collected a corpus of sociolinguistic interviews and counted up the number of tokens of these signs used during casual conversation. You have data from people who identify as men, women, and nonbinary. Your colleague has put together Table 10.2. and and Figure 10.8 based on the data in the corpus.
+
+[表格]
+| | | | | Tokens of citation form | | Tokens of lowered variant | | | | Men | | 60 | | 60 | | | | Women | | 45 | | 55 | | | | Nonbinary | | 30 | | 50 | | |
+
+Table 10.2. Tokens of citation form and lowered variant of KNOW, THINK, and NAME in a corpus of Auslan. (Hypothetical data)
+
+[图片：exercise-e1645808947297.jpg]
+
+Figure 10.8. Bar plot that your colleague has produced based on Table 10.2. (Hypothetical data)
+(Politely,) explain to your colleague why Figure 10.8. is not the best way to represent the data presented in Table 10.2. (Your explanation should make use of the concepts and terms introduced in this chapter.) Then, draw an alternative graph based on Table 10.2. What can you say about this variable and gender? Which group is most likely to use the lowered variant? Which group is least likely to use the lowered variant?

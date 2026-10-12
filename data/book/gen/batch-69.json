@@ -1,0 +1,106 @@
+{
+ "batch": 69,
+ "sections": {
+  "chapter-161-a1-2-properties-of-psr-trees": {
+   "title": {"en": "A1.3 Properties of PSR Trees", "zh": "A1.3 短语结构规则树的性质"},
+   "summary": {
+    "en": "Section A1.3 summarizes three properties of heads in phrase structure rules: the phrase label usually comes from the head, the head is normally the only non-phrase member of a rule, and the head is usually the obligatory part. It shows how these properties identify heads in tree diagrams, warns against two-headed structures, states the Principle of Modification, and explains how recursion in the NP and PP rules makes language infinite.",
+    "zh": "A1.3 归纳了短语结构规则中中心语的三个特点：短语标签通常取自中心语；中心语一般是规则中唯一不是短语的成员；中心语通常是唯一必须出现的成分。本节说明如何据此在树形图中辨认中心语，提醒不要画出双中心语结构，给出修饰原则，并解释 NP 与 PP 规则中的递归如何使语言具有无限性。"
+   },
+   "points": [
+    {"en": "Most phrases must have a head, and the phrase label is usually named after it; S is the exception.", "zh": "大多数短语都必须有中心语，短语标签通常以中心语来命名，只有 S 是例外。"},
+    {"en": "The head is the only member of a rule that is not itself a phrase, apart from Aux, Neg, Det and Num.", "zh": "中心语通常是规则中唯一不是短语的成分，但 S 规则中的 Aux、Neg 和 NP 规则中的 Det、Num 属于例外。"},
+    {"en": "Heads are usually the only obligatory part of a phrase, though the CP rule makes its head optional.", "zh": "中心语通常是短语中唯一必须出现的部分，但在 CP 规则中，中心语 Comp 反而是可以不出现的。"},
+    {"en": "In tree diagrams the head can be identified by category matching and by the number of layers.", "zh": "在树形图中，可以依据范畴是否与整个短语一致以及层次的多少来判断中心语。"},
+    {"en": "A modifier must be the sister of the head it modifies, and a phrase never has two heads.", "zh": "修饰语必须是被修饰中心语的姐妹节点，而一个短语也绝不会同时拥有两个中心语。"},
+    {"en": "Recursion, built into the phrase structure rules, lets NPs and PPs embed inside each other and makes language infinite.", "zh": "递归已经内置于短语结构规则之中，使 NP 与 PP 可以相互嵌套，语言因而具有无限性。"}
+   ],
+   "terms": [
+    {"en": "head", "zh": "中心语", "defEn": "The word in a phrase that determines the properties of the entire phrase.", "defZh": "短语中决定整个短语性质的词，短语的标签通常以它命名，如 VP 中的动词。"},
+    {"en": "phrase structure rule", "zh": "短语结构规则", "defEn": "A rule stating what categories a phrase may be made of and in what order.", "defZh": "规定某一短语可以由哪些范畴按何种顺序组成的规则，能够生成句子的层级结构。"},
+    {"en": "recursion", "zh": "递归", "defEn": "Putting something inside of itself, which allows language to be infinite.", "defZh": "把某结构嵌入同类结构之中的现象，它使语言能够无限地生成新的句子。"},
+    {"en": "Principle of Modification", "zh": "修饰原则", "defEn": "If an XP modifies a head Y, then XP must be Y's sister.", "defZh": "若一个 XP 修饰中心语 Y，则该 XP 必须是 Y 的姐妹节点，也就是 YP 的女儿节点。"},
+    {"en": "modifier", "zh": "修饰语", "defEn": "A phrase attached inside the phrase it modifies, as the sister of a head.", "defZh": "位于被修饰短语内部、作为中心语姐妹节点起修饰作用的短语，如 very。"}
+   ],
+   "examples": [
+    {"text": "very red", "noteEn": "Tree diagram example where the adjective red is the head of the phrase.", "noteZh": "树形图例子：形容词 red 是整个短语的中心语，very 是它的修饰语。"},
+    {"text": "very quickly", "noteEn": "Here the adverb quickly is the head, modified by very in its own AdvP.", "noteZh": "这里副词 quickly 是整个短语的中心语，very 在它自己的 AdvP 中充当修饰语。"},
+    {"text": "the leaf on [the branch on [the tree in [the yard]]]", "noteEn": "Recursive NPs and PPs, each phrase embedded inside another phrase of the same kind.", "noteZh": "递归的 NP 与 PP，每一个短语都嵌入在另一个性质相同的短语之中。"},
+    {"text": "NP → (Det) N (PP+)", "noteEn": "The simplified NP rule that works with the PP rule to produce recursion.", "noteZh": "简化的 NP 规则，它与 PP 规则配合使用，可以不断产生递归结构。"}
+   ],
+   "body": [
+    {"en": "The phrase structure rules show that most phrases must contain a head, the word that determines the properties of the whole phrase. The phrase label is usually named after that head. The only exception is S, whose label does not come from any head.", "zh": "短语结构规则显示，大多数短语都必须有中心语，也就是决定整个短语性质的那个词。短语的标签通常以中心语命名，唯一的例外是 S，它的标签并不来自任何中心语。"},
+    {"en": "Heads also stand apart from the other members of a rule in category: the head is the only element that is not itself a phrase. In the VP rule, the AdvPs, NPs, CP and PPs all end in P, while the verb does not. Aux and Neg in the S rule, and Det and Num in the NP rule, are further exceptions.", "zh": "中心语的另一个特点是，它通常是规则中唯一不是短语的成员。以 VP 规则为例，其中的 AdvP、NP、CP、PP 都以 P 结尾，表示它们是短语，只有动词不是短语。S 规则中的 Aux、Neg 以及 NP 规则中的 Det、Num 也属于例外。"},
+    {"en": "Finally, heads are usually the only obligatory element of a phrase. Exceptions include the subject and VP in the S rule and both Comp and S in the CP rule, where the head Comp is optional while the non-head S is obligatory.", "zh": "中心语通常还是短语中唯一必须出现的部分。例外包括 S 规则中的主语和 VP，以及 CP 规则中的 Comp 和 S；在 CP 中，作为中心语的 Comp 是可以不出现的，而非中心语 S 反倒是必需的。"},
+    {"en": "These properties help us find the head in a tree diagram. In very red, red is the head because its category matches that of the phrase and because very sits in an extra AdvP layer above it. In very quickly, quickly is the head, modified by very in its own AdvP; since both words are adverbs, only the number of layers reveals the head. A phrase never has two heads, and a modifier must be the sister of the head it modifies.", "zh": "这些特点有助于我们在树形图中辨认中心语。在 very red 中，red 是中心语，因为它的范畴与整个短语一致，而且 very 之上还多出一个 AdvP 层次。在 very quickly 中，quickly 是中心语，very 在它自己的 AdvP 中修饰它；由于两者都是副词，只能依靠层次的多少来判断谁是中心语。一个短语绝不会有两个中心语，修饰语必须是被修饰中心语的姐妹节点。"},
+    {"en": "Recursion is built into the phrase structure rules: because the NP rule may contain a PP and the PP rule may contain an NP, these two rules can apply over and over again, as in the leaf on [the branch on [the tree in [the yard]]]. Recursion is what allows language to be infinite, and phrase structure rules capture constituency, hierarchical structure and recursion alike.", "zh": "递归已经内置于短语结构规则之中：NP 规则中可以出现 PP，PP 规则中又可以出现 NP，因此这两条规则可以反复使用，例如 the leaf on [the branch on [the tree in [the yard]]]。递归使语言具有无限性，而短语结构规则同时刻画了句法成分、层级结构和递归等语言特性。正因为语言可以递归，我们才能不断把短语嵌进同类短语之中，从而造出越来越长、数量无限的句子，这也是短语结构规则强大之处的体现。"}
+   ]
+  },
+  "chapter-162-a1-3-structural-ambiguity": {
+   "title": {"en": "A1.4 Structural Ambiguity", "zh": "A1.4 结构歧义"},
+   "summary": {
+    "en": "Section A1.4 explains structural ambiguity in syntax, where one string of words has more than one structure and each structure yields a different interpretation. Using I saw someone with a telescope, it shows a prepositional phrase modifying either the verb phrase or the noun phrase, gives paraphrases for the two readings, and applies the Principle of Modification to decide how each tree should be drawn.",
+    "zh": "A1.4 说明句法中的结构歧义：同一串词可以具有不止一种结构，每一种结构都对应不同的解释。本节以 I saw someone with a telescope 为例，说明这个介词短语既可以修饰动词短语，也可以修饰名词短语，给出两种理解各自的释义，并运用修饰原则判断应当怎样画出相应的树形图。"
+   },
+   "points": [
+    {"en": "Structural ambiguity arises when one string of words has more than one structure, each with a different interpretation.", "zh": "同一串词对应多种结构、而每一种结构又对应不同解释时，就产生了结构歧义。"},
+    {"en": "I saw someone with a telescope has two readings, depending on whether the PP modifies the verb or the noun.", "zh": "I saw someone with a telescope 这句话有两种理解，关键在于其中的介词短语是修饰动词还是修饰名词。"},
+    {"en": "A paraphrase restates one meaning in new words, and paraphrases themselves should not be ambiguous.", "zh": "释义就是用新的措辞表达其中一种意义，而释义本身不应当再产生新的歧义。"},
+    {"en": "The Principle of Modification decides attachment: the PP is the sister of either the verb saw or the noun someone.", "zh": "修饰原则决定附加位置：这个介词短语只能是动词 saw 或名词 someone 的姐妹节点。"}
+   ],
+   "terms": [
+    {"en": "structural ambiguity", "zh": "结构歧义", "defEn": "A situation where the same string of words has more than one possible structure.", "defZh": "同一串词或语素可以对应多种结构、每种结构对应不同解释的现象。"},
+    {"en": "paraphrase", "zh": "释义", "defEn": "A restatement of a sentence in new wording that keeps the same meaning.", "defZh": "用不同的措辞重新表述原句、并保持意义相同的一种说法，又称改写。"},
+    {"en": "prepositional phrase", "zh": "介词短语", "defEn": "A phrase headed by a preposition, often functioning as a modifier.", "defZh": "以介词为中心语的短语，常充当修饰语，在句法分析中一般缩写为 PP。"},
+    {"en": "modify", "zh": "修饰", "defEn": "To add information about a head by attaching a phrase to it.", "defZh": "通过附加短语对中心语加以限定或补充说明的一种句法关系，又称修饰关系。"}
+   ],
+   "examples": [
+    {"text": "I saw someone with a telescope.", "noteEn": "The ambiguous sentence whose two structures correspond to two different meanings.", "noteZh": "歧义句，它的两种树形结构分别对应两种不同的意义和解释。"},
+    {"text": "I was using a telescope, and I saw someone.", "noteEn": "Paraphrase of the reading in which the PP modifies the VP.", "noteZh": "介词短语修饰动词短语这一种理解所对应的释义，说明望远镜是看人的工具。"},
+    {"text": "I saw someone, and that person had a telescope.", "noteEn": "Paraphrase of the reading in which the PP modifies the NP.", "noteZh": "介词短语修饰名词短语这一种理解所对应的释义，说明某人持有望远镜。"}
+   ],
+   "body": [
+    {"en": "In morphology we saw a first example of structural ambiguity: cases where the same string of morphemes can have more than one structure, each structure corresponding to a different interpretation. The same thing is found in syntax.", "zh": "在形态学中我们已经见过结构歧义的第一个例子：同一串语素可以具有不止一种结构，而每一种结构都对应一种不同的解释。句法中也存在完全相同的现象。"},
+    {"en": "The sentence I saw someone with a telescope has two possible interpretations. On one reading I was using a telescope and I saw someone; on the other I saw someone, and that person had a telescope.", "zh": "I saw someone with a telescope 这句话有两种可能的理解：一种是我当时在使用望远镜，并且看到了某个人；另一种是我看见了一个人，而那个人带着望远镜。"},
+    {"en": "In the first interpretation the prepositional phrase [PP with a telescope] modifies the verb phrase headed by saw. In the second interpretation the same prepositional phrase modifies the noun phrase someone. The two readings correspond to two different tree structures, and the same holds for other cases of structural ambiguity.", "zh": "在第一种理解中，介词短语 [PP with a telescope] 修饰以 saw 为中心语的动词短语；在第二种理解中，同一个介词短语修饰的是名词短语 someone。这两种理解分别对应两种不同的树形结构，其他结构歧义的情况也是如此，每一种意义都会对应一种可能的树形结构。"},
+    {"en": "When a sentence is restated with new wording, it is called a paraphrase. On an assignment you may be asked for paraphrases of the two meanings and for trees of the original sentence; make sure the paraphrases are not themselves ambiguous, and draw a tree of the original, not of the paraphrase.", "zh": "用新的措辞重新表述一个句子叫做释义。在作业或考试中，可能要求你为歧义句的两种意义各写一个释义，并画出代表这两种意义的树形图；这时要注意释义本身不能再有歧义，而且必须为原句画树，而不是为你的释义画树。"},
+    {"en": "The Principle of Modification helps us decide how to draw such sentences. If an XP modifies a head Y, then XP must be Y's sister, that is, the daughter of YP. So with a telescope can modify either the verb saw, making the PP the verb's sister, or the noun someone, making the PP the noun's sister.", "zh": "修饰原则可以帮助我们决定这类歧义句的树形图应该怎么画：如果某个 XP 修饰中心语 Y，那么这个 XP 必须是 Y 的姐妹节点，也就是说必须是 YP 的女儿节点。因此 with a telescope 既可以修饰动词 saw，此时介词短语是动词的姐妹节点；也可以修饰名词 someone，此时介词短语是名词的姐妹节点。画出树形图以后，还应当为每一种结构配上恰当的释义，用来说明这个词组究竟是在修饰哪一个中心语，以及整句话因此获得了怎样的意义。"}
+   ]
+  },
+  "chapter-163-a1-3-head-movement-in-yes-no-questions": {
+   "title": {"en": "A1.5 Head movement in yes-no questions", "zh": "A1.5 是非问句中的中心语移位"},
+   "summary": {
+    "en": "Section A1.5 analyzes subject-auxiliary inversion in English yes-no questions as a case of head movement. It reviews inversion with an auxiliary and with the inserted auxiliary DO, notes that embedded questions have if or whether in the position the auxiliary occupies in main clauses, and treats inversion as moving the auxiliary from S up and to the left into C, called Aux-to-C movement, with angle-bracket notation for movement.",
+    "zh": "A1.5 把英语是非问句中的主语助动词倒装分析为一种中心语移位。本节回顾了借助原有助动词的倒装和插入助动词 DO 的倒装，指出嵌入式问句的 if 或 whether 与主句问句中助动词占据相同位置，从而把倒装看作助动词从 S 向上向左移到 C，称为助动词到 C 的移位，并介绍用尖括号标记移位的方法。"
+   },
+   "points": [
+    {"en": "Yes-no questions are formed by subject-auxiliary inversion, swapping the positions of the subject and the auxiliary.", "zh": "是非问句通过主语与助动词位置的交换来构成，这一操作称为主语助动词倒装。"},
+    {"en": "If there is no auxiliary, the auxiliary word DO is inserted, and then the auxiliary DO inverts.", "zh": "句中如果没有助动词，就插入助动词 DO，然后再让这个助动词 DO 发生倒装。"},
+    {"en": "Embedded questions have the complementizer if or whether above S, in the position the auxiliary occupies in main clause questions.", "zh": "嵌入式问句在 S 之上有标句词 if 或 whether，其位置与主句问句中助动词占据的位置相同。"},
+    {"en": "Subject-auxiliary inversion can be analyzed as head movement of the auxiliary from S up and to the left into C.", "zh": "主语助动词倒装可以分析为助动词从 S 向上向左移位到 C 的一种中心语移位。"},
+    {"en": "Head movement moves a head into the next higher head position, and this instance is called Aux-to-C movement.", "zh": "中心语移位把中心语移到比它高一级的中心语位置，此例称为助动词到 C 的移位。"},
+    {"en": "In this class moved items are written in angle brackets with an arrow, and trace notation is not used.", "zh": "本课程把移位的成分放进尖括号并画箭头指向落点，不使用语迹标记法。"}
+   ],
+   "terms": [
+    {"en": "yes-no question", "zh": "是非问句", "defEn": "A question that can be answered with yes or no.", "defZh": "可以用「是」或「否」来回答的问句，英语中通常借助助动词移位来构成。"},
+    {"en": "subject-auxiliary inversion", "zh": "主语助动词倒装", "defEn": "Swapping the positions of the subject and the auxiliary to form a question.", "defZh": "构成疑问句时交换主语与助动词位置的句法操作，在英语中又称主谓倒装。"},
+    {"en": "head movement", "zh": "中心语移位", "defEn": "Movement of a head (X) into the next higher head position.", "defZh": "把一个中心语 X 移到比它高一级的中心语位置上的移位操作，会改变树形结构。"},
+    {"en": "Aux-to-C movement", "zh": "助动词到 C 的移位", "defEn": "The head movement that moves the auxiliary in S to C.", "defZh": "英语主句是非问句中把 S 里的助动词移位到 C 位置的一种中心语移位。"},
+    {"en": "trace", "zh": "语迹", "defEn": "The empty position left behind by a moved element, written t.", "defZh": "移位成分在原来的位置留下的空位，通常写作 t，可以看作一个变量。"}
+   ],
+   "examples": [
+    {"text": "Have they left?", "noteEn": "Yes-no question formed from They have left by moving the auxiliary to C.", "noteZh": "由 They have left 把助动词移到 C 位置所构成的是非问句，属于中心语移位。"},
+    {"text": "Does Hari play the viola?", "noteEn": "Question formed after the auxiliary DO is inserted and then inverts.", "noteZh": "插入助动词 DO 之后再让它发生倒装所构成的问句，是没有助动词时的常规做法。"},
+    {"text": "Is Iryna eating cake?", "noteEn": "The auxiliary is moves in front of the subject Iryna.", "noteZh": "助动词 is 移到主语 Iryna 之前所构成的问句，原来的位置留空。"},
+    {"text": "I wonder if they have left.", "noteEn": "Embedded question whose complementizer if occupies the position of the fronted auxiliary.", "noteZh": "嵌入式问句，它的标句词 if 占据前移助动词在主句问句中所占据的位置。"}
+   ],
+   "body": [
+    {"en": "Yes-no questions can be answered with yes or no and are formed by swapping the subject and the auxiliary, an operation called subject-auxiliary inversion. Examples are They have left and Have they left?, Iryna is eating cake and Is Iryna eating cake?, and The man with the long beard and the plaid shirt is waving at you and Is the man with the long beard and the plaid shirt waving at you?", "zh": "是非问句是可以回答「是」或「否」的问句，其构成方式是把主语和助动词的位置互换，这一操作称为主语助动词倒装。例如 They have left 与 Have they left?，Iryna is eating cake 与 Is Iryna eating cake?，以及 The man with the long beard and the plaid shirt is waving at you 与 Is the man with the long beard and the plaid shirt waving at you?"},
+    {"en": "If there is no auxiliary, the auxiliary word DO is inserted, and then the auxiliary DO inverts: Hari plays the viola becomes Hari does play the viola, and then Does Hari play the viola?", "zh": "如果句中没有助动词，就插入助动词 DO，然后再让这个助动词 DO 倒装：Hari plays the viola 先变为 Hari does play the viola，再变为 Does Hari play the viola?"},
+    {"en": "Inversion reverses the linear order of the subject and the auxiliary. In the tree for They have left, the structural relations encode the grammatical relations between the subject, the clause as a whole and the predicate. Those relations should not change in a question; we only change the order of constituents to mark it as a question, by moving the auxiliary up and to the left or the subject down and to the right.", "zh": "倒装颠倒了主语与助动词的线性顺序。在 They have left 的树形图中，各种结构关系编码了主语、整个小句与谓语之间的语法关系。这些关系在问句中不应发生根本变化，我们只想通过改变句法成分的次序来标记疑问：或者把助动词向上向左移，或者把主语向下向右移。"},
+    {"en": "Embedded questions have the complementizer if or whether above the S, in the same position the auxiliary occupies in main clause questions: right before the subject. Subject-auxiliary inversion can therefore be understood as movement of the auxiliary from S up and to the left, landing in C. This is Head Movement, the movement of a head into the next higher head position.", "zh": "嵌入式问句在 S 之上有标句词 if 或 whether，它出现的位置与主句问句中助动词出现的位置相同，都紧挨在主语之前。因此，主语助动词倒装可以理解为助动词从 S 向上向左移位，最终落在 C 的位置。这就是中心语移位，即把中心语移到比它高一级的中心语位置。"},
+    {"en": "Yes-no questions in English main clauses are formed by moving the auxiliary in S to C, an instance of head movement called Aux-to-C movement. This is a derivational representation: we start with one tree and change it to reach the final structure. For notation, this class puts angle brackets around the moved item and draws an arrow to its landing position; trace notation, which leaves a t behind, is not used here.", "zh": "英语主句中的是非问句通过把 S 中的助动词移到 C 来构成，这种中心语移位称为助动词到 C 的移位。这是一种推导式的表示方法：先给出一个树形结构，再对它加以改动，从而得到最终的结构。至于移位的标记，本课程把移位的成分放在尖括号中，并画箭头指向它的落点；在被移位成分原来的位置留下 t 的语迹标记法，本课程不使用。除移位分析之外，语言学中还有其他方式来表示助动词与其陈述句位置之间的这种依存关系，一些非推导的句法理论正是沿着这样的思路发展的。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,30 @@
+# 4.8 Phonological derivations
+
+## Choose examples showing rule application
+
+Once we have finished the phonemic analysis of a language and determined what phonological rules we need, we can demonstrate how the analysis works by showing sample derivations of a few critical words. When doing this, it is important to demonstrate a few things. First, we should give examples showing how the rule correctly applies when the target is in the environment, and we should do so for a representative set of phonemes in the target natural class.
+For French, this means we should demonstrate the rule applying to at least three words, one with /m/, one with /l/, and one with /ʀ/. We could pick [ʀitm̥] ‘rhythm’, [ɔ̃kl̥] ‘uncle’, and [ɛtʀ̥] ‘to be’. If we are dealing with a particularly large target natural class (for example, all obstruents or all vowels), we usually only need to show a few examples, with enough diversity that they can be taken to be representative of the full natural class. Do not pick /t/, /s/, and /ʃ/ to represent all obstruents! Use something like /p/, /z/, and /ɡ/ instead.
+
+## Choose examples showing lack of rule application
+
+​​We should also show a few examples of how the rule will not apply when the target phonemes are in the wrong environment. So we might want to show an example with a word-final sonorant preceded by something voiced, such as [tabl] ‘table’, as well as an example with a sonorant after a voiceless obstruent but not at the end of the word, such as [ekʀiʀ] ‘to write’.
+Finally, we often might want to also show examples with phonemes that are similar to the target natural class and which are in the right environment but are not affected by the rule. The only similar phonemes that we can find in the right environment are vowels, so we could pick an example like [limite] ‘limited’, which has a vowel in the correct environment of the rule, but which does not change, because vowels are not sonorant consonants.
+
+## Determine URs
+
+Then for each of the example words we are going to use in our demonstration, we need to determine their URs. Because of the principle of faithfulness, we know that the UR and SR should look the same, except specifically only in those places where a rule applies. In this case, the only rule we have creates voiceless sonorants, so to build the URs for our sample words, we should replace all the voiceless sonorants in the SRs with the underlying voiced phonemes they are derived from. This gives us the following set of example URs:
+
+[表格]
+| | | /ʀitm/ | | ‘rhythm’ | | | | /ɔ̃kl/ | | ‘uncle’ | | | | /ɛtʀ/ | | ‘to be’ | | | | /tabl/ | | ‘table’ | | | | /ekʀiʀ/ | | ‘to write’ | | | | /limite/ | | ‘limited’ | | |
+
+## Demonstrate the derivation
+
+Finally, we can construct a derivation table which visually demonstrates the phonological derivation of one or more words. Derivations are commonly formatted as follows, with the URs and glosses of the example words listed horizontally across the top, all of the relevant phonological rules listed vertically down the left, and the SRs listed horizontally across the bottom. In each column, the output of each phonological rule is given, showing how the word changes. We can use a dash — to indicate that the rule does not apply to a particular word. It is also useful to give rules a meaningful name as a reminder of what the rule is. Here, we will call the rule for French sonorants “devoicing”.
+
+[表格]
+| | | gloss | UR | | ‘rhythm’ | /ʀitm/ | | ‘uncle’ | /ɔ̃kl/ | | ‘to be’ | /ɛtʀ/ | | ‘table’ | /tabl/ | | ‘to write’ | /ekʀiʀ/ | | ‘limited’ | /limite/ | | | | devoicing | | ʀitm̥ | | ɔ̃kl̥ | | ɛtʀ̥ | | — | | — | | — | | | | SR | | [ʀitm̥] | | [ɔ̃kl̥] | | [ɛtʀ̥] | | [tabl] | | [ekʀiʀ] | | [limite] | | |
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=623#h5p-144

@@ -1,0 +1,67 @@
+{
+ "batch": 34,
+ "sections": {
+  "chapter-072-overview": {
+   "title": {"en": "Trees: Summary", "zh": "6.21 树形图：小结"},
+   "summary": {
+    "en": "This chapter's theory of syntax now has two parts: X-Bar Theory and two types of Movement. X-Bar Theory accounts for the overall shape of trees in individual languages, describing which tree shapes a given language allows and which it rules out. Movement is a theory of how an already built tree can be transformed, and together the two explain cross-linguistic word-order variation and relationships among sentence types.",
+    "zh": "本章的句法理论现在由两部分组成：X 杠理论与两类移位。X 杠理论解释个别语言中树形结构的整体格局，说明某一语言允许哪些树形结构、排除哪些。移位则是关于已经建成的树形结构如何被转换的理论。两者结合，可以解释跨语言的语序差异以及不同句式之间的关系。"
+   },
+   "points": [
+    {"en": "X-Bar Theory specifies which tree shapes a given language permits and which it forbids.", "zh": "X 杠理论规定某一语言允许哪些树形结构、禁止哪些树形结构。"},
+    {"en": "Movement is a theory about transforming a syntactic tree after it has been built.", "zh": "移位是关于在句法树建成之后对其进行转换的理论。"},
+    {"en": "Movement offers a further way to describe differences in word order across languages.", "zh": "移位提供了描述跨语言语序差异的另一条途径。"},
+    {"en": "Movement links sentence types, relating statements to questions and basic order to topicalized order.", "zh": "移位把不同句式联系起来，将陈述句与疑问句、基本语序与话题化语序相关联。"},
+    {"en": "Displaced elements are pronounced in a position different from the one they belong in.", "zh": "被移位的成分在发音时出现在与其本应所属位置不同的地方。"}
+   ],
+   "terms": [
+    {"en": "X-Bar Theory", "zh": "X 杠理论", "defEn": "A theory describing the possible and impossible shapes of syntactic trees in a language.", "defZh": "描述某一特定语言中可能出现和不可能出现的句法树形状的理论。"},
+    {"en": "movement", "zh": "移位", "defEn": "A transformation that changes an already built syntactic tree.", "defZh": "对已经构建好的句法树进行改变的一种转换操作。"},
+    {"en": "head-initial", "zh": "中心语前置", "defEn": "A word order in which the head precedes its complement within a phrase.", "defZh": "在短语中中心语位于其补足语之前的语序。"},
+    {"en": "head-final", "zh": "中心语后置", "defEn": "A word order in which the head follows its complement within a phrase.", "defZh": "在短语中中心语位于其补足语之后的语序。"},
+    {"en": "topicalization", "zh": "话题化", "defEn": "Fronting a phrase so that it functions as the topic of the sentence.", "defZh": "把某一短语前移，使其充当句子话题的操作。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "The syntactic theory established in this chapter has two components: X-Bar Theory and Movement. X-Bar Theory is responsible for the overall shape of trees within a single language, specifying which tree shapes that language permits and which it rules out. Movement, by contrast, is a theory about transforming a tree after it has already been constructed, and adding it lets the theory explain more than before.", "zh": "本章建立的句法理论由两个部分构成：X 杠理论和移位。X 杠理论负责说明个别语言中树形结构的整体格局，即指明该语言允许哪些树形结构，又排除哪些树形结构。与它不同，移位是关于在树形结构已经构建完成之后如何对其加以转换的理论；把移位纳入理论之中，使我们的句法理论获得了更强的解释力。换句话说，X 杠理论管的是树形结构能长成什么样，而移位管的是已经长成的树形结构还能怎样变化。"},
+    {"en": "This extra explanatory power shows up in two areas. First, Movement gives us another way to describe word-order differences across languages: X-Bar Theory already allows head-initial and head-final order, and Movement lets us say that languages transform their basic word order in different ways or in different contexts. Second, Movement provides a way to talk about relationships between sentence types, such as statements and questions, or between a basic order and one in which some phrase has been topicalized or fronted.", "zh": "这种解释力的扩展体现在两个方面。第一，移位为描述语言之间的语序差异提供了又一条途径：X 杠理论已经提供了中心语前置与中心语后置这两种语序上的变化，而移位使我们能够说，不同语言是以不同方式、或者在不同语境中转换其基本语序的。第二，移位使我们能够讨论不同句式之间的关系，例如陈述句与疑问句之间的关系，或者句子的基本语序与其中某个短语被话题化或前置之后的语序之间的关系。"},
+    {"en": "By introducing Movement into the theory, we gain a way of talking about the fact that elements are sometimes displaced: they are pronounced in a position different from the one they belong in. With these tools we could investigate relationships between many more types of sentences, both in English and in any other language. Chapter 7 will also show that syntax is relevant to the computation of certain types of linguistic meaning, though not all types.", "zh": "把移位引入理论之后，我们便有办法说明这样一个事实：成分有时会发生位移，也就是说，它们的发音位置在某种意义上并不是它们本应所属的位置。借助本章所建立的这些工具，我们可以考察英语以及任何其他语言中更多类型句子之间的关系。第 7 章还将表明，句法与某些类型语言意义的计算有关，但并非与所有类型的意义都有关。"}
+   ]
+  },
+  "chapter-073-practice-time-3": {
+   "title": {"en": "Exercise your linguistics skills.", "zh": "6.22 练习你的语言学技能。"},
+   "summary": {
+    "en": "This exercise set reviews the whole syntax chapter, from grammaticality judgements to tree drawing. Students invent acceptable, ungrammatical, and semantically odd sentences, classify sentences by structure and type, identify phrase categories and word classes, apply constituency tests, and analyse a constructed Language X. Later items cover complementizers and embedded clauses, Subject-Aux Inversion, content questions, thematic roles, passive versus active voice, structural ambiguity, Japanese word order, and trees for many sentences.",
+    "zh": "这套练习复习了整个句法章节，从合乎语法性判断一直到绘制树形图。学生要造出可接受、不合语法以及语义怪异的句子，按结构与类型给句子分类，识别短语类别与词类，运用成分测试，并分析一种人造语言 Language X。后面的题目涉及标句词与嵌入小句、主语—助动词倒装、内容疑问句、题元角色、被动与主动、结构歧义、日语语序，以及为大量句子绘制树形图。"
+   },
+   "points": [
+    {"en": "Grammaticality judgements record what fluent speakers actually do, not what is supposed to be correct.", "zh": "合乎语法性判断记录的是流利使用者的实际说法，而不是所谓应该正确的说法。"},
+    {"en": "Classify sentences by structure and type, and identify predicates, subjects, and objects.", "zh": "按结构和小句类型给句子分类，并识别谓语、主语与宾语。"},
+    {"en": "Apply constituency tests to decide whether a string of words forms a constituent.", "zh": "运用成分测试判断某个词串是否构成一个句法成分。"},
+    {"en": "Identify word classes, auxiliaries, complementizers, and embedded clauses in the given sentences.", "zh": "识别所给句子中的词类、助动词、标句词以及嵌入小句。"},
+    {"en": "Apply transformations to build questions and compare passive clauses with their active counterparts.", "zh": "运用转换生成疑问句，并比较被动小句与相应的主动小句。"},
+    {"en": "Draw trees for many sentence types, including sentences that are structurally ambiguous.", "zh": "为多种句式绘制树形图，包括存在结构歧义的句子。"}
+   ],
+   "terms": [
+    {"en": "grammaticality judgement", "zh": "合乎语法性判断", "defEn": "A speaker's assessment of whether a sentence is well formed in their language.", "defZh": "说话人对某一句子在其语言中是否合乎语法的判断。"},
+    {"en": "constituency test", "zh": "成分测试", "defEn": "A diagnostic used to show that a string of words forms a constituent.", "defZh": "用来证明某个词串构成一个句法成分的诊断手段。"},
+    {"en": "Subject-Aux Inversion", "zh": "主语—助动词倒装", "defEn": "A transformation that places an auxiliary before the subject in questions.", "defZh": "在疑问句中把助动词移到主语之前的转换操作。"},
+    {"en": "complementizer", "zh": "标句词", "defEn": "A word that introduces an embedded clause, such as that or if.", "defZh": "引导嵌入小句的词，例如 that 或 if。"},
+    {"en": "content question", "zh": "内容疑问句", "defEn": "A question that asks about a particular phrase, typically with a wh-word.", "defZh": "针对某一特定短语提问的疑问句，通常使用疑问词。"},
+    {"en": "thematic role", "zh": "题元角色", "defEn": "The semantic relation an NP bears to its predicate, such as agent or goal.", "defZh": "名词短语与其谓语之间的语义关系，例如施事或目标。"}
+   ],
+   "examples": [
+    {"text": "Tsa akisesho ku ipapu.", "noteEn": "A sentence of the constructed Language X, translated as I went to the school.", "noteZh": "人造语言 Language X 的例句，英译为「我去了学校」。"},
+    {"text": "Taroo-ga ringo-o tabeta.", "noteEn": "Japanese example, translated as Taro ate an apple, used for word-order comparison.", "noteZh": "日语例句，英译为「太郎吃了一个苹果」，用于比较语序。"},
+    {"text": "The weather report said that it would be colder.", "noteEn": "Used for clause type and predicate analysis, and for drawing a tree with an embedded clause.", "noteZh": "用于分析小句类型与谓语，并绘制含嵌入小句的树形图。"},
+    {"text": "One morning I shot an elephant in my pyjamas. How he got in my pyjamas I don’t know.", "noteEn": "Groucho Marx's joke, cited to show that one sentence has two structural meanings.", "noteZh": "格劳乔·马克斯的笑话，用来说明同一句子具有两种结构意义。"}
+   ],
+   "body": [
+    {"en": "The exercises close the chapter by putting its analytical tools to work. The first task asks students to invent sentences in a language they are fluent in: two that are fully acceptable, two that are ungrammatical, and two that are grammatical yet semantically odd. The point is that grammaticality judgements record what fluent speakers actually do, not what someone thinks ought to be correct.", "zh": "这些练习让本章的分析工具得到实际运用。第一题要求用自己流利的语言造出句子：两句完全可接受，两句不合语法，两句合乎语法但语义怪异。其用意在于说明，合乎语法性判断记录的是流利使用者的实际说法，而不是某人认为应该正确的说法。"},
+    {"en": "Several items train basic clause analysis. Students decide whether sentences are simple, compound, or complex, and declarative, interrogative, or imperative; they locate the main predicate and say whether it is intransitive, transitive, or ditransitive, and they identify subjects, direct objects, and indirect objects. They also label the category of bolded phrases and work out the basic order of subject, object, and verb in a constructed Language X, deciding whether that language is head-initial or head-final.", "zh": "若干题目训练基本的小句分析。学生要判断句子是简单句、复合句还是复杂句，是陈述句、疑问句还是祈使句；找出主要谓语并说明它是不及物、及物还是双及物；还要识别主语、直接宾语和间接宾语。此外还需标出加粗短语的类别，并根据人造语言 Language X 的例句判断其主语、宾语和动词的基本顺序，以及它是中心语前置还是中心语后置。"},
+    {"en": "Other exercises move to constituents, word classes, and embedding. Students apply two constituency tests to bolded strings, pick out nouns, verbs, adjectives, and all closed-class words from published prose, and separate modal auxiliaries, non-modal auxiliaries, and main-verb uses of have and be. For embedded clauses they identify every verb and subject, the main and embedded clauses, the type of the embedded clause, and the complementizer.", "zh": "另一些练习转向成分、词类与嵌入结构。学生要对加粗的词串施加两种成分测试，从已公开版权的散文段落中挑出名词、动词、形容词以及所有封闭类词，并把情态助动词、非情态助动词以及 have 和 be 的主要动词用法区分开来。对于嵌入小句，需要指出每个动词和主语、主句与嵌入小句、嵌入小句的类型以及标句词。"},
+    {"en": "The final tasks practise transformations and trees: undoing Subject-Aux Inversion to recover statements, forming content questions for underlined phrases, assigning thematic roles to every NP, judging clauses passive or active, drawing trees for many sentence types, comparing the order of NPs, VPs, and PPs in Japanese with English, and drawing the two trees behind the ambiguous elephant sentence.", "zh": "最后一批任务练习转换与树形图：撤销主语—助动词倒装以还原陈述句，为加下划线的短语构造内容疑问句，为每个名词短语标注题元角色，判断小句是被动还是主动，为多种句式绘制树形图，比较日语与英语在名词短语、动词短语和介词短语上的语序，并画出大象那句歧义句两种含义各自对应的树形图。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,91 @@
+# 11.8. Developing word meanings
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=529#oembed-1
+We’ve seen that young children are already developing quite sophisticated phonology, morphology and syntax. There’s also evidence that kids have subtle semantic intuitions at a young age.
+
+## One Kind of Noun Meaning
+
+We saw earlier that children’s early meanings for nouns are often over- or under-extended. Their concepts become more adult-like as they get more experience of things and categories of things in the world.
+A previous chapter illustrated the difference between count nouns like pencils and cookies and mass nouns like rice and money and showed that different languages encode this meaning distinction using different morphosyntactic strategies. In English, singular count nouns must have a determiner, while plural count nouns can appear without one. Mass nouns, don’t really allow a plural form, but are grammatical without a determiner in their singular form.
+
+[表格]
+| | | | count nouns | | | | mass nouns | | | | | I want a cookie. | | *I want a rice. | | | | *I want cookie. | | I want rice. | | | | I want cookies. | | *I want rices. | | | | I want three cookies. | | *I want three rices. | | |
+
+These morphosyntactic properties are salient enough that English-acquiring children distinguish between count nouns and mass nouns very early in their productions. Researcher Peter Gordon looked at a corpus of speech from two English-acquiring children between ages 1;9 and 3;6 (Gordon, 1988). He found that even before age 2;0, these children rarely produce pluralized mass nouns. In other words, their speech included many pluralized count nouns like dogs and balls, but almost no ungrammatical mass plurals like milks or sands. They did, on the other hand, produce some singular count nouns without determiners (like “I want cookie”), because of the telegraphic nature of their speech. Their production of obligatory determiners for singular count nouns became reliable only after age 3;1.
+The evidence from this corpus study suggests that the mass/count distinction is part of the syntax of English-acquiring children quite early. But how can we tell what meanings children associate with these two different syntactic patterns? One experiment (Barner & Snedeker, 2005) used objects like string that could be interpreted flexibly, with either a count or a mass meaning. The researchers showed children pairs of pictures like this one, which depicts a single pile of string on one side and several short pieces of string on the other.
+
+[图片：Ch12_Fig11_string-300x145.png]
+
+Figure 11.11. Two photos. A pile of tangled string on the left. Three short individual pieces of string on the right.
+They asked the children one of two questions. and the results were clear: the four-year-olds nearly always chose the picture of several small strings when asked “Who has more strings?” and the picture of the single pile of string when asked “Who has more string?”, showing that they had consistent mental representations of the two different meanings.
+
+How to be a linguist: Puppets!
+
+By the time they’ve reached preschool age (around three years), children can answer questions that reveal how they understand words and phrases. To reduce kids’ shyness and make the experiment feel like a game, many researchers interact with the kids using a puppet. In some experiments, the children “teach” the puppet something about language by pointing to certain pictures or toys in response to questions from the researchers. In others, the puppet describes a scenario using an ambiguous phrase that the researchers are interested in. The children’s response to the puppet’s phrase indicates what interpretation they’ve assigned to it.
+
+In Mandarin Chinese, the semantic mass/count difference is not encoded morphologically but with classifiers. Classifiers are function words that indicate the semantic category of nouns. We can’t get into the details here, but linguists have shown that some Mandarin classifiers correspond to count meanings and others to mass meanings. Chien et al. (2003) used a puppet experiment to observe children’s interpretations of classifiers.
+In the classifier experiment, children were told that a Mickey Mouse toy was just learning Chinese and needed their help asking for what he wanted. On each trial, there were three choices for what Mickey might have been asking for: two individual objects, such as a pencil or a hat, and one substance like rice. The experimenter then said a sentence of the form shown below.
+
+[表格]
+| | | Mǐqí shuō tā yào | ___ | | something | . Gàosù lǎoshī mǐqí yào | ___ | shénme. | | | | Mickey says that he wants | ___ | something. Tell teacher what | ___ | Mickey wants. | | |
+
+In the part of the sentence shown as a blank, the experimenter spoke either a count-classifier or a mass-classifier. The sentences ended with a word the children didn’t know (the English word something), so they had to use their understanding of the rest of the sentence to figure out what Mickey wanted. With three things to choose from, just guessing would have led to about 33% correct answers. But even the three-year-olds were about 60% correct in making a choice of object that corresponded to the classifier. Four- and five-year olds were even more accurate, with the six-year-olds reaching adult-like performance. The researchers interpret their results to indicate that the mass/count distinction is present in the mental grammar for Mandarin-acquiring children.
+
+## Some Kinds of Adjective Meanings
+
+Recall from a previous chapter that gradable adjectives indicate some degree along a scale that depends on the context. For example, a five-year-old child is probably shorter than most adults, but it still makes sense to refer to that child as tall if they’re tall relative to other kindergarteners. On the other hand, a non-gradable adjective like wooden doesn’t suggest a scale and is, if not ungrammatical, definitely strange-sounding if we try to make a comparison out of it.
+
+[表格]
+| | | | gradable | | | | non-gradable | | | | | Zainab is tall. | | This table is wooden. | | | | Zainab is | very | tall. | | #This table is | very | wooden. | | | | Zainab is tall | er than | Xavier. | | #This table is | more | wooden | than | that chair. | | |
+
+Do the mental grammars of young children represent these two kinds of adjective meanings differently? In an experiment investigating children’s comprehension of gradable adjectives, Kristen Syrett and her colleagues (Syrett et al., 2010) asked children aged three to five years old to help teach a puppet how to ask for things. Each trial included two objects, and the puppet would ask for one of them. The child’s job was to say whether they could give the puppet what he asked for, and if not, to say why not. Here’s an example.
+There are two plastic shapes on the table, one red circle and one blue circle. The puppet says, “Please give me the red one.” Children as young as three years old pass the red circle on nearly every trial. But if there’s one red circle and one red square and the puppet says, “Please give me the red one,” then there’s no single answer that’s appropriate. In this case, even the three-year-olds behave the same way adults do. They don’t just pick one of the red ones and hand it over; instead, they say something like, “But I have TWO red ones!” or “What red one?”
+
+[图片：Ch12_Fig12_TwoCircles-300x132.png]
+
+Figure 11.12a. A red circle and a blue circle.
+
+[图片：Ch12_Fig13_TwoReds-300x132.png]
+
+Figure 11.12b. A red circle and a red square.
+
+In the second part of the experiment, the researchers use this technique of having the puppet ask for something to see how kids interpret gradable adjectives. So instead of items that differ in colour or shape, they have pairs of blocks. In one condition, both blocks are big but one is bigger than the other. And in the other condition, both blocks are small but one is bigger than the other. The puppet asks, “Please give me the big one.”
+
+[图片：Ch12_Fig14_blocks-300x225.jpg]
+
+Figure 11.13. Two large blocks and two small blocks.
+If kids interpret the adjective big the same way they interpreted red, then we’d expect them to get stuck: the phrase the big one wants them to pick one block, but there are two big ones in the first case and zero big ones in the second case. But the kids don’t get stuck! In both conditions, they choose whichever block is bigger than the other and pass it to the puppet. This tells us that their interpretation of the gradable adjective big does indeed depend on the scale determined by the context. Even if both blocks are big, they interpret big to mean the relatively bigger one.
+We can interpret the findings of this experiment to conclude that children’s semantics for gradable adjectives includes some measure of degree along a scale, and the scale they choose depends on the context in which the adjective is uttered.
+
+[图片：Ch12_Fig15_variousbuttons-150x150.jpg]
+
+Figure 11.14. A variety of buttons
+Speaking of adjectives, Syrett (2015) used a similar technique to investigate a different element of adjective comprehension. This experiment used pictures rather than actual objects. First, children saw a picture of several different buttons, in various sizes, colours and shapes. The puppet pointed out the different shapes and colours. The next picture showed the buttons arranged into the outline of a shape. In the picture shown here, about thirty star-shaped buttons are arranged into the outline of a star.
+
+[图片：Ch12_Fig16A_StarButtonsStar-300x278.png]
+
+Figure 11.15. Star-shaped buttons arranged in a star shape.
+Then at the test phase, the children saw two pictures side-by-side. One picture showed triangle-shaped buttons arranged into a circle, and the other showed circle-shaped buttons arranged into a triangle.
+
+[图片：Ch12_Fig16B_TriangleButtonsCircle-150x150.png]
+
+Figure 11.16a. Triangle buttons arranged in a circle.
+
+[图片：Ch12_Fig16C_CircleButtonsTriangle-150x150.png]
+
+Figure 11.16b. Round buttons arranged in a triangle.
+The puppet asked the child, “Point to the round buttons.” Children more than three years old reliably pointed to the round buttons, not the triangular buttons arranged in a circle, and even two-and-a-half year olds chose the round buttons three quarters of the time. Syrett concluded that children know that a predicate like round applies to individual items, not to a group of items.
+Looking at both these experiments together, we can see that children’s mental grammars have quite sophisticated representations for the semantics of adjectives: They have adult-like interpretations of context-dependent gradable adjectives, and they understand that adjectives used with count nouns apply to individual items.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=529#h5p-89
+
+## References
+
+Barner, D., & Snedeker, J. (2005). Quantity judgments and individuation: Evidence that mass nouns count. Cognition, 97(1), 41–66.
+Chien, Y.-C., Lust, B., & Chiang, C.-P. (2003). Chinese Children’s Comprehension of Count-Classifiers and Mass-Classifiers. Journal of East Asian Linguistics, 12, 91–120.
+Gordon, P. (1988). Count/mass category acquisition: Distributional distinctions in children’s speech. Journal of Child Language, 15(1), 109–128.
+Syrett, K. (2015). Mapping Properties to Individuals in Language Acquisition. Proceedings of the Boston University Conference on Language Development 39, 398–410.
+Syrett, K., Kennedy, C., & Lidz, J. (2010). Meaning and Context in Children’s Understanding of Gradable Adjectives. Journal of Semantics, 27(1), 1–35.

@@ -1,0 +1,142 @@
+# 6.20 Trees: Movement beyond questions
+
+## Head Movement outside questions: V-to-T movement of auxiliaries
+
+Based on the discussion so far, you might think of movement as something that we only find in questions. But that isn’t the case! It happens to be the case that questions are one of the places that we clearly see movement in English, but both Head Movement and Phrasal Movement can be found in other contexts as well.
+In this section we’ll see evidence that auxiliaries like be and have start out lower than T and move to it via Head Movement, then evidence that the same is true for all verbs in a language like French. Later we’ll see evidence for phrasal movement in the derivation of passive clauses.
+
+## ENGLISH AUXILIARIES
+
+The following sentences all have one auxiliary in them:
+
+[表格]
+| | | (1) | | a. | | The leaves | will | fall. | | | | | | b. | | The leaves | have | fallen. | | | | | | c. | | The leaves | are | falling. | | |
+
+We saw in Section 6.5 that auxiliaries all have the same distribution in English sentences, a distribution that is different from main verbs: they appear before negation and participate in Subject-Auxiliary Inversion (T-to-C movement). They also appear before adverbs like always, as in (2):
+
+[表格]
+| | | (2) | | a. | | The leaves | will | always | | fall. | | | | | | b. | | The leaves | have | always | | fallen. | | | | | | c. | | The leaves | are | always | | falling. | | |
+
+We explained this similarity in distribution—and the way the auxiliaries are all different from main verbs—by analyzing all the auxiliaries as belonging to a single syntactic category: T.
+But it turns out that the picture is a bit more complex. There’s a difference between modals (and nonfinite to) on the one hand, and the auxiliaries be and have on the other.
+First, for many speakers of English, modals (and to) cannot stack—you can only get one of them per sentence.
+
+[表格]
+| | | (3) | | a. | | *The leaves | will might | fall. | | (cf. | will maybe fall | ) | | | | | | b. | | *The leaves | must can | fall. | | (cf. | must be able to fall | ) | | |
+
+By contrast, have and be can stack, with a modal or with each other. And the order is always the same: the modal must be the highest auxiliary, the one that shows the distribution that we associated with the head T.
+
+[表格]
+| | | (4) | | a. | | The leaves | will have | fallen. | | (Future + Perfect) | | | | | | b. | | The leaves | will be | falling. | | (Future + Progressive) | | | | | | c. | | The leaves | will have been | falling. | | (Future + Perfect + Progressive) | | | | | | d. | | The leaves | have been | falling. | | (Perfect + Progressive) | | |
+
+Some varieties of English, including Southern US English, and also some varieties of Scots do allow more than one modal in a clause. For speakers of these varieties, the equivalent of (3a) or (3b) might be grammatical (though there are restrictions on which modals can stack, and these restrictions are different in different varieties). When analyzing the syntax of these varieties, we might need a different hypothesis about where modal auxiliaries start out, and whether any of them also move to T in declarative clauses. Even in varieties where modals can co-occur with one another, though, it’s still the case that all modals come before have and be auxiliaries.
+If we check all these sentences for the distributional properties that we’ve associated with being in T—being before negation + adverbs like always, undergoing Subject-Auxiliary Inversion—it turns out that only the first auxiliary passes those tests. All the subsequent auxiliaries suddenly have the same distribution of main verbs. Let’s see this for the Future + Perfect:
+- will is in T: Before negation: The leaves will not have fallen.
+- Before always: The leaves will always have fallen.
+- Subject-Aux inversion: Will the leaves have fallen?
+have is not in T:
+- Not before negation: *The leaves will haven’t fallen.
+- Not before always (maybe not totally ungrammatical, but not totally acceptable): *The leaves will have always fallen.
+- Can’t invert, alone or with will: *Have the leaves will fallen? *Will have the leaves fallen?
+
+So where is the second auxiliary—or in the Future + Perfect + Passive (will have been…), where is the third auxiliary? Proposal (for English) Only tense features, the modals, and nonfinite to start out in T—that is, only these morphemes truly belong to the functional category T. All other auxiliaries move to T, but they only do so if that T isn’t already filled by a modal or to.
+So when there’s a modal in T, the lower auxiliary will appear in an extra VP layer—sometimes called a VP “shell”. (We could instead label this phrase AuxP, or even PerfectP or ProgressiveP—if you read more about syntax you might encounter those labels, but for simplicity we’ll call it VP here.) This is illustrated in Figure 6.34.
+
+[图片：620_tree1_willbe.png]
+
+Figure 6.34 Tree diagram for [The leaves will be falling.], showing a progressive VP shell
+But if there’s nothing in T—or rather, if all that’s in T is a tense feature—the auxiliary verb will move from V to T, as illustrated in Figure 6.35.
+
+[图片：620_tree2_are.png]
+
+Figure 6.35 Tree diagram for [The leaves are falling.], showing a progressive VP shell and movement of auxiliary are to T
+Very few verbs move in most contemporary varieties of Modern English. Only be (as an auxiliary and as a main verb copula), and have (only as an auxiliary) show evidence of moving to T.
+The same isn’t true in other languages, necessarily. For example in French (and in earlier stages of English), we have reason to think that all verbs move to T.
+
+## V-to-T OF ALL VERBS IN FRENCH
+
+In contemporary English it’s only auxiliaries that ever appear in T—main verbs always show a different distributions. But in French—and in earlier stages of English—when there’s no auxiliary the main verb also appears in the T position.
+French auxiliaries, like English auxiliaries, show up before negation, before auxiliaries like toujours (“always”), and can undergo Subject-Aux inversion (though only with pronominal subjects, and even then it isn’t very natural in casual speech for most speakers).
+
+[表格]
+| | | (5) | | | | Les feuilles ont tombé. | | | | | | | | the leaves have fallen | | | | | | | | “The leaves fell/have fallen.” | | |
+
+[表格]
+| | | (6) | | | | Les feuilles (n’)ont pas tombé. | | | | | | | | the leaves (NEG)have NEG fallen | | | | | | | | “The leaves have fallen.” | | |
+
+[表格]
+| | | (7) | | | | Les feuilles ont toujours tombé. | | | | | | | | the leaves have always fallen | | | | | | | | “The leaves always fell / have always fallen.” | | |
+
+[表格]
+| | | (8) | | | | Ont-ils tombé? | | | | | | | | Have-they fallen | | | | | | | | “Have they fallen?.” | | |
+
+Negation in French is traditionally described as involving a ne before the tensed verb, and a pas after the verb—kind of like a circumfix. But in spoken French in both Quebec and France, the ne is almost never pronounced, and so it’s marked as optional in all examples in this section.
+What’s different about French is that main verbs show exactly the same distribution—this is different from English, where main verbs show up after negation and adverbs, and can’t do Subject-Aux inversion (instead they require the support auxiliary do):
+
+[表格]
+| | | (9) | | | | Les feuilles (ne) tombaient pas. | | | | | | | | the leaves (NEG) fell NEG | | | | | | | | “The leaves didn’t fall/weren’t falling.” | | |
+
+[表格]
+| | | (10) | | | | Les feuilles tombaient toujours. | | | | | | | | the leaves fell always | | | | | | | | “The leaves always fell / were always falling.” | | |
+
+[表格]
+| | | (11) | | | | Tombaient-ils? | | | | | | | | Fell-they | | | | | | | | “Did they fall? / Were they falling?.” | | |
+
+English verbs do not have the same distribution as auxiliaries, as shown in (12), (13), and (14)—though they did in Early Modern English, ca. 1600s.
+
+[表格]
+| | | (12) | | | | *The leaves fell not. | | |
+
+[表格]
+| | | (13) | | | | *The leaves fell always. | | |
+
+[表格]
+| | | (14) | | | | *Fell the leaves? | | |
+
+We can analyze this difference in word order between English and French by saying that while in English only be and auxiliary have move to T, in French all verbs undergo V-to-T movement. This is illustrated for (10) in Figure 6.36.
+
+[图片：620_tree3_tombaient.png]
+
+Figure 6.36 Tree diagram for [Les feuilles tombaient toujours.], showing a movement of the main V to T
+We’ve now introduced two types of movement in our theory:
+- Head movement: movement of a head to the next head position up in the tree.
+- Phrasal movement: movement of a phrase to a higher specifier position.
+
+Though we find them both in English questions (as T-to-C and WH-movement, respectively), what we see in English auxiliaries and with all French verbs is that these movement types can be found in other contexts as well—and that languages can differ in what types of movement they exhibit.
+
+## Head movement and phrasal movement in passives
+
+So far we’ve talked about how to identify passives—but what is their syntax like? Remember the pair of active and passive sentences we saw in Section 6.11:
+
+[表格]
+| | | (15) | | a. | | The pirates sank the ship. | | (active) | | | | | | b. | | The ship was sunk (by the pirates). | | (passive) | | |
+
+In a theory of syntax that employs movement, the natural way to think about the passive is to say that passive syntax (in particular the presence of the passive be) prevents the subject from being introduced in the first place, leaving an empty position—indicated in (16) by an underscore.
+
+[表格]
+| | | (16) | | | | [ | TP | _ was sunk [the ship] ] | | |
+
+Then because English is a language that always requires a subject in Spec,TP, something needs to be done to fill that empty position. This is done by moving the object NP into the subject position:
+
+[表格]
+| | | (16) | | | | [ | TP | [the ship] was sunk | the ship | ] | | |
+
+This is a new case of phrasal movement: movement of an NP into subject position. NP movement: Move an NP into Spec,TP, to fill an otherwise-empty subject position.
+We start with the theme argument the ship as the complement of the verb, and the passive auxiliary be in a VP shell. To get the correct output, we apply two instances of movement:
+- The passive auxiliary moves to T: V-to-T movement
+- The object NP [the ship] moves to the subject-position in Spec,TP: NP-movement
+
+The result of these two steps of movement is illustrated in Figure 6.37.
+
+[图片：620_tree4_wassunk.png]
+
+Figure 6.35 Tree diagram for [The ship was sunk.], showing a passive VP shell, movement of auxiliary was to T, and NP movement of the passive subject
+This section has illustrated our final tool in accounting for word-order differences across languages: not just the parameters of head-initial vs. head-final ordering, but also what types of movement arise in what contexts.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.11 Changing argument structure: Causatives and passives, and the next section is 6.21 Trees: Summary.

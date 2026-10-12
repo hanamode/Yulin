@@ -1,0 +1,11 @@
+{
+ "batch": 8,
+ "titles": {
+  "pragmatics": "Pragmatics",
+  "psycholinguistics": "Psycholinguistics",
+  "questionnaire": "Questionnaire",
+  "sapir": "Edward Sapir",
+  "saussure": "Ferdinand de Saussure",
+  "semantics": "Semantics"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "batch": 42,
+ "sections": {
+  "chapter-091-slug-8-3-semantics-and-pragmatics-in-the-legal-domain": {
+   "title": {
+    "en": "8.3 Semantics and pragmatics in the legal domain",
+    "zh": "8.3 法律领域中的语义学与语用学"
+   },
+   "summary": {
+    "en": "Meaning matters in law, where how a word or an utterance is interpreted can change lives. This section examines four cases: a 1960 contract dispute over chicken, a 2017 ruling about dawg, the perjury case Bronston v. United States, and an Israeli case about emojis. Together they show why both semantics and pragmatics matter.",
+    "zh": "意义在法律中至关重要：一个词或一句话如何被解释，可能改变人的命运。本节考察四个真实案例：1960 年围绕合同用词 chicken 的纠纷、2017 年关于 dawg 的裁定、伪证案 Bronston v. United States，以及以色列一起涉及表情符号的小额索赔案。这些案例共同表明，语义学与语用学在法律领域都不可或缺。"
+   },
+   "points": [
+    {
+     "en": "Words are not static: context fixes interpretation, and everyday ambiguity is usually harmless.",
+     "zh": "词语的意义并非固定不变，语境决定如何解释，而日常歧义通常无伤大雅。"
+    },
+    {
+     "en": "In the chicken contract case the court favoured the defendant because the general reading had been used during negotiation.",
+     "zh": "在 chicken 合同案中，法院支持被告，因为谈判过程中曾出现过 chicken 的一般性用法。"
+    },
+    {
+     "en": "The dawg case treated dog as genuinely ambiguous, setting aside dialect and its use as a form of address.",
+     "zh": "dawg 案把 dog 视为真正有歧义的词，却忽略了方言因素以及它作为称呼语的用法。"
+    },
+    {
+     "en": "Bronston said nothing false, yet withholding information created an implicature; the Supreme Court ruled it was not perjury.",
+     "zh": "Bronston 所说的话并无虚假，但隐瞒信息产生了会话含义；最高法院裁定这不构成伪证罪。"
+    },
+    {
+     "en": "In Dahan v. Haim the tenant was held accountable for the optimism conveyed by emojis in a text message.",
+     "zh": "在 Dahan v. Haim 案中，租客要为短信中表情符号所传达的乐观态度承担责任。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "implicature",
+     "zh": "会话含义",
+     "defEn": "Meaning suggested by an utterance but not entailed by it, and cancellable.",
+     "defZh": "话语所暗示但并非由句子蕴涵的意义，它可以被取消，也可能随语境改变。"
+    },
+    {
+     "en": "entailment",
+     "zh": "蕴涵",
+     "defEn": "A meaning that necessarily follows from a sentence being true.",
+     "defZh": "由句子为真而必然推出的意义，它不可能被取消，也不依赖语境。"
+    },
+    {
+     "en": "ambiguity",
+     "zh": "歧义",
+     "defEn": "The property of having more than one possible interpretation.",
+     "defZh": "一个表达式具有不止一种可能解释的性质，例如 dog 既可指犬，也可用作称呼语。"
+    },
+    {
+     "en": "perjury",
+     "zh": "伪证罪",
+     "defEn": "The crime of lying under oath while giving testimony in court.",
+     "defZh": "在法庭作证时宣誓后故意说假话所构成的犯罪，即通常所说的伪证罪。"
+    },
+    {
+     "en": "reliance",
+     "zh": "信赖（reliance）",
+     "defEn": "A contract-law ground for suit when one party does not follow through on a deal.",
+     "defZh": "合同法上的一种起诉依据：一方未履行双方已达成的约定时，另一方可据此请求损害赔偿。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "That cat is so cute!",
+     "noteEn": "Said of a digital drawing, where cat means 'drawing of a cat' rather than an animal.",
+     "noteZh": "面对一幅数码画作说出的一句话，其中 cat 意为「猫的画」，而非真正的猫。"
+    },
+    {
+     "text": "Why don’t you just give me a lawyer dawg",
+     "noteEn": "Demesme's request for counsel, read by the court as possibly asking for a canine lawyer.",
+     "noteZh": "Demesme 请求律师时所说的话，法院却将其解读为可能在要一只犬类律师。"
+    },
+    {
+     "text": "The company had an account there for about six months, in Zürich.",
+     "noteEn": "Bronston's literally true answer, which implicated that he personally had no such account.",
+     "noteZh": "Bronston 字面上完全属实的回答，却暗示他本人没有瑞士账户。"
+    },
+    {
+     "text": "Good Morning 😊 interested in the house 💃👯‍♀️✌️☄️🐿 🍾 just need to discuss the details…When’s a good time for you?",
+     "noteEn": "The text message whose emojis the judge read as conveying optimism and intent to rent.",
+     "noteZh": "这条短信中的表情符号被法官解读为传达了乐观态度与租房意向。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Linguistic meaning shapes our lives, and it matters greatly in law, from how a contract is read to how a courtroom statement is interpreted. Words are not static: context decides which interpretation is intended. Everyday speakers resolve this ambiguity without harm, but in a legal setting an interpretation can be life-changing.",
+     "zh": "语言意义影响着我们的生活，而它最重要的用武之地之一便是法律：从合同如何解读，到法庭陈述如何理解，皆在其中。词语的意义并非固定不变，语境决定说话人意图表达的是哪一种解释。日常交谈中，人们通常能无伤害地化解这类歧义；但在法律场景中，一种解释可能改变人的命运。"
+    },
+    {
+     "en": "In Frigaliment Importing Co. v. B. N. S. Int’l Sales Corp. (1960), the dispute concerned chicken in a contract. The plaintiff understood it as young stewing chicken, while the defendant read it generally and sent mature frying chicken, which the plaintiff called a breach. Since chicken is used for young birds in the poultry trade, the court asked whether the general reading was also possible; it ruled for the defendant, because chicken had been used generally at least once during negotiation.",
+     "zh": "在 Frigaliment Importing Co. v. B. N. S. Int’l Sales Corp.（1960）一案中，争议围绕合同中的 chicken 一词。原告把它理解为「（年幼的）炖煮用鸡」，被告则取更笼统的意思，于是发来成熟肉鸡，原告认为这违反了合同。由于在家禽行业内 chicken 确实指幼鸡，法院必须判定笼统解释在此语境下是否同样可行；最终法院支持被告，理由是在谈判过程中 chicken 至少有一次被用作一般意义。"
+    },
+    {
+     "en": "State of La. v. Demesme (2017) turned on dog. Questioned by police, Demesme asked for counsel, saying Why don’t you just give me a lawyer dawg. The prosecution treated this as ambiguous, possibly a request for a canine lawyer, and the Louisiana Supreme Court ruled for the state, so no lawyer was provided. Dawg was in fact a form of address like dude, and Demesme spoke African American English, linking the case to Chapter 2 on language and power.",
+     "zh": "State of La. v. Demesme（2017）一案的焦点是 dog。Demesme 在接受警方讯问时请求律师，说的是 Why don’t you just give me a lawyer dawg。控方认为这句话至少有歧义，甚至可能是在索要一只犬类律师；路易斯安那州最高法院最终支持州一方，Demesme 当时没有获得律师。事实上 dawg 是类似 dude 的称呼语，且 Demesme 讲非裔美国人英语，涉及语言与权力。"
+    },
+    {
+     "en": "Bronston v. United States (1973) shows implicature at work. Asked whether he had ever had a personal Swiss bank account, Bronston answered that the company had an account there for about six months, in Zürich. His words contained no lie and did not entail that he lacked an account; the court merely inferred it. The Supreme Court held this was not perjury, since Bronston believed his answer true and the examiner should have asked follow-up questions. In Dahan v. Haim (2017), by contrast, an Israeli court held a tenant accountable for the optimism conveyed by emojis, after a landlord removed an apartment ad in reliance on the message.",
+     "zh": "Bronston v. United States（1973）展示了会话含义如何起作用。被问及是否曾拥有个人瑞士银行账户时，Bronston 回答公司在那里、在苏黎世有个账户，开了大约六个月。他的话中并无谎言，也不蕴涵他本人没有账户，法院只是从中推断而已。最高法院裁定这不构成伪证罪，因为 Bronston 真心认为回答属实。与之相对，在 Dahan v. Haim（2017）中，房东因信赖短信内容而下架出租广告，法庭判定租客要为表情符号传达的乐观态度负责。"
+    }
+   ]
+  },
+  "chapter-092-slug-8-4-conversational-implicatures": {
+   "title": {
+    "en": "8.4 Conversational implicatures",
+    "zh": "8.4 会话含义"
+   },
+   "summary": {
+    "en": "This section reviews the difference between entailments and implicatures. An entailment cannot be cancelled without contradiction, while an implicature can. Two contrasts show the point: cancelling an entailment yields a contradictory sentence, while cancelling an implicature leaves a perfectly acceptable one. Implicatures also shift with context, whereas entailments hold in every context, so implicatures are called conversational implicatures because they arise from conversational rules.",
+    "zh": "本节回顾蕴涵（entailment）与会话含义（implicature）之间的根本区别。蕴涵不可取消，一旦取消就会产生矛盾；会话含义则可以取消。取消蕴涵会得到自相矛盾的句子，取消会话含义则得到完全可接受的句子。会话含义还会随语境变化，同一个句子在不同语境中可以传达相反的含义，而蕴涵在任何语境下都成立。正因为这类含义源自会话规则，它们才被称为会话含义。"
+   },
+   "points": [
+    {
+     "en": "Implicatures are cancellable, so they are not entailments of the sentence that carries them.",
+     "zh": "会话含义可以被取消，因此它们并不是承载它的那个句子的蕴涵。"
+    },
+    {
+     "en": "Cancelling an entailment produces contradiction, marked with the absurdity symbol, while cancelling an implicature does not.",
+     "zh": "取消蕴涵会产生矛盾，用矛盾符号标记；取消会话含义则不会。"
+    },
+    {
+     "en": "The same sentence can carry opposite implicatures depending on the context in which it is uttered.",
+     "zh": "同一个句子在不同语境中可以传达完全相反的会话含义，由此可见其语境依赖性。"
+    },
+    {
+     "en": "This is a book about the history of China always entails This is a book, in every context.",
+     "zh": "同一句子在一切语境下都蕴涵它是一本书，这一点不随语境改变。"
+    },
+    {
+     "en": "Context-dependent implicatures are called conversational because they arise out of conversational rules.",
+     "zh": "依赖语境的会话含义之所以称为「会话的」，是因为它们源自会话规则。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "implicature",
+     "zh": "会话含义",
+     "defEn": "Non-entailed meaning that a sentence may carry in a given context and that can be cancelled.",
+     "defZh": "句子在特定语境中可能带有、且可被取消的非蕴涵意义，它会随语境改变。"
+    },
+    {
+     "en": "entailment",
+     "zh": "蕴涵",
+     "defEn": "A meaning guaranteed by the truth of the sentence, independent of context.",
+     "defZh": "由句子为真所保证的意义，与语境无关，也无法被取消，取消它会形成矛盾。"
+    },
+    {
+     "en": "cancellable",
+     "zh": "可取消的",
+     "defEn": "Able to be denied without contradiction, as implicatures are.",
+     "defZh": "可以被否定而不产生矛盾的特性，会话含义便具有这一性质。"
+    },
+    {
+     "en": "context",
+     "zh": "语境",
+     "defEn": "The surrounding situation and assumptions that shape what an utterance conveys.",
+     "defZh": "决定话语传达何种意义的周围情境与背景假设，会话含义尤其依赖它。"
+    },
+    {
+     "en": "conversational implicature",
+     "zh": "会话含义",
+     "defEn": "An implicature derived from conversational rules rather than from sentence meaning alone.",
+     "defZh": "由会话规则而非仅由句子意义推导出的会话含义，因而依赖语境。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "This is a book about the history of China.",
+     "noteEn": "The sentence used throughout to contrast entailments with context-dependent implicatures.",
+     "noteZh": "贯穿本节用于对比蕴涵与依赖语境的会话含义的句子。"
+    },
+    {
+     "text": "This is a book about the history of China, but it is not the case that this is a book.",
+     "noteEn": "Cancelling the entailment This is a book, which is contradictory and impossible.",
+     "noteZh": "取消蕴涵 This is a book 之后，句子自相矛盾，这样的说法根本无法成立。"
+    },
+    {
+     "text": "This is a book about the history of China, but it is not the case that this book is long.",
+     "noteEn": "Cancelling the possible implicature that the book is long, which is perfectly acceptable.",
+     "noteZh": "取消「这本书很长」这一可能的会话含义，句子完全可以接受。"
+    },
+    {
+     "text": "This is a book.",
+     "noteEn": "The entailment that survives in every context, whether Josh likes the book or not.",
+     "noteZh": "无论 Josh 喜不喜欢这本书，都在任何语境下成立的蕴涵。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This section opens with a review of entailments versus implicatures. Implicatures are cancellable: they are not entailments, so they need not be true whenever the sentence is true. Adding but it is not the case that this is a book to This is a book about the history of China cancels an entailment, and the result is contradictory. Adding but it is not the case that this book is long cancels a possible implicature, and the result is perfectly fine.",
+     "zh": "本节开篇回顾蕴涵与会话含义之别。会话含义可以取消：它们不是蕴涵，因此句子为真时它们不必为真。在 This is a book about the history of China 后接上 but it is not the case that this is a book，是在取消一个蕴涵，结果自相矛盾。若接上 but it is not the case that this book is long，则是在取消一个可能的会话含义，结果完全正常。"
+    },
+    {
+     "en": "Because an implicature is not an entailment, it can change with the context. Uttered when Danny knows that Josh is a history enthusiast, This is a book about the history of China implicates that Danny thinks Josh will like the book. In a context where world history has never been Josh's forte, the same sentence is much harder to read that way, and the more natural implicature is the opposite one. The context, not the sentence alone, decides which implicature is available.",
+     "zh": "由于会话含义不是蕴涵，它会随语境变化。当 Danny 知道 Josh 是历史爱好者时，说出 This is a book about the history of China 会隐含「Danny 认为 Josh 会喜欢这本书」。而在「世界历史从来不是 Josh 的长项」这一语境下，同一句话就很难作此解读，更自然的会话含义恰恰相反。决定采用哪一种会话含义的是语境，而不是句子本身。"
+    },
+    {
+     "en": "The entailment, by contrast, never goes away. No matter what the context is, This is a book about the history of China entails This is a book, in the enthusiast scenario and in the uninterested scenario alike. This is the crucial difference: implicatures are context-dependent, entailments are not. It is also why implicatures of this kind are called conversational implicatures, since they arise out of conversational rules.",
+     "zh": "相比之下，蕴涵从不消失。无论在哪种语境下——无论 Josh 是爱好者还是毫无兴趣——This is a book about the history of China 都蕴涵 This is a book。这正是关键差异：会话含义依赖语境，蕴涵则不依赖。也正因这类含义源自会话规则，它们被称为会话含义，而会话规则正是下一节的主题。"
+    },
+    {
+     "en": "This distinction matters because it explains how one sentence can convey something the speaker never literally said. Since an implicature is a non-entailment, it can be denied without contradiction, and a hearer who feels misled cannot point to anything the speaker actually stated. Entailments offer no such escape: denying one produces an impossible sentence, marked with the absurdity symbol. Keeping the two apart will matter when we see how implicatures are calculated in discourse. Entailments, by contrast, cannot vary with the context, because they follow from the sentence alone.",
+     "zh": "这一区分之所以重要，是因为它解释了同一个句子如何能够传达说话人从未明说的内容。既然会话含义不是蕴涵，它就可以在不产生矛盾的情况下被否认；听者即便觉得自己受到误导，也无法指出说话人究竟说过哪句不实之词。蕴涵则没有这样的余地：否认蕴涵会产生一个不可能的句子，书中用矛盾符号标记这种荒谬。把两者区分开来，在下一节考察会话含义如何在话语中被计算出来时尤为关键。蕴涵恰好相反，它不可能随语境而变，因为它只由句子本身决定。"
+    }
+   ]
+  },
+  "chapter-093-slug-8-5-the-cooperative-principle": {
+   "title": {
+    "en": "8.5 The Cooperative Principle",
+    "zh": "8.5 合作原则"
+   },
+   "summary": {
+    "en": "Grice's Cooperative Principle explains why implicatures arise: discourse participants assume that everyone is working toward a shared conversational goal, and this assumption is spelled out in four maxims, Quality, Quantity, Relation and Manner. The section illustrates each maxim and shows that what counts as cooperative varies across languages and communities.",
+    "zh": "Grice 的合作原则解释了会话含义为何产生：话语参与者假设大家都在为共同的会话目标而努力，这一假设具体化为四条准则——质量、数量、关联与方式。本节逐一举例说明各条准则，并指出「怎样才算合作」在不同语言、不同言语共同体乃至不同话语类型中都会有差异。"
+   },
+   "points": [
+    {
+     "en": "When Bo answers He fed the cat, Aya infers that Raj did not clean the litterbox.",
+     "zh": "当 Bo 回答 He fed the cat 时，Aya 便推断 Raj 没有清理猫砂盆。"
+    },
+    {
+     "en": "The Cooperative Principle holds that discourse participants assume everyone acts to accomplish conversational goals.",
+     "zh": "合作原则认为，话语参与者都假设大家的行为是为了达成会话目标。"
+    },
+    {
+     "en": "Grice described four maxims, stated as imperatives but meant to describe pragmatic knowledge, not prescribe good usage.",
+     "zh": "Grice 提出四条准则，它们以祈使句形式表述，但意在描述语用知识，而非规定人该如何说话。"
+    },
+    {
+     "en": "Quality requires saying what you believe and have evidence for; in Mopan, even unintentional falsehood counts as tus.",
+     "zh": "质量准则要求说自己相信且有证据的话；在莫潘语中，即便无心的虚假也算作 tus（说谎）。"
+    },
+    {
+     "en": "Quantity requires being as informative as needed; informativity is measured by entailment relations.",
+     "zh": "数量准则要求提供所需的信息量；信息量依据蕴涵关系来衡量。"
+    },
+    {
+     "en": "Relation requires staying on topic and Manner requires clarity, brevity and order; politeness may be a further maxim.",
+     "zh": "关联准则要求切题，方式准则要求清晰、简洁、有条理；礼貌也可能构成又一条准则。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Cooperative Principle",
+     "zh": "合作原则",
+     "defEn": "Grice's proposal that discourse participants assume everyone is working toward conversational goals.",
+     "defZh": "Grice 提出的主张：话语参与者假设大家都在为达成会话目标而努力。"
+    },
+    {
+     "en": "maxim",
+     "zh": "准则",
+     "defEn": "A general rule of conversational conduct whose assumption helps explain implicatures.",
+     "defZh": "会话行为的一般规则，假设人们遵守它有助于解释会话含义的产生。"
+    },
+    {
+     "en": "Maxim of Quality",
+     "zh": "质量准则",
+     "defEn": "Say what you believe to be true, and only what you have sufficient evidence for.",
+     "defZh": "说自己认为真实的话，并且只说自己拥有充分证据的话，违反它即是说谎。"
+    },
+    {
+     "en": "Maxim of Quantity",
+     "zh": "数量准则",
+     "defEn": "Be neither more nor less informative than the purpose of the conversation requires.",
+     "defZh": "信息量既不多于也不少于会话目的所需，而信息量由蕴涵关系来衡量。"
+    },
+    {
+     "en": "Maxim of Relation",
+     "zh": "关联准则",
+     "defEn": "Make your contributions relevant to what is currently being discussed.",
+     "defZh": "使自己对话语的贡献与当前正在讨论的内容相关，即通常所说的切题。"
+    },
+    {
+     "en": "Maxim of Manner",
+     "zh": "方式准则",
+     "defEn": "Be as clear, brief and orderly as possible when contributing to a conversation.",
+     "defZh": "在会话中尽可能清晰、简洁、有条理地表达，不让表达方式妨碍信息传递。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Aya: Did Raj feed the cat and clean the litterbox? Bo: He fed the cat.",
+     "noteEn": "The recurring exchange whose implicature each of the four maxims helps to explain.",
+     "noteZh": "贯穿本节的对话，四条准则各自都有助于解释其中产生的会话含义。"
+    },
+    {
+     "text": "She is either in the house or at the market.",
+     "noteEn": "A Malagasy answer whose disjunction invites different inferences than it would in English.",
+     "noteZh": "马达加斯加语中的一个回答，其中的选言结构引发的推断与英语不同。"
+    },
+    {
+     "text": "tus",
+     "noteEn": "The Mopan term for lying, applied even to a sincerely believed falsehood.",
+     "noteZh": "莫潘语中表示「说谎」的词，即使说话人真心相信虚假之事也照样适用。"
+    },
+    {
+     "text": "When I was little, my favourite food was chicken nuggets.",
+     "noteEn": "Bo's off-topic reply, which violates the Maxim of Relation rather than Quality or Quantity.",
+     "noteZh": "Bo 跑题的回答，违反的是关联准则，而非质量或数量准则。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The section begins with Aya asking whether Raj fed the cat and cleaned the litterbox; Bo answers only that he fed the cat, so Aya infers the litterbox was not cleaned. Grice proposed that such reasoning rests on the Cooperative Principle: the assumption that discourse participants act to accomplish conversational goals. The maxims' imperative wording describes pragmatic knowledge, not good usage.",
+     "zh": "本节从例子入手：Aya 问 Raj 是否喂了猫并清理了猫砂盆，Bo 只回答喂了猫，Aya 便推断猫砂盆没有清理。说话人制造会话含义，受话人作出推断。Grice 提出，这类推理建立在合作原则之上，即假设所有话语参与者都以达成会话目标的方式行事。准则以祈使句表述，是对语用知识的描述，而非规定性的劝告；而「怎样才算合作」在不同共同体和不同话语类型之间也有差异。"
+    },
+    {
+     "en": "The Maxim of Quality says to say what you believe to be true and only what you have sufficient evidence for; a violation means overt lying. Failure to try is what counts as a violation, so a sincerely believed falsehood is not a lie in English. This varies across languages: in Mopan, a Mayan language of Central America, falsehoods are called tus whether or not the speaker knew they were false, and tus carries moral disapproval. Mopan speakers who learned that The Jungle Book was untrue classed it as tus.",
+     "zh": "质量准则要求说自己相信为真的话，并且只说自己有充分证据的话；违反它即是公然说谎。英语中只有「未加努力」才算违反，因此真心相信的假话并不算说谎。这一点在不同语言中并不一致：在莫潘语（Mopan，中美洲玛雅语族的一种原住民语言）中，不论说话人当时是否知道其为假，虚假一律称为 tus，而 tus 带有道德谴责意味。莫潘语使用者得知《森林王子》并非真事之后，把它归为 tus。"
+    },
+    {
+     "en": "The Maxim of Quantity requires being as informative as needed and no more. Informativity is defined by entailment: if p entails q and the two are not the same sentence, p is more informative than q. Saying only He fed the cat when the litterbox was also cleaned, or listing every cat action, would both violate Quantity. Withholding information is not always uncooperative: in Malagasy, an Austronesian language of Madagascar, exclusive knowledge is highly valued.",
+     "zh": "数量准则要求提供所需的信息量，且不多不少。信息量由蕴涵关系来界定：若 p 蕴涵 q 且二者不是同一句子，则 p 比 q 信息量更大。若 Bo 明知猫砂盆也清理了却只说 He fed the cat，就违反了数量准则；而把与猫有关的所有动作一一列举，同样违反。不过，隐瞒信息并不总被视为不合作：在马达加斯加使用的南岛语系语言马达加斯加语（Malagasy）中，独占信息备受看重。"
+    },
+    {
+     "en": "The Maxim of Relation asks speakers to stay on topic, so Bo's reply about chicken nuggets feels odd because the topic was childhood extracurricular activities; he was neither untruthful nor badly calibrated in quantity. The Maxim of Manner asks for clarity, brevity and order, which is why hand-washing instructions given out of sequence sound strange, and it covers word choice, ambiguity, speed and loudness. Manner is culturally variable, and Grice expected further maxims beyond the four. Politeness is a candidate: Pfister proposes not imposing on the addressee and approving their desires and actions.",
+     "zh": "关联准则要求说话人切题，因此 Bo 那句关于鸡块儿的回答显得突兀，因为话题本是童年课外活动；他的话既非不实，信息量也谈不上失调。方式准则要求清晰、简洁、有条理，这正是洗手步骤被打乱顺序时听起来古怪的原因，它还涵盖选词、歧义、语速与音量。方式准则存在文化差异，而 Grice 本人也认为四条准则之外可能还有更多准则。礼貌便是候选之一：Pfister 提议的礼貌准则要求不强加于受话人，并对受话人的愿望与行为表示认可。"
+    }
+   ]
+  }
+ }
+}

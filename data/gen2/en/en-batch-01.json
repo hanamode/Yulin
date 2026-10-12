@@ -1,0 +1,281 @@
+{
+ "batch": 1,
+ "entries": {
+  "historical-linguistics": {
+   "summaryEn": "Historical linguistics studies how languages change over time and why, using the comparative method to reconstruct ancestral languages and explaining mechanisms such as sound change, analogy, borrowing and grammaticalization. It is a foundational branch for understanding genealogical relationships among languages and the evolution of writing systems and vocabulary, and its central methods and concepts also inform typology, dialectology and research on language contact.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope",
+     "pEn": [
+      "Historical linguistics is the study of how language changes over time. It examines changes in phonology, morphology, syntax, lexicon and semantics across different historical periods, and seeks to explain the causes and regularities of change. Unlike synchronic linguistics, which treats the language of a given period as a static system, historical linguistics views language as a process in constant flux. Nineteenth-century historical-comparative linguistics was its forerunner and the starting point from which modern linguistics emerged as an independent science.",
+      "Its scope includes the genealogical classification and kinship of languages, the reconstruction of proto-languages, the regularities of sound change, analogy and reanalysis, borrowing and language contact, grammaticalization and lexical diffusion. Documented languages such as Latin, Sanskrit, Ancient Greek and Chinese provide direct evidence; for languages without written records, researchers infer their history by comparing modern dialects and related languages."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "A sound law refers to a regular phonological change that occurred in a language at a particular period. Grimm's Law shows that Proto-Indo-European *p, *t and *k became f, θ and x respectively in Germanic: comparing Latin pater with English father, and Latin piscis with English fish, reveals the systematic correspondence *p → f. The Neogrammarians went on to propose the hypothesis that 'sound laws admit no exceptions', stressing regularity.",
+      "Cognates are words in different languages that descend from the same ancestral word form, such as English mother, Latin māter, Greek mḗtēr and Sanskrit mātár-, from which Proto-Indo-European *mā́tēr can be reconstructed. The comparative method confirms kinship precisely by seeking systematic sound correspondences. Conversely, mere accidental resemblance (such as English day and Latin diēs) is insufficient evidence.",
+      "Analogy and reanalysis are internal mechanisms of restructuring; grammaticalization refers to the gradual bleaching of content words into grammatical elements. In Chinese, the grammaticalization of 把 from a verb meaning 'to hold, to take' into a disposal preposition, and of 了 from a verb meaning 'to complete' into an aspect marker, are both classic examples."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "The comparative method is the core procedure, and its steps are: identify cognates, establish sound correspondences, exclude interference from borrowing, reconstruct the proto-language forms, and test the plausibility of the reconstruction. There is also internal reconstruction, which infers earlier forms from morphological alternations within a single language alone, as when the alternation tooth / teeth, foot / feet in English suggests that the vowel was once changed under the influence of a plural ending.",
+      "Textual philology and dialect geography are equally important. Research on the history of Chinese combines rhyme dictionaries (such as 切韵), phono-semantic compound characters, rhyming materials and modern dialects to reconstruct Middle Chinese and Old Chinese. Sociolinguistics, for its part, observes changes in progress through real-time and apparent-time designs, thereby compensating for the limitations of documentary materials."
+     ]
+    },
+    {
+     "hEn": "Historical Development and Schools",
+     "pEn": [
+      "In the nineteenth century Rask, Grimm and Bopp laid the foundations of historical-comparative linguistics; Schleicher proposed the family-tree model, and the Neogrammarians emphasized the regularity and psychological basis of sound change. In the early twentieth century Saussure distinguished synchronic from diachronic study, while Bloomfield and Hockett brought structuralist methods into historical linguistics, making reconstruction more rigorous.",
+      "Since the late twentieth century, Labovian sociolinguistics, grammaticalization theory, language contact and lexical diffusion theory have substantially enriched the field; the focus of research has shifted from mere proto-language reconstruction to the explanation of the mechanisms and motivations of change, and has entered into wide-ranging interaction with typology and psycholinguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "comparative method", "dEn": "Method of reconstructing a common ancestral language and establishing genealogical relations by comparing cognates and systematic sound correspondences across languages."},
+    {"tEn": "sound law", "dEn": "A regular phonological change affecting a class of sounds in a language at a given period, such as Grimm's Law."},
+    {"tEn": "cognate", "dEn": "Words in different languages descended from the same ancestral form, such as English father and Latin pater."},
+    {"tEn": "grammaticalization", "dEn": "The historical process by which a content word loses lexical meaning and becomes a grammatical marker, e.g. Chinese 把."},
+    {"tEn": "reconstruction", "dEn": "Inferring unattested language forms from comparative and internal evidence; the resulting forms are usually marked with an asterisk."},
+    {"tEn": "family tree", "dEn": "A tree-diagram model representing the gradual divergence of languages from a common ancestor, proposed by Schleicher."}
+   ]
+  },
+  "syntax": {
+   "summaryEn": "Syntax is the study of how words combine into phrases and sentences, focusing on syntactic constituents, hierarchical structure and grammatical relations, and explaining phenomena such as word order, agreement, case and movement. It is the core domain of generative grammar, which has produced phrase structure rules, X-bar theory and the Minimalist Program, and it is closely linked to semantics and morphology.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Object of Study",
+     "pEn": [
+      "Syntax studies the rules by which words combine into phrases and sentences in a language. Its central observation is that syntactic structure is hierarchical rather than a simple linear sequence. The Chinese expression 咬死了猎人的狗 is ambiguous: on one reading it is 咬死了／猎人的狗, meaning that the dog was bitten to death; on the other it is 咬死了猎人／的狗, meaning that the hunter was bitten to death. Such ambiguity can only be captured in terms of hierarchical structure.",
+      "Syntax is concerned with word-order types (SVO, SOV, VSO and so on), grammatical relations (subject, object), agreement and case, as well as phenomena such as movement, ellipsis and recursion. The basic word order of Chinese is SVO, as in 我读书; Japanese is SOV, as in 私は本を読む ('I read a book'); Arabic, by contrast, commonly shows VSO order."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "The basic units of syntactic analysis are syntactic constituents and structural units such as words, phrases, clauses and sentences. Immediate constituent analysis and phrase structure grammar divide a sentence into successively nested phrases and represent them with a syntactic tree. The dominance relations among the nodes of the tree diagram capture the dependencies among heads, complements and modifiers.",
+      "Grammatical relations include subject, predicate and object, while semantic roles include agent, patient and instrument; the two must not be conflated. The distinction between deep structure and surface structure (deep structure / surface structure) serves to explain cases in which similar forms differ in meaning, or similar meanings differ in form, such as the transformational relation between active and passive sentences."
+     ]
+    },
+    {
+     "hEn": "Major Theories",
+     "pEn": [
+      "Modern syntax begins with Chomsky's Syntactic Structures of 1957, in which he proposed phrase structure rules and transformational rules and argued that a grammar should generate all and only the grammatical sentences. The 1965 Aspects of the Theory of Syntax established the standard theory and explicitly distinguished deep structure from surface structure. Through subsequent stages such as government and binding theory and the Minimalist Program, syntactic theory has moved steadily towards greater simplicity and abstraction.",
+      "By contrast, functionalist syntax (such as Halliday's systemic functional grammar and discourse-functional grammar) holds that syntax is constrained by communicative function and information structure; construction grammar regards form-meaning pairings (constructions) as the basic units of language; and Head-driven Phrase Structure Grammar (HPSG) and Lexical-Functional Grammar (LFG) represent non-transformational formal approaches."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Syntax relies mainly on grammaticality judgements, determining structure through minimal contrasts and question tests. Constituency can be tested, for example, by questioning, adverb insertion and pronominalization: in 他是昨天来的, 昨天 can be moved and can be questioned, showing that it is an independent constituent.",
+      "Corpus and experimental methods have become increasingly important in recent years. Eye-tracking and self-paced reading can probe the processing difficulty of garden-path sentences (such as the English The horse raced past the barn fell), while reaction-time and ERP data provide evidence concerning the psychological reality of syntactic theories."
+     ]
+    },
+    {
+     "hEn": "Relations to Other Branches",
+     "pEn": [
+      "Syntax and morphology together constitute grammar, and the interface questions between them (the boundary between words and phrases, the interaction of inflection and syntax) have long attracted attention. Syntax also provides semantics with a framework for compositional structure: semantic interpretation generally proceeds bottom-up along syntactic structure, as when the scope of the negator 不 depends on its syntactic position.",
+      "In linguistic typology, basic word order correlates strongly with a series of word-order correlates (such as the relative order of prepositions and postpositions, and of adjectives and nouns); in computational linguistics, parsers are a foundational component of machine translation, information extraction and question-answering systems."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "syntactic constituent", "dEn": "A structural unit within a sentence, such as subject, predicate or object, identifiable by substitution and movement tests."},
+    {"tEn": "phrase structure rule", "dEn": "A rewrite rule describing how a phrase is composed of smaller units, e.g. NP→Det N, central to generative grammar."},
+    {"tEn": "syntactic tree", "dEn": "A tree diagram showing a sentence's hierarchical structure, with nodes for phrases and branches linking constituents."},
+    {"tEn": "deep structure", "dEn": "In transformational grammar, the abstract level representing a sentence's basic semantic relations, mapped onto surface structure by transformations."},
+    {"tEn": "recursion", "dEn": "The property whereby a rule may apply to its own output, allowing infinitely long sentences such as 我知道你知道他知道……"},
+    {"tEn": "grammaticality", "dEn": "Native speakers' intuitive judgement of whether a sentence is well formed, the most basic evidence in syntactic research."}
+   ]
+  },
+  "morphology": {
+   "summaryEn": "Morphology is the study of the internal structure of words and the rules of word formation, focusing on morphemes, roots and affixes and how they combine, and explaining morphological processes such as inflection, derivation and compounding. It links phonology and syntax, provides an important basis for typological classification, and is widely applied in psycholinguistics and computational linguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Units of Study",
+     "pEn": [
+      "Morphology studies the internal structure of words and the regularities of word formation; its basic unit is the morpheme, the smallest pairing of sound and meaning. Morphemes may be free or bound, and may be divided into roots and affixes. English unhappiness, for example, consists of the prefix un-, the root happy and the nominalizing suffix -ness, comprising three morphemes.",
+      "Morphology studies how morphemes combine into words and how words change in form according to the grammatical environment. Together with syntax it constitutes the two major divisions of grammatical study, and the boundary between words and phrases, together with the interface between morphology and syntax, has long been one of the focal points of theoretical debate."
+     ]
+    },
+    {
+     "hEn": "Content and Classification",
+     "pEn": [
+      "Morphological processes consist mainly of inflection and derivation. Inflection does not change the word class but expresses grammatical categories, as when English write→writes and walk→walked mark person, number and tense; derivation changes the meaning or the word class and forms new words, as in kind→kindness. There is also compounding, as when the Chinese 火车 and 黑板 are formed by directly combining two roots.",
+      "According to the proportions of morphemes and words in a language, languages may be classified as isolating, agglutinating, inflecting or polysynthetic. Chinese is a typical isolating language, with few changes in word form and grammatical relations carried largely by word order and function words; Turkish is agglutinating, a single word being able to take several affixes in succession; Arabic is inflecting, its roots consisting of consonantal skeletons, such as k-t-b meaning 'write', from which forms such as kataba ('he wrote') and kitāb ('book') are derived.",
+      "Morphophonology studies the phenomenon whereby allomorphs of a morpheme are conditioned by phonological context, that is, the same morpheme appearing in different forms in different phonetic environments. The English plural suffix -s, for example, is pronounced /s/, /z/ or /ɪz/ according to the voicing of the final sound of the stem; and Chinese 一 is read with a rising tone before a falling tone (as in 一个) and with a falling tone before the remaining tones, likewise a typical case of morpheme form being adjusted by phonological conditions."
+     ]
+    },
+    {
+     "hEn": "Major Theories",
+     "pEn": [
+      "In the structuralist period, Bloomfield established in Language the method of analysing morphemes by immediate constituents, and Harris further proposed morphophonemics. Early generative grammar absorbed morphology into syntax and phonology; in 1970 Aronoff's Word Formation in Generative Grammar argued that the lexicon should contain independent word-formation rules, and morphology thereby gained independent status.",
+      "Subsequently, approaches such as lexical phonology, Distributed Morphology and construction morphology emerged. Distributed Morphology holds that syntactic operations pervade word formation and that morphemes are merely the phonological realization of syntactic terminal nodes; construction morphology, by contrast, treats word formation as form-meaning pairings and emphasizes the storage of usage and the role of analogy."
+     ]
+    },
+    {
+     "hEn": "Characteristics of Chinese Morphology",
+     "pEn": [
+      "Chinese lacks inflection in the strict sense, but it is by no means devoid of morphological devices. Reduplication is an important means of word formation and inflection, as in 看看, 红红 and 商量商量, which may express brevity, an attemptive sense or intensification; affixation, such as the prefixes and suffixes in 老师, 第一 and 同学们, likewise carries certain grammatical functions. Chinese has an enormous number of compounds, and their formation is highly parallel to phrase structure.",
+      "In Chinese the boundary between word and phrase is relatively blurred, as with 羊肉 and 羊的肉, or 打架 and 打了一架, which form a continuum with respect to expandability, separability and semantic specialization. Deciding whether a combination is a word or a phrase usually requires jointly considering several criteria, such as whether other elements can be inserted, whether the whole can be moved, and whether the meaning is specialized; this continuum is precisely an important object of research on the morphology-syntax interface."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "morpheme", "dEn": "The smallest pairing of sound and meaning, not further divisible into smaller meaningful units, as in English un-, happy, -ness."},
+    {"tEn": "root", "dEn": "The morpheme carrying a word's main lexical meaning, able to stand alone or combine with affixes, as Chinese 水."},
+    {"tEn": "affix", "dEn": "A bound morpheme attached to a root or stem, adding grammatical or lexical meaning; prefixes, infixes and suffixes."},
+    {"tEn": "inflection", "dEn": "A morphological process marking grammatical categories such as person, number, case or tense without changing the word's meaning or class."},
+    {"tEn": "derivation", "dEn": "A morphological process forming new words by adding affixes, usually changing the meaning or word class, as in read→readable."},
+    {"tEn": "compounding", "dEn": "The formation of new words by combining two or more roots, as in Chinese 图书馆 and English blackboard."}
+   ]
+  },
+  "psycholinguistics": {
+   "summaryEn": "Psycholinguistics investigates the psychological mechanisms and cognitive processes underlying human language comprehension and production, asking how linguistic knowledge is represented and processed in real time and how children acquire language. It combines linguistics, cognitive psychology and experimental methods, using reaction times, eye movements and brain responses to reveal the regularities and constraints of language processing.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Disciplinary Status",
+     "pEn": [
+      "Psycholinguistics studies the mental processes by which people comprehend, produce and acquire language, seeking to answer three basic questions: in what form linguistic knowledge is stored in the mind, how a listener converts sound or text into meaning within milliseconds, and how a speaker converts intentions into utterances. It lies at the intersection of linguistics and cognitive psychology, testing the psychological reality of linguistic theories and providing evidence for cognitive science.",
+      "The seminar convened by the U.S. Social Science Research Council in 1951 is generally regarded as the official birth of psycholinguistics. Early research was dominated by behaviourist learning theory; Chomsky's Syntactic Structures of 1957 and his 1959 critique of Skinner's Verbal Behavior pushed the field towards a cognitive orientation centred on internal linguistic competence."
+     ]
+    },
+    {
+     "hEn": "Research Content",
+     "pEn": [
+      "Research on language comprehension examines the whole process from speech perception to semantic and syntactic integration. At the phonological level it concerns categorical perception, as when listeners assign a continuously varying acoustic signal to one of two discrete categories, /p/ or /b/; at the lexical level it concerns how words are recognized and activated; at the sentence level it concerns how syntactic structure and semantic information are integrated in real time; and at the discourse level it concerns anaphor resolution and the construction of inferences.",
+      "Research on language production can be divided into stages such as conceptual preparation, lexical selection, phonological encoding and articulatory execution; speakers' slips of the tongue offer a window onto these stages, as when a reading list is uttered as a leading list, showing that segments are anticipated or exchanged within a word. Research on language acquisition concerns the order in which children develop phonology, vocabulary and syntax, and the role of the critical period, input frequency and statistical learning."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts and Classic Effects",
+     "pEn": [
+      "The mental lexicon is the network of lexical knowledge stored in an individual's mind, including a word's phonology, spelling, syntactic category and semantic information. The semantic priming effect shows that presenting 医生 beforehand speeds up judgements about 护士, indicating spreading activation among related entries. Garden-path sentences, in turn, reveal the immediacy and reanalysis of syntactic parsing, as in the English The horse raced past the barn fell, where only at fell is the listener forced to reanalyse the structure.",
+      "Chinese likewise offers numerous ambiguities: 咬死了猎人的狗, for example, can be understood either as '(some animal) bit to death the hunter's dog' or as 'bit to death (that) hunter's dog', and readers' initial parsing preferences are closely tied to prosodic cues. In addition, frequency effects, lexicality effects and ERP components such as N400 and P600 are all classic measures in psycholinguistics."
+     ]
+    },
+    {
+     "hEn": "Research Methods",
+     "pEn": [
+      "Behavioural methods include the lexical decision task, naming tasks, self-paced reading, eye-tracking and priming paradigms, inferring processing difficulty from reaction times and fixation durations. In a lexical decision task, for example, judgements about the high-frequency word 的 are usually faster than for low-frequency words, reflecting the influence of word frequency on retrieval speed.",
+      "Electrophysiological and neuroimaging methods include event-related potentials (ERP), magnetoencephalography (MEG) and functional magnetic resonance imaging (fMRI), which provide millisecond-level or spatially localized information; computational modelling, meanwhile, attempts to simulate language processing with connectionist networks or probabilistic models. Researchers often combine several methods in order to avoid the limitations of a single measure."
+     ]
+    },
+    {
+     "hEn": "Theoretical Debates",
+     "pEn": [
+      "The first debate concerns the source of linguistic ability: nativism emphasizes universal grammar and an innate language faculty, whereas empiricist and statistical-learning approaches emphasize the role of input distributions, frequency and social interaction. The second debate concerns processing architecture: modularists hold that syntactic processing is relatively independent and unaffected by context, while interactionists hold that lexical, semantic and contextual information can participate immediately in syntactic decisions.",
+      "A third debate concerns linguistic relativity, that is, whether language structure influences non-linguistic thought and perception, for instance whether colour terms and spatial expressions alter cognitive performance. These debates have driven a continuing dialogue between psycholinguistics and linguistic theory, neuroscience and artificial intelligence."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "mental lexicon", "dEn": "The network of lexical knowledge stored in an individual's mind, including phonology, spelling, syntactic category and meaning."},
+    {"tEn": "priming effect", "dEn": "The phenomenon whereby a preceding stimulus speeds up or inhibits processing of a related subsequent stimulus, as 医生 facilitates 护士."},
+    {"tEn": "garden-path sentence", "dEn": "A structurally ambiguous sentence initially parsed on one analysis and then requiring reanalysis at a later word."},
+    {"tEn": "critical period", "dEn": "The hypothesized time window in which language acquisition proceeds most readily, with efficiency declining markedly thereafter."},
+    {"tEn": "categorical perception", "dEn": "The perceptual phenomenon whereby listeners assign continuously varying acoustic signals to discrete phonemic categories such as /p/ and /b/."},
+    {"tEn": "modularity", "dEn": "The theoretical claim that language processing is carried out by relatively independent, informationally encapsulated cognitive modules."}
+   ]
+  },
+  "sociolinguistics": {
+   "summaryEn": "Sociolinguistics studies the interrelations between language and social structure and social factors, examining how linguistic variation correlates with social class, gender, age, ethnicity and communicative setting, and how language functions in identity construction, language contact and language planning. The quantitative variationist research of Labov and others established the discipline's empirical paradigm, and the field ranges from micro-level variation in speech to macro-level language policy.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope",
+     "pEn": [
+      "Sociolinguistics studies the interrelations between language and society, examining on the one hand how social factors influence linguistic form and use, and on the other how language participates in the construction of social identity, power relations and group membership. It is concerned both with macrolevel language policy, language contact and bilingualism, and with microlevel phonological variation, terms of address and conversational strategies.",
+      "Sociolinguistics is usually divided into two branches: variationist sociolinguistics, represented by Labov, which uses quantitative methods to study the social distribution of linguistic variables; and interactional sociolinguistics, or the sociology of language, represented by Hymes and Gumperz, which focuses on the ethnography of communication and on social meaning in conversation. Chinese scholarship has additionally developed a systematic research tradition on dialects, script reform and language planning."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts",
+     "pEn": [
+      "A linguistic variable is an alternating form of the same linguistic item occurring under different conditions: the English ending -ing, for example, may be pronounced [ɪŋ] or [ɪn], and the presence or absence of erhua in Beijing Chinese likewise constitutes variants of a variable. A sociolect is a language variety shaped by factors such as social class, occupation and educational level; a regional dialect, by contrast, is associated with geographical distribution.",
+      "A speech community is a group sharing a set of linguistic norms and evaluative standards, whose members broadly agree on what counts as 'standard' or 'educated' usage. Register refers to stylistic differences determined by communicative setting and topic, as when colloquial Chinese says 聊天 while formal written Chinese says 交谈. Together these concepts form the toolbox for analysing the relationship between language and society."
+     ]
+    },
+    {
+     "hEn": "Classic Studies and Methods",
+     "pEn": [
+      "In 1966 Labov investigated the pronunciation of final r in three New York department stores of different status and found that the higher the store and the more formal the setting, the higher the rate of [r]; the same speaker also increased [r] use when emphasizing, revealing social evaluation mechanisms of 'hypercorrection' and 'self-correction'. His Martha's Vineyard study, in turn, linked a change involving vowel centralization to local fishermen's identity.",
+      "Common sociolinguistic methods include sampling surveys, recorded interviews, questionnaire scales and corpus statistics. Investigators often use a 'style staircase' design, having the same speaker read a word list, a passage and free conversation in order to compare performance under different degrees of attention. The matched-guise test, in turn, has subjects listen to the same person speaking in different varieties in order to measure social evaluations of those varieties."
+     ]
+    },
+    {
+     "hEn": "Language Contact and Social Applications",
+     "pEn": [
+      "Code-switching refers to a speaker's alternating use of two or more languages within the same conversation, as in 我明天有个 meeting，要 present 一个 proposal. It is not a sign of inadequate linguistic competence but often serves communicative functions such as marking a topic shift, signalling identity or establishing rapport. Diglossia refers to a stable division of labour between the high and low varieties of the same language in different settings, as with Standard Arabic and local dialects.",
+      "Sociolinguistics also studies the relationship between language and gender, age and ethnicity. Japanese women often use sentence-final particles such as わ and のよ, and the Chinese 嘛 and 呗 also carry a flavour of friendliness, but such differences derive more from social roles and performance than from biological sex. On the applied side, sociolinguistics provides theory and evidence for language policy, dialect protection, the promotion of Putonghua, language education and forensic linguistic investigation."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "The quantitative paradigm in sociolinguistics has been criticized from anthropological and discourse-analytic perspectives, which hold that statistical correlations obscure the dynamic, locally constructed processes through which social meaning is produced in talk. The variationist school responds that only comparable corpus distributions can reveal the true trajectory of language change.",
+      "Another controversy concerns value judgements about language varieties. Labov insisted that linguistic variation is not 'error' but a regular social phenomenon, and opposed treating non-standard varieties as linguistic deficits; this position has profoundly influenced language education and language policy, but it has also prompted continuing discussion of the relationship between language norms, intelligibility and social mobility."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "linguistic variable", "dEn": "A linguistic form alternating with another under social or stylistic conditions, such as [ɪŋ] and [ɪn] for English -ing."},
+    {"tEn": "sociolect", "dEn": "A language variety shaped by social class, occupation, educational level and similar factors, as opposed to a regional dialect."},
+    {"tEn": "speech community", "dEn": "A social group sharing the same linguistic norms and evaluative standards and holding similar attitudes to variants."},
+    {"tEn": "code-switching", "dEn": "The alternation between two or more language varieties within a single conversation, often serving topic and identity functions."},
+    {"tEn": "diglossia", "dEn": "A stable arrangement in which the high and low varieties of one language are used in different communicative settings."},
+    {"tEn": "register", "dEn": "A stylistic variety determined by communicative setting, topic and participant relations, such as formal versus casual style."}
+   ]
+  },
+  "neurolinguistics": {
+   "summaryEn": "Neurolinguistics studies the relationship between language ability and the brain's neural mechanisms, examining how phonology, vocabulary and syntax are represented and processed in the brain. It combines clinical observation of aphasia, electrophysiological recording and functional brain imaging to test the roles of areas such as Broca's area and Wernicke's area in language processing, and interacts closely with psycholinguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Brief History",
+     "pEn": [
+      "Neurolinguistics studies the neural basis of linguistic activity, focusing on the localization, time course and network organization of language in the brain. It relies mainly on three kinds of evidence: language impairments in brain-damaged patients, electrophysiological and neuroimaging data from normal participants, and direct observation provided by awake surgery or intracranial electrode recording.",
+      "In 1861 the French physician Broca reported the aphasic patient Leborgne, whose damage to the posterior part of the left inferior frontal gyrus left him able to produce almost only the single syllable 'tan', thereby establishing the relation between the left frontal lobe and speech production; in 1874 the German physician Wernicke described comprehension deficits caused by damage to the posterior part of the left superior temporal gyrus. After the mid-twentieth century, split-brain research by Sperry and others confirmed the lateralization of brain function, and from the 1970s ERP, PET and fMRI were successively applied to the study of language."
+     ]
+    },
+    {
+     "hEn": "Brain Language Areas and Lateralization",
+     "pEn": [
+      "The classical model localized language functions mainly in two regions of the left hemisphere: Broca's area (posterior left inferior frontal gyrus), responsible for speech production and syntactic processing, and Wernicke's area (posterior left superior temporal gyrus), responsible for phonological and semantic comprehension, the two being connected by the arcuate fasciculus. Modern research, however, holds that language depends on a distributed, bilateral network in which the left inferior frontal gyrus, superior temporal gyrus, middle temporal gyrus and inferior parietal lobule all participate.",
+      "The lateralization of language functions takes the form of left-hemisphere dominance in most right-handed people, at a rate of about ninety-five per cent. Dichotic listening experiments find that the right ear (whose contralateral hemisphere is the left) has an advantage for speech materials. Notably, the processing of ideographic scripts such as Chinese characters involves, in addition to the classical language areas, more of the occipitotemporal cortex for visuospatial analysis and the left middle frontal gyrus, suggesting that writing systems influence the distribution of neural activity."
+     ]
+    },
+    {
+     "hEn": "Main Research Methods",
+     "pEn": [
+      "Among electrophysiological methods, event-related potentials (ERP) offer millisecond temporal resolution. Semantic violations commonly elicit a negative wave around 400 milliseconds, N400, and syntactic violations commonly elicit a positive wave around 600 milliseconds, P600; the two provide important indices for distinguishing semantic from syntactic processing. Magnetoencephalography (MEG) offers advantages in both temporal and spatial precision.",
+      "Functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) localize activated regions through changes in blood flow or metabolism, offering relatively high spatial resolution but limited temporal resolution. In addition, transcranial magnetic stimulation (TMS) and electrocorticography (ECoG) can be used for causal testing, while aphasia batteries such as the Boston Diagnostic Aphasia Examination are important tools for clinical assessment."
+     ]
+    },
+    {
+     "hEn": "Aphasia and Clinical Evidence",
+     "pEn": [
+      "Aphasia is an impairment of language ability caused by brain damage and can be divided into several types. Broca's aphasia presents as effortful speech and agrammatism, the patient saying 医生……来……昨天 while omitting function words and endings; Wernicke's aphasia presents as fluent but semantically empty speech with severely impaired comprehension; conduction aphasia is characterized prominently by difficulty in repetition.",
+      "Research on aphasia in Chinese shows that patients' agrammatism differs from that in English with respect to word order and function words, suggesting that grammatical impairment is dependent on language type. In addition, selective impairments such as alexia, agraphia, pure word deafness and anomic aphasia provide evidence for the relative independence of the components within the language system."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "The classical localization model has been challenged by network accounts and research on plasticity: the function of the same brain region may be reorganized after damage, and activation patterns for language tasks also vary with proficiency, strategy and language experience. Attributing complex language functions simply to a single 'language centre' is therefore regarded as too crude.",
+      "Another controversy concerns the ecological validity of experimental tasks. Most imaging studies use isolated words or single-sentence judgement tasks, which may differ from brain activity during natural conversation; at the same time, correlational evidence from neuroimaging cannot directly establish causation and needs to be verified in conjunction with TMS, intracranial recording and patient studies."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Broca's area", "dEn": "The region in the posterior left inferior frontal gyrus tied to speech production and syntactic processing; damage causes expressive aphasia."},
+    {"tEn": "Wernicke's area", "dEn": "The region in the posterior left superior temporal gyrus related to phonological and semantic comprehension; damage causes receptive aphasia."},
+    {"tEn": "aphasia", "dEn": "An acquired impairment of language ability caused by brain damage, affecting expression, comprehension, repetition or naming."},
+    {"tEn": "event-related potential", "dEn": "A brain electrical response time-locked to a specific cognitive event; N400 and P600 reflect semantic and syntactic processing respectively."},
+    {"tEn": "lateralization", "dEn": "The uneven distribution of language functions between the two hemispheres, with left-hemisphere dominance in most people."},
+    {"tEn": "dichotic listening", "dEn": "An experimental paradigm presenting different sounds simultaneously to the two ears to probe hemispheric dominance; a right-ear speech advantage."}
+   ]
+  }
+ }
+}

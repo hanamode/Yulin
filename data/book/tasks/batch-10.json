@@ -1,0 +1,25 @@
+{
+ "batch": 10,
+ "chapter": "Chapter 2: Language, Power, and Privilege",
+ "out": "data/book/gen/batch-10.json",
+ "sections": [
+  {
+   "id": "part-002-chapter-2-language-power-privilege",
+   "title": "Chapter 2: Language, Power, and Privilege",
+   "src": "data/book/src/part-002-chapter-2-language-power-privilege.txt",
+   "chars": 578
+  },
+  {
+   "id": "chapter-010-slug-2-1-language-and-identity",
+   "title": "2.1 Language and identity",
+   "src": "data/book/src/chapter-010-slug-2-1-language-and-identity.txt",
+   "chars": 6624
+  },
+  {
+   "id": "chapter-011-slug-2-2-language-and-offense",
+   "title": "2.2 Language and offence",
+   "src": "data/book/src/chapter-011-slug-2-2-language-and-offense.txt",
+   "chars": 9416
+  }
+ ]
+}

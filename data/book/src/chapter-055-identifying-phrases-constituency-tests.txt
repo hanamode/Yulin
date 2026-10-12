@@ -1,0 +1,193 @@
+# 6.4 Identifying phrases: Constituency tests
+
+Video Part 1:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1483#oembed-1
+Video Part 2:
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1483#oembed-2
+By identifying certain parts of sentences as phrases, we are making a claim that language users represent them as units in their mental grammar. The technical term for units inside a sentence is constituent: a constituent is any group of words that acts together within a sentence.
+Along with headedness, constituency is one of the central concepts in syntax. Both of these are highlighted when we represent the structure of language using tree diagrams, as we’ll see beginning in Section 6.13, but they’re fundamental to understanding the organization of sentences with or without trees.
+When we analyze a new sentence, how do we identify the phrases inside of it? We want to find evidence that certain groups of words actually do act together as units. To find that evidence, we use grammaticality judgements, and a few simple tests.
+The tests that identify constituents (often called constituency tests) that we’ll review in this chapter come in four basic types:
+- Replacement tests
+- Movement tests
+- It-clefts
+- Answers to questions
+
+Many textbooks also introduce a coordination test, but it is not always reliable, so we’ll discuss it briefly at the end of this section but won’t rely on it.
+
+## REPLACEMENT TESTS
+
+Here are two sentences to start with.
+
+[表格]
+| | | (1) | | | | The students saw a movie after class. | | |
+
+[表格]
+| | | (2) | | | | The students saw a movie about dinosaurs. | | |
+
+Let’s consider the string of words a movie. Based on discussion so far in this chapter, you might have the idea that this is a noun phrase—or at least that it could be a noun phrase. But whether or not you have that idea, we need evidence to decide one way or the other.
+One piece of evidence that something is a noun phrase is that you can replace it with a pronoun, and get a sentence with the same meaning (in a context where the meaning of the pronoun is made clear). In (3) we take the pronoun it and replace the string of words we’re interested in, then ask if the new sentence is grammatical and whether it has the same meaning.
+
+[表格]
+| | | (3) | | | | The students saw | a movie | after class. | | → | | The students saw | it | after class. | | |
+
+Replacing a movie with it in (3) does give us a new grammatical sentence that can mean the same thing as (1), so we have evidence not only that a movie is a constituent in (1), but also that that constituent is a noun phrase.
+What about a movie in (2)? Let’s run the same test there:
+
+[表格]
+| | | (4) | | | | The students saw | a movie | about dinosaurs. | | → | | *The students saw | it | about dinosaurs. | | |
+
+This time the result of replacing a movie with it is an ungrammatical sentence, so in (2) a movie is not a complete noun phrase. We might be surprised about this—we expect a noun like movie to be inside a noun phrase—but if we test other possible constituents we see that it’s not that there’s no noun phrase here, it’s just that the noun phrase is a bit bigger. As shown in (5), it turns out that we can replace a movie about dinosaurs with it and get a grammatical sentence.
+
+[表格]
+| | | (5) | | | | The students saw | a movie about dinosaurs | . | | → | | The students saw | it | . | | |
+
+Based on comparing the results of our replacement tests in (4) and (5), we can conclude that in (2) a movie is not a complete noun phrase, but a movie about dinosaurs is both a constituent and a noun phrase.
+We can do the same pronoun replacement test with the string the students in (1). Because students is plural, the relevant pronoun is they:
+
+[表格]
+| | | (6) | | | | | The students | saw a movie after class. | | → | | | They | saw a movie after class. | | |
+
+The result of this replacement is grammatical, so we conclude that the students is also a constituent, and also a noun phrase.
+Replacement tests don’t have to involve pronouns. Verb phrases can be replaced with do (or do too), but seeing this usually requires setting up two sentences with different subjects or with a contrast in time like yesterday vs. today. Since we have just seen that the students in (1) is a noun phrase subject (because it comes at the beginning of a simple declarative sentence, before the verb), let’s set up a replacement test for verb phrase with a preceding sentence with a different subject:
+
+[表格]
+| | | (7) | | a. | | The teachers | saw a movie after class | , and… | | → | | The students | did too | . | | | | | | b. | | The teachers | saw a movie | after class, and… | | → | | *The students | did too | before class. | | |
+
+What we see in (7) is that did too can replace saw a movie after class, but can’t replace saw a movie alone. This tells us that saw a movie after class is a constituent, and it’s a verb phrase (because do (too) replaces verb phrases).
+What about the string after class? This string expresses a time, and we can replace it with the word then:
+
+[表格]
+| | | (8) | | | | The students saw a movie | after class | . | | → | | The students saw a movie | then | . | | |
+
+This shows that after class is a constituent; in fact, it’s a prepositional phrase. Not all prepositional phrases can be replaced by then, however—about dinosaurs is also a prepositional phrase, but can’t be replaced by then.
+
+[表格]
+| | | (8) | | | | The students saw a movie | about dinosaurs | . | | → | | *The students saw a movie | then | . | | |
+
+Here the result of doing replacement would be grammatical in other contexts, but it isn’t another way to say that the students saw a movie about dinosaurs—this is why it’s marked ungrammatical here, it’s ungrammatical on the intended meaning. You have to pay attention to both grammaticality and meaning when you do replacement tests.
+At this point, you’re probably wondering how you know what you can use as a replacement when running these tests. Here are some handy tips that will work for most English speakers:
+- Noun Phrases can be replaced with pronouns (it, them, they).
+- Verb Phrases can be replaced with do or do too (or did, does, doing).
+- Some Prepositional Phrases (but not all) can be replaced with then or there.
+- Adjective Phrases can be replaced with something that you know to be an adjective, such as happy (though in this case the meaning will change)
+
+Because replacement is category-specific, you can use the evidence of replacement tests both to identify constituents and to figure out the constituent’s category: If you can replace it with a pronoun, then you’ve got a noun phrase and you can look for the noun that’s the head. If you can replace it with do (too), then you’ve got a verb phrase which will have a verb as its head.
+
+## MOVEMENT TESTS
+
+Replacement is not the only tool we have for checking if a set of words is a constituent. Some constituents can be moved to somewhere else in the sentence without changing the sentence’s meaning or its grammaticality. Prepositional phrases are especially good at being moved. Consider this sentence:
+
+[表格]
+| | | (9) | | | | Nimra bought a scarf at that strange little shop. | | |
+
+Let’s start by targeting the last string of words by moving it to the beginning. Move the string of words then ask yourself whether the resulting sentence is grammatical.
+
+[表格]
+| | | (10) | | | | Nimra bought a scarf | at that strange little shop | . | | → | | | At that strange little shop | Nimra bought a scarf. | | |
+
+It is! In isolation the sentence might sound a little unnatural, but we can imagine a context where it would be fine, such as, “At the department store she bought socks, at the pharmacy she bought some toothpaste, and at that strange little shop, she bought a scarf.”
+On the other hand, if we target a smaller string of words, as in (11), we get a different result.
+
+[表格]
+| | | (11) | | | | Nimra bought a scarf | at that strange | little shop. | | → | | * | At that strange | Nimra bought a scarf little shop. | | |
+
+The result of moving the string at that strange to the beginning of the sentence is a total disaster. The fact that the resulting sentence is totally ungrammatical gives us evidence that the string of words at that strange is not a constituent in this sentence.
+
+## CLEFT TEST
+
+A cleft construction is one where you take two parts of a sentence and divide them from each other. (A cleft is a split or gap.)
+In English, a cleft is a sentence with the form: It is/was _ that _.
+To use the cleft test, we take the string of words that we’re investigating and put it after the words It was (or it is/it’s), then put the remaining parts of the sentence after the word that. Let’s try this for phrases that we’ve already shown to be constituents with our other tests.
+
+[表格]
+| | | (12) | | | | The students saw a movie after class. | | | | | | → | | It was | a movie | that | the students saw _ after class | . | | | | | | → | | It was | after class | that | the students saw a movie _ | . | | |
+
+[表格]
+| | | (13) | | | | The students saw a movie about dinosaurs. | | | | | | → | | It was | a movie about dinosaurs | that | the students saw _ | . | | |
+
+[表格]
+| | | (14) | | | | Nimra bought a scarf at that strange little shop. | | | | | | → | | It was | at that strange little shop | that | Nimra bought a scarf _ | . | | |
+
+To cleft a verb phrase in English you need put a present or past tense form of do in the position the verb phrase occupied in the original sentence, as shown in (15).
+
+[表格]
+| | | (15) | | | | The students saw a movie after class. | | | | | | → | | (?)It was | see a movie after class | that the students | did | . | | |
+
+Clefting a verb phrase doesn’t always sound totally natural in English, but most people find it better than clefting non-constituents. At the end of this section, go back and compare (15) to the sentences in (16) and (17), and see if you agree that (15) is better.
+By contrast, things that our tests showed were not constituents cannot be put into the first position of a cleft sentence:
+
+[表格]
+| | | (16) | | | | *It was | a movie | that | the students saw _ about dinosaurs | . | | |
+
+[表格]
+| | | (17) | | | | *It was | at the strange | that | Nimra bought a scarf _ little shop. | | | |
+
+Now let’s try the cleft test on a new sentence:
+
+[表格]
+| | | (18) | | | | Rathna’s brother baked these delicious cookies. | | | | | | → | | It was | these delicious cookies | that | Rathna’s brother baked _ | . | | | | | | → | | It was | Rathna’s brother | that | _ baked these delicious cookies | . | | |
+
+The cleft test shows us that the string of words these delicious cookies is a constituent, and that the words Rathna’s brother are a constituent. But look what happens if we apply the cleft test to other strings of words:
+
+[表格]
+| | | (19) | | | | | Rathna’s brother baked | these delicious cookies. | | | | | | → | | *It was | Rathna’s brother baked | that | _ these delicious cookies | . | | |
+
+[表格]
+| | | (20) | | | | Rathna’s brother baked | these delicious | cookies. | | | | | | → | | *It was | these delicious | that | Rathna’s brother baked _ cookies | . | | |
+
+[表格]
+| | | (21) | | | | Rathna’s brother baked these delicious | cookies | . | | | | | | → | | *It was | cookies | that | Rathna’s brother baked these delicious _ | . | | |
+
+All of these applications of the cleft test result in totally ungrammatical sentences. For (19) and (20) this gives us evidence that those underlined strings of words are not constituents in this sentence. In (21), though, what we’re testing is a single word, and single words are always constituents—they always act together as a unit. So what (21) shows is that cookies by itself is not a complete phrase.
+Remember, though, just because a certain string of words isn’t a constituent in one sentence, doesn’t mean it’s not a constituent in any sentence—the result of a constituency test only applies to the specific sentence you’re testing.
+
+## ANSWERS TO QUESTIONS
+
+If a string of words is a constituent, it’s usually grammatical for it to stand alone as the answer to a question based on the sentence. We can see this in the sentences in (22).
+
+[表格]
+| | | (22) | | | | Rathna’s brother baked these delicious cookies. | | | | | | a. | | What did Rathna’s brother bake? | These delicious cookies. | | | | | | | b. | | Who baked these delicious cookies? | Rathna’s brother. | | | |
+
+Answers to questions are also a good context for do-replacement (as a replacement test to identify verb phrases):
+
+[表格]
+| | | (23) | | | | Who baked these delicious cookies? Rathna’s brother | did | . | | |
+
+In the answer, “Rathna’s brother did”, the word did replaces the verb phrase baked these delicious cookies.
+Again, if a string of words is not a constituent, then it is unlikely to be grammatical as the answer to a question. In fact, it’s difficult to even form the right kind of question:
+
+[表格]
+| | | (24) | | a. | | *What did Rathna’s brother bake cookies? *These delicious. | | | | | | b. | | *Who of Rathna’s these delicious cookies? *Brother baked. | | |
+
+## COORDINATION TEST
+
+In linguistics, coordination refers to joining two elements together with a word like and or but (these words are called coordinators). Coordination is also called conjunction; the elements you join together are called conjuncts.
+In most cases, each conjunct is a constituent. For this reason, many textbooks introduce coordination as a constituency test. For example, it’s possible to coordinate a noun phrase like these delicious cookies with a noun like dessert, which helps show that these delicious cookies is a noun phrase. It’s also possible to coordinate a verb plus its object (like baked these delicious cookies) with an intransitive verb (like left), which helps show that baked these delicious cookies is a verb phrase.
+
+[表格]
+| | | (25) | | a. | | Rathna’s brother baked [these delicious cookies] and [dessert]. | | | | | | b. | | Rathna’s brother [baked these delicious cookies] and [left]. | | |
+
+The problem with coordination as a constituency test is that there are a few constructions, both in English and other languages, where the conjuncts are not constituents. In a construction called Right Node Raising, for example, two coordinated sentences or verb phrases seem to share an object that comes after both of them:
+
+[表格]
+| | | (26) | | | | Rathna’s brother baked _, and Rathna herself ate _, these delicious cookies | | |
+
+You might think that because they’re connected with and, [Rathna’s brother baked] and [Rathna herself ate] are constituents, but other constituency tests will show that they’re not—and after all, if the verb plus its object is always a constituent, then these strings can’t be! For this reason, if you use coordination as a constituency test, it’s always a good idea to make sure that at least one other constituency test confirms its results.
+In English, and can coordinate words or phrases of any category, while in other languages coordinators may work differently, for example with certain coordinators being limited to specific categories—for example, a language might have one coordinator for nouns, and another for verb phrases and sentences. But the same thing holds for all constituency tests; if you’re looking at a new language, your first task will be to see if constituency tasks work the same way as they do in English, or if you can adapt tests so that they work in that language.
+
+## SUMMARY
+
+Results of tests like these are how we investigate the structure of the mental grammar that underlies how people use the languages they know. We can’t observe mental grammar directly, so observing how words behave is how we make inferences about how it must work. These four tests are tools that we have for observing how words behave in sentences. If we discover a string of words that passes these tests, then we know that the phrase is a constituent, and that tells us something about the organization of the sentence as a whole.
+Not every constituent will pass every test, but if you’ve found that it passes two of the four tests, then you can be confident that the string is actually a constituent.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1483#h5p-133
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.3 Structure within the sentence: Phrases, heads, and selection and the next section is 6.5 Functional categories.

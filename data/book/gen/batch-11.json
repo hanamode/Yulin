@@ -1,0 +1,311 @@
+{
+ "batch": 11,
+ "sections": {
+  "chapter-012-slug-2-3-derogation-toxicity-and-power-imbalances": {
+   "title": {
+    "en": "2.3 Derogation, toxicity, and power imbalances",
+    "zh": "2.3 贬抑、毒性言语与权力失衡"
+   },
+   "summary": {
+    "en": "Language can express solidarity, but it can also do harm. This section distinguishes offense, which concerns the impact on discourse participants, from derogation, which concerns the utterer's condemning attitude, and shows how particularistic insults differ from slurs in scope. Slurs draw their extraordinary force from power imbalance, which also explains why some can be reclaimed.",
+    "zh": "语言既能表达团结，也会造成伤害。本节区分冒犯与贬抑：前者关乎对会话参与者的影响，后者关乎说话人的谴责态度，并说明个别性侮辱与侮辱语在作用范围上的差别。侮辱语的巨大力量源自权力失衡，这也解释了为何某些侮辱语可以被重新夺回。"
+   },
+   "points": [
+    {
+     "en": "Language can build solidarity, as with Japanese name suffixes, but it can also cause offense to discourse participants.",
+     "zh": "语言既能建立团结，例如日语名字后缀所体现的亲近，也会对会话参与者造成冒犯。"
+    },
+    {
+     "en": "Offense concerns the impact on participants, while derogation concerns the utterer's condemning attitude towards the referent.",
+     "zh": "冒犯关乎对参与者造成的影响，贬抑则关乎说话人对指称对象所持的谴责态度。"
+    },
+    {
+     "en": "Particularistic insults target one person for a specific act, whereas slurs denigrate entire marginalized groups.",
+     "zh": "个别性侮辱针对某人某次具体行为，侮辱语则贬低整个边缘化群体。"
+    },
+    {
+     "en": "The toxicity of slurs rests on power imbalance and invokes historical violence against the targeted group.",
+     "zh": "侮辱语的毒性以权力失衡为基础，并会唤起针对目标群体的历史暴力。"
+    },
+    {
+     "en": "Slurs such as queer and suffragette have been reclaimed, becoming identity markers or mainstream terms.",
+     "zh": "queer 与 suffragette 等侮辱语已被重新夺回，如今成为身份标志或日常主流用语。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "vulgarity",
+     "zh": "粗俗语",
+     "defEn": "An expression involving taboo bodily references, such as shit or ass.",
+     "defZh": "涉及禁忌性身体部位指称的词语或表达，例如 shit、ass 这类粗俗说法。"
+    },
+    {
+     "en": "expletive",
+     "zh": "咒骂语（expletive）",
+     "defEn": "An expression used for an emotional outburst, such as damn.",
+     "defZh": "用于情绪爆发、愤怒或惊讶时脱口而出的词语，例如 damn 这类表达。"
+    },
+    {
+     "en": "derogation",
+     "zh": "贬抑",
+     "defEn": "A kind of harm in which an expression disparages people and condemns the referent.",
+     "defZh": "一种语言伤害，指某些表达贬低他人、对指称对象表示谴责与否定。"
+    },
+    {
+     "en": "slur",
+     "zh": "侮辱语",
+     "defEn": "An insult that denigrates a specific marginalized group rather than one individual.",
+     "defZh": "贬低某一特定边缘化群体、而非针对某个个人的侮辱性表达。"
+    },
+    {
+     "en": "toxicity of slurs",
+     "zh": "侮辱语的毒性",
+     "defEn": "The especially offensive emotional power that slurs carry because of power imbalance.",
+     "defZh": "侮辱语因说话人与目标之间的权力失衡而具有的格外强烈的冒犯性情感力量。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "kuso omoshire:",
+     "noteEn": "A Japanese vulgar expression glossed in the source as roughly 'fuckin' hilarious'.",
+     "noteZh": "日语粗俗表达，原文标注其大意相当于「他妈的太好笑了」。"
+    },
+    {
+     "text": "I hate Mondays",
+     "noteEn": "A coded racial slur used to express bigotry without alerting those targeted.",
+     "noteZh": "用作暗语式种族侮辱，可在目标群体毫无察觉时表达偏执观点。"
+    },
+    {
+     "text": "femoid",
+     "noteEn": "A slur against women that is used in certain online subcultures.",
+     "noteZh": "某些网络亚文化中经常使用的、针对女性的侮辱语。"
+    },
+    {
+     "text": "suffragette",
+     "noteEn": "Coined in 1906 with the diminutive -ette as an insult, later adopted by activists.",
+     "noteZh": "1906 年用表小的 -ette 后缀造出以图侮辱，后被活动家自己采用。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Earlier in this chapter we saw that language can perform actions and build identity, including positive social bonds such as the Japanese name suffixes -san and -chan. But language can also cause harm. Vulgarities such as shit cause offense, a social or psychological harm done to discourse participants. Offense does not depend on intent, and its severity varies with the expression and the context.",
+     "zh": "本章前文已经看到，语言可以实施行动、构建身份，也能建立积极的社会关系，例如日语名字后缀 -san 与 -chan 所体现的亲近程度。但语言同样会造成伤害。像 shit 这样的粗俗语会引发冒犯，而冒犯是对会话参与者造成的社会性或心理性伤害。冒犯并不取决于说话人的意图，其严重程度随表达本身与语境而变化。"
+    },
+    {
+     "en": "Derogation, or pejoration, is a different kind of harm: derogatory expressions disparage people, as jerk and asshole condemn the referent. Offense concerns how participants are affected, while derogation concerns the utterer's attitude, so the two can come apart. An expletive such as shit may be offensive without being derogatory; a coded slur such as Monday is derogatory without causing offense to those who lack the in-group knowledge.",
+     "zh": "贬抑（derogation，又称 pejoration）是另一类伤害：贬抑性表达贬低他人，如 jerk 与 asshole 表达说话人对指称对象的谴责。冒犯关乎参与者受到的影响，贬抑关乎说话人的态度，二者可以分离。shit 这类咒骂语可能具有冒犯性却并不贬抑他人；而 Monday 这类暗语式侮辱语具有贬抑性，却不会让缺乏圈内知识的人感到冒犯。"
+    },
+    {
+     "en": "Particularistic insults or general pejoratives, such as jerk, idiot, and asshole, condemn one person for one specific act. Slurs instead denigrate entire marginalized groups; femoid, for example, targets women. Their force comes from the power differential between user and target and invokes a history of violence against the group. Some research suggests slurs are processed in a different part of the brain (Singer, 1997); this is the toxicity of slurs. Insults aimed at high-status groups lack this power.",
+     "zh": "个别性侮辱（particularistic insults）或称一般性贬抑语，如 jerk、idiot、asshole，是针对某人某次具体行为表达强烈不满。侮辱语（slur）则贬低整个边缘化群体，例如 femoid 针对女性。侮辱语的力量来自使用者与目标之间的权力落差，并会唤起针对该群体的历史暴力；有研究显示侮辱语由大脑中与其他语言不同的部位处理（Singer, 1997），这就是所谓侮辱语的毒性（toxicity）。针对高地位群体的侮辱缺乏这种力量。"
+    },
+    {
+     "en": "Because power imbalance is central, slurs can sometimes be reclaimed. Queer was long a slur against the 2SLGBTQ+ community before activists and academics reclaimed it in the 1990s, and suffragette, coined in 1906 with the diminutive -ette as an insult, was adopted by the activists themselves. Language both encodes and enforces social status, and metalinguistic awareness lets us examine and resist that damage.",
+     "zh": "正因权力失衡是核心，侮辱语有时也可能被重新夺回。queer 长期被用作针对 2SLGBTQ+ 群体的侮辱语，20 世纪 90 年代活动家与学者开始将其重新夺回，如今已成为常用统称；suffragette 由一位英国记者在 1906 年用表小的 -ette 后缀造出以图侮辱，却被活动家自己采用，如今不再被视为侮辱语。语言既编码又实施社会地位关系，元语言意识让我们得以审视并抵抗这种经由语言的伤害。"
+    }
+   ]
+  },
+  "chapter-013-slug-2-4-the-power-of-names": {
+   "title": {
+    "en": "2.4 The power of names",
+    "zh": "2.4 名字的力量"
+   },
+   "summary": {
+    "en": "Our names are tied to our personhood and reveal social categories. This section explains matched-guise studies, which hold a stimulus constant while varying the name attached to it, and reports Toronto findings that English-sounding names fare better with employers and landlords. It then considers reclaiming Indigenous names, deadnaming, and indexical bleaching.",
+    "zh": "名字与人格紧密相连，既标示个人，也标示其社会归属，并透露人所归属的社会范畴。本节介绍配对伪装研究：保持刺激材料不变，只改变所附的姓名，并报告多伦多的发现——名字听来像英语的人更受雇主与房东青睐。随后讨论原住民名字的重新使用、跨性别者遭遇的旧名指称与指称漂白。"
+   },
+   "points": [
+    {
+     "en": "Names point to individuals and also prompt guesses about a person's gender, age, and ethnicity.",
+     "zh": "名字既指向个人，也促使人据此推测其性别、年龄与族裔身份。"
+    },
+    {
+     "en": "Matched-guise studies hold the stimulus constant and vary only the name, so rating differences must come from the name.",
+     "zh": "配对伪装研究保持刺激材料不变、只改变姓名，因此评分差异必定源自姓名。"
+    },
+    {
+     "en": "Toronto studies found callbacks and landlord replies were less frequent for non-English-sounding names.",
+     "zh": "多伦多的研究发现，名字听来不像英语的申请者，获得回电与房东回复的比例更低。"
+    },
+    {
+     "en": "Reclaiming Indigenous names resists colonial renaming, as the case of Ta7talíya Nahanee shows.",
+     "zh": "重新使用原住民名字是对殖民改名做法的抵抗，Ta7talíya Nahanee 的案例即是明证。"
+    },
+    {
+     "en": "Deadnaming, forcible renaming, and mispronouncing names all enforce structures of power and privilege.",
+     "zh": "旧名指称、强制改名与错误读音，都在强化既有的权力与特权结构。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "matched-guise study",
+     "zh": "配对伪装研究（matched-guise study）",
+     "defEn": "An experiment holding a stimulus constant while varying the label, or guise, it appears under.",
+     "defZh": "一种实验方法：保持刺激材料不变，只改变其标注方式（即 guise），以考察人们的态度。"
+    },
+    {
+     "en": "guise",
+     "zh": "伪装标签（guise）",
+     "defEn": "The label under which a stimulus is presented, such as the name on a résumé.",
+     "defZh": "刺激材料借以呈现给参与者的标签，例如简历顶端所写的姓名。"
+    },
+    {
+     "en": "indexical bleaching",
+     "zh": "指称漂白",
+     "defEn": "Stripping away a person's connections to family, community, and language by renaming or mispronouncing.",
+     "defZh": "通过改名或错误读音，抹去个人与家庭、社群和语言之间的联结。"
+    },
+    {
+     "en": "deadnaming",
+     "zh": "旧名指称（deadnaming）",
+     "defEn": "Using a trans person's former name, whether accidentally or deliberately.",
+     "defZh": "对跨性别者使用其更改前的旧名，无论出于无意还是有意为之。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "On one side is Kimberley and on the other is Kimiko.",
+     "noteEn": "Names on residence doors prompt guesses about appearance before any meeting.",
+     "noteZh": "宿舍门上的名字会让人在见面之前就对邻居的外貌作出猜测。"
+    },
+    {
+     "text": "Rahul Kaur, Asif Sheikh, or Yong Zhang",
+     "noteEn": "The same résumé under these names drew fewer callbacks than under Matthew Wilson.",
+     "noteZh": "同一份简历署上这些名字，得到的回电比署名 Matthew Wilson 时更少。"
+    },
+    {
+     "text": "Osama Mubbaarak",
+     "noteEn": "A typically Arabic male name to which Toronto landlords replied at much lower rates.",
+     "noteZh": "典型的阿拉伯男性名字，多伦多房东对这类询问的回复率低得多。"
+    },
+    {
+     "text": "the glottal stop [ʔ]",
+     "noteEn": "In Sḵwx̱wú7mesh sníchim orthography, 7 is a letter for this contrastive phoneme.",
+     "noteZh": "在 Sḵwx̱wú7mesh sníchim 正字法中，7 是表示这一对立音位的字母，而非数字。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Our names are intimately entwined with our personhood. Besides pointing to us as individuals, a name offers clues about our membership in social categories, so people guess at our gender, age, and ethnicity from it. Seeing Kimberley and Kimiko on residence doors, we form expectations about neighbours we have not met. Such clues come from general patterns, not absolutes, so a guess may be wrong.",
+     "zh": "名字与人格紧密交织。它既指向作为个体的你，也透露你所属社会范畴的线索，人们会据名字推测其性别、年龄与族裔。设想你看到宿舍两侧门上分别写着 Kimberley 与 Kimiko，尚未见面便已对两位邻居有了预期。这些线索来自普遍模式而非绝对规律，因此猜测可能出错。"
+    },
+    {
+     "en": "A matched-guise study holds a stimulus constant and varies only the guise, or label, under which it appears. Oreopoulos (2011) submitted thousands of mock résumés to Toronto job postings: the same résumé was much more likely to receive a callback under an English-sounding name like Matthew Wilson than under Rahul Kaur, Asif Sheikh, or Yong Zhang, even with a Canadian degree and fluency in English and French. Hogan and Berry (2011) found that Toronto landlords replied far less often to typically Arabic male names like Osama Mubbaarak than to typically English names like Peter McDonald.",
+     "zh": "配对伪装研究（matched-guise study）的做法是保持刺激材料不变，只改变其呈现的标签。Oreopoulos（2011）向多伦多的招聘广告投递了数千份模拟简历，发现同一份简历署上 Matthew Wilson 这类英语名字，比署 Rahul Kaur、Asif Sheikh 或 Yong Zhang 得到回电的概率高得多，即便简历写明加拿大大学学位与英法双语能力。同年 Hogan 与 Berry（2011）的研究显示，多伦多房东对 Osama Mubbaarak 这类典型阿拉伯男性名字的回复率，远低于 Peter McDonald 这类典型英语名字。"
+    },
+    {
+     "en": "Many people with non-English names weigh using their own name against adopting an English one that is easier to pronounce. A name is not only a signal to others; it expresses identity and connects a person to family, language, and community. Such names also resist the colonial names assigned in residential schools. Ta7talíya Nahanee, a Sḵwx̱wú7mesh decolonial facilitator, was denied a change to her Sḵwx̱wú7mesh sníchim name because of a rule against numerals like 7, though in that orthography 7 is a letter for the glottal stop [ʔ].",
+     "zh": "许多名字并非传统英语的人都会权衡：用本名，还是取一个更易发音的英语名？名字不仅向他人标示关于你的信息，也是对身份的表达，联结着家庭、语言与社群。对重新使用原住民语言的人而言，来自该语言的名字还抵抗着寄宿学校所强加的殖民名字。Sḵwx̱wú7mesh 的去殖民实践者 Ta7talíya Nahanee 申请把证件改为自己的 Sḵwx̱wú7mesh sníchim 名字，却因禁止法律姓名中出现 7 这类数字的规则被拒；而在该正字法中，7 是表示声门塞音 [ʔ] 的字母。"
+    },
+    {
+     "en": "Trans people likewise know the power of names, including the pain of being deadnamed. Most Black train porters in early twentieth-century Canada were simply called George, and during the 2021 federal election Jagmeet Singh was repeatedly called Juggy. Bucholtz (2016) calls this indexical bleaching: renaming or mispronouncing someone strips away their connections to family, community, and language, reinforcing existing structures of power and privilege.",
+     "zh": "跨性别者同样深知名字的力量，也知道被用旧名称呼（deadnaming）的痛苦。20 世纪初加拿大火车上的黑人搬运工一律被叫作 George；2021 年联邦大选中，新民主党领袖 Jagmeet Singh 被人反复叫作 Juggy。Bucholtz（2016）把这类做法称为指称漂白（indexical bleaching）：改名或把名字读错，会剥离个人与家庭、社群和语言的联结，从而强化既有的权力与特权结构。"
+    }
+   ]
+  },
+  "chapter-014-slug-2-5-pronouns-language-change-and-the-grammar-police": {
+   "title": {
+    "en": "2.5 Pronouns, language change, and the grammar police",
+    "zh": "2.5 代词、语言变化与语法警察"
+   },
+   "summary": {
+    "en": "Third-person pronouns replace noun phrases but give only vague clues about referents, and the masculine-feminine distinction can misgender people. This section shows how they and them fill that gap, traces the long history of singular they, and describes how English is extending it to a known single person despite prescriptivist objections, with linguists tracking the change.",
+    "zh": "第三人称代词可替代名词短语，却只提供模糊的指称线索，阳阴二分还可能造成错误指称。本节说明 they 与 them 如何填补这一空缺，梳理单数 they 的悠久历史，并描述英语如何在规定主义者的反对声中把它扩展到已知的单个对象，语言学家正在追踪这一变化。"
+   },
+   "points": [
+    {
+     "en": "Third-person pronouns replace noun phrases but give only vague clues about their referents.",
+     "zh": "第三人称代词可以替代名词短语，但对所指对象只提供模糊的线索。"
+    },
+    {
+     "en": "The masculine and feminine distinction is too simple, so non-binary people may experience both as misgendering.",
+     "zh": "阳性与阴性的二分过于简单，非二元者可能把二者都感受为错误指称。"
+    },
+    {
+     "en": "Singular they has been common for about 600 years and now extends to a known single person.",
+     "zh": "单数 they 在英语中已通行约六百年，如今还扩展到指称已知的单个对象。"
+    },
+    {
+     "en": "Prescriptivists object, but dictionaries and the American Dialect Society have recognized singular they.",
+     "zh": "规定主义者表示反对，但词典与美国方言学会都已承认单数 they 的地位。"
+    },
+    {
+     "en": "Research links the spread of specific-singular-they to grammar type, social network, and age.",
+     "zh": "研究把特指单数 they 的扩散与语法类型、社交网络和年龄联系起来。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "third-person pronoun",
+     "zh": "第三人称代词",
+     "defEn": "A pronoun referring to someone other than speaker or addressee, often replacing a noun phrase.",
+     "defZh": "指称说写者与受话者以外的人的代词，常可替代句中的名词短语。"
+    },
+    {
+     "en": "singular they",
+     "zh": "单数 they",
+     "defEn": "Use of they to refer to a single person, either of unknown or of known identity.",
+     "defZh": "在英语中用 they 指称单个的人，该人的身份可能未知，也可能已知。"
+    },
+    {
+     "en": "specific-singular-they",
+     "zh": "特指单数 they",
+     "defEn": "Singular they used for one person whose identity the speaker actually knows.",
+     "defZh": "指称说话人确实知道其身份的单独一个人时所用的单数 they 形式。"
+    },
+    {
+     "en": "prescriptivism",
+     "zh": "规定主义",
+     "defEn": "The stance that insists on particular usage rules and rejects changes such as singular they.",
+     "defZh": "坚持特定用法规则、反对单数 they 之类语言变化的规定主义态度。"
+    },
+    {
+     "en": "language change",
+     "zh": "语言变化",
+     "defEn": "Ongoing alteration in a language's grammar and usage over time.",
+     "defZh": "指语言的语法与用法随时间推移而长期发生的持续变化过程。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Samnang invited him to a movie.",
+     "noteEn": "The masculine third-person pronoun here replaces the proper name Steve.",
+     "noteZh": "在此句中，阳性第三人称代词替代了专有名词 Steve 的用法。"
+    },
+    {
+     "text": "The passenger in Seat 3A forgot their coat.",
+     "noteEn": "In this sentence the ungendered pronoun they replaces the noun phrase.",
+     "noteZh": "在这句话里，不分性别的代词 they 替代了那个名词短语。"
+    },
+    {
+     "text": "I don’t know who was in here but they left a big mess",
+     "noteEn": "Here the pronoun they leaves the number of referents completely unspecified.",
+     "noteZh": "此处 they 完全没有说明所指对象是一个人还是多个人。"
+    },
+    {
+     "text": "Samnang told me they needed an extension.",
+     "noteEn": "This illustrates specific-singular-they, where the identity of the single referent is known.",
+     "noteZh": "这体现了特指单数 they：所指的那一个人身份是已知的。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Like names, pronouns let us express our own identity and make guesses about other people's. In standardized varieties of English, first-person pronouns refer to the speaker, signer, or writer, second-person pronouns to the addressee, and third-person pronouns to someone else, often replacing a noun phrase. Third-person singular pronouns give only vague clues: it suggests a thing, he a boy or man, she a woman or girl.",
+     "zh": "与名字类似，我们也用代词表达自身身份，并推测他人的身份。在标准英语变体中，第一人称代词指说、写或打手语的人，第二人称代词指受话者，第三人称代词指他人，常可替代句中的名词短语。第三人称单数代词只给出模糊线索：it 指物，he 指男孩或男人，she 指女人或女孩。"
+    },
+    {
+     "en": "Those broad categories can still do harm and exclude people. Many cultures expect appropriately gendered pronouns even for a baby who cannot be offended, and after infancy being misgendered ranges from embarrassing to outright dangerous. A two-way masculine and feminine distinction is too simple for human gender variation, so non-binary, genderqueer, or gender-fluid people may experience both he/him and she/her as misgendering.",
+     "zh": "这些范畴虽然宽泛，却仍可能造成伤害与排斥。许多文化都期待我们按性别使用相应代词，面对完全不会介意的婴儿也会问是男孩还是女孩；而过了婴儿期，被用错误的代词指称可能令人尴尬，甚至危险。阳性与阴性的二分过于简单，无法描述人类性别的丰富变异，因此非二元、性别酷儿或性别流动者可能把 he/him 与 she/her 都感受为错误指称。"
+    },
+    {
+     "en": "The pronouns they and them fill this gap. They specifies neither animacy nor gender, nor even number: in I don’t know who was in here but they left a big mess we cannot tell how many people left the mess. Singular they has been common in English for about 600 years.",
+     "zh": "they 与 them 正可填补这一空缺。they 不指明所指是否有生命、是男是女，甚至不指明单复数：在 I don’t know who was in here but they left a big mess 中，我们无法知道留下烂摊子的是一个人还是许多人。单数 they 在英语中已通行约六百年。"
+    },
+    {
+     "en": "English is now extending they to a single person whose identity is known, as in Samnang told me they needed an extension. Prescriptivists object, and The Chicago Manual of Style calls singular they ungrammatical, yet the American Dialect Society named it Word of the Year in 2015 and Merriam-Webster did so in 2019. English changed similarly when thou and thee gave way to you for both numbers, prompting plural forms like y'all, you guys, or youse. Bjorkman (2017), Ackerman (2019), Conrod (2019), and Konnelly and Cowper (2020) trace how the change is spreading; Conrod (2017) advises slowing down, listening to people who use it, and practising.",
+     "zh": "如今英语又把 they 扩展到指称身份已知的单个对象，如 Samnang told me they needed an extension。规定主义者对此表示反对，《芝加哥手册》称单数 they 仍被视为不合语法，然而美国方言学会在 2015 年将其评为年度词汇，Merriam-Webster 词典也在 2019 年如此。数百年前英语的代词系统经历过类似变化：thou 与 thee 让位于兼表单复数的 you，于是 y'all、you guys 或 youse 这类复数形式应运而生。Bjorkman（2017）、Ackerman（2019）、Conrod（2019）以及 Konnelly 与 Cowper（2020）追踪了这一变化的扩散：Bjorkman 对比保守与创新的语法，Ackerman 把它与跨性别和非二元朋友的多少相联系，Conrod 发现年轻人更常用，Konnelly 与 Cowper 则描写了进行中的三个阶段。没人能阻止语言变化，但使用者可以加快它；Conrod（2017）建议放慢速度、倾听使用者的语言并多加练习。"
+    }
+   ]
+  }
+ }
+}

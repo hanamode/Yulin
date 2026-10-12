@@ -1,0 +1,50 @@
+# 8.13 Question
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2720#oembed-1
+We now return to Aya and Bo’s dinner plan in order to analyze the illocutionary meaning of INTERR, the interrogative illocutionary operator. The conversation is reproduced below, as well as the visualisation of the context.
+
+(1) (Context: Aya and Bo are roommates, and are trying to decide what to make for dinner.)
+Aya: Should we have spaghetti for dinner?
+Bo: We have tomato sauce and ground beef in the fridge.
+Aya: Yeah. Can we make pasta bolognese with those ingredients?
+Bo: Yeah, I think so.
+Aya: OK, cool. We’ll do spaghetti then.
+
+[图片：Context-1024x768.jpg]
+
+Figure 8.7. A context consisting of the Common Ground, the Question Under Discussion stack, and Discourse Commitment sets.
+
+In this section, we will analyze the bolded question in (1). The compositional breakdown is INTERR we can make pasta bolognese with those ingredients, with the illocutionary operator acting on the proposition we can make pasta bolognese with those ingredients. Where does this proposition go in the context (Figure 1) for a question?
+Unlike an assertion, a question does not commit the utterer to any particular proposition. Aya can ask Can we make pasta bolognese with those ingredients? without any belief that they indeed can make pasta bolognese with those ingredients. In fact, in this context it is natural to think that she is asking this question because she genuinely doesn’t know. So this means that INTERR p does not update the speaker/signer’s Discourse Commitment set with p.
+Questions, like assertions, do raise a topic for discussion. With a yes-no question like this, the speaker is asking whether the proposition We can make pasta bolognese with those ingredients is true or false. Because the issues in the QUD stack are ultimately about what proposition should be added to the Common Ground, this question can be reframed as “Which one is true (= should go in the Common Ground): We can make pasta bolognese with those ingredients, or We canNOT make pasta bolognese with those ingredients?”. So, the effect of INTERR is summarized below in (2). ¬ is the logical symbol for propositional negation, or ‘it is not the case that’. To understand the illocutionary meaning of the question Can we make pasta bolognese with those ingredients?, try replacing the variable p with we can make pasta bolognese with those ingredients. So, ¬p is read as “It is not the case that we can make pasta bolognese with those ingredients,” which is just a long-winded way of saying “We cannot make pasta bolognese with those ingredients.” (3) shows ASSERT p again for comparison.
+
+(2) INTERR p =
+Put “is p true, or is ¬p true?” at the top of the QUD stack
+
+(3) ASSERT p =
+(i) Put p in the Discourse Commitment set of the speaker/signer
+(ii) Put “is p true?” at the top of the QUD stack
+
+Notice that for ASSERT p, just “is p true?” is the QUD, while the QUD for INTERR is “is p true, or is ¬p true?”. This difference captures the intuition that when you assert p (e.g., It’s snowing), the speaker/signer is biased towards putting p in the Common Ground. With a polar question INTERR p (e.g., Is it snowing?) the speaker/signer is open to putting either p OR ¬p in the Common Ground.
+In the next section, we will put everything together to see how illocutionary meaning works in a conversation as a whole, using the illustration from Figure 8.7 as a guide.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2720#h5p-99
+
+## References
+
+Farkas, D. F., & Bruce, K. B. (2010). On reacting to assertions and polar questions. Journal of semantics, 27(1), 81-118.
+Ginzburg, J. (1996). Dynamics and the semantics of dialogue. Seligman, Jerry, & Westerst ahl, Dag (eds), Logic, language and computation, 1.
+Groenendijk, J., & Stokhof, M. (1991). Dynamic predicate logic. Linguistics and philosophy, 39-100.
+Gunlogson, C. (2004). True to form: Rising and falling declaratives as questions in English. Routledge.
+Hamblin, C. L. (1971). Mathematical models of dialogue. Theoria, 37(2), 130-155.
+Hamblin, C. L. (1973). Questions in Montague English. Foundations of Language, 10(1). 41–53.
+Heim, I. (1982). The semantics of definite and indefinite noun phrases. University of Massachusetts, Amherst dissertation.
+Heim, I. (2002). File change semantics and the familiarity theory of definiteness. Formal Semantics: The Essential Readings, 223-248.
+Kamp, H. (1981). A theory of truth and semantic representation. Truth, Interpretation and Information, 1–41.
+Kamp, H., Genabith, J. V., & Reyle, U. (2011). Discourse Representation Theory. In Handbook of Philosophical Logic (pp. 125-394). Springer, Dordrecht.
+Roberts, C. (2012). Information structure: Towards an integrated formal theory of pragmatics. Semantics and Pragmatics, 5, 6-1.
+Stalnaker, R. C. (1978). Assertion. In Pragmatics (pp. 315-332). Brill.
+Taniguchi, A. (2017). The formal pragmatics of non-at-issue intensification in English and Japanese. Michigan State University dissertation.

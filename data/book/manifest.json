@@ -1,0 +1,1756 @@
+{
+ "book": {
+  "title": "Essentials of Linguistics, 2nd edition",
+  "titleZh": "语言学基础（第二版）",
+  "authors": [
+   "Catherine Anderson",
+   "Bronwyn Bjorkman",
+   "Derek Denis",
+   "Julianne Doner",
+   "Margaret Grant",
+   "Nathan Sanders",
+   "Ai Taniguchi"
+  ],
+  "publisher": "eCampusOntario",
+  "year": 2022,
+  "license": "CC BY-NC-SA 4.0",
+  "source": "https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/"
+ },
+ "toc": [
+  {
+   "id": "front-cover",
+   "title": "Cover",
+   "depth": 1,
+   "parent": null,
+   "chars": 0,
+   "textChars": 23,
+   "chapter": "Cover"
+  },
+  {
+   "id": "title-page",
+   "title": "Title Page",
+   "depth": 1,
+   "parent": null,
+   "chars": 187,
+   "textChars": 194,
+   "chapter": "Title Page"
+  },
+  {
+   "id": "copyright",
+   "title": "Copyright",
+   "depth": 1,
+   "parent": null,
+   "chars": 306,
+   "textChars": 327,
+   "chapter": "Copyright"
+  },
+  {
+   "id": "table-of-contents",
+   "title": "Table Of Contents",
+   "depth": 1,
+   "parent": null,
+   "chars": 6675,
+   "textChars": 7056,
+   "chapter": "Table Of Contents"
+  },
+  {
+   "id": "front-matter-001-accessibility-statement",
+   "title": "Accessibility Statement",
+   "depth": 1,
+   "parent": null,
+   "chars": 1974,
+   "textChars": 1992,
+   "chapter": "Accessibility Statement"
+  },
+  {
+   "id": "front-matter-002-about-the-authors",
+   "title": "About the Authors",
+   "depth": 1,
+   "parent": null,
+   "chars": 7055,
+   "textChars": 7321,
+   "chapter": "About the Authors"
+  },
+  {
+   "id": "front-matter-003-acknowledgements",
+   "title": "Acknowledgements",
+   "depth": 1,
+   "parent": null,
+   "chars": 1776,
+   "textChars": 1776,
+   "chapter": "Acknowledgements"
+  },
+  {
+   "id": "front-matter-004-note-to-instructors",
+   "title": "A Note to Instructors",
+   "depth": 1,
+   "parent": null,
+   "chars": 1066,
+   "textChars": 1069,
+   "chapter": "A Note to Instructors"
+  },
+  {
+   "id": "front-matter-005-revisions",
+   "title": "Revisions",
+   "depth": 1,
+   "parent": null,
+   "chars": 770,
+   "textChars": 782,
+   "chapter": "Revisions"
+  },
+  {
+   "id": "part-001-chapter-1-language-science",
+   "title": "Chapter 1: Human Language and Language Science",
+   "depth": 1,
+   "parent": null,
+   "chars": 1136,
+   "textChars": 1148,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-001-slug-1-1-what-even-is-language",
+   "title": "1.1 What even is language?",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 9514,
+   "textChars": 9679,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-002-slug-1-2-what-grammars-are-and-arent",
+   "title": "1.2 What grammars are and aren't",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 5482,
+   "textChars": 5481,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-003-slug-1-3-studying-language-scientifically",
+   "title": "1.3 Studying language scientifically",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 10599,
+   "textChars": 10649,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-004-slug-1-4-thinking-about-standards-and-proper-grammar",
+   "title": "1.4 Thinking about standards and “proper” grammar",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 9315,
+   "textChars": 9324,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-005-slug-1-5-doing-harm-with-language-science",
+   "title": "1.5 Doing harm with language science",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 9830,
+   "textChars": 9837,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-006-slug-1-6-doing-good-with-language-science",
+   "title": "1.6 Doing good with language science",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 4168,
+   "textChars": 4184,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-007-slug-1-7-do-chatbots-have-language",
+   "title": "1.7 Do ChatBots have Language?",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 6981,
+   "textChars": 6990,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-008-slug-1-8-how-do-chatbots-synthesize-sentences",
+   "title": "1.8 How do ChatBots Synthesize Sentences?",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 10803,
+   "textChars": 10796,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "chapter-009-exercises",
+   "title": "1.9 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-001-chapter-1-language-science",
+   "chars": 1780,
+   "textChars": 1856,
+   "chapter": "Chapter 1: Human Language and Language Science"
+  },
+  {
+   "id": "part-002-chapter-2-language-power-privilege",
+   "title": "Chapter 2: Language, Power, and Privilege",
+   "depth": 1,
+   "parent": null,
+   "chars": 578,
+   "textChars": 586,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-010-slug-2-1-language-and-identity",
+   "title": "2.1 Language and identity",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 6624,
+   "textChars": 6621,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-011-slug-2-2-language-and-offense",
+   "title": "2.2 Language and offence",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 9416,
+   "textChars": 9409,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-012-slug-2-3-derogation-toxicity-and-power-imbalances",
+   "title": "2.3 Derogation, toxicity, and power imbalances",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 11823,
+   "textChars": 11849,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-013-slug-2-4-the-power-of-names",
+   "title": "2.4 The power of names",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 9013,
+   "textChars": 9016,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-014-slug-2-5-pronouns-language-change-and-the-grammar-police",
+   "title": "2.5 Pronouns, language change, and the grammar police",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 8596,
+   "textChars": 8812,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-015-slug-2-6-linguistic-law-enforcement",
+   "title": "2.6 Linguistic law enforcement",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 14199,
+   "textChars": 14195,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-016-slug-2-7-legally-enshrined-harms",
+   "title": "2.7 Legally enshrined harms",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 7427,
+   "textChars": 7428,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "chapter-017-slug-2-8-exercise-your-linguistics-skills",
+   "title": "2.8 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-002-chapter-2-language-power-privilege",
+   "chars": 1250,
+   "textChars": 1250,
+   "chapter": "Chapter 2: Language, Power, and Privilege"
+  },
+  {
+   "id": "part-003-slug-3-phonetics",
+   "title": "Chapter 3: Phonetics",
+   "depth": 1,
+   "parent": null,
+   "chars": 750,
+   "textChars": 758,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-018-slug-3-1-modality",
+   "title": "3.1 Modality",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 8283,
+   "textChars": 8306,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-019-slug-3-2-speech-articulators",
+   "title": "3.2 Speech articulators",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 4930,
+   "textChars": 4976,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-020-slug-3-3-describing-consonants-place-and-phonation",
+   "title": "3.3 Describing consonants: Place and phonation",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 18105,
+   "textChars": 18883,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-021-slug-3-4-describing-consonants-manner",
+   "title": "3.4 Describing consonants: Manner",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 12827,
+   "textChars": 12970,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-022-slug-3-5-describing-vowels",
+   "title": "3.5 Describing vowels",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 17426,
+   "textChars": 17625,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-023-slug-3-6-the-international-phonetic-alphabet",
+   "title": "3.6 The International Phonetic Alphabet",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 31418,
+   "textChars": 33193,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-024-slug-3-7-signed-language-articulators",
+   "title": "3.7 Signed language articulators",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 17954,
+   "textChars": 18123,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-025-slug-3-8-describing-signs",
+   "title": "3.8 Describing signs",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 13680,
+   "textChars": 13522,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-026-slug-3-9-signed-language-notation",
+   "title": "3.9 Signed language notation",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 5984,
+   "textChars": 6072,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-027-slug-3-10-syllables",
+   "title": "3.10 Syllables",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 13495,
+   "textChars": 13549,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-028-slug-3-11-stress",
+   "title": "3.11 Stress",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 7767,
+   "textChars": 7776,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "chapter-029-slug-3-12-tone-and-intonation",
+   "title": "3.12 Tone and intonation",
+   "depth": 2,
+   "parent": "part-003-slug-3-phonetics",
+   "chars": 11869,
+   "textChars": 12602,
+   "chapter": "Chapter 3: Phonetics"
+  },
+  {
+   "id": "part-004-chapter-4-phonology",
+   "title": "Chapter 4: Phonology",
+   "depth": 1,
+   "parent": null,
+   "chars": 887,
+   "textChars": 895,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-030-slug-4-1-phonemes-and-allophones",
+   "title": "4.1 Phonemes and allophones",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 7982,
+   "textChars": 7887,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-031-slug-4-2-phonotactics-and-natural-classes",
+   "title": "4.2 Phonotactics and natural classes",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 5512,
+   "textChars": 5459,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-032-slug-4-3-contrastive-distribution-and-minimal-pairs",
+   "title": "4.3 Contrastive distribution and minimal pairs",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 6008,
+   "textChars": 6000,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-033-slug-4-4-complementary-distribution",
+   "title": "4.4 Complementary distribution",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 5544,
+   "textChars": 5547,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-034-slug-4-5-phonemic-analysis",
+   "title": "4.5 Phonemic analysis",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 13527,
+   "textChars": 14007,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-035-slug-4-6-another-example-of-phonemic-analysis",
+   "title": "4.6 Another example of phonemic analysis",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 9176,
+   "textChars": 10108,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-036-slug-4-7-phonological-rules",
+   "title": "4.7 Phonological rules",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 11401,
+   "textChars": 11590,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-037-slug-4-8-phonological-derivations",
+   "title": "4.8 Phonological derivations",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 3685,
+   "textChars": 3911,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-038-slug-4-9-types-of-phonological-rules",
+   "title": "4.9 Types of phonological rules",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 9850,
+   "textChars": 11736,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "chapter-039-slug-4-10-signed-language-phonology",
+   "title": "4.10 Signed language phonology",
+   "depth": 2,
+   "parent": "part-004-chapter-4-phonology",
+   "chars": 4398,
+   "textChars": 4421,
+   "chapter": "Chapter 4: Phonology"
+  },
+  {
+   "id": "part-005-chapter-5-morphology",
+   "title": "Chapter 5: Morphology",
+   "depth": 1,
+   "parent": null,
+   "chars": 606,
+   "textChars": 615,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-040-slug-5-1-what-is-morphology",
+   "title": "5.1 What is morphology?",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 6649,
+   "textChars": 6791,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-041-slug-5-2-types-of-morphology-affixes-and-beyond",
+   "title": "5.2 Roots, bases, and affixes",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 8985,
+   "textChars": 9355,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-042-slug-5-4-morphology-beyond-affixes",
+   "title": "5.3 Morphology beyond affixes",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 6183,
+   "textChars": 6357,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-043-allomorphy",
+   "title": "5.4 Allomorphy",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 3008,
+   "textChars": 3634,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-044-slug-5-4-lexical-categories-and-the-split-between-derivation-and-inflection",
+   "title": "5.5 Lexical categories",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 6354,
+   "textChars": 6402,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-045-slug-5-5-derivational-morphology",
+   "title": "5.6 Derivational morphology",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 5627,
+   "textChars": 6328,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-046-slug-5-6",
+   "title": "5.7 Inflectional morphology",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 15815,
+   "textChars": 16828,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-047-slug-5-7-compounding",
+   "title": "5.8 Compounding",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 6201,
+   "textChars": 6346,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-048-ambiguity-in-ordering",
+   "title": "5.9 Structural ambiguity in morphology",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 4957,
+   "textChars": 5201,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-049-slug-5-8-how-to-draw-morphological-trees",
+   "title": "5.10 How to draw morphological trees",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 2047,
+   "textChars": 2086,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-050-how-to-solve-morphology-problems",
+   "title": "5.11 How to solve morphology problems",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 3593,
+   "textChars": 3704,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "chapter-051-practice-time",
+   "title": "5.12 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-005-chapter-5-morphology",
+   "chars": 5037,
+   "textChars": 5334,
+   "chapter": "Chapter 5: Morphology"
+  },
+  {
+   "id": "part-006-chapter-6-syntax",
+   "title": "Chapter 6: Syntax",
+   "depth": 1,
+   "parent": null,
+   "chars": 2298,
+   "textChars": 2344,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-052-what-we-know-when-we-know-the-syntax-of-a-language",
+   "title": "6.1 Syntactic knowledge and grammaticality judgements",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 6545,
+   "textChars": 6641,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-053-a-starting-point-word-order",
+   "title": "6.2 Word order",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 12109,
+   "textChars": 12435,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-054-phrases-structure-within-the-sentence",
+   "title": "6.3 Structure within the sentence: Phrases, heads, and selection",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 8011,
+   "textChars": 8736,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-055-identifying-phrases-constituency-tests",
+   "title": "6.4 Identifying phrases: Constituency tests",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 15549,
+   "textChars": 16806,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-056-functional-categories",
+   "title": "6.5 Functional categories",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 12463,
+   "textChars": 12865,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-057-sentences-inside-sentences-embedded-clauses",
+   "title": "6.6 Clausal embedding",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 11800,
+   "textChars": 12905,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-058-main-clause-yes-no-questions",
+   "title": "6.7 Main clause Yes-No questions",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 8642,
+   "textChars": 9178,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-059-main-clause-content-questions",
+   "title": "6.8 Main clause content questions",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 12432,
+   "textChars": 13640,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-060-embedded-content-questions",
+   "title": "6.9 Embedded content questions and relative clauses",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 12299,
+   "textChars": 13108,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-061-arguments-and-thematic-roles",
+   "title": "6.10 Arguments and thematic roles",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 7828,
+   "textChars": 8253,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-062-adding-or-removing-arguments-causatives-and-passives",
+   "title": "6.11 Changing argument structure: Causatives and passives",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 7542,
+   "textChars": 7978,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-063-interim-summary",
+   "title": "6.12 Interim summary",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 1659,
+   "textChars": 1657,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-064-from-constituency-to-tree-diagrams",
+   "title": "6.13 From constituency to tree diagrams",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 10973,
+   "textChars": 12116,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-065-x-bar-theory-introduction",
+   "title": "6.14 Trees: Introducing X-bar theory",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 10076,
+   "textChars": 10711,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-066-x-bar-theory-sentences-as-tps",
+   "title": "6.15 Trees: Sentences as TPs",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 7122,
+   "textChars": 7810,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-067-x-bar-theory-modifiers-as-adjuncts",
+   "title": "6.16 Trees: Modifiers as adjuncts",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 4419,
+   "textChars": 4728,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-068-structural-ambiguity",
+   "title": "6.17 Trees: Structural ambiguity in syntax",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 1664,
+   "textChars": 1778,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-069-x-bar-structure-embedded-clauses-as-cps",
+   "title": "6.18 Trees: Embedded clauses",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 3576,
+   "textChars": 3861,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-070-x-bar-theory-subject-aux-inversion-as-head-movement",
+   "title": "6.19 Trees: Movement",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 10209,
+   "textChars": 10825,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-071-x-bar-theory-question-word-fronting-as-phrasal-movement",
+   "title": "6.20 Trees: Movement beyond questions",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 10039,
+   "textChars": 11110,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-072-overview",
+   "title": "6.21 Trees: Summary",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 1511,
+   "textChars": 1514,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "chapter-073-practice-time-3",
+   "title": "6.22 Exercise your linguistics skills.",
+   "depth": 2,
+   "parent": "part-006-chapter-6-syntax",
+   "chars": 11123,
+   "textChars": 11228,
+   "chapter": "Chapter 6: Syntax"
+  },
+  {
+   "id": "part-007-chapter-7-semantics",
+   "title": "Chapter 7: Semantics",
+   "depth": 1,
+   "parent": null,
+   "chars": 1504,
+   "textChars": 1521,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-074-slug-7-1-linguistic-meaning",
+   "title": "7.1 Linguistic meaning",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 7467,
+   "textChars": 7631,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-075-slug-7-2-compositionality-why-not-just-syntax",
+   "title": "7.2 Compositionality: Why not just syntax?",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 7671,
+   "textChars": 8042,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-076-slug-7-3-what-does-this-sentence-mean-entailments-vs-implicatures",
+   "title": "7.3 What does this sentence \"mean\"? Entailments vs. implicatures",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 7854,
+   "textChars": 8433,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-077-slug-7-4-the-mental-lexicon",
+   "title": "7.4 The mental lexicon",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 11439,
+   "textChars": 11378,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-078-slug-7-5-lexical-meaning",
+   "title": "7.5 The nature of lexical meaning",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 17409,
+   "textChars": 17663,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-079-slug-7-6-events-and-thematic-roles",
+   "title": "7.6 Events and thematic roles",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 12095,
+   "textChars": 13128,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-080-slug-7-7-countability",
+   "title": "7.7 Countability",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 11017,
+   "textChars": 12658,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-081-slug-7-8-individual-vs-stage-level-predicates",
+   "title": "7.8 Individual- vs. stage-level predicates",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 4650,
+   "textChars": 4988,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-082-slug-7-9-degrees",
+   "title": "7.9 Degrees",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 9676,
+   "textChars": 10406,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-083-slug-7-10-why-not-the-dictionary",
+   "title": "7.10 Why not the dictionary?",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 10943,
+   "textChars": 11090,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-084-slug-7-11-denotation",
+   "title": "7.11 Denotation",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 15748,
+   "textChars": 16370,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-085-slug-7-12-set-theory",
+   "title": "7.12 Introduction to set theory",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 7696,
+   "textChars": 8231,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-086-slug-7-13-negative-polarity",
+   "title": "7.13 Negative polarity items",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 5808,
+   "textChars": 6567,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-087-slug-7-summary",
+   "title": "7.14 Summary",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 599,
+   "textChars": 599,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "chapter-088-exercises-7",
+   "title": "7.15 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-007-chapter-7-semantics",
+   "chars": 756,
+   "textChars": 758,
+   "chapter": "Chapter 7: Semantics"
+  },
+  {
+   "id": "part-008-chapter-8-pragmatics",
+   "title": "Chapter 8: Pragmatics",
+   "depth": 1,
+   "parent": null,
+   "chars": 2486,
+   "textChars": 2511,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-089-slug-8-1-at-issue-vs-non-at-issue-meaning",
+   "title": "8.1 At-issue vs. non-at-issue meaning",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 7787,
+   "textChars": 8218,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-090-slug-8-2-cross-community-differences-in-discourse",
+   "title": "8.2 Cross-community differences in discourse",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 3923,
+   "textChars": 3953,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-091-slug-8-3-semantics-and-pragmatics-in-the-legal-domain",
+   "title": "8.3 Semantics and pragmatics in the legal domain",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 9968,
+   "textChars": 10269,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-092-slug-8-4-conversational-implicatures",
+   "title": "8.4 Conversational implicatures",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 2627,
+   "textChars": 3010,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-093-slug-8-5-the-cooperative-principle",
+   "title": "8.5 The Cooperative Principle",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 25139,
+   "textChars": 25814,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-094-slug-8-6-inferences-neurodiversity",
+   "title": "8.6 How inferences arise, and neurodiversity in inference making",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 10999,
+   "textChars": 11316,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-095-slug-8-7-violating-vs-flouting-a-maxim",
+   "title": "8.7 Violating vs. flouting a maxim",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 2925,
+   "textChars": 3232,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-096-slug-8-8-more-about-the-cooperative-principle",
+   "title": "8.8 More about the Cooperative Principle",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 3964,
+   "textChars": 3968,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-097-slug-8-9-illocutionary-meaning",
+   "title": "8.9 Illocutionary meaning",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 8097,
+   "textChars": 8104,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-098-slug-8-10-illocutionary-meaning-compositionality",
+   "title": "8.10 Thinking about illocutionary meaning compositionally",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 8237,
+   "textChars": 8612,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-099-slug-8-11-what-is-a-context",
+   "title": "8.11 What is a context?",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 8031,
+   "textChars": 8043,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-100-slug-8-12-assertion",
+   "title": "8.12 Assertion",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 6139,
+   "textChars": 6164,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-101-slug-8-13-question",
+   "title": "8.13 Question",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 5244,
+   "textChars": 5263,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-102-slug-8-14-analysing-meaning-dynamically",
+   "title": "8.14 Analysing meaning dynamically",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 10649,
+   "textChars": 11058,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-103-chapter-8-summary",
+   "title": "8.15 Summary (and further questions to consider)",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 2700,
+   "textChars": 2706,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "chapter-104-exercises-8",
+   "title": "8.16 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-008-chapter-8-pragmatics",
+   "chars": 2623,
+   "textChars": 2621,
+   "chapter": "Chapter 8: Pragmatics"
+  },
+  {
+   "id": "part-009-chapter-9-reclaiming",
+   "title": "Chapter 9: Reclaiming Indigenous Languages",
+   "depth": 1,
+   "parent": null,
+   "chars": 661,
+   "textChars": 659,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-105-preserving",
+   "title": "9.1 Preserving Mohawk",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 3405,
+   "textChars": 3411,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-106-learning-mohawk",
+   "title": "9.2 Learning Mohawk",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 3819,
+   "textChars": 3825,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-107-mohawk-culture",
+   "title": "9.3 Mohawk culture and language",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 7363,
+   "textChars": 7358,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-108-creating-materials",
+   "title": "9.4 Creating materials for teaching Mohawk",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 7704,
+   "textChars": 7704,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-109-speaking-reconciliation",
+   "title": "9.5 Speaking Mohawk and reconciliation",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 2801,
+   "textChars": 2807,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-110-future",
+   "title": "9.6 One view on the future of Indigenous languages",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 3550,
+   "textChars": 3556,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-111-slug-9-7-reclaiming-michif",
+   "title": "9.7 Reclaiming Michif",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 20557,
+   "textChars": 20558,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-112-slug-9-8",
+   "title": "9.8 Reclaiming Hul’q’umi’num’",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 13686,
+   "textChars": 13687,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-113-slug-9-9-growing-up-speaking-nishnaabemwin",
+   "title": "9.9 Growing up speaking Nishnaabemwin",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 12348,
+   "textChars": 12349,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-114-slug-9-10-learning-nishnaabemwin-at-university",
+   "title": "9.10 Learning Nishnaabemwin at University",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 14173,
+   "textChars": 14201,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "chapter-115-slug-9-11-resources-for-teaching-and-learning-nishnaabemwin",
+   "title": "9.11 Resources for teaching and learning Nishnaabemwin",
+   "depth": 2,
+   "parent": "part-009-chapter-9-reclaiming",
+   "chars": 17007,
+   "textChars": 17002,
+   "chapter": "Chapter 9: Reclaiming Indigenous Languages"
+  },
+  {
+   "id": "part-010-chapter-10-language-variation-and-change",
+   "title": "Chapter 10: Language Variation and Change",
+   "depth": 1,
+   "parent": null,
+   "chars": 690,
+   "textChars": 702,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-116-slug-10-1-what-is-variationist-sociolinguistics",
+   "title": "10.1 What is variationist sociolinguistics?",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 1457,
+   "textChars": 1452,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-117-slug-10-2-language-varies",
+   "title": "10.2 Language varies",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 14741,
+   "textChars": 15667,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-118-slug-10-3-language-changes",
+   "title": "10.3 Language changes",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 5458,
+   "textChars": 5455,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-119-slug-10-4-language-conveys-more-than-semantic-meaning",
+   "title": "10.4 Language conveys more than semantic meaning",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 10707,
+   "textChars": 10701,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-120-slug-10-5-variationist-methods-and-concepts",
+   "title": "10.5 Variationist methods and concepts",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 16036,
+   "textChars": 16150,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-121-slug-10-6-sociolinguistic-correlations-place",
+   "title": "10.6 Sociolinguistic correlations: Place",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 9682,
+   "textChars": 9702,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-122-slug-10-7-sociolinguistic-correlations-social-status",
+   "title": "10.7 Sociolinguistic correlations: Social status",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 5383,
+   "textChars": 5426,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-123-slug-10-8-sociolinguistic-correlations-gender",
+   "title": "10.8 Sociolinguistic correlations: Gender",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 19415,
+   "textChars": 19468,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-124-slug-10-9-sociolinguistic-correlations-ethnicity",
+   "title": "10.9 Sociolinguistic correlations: Ethnicity",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 9618,
+   "textChars": 9902,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-125-slug-10-10-three-waves-of-sociolinguistics",
+   "title": "10.10 Three waves of sociolinguistics",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 6747,
+   "textChars": 6908,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-126-slug-10-11-summary",
+   "title": "10.11 Summary",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 1566,
+   "textChars": 1566,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "chapter-127-slug-10-12-exercise-your-linguistic-skills",
+   "title": "10.12 Exercise Your Linguistics Skills",
+   "depth": 2,
+   "parent": "part-010-chapter-10-language-variation-and-change",
+   "chars": 2729,
+   "textChars": 2835,
+   "chapter": "Chapter 10: Language Variation and Change"
+  },
+  {
+   "id": "part-011-chapter-11-child-language-acquisition",
+   "title": "Chapter 11: Child Language Acquisition",
+   "depth": 1,
+   "parent": null,
+   "chars": 670,
+   "textChars": 680,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-128-slug-11-1-tiny-powerful-language-learners",
+   "title": "11.1 Tiny, powerful language learners",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 7743,
+   "textChars": 7752,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-129-slug-11-2-when-does-language-learning-start",
+   "title": "11.2 When does language learning start?",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 5418,
+   "textChars": 5462,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-130-slug-11-3-phonemic-contrast",
+   "title": "11.3 Phonemic contrast",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 6075,
+   "textChars": 6084,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-131-slug-11-4-early-production",
+   "title": "11.4 Early language production",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 8309,
+   "textChars": 8464,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-132-slug-11-5-the-language-environment-and-the-so-called-word-gap",
+   "title": "11.5 The Language environment and the so-called word gap",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 6413,
+   "textChars": 6422,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-133-slug-11-6-understanding-word-combinations",
+   "title": "11.6 Understanding word combinations",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 7884,
+   "textChars": 8090,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-134-slug-11-7-syntax-in-early-utterances",
+   "title": "11.7 Syntax in early utterances",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 7161,
+   "textChars": 7238,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-135-slug-11-8-developing-meaning",
+   "title": "11.8. Developing word meanings",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 11254,
+   "textChars": 11834,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-136-slug-11-9-growing-up-bilingual-or-multilingual",
+   "title": "11.9 Growing up bilingual (or multilingual!)",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 9645,
+   "textChars": 9644,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-137-slug-11-10-language-milestones-in-the-first-two-years",
+   "title": "11.10 Language milestones in the first two years",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 1312,
+   "textChars": 1502,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "chapter-138-slug-11-11-exercise-your-linguistics-skills",
+   "title": "11.11 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-011-chapter-11-child-language-acquisition",
+   "chars": 2298,
+   "textChars": 2321,
+   "chapter": "Chapter 11: Child Language Acquisition"
+  },
+  {
+   "id": "part-012-chapter-12-adult-language-learning",
+   "title": "Chapter 12: Adult Language Learning",
+   "depth": 1,
+   "parent": null,
+   "chars": 782,
+   "textChars": 792,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-139-slug-12-1-adults-are-not-children",
+   "title": "12.1 Adults are not children",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 5948,
+   "textChars": 5959,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-140-slug-12-2-motivations-for-adult-language-learning",
+   "title": "12.2 Motivations for adult language learners",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 12451,
+   "textChars": 12458,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-141-slug-12-3-gaining-proficiency",
+   "title": "12.3 Gaining proficiency",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 6634,
+   "textChars": 6635,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-142-slug-12-4-cognitive-processes-in-language-learning",
+   "title": "12.4 Cognitive processes in language learning",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 9448,
+   "textChars": 9449,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-143-slug-12-5-your-l1-has-an-influence",
+   "title": "12.5 Learning a New Modality",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 6940,
+   "textChars": 7019,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-144-slug-12-6-learning-phonetics-and-phonotactics-in-a-later-language",
+   "title": "12.6 Learning Phonetics and Phonotactics in a Later Language",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 4451,
+   "textChars": 4444,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-145-slug-12-7-learning-phonemes-and-allophones-in-a-later-language",
+   "title": "12.7 Learning Phonemes and Allophones in a Later Language",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 4731,
+   "textChars": 4733,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "chapter-146-slug-12-7-exercise-your-linguistics-skills",
+   "title": "12.9 Exercise your linguistics skills",
+   "depth": 2,
+   "parent": "part-012-chapter-12-adult-language-learning",
+   "chars": 1573,
+   "textChars": 1672,
+   "chapter": "Chapter 12: Adult Language Learning"
+  },
+  {
+   "id": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "title": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics",
+   "depth": 1,
+   "parent": null,
+   "chars": 583,
+   "textChars": 591,
+   "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics"
+  },
+  {
+   "id": "chapter-147-the-mind-makes-language",
+   "title": "13.1 The mind makes language",
+   "depth": 2,
+   "parent": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "chars": 2746,
+   "textChars": 2745,
+   "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics"
+  },
+  {
+   "id": "chapter-148-evidence-for-phonemes-as-mental-categories",
+   "title": "13.2 Evidence for phonemes as mental categories",
+   "depth": 2,
+   "parent": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "chars": 9809,
+   "textChars": 9886,
+   "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics"
+  },
+  {
+   "id": "chapter-149-in-progress-evidence-for-language-specific-phonology",
+   "title": "13.3 Evidence for language-specific phonology",
+   "depth": 2,
+   "parent": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "chars": 8845,
+   "textChars": 8831,
+   "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics"
+  },
+  {
+   "id": "chapter-150-slug-13-4-evidence-for-top-down-effects-of-word-knowledge-on-perception",
+   "title": "13.4 Evidence for ‘top-down’ effects of word knowledge on perception",
+   "depth": 2,
+   "parent": "part-013-chapter-13-psycholinguistics-and-neurolinguistics",
+   "chars": 4782,
+   "textChars": 4821,
+   "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics"
+  },
+  {
+   "id": "part-014-chapter-14-historical-linguistics",
+   "title": "[in progress] Chapter 14: Historical Linguistics",
+   "depth": 1,
+   "parent": null,
+   "chars": 974,
+   "textChars": 993,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-151-slug-14-1-why-do-languages-change",
+   "title": "14.1 Why do languages change?",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 20529,
+   "textChars": 20966,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-152-slug-14-2-lexical-change",
+   "title": "14.2 Lexical change",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 13392,
+   "textChars": 14433,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-153-slug-14-3-phonological-change",
+   "title": "14.3 Phonological change",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 24792,
+   "textChars": 25811,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-154-slug-14-4-morphological-change",
+   "title": "14.4 Morphological change",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 20227,
+   "textChars": 21643,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-155-slug-14-5-syntactic-change",
+   "title": "14.5 Syntactic change",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 11419,
+   "textChars": 12276,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-156-slug-14-6-semantic-change",
+   "title": "14.6 Semantic change",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 27573,
+   "textChars": 28894,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-157-slug-14-8-reconstructing-the-past",
+   "title": "14.8 Reconstructing the past",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 10228,
+   "textChars": 10299,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "chapter-158-slug-14-9-case-study-reconstructing-proto-chinese",
+   "title": "14.9 Case study: Reconstructing Proto-Chinese",
+   "depth": 2,
+   "parent": "part-014-chapter-14-historical-linguistics",
+   "chars": 13887,
+   "textChars": 15398,
+   "chapter": "[in progress] Chapter 14: Historical Linguistics"
+  },
+  {
+   "id": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "title": "Appendix 1: PSRs and Flat Tree Structures",
+   "depth": 1,
+   "parent": null,
+   "chars": 355,
+   "textChars": 355,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-159-a1-1-drawing-phrase-structure-rule-trees",
+   "title": "A1.1 Phrase Structure Rules",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 5365,
+   "textChars": 5847,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-160-a1-2-phrase-structure-rules-in-other-languages",
+   "title": "A1.2 Phrase Structure Rules in Other Languages",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 10774,
+   "textChars": 11546,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-161-a1-2-properties-of-psr-trees",
+   "title": "A1.3 Properties of PSR Trees",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 5597,
+   "textChars": 6117,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-162-a1-3-structural-ambiguity",
+   "title": "A1.4 Structural Ambiguity",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 2530,
+   "textChars": 2722,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-163-a1-3-head-movement-in-yes-no-questions",
+   "title": "A1.5 Head movement in yes-no questions",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 3928,
+   "textChars": 4402,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-164-a1-4-phrasal-movement-in-wh-questions",
+   "title": "A1.6 Phrasal movement in wh-questions",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 8999,
+   "textChars": 10027,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "chapter-165-a1-5-draw-a-tree-step-by-step",
+   "title": "A1.7 Draw a Tree Step-by-Step",
+   "depth": 2,
+   "parent": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "chars": 10625,
+   "textChars": 12014,
+   "chapter": "Appendix 1: PSRs and Flat Tree Structures"
+  },
+  {
+   "id": "part-017-appendex-2-a-history-of-linguistics",
+   "title": "Appendix 2: A history of linguistics",
+   "depth": 1,
+   "parent": null,
+   "chars": 170,
+   "textChars": 170,
+   "chapter": "Appendix 2: A history of linguistics"
+  },
+  {
+   "id": "part-019-phonemic-restoration",
+   "title": "Phonemic Restoration",
+   "depth": 1,
+   "parent": null,
+   "chars": 5520,
+   "textChars": 5519,
+   "chapter": "Phonemic Restoration"
+  },
+  {
+   "id": "back-matter-001-check-yourself-questions",
+   "title": "Check Yourself Questions",
+   "depth": 1,
+   "parent": null,
+   "chars": 46121,
+   "textChars": 47290,
+   "chapter": "Check Yourself Questions"
+  }
+ ],
+ "skipCondense": [
+  "copyright",
+  "front-cover",
+  "table-of-contents",
+  "title-page"
+ ],
+ "batchCount": 73
+}

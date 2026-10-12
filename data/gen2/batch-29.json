@@ -1,0 +1,382 @@
+{
+ "batch": 29,
+ "entries": [
+  {
+   "id": "relevance-theory",
+   "title": "关联理论",
+   "en": "Relevance Theory",
+   "category": "theories",
+   "tags": [
+    "关联理论",
+    "语用学",
+    "明示推理",
+    "最佳关联",
+    "认知语境"
+   ],
+   "summary": "关联理论由斯珀伯与威尔逊于1986年提出，从认知角度解释交际与话语理解。它主张交际是明示—推理过程，听话人依据认知语境寻求最佳关联，即以最小加工努力获得足够的语境效果。该理论把格莱斯合作原则的多条准则压缩为一条关联原则，并提出明说与隐含、概念意义与程序意义等区分，广泛用于翻译、文学与词汇语用学研究，也受到关联可否证伪等批评。",
+   "summaryEn": "Relevance theory, proposed by Dan Sperber and Deirdre Wilson in 1986, explains communication and utterance interpretation from a cognitive perspective. It treats communication as an ostensive-inferential process in which the hearer seeks optimal relevance: adequate contextual effects for the least processing effort. The theory reduces Grice's maxims to a single principle of relevance and introduces distinctions such as explicature versus implicature and conceptual versus procedural meaning. It has been widely applied in translation, literature and lexical pragmatics, and criticised for the testability of relevance itself.",
+   "sections": [
+    {
+     "h": "理论背景与基本主张",
+     "hEn": "Background and Central Claim",
+     "p": [
+      "关联理论诞生于对格莱斯会话含义理论的修正。格莱斯提出合作原则及若干准则，却没有说明听话人如何在众多可能的含义中作出选择，也没有解释为什么某些含义更容易想到。斯珀伯与威尔逊认为，人类认知以追求关联为基本倾向，交际因此可以被纳入认知效率的框架。他们区分认知关联原则与交际关联原则：前者指人类认知倾向于追求最大关联，后者指每一次明示交际都传递自身具有最佳关联的假定，听话人据此确定说话人的意图。"
+     ],
+     "pEn": [
+      "Relevance theory emerged as a revision of Grice's account of conversational implicature. Grice proposed a cooperative principle with several maxims, but he did not explain how hearers select among the many implicatures an utterance might carry, nor why some interpretations come to mind more readily than others. Sperber and Wilson argue that human cognition is geared towards relevance, so communication can be modelled in terms of cognitive efficiency. They distinguish a cognitive principle of relevance, according to which cognition tends to maximise relevance, from a communicative principle, according to which every act of ostensive communication conveys a presumption of its own optimal relevance, on which the hearer relies in identifying the speaker's intention."
+     ]
+    },
+    {
+     "h": "核心概念",
+     "hEn": "Core Concepts",
+     "p": [
+      "关联由两个因素决定：语境效果与加工努力。语境效果指新信息在听话人认知语境中引起的修正、加强或削弱；加工努力指理解话语所需的心理投入。在其他条件相同的情况下，语境效果越大、努力越小，关联性越强。最佳关联并不等于最大关联，而是说话人在自身能力与偏好范围内能够产生、且值得听话人付出努力去加工的那一关联程度。此外，明说指话语显性表达并经充实后的命题，隐含则是需要推理才能获得的假设。"
+     ],
+     "pEn": [
+      "Relevance is determined by two factors: contextual effects and processing effort. Contextual effects are the revisions, strengthenings or weakenings that new information brings about in the hearer's cognitive context; processing effort is the mental cost of interpreting an utterance. Other things being equal, relevance increases with greater contextual effects and decreases with greater effort. Optimal relevance is not maximal relevance: it is the degree of relevance that the speaker is willing and able to achieve and that is worth the hearer's processing effort. The theory also distinguishes explicature, the explicitly communicated and enriched proposition, from implicature, an inferred assumption."
+     ]
+    },
+    {
+     "h": "示例与分析",
+     "hEn": "Examples and Analysis",
+     "p": [
+      "设有人问 Did you enjoy the party?，回答是 Some of it was fun。听话人须先把 some 的指称范围充实为具体的一部分，再结合语境推出隐含：整场聚会并不都令人愉快。汉语中「他是昨天来的」把时间成分标为焦点，明说层面表达到访时间，隐含层面可能带有纠正意味。词汇语用学还研究 kill、red 等词在语境中被临时收窄或放宽的用法，而 but、even、so 只编码程序意义，指引听话人加工相邻命题。"
+     ],
+     "pEn": [
+      "Consider an exchange in which one speaker asks Did you enjoy the party? and the other replies Some of it was fun. The hearer must enrich the quantifier to a specific range and then combine the utterance with context to derive the implicature that not all of the party was enjoyable. In Mandarin, 他是昨天来的 marks the time expression as focus: the explicature states when he came, while the implicature may carry a contrastive or corrective nuance. Lexical pragmatics studies how words such as kill or red are narrowed or broadened in context, showing that concepts are adjusted online, whereas items such as but, even and so encode procedural meaning and guide the processing of neighbouring propositions rather than naming a concept."
+     ]
+    },
+    {
+     "h": "影响、应用与批评",
+     "hEn": "Influence, Applications and Criticism",
+     "p": [
+      "关联理论深刻影响了语用学、翻译研究、文学文体学与二语教学。翻译研究用关联原则解释译者如何在原语说话人的意图与目标语读者的期待之间取舍，词汇语用学则借助它解释词义的在线调整。批评主要集中在三点：关联原则近乎不可证伪；以认知效率解释一切交际有循环论证之嫌；对社会文化因素与礼貌现象的处理不如布朗与列文森的礼貌理论细致。尽管如此，该理论仍是后格莱斯语用学的核心框架之一，并持续引发实验语用学的检验。"
+     ],
+     "pEn": [
+      "Relevance theory has strongly influenced pragmatics, translation studies, literary stylistics and second language teaching. Translation scholars use the principle of relevance to model the translator's choices between the source speaker's intentions and target readers' expectations, and lexical pragmatics appeals to it in explaining online meaning adjustment. Criticism centres on three points: the principle of relevance is hard to falsify; explaining all communication by cognitive efficiency risks circularity; and the framework handles socio-cultural factors and politeness less fully than Brown and Levinson's theory. It nevertheless remains a central post-Gricean framework and continues to generate work in experimental pragmatics."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "关联性",
+     "tEn": "relevance",
+     "d": "语境效果与加工努力之间的比值，效果越大或努力越小则关联性越强。",
+     "dEn": "The ratio of contextual effects to processing effort in utterance interpretation."
+    },
+    {
+     "t": "明示—推理交际",
+     "tEn": "ostensive-inferential communication",
+     "d": "说话人明示意图、听话人依据关联原则推理出意义的交际模式。",
+     "dEn": "Communication in which the speaker ostensively signals an intention and the hearer infers meaning."
+    },
+    {
+     "t": "最佳关联",
+     "tEn": "optimal relevance",
+     "d": "值得听话人付出加工努力、且说话人能够并愿意产生的那一关联程度。",
+     "dEn": "The degree of relevance worth the hearer's effort and within the speaker's ability to achieve."
+    },
+    {
+     "t": "明说",
+     "tEn": "explicature",
+     "d": "话语在语境中显性表达并经消歧与充实后所得的完整命题。",
+     "dEn": "The explicitly communicated proposition, enriched by disambiguation and reference assignment."
+    },
+    {
+     "t": "隐含",
+     "tEn": "implicature",
+     "d": "听话人依据语境与关联原则推理得出的、未被话语明说的假设。",
+     "dEn": "An assumption inferred from an utterance rather than explicitly encoded by it."
+    },
+    {
+     "t": "语境效果",
+     "tEn": "contextual effect",
+     "d": "新信息对认知语境中既有假设所产生的加强、削弱或修改。",
+     "dEn": "The strengthening, weakening or revision of existing assumptions by new information."
+    },
+    {
+     "t": "程序意义",
+     "tEn": "procedural meaning",
+     "d": "由 but、even 等虚词编码、用以指引推理方向而非命名概念的意义。",
+     "dEn": "Meaning encoded by items such as but or even that guides inference rather than naming concepts."
+    },
+    {
+     "t": "认知语境",
+     "tEn": "cognitive context",
+     "d": "听话人理解话语时调用的全部假设集合，包括临时激活的知识。",
+     "dEn": "The set of assumptions, including temporarily activated knowledge, used in comprehension."
+    }
+   ],
+   "related": [
+    "grice",
+    "implicature",
+    "pragmatics",
+    "cooperative-principle",
+    "cognitive-linguistics"
+   ],
+   "sources": [
+    "Wikipedia, \"Relevance theory\", https://en.wikipedia.org/wiki/Relevance_theory",
+    "Sperber, D. & Wilson, D., Relevance: Communication and Cognition, Blackwell, 1986",
+    "Wilson, D. & Sperber, D., Meaning and Relevance, Cambridge University Press, 2012"
+   ]
+  },
+  {
+   "id": "acceptability-judgement",
+   "title": "可接受性判断",
+   "en": "Acceptability Judgement",
+   "category": "methods",
+   "tags": [
+    "可接受性",
+    "句法判断",
+    "语感",
+    "实验句法学",
+    "李克特量表"
+   ],
+   "summary": "可接受性判断是让母语者依据语感对话语的自然程度作出评分的实验方法，广泛用于句法学与心理语言学研究。判断材料常包含最小对立对或成组句子，任务形式有二元判断、李克特量表、量值估计与选择排序，并通过拉丁方设计和填充句控制偏倚。它与乔姆斯基区分的合乎语法性并不等同：前者是行为反应，后者是内隐的语言知识。经严格设计并配合统计建模，该方法能为句法理论提供可重复的证据。",
+   "summaryEn": "Acceptability judgement is an experimental method in which native speakers rate the naturalness of utterances on the basis of their intuitions. It is widely used in syntax and psycholinguistics. Stimuli typically consist of minimal pairs or groups of sentence types, while tasks range from binary judgements to Likert scales, magnitude estimation and forced choice. Latin square design and filler items control for bias. Acceptability is a behavioural response and is not strictly identical with Chomsky's notion of grammaticality. When carefully designed and statistically modelled, the method yields replicable evidence for syntactic theory.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "可接受性判断是一种行为实验方法，要求母语者依据语感对给定话语的自然程度、可解释性或出现的可能性作出评定。它是句法理论最重要的经验来源之一，因为许多句法概括只能通过说话人对罕见结构的直觉来检验。研究内容包括成分语序、成分提取、约束关系、一致与省略等现象，也涉及判断的稳定性、个体差异以及语料来源等元方法论问题。近二十年来，该方法逐渐与心理语言学测量和形式化统计模型结合，形成通常所说的实验句法学。"
+     ],
+     "pEn": [
+      "Acceptability judgement is a behavioural method that asks native speakers to rate the naturalness, interpretability or likelihood of given utterances on the basis of intuition. It is one of the main sources of evidence for syntactic theory, because many syntactic generalisations can only be tested against speakers' intuitions about rare structures. Phenomena studied include constituent order, extraction, binding, agreement and ellipsis, alongside meta-methodological questions about the stability of judgements, individual variation and data sources. Over the past two decades the method has been combined with psycholinguistic measurement and formal statistical modelling, giving rise to what is usually called experimental syntax."
+     ]
+    },
+    {
+     "h": "与合乎语法性的关系",
+     "hEn": "Relation to Grammaticality",
+     "p": [
+      "在生成语法传统中，合乎语法性指语言能力层面由规则系统生成的性质，可接受性则是语言运用层面的行为反应。乔姆斯基在《句法理论的若干问题》中强调二者不可混同：语法性由理论描写，可接受性由说话人判断，并会受记忆限制、加工难度、语义怪诞与语境等因素干扰。英语句子 Colorless green ideas sleep furiously 合乎语法却难以理解，说明判断并不直接反映语法性。因此可接受性被视为需要解释的数据，而非语法性的定义。"
+     ],
+     "pEn": [
+      "In the generative tradition, grammaticality is a property of sentences generated by the rule system at the level of competence, whereas acceptability is a behavioural response at the level of performance. In Aspects of the Theory of Syntax Chomsky insists that the two must not be conflated: grammaticality is described by the theory, acceptability is judged by speakers and is affected by memory limitations, processing difficulty, semantic oddity and context. The English sentence Colorless green ideas sleep furiously is grammatical yet hard to interpret, showing that judgements do not directly mirror grammaticality. Acceptability is therefore treated as data to be explained rather than as the definition of grammaticality."
+     ]
+    },
+    {
+     "h": "主要方法与实验设计",
+     "hEn": "Main Tasks and Experimental Design",
+     "p": [
+      "常用任务包括二元判断、七点李克特量表、量值估计、强迫选择与可选性排序。材料通常以最小对立对的形式出现，例如对比英语 Who did you see? 与 Who did you see the man that met?。实验中还要加入填充句、伪填充句与不合语法的控制句，以免被试猜出研究目的而调整评分标准。设计上多用拉丁方平衡呈现顺序，分析时建立含被试与项目随机效应的混合效应模型。此外还有限时判断、自定步速阅读与脑电测量等在线方法。"
+     ],
+     "pEn": [
+      "Common tasks include binary judgements, seven-point Likert scales, magnitude estimation, forced choice and optionality ranking. Stimuli are usually presented as minimal pairs, for instance the contrast between Who did you see? and Who did you see the man that met?. Filler items, pseudo-fillers and ungrammatical controls are added so that participants cannot guess the purpose of the study and shift their rating criteria. Latin square designs balance presentation order and item pairing, and analysis typically uses mixed-effects models with crossed random effects for participants and items. Online variants such as speeded judgements, self-paced reading and event-related potentials reduce the strategic interference associated with metalinguistic reflection."
+     ]
+    },
+    {
+     "h": "示例与经典研究",
+     "hEn": "Examples and Classic Studies",
+     "p": [
+      "经典案例是成分提取的岛效应。英语中 Who do you believe that John saw? 可以接受，而从复杂名词短语内提取的 Who do you believe the claim that John saw? 则被普遍判为不可接受，这类判断支撑了复杂名词短语岛限制。斯普劳斯等人系统复制了多种岛效应，发现多数效应稳定存在，但效应大小差异很大。汉语研究亦有同类设计，如比较「他把书放在桌子上」与「他把书放」的可接受度。"
+     ],
+     "pEn": [
+      "A classic case is island effects on extraction. In English, Who do you believe that John saw? is acceptable, whereas extraction out of a complex noun phrase, as in Who do you believe the claim that John saw?, is widely judged unacceptable; such judgements support constraints like the complex noun phrase island. Sprouse and colleagues systematically replicated tests of several island effects and found that most hold up under controlled conditions, although their effect sizes differ considerably. Mandarin studies use similar designs, for example comparing 他把书放在桌子上 with 他把书放 in order to examine whether the locative complement is obligatory."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "批评主要来自三个方面。其一，元语言判断可能受加工难度、语义合理性与频率等非句法因素影响，未必直接反映语法知识。其二，判断存在明显的个体差异，有时还与语料库证据不一致，吉布森与费多连科等学者据此主张用加工解释取代部分所谓的句法限制。其三，实验室判断的生态效度有限。支持者的回应是，只要采用足够多的被试与项目并配合恰当统计，判断数据的信度可以达到可接受水平，而且任何语法理论最终都必须与说话人的语感相协调。"
+     ],
+     "pEn": [
+      "Criticism comes from three directions. First, metalinguistic judgements may be influenced by processing difficulty, plausibility, frequency and other non-syntactic factors, so they need not reflect grammatical knowledge directly. Second, judgements vary noticeably across individuals and sometimes conflict with corpus evidence, leading scholars such as Gibson and Fedorenko to propose processing-based explanations of some alleged constraints. Third, laboratory judgements have limited ecological validity. In reply, supporters argue that with sufficient participants and items and appropriate statistics the reliability of judgement data is acceptable, and that any theory of grammar must ultimately be answerable to speakers' intuitions."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "可接受性",
+     "tEn": "acceptability",
+     "d": "母语者对话语自然程度与可解释性的行为反应或直觉评定。",
+     "dEn": "A speaker's behavioural rating of how natural or interpretable an utterance is."
+    },
+    {
+     "t": "合乎语法性",
+     "tEn": "grammaticality",
+     "d": "语言能力层面由语法规则系统生成的性质，与判断反应并不等同。",
+     "dEn": "The property of being generated by the rule system of competence, not identical with judgement."
+    },
+    {
+     "t": "语言能力与语言运用",
+     "tEn": "competence and performance",
+     "d": "乔姆斯基对内隐知识与实际使用中受资源限制的表现所作的区分。",
+     "dEn": "Chomsky's distinction between underlying linguistic knowledge and its resource-limited use in practice."
+    },
+    {
+     "t": "李克特量表",
+     "tEn": "Likert scale",
+     "d": "用若干有序等级表示接受程度的评定格式，常用七点量表。",
+     "dEn": "An ordered rating format, often with seven points, expressing degrees of acceptability."
+    },
+    {
+     "t": "量值估计",
+     "tEn": "magnitude estimation",
+     "d": "让被试按比例给出数值以反映接受程度的连续评定方法。",
+     "dEn": "A continuous method in which participants assign proportional numbers to reflect acceptability."
+    },
+    {
+     "t": "最小对立对",
+     "tEn": "minimal pair",
+     "d": "只在一个因素上有差别的两个句子或词语，用于隔离待检验变量。",
+     "dEn": "Two sentences or words differing in one factor, used to isolate a variable."
+    },
+    {
+     "t": "岛效应",
+     "tEn": "island effect",
+     "d": "从某些句法成分的内部提取成分会导致句子不可接受的现象。",
+     "dEn": "The unacceptability that arises when extraction targets the inside of certain constituents."
+    },
+    {
+     "t": "混合效应模型",
+     "tEn": "mixed-effects model",
+     "d": "同时估计被试与项目随机效应的统计模型，常用于判断数据分析。",
+     "dEn": "A statistical model with random effects for participants and items, standard for judgement data."
+    }
+   ],
+   "related": [
+    "grammaticality",
+    "competence-performance",
+    "chomsky",
+    "psycholinguistics",
+    "syntax"
+   ],
+   "sources": [
+    "Wikipedia, \"Grammaticality\", https://en.wikipedia.org/wiki/Grammaticality",
+    "Chomsky, N., Aspects of the Theory of Syntax, MIT Press, 1965",
+    "Sprouse, J. & Almeida, D., The role of experimental syntax in an integrated cognitive science of language, 2012"
+   ]
+  },
+  {
+   "id": "acoustic-analysis",
+   "title": "声学分析",
+   "en": "Acoustic Analysis",
+   "category": "methods",
+   "tags": [
+    "声学分析",
+    "语图",
+    "共振峰",
+    "基频",
+    "实验语音学"
+   ],
+   "summary": "声学分析是语音学中用仪器测量语音物理属性的方法，考察声波的频率、振幅、时长与频谱特征。它把言语信号分解为波形、频谱与语图等可视化形式，从中提取基频、共振峰、嗓音起始时间等参数。声学分析使语音描写从听觉印象转向可量化的物理量，是实验语音学、语音识别与言语工程的基础。Praat 等软件降低了操作门槛，但测量结果仍需结合发音生理与听觉感知加以解释。",
+   "summaryEn": "Acoustic analysis is the instrumental measurement of the physical properties of speech, examining the frequency, amplitude, duration and spectral characteristics of the sound wave. It represents the speech signal as waveforms, spectra and spectrograms, from which parameters such as fundamental frequency, formants and voice onset time are extracted. The approach replaced impressionistic description with quantifiable physical measures and underpins experimental phonetics, speech recognition and speech technology. Software such as Praat has made the methods widely accessible, yet measurements still require interpretation in the light of articulation and perception.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "声学分析研究语音的物理属性，即说话人发出的声波在时间、频率与振幅三个维度上的表现。它不直接考察发音器官的动作，也不直接处理听话人的感知，而是通过客观测量建立可重复的语音描写。研究内容包括元音与辅音的音值、声调与语调的基频曲线、重音与节奏的时长分布、清浊对立的嗓音特征，以及协同发音造成的过渡段变化。由于同一段录音可以反复测量并与感知实验结果相互参照，声学分析成为连接发音语音学与听觉语音学的中间环节。"
+     ],
+     "pEn": [
+      "Acoustic analysis studies the physical properties of speech, that is, the behaviour of the sound wave produced by a speaker along the dimensions of time, frequency and amplitude. It does not examine the movements of the articulators directly, nor does it deal with listeners' perception as such; instead it provides repeatable descriptions through objective measurement. Topics include the phonetic values of vowels and consonants, the fundamental frequency contours of tone and intonation, the durational patterns of stress and rhythm, the phonatory correlates of voicing, and the transitions caused by coarticulation. Because a recording can be measured repeatedly and compared with perceptual data, acoustic analysis mediates between articulatory and auditory phonetics."
+     ]
+    },
+    {
+     "h": "基本概念与测量参数",
+     "hEn": "Key Concepts and Measurements",
+     "p": [
+      "波形显示声压随时间的变化，频谱显示某一时刻各频率成分的能量分布，语图则把时间、频率与能量强度同时呈现。元音的声学特征主要由共振峰决定，第一共振峰与舌位高低相关，第二共振峰与舌位前后相关。基频由声带振动速率决定，是声调与语调的物理对应物。嗓音起始时间指塞音除阻到浊音起始之间的时长，英语 pat 中的 p 约为五十至六十毫秒，bat 中的 b 约为零至十毫秒，这一连续量度是区分送气与不送气的重要依据。"
+     ],
+     "pEn": [
+      "The waveform displays sound pressure as a function of time, the spectrum shows how energy is distributed across frequencies at a given moment, and the spectrogram presents time, frequency and intensity together. The acoustic identity of vowels depends mainly on formants: the first formant correlates with tongue height and the second with tongue advancement. Fundamental frequency reflects the rate of vocal fold vibration and is the physical counterpart of tone and intonation. Voice onset time measures the interval between the release of a stop and the onset of voicing; in English the p of pat shows roughly fifty to sixty milliseconds while the b of bat shows about zero to ten, a continuous measure that distinguishes aspirated from unaspirated stops."
+     ]
+    },
+    {
+     "h": "方法与工具",
+     "hEn": "Methods and Tools",
+     "p": [
+      "基本流程包括录音、数字化、标注与参数提取。录音通常在低噪声环境中使用高质量话筒，并以稳定且不低于 22050 赫兹的采样率进行。标注常在 Praat 中完成，把信号切分为音段、音节或词并标出边界，随后用脚本批量提取基频、共振峰、时长与强度。语图分析依赖快速傅里叶变换与线性预测编码，前者给出频谱随时间的变化，后者用于估计共振峰频率。实验设计上需要控制语速、韵律位置与说话人个体差异，并对多个说话人和多个词项作统计分析。"
+     ],
+     "pEn": [
+      "The basic workflow consists of recording, digitisation, annotation and parameter extraction. Recordings are made in a low-noise environment with a high-quality microphone at a stable sampling rate, usually no lower than 22050 hertz. Annotation is often carried out in Praat, where the signal is segmented into phones, syllables or words, after which scripts extract fundamental frequency, formants, durations and intensity in batches. Spectrographic analysis relies on the fast Fourier transform and linear predictive coding, the former showing how the spectrum changes over time and the latter estimating formant frequencies. Experimental design must control speaking rate, prosodic position and speaker variation, and analysis should include multiple speakers and items."
+     ]
+    },
+    {
+     "h": "示例",
+     "hEn": "Examples",
+     "p": [
+      "以英语元音为例，彼得森与巴尼的经典测量给出成年男性 /i/ 的第一共振峰约二百七十赫兹、第二共振峰约二千二百九十赫兹，而后低元音 /ɑ/ 约为七百三十赫兹与一千零九十赫兹，可见前高元音与后低元音在声学空间中占据不同区域。汉语普通话四声的基频曲线也各不相同：阴平高而平，阳平上升，上声先降后升，去声下降。再如英语 pat 中的 p 送气明显，而西班牙语 p 的嗓音起始时间接近零，说明同一音类在不同语言中的声学实现并不相同。"
+     ],
+     "pEn": [
+      "For English vowels, the classic measurements of Peterson and Barney give a first formant of about 270 hertz and a second formant of about 2290 hertz for the vowel in heed, against roughly 730 and 1090 hertz for the vowel in hod, showing how front high and back low vowels occupy different regions of the acoustic space. The four tones of Mandarin likewise differ in their fundamental frequency contours: tone 1 is high and level, tone 2 rises, tone 3 dips and then rises, and tone 4 falls. The p of English pat is clearly aspirated, whereas Spanish p has a voice onset time close to zero, showing that one phonological category may have different acoustic realisations across languages."
+     ]
+    },
+    {
+     "h": "应用与局限",
+     "hEn": "Applications and Limitations",
+     "p": [
+      "声学分析广泛用于语音描写与语音教学、方言与语言变异的比较、病理语音评估、说话人识别以及语音合成与识别系统。它的局限在于，物理量并不等同于语言学范畴：同一音位的声学实现会因说话人、语速与语境而变化，不同音位的分布也可能出现重叠，因此测量结果需要借助统计模型与感知实验来解释。此外，声道形状与声源难以从外部信号唯一反推，这使声学分析必须与发音研究和感知研究相互补充。"
+     ],
+     "pEn": [
+      "Acoustic analysis is widely used in phonetic description and pronunciation teaching, in the comparison of dialects and varieties, in the assessment of pathological speech, in speaker identification, and in speech synthesis and recognition. Its limitation is that physical measures are not identical with linguistic categories: the acoustic realisation of a phoneme varies with speaker, speaking rate and context, and the distributions of distinct phonemes may overlap, so measurements must be interpreted with statistical models and perception experiments. Moreover, vocal tract shape and source cannot be recovered uniquely from the external signal, so acoustic analysis must be complemented by articulatory and perceptual research."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语图",
+     "tEn": "spectrogram",
+     "d": "同时显示时间、频率与能量强度这三类信息的语音图谱。",
+     "dEn": "A display of speech showing time, frequency and intensity at the same time."
+    },
+    {
+     "t": "共振峰",
+     "tEn": "formant",
+     "d": "声道共鸣造成的能量集中区，通常以第一、第二共振峰描写元音。",
+     "dEn": "A concentration of acoustic energy produced by vocal tract resonance."
+    },
+    {
+     "t": "基频",
+     "tEn": "fundamental frequency",
+     "d": "声带振动的基本速率，单位为赫兹，是声调与语调的物理基础。",
+     "dEn": "The rate of vocal fold vibration in hertz, underlying tone and intonation."
+    },
+    {
+     "t": "嗓音起始时间",
+     "tEn": "voice onset time",
+     "d": "塞音除阻到声带开始振动之间的时长，用于区分送气与不送气。",
+     "dEn": "The interval between stop release and the onset of vocal fold vibration."
+    },
+    {
+     "t": "波形",
+     "tEn": "waveform",
+     "d": "声压随时间变化的图形表示，可显示周期性与振幅大小。",
+     "dEn": "A graph of sound pressure against time, showing periodicity and amplitude."
+    },
+    {
+     "t": "频谱",
+     "tEn": "spectrum",
+     "d": "某一时刻各频率成分能量分布的图形，常用快速傅里叶变换求得。",
+     "dEn": "The distribution of energy across frequencies at a given moment."
+    },
+    {
+     "t": "源—滤波器理论",
+     "tEn": "source-filter theory",
+     "d": "把语音视为声源经声道滤波而成的理论，由范特加以系统化。",
+     "dEn": "The view that speech results from a sound source shaped by vocal tract filtering."
+    },
+    {
+     "t": "协同发音",
+     "tEn": "coarticulation",
+     "d": "相邻音段的发音动作相互重叠，导致声学过渡段变化的现象。",
+     "dEn": "Overlap of articulatory gestures in neighbouring segments, producing acoustic transitions."
+    }
+   ],
+   "related": [
+    "phonetics",
+    "experimental-phonetics",
+    "ipa",
+    "tone",
+    "phonetic-transcription"
+   ],
+   "sources": [
+    "Wikipedia, \"Acoustic phonetics\", https://en.wikipedia.org/wiki/Acoustic_phonetics",
+    "Peterson, G. E. & Barney, H. L., Control methods used in a study of the vowels, Journal of the Acoustical Society of America, 1952",
+    "Ladefoged, P., A Course in Phonetics, Cengage Learning"
+   ]
+  }
+ ]
+}

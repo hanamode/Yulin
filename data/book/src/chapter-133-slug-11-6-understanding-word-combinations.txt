@@ -1,0 +1,46 @@
+# 11.6 Understanding word combinations
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=525#oembed-1
+We’ve seen that babies start to learn the phonology of their first language very early — as soon as they’re born and maybe even earlier than that! And they’re starting to learn some lexical semantics before their first birthday. What about syntax? What do babies and young children know about the syntax components of their grammar? And how can we tell? We know that children start to speak or sign their first word around twelve months, and they start to combine two or more words around eighteen to twenty-four months. But if you’ve ever spent any time with young children, you know that they can understand a lot more than they can say! Their comprehension is often much more advanced than their ability to produce spoken or signed words. But comprehension is much harder to observe. How can we tell what babies and toddlers understand about language?
+
+How to be a linguist: Observing Preferential Looking
+
+One simple technique is called preferential looking. In this kind of experiment, researchers use a large screen or television. The baby or toddler sits strapped into a booster seat, facing the screen. The screen is split so that two different pictures appear, one on each side of the screen. While the pictures or are on the screen, a recorded voice speaks a sentence, maybe something like, “Look! Can you find the bear?” The idea is that if the baby understands the word bear, they’re going to look at the picture of the bear, not the picture of the bus. The researchers keep track of the direction of the baby’s head-turn, or they use eye-tracking to measure the baby’s eye movements. This kind of experiment has shown that babies pretty reliably look at the named object by about ten months, and even as young as six months, they’re looking at the named object more often than chance would predict. So at the age of six months, babies are already beginning to link up word forms with their meanings.
+
+[图片：Ch12_Fig7_splitscreen1.jpeg]
+
+Figure 11.6. Preferential Looking.
+We can use this technique to figure out what kids know about syntax if we use the split screen to display two similar scenes instead of pictures of a single items. I’ve just put a simple picture here, but researchers often use short videos. The two scenes involve the same participants, but in different configurations. In the images here, the one on the left shows the adult chasing the kid, while on the right the kid is chasing the adult. The recorded sentence that plays, “Look! The kid is chasing the woman!” matches only one of the scenes. So if children look towards the matching scene, does that mean they know something about syntax? Or are they just paying attention to the word meanings?
+
+[图片：Ch12_Fig8_splitscreen2-300x225.jpeg]
+
+Figure 11.7. Preferential Looking.
+Do you remember the idea of compositionality? It says that syntax matters for sentence meanings — the meaning of a sentence comes not just from adding together the meanings of the words, but also from the way those words are combined, that is, from the syntax. As adults, we know that the sentence, “the kid is chasing the woman” can only mean this one, the one on the right. But if kids were understanding the sentence just by paying attention to the meanings of the words, well both scenes would be plausible: after all, both scenes show a kid, both scenes show a chasing event, and both scenes show a woman. It turns out, though, that children as young as 15 months, just a little over one year, look more often towards the correct image or video (Hirsh-Pasek & Golinkoff, 1996). That suggests that they’re not just adding together the meanings of the words in the sentence, but that they’re also sensitive to the way those words are combined, to the syntax, because that’s what distinguishes the kid chasing the woman from the woman chasing the kid. So kids who are just a little older than twelve months are already sensitive to syntactic constituent structure and its relation to meaning.
+What else do young children know about syntax? Some experiments with young children don’t involve screens, but actual toy items. In this experiment (Booth & Waxman, 2003), researchers introduced 14-month-old children to novel, made-up words, that the children would not already be familiar with. The experimenter presented small toys to the child and said, “These are blickets. This one is a blicket and this one is a blicket.” So the child has a couple examples of what a blicket is. Then the experimenter presents two new toys, one of which is from the same category as the earlier ones — in this case, the category of animals — but in a different colour, and the other of which is the same colour, but from a different category.
+
+[图片：Ch12_Fig9A_blicketsA-300x121.jpeg]
+
+Figure 11.8a. Blickets.
+
+[图片：Ch12_Fig9B_blicketsB-300x125.jpeg]
+
+Figure 11.8b. More blickets.
+
+When the experimenter says, “Can you give me the blicket?“, if the child reaches for the new toy of the same category, that tells us they’ve figured that blicket means animal. But if they reach for the same colour, they’ve concluded that blicket means pink thing. The 14-month-olds reached for the new animal of a different colour more often than they reached for the toy that matched in colour. But the pattern was reversed for children who heard a different syntactic frame. If the toys had been introduced with the new word in an adjective position, “These are blickish. This one is blickish and this one is blickish,” then when the experimenter asked, “Can you give me the blickish one?”, the children were much more likely to choose the one that matched in colour. These results indicate that when one-year-olds hear a new word in a noun position, they conclude that it has a noun-like meaning, and refers to a thing or a category of things. But if it’s in adjective position, then its meaning is probably something more like an attribute or property. In short, one-year-olds seem to be sensitive to the differences between syntactic categories.
+There’s so much learning happening in that second year. Kids are learning new words very rapidly, and learning how words pattern in the morphological and syntactic behaviour. In fact, by the time they turn two, kids are sensitive to verb arguments and subcategories too! In another split-screen experiment (Arunachalam & Waxman, 2010), when experimenters presented the novel verb mooping in a transitive frame, like “The lady is mooping my brother,” then two-year-olds looked more often to the scene where one participant is doing something to the other, like pushing. But when the novel verb appeared in an intransitive frame, like “The lady and my brother are mooping,” then the children looked more often to the scene where the two participants are doing the same activity together, like waving.
+
+[图片：Ch12_Fig10_mooping-300x270.png]
+
+Figure 11.9. Possible meanings for ‘mooping’
+This suggests that, by age two, children are sensitive not only to syntactic categories, but also to subcategories! So to go back to the question we started with, “What do kids know about syntax?” It turns out the answer is that, even before children start combining words to make phrases in their own speech or signing, they already know quite a lot about how words combine in the grammar.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=525#h5p-45
+
+## References
+
+Arunachalam, S., & Waxman, S. R. (2010). Meaning from syntax: Evidence from 2-year-olds. Cognition, 114(3), 442–446.
+Booth, A. E., & Waxman, S. R. (2003). Mapping Words to the World in Infancy: Infants’ Expectations for Count Nouns and Adjectives. Journal of Cognition and Development, 4(3), 357–381.
+Hirsh-Pasek, K., & Golinkoff, R. M. (1996). The origins of grammar: Evidence from early language comprehension. MIT Press.

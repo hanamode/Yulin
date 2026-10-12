@@ -1,0 +1,161 @@
+{
+ "batch": 14,
+ "entries": [
+  {
+   "id": "recursion",
+   "title": "递归",
+   "en": "Recursion",
+   "category": "concepts",
+   "tags": ["递归", "句法嵌套", "生成语法", "离散无限性", "形式语言"],
+   "summary": "递归指语言的句法规则可以把自身生成的结构再次作为输入，从而反复嵌套，使有限的语法手段能够生成无限多的句子。它典型地表现为从句套从句和短语套短语，如英语 the cat that chased the rat that ate the cheese，或汉语「我知道你知道他来了」。乔姆斯基把递归视为人类语言的核心属性，也是普遍语法的重要依据。递归是否有语言专属性、能否用上下文无关或更弱的语法描写，至今仍是争论焦点。",
+   "summaryEn": "Recursion is the property whereby a syntactic rule can apply to the output of its own application, so that a finite grammar generates an unbounded number of sentences. It appears as nested clauses and phrases, as in the cat that chased the rat that ate the cheese, or in Mandarin 我知道你知道他来了. Chomsky treats recursion as a core property of human language and a key argument for Universal Grammar. Whether it is uniquely human, and whether context-free or weaker grammars suffice to describe it, remains disputed.",
+   "sections": [
+    {
+     "h": "定义与基本表现",
+     "hEn": "Definition and Basic Manifestations",
+     "p": ["递归在语言学中指某条句法规则或某种结构可以把自身作为成分再次包含，从而使句子能够层层扩展，没有理论上的最大长度。英语的关系从句是典型例子：the cat that chased the rat that ate the cheese 中，每个名词短语都可以再带一个关系从句。汉语中「我知道你知道他来了」是主谓结构套主谓结构，说话者依然能够准确理解。"],
+     "pEn": ["In linguistics, recursion refers to the property whereby a syntactic rule or structure can contain an instance of itself, so that sentences can be extended indefinitely and have no theoretical maximum length. English relative clauses are a classic case: in the cat that chased the rat that ate the cheese, each noun phrase can in turn take another relative clause. Mandarin 我知道你知道他来了 'I know that you know that he came' likewise embeds one clause inside another, and speakers understand such nesting with ease."]
+    },
+    {
+     "h": "递归与句法理论",
+     "hEn": "Recursion and Syntactic Theory",
+     "p": ["在生成语法中，递归来自短语结构规则的循环应用。像 NP → NP CP 与 CP → C S 这样的规则组合，理论上可以生成无限深的短语。乔姆斯基据此说明有限的手段可以生成无限多的句子，这种离散无限性正是语言创造性的基础。形式语言理论进一步区分有限状态语法、上下文无关语法与上下文相关语法，而人类语言至少需要上下文无关以上的描写能力。", "中心嵌套的现象支持这一判断。英语 the rat the cat the dog chased killed ate the cheese 这类句子在语法上成立，却随嵌套加深而迅速变得难以处理，说明语法所允许的递归深度与语言加工的容量限制是两回事：前者近乎无限，后者则受记忆资源约束。心理语言学的实验也反复证实，嵌套层数增加会显著降低可接受度。"],
+     "pEn": ["In generative grammar recursion arises from the cyclic application of phrase structure rules. Rules such as NP → NP CP and CP → C S can in principle generate phrases of unlimited depth. Chomsky used this to show how a finite grammar yields infinitely many sentences, and this discrete infinity underlies linguistic creativity. Formal language theory distinguishes finite-state, context-free and context-sensitive grammars, and centre-embedding data suggest that human language requires at least context-free descriptive power.", "Centre embedding supports this conclusion. Sentences such as the rat the cat the dog chased killed ate the cheese are grammatical, yet they become extremely hard to process as embedding deepens. The recursion that a grammar permits is therefore nearly unbounded, whereas the depth a speaker can actually handle is limited by memory resources, as psycholinguistic experiments have repeatedly confirmed."]
+    },
+    {
+     "h": "递归的类型与表现形式",
+     "hEn": "Types and Manifestations of Recursion",
+     "p": ["递归可按方向分类。左侧递归如英语所有格 John's mother's friend's car，中心语 friend 前又出现完整的领属结构；右侧递归如英语介词短语 a book on the table by the window。中心嵌套则把结构插入中间，如日语「太郎は花子が来たと言った」（Tarō wa Hanako ga kita to itta，太郎说花子来了）把补语从句嵌在主动词之前。汉语「我的老师的儿子的同学」同样是「的」字结构的反复嵌套。"],
+     "pEn": ["Recursion can be classified by direction. Left recursion is illustrated by the English possessive John's mother's friend's car, where a full possessive phrase precedes the head friend; right recursion appears in prepositional phrases such as a book on the table by the window. Centre embedding inserts the structure in the middle, as in Japanese 太郎は花子が来たと言った (Tarō wa Hanako ga kita to itta) 'Taro said that Hanako came', where the complement clause precedes the main verb. Mandarin 我的老师的儿子的同学 'my teacher's son's classmate' shows the same repeated nesting of the de-construction."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": ["递归是否为人类语言所独有，是长期争论的焦点。豪泽、乔姆斯基与菲奇在 2002 年提出，递归可能是语言机能中唯一独有的成分；但埃弗里特对亚马孙流域皮拉哈语的研究声称该语言缺少句法递归，引发大量反驳与再调查。计算语言学方面也有学者指出，许多看似递归的依存现象可以用有限状态或更弱的机制近似描写；动物通讯与序列学习研究则显示，嵌套能力并非绝对为人类所独有。"],
+     "pEn": ["Whether recursion is unique to human language has long been contested. Hauser, Chomsky and Fitch argued in 2002 that recursion may be the only uniquely human component of the language faculty, but Everett's work on Pirahã in the Amazon claimed that the language lacks syntactic recursion, prompting extensive rebuttals and renewed fieldwork. Some computational linguists maintain that many apparently recursive dependencies can be approximated by finite-state or weaker devices, and studies of animal communication and sequence learning suggest that nesting ability is not strictly unique to humans."]
+    }
+   ],
+   "terms": [
+    {"t": "递归", "tEn": "Recursion", "d": "句法规则或结构可以包含自身同类实例，从而反复嵌套生成无限多句子的属性。", "dEn": "The property whereby a rule or structure may contain an instance of itself."},
+    {"t": "离散无限性", "tEn": "Discrete infinity", "d": "由有限离散单位经递归组合产生无限多表达式的能力，被视为语言创造性的基础。", "dEn": "The capacity to generate infinitely many expressions from finite discrete units via recursion."},
+    {"t": "中心嵌套", "tEn": "Centre embedding", "d": "把从句嵌入另一从句中间的结构方式，嵌套过深会显著增加理解难度。", "dEn": "Embedding one clause inside the middle of another, which is hard to process at depth."},
+    {"t": "左侧递归", "tEn": "Left recursion", "d": "递归结构出现在中心语或短语左端的形式，如英语多重领属结构。", "dEn": "Recursion in which the recursive structure appears at the left edge."},
+    {"t": "短语结构规则", "tEn": "Phrase structure rule", "d": "描写短语如何由更小成分构成的改写规则，其循环应用产生递归。", "dEn": "A rewrite rule describing phrase composition whose cyclic use yields recursion."},
+    {"t": "上下文无关语法", "tEn": "Context-free grammar", "d": "一类形式语法，其规则左端为单一非终结符，足以刻画中心嵌套。", "dEn": "A formal grammar whose rules rewrite a single nonterminal, able to model centre embedding."},
+    {"t": "有限状态语法", "tEn": "Finite-state grammar", "d": "只依赖有限状态转移的最弱形式语法，无法充分描写中心嵌套。", "dEn": "The weakest formal grammar, based on finite state transitions, which cannot capture centre embedding."},
+    {"t": "皮拉哈语", "tEn": "Pirahã", "d": "亚马孙流域的一种语言，其是否缺乏句法递归曾引发广泛争论。", "dEn": "An Amazonian language whose alleged lack of recursion has been widely debated."}
+   ],
+   "related": ["universal-grammar", "phrase-structure-rule", "generativism", "syntactic-tree", "syntax"],
+   "sources": [
+    "Wikipedia, \"Recursion\", https://en.wikipedia.org/wiki/Recursion",
+    "Chomsky, Syntactic Structures, 1957",
+    "Hauser, Chomsky & Fitch, \"The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?\", Science, 2002",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "entailment",
+   "title": "蕴涵",
+   "en": "Entailment",
+   "category": "concepts",
+   "tags": ["蕴涵", "真值条件", "语义关系", "单调性", "自然语言推理"],
+   "summary": "蕴涵是两个句子之间的必然推论关系：只要 A 为真，B 就必定为真，反之若 B 为假则 A 也必假，便说 A 蕴涵 B。例如「张三杀死了李四」蕴涵「李四死了」。蕴涵建立在真值条件之上，与预设、会话含义相区别：它在否定下会被取消，而预设通常保留。蕴涵是描写上下义、同义等词汇意义关系以及限定词单调性的核心工具，也是自然语言推理任务的基础概念。",
+   "summaryEn": "Entailment is a necessary inference relation between sentences: A entails B when B must be true whenever A is true, and B's falsity rules out A. Thus 张三杀死了李四 'Zhang San killed Li Si' entails 李四死了 'Li Si died'. Entailment is grounded in truth conditions and differs from presupposition and conversational implicature, since it is cancelled under negation whereas presuppositions typically survive. It underpins the description of hyponymy and synonymy, the monotonicity of determiners, and natural language inference.",
+   "sections": [
+    {
+     "h": "定义与真值条件",
+     "hEn": "Definition and Truth Conditions",
+     "p": ["蕴涵指两个句子之间的必然推论关系：当 A 为真时 B 必定为真，等价地说，若 B 为假则 A 必为假，此时称 A 蕴涵 B。经典例子是英语 The president was assassinated 蕴涵 The president is dead。汉语「他养了一条狗」蕴涵「他养了动物」。蕴涵具有方向性：B 为真并不保证 A 为真，因为总统也可能因病去世，所以反方向的推论不成立。"],
+     "pEn": ["Entailment is a necessary inference relation between two sentences: A entails B when B must be true whenever A is true, equivalently when B's falsity guarantees A's falsity. The English sentence The president was assassinated entails The president is dead, and 他养了一条狗 'he keeps a dog' entails 他养了动物 'he keeps an animal'. The relation is directional: the truth of B does not guarantee the truth of A, since the president might have died of illness instead."]
+    },
+    {
+     "h": "与预设、会话含义的区别",
+     "hEn": "Contrast with Presupposition and Implicature",
+     "p": ["这三个概念可以借助否定测试加以区分。英语 The king of France is bald 预设 There is a king of France，而否定形式 The king of France is not bald 仍保留该预设，蕴涵却会在否定下被取消：John managed to stop 蕴涵 John stopped，但 John did not manage to stop 并不蕴涵 John stopped。会话含义则具有可取消性，「有些学生来了」在某些语境下暗示「并非所有学生都来了」，但字面上仍然为真。"],
+     "pEn": ["These three notions can be separated by negation tests. The king of France is bald presupposes that there is a king of France, and the presupposition survives under negation in The king of France is not bald, whereas entailments are cancelled: John managed to stop entails that John stopped, but John did not manage to stop does not. Conversational implicatures are defeasible, so Some students came may suggest that not all came yet remains literally true."]
+    },
+    {
+     "h": "蕴涵与词汇语义关系",
+     "hEn": "Entailment and Lexical Sense Relations",
+     "p": ["蕴涵是刻画词汇意义关系的基石。上下义关系是单向蕴涵，英语 crimson 蕴涵 red，汉语「玫瑰」蕴涵「花」。同义关系则是双向蕴涵，如「自行车」与「脚踏车」。动词之间的因果与体貌对立同样表现为蕴涵：英语 x killed y 蕴涵 y died，而 x chased y 不蕴涵 y died。这类关系在大规模自然语言推理数据集中被系统标注和使用。"],
+     "pEn": ["Entailment is the foundation for describing lexical sense relations. Hyponymy is one-way entailment: crimson entails red, and 玫瑰 'rose' entails 花 'flower'. Synonymy is mutual entailment, as with 自行车 and 脚踏车 'bicycle'. Causal and aspectual contrasts among verbs are entailments too: x killed y entails that y died, whereas x chased y entails no such thing. Such relations are annotated and exploited at scale in natural language inference datasets."]
+    },
+    {
+     "h": "形式描写与推理",
+     "hEn": "Formal Treatment and Inference",
+     "p": ["在形式语义学中，蕴涵由模型论定义：若每个使 A 为真的模型都使 B 为真，则 A 蕴涵 B。这一关系也可以用单调性统一描写，英语限定词 no 是向下单调的，No dogs bark 蕴涵 No poodles bark；some 则是向上单调的，Some dogs bark 蕴涵 Some animals bark，却不蕴涵 Some poodles bark。广义量词理论正是用单调性来刻画限定词的推理模式。"],
+     "pEn": ["In formal semantics entailment is defined model-theoretically: A entails B if every model that makes A true also makes B true. The relation can also be captured through monotonicity. The English determiner no is downward monotone, so No dogs bark entails No poodles bark, while some is upward monotone: Some dogs bark entails Some animals bark but not Some poodles bark. Generalised quantifier theory uses monotonicity to characterise the inference patterns of determiners."]
+    }
+   ],
+   "terms": [
+    {"t": "蕴涵", "tEn": "Entailment", "d": "A 为真时 B 必然为真、B 为假时 A 必定为假的一种句子间语义推论关系。", "dEn": "The relation in which B must be true whenever A is true."},
+    {"t": "真值条件", "tEn": "Truth condition", "d": "一个句子为真所必须满足的条件，是定义蕴涵等语义关系的基础。", "dEn": "The conditions under which a sentence is true, the basis for semantic relations."},
+    {"t": "预设", "tEn": "Presupposition", "d": "说话人视为理所当然的背景信息，通常在否定和疑问下仍然保留。", "dEn": "Background information that a speaker takes for granted and that survives negation."},
+    {"t": "会话含义", "tEn": "Conversational implicature", "d": "说话人借助合作原则含蓄传达、并且可以在语境中取消的言外之意。", "dEn": "A cancellable suggested meaning that a speaker conveys by relying on the Cooperative Principle."},
+    {"t": "上下义关系", "tEn": "Hyponymy", "d": "下位词与上位词之间意义包含的词汇关系，表现为单向蕴涵。", "dEn": "The lexical inclusion relation between a subordinate and a superordinate term."},
+    {"t": "单调性", "tEn": "Monotonicity", "d": "限定词或算子允许其论元由小集合替换为大集合或反向替换的性质。", "dEn": "The property of a determiner licensing substitution of a set by a larger or smaller one."},
+    {"t": "可取消性", "tEn": "Defeasibility", "d": "某种推论可以在特定语境中被取消而不产生矛盾的性质，含义具有该性质。", "dEn": "The property of an inference being cancellable in context without contradiction."},
+    {"t": "自然语言推理", "tEn": "Natural language inference", "d": "判定两个句子之间是蕴涵、矛盾还是中立关系的计算语言学任务。", "dEn": "The task of classifying sentence pairs as entailment, contradiction or neutral."}
+   ],
+   "related": ["presupposition", "implicature", "proposition", "compositionality", "semantics"],
+   "sources": [
+    "Wikipedia, \"Linguistic entailment\", https://en.wikipedia.org/wiki/Linguistic_entailment",
+    "Grice, \"Logic and Conversation\", 1975",
+    "Levinson, Pragmatics, Cambridge University Press, 1983",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "presupposition",
+   "title": "预设",
+   "en": "Presupposition",
+   "category": "concepts",
+   "tags": ["预设", "触发语", "投射问题", "语用学", "共同背景"],
+   "summary": "预设指说话人视为理所当然、而非断言内容的背景信息。例如「张三不再抽烟了」预设「张三以前抽烟」，无论说成否定句还是疑问句，这一预设都保留。预设由特定触发语引起，如定指描述、事实动词、状态变化动词和分裂句。预设能否在否定、疑问、条件句等环境中存活，即所谓投射问题，是语义学与语用学长期争论的焦点，也是动态语义学的重要课题。",
+   "summaryEn": "A presupposition is background information that a speaker takes for granted rather than asserts. 张三不再抽烟了 'Zhang San no longer smokes' presupposes that he used to smoke, and the presupposition survives under negation and questioning. Presuppositions are triggered by definite descriptions, factive verbs, change-of-state verbs and clefts, among others. Whether and how they project through negation, questions and conditionals is the projection problem, a central issue in semantics, pragmatics and dynamic semantics.",
+   "sections": [
+    {
+     "h": "定义与否定测试",
+     "hEn": "Definition and the Negation Test",
+     "p": ["预设是话语中作为背景被预先假定为真的信息，区别于句子的断言内容。它最显著的特征是可以在否定、疑问、情态等环境下保持不变，即所谓「否定下的恒定」。英语 John stopped smoking 预设 John used to smoke，其否定 John didn't stop smoking 仍作同样预设。汉语亦然：「他后悔买了那辆车」与「他不后悔买了那辆车」都预设「他买了那辆车」。"],
+     "pEn": ["A presupposition is information taken for granted as background, as opposed to what a sentence asserts. Its hallmark is constancy under negation: it survives negation, questioning and modality. John stopped smoking presupposes that John used to smoke, and the negated John didn't stop smoking carries the same presupposition. Mandarin behaves alike, since 他后悔买了那辆车 and its negation 他不后悔买了那辆车 both presuppose that he bought the car."]
+    },
+    {
+     "h": "预设触发语",
+     "hEn": "Presupposition Triggers",
+     "p": ["预设通常由特定词语或句式引起，这些词语称为触发语。定指描述 the king of France 预设存在法国国王；事实动词 know、regret 预设其补语为真，「我知道他来了」预设「他来了」；状态变化动词 stop、begin 预设先前的状态；分裂句「是张三打破了窗户」预设「有人打破了窗户」。此外，again、too 和汉语「也」这样的重复义副词预设此前已存在同类事件。"],
+     "pEn": ["Presuppositions are typically triggered by particular words and constructions. Definite descriptions such as the king of France presuppose existence; factive verbs like know and regret presuppose the truth of their complement, so 我知道他来了 presupposes that he came; change-of-state verbs like stop and begin presuppose a prior state; and clefts such as 是张三打破了窗户 presuppose that someone broke the window. Additives like again, too and 也 presuppose a prior or parallel event of the same kind."]
+    },
+    {
+     "h": "投射问题",
+     "hEn": "The Projection Problem",
+     "p": ["当预设出现在复合句中时，它是否保留由投射规律决定。在「如果张三停止抽烟，他的身体会好转」中，停烟预设依然投射出来；但在「如果张三曾经抽烟，那么他现在停止抽烟了」中，预设被条件句的前件吸收而不再出现。否定、情态和可能世界算子的性质决定预设能否穿透，这一现象称为投射问题，是坎普与斯托克纳克等人争论的核心。"],
+     "pEn": ["When a presupposition occurs inside a complex sentence, whether it survives is governed by projection rules. In 如果张三停止抽烟，他的身体会好转 the presupposition still projects, but in 如果张三曾经抽烟，那么他现在停止抽烟了 it is absorbed by the antecedent and disappears completely. The semantics of negation, modals and possible-world operators determines whether presuppositions penetrate, a phenomenon known as the projection problem and debated at length by Karttunen, Stalnaker and others."]
+    },
+    {
+     "h": "理论解释",
+     "hEn": "Theoretical Accounts",
+     "p": ["对预设存在语义学与语用学两类解释。语义预设理论把预设看作真值条件的一部分，预设失败会使句子既非真也非假，这可以解释「法国国王是秃头」的异常感。语用预设理论由斯托克纳克与格莱斯的传统发展而来，认为预设是说话人对共同背景的假定，属于言语行为的适切条件。当代动态语义学，如海姆的文件变更语义学，则用语境更新来统一解释预设的投射与适切性。"],
+     "pEn": ["Accounts of presupposition fall into semantic and pragmatic families. Semantic theories treat presupposition as part of truth conditions, so that presupposition failure renders a sentence neither true nor false, which explains the oddity of The king of France is bald. Pragmatic theories, developing the tradition of Stalnaker and Grice, see presuppositions as speakers' assumptions about the common ground and as felicity conditions on speech acts. Dynamic semantics, such as Heim's file change semantics, models projection and felicity uniformly as context update."]
+    }
+   ],
+   "terms": [
+    {"t": "预设", "tEn": "Presupposition", "d": "说话人视为理所当然、在否定和疑问下通常保持不变的背景信息。", "dEn": "Background information taken for granted that survives negation and questioning."},
+    {"t": "预设触发语", "tEn": "Presupposition trigger", "d": "引起预设的特定词语或句式，如定指描述、事实动词和分裂句。", "dEn": "A word or construction that gives rise to a presupposition."},
+    {"t": "投射问题", "tEn": "Projection problem", "d": "预设嵌入否定、条件等复杂结构后是否保留以及如何保留的问题。", "dEn": "The problem of whether presuppositions survive embedding in complex sentences."},
+    {"t": "否定测试", "tEn": "Negation test", "d": "通过观察某推论在否定句中是否保留来区分预设与蕴涵的操作方法。", "dEn": "A diagnostic that distinguishes presupposition from entailment by checking survival under negation."},
+    {"t": "事实动词", "tEn": "Factive verb", "d": "预设其补语从句所表达的命题为真的动词，如英语 know、regret 和汉语「后悔」。", "dEn": "A verb that presupposes the truth of its complement clause."},
+    {"t": "共同背景", "tEn": "Common ground", "d": "交际双方共同接受、并被不断更新的命题集合，预设须在其中成立。", "dEn": "The set of propositions mutually accepted by interlocutors during a conversation."},
+    {"t": "适切条件", "tEn": "Felicity condition", "d": "使某一言语行为得体或恰当所必须满足的条件，预设属于此类条件。", "dEn": "A condition that must hold for a speech act to be appropriate."},
+    {"t": "动态语义学", "tEn": "Dynamic semantics", "d": "把句子意义视为语境更新潜能的语义理论，用于解释预设投射。", "dEn": "A semantic framework treating meaning as potential to update context."}
+   ],
+   "related": ["entailment", "implicature", "pragmatics", "speech-act", "deixis"],
+   "sources": [
+    "Wikipedia, \"Presupposition\", https://en.wikipedia.org/wiki/Presupposition",
+    "Stalnaker, \"Pragmatics\", in Semantics of Natural Language, 1972",
+    "Levinson, Pragmatics, Cambridge University Press, 1983",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

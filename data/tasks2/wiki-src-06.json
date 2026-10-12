@@ -1,0 +1,48 @@
+{
+ "batch": 6,
+ "out": "data/gen2/wiki-src/wiki-src-06.json",
+ "entries": [
+  {
+   "id": "latin-alphabet",
+   "title": "拉丁字母",
+   "en": "Latin Alphabet",
+   "category": "writing",
+   "summary": "拉丁字母是源出希腊字母、经埃特鲁斯坎字母中介而形成的字母系统，古典时期有 23 个字母，中世纪增补 J、U、W 后定型为 26 个。它被世界上大多数语言采用，衍"
+  },
+  {
+   "id": "lexical-semantics",
+   "title": "词汇语义学",
+   "en": "Lexical Semantics",
+   "category": "concepts",
+   "summary": "词汇语义学是研究词义及其系统组织的语义学分支，关注词义的结构、义项划分、语义特征，以及同义、反义、上下义、部分—整体等词汇关系。它综合结构主义语义场理论、成分分"
+  },
+  {
+   "id": "linguistic-relativity",
+   "title": "语言相对论",
+   "en": "Linguistic Relativity",
+   "category": "theories",
+   "summary": "语言相对论探讨语言结构是否以及如何影响使用者的思维与认知，源于洪堡特及萨丕尔、沃尔夫的论述，通称「萨丕尔—沃尔夫假说」。其强式主张语言决定思维，弱式主张语言影响"
+  },
+  {
+   "id": "minimal-pair",
+   "title": "最小对立对",
+   "en": "Minimal Pair",
+   "category": "concepts",
+   "summary": "最小对立对指除一个音段（或一个区别特征、一个声调）之外，其余语音环境完全相同而意义不同的一对词。它是音系分析中最基本、最可靠的测试手段，用来确认音位对立、判定音"
+  },
+  {
+   "id": "morpheme",
+   "title": "语素",
+   "en": "Morpheme",
+   "category": "concepts",
+   "summary": "语素是语言中最小的音义结合体，既不能再切分为更小的音义单位，也不能进一步分解为更小的语法成分。它是形态学分析的基本单位，可按是否能独立成词分为自由语素与粘着语素"
+  },
+  {
+   "id": "morphology",
+   "title": "形态学",
+   "en": "Morphology",
+   "category": "branches",
+   "summary": "形态学是研究词的内部结构与构词规则的学科，关注词素、词根、词缀及其组合方式，解释屈折、派生与复合等形态过程。它连接音系学与句法学，是语言类型分类的重要依据，并在"
+  }
+ ]
+}

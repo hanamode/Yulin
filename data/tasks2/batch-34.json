@@ -1,0 +1,24 @@
+{
+ "batch": 34,
+ "out": "data/gen2/batch-34.json",
+ "entries": [
+  {
+   "id": "firth",
+   "title": "约翰·弗斯",
+   "en": "J. R. Firth",
+   "category": "people"
+  },
+  {
+   "id": "brown-levinson",
+   "title": "布朗与列文森",
+   "en": "Brown and Levinson",
+   "category": "people"
+  },
+  {
+   "id": "niger-congo",
+   "title": "尼日尔-刚果语系",
+   "en": "Niger-Congo",
+   "category": "writing"
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "batch": 9,
+ "entries": [
+  {
+   "id": "assimilation",
+   "title": "同化",
+   "en": "Assimilation",
+   "category": "concepts",
+   "tags": [
+    "音系过程",
+    "协同发音",
+    "逆行同化",
+    "特征扩展",
+    "音变",
+    "语流音变"
+   ],
+   "summary": "同化是音系学中最常见的语音过程之一，指相邻或相近的音段因发音动作相互影响而变得相似，甚至完全相同。它可以是逆行、顺行或相互的，也可以是部分或完全的。同化受协同发音与发音经济原则驱动，并在许多语言中造成词形交替与历史音变，例如英语否定前缀 in- 在 impossible、illegal、irregular 中的不同形式，以及拉丁语前缀 ad- 在 accept 中的同化。",
+   "summaryEn": "Assimilation is one of the commonest phonological processes: neighbouring speech sounds become more alike, or entirely identical, because their articulatory gestures overlap. It may be regressive, progressive or mutual, and partial or total, and it is driven by coarticulation and economy of effort. Assimilation produces alternations and historical changes in many languages, as in the varying English negative prefix in- found in impossible, illegal and irregular, or the Latin prefix ad-, which matches the consonant that follows it.",
+   "sections": [
+    {
+     "h": "定义与分类",
+     "hEn": "Definition and Classification",
+     "p": [
+      "同化指一个音段在发音特征上向邻近音段靠拢，从而变得更相似或完全相同的音系过程。按方向可分为逆行同化、顺行同化与相互同化；按程度可分为部分同化与完全同化；按距离还可分为邻近同化与远距同化。例如英语 ten bikes 通常读作 [tem baɪks]，舌尖鼻音 /n/ 受后面双唇音 /b/ 影响变为双唇鼻音 [m]，这是典型的逆行部分同化，也是各语言中最常见的类型。"
+     ],
+     "pEn": [
+      "Assimilation is the phonological process by which one segment becomes more similar, or identical, to a neighbouring segment in one or more articulatory features. It is classified by direction as regressive, progressive or mutual; by degree as partial or total; and by distance as contact or distant. In English, ten bikes is typically pronounced [tem baɪks], where the alveolar nasal /n/ shifts to bilabial [m] under the influence of the following /b/. This is regressive partial assimilation, the commonest type across languages."
+     ]
+    },
+    {
+     "h": "语音机制与动因",
+     "hEn": "Phonetic Mechanisms and Motivation",
+     "p": [
+      "同化的语音基础是协同发音：在快速语流中，发音器官难以在极短时间内完成两次彼此冲突的动作，于是前一个音的发音姿态提前或滞后于后一个音。发音经济原则使相邻音段共享同一组特征，如清浊、鼻音性、圆唇性或发音部位，因此同化多出现在辅音连缀和跨词边界处。俄语 сдать 读作 [zdat]，/s/ 受后面浊塞音影响而浊化，即为逆行清浊同化。听者偏好平滑的语音过渡，这使同化形式进一步在社区中稳定下来。"
+     ],
+     "pEn": [
+      "The phonetic basis of assimilation is coarticulation: in rapid speech the articulators cannot complete two conflicting gestures within a very short interval, so the gesture of one sound overlaps with that of its neighbour. Economy of effort leads adjacent segments to share features such as voicing, nasality, rounding or place of articulation, so assimilation clusters around consonant sequences and word boundaries. Russian сдать is pronounced [zdat], the /s/ becoming voiced before a voiced stop, a clear case of regressive voicing assimilation. Listeners also prefer smooth transitions, which helps such forms stabilize in a community."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "英语否定前缀 in- 随后续辅音的发音部位而变：inedible 保留 in-，impossible、immoral 出现 im-，illegal 出现 il-，irregular 出现 ir-，这些形式保留了拉丁语借词中的逆行完全同化。英语复数词尾的清浊同样受前音支配，cats [kæts] 与 dogs [dɔɡz] 中的 -s 读音不同。汉语中「面包」常读作 [miɛm pau]，「新闻」常读作 [ɕim uən]，都是 /n/ 受后字双唇音影响变为 [m] 的逆行同化。"
+     ],
+     "pEn": [
+      "The English negative prefix in- varies with the place of the following consonant: in- survives in inedible, while im- appears in impossible and immoral, il- in illegal and illogical, and ir- in irregular and irrelevant. These forms preserve regressive total assimilation inherited from Latin. The plural ending likewise varies with voicing, as in cats [kæts] versus dogs [dɔɡz]. In Mandarin, 面包 miànbāo is commonly [miɛm pau] and 新闻 xīnwén is [ɕim uən], where the alveolar nasal /n/ becomes bilabial before a following labial."
+     ]
+    },
+    {
+     "h": "与音变和形态的关系",
+     "hEn": "Relation to Sound Change and Morphology",
+     "p": [
+      "在历时层面，同化是重要的音变机制，许多共时的形态交替其实是历史同化的沉积。梵语的连音规则详细描写了词末与词首辅音如何相互调整；拉丁语前缀 ad- 在 accept 中变为 ac-，在 assume 中变为 as-，同化形式已固定在英语拼写里。日语复合词中的连浊，如「時々」读作 toki-doki，第二成分的 /t/ 变为 [d]，也常被解释为浊音同化。由此可见，共时的形态规则往往可以追溯到历时的同化过程。"
+     ],
+     "pEn": [
+      "Diachronically, assimilation is a major mechanism of sound change, and many synchronic alternations are fossils of it. Sanskrit sandhi rules describe in detail how final and initial consonants adjust to one another; the Latin prefix ad- surfaces as ac- in accept and as as- in assume, and these assimilated forms are fixed in English spelling. Rendaku in Japanese compounds, as in 時々 toki-doki where the initial /t/ of the second element voices to [d], is likewise often explained by voicing assimilation. Synchronic morphological rules can therefore frequently be traced back to diachronic assimilation."
+     ]
+    },
+    {
+     "h": "理论处理与争议",
+     "hEn": "Theoretical Treatments and Debates",
+     "p": [
+      "在生成音系学中，同化被形式化为特征扩展规则，如 /n/ 变为 [m] 出现在双唇音之前；优选论则用标记性制约条件解释为何同化比保持原音更为常见。争议集中于同化是否纯由发音生理决定：有学者指出，不少历史同化并没有共时的发音动因，感知驱动的同化同样可以引发音变。此外，同化与单纯的协同发音之间的界限也很难划定，因为一旦协同发音被范畴化，它就会转变为真正的音系规则。"
+     ],
+     "pEn": [
+      "In generative phonology assimilation is formalized as feature spreading, for instance /n/ becoming [m] before a labial, while Optimality Theory appeals to markedness constraints to explain why assimilation is preferred to faithful realization. The main controversy concerns whether assimilation is purely articulatory: some historical assimilations have no synchronic articulatory motivation, and perceptually driven assimilation can also cause change. The boundary between assimilation and mere coarticulation is equally hard to draw, since once coarticulation is categorized by learners it becomes a genuine phonological rule."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "同化",
+     "tEn": "Assimilation",
+     "d": "一个音段向邻近音段靠拢，在发音特征上变得相似或完全相同的音系过程。",
+     "dEn": "A phonological process in which a segment becomes more similar or identical to a neighbouring segment."
+    },
+    {
+     "t": "逆行同化",
+     "tEn": "Regressive assimilation",
+     "d": "后一个音影响前一个音，使前音向其靠拢，如 ten bikes 中的 /n/ 变为 [m]。",
+     "dEn": "Assimilation in which a following sound influences a preceding one, as /n/ becoming [m] in ten bikes."
+    },
+    {
+     "t": "顺行同化",
+     "tEn": "Progressive assimilation",
+     "d": "前一个音影响后一个音，如英语 cats 中清辅音后的词尾 -s 读作 [s]。",
+     "dEn": "Assimilation in which a preceding sound influences a following one, as the [s] of cats after a voiceless stop."
+    },
+    {
+     "t": "完全同化",
+     "tEn": "Total assimilation",
+     "d": "两个音段变得完全相同，如拉丁语前缀 ad- 在 accept 中变为 ac-。",
+     "dEn": "Assimilation in which two segments become identical, as Latin ad- becoming ac- in accept."
+    },
+    {
+     "t": "部分同化",
+     "tEn": "Partial assimilation",
+     "d": "只在个别特征上趋同，如清浊、鼻音性或发音部位的一致性。",
+     "dEn": "Assimilation affecting only some features, such as voicing, nasality or place of articulation."
+    },
+    {
+     "t": "协同发音",
+     "tEn": "Coarticulation",
+     "d": "相邻音段的发音姿态在时间上相互重叠，是同化现象的语音基础。",
+     "dEn": "The temporal overlap of articulatory gestures for adjacent segments, which underlies assimilation."
+    },
+    {
+     "t": "远距同化",
+     "tEn": "Distant assimilation",
+     "d": "相隔较远的音段之间发生的同化，元音和谐是其典型表现。",
+     "dEn": "Assimilation between segments that are not adjacent, vowel harmony being a typical instance."
+    },
+    {
+     "t": "特征扩展",
+     "tEn": "Feature spreading",
+     "d": "生成音系学中把同化视为某一区别特征由一段扩展到相邻音段的规则。",
+     "dEn": "In generative phonology, the rule by which a distinctive feature spreads from one segment to another."
+    }
+   ],
+   "related": [
+    "sound-change",
+    "phonology",
+    "allophone",
+    "phonotactics",
+    "distinctive-feature"
+   ],
+   "sources": [
+    "Wikipedia, \"Assimilation (phonology)\", https://en.wikipedia.org/wiki/Assimilation_(phonology)",
+    "Bloomfield, Language, 1933",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "dissimilation",
+   "title": "异化",
+   "en": "Dissimilation",
+   "category": "concepts",
+   "tags": [
+    "音系过程",
+    "零星音变",
+    "流音",
+    "音节结构",
+    "历史语言学",
+    "发音动因"
+   ],
+   "summary": "异化是音系学中指两个相同或相似的音在邻近或相近位置上变得不相像的语音过程，其方向与同化相反。异化最常作用于流音和鼻音，如拉丁语 peregrinus 演变为意大利语 pellegrino、法语 pèlerin，以及拉丁语 arbor 演变为西班牙语 árbol。异化多由发音困难和听辨区分需求驱动，常表现为零星的、只影响个别词项的变化，因而不像同化那样形成整齐的音变规律。",
+   "summaryEn": "Dissimilation is the phonological process by which two identical or similar sounds in neighbouring or nearby positions become less alike, the counterpart of assimilation. It most often affects liquids and nasals, as when Latin peregrinus became Italian pellegrino and French pèlerin, or Latin arbor became Spanish árbol. Driven by articulatory difficulty and the need for perceptual distinctness, dissimilation is typically sporadic and affects individual lexical items, so unlike assimilation it rarely yields exceptionless sound laws.",
+   "sections": [
+    {
+     "h": "定义与分类",
+     "hEn": "Definition and Classification",
+     "p": [
+      "异化指两个相同或相似的音段在邻近位置共现时，其中一个发生改变，使两者变得彼此不同，其效果与同化恰好相反。按方向可分为逆行异化与顺行异化；按距离可分为邻近异化与远距异化；按程度可分为部分异化与完全异化。最常见的异化对象是流音 /r/ 与 /l/ 以及鼻音，因为这些音的发音姿态彼此接近而容易混淆。例如拉丁语 arbor 在西班牙语中变为 árbol，两个颤音中的后一个变成 /l/，从而避免在一个词里重复同样的颤音。"
+     ],
+     "pEn": [
+      "Dissimilation occurs when two identical or similar segments in nearby positions become less alike, the mirror image of assimilation. It may be regressive or progressive, contact or distant, partial or total. Liquids such as /r/ and /l/, together with nasals, are the most frequent targets because their articulations resemble one another and are easily confused. Latin arbor became Spanish árbol, in which the second rhotic changed to /l/, so that a single word does not repeat the same trill."
+     ]
+    },
+    {
+     "h": "语音动因",
+     "hEn": "Phonetic Motivation",
+     "p": [
+      "关于异化的动因主要有两种解释。发音上的解释认为，连续发出两个相同或极为相似的复杂音段需要重复精确的舌部动作，容易失误，于是其中一个被简化。感知上的解释则认为，重复的音段使听者难以分辨其数量和位置，说话人为保证区别而改变其中一个。这两种解释并不互斥，实际案例中往往同时起作用。与同化不同，异化通常只影响个别词项，属于零星的、词汇扩散式的变化，很难写成整齐的音变规律。"
+     ],
+     "pEn": [
+      "Two main explanations have been offered for dissimilation. An articulatory account holds that producing two identical or highly similar complex segments requires repeating the same precise tongue gesture, which is error-prone, so one of them is simplified. A perceptual account holds that repeated segments make it hard for listeners to identify their number and position, so speakers alter one in order to keep them distinct. The two are not mutually exclusive and often work together. Unlike assimilation, dissimilation usually affects individual lexical items and spreads lexically rather than as a regular sound law."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "拉丁语 peregrinus 演变为意大利语 pellegrino 和法语 pèlerin，第一个 /r/ 异化为 /l/，英语 pilgrim 同出一源。英语 library 常读作 [ˈlaɪbri]，temporary 常读作 [ˈtɛmpəri]，两个 /r/ 中的一个脱落，通常被分析为异化或与之相关的音段删除。汉语部分方言中 n 与 l 声母的交替、以及前后鼻音韵尾的混淆，也被认为与异化有关。这些例子表明，异化几乎总是以个别词项为单位，而不是成批地作用于整个音类。"
+     ],
+     "pEn": [
+      "Latin peregrinus yielded Italian pellegrino and French pèlerin, in which the first rhotic dissimilated to /l/; English pilgrim comes from the same source. English library is widely pronounced [ˈlaɪbri] and temporary as [ˈtɛmpəri], where one of the two rhotics is lost and the change is usually analysed as dissimilation or associated deletion. Alternations between the initials n and l in some Chinese dialects have likewise been attributed to dissimilation. Such cases show that dissimilation operates item by item rather than across an entire sound class at once."
+     ]
+    },
+    {
+     "h": "在音变中的地位与争议",
+     "hEn": "Status in Sound Change and Debates",
+     "p": [
+      "在历史语言学中，异化与同化并列，被视为语音变化的基本类型之一，但由于它是零星的，比较法在重建原始语时很少倚重它。异化有时也会在形态层面固定下来，如拉丁语前缀 dis- 在 difficile 中写作 dif-。争议在于某些被称为异化的现象其实可用其他机制解释：例如 surprise 中 /r/ 的脱落可以看作单纯的省音，而英语形容词后缀 -al 与 -ar 的交替更多与类推和历史层次有关，未必是严格的语音异化。"
+     ],
+     "pEn": [
+      "In historical linguistics dissimilation is listed alongside assimilation among the basic types of sound change, but because it is sporadic the comparative method seldom relies on it in reconstruction. Dissimilation may also become fixed in morphology, as when the Latin prefix dis- appears as dif- in difficile. The controversy is that some alleged dissimilations are better explained by other mechanisms: the loss of /r/ in surprise [səˈpraɪz] may be treated as plain deletion, while alternations such as the English suffixes -al and -ar are due at least partly to analogy and layered borrowing rather than to strictly phonetic dissimilation."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "异化",
+     "tEn": "Dissimilation",
+     "d": "两个相同或相似的音变得不相像的语音过程，效果与同化相反。",
+     "dEn": "A phonological process in which two identical or similar sounds become less alike, the counterpart of assimilation."
+    },
+    {
+     "t": "逆行异化",
+     "tEn": "Regressive dissimilation",
+     "d": "后一个音促使前一个音发生变化，如 peregrinus 中第一个 /r/ 变为 /l/。",
+     "dEn": "Dissimilation in which a later sound causes an earlier one to change, as the first /r/ of peregrinus."
+    },
+    {
+     "t": "顺行异化",
+     "tEn": "Progressive dissimilation",
+     "d": "前一个音促使后一个音发生改变，使两者在发音特征上不再相像。",
+     "dEn": "Dissimilation in which an earlier sound causes a following one to change."
+    },
+    {
+     "t": "远距异化",
+     "tEn": "Distant dissimilation",
+     "d": "发生在相隔较远的两个音段之间，而非紧邻位置上的异化现象。",
+     "dEn": "Dissimilation between segments that are separated by other material rather than adjacent."
+    },
+    {
+     "t": "零星音变",
+     "tEn": "Sporadic sound change",
+     "d": "只影响个别词项、不构成整齐规律的音变，异化多属此类。",
+     "dEn": "Sound change affecting individual lexical items rather than applying as a regular law."
+    },
+    {
+     "t": "流音",
+     "tEn": "Liquid",
+     "d": "包括 /l/ 与 /r/ 在内的一类辅音，是异化与同化最常见的对象。",
+     "dEn": "A class of consonants including /l/ and /r/, the most frequent targets of dissimilation."
+    },
+    {
+     "t": "省音",
+     "tEn": "Elision",
+     "d": "音段在连续语流中完全消失的现象，有时与异化造成的脱落难以区分。",
+     "dEn": "The loss of a segment in connected speech, sometimes hard to distinguish from dissimilation."
+    },
+    {
+     "t": "类推",
+     "tEn": "Analogy",
+     "d": "依据语言中已有的模式改造形式，可能造成类似异化的交替。",
+     "dEn": "Reshaping of forms on the basis of existing patterns, which may produce dissimilation-like alternations."
+    }
+   ],
+   "related": [
+    "sound-change",
+    "phonology",
+    "allomorphy",
+    "morphology",
+    "comparative-method"
+   ],
+   "sources": [
+    "Wikipedia, \"Dissimilation\", https://en.wikipedia.org/wiki/Dissimilation",
+    "Campbell, Historical Linguistics: An Introduction, 2013",
+    "Ohala, \"The Phonetics of Sound Change\", 1993"
+   ]
+  },
+  {
+   "id": "epenthesis",
+   "title": "增音",
+   "en": "Epenthesis",
+   "category": "concepts",
+   "tags": [
+    "音系过程",
+    "插音",
+    "音位配列",
+    "音节结构",
+    "借词适应",
+    "历史音变"
+   ],
+   "summary": "增音指在词或音节内部插入一个原本不存在的音段，通常用于消除不符合本语音位配列规则的音节结构。插入元音称插音，插入辅音称加辅音，按位置又可分为词首增音、词中增音与词末增音。增音既可以是共时的规则性调整，例如英语 prince 常读作 [pɹɪnts]，也可以是历史音变，例如拉丁语 schola 演变为西班牙语 escuela，以及在借词适应与儿童语言中普遍出现。",
+   "summaryEn": "Epenthesis is the insertion of a segment that is not present in the underlying form, usually in order to repair a syllable structure that violates the language's phonotactics. An inserted vowel is called anaptyxis and an inserted consonant is called consonant epenthesis; by position the process is classified as prothesis, anaptyxis or paragoge. It may be a synchronic rule, as when English prince is pronounced [pɹɪnts], or a historical change, as when Latin schola became Spanish escuela. Loanword adaptation and child language supply abundant examples.",
+   "sections": [
+    {
+     "h": "定义与分类",
+     "hEn": "Definition and Classification",
+     "p": [
+      "增音指在语流中插入一个在底层形式中并不存在的音段，其目的通常是修复不合法的音节结构或音位配列。插入元音的现象称插音，常见于辅音连缀内部或词首复杂辅音之前；插入辅音的现象称加辅音，多出现在鼻音与擦音之间或两个元音之间。按位置可分为词首增音、词中增音与词末增音。例如西班牙语不允许以 s 加辅音起首，因此拉丁语 schola 进入西班牙语后变为 escuela。"
+     ],
+     "pEn": [
+      "Epenthesis is the insertion of a segment that is absent from the underlying representation, normally in order to repair an illicit syllable or phonotactic pattern. The insertion of a vowel is called anaptyxis and typically occurs inside consonant clusters or before a word-initial complex onset; the insertion of a consonant is called consonant epenthesis and often appears between a nasal and a fricative or between two vowels. By position, epenthesis is classified as prothesis, anaptyxis or paragoge. Spanish disallows initial s plus consonant, so Latin schola became escuela."
+     ]
+    },
+    {
+     "h": "语音动因与音节结构",
+     "hEn": "Motivation and Syllable Structure",
+     "p": [
+      "增音的根本动因在于语言的音节结构限制。许多语言要求每个音节都有核心元音，或禁止特定的辅音组合，于是说话人在无法删除或改变音段时选择插入。日语既不允许 st- 起首也不允许 -k 收尾，因此把英语 strike 借入为 sutoraiku。听觉感知也起作用：鼻音后清塞音的爆破十分微弱，听者容易把它听成鼻音加塞音，于是产生插入的 [t]，英语 prince 与 prints 同音即由此而来。优选论把这类现象解释为音节结构制约条件与忠实性条件相互作用的结果。"
+     ],
+     "pEn": [
+      "Epenthesis is motivated above all by syllable-structure constraints. Many languages require every syllable to have a vocalic nucleus or forbid particular consonant sequences, and speakers insert material when deletion or feature change is unavailable. Japanese permits neither initial st- nor final -k, so it borrows English strike as sutoraiku. Perception also plays a role: the release burst of a stop after a nasal is weak, so listeners may hear an intrusive [t], which is why English prince and prints are homophones. Optimality Theory models such repairs as the interaction of syllable-structure markedness constraints with faithfulness."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "英语 athlete 常读作 [ˈæθəliːt]，在 θ 与 l 之间插入一个弱元音；warmth 常读作 [wɔːrmpθ]，在 m 与 θ 之间插入 [p]。历史层面，许多语言禁止词首颤音，希腊语在原始印欧语以 r 起首的词前加上元音，如 ἐρυθρός erythros「红」对应拉丁语 ruber，这是典型的词首增音。借词适应同样依赖增音，日语把英语 strike 读作 sutoraiku，汉语把 sofa 译作「沙发」，用元音填补本族语音系不允许的结构。"
+     ],
+     "pEn": [
+      "English athlete is often [ˈæθəliːt], with a weak vowel inserted between θ and l, and warmth is frequently [wɔːrmpθ], with an intrusive [p] between m and θ. Historically, many languages forbid word-initial trills, and Greek prefixed a vowel to PIE words beginning in r, as in ἐρυθρός erythros red beside Latin ruber, a clear case of prothesis. Loanword adaptation relies on epenthesis as well: Japanese renders English strike as sutoraiku, and Mandarin renders sofa as 沙发 shāfā, filling out structures that native phonotactics disallow."
+     ]
+    },
+    {
+     "h": "语言习得、理论处理与争议",
+     "hEn": "Acquisition, Theory and Debates",
+     "p": [
+      "增音在语言习得与语言接触中极为常见。儿童习得英语时把 blue 说成 [bəˈluː]，在词首辅音连缀中插入元音，反映了音节结构能力的发展。在理论层面，生成音系学把增音写作插入规则，即空位在特定环境中获得某一特征；优选论则主张表层并没有真正的插入，只是忠实性条件被标记性条件压倒，因而出现底层所无的材料。争议在于增音是否具有心理现实性，以及它究竟是一条规则还只是对表层现象的描述性标签。"
+     ],
+     "pEn": [
+      "Epenthesis is pervasive in language acquisition and language contact. Children learning English may say [bəˈluː] for blue, inserting a vowel into the initial cluster, which reflects the development of syllable structure. In generative phonology epenthesis is written as an insertion rule whereby an empty slot acquires features in a specified environment, whereas Optimality Theory argues that nothing is literally inserted: faithfulness constraints are simply outranked by markedness constraints, so surface material absent from the input appears. The debate concerns whether epenthesis has psychological reality or is only a descriptive label."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "增音",
+     "tEn": "Epenthesis",
+     "d": "在底层形式之外插入音段，以修复音节结构或音位配列的音系过程。",
+     "dEn": "The insertion of a segment absent from the underlying form in order to repair syllable structure or phonotactics."
+    },
+    {
+     "t": "插音",
+     "tEn": "Anaptyxis",
+     "d": "在辅音之间插入元音的现象，尤指发生在词中位置的元音增音。",
+     "dEn": "The insertion of a vowel between two consonants, especially in word-internal position."
+    },
+    {
+     "t": "词首增音",
+     "tEn": "Prothesis",
+     "d": "在词的起始位置增添音段，如希腊语在词首 r 之前加上元音。",
+     "dEn": "The addition of a segment at the beginning of a word, as Greek e- before initial r."
+    },
+    {
+     "t": "词末增音",
+     "tEn": "Paragoge",
+     "d": "在词末增添音段，常用来避免本族语不允许的词末辅音。",
+     "dEn": "The addition of a segment at the end of a word, often to avoid an illicit final consonant."
+    },
+    {
+     "t": "音位配列",
+     "tEn": "Phonotactics",
+     "d": "制约音段组合可能性的规则系统，增音常为满足其要求而发生。",
+     "dEn": "The set of constraints on possible sound combinations, whose demands frequently trigger epenthesis."
+    },
+    {
+     "t": "借词适应",
+     "tEn": "Loanword adaptation",
+     "d": "外来词按本族语音系规则被改造，增音是其中最常用的手段之一。",
+     "dEn": "The modification of borrowed words to fit native phonology, epenthesis being one of the commonest devices."
+    },
+    {
+     "t": "插入规则",
+     "tEn": "Insertion rule",
+     "d": "生成音系学中表示增音的规则，即空位在特定环境中获得特征。",
+     "dEn": "A generative rule by which an empty position acquires features in a specified context."
+    },
+    {
+     "t": "优选论",
+     "tEn": "Optimality Theory",
+     "d": "以制约条件的排序来解释增音等音节修复现象的音系学理论框架。",
+     "dEn": "A framework explaining repairs such as epenthesis through the ranking of constraints."
+    }
+   ],
+   "related": [
+    "phonotactics",
+    "syllable",
+    "phonology",
+    "sound-change",
+    "loanword"
+   ],
+   "sources": [
+    "Wikipedia, \"Epenthesis\", https://en.wikipedia.org/wiki/Epenthesis",
+    "Campbell, Historical Linguistics: An Introduction, 2013",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

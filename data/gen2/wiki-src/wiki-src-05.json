@@ -1,0 +1,11 @@
+{
+ "batch": 5,
+ "titles": {
+  "indo-european": "Indo-European languages",
+  "ipa": "International Phonetic Alphabet",
+  "jakobson": "Roman Jakobson",
+  "labov": "William Labov",
+  "language-acquisition": "Language acquisition",
+  "language-family": "Language family"
+ }
+}

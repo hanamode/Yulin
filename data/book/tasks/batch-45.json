@@ -1,0 +1,25 @@
+{
+ "batch": 45,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-45.json",
+ "sections": [
+  {
+   "id": "chapter-100-slug-8-12-assertion",
+   "title": "8.12 Assertion",
+   "src": "data/book/src/chapter-100-slug-8-12-assertion.txt",
+   "chars": 6139
+  },
+  {
+   "id": "chapter-101-slug-8-13-question",
+   "title": "8.13 Question",
+   "src": "data/book/src/chapter-101-slug-8-13-question.txt",
+   "chars": 5244
+  },
+  {
+   "id": "chapter-102-slug-8-14-analysing-meaning-dynamically",
+   "title": "8.14 Analysing meaning dynamically",
+   "src": "data/book/src/chapter-102-slug-8-14-analysing-meaning-dynamically.txt",
+   "chars": 10649
+  }
+ ]
+}

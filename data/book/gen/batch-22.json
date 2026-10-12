@@ -1,0 +1,310 @@
+{
+ "batch": 22,
+ "sections": {
+  "part-005-chapter-5-morphology": {
+   "title": {
+    "en": "Chapter 5: Morphology",
+    "zh": "第 5 章：形态学"
+   },
+   "summary": {
+    "en": "This chapter turns to words and to the meaningful pieces that combine to create them. Languages differ in how they build words, yet structure can be found inside words in every language. The linguistic study of word forms is called morphology. The chapter sets out four learning goals covering morphemes, inflection, derivation, compounding, lexical categories, and the analysis of complex words.",
+    "zh": "本章考察词以及构成词的有意义单位。各语言的构词方式不同，但在任何语言中都能发现词的内部结构。语言学中研究词形的分支称为形态学。本章提出的四项学习目标涉及语素、屈折、派生、复合、词类以及复杂词的分析，为后续各节奠定基础。"
+   },
+   "points": [
+    {
+     "en": "Languages vary in how they build words, but structure can be found inside words in all languages.",
+     "zh": "各语言构词方式不同，但在所有语言中都能在词的内部发现结构。"
+    },
+    {
+     "en": "Morphology is the linguistic study of word forms.",
+     "zh": "形态学是语言学中研究词形的分支。"
+    },
+    {
+     "en": "Readers should identify morphologically complex words and the morphemes within them.",
+     "zh": "读者应能识别形态复杂的词及其内部的语素。"
+    },
+    {
+     "en": "Readers should distinguish inflectional morphology, derivational morphology, and compounds.",
+     "zh": "读者应能区分屈折形态、派生形态与复合词。"
+    },
+    {
+     "en": "Readers should explain how morphology interacts with lexical category and analyse complex word structure.",
+     "zh": "读者应能解释形态与词类的互动，并分析复杂词的结构。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "morphology",
+     "zh": "形态学",
+     "defEn": "The branch of linguistics that studies how words are formed and structured.",
+     "defZh": "语言学中研究词的构成与内部结构的分支。"
+    },
+    {
+     "en": "morpheme",
+     "zh": "语素",
+     "defEn": "A minimal meaningful piece that combines with others to build words.",
+     "defZh": "构成词的最小意义单位，可与其他单位组合成词。"
+    },
+    {
+     "en": "morphologically complex word",
+     "zh": "形态复杂的词",
+     "defEn": "A word that contains more than one morpheme inside it.",
+     "defZh": "内部包含一个以上语素的词。"
+    },
+    {
+     "en": "inflectional morphology",
+     "zh": "屈折形态",
+     "defEn": "Morphology that adds grammatical information without creating a new word.",
+     "defZh": "只增添语法信息、不构成新词的形态变化。"
+    },
+    {
+     "en": "derivational morphology",
+     "zh": "派生形态",
+     "defEn": "Morphology that builds new words, often changing the lexical category.",
+     "defZh": "构成新词的形态过程，常改变词的词类。"
+    },
+    {
+     "en": "compounding",
+     "zh": "复合",
+     "defEn": "Word formation that joins two or more existing words into one.",
+     "defZh": "把两个或更多已有的词组合成一个新词的构词方式。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "This chapter turns to words and to the meaningful pieces that combine to create them. Languages vary widely in how they build words, but separate pieces and internal structure can be found inside words in every language. In linguistics, the study of word forms is known as morphology.",
+     "zh": "本章转向词以及构成词的有意义单位。各语言的构词方式差异很大，但在任何语言中都能在词的内部找到可分离的单位与结构。语言学中研究词形的分支称为形态学。"
+    },
+    {
+     "en": "The chapter has four learning goals. Readers should be able to identify morphologically complex words and the morphemes within them; distinguish inflectional morphology, derivational morphology, and compounds; explain how a word's morphology interacts with its lexical category; and analyse the structure of complex words.",
+     "zh": "本章有四项目标：识别形态复杂的词及其中的语素；区分屈折形态、派生形态与复合词；解释词的形态与其词类如何互动；分析复杂词的结构。"
+    }
+   ]
+  },
+  "chapter-040-slug-5-1-what-is-morphology": {
+   "title": {
+    "en": "5.1 What is morphology?",
+    "zh": "5.1 什么是形态学？"
+   },
+   "summary": {
+    "en": "Morphology is the linguistic study of how words are put together out of smaller meaningful pieces. English words usually contain one or two such pieces, while other languages build much longer words, such as Inuktitut iglujjualiulauqtuq. Because writing with spaces is not a reliable guide, a word is defined as the smallest separable unit in language, and its internal pieces are called morphemes.",
+    "zh": "形态学研究词语如何由更小的有意义单位组合而成。英语单词通常只含一两个这样的单位，而其他语言能构成长得多的词，如 Inuktitut 语的 iglujjualiulauqtuq。由于以空格书写的正字法并不可靠，词被定义为语言中最小的可分离单位，词内的更小单位称为语素。"
+   },
+   "points": [
+    {
+     "en": "Morphology investigates how words are put together from smaller meaningful pieces.",
+     "zh": "形态学研究词语如何由更小的有意义单位组合而成。"
+    },
+    {
+     "en": "A word is the smallest separable unit in language, a definition that does not rely on writing.",
+     "zh": "词是语言中最小的可分离单位，该定义不依赖书写。"
+    },
+    {
+     "en": "Morphemes are the smallest systematic pairings of form with meaning or grammatical function.",
+     "zh": "语素是形式与意义或语法功能的最小的系统性配对。"
+    },
+    {
+     "en": "Words containing more than one morpheme are morphologically complex; single-morpheme words are simple.",
+     "zh": "含一个以上语素的词是形态复杂的，只含一个语素的词是形态简单的。"
+    },
+    {
+     "en": "Whether a word is complex depends on speakers' grammar, not on its etymology.",
+     "zh": "一个词是否形态复杂取决于使用者的语法，而不取决于词源。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "morphology",
+     "zh": "形态学",
+     "defEn": "The study of how words are put together from smaller pieces.",
+     "defZh": "研究词语如何由更小单位组合而成的学科。"
+    },
+    {
+     "en": "morpheme",
+     "zh": "语素",
+     "defEn": "The smallest systematic pairing of form with meaning or grammatical function.",
+     "defZh": "形式与意义或语法功能的最小系统性配对单位。"
+    },
+    {
+     "en": "morphologically complex",
+     "zh": "形态复杂",
+     "defEn": "Describing a word that contains more than one morpheme.",
+     "defZh": "指一个词内部包含一个以上的语素。"
+    },
+    {
+     "en": "morphologically simple",
+     "zh": "形态简单",
+     "defEn": "Describing a word that consists of only a single morpheme.",
+     "defZh": "指一个词只由一个语素构成。"
+    },
+    {
+     "en": "orthographic",
+     "zh": "正字法的",
+     "defEn": "Relating to spelling or to a language's standard written conventions.",
+     "defZh": "与拼写或语言的标准书写规范有关的。"
+    },
+    {
+     "en": "etymology",
+     "zh": "词源",
+     "defEn": "The history of a word and its earlier forms.",
+     "defZh": "指一个词的历史来源及其早期的形式。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "cats",
+     "noteEn": "Built from two pieces: cat, the animal, and -s, meaning more than one.",
+     "noteZh": "由两个单位构成：cat 指这种动物，-s 表示不止一个。"
+    },
+    {
+     "text": "non-renewability",
+     "noteEn": "A technical word containing at least five pieces: non-, re-, new, -abil, -ity.",
+     "noteZh": "一个技术性词，至少包含五个单位：non-、re-、new、-abil、-ity。"
+    },
+    {
+     "text": "iglujjualiulauqtuq",
+     "noteEn": "An Inuktitut word of five pieces, translated as They (sg) made a big house.",
+     "noteZh": "Inuktitut 语中由五个单位构成的词，可译为 They (sg) made a big house。"
+    },
+    {
+     "text": "scat",
+     "noteEn": "A word of English, but it does not mean more than one cat.",
+     "noteZh": "它是英语中的一个词，但意思并不是“不止一只猫”。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Morphology is the branch of linguistics that studies how words are assembled from smaller meaningful pieces. English words typically contain only one or two such pieces, as in cats, made of cat plus -s; technical vocabulary can stack several, as in non-renewability, which has at least five. Some languages build far longer words, so that a single word expresses what English needs a whole sentence for.",
+     "zh": "形态学是语言学中研究词语如何由更小的有意义单位组合而成的分支。英语单词通常只含一两个这样的单位，如 cats 由 cat 加 -s 构成；专业词汇可以叠加多个单位，如 non-renewability 至少包含五个。有些语言能造出长得多的词，一个词就表达英语需用整句表达的意义。"
+    },
+    {
+     "en": "In the Harvaqtuurmiutut variety of Inuktitut, iglujjualiulauqtuq consists of five pieces and is translated as They (sg) made a big house. The pieces are iglu house, -jjua big, -liu make, -lauq distant past, and -tuq declarative. Combinations are not free, however: reversing cat and -s does not give the meaning more than one cat, since scat is an entirely different word.",
+     "zh": "在 Inuktitut 的 Harvaqtuurmiutut 变体中，iglujjualiulauqtuq 由五个单位组成，可译为 They (sg) made a big house，五个单位分别是 iglu（house）、-jjua（big）、-liu（make）、-lauq（distant past）和 -tuq（declarative）。但组合并非任意：把 cat 与 -s 颠倒过来并不表示“不止一只猫”，scat 是一个完全不同的词。"
+    },
+    {
+     "en": "Since spelling with spaces on either side is not a reliable guide, linguists define a word as the smallest separable unit in language, the smallest unit that can stand alone in an utterance and that is syntactically independent. Content words such as nouns, verbs, adjectives, and adverbs can serve as one-word answers, as in cake, sleep, orange, and slowly.",
+     "zh": "由于左右以空格分隔的拼写方式并不可靠，语言学家把词定义为语言中最小的可分离单位，即能独立出现在话语中、且在句法上独立的单位。名词、动词、形容词、副词等实词可以单独充当答语，如 cake、sleep、orange、slowly。"
+    },
+    {
+     "en": "Words are not the smallest units of language overall. The internal pieces that cannot stand on their own are morphemes, the smallest systematic pairing of form with meaning or grammatical function. Words with more than one morpheme are morphologically complex, while words with a single morpheme are morphologically simple. Whether a word counts as complex is a question about current speakers' grammar rather than etymology; historically, morphology itself comes from Greek morph- shape and -ology study of.",
+     "zh": "词并不是语言中最小的单位。词内不能独立存在的更小单位是语素，即形式与意义或语法功能的最小的系统性配对。含一个以上语素的词是形态复杂的词，只含一个语素的词是形态简单的词。一个词是否算形态复杂，取决于当代使用者心智中的语法，而非词源；从历史上看，morphology 由希腊语的 morph-（shape）与 -ology（study of）构成。"
+    }
+   ]
+  },
+  "chapter-041-slug-5-2-types-of-morphology-affixes-and-beyond": {
+   "title": {
+    "en": "5.2 Roots, bases, and affixes",
+    "zh": "5.2 词根、词基与词缀"
+   },
+   "summary": {
+    "en": "Morphemes fall into different types. Affixes cannot stand alone and must attach to a base, which may be simple or complex; a simple base is a root. Affixes are classified by position as prefixes, suffixes, circumfixes, infixes, and simultaneous affixes. The section also separates free from bound morphemes, since affixes are bound and only roots can be free.",
+    "zh": "语素可分为不同类型。词缀不能独立存在，必须依附于词基，而词基可以简单也可以复杂；简单的词基就是词根。词缀按位置分为前缀、后缀、环缀、中缀和同时词缀。本节还区分自由语素与黏着语素：词缀都是黏着的，只有词根才可能自由。"
+   },
+   "points": [
+    {
+     "en": "Affixes cannot stand on their own and must attach to a base, which may be simple or complex.",
+     "zh": "词缀不能独立存在，必须依附于词基，词基可简单也可复杂。"
+    },
+    {
+     "en": "A root is the smallest possible base, the indivisible core of a word.",
+     "zh": "词根是最小的词基，是词不可再分的核心。"
+    },
+    {
+     "en": "Prefixes and suffixes are very common; circumfixes, infixes, and simultaneous affixes are less common.",
+     "zh": "前缀和后缀十分常见，环缀、中缀和同时词缀则较少见。"
+    },
+    {
+     "en": "A suffix that happens to fall mid-word, such as -y in unluckiness, is still not an infix.",
+     "zh": "恰好出现在词中间的 -y（如 unluckiness）仍然不是中缀。"
+    },
+    {
+     "en": "Simultaneous affixes are common in signed languages and in languages with tone.",
+     "zh": "同时词缀在手语以及有声调的语言中很常见。"
+    },
+    {
+     "en": "Since affixes must attach, only roots can be free; English has bound roots like -whelmed.",
+     "zh": "由于词缀必须依附，只有词根才可能自由；英语有 -whelmed 这样的黏着词根。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "affix",
+     "zh": "词缀",
+     "defEn": "A morpheme that cannot stand alone and must attach to a base.",
+     "defZh": "不能独立存在、必须依附于词基的语素。"
+    },
+    {
+     "en": "base",
+     "zh": "词基",
+     "defEn": "The element that an affix attaches to; it may be simple or complex.",
+     "defZh": "词缀所依附的成分，其本身可简单也可复杂。"
+    },
+    {
+     "en": "root",
+     "zh": "词根",
+     "defEn": "The smallest possible base, which cannot be divided any further.",
+     "defZh": "最小的词基，不能再作进一步切分。"
+    },
+    {
+     "en": "circumfix",
+     "zh": "环缀",
+     "defEn": "An affix that attaches around its base, partly before and partly after it.",
+     "defZh": "环绕词基附着的词缀，一部分在前、一部分在后。"
+    },
+    {
+     "en": "infix",
+     "zh": "中缀",
+     "defEn": "An affix that attaches inside another morpheme, not merely inside a word.",
+     "defZh": "附着于另一个语素内部的词缀，而不只是位于词中间。"
+    },
+    {
+     "en": "bound morpheme",
+     "zh": "黏着语素",
+     "defEn": "A morpheme that can occur only when accompanied by other morphemes.",
+     "defZh": "只能与其他语素共同出现的语素。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "librarian",
+     "noteEn": "Formed by attaching the affix -ian to the base library; it can take -ship in librarianship.",
+     "noteZh": "由词缀 -ian 加到词基 library 上构成，还可再加 -ship 构成 librarianship。"
+    },
+    {
+     "text": "ne-ta·nes-ena·n-aki",
+     "noteEn": "Meskwaki for our daughters, marked by the circumfix ne- ... -ena·n plus -aki.",
+     "noteZh": "Meskwaki 语中表示 our daughters，由环缀 ne- … -ena·n 再加 -aki 标记。"
+    },
+    {
+     "text": "[tumakbuh]",
+     "noteEn": "Tagalog ran, formed from [takbuh] run with the infix -um- after the first consonant.",
+     "noteZh": "Tagalog 语的 ran，由 [takbuh]（run）在第一个辅音后插入中缀 -um- 构成。"
+    },
+    {
+     "text": "récord / recórd",
+     "noteEn": "An English noun-verb pair sharing a root but differing in the position of stress.",
+     "noteZh": "一对同根的名词与动词，区别在于重音的位置。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Affixes cannot stand alone and must attach to a base, which may be simple or complex: attaching -ian to library gives librarian, which can itself serve as the base for -ship in librarianship. A simple base is a root, the smallest possible, indivisible core of a word, such as cat, library, or nation. Though library and nation go back to Latin complex words (libr- book, nat- be born), most English speakers today probably treat them as simple roots.",
+     "zh": "词缀不能独立存在，必须依附于词基，而词基可以简单也可以复杂：把 -ian 加到 library 上得到 librarian，它又可作为 -ship 的词基构成 librarianship。简单的词基称为词根，即词的最小的、不可再分的核心，如 cat、library、nation。尽管 library 和 nation 可追溯到拉丁语的复杂词（libr- 意为 book，nat- 意为 be born），今天多数英语使用者大概仍视其为简单词根。"
+    },
+    {
+     "en": "Affixes are named for where they attach: a prefix precedes its base, as inter- does in international; a suffix follows it, as -s does in cats; a circumfix attaches around it; an infix inside it; and a simultaneous affix at the same time as it. Prefixes and suffixes are very common, the others rarer. Meskwaki marks plural possessors with a circumfix: ne-ta·nes-aki my daughters uses only a prefix, while ne-ta·nes-ena·n-aki our daughters combines ne- with -ena·n. In Tagalog the infix -um- attaches inside a verb base after its first consonant.",
+     "zh": "词缀按附着位置命名：前缀在词基之前（如 international 中的 inter-），后缀在其后（如 cats 中的 -s），环缀环绕词基，中缀位于词基内部，同时词缀则与词基同时发生。Meskwaki 语用环缀标记复数领属者：ne-ta·nes-aki（my daughters）只用前缀，ne-ta·nes-ena·n-aki（our daughters）则由 ne- 与 -ena·n 共同构成。Tagalog 语的中缀 -um- 插在动词词基第一个辅音之后。"
+    },
+    {
+     "en": "Simultaneous affixes are common in signed languages and in languages with tone. In ASL a morpheme adding circular motion to a verb's base sign expresses continuative aspect, occurring simultaneously with the verb. Some spoken languages have tonal morphemes, where tone alone carries grammatical information. English is not tonal, but pairs such as récord and recórd, pérmit and permíts, and áddress and addréssed share a root and differ in stress.",
+     "zh": "同时词缀在手语和有声调的语言中很常见。ASL 中有一个为动词词基添加圆周运动的语素，表示持续体，该运动与动词同时发生。有些口语语言拥有声调语素，仅靠声调变化表达语法信息。英语不是声调语言，但 récord 与 recórd、pérmit 与 permíts、áddress 与 addréssed 这类词对同根而重音位置不同。"
+    },
+    {
+     "en": "Morphemes are also free or bound. A free morpheme occurs as a word on its own, such as cat; a bound morpheme occurs only with other morphemes. Since affixes must attach to a base, only roots can be free. English has a few bound roots, such as -whelmed in overwhelmed and underwhelmed, which cannot occur as whelmed. In French and the other Romance languages most verb roots are bound. Bound morphemes are written with hyphens on the attaching side.",
+     "zh": "语素还分为自由语素与黏着语素：自由语素能独立成词，如 cat；黏着语素只能与其他语素共同出现。由于词缀必须依附词基，只有词根才可能自由。英语有少数黏着词根，如 overwhelmed 和 underwhelmed 中的 -whelmed，它不能单独出现为 whelmed。在法语等罗曼语中，多数动词词根都是黏着的。黏着语素用连字符标在其附着的一侧。"
+    }
+   ]
+  }
+ }
+}

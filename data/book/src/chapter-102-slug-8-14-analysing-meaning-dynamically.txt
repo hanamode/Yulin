@@ -1,0 +1,145 @@
+# 8.14 Analysing meaning dynamically
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2722#oembed-1
+[Note: It is highly recommended that you watch the video for this part!]
+
+Here is our example discourse again in (1). The illocutionary meaning of ASSERT p and INTERR p have been reproduced in (2) and (3), respectively, as well.
+
+(1) (Context: Aya and Bo are roommates, and are trying to decide what to make for dinner.)
+Aya: Should we have spaghetti for dinner?
+Bo: We have tomato sauce and ground beef in the fridge.
+Aya: Yeah. Can we make pasta bolognese with those ingredients?
+Bo: Yeah, I think so.
+Aya: OK, cool. We’ll do spaghetti then.
+
+(2) ASSERT p =
+(i) Put p in the Discourse Commitment set of the speaker/signer
+(ii) Put “is p true?” at the top of the QUD stack
+
+(3) INTERR p =
+Put “is p true, or is ¬p true?” at the top of the QUD stack
+
+The idea with illocutionary meaning is that every time a discourse participant makes an utterance, something changes in the context. Let’s start with an empty context: what the context looks like before anyone has said anything. Let’s call this context Context 1.
+
+[图片：Context-14-1024x622.jpg]
+
+Figure 8.8. Context 1: An empty context consisting of the Common Ground, the Question Under Discussion stack, and Discourse Commitment sets.
+
+Currently, all of the sets are empty because no one has said anything. Note that there could be trivial assumptions like “we are in the kitchen” “Aya and Bo both speak English” in the Common Ground already, provided that both Aya and Bo take them for granted. These propositions that exist in the Common Ground already prior to an utterance are actually what we have been referring to as presuppositions (see Section 7.3). For simplification, we won’t include these trivial presuppositions in the Common Ground in this section.
+
+Re: Set theory notation
+We are using circles to represent sets in the diagrams in this chapter, because it’s easier to visualise what is going on this way. Remember from Chapter 7 that in set theory notation, sets can be represented using curly braces. For example, the set containing the propositions p and q can be represented as {p, q}.
+
+Now, imagine that Aya made her first utterance, Should we have spaghetti for dinner?. Since this is a question, the QUD gets updated. Of course, as the only question that has been raised so far, this issue is the topmost issue in the QUD stack. Context 1 has now been updated to look like Context 2.
+
+[图片：Context-2-1-1024x622.jpg]
+
+Figure 8.9. Context 2: Aya asks “Should we have spaghetti for dinner?” (INTERR s, where s = we should have spaghetti for dinner.)
+
+Let’s take a moment to appreciate what has happened between Context 1 and Context 2. The change between Context 1 and Context 2 is what the illocutionary meaning of this question (Should we have spaghetti for dinner?) is. This is one way of analyzing what “happens” when you ask a question. Aya has changed the status of the discourse by virtue or making that utterance. Under this kind of theory, we are analyzing illocutionary meaning as updates to contexts.
+
+Dynamic semantics
+This theory of meaning, where the meaning of sentences is treated as context updates, is sometimes called dynamic semantics. It’s dynamic (as opposed to static) because this kind of theory looks at meaning cross-sententially: that is, how meaning is interconnected between different utterances in discourse. Dynamic semantics is useful for analysing any kind of phenomenon where you have to examine the relationship between the meaning of two utterances — for example, pronoun reference (Heim 1982). There are various formal frameworks within dynamic semantics, but the one that we are using in this section is inspired by Farkas & Bruce (2010)’s work in particular. If you are interested in learning more about dynamic theories of meaning, Taniguchi (2017), Chapter 1 has an accessible overview of various frameworks.
+
+Let’s continue with Aya and Bo’s conversation. Next, Bo makes an assertion: We have tomato sauce and ground beef in the fridge. So we take Context 2 and update it some more. Context 3 below is the newly updated context after Bo’s assertion.
+
+[图片：Context-3-1024x622.jpg]
+
+Figure 8.10. Context 3: Bo asserts “We have tomato sauce and ground beef in the fridge”. (ASSERT f, where f = we have tomato sauce and ground beef in the fridge.)
+
+Note that since Bo made an assertion, both his Discourse Commitment set and the QUD stack get updated. The previous question that was in the QUD stack gets pushed down. Now the topmost question is whether they have tomato sauce and ground beef in the fridge. The idea with the QUD set being a stack is that you can only address one question at a time with each discourse move: the topmost question.
+Now, Aya responds to Bo: Yeah. This is a reaction to the topmost question in the QUD stack. This updates Context 3, producing Context 4.
+
+[图片：Context-4-1024x622.jpg]
+
+Figure 8.11. Context 4a: Aya responds “Yeah (we have tomato sauce and ground beef in the fridge).”
+
+Aya responding affirmatively publicizes her belief that she too believes we have tomato sauce and ground beef in the fridge to be true; so this proposition gets added to her Discourse Commitment set, too.
+Recall that the CG is the intersection of Aya’s Discourse Commitment set and Bo’s Discourse Commitment set. This means that if we have tomato sauce and ground beef in the fridge is in both of their Discourse Commitment sets, then it’s in the CG. So Context 4a can be simplified into Context 4b. This means Aya and Bo have agreed on one thing being true about the world they are in: they have tomato sauce and ground beef in the fridge.
+
+[图片：Context-5-1024x622.jpg]
+
+Figure 8.12. Context 4b: Aya responds “Yeah (we have tomato sauce and ground beef in the fridge)” (continued).
+
+Updating the Common Ground causes another effect at this point. Since the Common Ground has been increased with we have tomato sauce and ground beef in the fridge, the topmost QUD in the stack has been resolved. So this question gets eliminated from the stack:
+
+[图片：Context-6-1024x622.jpg]
+
+Figure 8.13. Context 4c: The QUD “Is we have tomato sauce and ground beef in the fridge true?” gets resolved.
+
+Henceforth, affirmative context updates like this will just be abbreviated as one single step (i.e., steps (a) through (c) combined as one step).
+
+This brings us back to the original issue that was raised in this conversation: Should we have spaghetti for dinner? In order to answer this question, Aya raises a related question: Can we make pasta bolognese with [tomato sauce and ground beef]?. This update is shown below. Let’s call this Context 5.
+
+[图片：Context-7-1024x622.jpg]
+
+Figure 8.14. Context 5: Aya asks “Can we make pasta bolognese with those ingredients?” (INTERR b, where b = we can make pasta bolognese with those ingredients.)
+
+Bo reacts affirmatively to this, producing Context 6.
+
+[图片：Context-8-1024x622.jpg]
+
+Figure 8.15. Context 6: Bo responds “Yes, I think so.”
+
+Then, Aya responds affirmatively to this (“Ok, cool”), thus committing to the positive proposition as well. This effectively means the Common Ground gets updated with this proposition, and the top-most QUD gets eliminated.
+
+[图片：Context-9-1024x622.jpg]
+
+Figure 8.16. Context 7: Aya responds “OK, cool”.
+
+We’re back yet again at the original question: Should Aya and Bo have spaghetti for dinner? To confirm, Aya asserts that they will have spaghetti.
+
+[图片：Context-10-1024x622.jpg]
+
+Figure 8.17. Context 8: Aya asserts “We will have spaghetti, then.” (ASSERT h, where h = we will have spaghetti)
+
+Bo reacts affirmatively to this, confirming their commitment to the same proposition. This updates the Common Ground and resolves the top-most QUD.
+
+[图片：Context-12-1024x622.jpg]
+
+Figure 8.18. Context 9: Bo responds “Sounds good”.
+
+And now, there are enough propositions in the Common Ground for them to infer the answer to the original question: Should we have spaghetti for dinner? The answer is yes, they should. The QUD stack is finally empty, and the discourse reaches a natural ending point. This is shown below as Context 10.
+
+[图片：Context-13-1024x622.jpg]
+
+Figure 8.19. Context 10: The QUD stack is empty.
+
+This is a fairly ideal conversation in which both discourse participants have agreed about all of the propositions. But this kind of system also allows for us to model what happens if they disagreed, too. For example, let’s say that Aya and Bo had this conversation over spaghetti:
+
+(4) (Context: Aya and Bo are having spaghetti for dinner.)
+Aya: This bolognese sauce has no salt in it.
+Bo: Yes it does! I totally put some in.
+Aya: I don’t believe you.
+Bo: Ugh, fine. Whatever you say. I know I put some in.
+Aya: Fine.
+
+After this discourse, the context might look like this:
+
+[图片：Context-15-1024x622.jpg]
+
+Figure 8.20. The result of the conversation in (4).
+
+This is a case where discourse participants “agree to disagree”: each of their Discourse Commitment sets are updated, but since they couldn’t agree on the same proposition, the Common Ground does not get updated.
+In summary, discourse can be thought of us sequential updates to the context, as a result of the illocutionary meaning that the various discourse contributions carry.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2722#h5p-100
+
+## References
+
+Farkas, D. F., & Bruce, K. B. (2010). On reacting to assertions and polar questions. Journal of semantics, 27(1), 81-118.
+Ginzburg, J. (1996). Dynamics and the semantics of dialogue. Seligman, Jerry, & Westerst ahl, Dag (eds), Logic, language and computation, 1.
+Groenendijk, J., & Stokhof, M. (1991). Dynamic predicate logic. Linguistics and philosophy, 39-100.
+Gunlogson, C. (2004). True to form: Rising and falling declaratives as questions in English. Routledge.
+Hamblin, C. L. (1971). Mathematical models of dialogue. Theoria, 37(2), 130-155.
+Hamblin, C. L. (1973). Questions in Montague English. Foundations of Language, 10(1). 41–53.
+Heim, I. (1982). The semantics of definite and indefinite noun phrases. University of Massachusetts, Amherst dissertation.
+Heim, I. (2002). File change semantics and the familiarity theory of definiteness. Formal Semantics: The Essential Readings, 223-248.
+Kamp, H. (1981). A theory of truth and semantic representation. Truth, Interpretation and Information, 1–41.
+Kamp, H., Genabith, J. V., & Reyle, U. (2011). Discourse Representation Theory. In Handbook of Philosophical Logic (pp. 125-394). Springer, Dordrecht.
+Roberts, C. (2012). Information structure: Towards an integrated formal theory of pragmatics. Semantics and Pragmatics, 5, 6-1.
+Stalnaker, R. C. (1978). Assertion. In Pragmatics (pp. 315-332). Brill.
+Taniguchi, A. (2017). The formal pragmatics of non-at-issue intensification in English and Japanese. Michigan State University dissertation.

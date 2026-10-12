@@ -1,0 +1,19 @@
+{
+ "batch": 21,
+ "chapter": "Chapter 4: Phonology",
+ "out": "data/book/gen/batch-21.json",
+ "sections": [
+  {
+   "id": "chapter-038-slug-4-9-types-of-phonological-rules",
+   "title": "4.9 Types of phonological rules",
+   "src": "data/book/src/chapter-038-slug-4-9-types-of-phonological-rules.txt",
+   "chars": 9850
+  },
+  {
+   "id": "chapter-039-slug-4-10-signed-language-phonology",
+   "title": "4.10 Signed language phonology",
+   "src": "data/book/src/chapter-039-slug-4-10-signed-language-phonology.txt",
+   "chars": 4398
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+# 4.10 Signed language phonology
+
+## Modality differences in phonological rules
+
+Finally, we might wonder whether signed languages have phonological rules like those we find in spoken languages, considering they have fundamentally different modalities. In some sense, signed languages do have phonological rules, but not quite in the same way that spoken languages do. Phonological rules in spoken languages are typically fully productive, which means they apply to every word that satisfies the target and environment. So French devoicing of sonorants applies to absolutely every single sonorant that is in the correct environment; there are no exceptions.
+But signed languages do not seem to have these kinds of productive phonological rules. There are many theories why this might be the case. Perhaps it is because signed languages do not have levels of analysis equivalent to phonemes or phones. There are parameters (handshape, movement, etc.) and syllable-like structures, but maybe there is nothing in between. A combination of phonetic properties in signed languages yields a syllable or even an entire sign, while in a spoken language, a combination of phonetic properties just yields a phone. This may mean that there simply is not the right kind of phonological unit to be targeted by phonological rules in signed languages the way we have seen for spoken languages.
+It should not be a surprise that something so intimately connected to modality might differ between spoken and signed languages, and this is a good reminder that we cannot simply import spoken language linguistic analysis into signed languages. They need to be analyzed in their own right. In fact, with further study, it may turn out that signed languages do have some kind of productive phonological rules, if we analyze them in the right way.
+
+## Weak hand freeze
+
+Regardless, there are phonological processes in signed languages that are somewhat rule-like, they just only affect individual signs rather than all signs that match the requirements for the rule. Two-handed signs in particular are often subject to phonological processes because they involve so much articulatory complexity and effort. If both hands are moving, the nondominant hand may undergo weak hand freeze, which causes it not to move. We can see this in the ASL sign SENTENCE, which has two two-handed forms, one in which the nondominant hand moves and one in which the nondominant hand has been frozen.
+SENTENCE (two-handed movement) https://www.signingsavvy.com/media2/mp4-ld/8/8611.mp4
+SENTENCE (with weak hand freeze) https://www.signingsavvy.com/media2/mp4-ld/8/8612.mp4
+
+## Weak hand drop
+
+Another phonological process that can affect two-handed signs is weak hand drop, in which the nondominant hand (especially if it is not moving) is simply not used at all. This can be thought of a type of deletion. We can see this in the ASL sign CHOOSE, which has two forms, a two-handed version with an immobile nondominant hand and a one-handed version in which the nondominant hand has been dropped.
+CHOOSE (two-handed) https://www.signingsavvy.com/media2/mp4-ld/22/22784.mp4
+CHOOSE (with weak hand drop) https://www.signingsavvy.com/media2/mp4-ld/30/30828.mp4
+
+## Lowering
+
+Signs may also undergo lowering, in which the sign is articulated at a lower location to reduce the effort of moving the hands all the way to the original higher position. Lowering can be seen in the ASL sign KNOW, which is sometimes articulated at the forehead but can instead be lowered to a location under the eyes.
+KNOW (at forehead) https://www.signingsavvy.com/media2/mp4-ld/21/21554.mp4
+KNOW (with lowering) https://www.signingsavvy.com/media2/mp4-ld/30/30441.mp4
+
+## Distalization and proximalization
+
+Signs can also shift which joints are used. If the joints shift down the arm towards the fingers, the sign has undergone distalization, while if they shift up the arm towards the shoulder, the sign has undergone proximalization. Without knowing the original version of a sign, it may be difficult to tell whether two variants represent distalization or proximalization. The ASL sign CHAT has two variants, one that is more proximal (with elbow and a bit of shoulder movement) and one that is more distal (with radioulnar movement).
+CHAT (proximal) https://www.signingsavvy.com/media2/mp4-ld/22/22579.mp4
+CHAT (distal) https://www.signingsavvy.com/media2/mp4-ld/22/22578.mp4
+
+## Check your understanding
+
+Coming soon!

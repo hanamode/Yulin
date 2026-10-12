@@ -1,0 +1,25 @@
+{
+ "batch": 16,
+ "chapter": "Chapter 3: Phonetics",
+ "out": "data/book/gen/batch-16.json",
+ "sections": [
+  {
+   "id": "chapter-026-slug-3-9-signed-language-notation",
+   "title": "3.9 Signed language notation",
+   "src": "data/book/src/chapter-026-slug-3-9-signed-language-notation.txt",
+   "chars": 5984
+  },
+  {
+   "id": "chapter-027-slug-3-10-syllables",
+   "title": "3.10 Syllables",
+   "src": "data/book/src/chapter-027-slug-3-10-syllables.txt",
+   "chars": 13495
+  },
+  {
+   "id": "chapter-028-slug-3-11-stress",
+   "title": "3.11 Stress",
+   "src": "data/book/src/chapter-028-slug-3-11-stress.txt",
+   "chars": 7767
+  }
+ ]
+}

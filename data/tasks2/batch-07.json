@@ -1,0 +1,24 @@
+{
+ "batch": 7,
+ "out": "data/gen2/batch-07.json",
+ "entries": [
+  {
+   "id": "duality-of-patterning",
+   "title": "二层性",
+   "en": "Duality of Patterning",
+   "category": "concepts"
+  },
+  {
+   "id": "displacement-feature",
+   "title": "移位性",
+   "en": "Displacement",
+   "category": "concepts"
+  },
+  {
+   "id": "markedness",
+   "title": "标记性",
+   "en": "Markedness",
+   "category": "concepts"
+  }
+ ]
+}

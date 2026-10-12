@@ -1,0 +1,25 @@
+{
+ "batch": 39,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-39.json",
+ "sections": [
+  {
+   "id": "chapter-085-slug-7-12-set-theory",
+   "title": "7.12 Introduction to set theory",
+   "src": "data/book/src/chapter-085-slug-7-12-set-theory.txt",
+   "chars": 7696
+  },
+  {
+   "id": "chapter-086-slug-7-13-negative-polarity",
+   "title": "7.13 Negative polarity items",
+   "src": "data/book/src/chapter-086-slug-7-13-negative-polarity.txt",
+   "chars": 5808
+  },
+  {
+   "id": "chapter-087-slug-7-summary",
+   "title": "7.14 Summary",
+   "src": "data/book/src/chapter-087-slug-7-summary.txt",
+   "chars": 599
+  }
+ ]
+}

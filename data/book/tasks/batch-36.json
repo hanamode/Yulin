@@ -1,0 +1,25 @@
+{
+ "batch": 36,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-36.json",
+ "sections": [
+  {
+   "id": "chapter-076-slug-7-3-what-does-this-sentence-mean-entailments-vs-implicatures",
+   "title": "7.3 What does this sentence \"mean\"? Entailments vs. implicatures",
+   "src": "data/book/src/chapter-076-slug-7-3-what-does-this-sentence-mean-entailments-vs-implicatures.txt",
+   "chars": 7854
+  },
+  {
+   "id": "chapter-077-slug-7-4-the-mental-lexicon",
+   "title": "7.4 The mental lexicon",
+   "src": "data/book/src/chapter-077-slug-7-4-the-mental-lexicon.txt",
+   "chars": 11439
+  },
+  {
+   "id": "chapter-078-slug-7-5-lexical-meaning",
+   "title": "7.5 The nature of lexical meaning",
+   "src": "data/book/src/chapter-078-slug-7-5-lexical-meaning.txt",
+   "chars": 17409
+  }
+ ]
+}

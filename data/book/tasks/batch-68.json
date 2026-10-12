@@ -1,0 +1,25 @@
+{
+ "batch": 68,
+ "chapter": "Appendix 1: PSRs and Flat Tree Structures",
+ "out": "data/book/gen/batch-68.json",
+ "sections": [
+  {
+   "id": "part-016-appendix-1-alternative-to-6-14-6-21",
+   "title": "Appendix 1: PSRs and Flat Tree Structures",
+   "src": "data/book/src/part-016-appendix-1-alternative-to-6-14-6-21.txt",
+   "chars": 355
+  },
+  {
+   "id": "chapter-159-a1-1-drawing-phrase-structure-rule-trees",
+   "title": "A1.1 Phrase Structure Rules",
+   "src": "data/book/src/chapter-159-a1-1-drawing-phrase-structure-rule-trees.txt",
+   "chars": 5365
+  },
+  {
+   "id": "chapter-160-a1-2-phrase-structure-rules-in-other-languages",
+   "title": "A1.2 Phrase Structure Rules in Other Languages",
+   "src": "data/book/src/chapter-160-a1-2-phrase-structure-rules-in-other-languages.txt",
+   "chars": 10774
+  }
+ ]
+}

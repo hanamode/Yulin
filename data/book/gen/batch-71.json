@@ -1,0 +1,50 @@
+{
+ "batch": 71,
+ "sections": {
+  "part-017-appendex-2-a-history-of-linguistics": {
+   "title": {
+    "en": "Appendix 2: A history of linguistics",
+    "zh": "附录二：语言学史"
+   },
+   "summary": {
+    "en": "This appendix is announced as a supplement on the historical development of linguistics, said to cover notable scholars, debates, concepts, and shifts. At the time of publication its text is still marked in progress and contains only this brief statement of intent.",
+    "zh": "本附录预告将作为补充材料讨论语言学这门学科的历史发展，并称会涉及重要学者、争论、概念与转向。但出版时其正文仍标记为撰写中，仅有这一段简短说明。"
+   },
+   "points": [
+    {
+     "en": "The appendix is planned as a supplement on the historical development of the field of linguistics.",
+     "zh": "本附录计划作为补充材料，讨论语言学这门学科的历史发展。"
+    },
+    {
+     "en": "It is said to highlight notable scholars, debates, concepts, and shifts, but those details are not yet written.",
+     "zh": "据称将着重介绍重要学者、争论、概念与转向，但这些内容尚未写出。"
+    },
+    {
+     "en": "The chapter is still marked in progress, so no historical narrative can be summarized from it at this stage.",
+     "zh": "该章仍标记为撰写中，因此现阶段无法据此概括任何史学叙述。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "historical linguistics",
+     "zh": "历史语言学",
+     "defEn": "The branch of linguistics that studies how languages change over time, including sound, word, and meaning changes and the relationships among related languages.",
+     "defZh": "语言学的一个分支，研究语言随时间发生的变化，包括语音、词汇与意义的变化，以及亲属语言之间的关系。"
+    },
+    {
+     "en": "philology",
+     "zh": "语文学",
+     "defEn": "The older study of texts and languages, especially classical and written records, from which modern historical and comparative linguistics partly developed.",
+     "defZh": "较早形成的文献与语言研究，尤重古典及书面材料，现代历史语言学与比较语言学部分由此发展而来。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "Appendix 2 is titled A history of linguistics and is described as a supplement that discusses the historical development of the field of linguistics, highlighting notable scholars, debates, concepts, and shifts. That description is all the published text contains: the appendix is still marked in progress, so it offers a statement of intent rather than an account of the history itself. Accordingly, this bilingual edition reports the chapter as unfinished and adds nothing beyond the source. No names, dates, schools of thought, or controversies are supplied here, because doing so would mean inventing material the authors have not yet written. Readers who need the substance of this topic should consult the completed chapters on the history and branches of linguistics elsewhere in the book.",
+     "zh": "附录二题为“语言学史”，其说明称本附录是一份补充材料，用以讨论语言学这门学科的历史发展，并着重介绍重要学者、争论、概念与转向。这也就是已出版正文的全部内容：该附录仍标记为撰写中，因此它给出的只是写作意图，而非对历史本身的叙述。有鉴于此，本双语精编如实说明该章尚未完成，除源文外不增添其他内容。此处不列出任何人名、年代、学派或论争，因为那将意味着编造作者尚未写出的材料。若读者需要了解该主题的实质内容，可参阅全书中已完成的语言学史与语言学分支相关章节。"
+    }
+   ]
+  }
+ }
+}

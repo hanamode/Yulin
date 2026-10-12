@@ -1,0 +1,4 @@
+# 7.14 Summary
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=830#oembed-1
+In this chapter, we explored different kinds of linguistic meaning: entailments vs. implicature, sense vs. denotation, lexical vs. sentential meaning, compositional vs. non-compositional meaning. The take away is that “what does this mean?” is a complicated question: there are many layers to linguistic meaning, each providing important insight into how we produce and understand meaning as language users.

@@ -1,0 +1,53 @@
+# 1.3 Studying language scientifically
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=342#oembed-1
+We said that linguistics is the science of human language. When we say that linguistics is a science, that doesn’t mean you need a lab coat and a microscope to do linguistics. Instead, what it means is that the way we ask questions to learn about language uses a scientific approach.
+The scientific way of thinking about language involves making systematic, empirical observations. That word empirical means that we observe data to find the evidence for our theories. All scientists make empirical observations. Entomologists observe the life cycles and habitats of insects. Chemists observe how substances interact. Linguists observe how people use their language. Just like entomologists and chemists, linguists aim for an accurate description of the phenomenon they’re studying. And like other scientists, linguists strive to make observations that are not value judgments. If an entomologist observes that a certain species of beetle eats leaves, she’s not going to judge that the beetles are eating wrong, and tell them that they’d be more successful in life if only they ate the same thing as ants. Ideally, the same would be true of linguists — we wouldn’t go around telling people how they should or shouldn’t use language. Of course, like all scientists, and like all humans, linguists have biases that often prevent us from reaching this ideal; more on this later in the book. But the goal for doing language science is to do so with a descriptive approach to language, not a prescriptive approach, to describe what people do with their language, but not to prescribe how they should or shouldn’t do it.
+For example, you could describe English plurals this way:
+Adding -s to a noun allows it to refer to many of something, like apples, books, or shoes.
+Or you could prescribe how you think people should form plurals this way:
+Because the word virus is derived from Latin, you should pluralize it as viri, not viruses.[1]
+So when we’re doing linguistics, our goal is to make descriptive, empirical observations of language. But one challenge to being a language scientist is that a lot of what you’re studying is hard to observe. Unlike our entomologist friends, we can’t just go out to the garden and poke around and find some grammar crawling on a plant. We have to figure out how to make observations about the mind. Throughout this book you’ll get introduced to the many different tools of language science, which allow us to make systematic observations of how humans use language.
+
+## Going meta: Observing what’s possible in a language
+
+As I keep saying, a lot of the linguistic knowledge we have is unconscious. One of the tools we can use to get at our mental grammar is to try to access metalinguistic awareness, that is, the conscious knowledge you have about your grammar, not the grammatical knowledge itself. If you’ve studied a language in school you probably have some metalinguistic awareness about it because you got taught it explicitly. But for your first language, the one you grew up speaking, it can be a little more difficult to access your metalinguistic knowledge because so much of it is implicit. It’s a skill that we’ll keep practicing throughout this book.
+Here’s an example of accessing your metalinguistic awareness. Say you want to create a new English word for a character in a game. Are you going to call your cute little creature a blifter or a lbitfer? Neither of those forms exists in English, but they both use sounds that are part of English phonetics. You probably have a strong feeling that blifter is an okay name for your new creature, while lbitfer is a pretty terrible name. Notice that your sense that lbitfer is wrong is not a prescriptive sense — it’s not that it sounds rude or you’ll get in trouble for combining those sounds that way. It just … can’t happen. You’ve made a descriptive observation that lbifter is not a possible word in English. From that observation, we can conclude that lbitfer is ungrammatical in English.
+Since linguistics uses the word grammar in a particular way, the words grammatical and ungrammatical also have a specific meaning. An ungrammatical word or phrase or sentence is something that just can’t exist in a particular language: the mental grammar of that language does not generate it. Notice that grammaticality isn’t about what actually exists in a language; it’s about whether a form could exist. In this example, both blifter and lbitfer have the same sounds in them, but blifter could be an English word and lbifter couldn’t. In other words, blifter is grammatical in English and lbifter is ungrammatical in English.
+It’s often useful to compare similar words, phrases or sentences to try to access our metalinguistic awareness. Let’s look at another example of observing what’s possible. Here are two similar sentences, both of which are possible (or acceptable) in English.
+- Sam compared the forged painting with the original.
+- Sam compared the forged painting and the original.
+
+Let’s try to make questions out of these sentences:
+- Did Sam compare the forged painting with the original?
+- Did Sam compare the forged painting and the original?
+
+Observing those two questions, we can see that both (c) and (d) are acceptable in English. Now let’s try a different kind of question:
+- What did Sam compare the forged painting with?
+- *What did Sam compare the forged painting and?
+
+Comparing these two sentences gives us a really clear finding: (e) is possible, but (f) is not. We use an asterisk or star at the beginning of sentence (f) to indicate that it just can’t happen. These acceptability judgments (also sometimes known as grammaticality judgments) are our empirical observations: these two similar sentences are both possible as declarative statements (a-b) and as yes-no questions (c-d), but when we try to make a wh-question out of them, the result is acceptable for the first one (e) but not for the second one (f). Having made that observation, now our job is to figure out what’s going on in the mental grammar that can account for this observation. Why is (e) grammatical but (f) isn’t?
+
+## More tools for language science
+
+[图片：Ch1_Fig4_hoodie-231x300.png]
+
+Figure 1.4. Hoodie.
+Because it can be tricky to access metalinguistic knowledge, you might not want to rely on the acceptability judgments of one single language user. Instead, you could use a survey to gather quantitative data about acceptability from many users. We can also use surveys to elicit the words that people use for particular items. From survey data we know that some people call this thing a sweatshirt, other people call it a hoodie, and people in Saskatchewan call it a bunny hug. Surveys are particularly useful for learning about regional variation, which you can learn more about in Chapter 10. If you’re studying regional and social variation you might also gather data using interviews, in which you could ask questions like, “Does the ‘u’ in student sound like the ‘oo’ in too or the ‘u’ in use?”.
+A corpus is another tool that allows us to make language observations. A corpus is a big database that collects examples of language as used in the world, from books, newspapers, message boards, videos. Some corpora contain only written text, and others include video of signed language, or audio files with phonetic transcription. The nice thing about tools like acceptability judgments, surveys, and corpora is that they’re relatively easy to use: you don’t need a lot of training or money to ask people what word they use for athletic shoes, or to see how a word or phrase is used in a corpus. We’ll use some of these accessible tools throughout this book.
+There are also more specialized tools for doing language science. Phoneticians use a variety of software for analyzing audio and video recordings of speakers and signers. Praat (Boersma & Weenink, 2022) is a popular waveform editor for analyzing audio recordings. While Praat is specialized for linguists, it has some similarities to audio-editing programs for podcasting. ELAN (ELAN | The Language Archive, 2021) is a powerful tool that allows a user to annotate video recordings, and the program SLP-Annotator (Lo & Hall, 2019) also enables phonetic annotations of video-recorded sign language. Some phoneticians also make anatomical measurements of the articulators, using ultrasound or palatography for speech or motion capture for signing.
+We can draw on techniques from behavioural psychology to make observations about language use in real-time using experiments. You might measure reaction times and reading times for words and sentences, or ask participants to listen to words that are mixed with white noise. Some experiments use eye-tracking to measure people’s eye movements while reading a text, watching a signer, or listening to a speaker. It’s even possible to use neural imaging techniques like electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) to observe brain activity during language processing. You can learn more about interpreting the data from these experiments in Chapter 13.
+When you’re starting out in linguistics, it’s often really exciting to use the scientific method to think about grammar, as you start to see that grammar is not just a set of arbitrary rules to memorize so you sound “proper”. Even if we’re not peering through a microscope wearing a lab coat, the tools of language science allow us to make systematic observations of how humans use language. And we can interpret those observations to draw conclusions about the human mind.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=342#h5p-50
+
+## References
+
+Boersma, P., & Weenink, D. (2022). Praat: Doing Phonetics by Computer. https://www.fon.hum.uva.nl/praat/
+ELAN | The Language Archive (6.2). (2021). [Computer software]. Max Planck Institute for Psycholinguistics, The Language Archive. https://archive.mpi.nl/tla/elan
+Lo, R. Y.-H., & Hall, K. C. (2019). SLP-AA: Tools for Sign Language Phonetic and Phonological Research. Proceedings of Interspeech 2019, 3679–3680.
+
+- This prescriptive statement doesn’t reflect what really happens in English, since most English speakers talk about viruses, not viri. And in fact, it doesn’t even reflect what happens in Latin, since the Latin word virus did not have a plural form! ↵

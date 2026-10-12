@@ -1,0 +1,362 @@
+{
+ "batch": 5,
+ "entries": [
+  {
+   "id": "conversation-analysis",
+   "title": "会话分析",
+   "en": "Conversation Analysis",
+   "category": "branches",
+   "tags": [
+    "会话分析",
+    "话轮转换",
+    "邻近配对",
+    "修正机制",
+    "自然语料"
+   ],
+   "summary": "会话分析是研究交谈互动的理论与方法，主张日常会话并非杂乱无章，而是参与者逐句共同组织起来的有结构的成就。它由萨克斯、谢格洛夫与杰斐逊在二十世纪六十年代创立，以自然录音为材料，描写话轮转换、邻近配对、修正与偏好组织等机制。其结论建立在细致转写之上，强调从参与者自身的言语中寻找证据，对语用学、社会语言学、二语习得与临床交际研究都有深远影响。",
+   "summaryEn": "Conversation analysis is an approach to talk-in-interaction that studies how ordinary conversation is organised, using recordings of naturally occurring speech. Founded by Harvey Sacks, Emanuel Schegloff and Gail Jefferson in the 1960s, it describes turn-taking, adjacency pairs, repair and preference organisation as achievements of the participants themselves. Working from detailed transcripts, it argues that social order is produced turn by turn, and it has strongly influenced pragmatics, sociolinguistics, second language research and the study of clinical interaction.",
+   "sections": [
+    {
+     "h": "定义与研究定位",
+     "hEn": "Definition and Scope",
+     "p": [
+      "会话分析是研究交谈互动的一套理论与方法，其核心主张是：日常会话并非杂乱无章，而是由参与者逐句共同组织的、有结构的成就。与主要依赖书面文本或研究者自造例句的话语分析不同，会话分析坚持使用自然发生的录音录像材料，反对以虚构例句或问卷答案为主要依据，强调从参与者自身的言语中寻找证据，即所谓的「参与者视角」。其分析单位是序列，而不是孤立的句子。"
+     ],
+     "pEn": [
+      "Conversation analysis is a theory and method for studying talk-in-interaction. Its central claim is that ordinary conversation is not chaotic but an orderly, structurally organised achievement produced jointly by participants. Unlike some forms of discourse analysis that work mainly with written texts or invented examples, it insists on recordings of naturally occurring interaction and seeks evidence from the participants' own conduct, an approach often described as taking the participants' perspective. Its unit of analysis is the sequence, not the isolated sentence."
+     ]
+    },
+    {
+     "h": "话轮、配对与序列",
+     "hEn": "Turn-taking, Adjacency Pairs and Sequence",
+     "p": [
+      "话轮转换是会话分析最著名的发现。萨克斯等人指出，会话中任一时刻通常只有一人说话，说话者的更替发生在「过渡相关位置」，即一个话轮构建单位可能结束之处。英语自然交谈中，话轮之间的平均间隔极短，重叠与停顿都受到严格约束。例如问句 Are you coming? 之后，答话者几乎在问句末尾立即接上 Yes 或 No，这种一问一答的配对被称为邻近配对，其第一部分使第二部分成为期待中的回应。",
+      "邻近配对具有类型相关性，问候期待问候，请求期待接受或拒绝。当第二部分缺席时，参与者会将其视为可注意的现象并加以解释，例如连续追问，或者说 I asked you a question。日语交谈中的相槌，如はい、そうですね，则显示受话人在不夺取话轮的前提下持续参与，说明不同语言对反馈与话轮维持的偏好并不相同。"
+     ],
+     "pEn": [
+      "Turn-taking is the best-known finding of conversation analysis. Sacks, Schegloff and Jefferson showed that participants normally speak one at a time, with speaker change occurring at a transition-relevance place, the possible end of a turn-constructional unit. In English conversation the gap between turns is typically very short, and overlap and silence are tightly constrained. Thus after the question Are you coming? the next speaker usually begins Yes or No almost at the end of the first turn. Such a question-answer pair is called an adjacency pair, whose first part makes the second conditionally relevant.",
+      "Adjacency pairs are type-related: a greeting expects a greeting, a request expects acceptance or refusal. When the second part is missing, participants treat this as noticeable and accountable, for instance by repeating the question or saying I asked you a question. Japanese backchannels such as はい or そうですね show a recipient sustaining involvement without taking the turn, evidence that languages differ in how they manage feedback and turn maintenance."
+     ]
+    },
+    {
+     "h": "修正与偏好组织",
+     "hEn": "Repair and Preference Organisation",
+     "p": [
+      "修正指交谈中处理听、说与理解问题的一系列机制，包括自我修正与他人发起的修正。研究表明，参与者优先选择由自己发起并完成修正，例如说话者说 She was ... I mean my sister was late。他人发起的修正通常以部分重复加疑问的形式出现，如 B: 下周三？ A: 不，下周四，既指明问题所在，又给对方留出自我修正的机会。",
+      "偏好组织描述的是各种回应选项在结构与互动上的不对称。对邀请或请求而言，接受通常是简短而缺少标记的，拒绝则往往被延迟、铺垫并附上解释，例如 Well, I'd love to, but I have to work。这种不对称并非关于说话者心理状态的断言，而是参与者自身也会加以取向的可观察的序列特征。"
+     ],
+     "pEn": [
+      "Repair refers to the practices through which participants deal with problems of speaking, hearing and understanding, including self-repair and other-initiated repair. Research shows a strong preference for self-initiated, self-completed repair, as when a speaker says She was ... I mean my sister was late. Other-initiated repair typically takes the form of a partial repeat plus a question, such as B: Next Wednesday? A: No, next Thursday, which locates the trouble while leaving the speaker room to repair it personally.",
+      "Preference organisation describes the structural and interactional asymmetry among the possible responses to a first pair part. For invitations and requests, acceptance is typically short and unmarked, whereas refusal tends to be delayed, prefaced and accounted for, as in Well, I'd love to, but I have to work. This asymmetry is not a claim about speakers' private psychology but an observable feature of sequence organisation that participants themselves orient to."
+     ]
+    },
+    {
+     "h": "方法与转写",
+     "hEn": "Method and Transcription",
+     "p": [
+      "会话分析要求完整收集自然互动的录音或录像材料，并按杰斐逊转写系统逐字记录。转写不仅记录词语，还标记重叠的起止、停顿的时长、语调升降、语音延长与笑声等细节，例如用 (0.5) 表示半秒停顿，用方括号标示重叠，用冒号表示拉长的音。研究者通过收集同一现象的大量实例归纳出反复出现的结构，再以偏离个案检验并修正结论，从而保证发现可被他人复核。"
+     ],
+     "pEn": [
+      "Conversation analysis requires complete audio or video recordings of naturally occurring interaction, transcribed word by word according to the Jefferson system. The transcript records not only words but also the onset and end of overlap, the length of silences, pitch movement, sound stretches and laughter, using conventions such as (0.5) for a half-second pause, square brackets for overlap and colons for stretched sounds. Analysts collect many instances of the same phenomenon, generalise recurring structures, and test their claims against deviant cases so that findings can be checked by others."
+     ]
+    },
+    {
+     "h": "发展简史与争议",
+     "hEn": "History and Criticism",
+     "p": [
+      "会话分析源于二十世纪六十年代萨克斯的讲课，他受到戈夫曼与民族方法论的影响，并与谢格洛夫、杰斐逊共同奠定了基本框架。其早期结论主要建立在美国英语的电话通话与日常交谈之上，此后研究扩展到机构性交谈、医患沟通、课堂教学、二语互动与跨语言比较。",
+      "批评主要来自三方面：其一，纯描述取向被指缺乏对社会权力与意识形态的批判；其二，转写与转录不可避免带有选择性；其三，早期研究以英语材料为主，跨语言结论的普遍性仍待检验。支持者则回应说，正是对微观细节的严格约束，才使结论可以被检验和反驳。"
+     ],
+     "pEn": [
+      "Conversation analysis grew out of lectures given by Harvey Sacks in the 1960s, influenced by Goffman and by ethnomethodology, and was developed with Schegloff and Jefferson into a coherent framework. Its findings were first established on American English telephone calls and ordinary conversations. Later work extended the approach to institutional talk, doctor-patient communication, classroom interaction, second language talk and cross-linguistic comparison.",
+      "Criticism comes from three directions. First, the purely descriptive stance is said to neglect social power and ideology. Second, transcription is inevitably selective and interpretative. Third, early research relied heavily on English data, so the universality of its claims remains to be tested. Supporters reply that the strict discipline of detail is precisely what makes the findings testable and open to refutation."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "话轮转换",
+     "tEn": "turn-taking",
+     "d": "交谈中说话者依次接替、任一时刻通常只有一人发言的组织机制。",
+     "dEn": "The organisation by which speakers alternate, with one party talking at a time."
+    },
+    {
+     "t": "邻近配对",
+     "tEn": "adjacency pair",
+     "d": "由两个相邻话轮构成的序列，第一部分使特定第二部分成为期待回应。",
+     "dEn": "A two-turn sequence in which the first part makes a particular second relevant."
+    },
+    {
+     "t": "修正",
+     "tEn": "repair",
+     "d": "处理听说与理解问题的机制，可由说话者本人或他人发起。",
+     "dEn": "Practices for dealing with problems of speaking, hearing and understanding."
+    },
+    {
+     "t": "偏好组织",
+     "tEn": "preference organisation",
+     "d": "不同回应选项在结构与互动上呈现的不对称分布，如接受简短而拒绝被延迟。",
+     "dEn": "The structural asymmetry among alternative responses, such that acceptance is short and refusal delayed."
+    },
+    {
+     "t": "过渡相关位置",
+     "tEn": "transition-relevance place",
+     "d": "话轮构建单位可能结束，从而使说话者更替成为可能的位置。",
+     "dEn": "The point at which a turn-constructional unit may end and speaker change becomes relevant."
+    },
+    {
+     "t": "话轮构建单位",
+     "tEn": "turn-constructional unit",
+     "d": "构成单个话轮的基本单位，可以是词、短语或小句，其终点即过渡位置。",
+     "dEn": "The basic unit, such as a word, phrase or clause, whose endpoint is a transition-relevance place."
+    }
+   ],
+   "related": [
+    "discourse-analysis",
+    "pragmatics",
+    "speech-act",
+    "politeness",
+    "sociolinguistics"
+   ],
+   "sources": [
+    "Wikipedia, \"Conversation analysis\", https://en.wikipedia.org/wiki/Conversation_analysis",
+    "Sacks, Schegloff & Jefferson, \"A Simplest Systematics for the Organization of Turn-Taking for Conversation\", Language 50(4), 1974",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "langue-parole",
+   "title": "语言与言语",
+   "en": "Langue and Parole",
+   "category": "concepts",
+   "tags": [
+    "索绪尔",
+    "语言系统",
+    "言语",
+    "结构主义",
+    "社会性"
+   ],
+   "summary": "语言与言语是索绪尔在《普通语言学教程》中提出的一对核心区分。语言指一个语言社群共享的、抽象的符号系统，是社会的、集体的，潜存于每个成员头脑之中；言语指个人在具体情境中对这一系统的实际运用，是个人的、偶然的、此时此地的。索绪尔主张语言学应以语言为对象，这一区分奠定了结构主义语言学的方法论基础，也预演了后来语言能力与语言运用的对立。",
+   "summaryEn": "Langue and parole is the fundamental distinction drawn by Ferdinand de Saussure in the Cours de linguistique générale. Langue is the abstract system of signs shared by a speech community, social and collective, existing as a potential in the minds of its members; parole is the individual, situated and partly accidental use of that system in actual speech. Saussure argued that linguistics should take langue as its proper object. The distinction founded structuralist method and prefigured the later contrast between competence and performance.",
+   "sections": [
+    {
+     "h": "定义与理论来源",
+     "hEn": "Definition and Origin",
+     "p": [
+      "这一区分出自索绪尔《普通语言学教程》（1916 年由学生笔记整理出版）。他把人类运用符号进行交际的总体能力即言语活动分为两个部分：社会共有的语言与个人执行的言语。前者是符号系统，是语言社群共同拥有的语法与词汇网络；后者是说话者在具体场合实际发出的声音与说出的话。语言是任何言语行为得以实现的前提，言语则是语言存在的具体表现，二者互为条件，缺一不可。"
+     ],
+     "pEn": [
+      "The distinction comes from Saussure's Cours de linguistique générale (1916), compiled from students' lecture notes. He divided the general human faculty of language into two parts: langue, the system shared by a community, and parole, its individual execution. The former is a system of signs, the shared network of grammar and vocabulary; the latter is what a particular speaker actually produces on a particular occasion. Langue is the precondition of any act of speech, while parole is the concrete manifestation in which langue exists; the two are mutually dependent."
+     ]
+    },
+    {
+     "h": "语言的社会性与系统性",
+     "hEn": "The Social and Systemic Character of Langue",
+     "p": [
+      "索绪尔强调语言是社会的、集体的，任何个人都无法单独创造或修改它，它作为潜在的知识储存在社群成员的头脑中。语言是一个纯粹的价值系统，其中每个符号的意义取决于它与其他符号的对立关系。例如法语只用 mouton 一词兼指活羊与羊肉，而英语区分 sheep 与 mutton，这种分工只能在各自词汇系统的整体格局中被理解。因此语言必须用共时的、系统的眼光来研究。"
+     ],
+     "pEn": [
+      "Saussure stressed that langue is social and collective: no individual can create or alter it, and it exists as a latent body of knowledge in the minds of community members. It is a system of pure values, in which the meaning of each sign depends on its oppositions to other signs. French, for instance, covers both the animal and its meat with mouton, whereas English distinguishes sheep from mutton; this division can only be understood within the whole lexical system of each language. Langue must therefore be studied synchronically and systematically."
+     ]
+    },
+    {
+     "h": "言语：个人运用与变异",
+     "hEn": "Parole: Individual Use and Variation",
+     "p": [
+      "言语是个人的、此时此地的行为，涉及发音器官的运动、具体的音高与语速、口误以及被中断的句子。它允许大量自由变异：同一位法语说话者可以说 je ne sais pas，也可以说 je sais pas，在快速口语中甚至变成 chais pas。这些差异属于言语层面，并不改变语言系统的结构。索绪尔承认语言学最终要解释言语，但认为分析必须先从稳定的语言系统入手。"
+     ],
+     "pEn": [
+      "Parole is individual and situated: it involves the movements of the speech organs, particular pitch and tempo, slips of the tongue and broken-off sentences. It permits wide free variation, as when the same French speaker says je ne sais pas, then je sais pas, and in fast speech even chais pas. Such differences belong to the level of parole and do not alter the structure of the system. Saussure conceded that linguistics must ultimately account for parole, but held that analysis should begin from the stable system of langue."
+     ]
+    },
+    {
+     "h": "与相关区分的比较",
+     "hEn": "Related Distinctions",
+     "p": [
+      "语言与言语的区分与另外两对区分关系密切。其一是共时与历时：语言适合共时描写，言语中产生的变化则推动历时演变。其二是乔姆斯基提出的语言能力与语言运用：前者指说话者内在的规则知识，后者指实际使用中的表现。这一对立明显继承了索绪尔的思路，但乔姆斯基把重心放在个体心智而非社会集体。此外，组合关系与聚合关系则从系统内部刻画符号的联结方式。"
+     ],
+     "pEn": [
+      "The distinction is closely tied to two others. The first is synchronic versus diachronic: langue is suited to synchronic description, whereas changes arising in parole drive diachronic evolution. The second is Chomsky's competence and performance, in which competence is the speaker's internalised rule knowledge and performance is actual use. This contrast clearly inherits Saussure's scheme, though Chomsky locates the core in the individual mind rather than in a social collectivity. Syntagmatic and paradigmatic relations, meanwhile, describe how signs combine within the system."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "这一区分使语言学摆脱了对个别言语事实的简单堆积，成为研究系统与结构的科学，直接影响了布拉格学派、哥本哈根学派与美国结构主义。批评主要有两点：一是把语言视为均质的、封闭的系统，忽视了社会变异与说话人的能动性；二是语言与言语的边界难以清晰划定，因为每个具体话语既是对系统的运用，也在不断重塑系统。"
+     ],
+     "pEn": [
+      "The distinction allowed linguistics to move beyond a mere accumulation of speech facts and to become a science of systems and structures, directly influencing the Prague, Copenhagen and American structuralist schools. Two criticisms are common. First, treating langue as a homogeneous, closed system neglects social variation and speaker agency. Second, the boundary between langue and parole is hard to draw sharply, since every concrete utterance both uses the system and helps to reshape it."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语言",
+     "tEn": "langue",
+     "d": "语言社群共享的抽象符号系统，具有社会性与集体性，是言语的基础。",
+     "dEn": "The abstract sign system shared by a speech community, social and collective, underlying parole."
+    },
+    {
+     "t": "言语",
+     "tEn": "parole",
+     "d": "个人在具体情境中对语言系统的实际运用与执行，允许大量自由变异。",
+     "dEn": "The individual, situated execution of the linguistic system, allowing considerable free variation."
+    },
+    {
+     "t": "言语活动",
+     "tEn": "langage",
+     "d": "人类运用符号进行交际的总体能力，包含语言与言语两个层面。",
+     "dEn": "The general human faculty of language, comprising both langue and parole."
+    },
+    {
+     "t": "语言能力",
+     "tEn": "competence",
+     "d": "乔姆斯基用语，指说话者内在化的语言规则知识，与语言运用相对。",
+     "dEn": "Chomsky's term for the speaker's internalised knowledge of rules, opposed to performance."
+    },
+    {
+     "t": "语言运用",
+     "tEn": "performance",
+     "d": "实际言语行为中规则知识的具体运用与表现，受记忆和注意力限制。",
+     "dEn": "The actual use of linguistic knowledge in speech, limited by memory and attention."
+    },
+    {
+     "t": "共时",
+     "tEn": "synchronic",
+     "d": "描写某一时期语言系统内部关系的视角，与历时研究相对。",
+     "dEn": "The perspective that describes a language system at one point in time, opposed to diachronic."
+    }
+   ],
+   "related": [
+    "saussure",
+    "structuralism",
+    "competence-performance",
+    "signifier-signified",
+    "syntagmatic-paradigmatic"
+   ],
+   "sources": [
+    "Wikipedia, \"Langue and parole\", https://en.wikipedia.org/wiki/Langue_and_parole",
+    "Saussure, Cours de linguistique générale, 1916",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "signifier-signified",
+   "title": "能指与所指",
+   "en": "Signifier and Signified",
+   "category": "concepts",
+   "tags": [
+    "索绪尔",
+    "符号学",
+    "任意性",
+    "价值",
+    "结构主义"
+   ],
+   "summary": "能指与所指是索绪尔对语言符号内部结构的划分。能指是符号的音响形象，所指是它所唤起的概念内容，二者如同纸的正反两面，不可分割。索绪尔据此否定了「词即事物名称」的朴素看法，强调符号连接的是声音形象与概念，而不是词与物。能指与所指的联系具有任意性，其价值又取决于同一系统中其他符号的对立关系。这一区分成为符号学与结构主义文论的基石。",
+   "summaryEn": "Signifier and signified are the two components into which Saussure analysed the linguistic sign. The signifier is the sound image of a sign, the signified the concept it evokes; the two are inseparable, like the two sides of a sheet of paper. Saussure thus rejected the naive view that a word is simply the name of a thing, insisting that the sign unites a sound image with a concept. Their link is arbitrary, and the value of a sign depends on its oppositions to other signs in the same system.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "索绪尔把语言符号定义为能指与所指的结合体。能指是词的音响形象，即说话者心理上对语音的印记，而不是实际发出的物理声波；所指是该声音所对应的概念。例如法语词 arbre 的语音形式是能指，而「树」这一概念是所指；汉语的 shù 与英语的 tree 各有不同的能指，却可以指向大致相同的所指。符号因此是双面的心理实体，而非单纯的声音或单纯的意义。"
+     ],
+     "pEn": [
+      "Saussure defined the linguistic sign as the union of a signifier and a signified. The signifier is the sound image of a word, a psychological impression of speech rather than the physical sound wave itself; the signified is the concept associated with that sound. In the French word arbre, the phonetic form is the signifier and the concept of a tree is the signified. Chinese shù and English tree have different signifiers but may point to broadly the same signified. The sign is therefore a two-sided psychological entity, not mere sound or mere meaning."
+     ]
+    },
+    {
+     "h": "任意性与线性",
+     "hEn": "Arbitrariness and Linearity",
+     "p": [
+      "能指与所指之间没有自然的、必然的联系，这种关系是任意性的。同一个概念在不同语言中具有完全不同的语音形式，如「水」在英语是 water，在法语是 eau，在日语是 みず。索绪尔还指出，能指在时间上呈线性展开，一个音只能一个接一个地出现，这一点使语言符号区别于绘画等可以同时呈现多个成分的符号系统。任意性与线性共同构成语言符号的两条基本原则。"
+     ],
+     "pEn": [
+      "The link between signifier and signified is arbitrary: there is no natural or necessary connection between them. The same concept may have entirely different phonetic forms in different languages, as with English water, French eau and Japanese mizu for water. Saussure further noted that the signifier unfolds linearly in time: sounds occur one after another, which distinguishes linguistic signs from systems such as painting in which several elements may be present simultaneously. Arbitrariness and linearity together form the two basic principles of the linguistic sign."
+     ]
+    },
+    {
+     "h": "系统中的价值",
+     "hEn": "Value within the System",
+     "p": [
+      "符号的意义并非由它自身的内容决定，而是由它在系统中的位置决定，索绪尔称之为价值。跨语言的词汇切分最能说明这一点：俄语把蓝色区分为 синий（深蓝）与 голубой（浅蓝）两个基本颜色词，而英语通常只用一个 blue 概括。语法也是如此，英语可数名词的复数用 -s 标记，汉语则常借助数词与量词，如「三本书」，两种系统中的成分与对立方式各不相同。"
+     ],
+     "pEn": [
+      "The meaning of a sign is determined not by its own content but by its position in the system, a property Saussure called value. Cross-linguistic vocabulary divisions illustrate this well: Russian distinguishes синий (dark blue) from голубой (light blue) as separate basic colour terms, while English normally covers both with blue. Grammar works the same way. English marks plural on countable nouns with -s, whereas Chinese typically uses a numeral with a classifier, as in 三本书, so the elements and oppositions of each system differ."
+     ]
+    },
+    {
+     "h": "发展与影响",
+     "hEn": "Later Developments",
+     "p": [
+      "这一区分后来被广泛沿用和改造。哥本哈根学派的叶尔姆斯列夫提出表达平面与内容平面，把它进一步形式化；巴特将其应用于流行文化、广告与服饰，指出第一层符号系统的符号可以成为第二层系统的能指，从而产生神话；拉康则把能指置于优先地位，认为所指处于不断滑动之中。这些发展使能指与所指不再局限于语言学，而成为符号学与文化研究的通用工具。"
+     ],
+     "pEn": [
+      "The distinction was later adopted and reshaped in several traditions. Hjelmslev, of the Copenhagen school, formalised it as the planes of expression and content. Barthes applied it to popular culture, advertising and fashion, arguing that the sign of a first-order system can become the signifier of a second-order system, thereby producing myth. Lacan gave priority to the signifier and treated the signified as perpetually sliding. Through such developments the pair became a general tool of semiotics and cultural analysis rather than a purely linguistic notion."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "批评者指出，把所指视为稳定的心理概念可能过于理想化，实际语言使用中的意义高度依赖语境与推理，难以固定在个别符号之内。此外，任意性也并非绝对：拟声词、语音象征以及大量有理据的构词方式都显示能指与所指之间存在程度不等的联系。功能语言学与认知语言学更倾向于认为，意义产生于使用与认知过程，而不是预先存放在系统中的静态条目。"
+     ],
+     "pEn": [
+      "Critics argue that treating the signified as a stable mental concept is idealised: in real use, meaning depends heavily on context and inference and cannot be pinned to single signs. Arbitrariness is also not absolute, since onomatopoeia, sound symbolism and many motivated word-formation patterns reveal connections of varying strength between signifier and signified. Functional and cognitive approaches instead hold that meaning emerges from use and conceptualisation rather than being stored as static entries in the system."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "能指",
+     "tEn": "signifier",
+     "d": "语言符号的音响形象，即说话者心理上对语音的印记，而非物理声波。",
+     "dEn": "The sound image of a linguistic sign, a psychological impression rather than a physical wave."
+    },
+    {
+     "t": "所指",
+     "tEn": "signified",
+     "d": "能指所唤起的概念内容，与能指如同纸的两面不可分割。",
+     "dEn": "The concept evoked by a signifier, inseparable from it like the two sides of a sheet."
+    },
+    {
+     "t": "语言符号",
+     "tEn": "linguistic sign",
+     "d": "由能指与所指结合而成的双面心理实体，连接声音形象与概念。",
+     "dEn": "The two-sided psychological entity formed by a signifier and a signified."
+    },
+    {
+     "t": "任意性",
+     "tEn": "arbitrariness",
+     "d": "能指与所指之间没有自然必然联系的性质，是语言符号的基本原则。",
+     "dEn": "The absence of any natural, necessary link between signifier and signified."
+    },
+    {
+     "t": "价值",
+     "tEn": "value",
+     "d": "符号意义由系统内其他符号的对立关系决定，而非由其自身内容决定。",
+     "dEn": "The property whereby a sign's meaning depends on its oppositions within the system."
+    },
+    {
+     "t": "表达平面",
+     "tEn": "plane of expression",
+     "d": "叶尔姆斯列夫用语，指与能指相对应的层面，与内容平面相对。",
+     "dEn": "Hjelmslev's term for the level corresponding to the signifier, opposed to content."
+    }
+   ],
+   "related": [
+    "semiotics",
+    "saussure",
+    "arbitrariness",
+    "langue-parole",
+    "syntagmatic-paradigmatic"
+   ],
+   "sources": [
+    "Wikipedia, \"Signified and signifier\", https://en.wikipedia.org/wiki/Signified_and_signifier",
+    "Saussure, Cours de linguistique générale, 1916",
+    "Barthes, Mythologies, 1957"
+   ]
+  }
+ ]
+}

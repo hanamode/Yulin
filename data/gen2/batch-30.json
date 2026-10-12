@@ -1,0 +1,347 @@
+{
+ "batch": 30,
+ "entries": [
+  {
+   "id": "phonetic-transcription",
+   "title": "标音",
+   "en": "Phonetic Transcription",
+   "category": "methods",
+   "tags": [
+    "标音",
+    "国际音标",
+    "音位转写",
+    "严式标音",
+    "宽式标音"
+   ],
+   "summary": "标音是用书写符号系统记录语言语音的方法，是语音学研究的基础技术。它把连续的语流切分为音段，用一套约定符号逐段记录，可分为以斜杠标示音位对立为主的宽式音位标音与放在方括号内、记录音位变体及细微语音细节的严式语音标音。国际音标是最通用的标音系统，其原则是每个符号只代表一个音，每个音只用一个符号。标音广泛用于语音学、方言学、语言教学、词典编纂和言语病理学。",
+   "summaryEn": "Phonetic transcription is the practice of representing speech with a set of writing symbols, and it constitutes the basic descriptive technique of phonetics. Continuous speech is segmented into units and recorded with agreed symbols. Broad, phonemic transcription, conventionally placed between slashes, captures only contrasts that are linguistically significant, while narrow, phonetic transcription in square brackets also records allophonic and sub-phonemic detail. The International Phonetic Alphabet is the most widely used system, built on the principle of one symbol for one sound. Transcription serves phonetics, dialectology, language teaching, lexicography and speech pathology.",
+   "sections": [
+    {
+     "h": "定义与基本性质",
+     "hEn": "Definition and Basic Nature",
+     "p": [
+      "标音指用一套约定的书写符号把口语的语音记录下来，是使稍纵即逝的声音得以观察、比较和保存的技术手段。它依据听觉印象和声学分析，把连续语流切分为可以识别的音段单位，再为每个单位选定符号。标音的基本要求是可读、可比、可复现，即他人依据符号能够还原出大致相同的发音。由于任何符号系统都无法穷尽语音的连续细节，标音本质上是对语音的简化与抽象，标音的精细程度取决于研究目的，而非语音本身的属性。"
+     ],
+     "pEn": [
+      "Transcription is the technique of recording spoken language with an agreed set of writing symbols, making fleeting sounds observable, comparable and permanent. Working from auditory impressions and acoustic measurements, the transcriber segments continuous speech into identifiable units and assigns a symbol to each. Adequate transcription must be readable, comparable and reproducible: another analyst should be able to recover broadly the same pronunciation from the symbols. Because no notation can exhaust the continuous detail of speech, transcription is inherently a simplification or abstraction, and the degree of detail required depends on the analyst's purpose rather than on the nature of speech itself."
+     ]
+    },
+    {
+     "h": "宽式标音与严式标音",
+     "hEn": "Broad and Narrow Transcription",
+     "p": [
+      "宽式标音又称音位标音，通常放在斜杠之间，只记录具有区别意义作用的音位，如英语 cat 记作 /kæt/。严式标音又称语音标音，通常放在方括号内，除音位对立外还记录音位变体和协同发音细节，如同一词可记作 [kʰæt] 或 [kʰæˀt]，其中的送气符号和喉塞音符号都表示附加信息。两者并非互相对立，而是同一连续体上的两端：标音者可在方括号内只写必要的细节，例如汉语普通话的妈可以只记调值 [ma˥]，也可以进一步标出声学上更细致的描写。"
+     ],
+     "pEn": [
+      "Broad transcription, also called phonemic transcription and conventionally enclosed in slashes, records only the phonemes that carry contrast, as in English cat /kæt/. Narrow transcription, or phonetic transcription, is written in square brackets and additionally marks allophones and coarticulatory detail: the same word may appear as [kʰæt] or [kʰæˀt], where the aspiration and glottalisation marks convey extra information. The two are not opposed categories but end points of one continuum, and an analyst may include only the detail that the argument requires, writing the Mandarin word for mother as [ma˥] or adding further acoustic specification as needed."
+     ]
+    },
+    {
+     "h": "标音系统与国际音标",
+     "hEn": "Transcription Systems and the IPA",
+     "p": [
+      "十九世纪以来出现了多种标音系统，如转写英语方言的可见言语符号、派克式美国描写语言学标音法，以及为梵语等古典语言设计的转写方案。国际音标由国际语音学协会于 1888 年首次公布，是最通行的系统，其核心原则是一个符号对应一个音，一个音只用一个符号，符号资源包括肺气流辅音表、元音四边形图、非肺气流音和附加符号，如送气符号 ʰ、鼻化符号 ̃ 和声调字母 ˥ ˧ ˩。它还可借附加符号为未见过的语言临时扩展符号。"
+     ],
+     "pEn": [
+      "Several systems appeared from the nineteenth century onwards, including Visible Speech for English dialects, the American descriptivist tradition associated with Pike, and the transliteration schemes devised for classical languages such as Sanskrit. The International Phonetic Alphabet, first published by the International Phonetic Association in 1888, is now the dominant system. Its guiding principle is one symbol for one sound and one sound for one symbol. Its resources include a chart of pulmonic consonants, the vowel quadrilateral, non-pulmonic sounds and a set of diacritics such as ʰ for aspiration, ̃ for nasalisation, ˞ for rhoticity and ˥ ˧ ˩ for tone levels. A particular strength is that unseen sounds can often be notated by adding diacritics or modifier letters."
+     ]
+    },
+    {
+     "h": "示例与现代实践",
+     "hEn": "Examples and Modern Practice",
+     "p": [
+      "严式标音能清楚显示普通话送气与不送气的对立：怕 [pʰa˥˩] 与爸 [pa˥˩] 只靠送气符号 ʰ 区别，而同样的差别在英语中只是同一音位的条件变体。法语 vin 记作 [vɛ̃]，鼻化符号显示元音带有鼻化；日语助词は 实际读作 [wa]，显示书写与读音分离。如今标音常与声学分析结合，在语音软件中标注音段边界、基频曲线和共振峰数据，并借助统一码与数据库实现检索复用。"
+     ],
+     "pEn": [
+      "Narrow transcription makes the Mandarin aspiration contrast transparent: the words for fear and father are [pʰa˥˩] and [pa˥˩], distinguished solely by the aspiration diacritic, whereas in English the same difference is allophonic, as in speak [spiːk] with unaspirated p and peak [pʰiːk] with aspirated p. French vin is transcribed [vɛ̃], the tilde marking nasality on the vowel, and the Japanese particle written ha is pronounced [wa], showing the gap between spelling and sound. In contemporary work transcription is combined with acoustic analysis, so that segment boundaries, fundamental frequency tracks and formant measurements are labelled in software and stored in Unicode-based searchable databases."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "标音",
+     "tEn": "transcription",
+     "d": "用书写符号记录口语语音的方法，要求可读、可比、可复现。",
+     "dEn": "The practice of representing spoken language with writing symbols in a readable and reproducible way."
+    },
+    {
+     "t": "音位标音",
+     "tEn": "phonemic transcription",
+     "d": "只记录区别意义的音位，通常写在斜杠之间，如 /kæt/。",
+     "dEn": "Transcription that records only contrastive phonemes, conventionally placed between slashes."
+    },
+    {
+     "t": "语音标音",
+     "tEn": "phonetic transcription",
+     "d": "语音标音，记录音位变体与协同发音细节，通常写在方括号内。",
+     "dEn": "Transcription that additionally records allophonic and coarticulatory detail, enclosed in brackets."
+    },
+    {
+     "t": "国际音标",
+     "tEn": "International Phonetic Alphabet",
+     "d": "1888 年公布的通用标音符号系统，一个符号对应一个音。",
+     "dEn": "A universal symbol system published in 1888, assigning one symbol to each sound."
+    },
+    {
+     "t": "附加符号",
+     "tEn": "diacritic",
+     "d": "附加在基本字母上以标示发音细节的小符号，如送气符号 ʰ。",
+     "dEn": "A small mark added to a base letter to indicate phonetic detail such as aspiration."
+    },
+    {
+     "t": "音段切分",
+     "tEn": "segmentation",
+     "d": "音段切分，把连续语流划分为可识别的音段单位的过程和方法。",
+     "dEn": "The process of dividing continuous speech into identifiable segmental units."
+    },
+    {
+     "t": "调值标音",
+     "tEn": "tone letter notation",
+     "d": "用五度制字母标示声调高低的记法，如 ˥ 表示高平调。",
+     "dEn": "Notation using five pitch levels to mark tone, as ˥ for a high level tone."
+    }
+   ],
+   "related": [
+    "ipa",
+    "phonetics",
+    "acoustic-analysis",
+    "distinctive-feature",
+    "experimental-phonetics"
+   ],
+   "sources": [
+    "Wikipedia, \"Phonetic transcription\", https://en.wikipedia.org/wiki/Phonetic_transcription",
+    "Wikipedia, \"International Phonetic Alphabet\", https://en.wikipedia.org/wiki/International_Phonetic_Alphabet",
+    "International Phonetic Association, Handbook of the International Phonetic Association, Cambridge University Press, 1999",
+    "《语音学教程》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "corpus-annotation",
+   "title": "语料标注",
+   "en": "Corpus Annotation",
+   "category": "methods",
+   "tags": [
+    "语料标注",
+    "标注规范",
+    "词性标注",
+    "句法树库",
+    "标注一致性"
+   ],
+   "summary": "语料标注是给自然语言语料附加语言学信息的加工过程，使原始文本成为可检索、可统计的标注语料库。标注层次包括分词、词性、句法结构、语义角色、篇章关系和语音对齐等，是语法研究、词典编纂与机器翻译的实证基础。标注依赖明确的规范、可操作的定义和一致性检验，常以 Kappa 系数衡量标注者间一致度。规范随理论更新，故标注语料既是数据，也是理论假设的固化形式。",
+   "summaryEn": "Corpus annotation is the process of adding linguistic information to naturally occurring text, turning raw material into a searchable, statistically tractable annotated corpus. Annotations may be lexical, part-of-speech, syntactic, semantic, prosodic or discourse-related, and they underpin grammatical description, lexicography, machine translation and the training of language models. Serious annotation depends on explicit guidelines, operational definitions and reliability checks, usually reported as inter-annotator agreement such as Cohen's kappa. Because guidelines follow theoretical assumptions, an annotated corpus is also a frozen set of analytic decisions, and users must remain alert to its perspective and limitations.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "语料标注是在真实语言材料上追加语言学标注信息的加工活动，其对象可以是书面文本、转写后的口语、音频或视频。标注内容涵盖分词与词形还原、词性、句法结构、语义角色、指代关系、篇章关系和语音音段边界等层次。标注信息通常以与原文对齐的方式存储，例如采用保持字符偏移的独立标注层或结构化标记，使研究者能够按特定结构检索真实用例，如检索所有带双宾语的动词。语料标注与语料库语言学互为依托：标注使语料可被理论问题提问，理论又决定了标注的粒度与类别。"
+     ],
+     "pEn": [
+      "Corpus annotation is the activity of adding linguistic information to authentic language material, whether written text, transcribed speech, audio or video. The layers involved typically include tokenisation and lemmatisation, part-of-speech tagging, syntactic structure, semantic roles, coreference, discourse relations and prosodic or segmental alignment. Annotations are stored so as to remain aligned with the source, often as standoff layers keyed to character offsets or as structured markup, which allows researchers to retrieve authentic examples of a construction, such as all verbs taking a double object. Annotation and corpus linguistics are mutually dependent: annotation lets corpora answer theoretical questions, while theory determines the granularity and inventory of the annotation."
+     ]
+    },
+    {
+     "h": "主要标注层次与示例",
+     "hEn": "Annotation Layers and Examples",
+     "p": [
+      "词性标注为每个词形指定语法类别，如把英语 The dog barked 中的 the 标为限定词、dog 标为名词、barked 标为过去式动词。句法标注有两种主流形式：成分结构用括号或树形表示短语层级；依存结构标出词与词的依存关系，如把 barked 标为根节点，dog 为主语。宾州树库使用前一种方案，通用依存项目使用后一种。汉语标注还须处理分词歧义，如「研究生命起源」可切分为「研究／生命／起源」或「研究生／命／起源」。"
+     ],
+     "pEn": [
+      "Part-of-speech tagging assigns a grammatical category to each token, marking the in The dog barked as a determiner, dog as a noun and barked as a past-tense verb. Syntactic annotation takes two prominent forms. Constituency annotation represents phrase hierarchy with brackets or trees, labelling the dog as a noun phrase. Dependency annotation links words by grammatical relations, making barked the root, dog its subject and the its determiner. The Penn Treebank popularised the first approach, while Universal Dependencies uses the second with a fixed inventory of relation labels. Chinese annotation must also resolve word segmentation ambiguities, since a string may be segmented in more than one way, and such cases require explicit decisions in the guidelines."
+     ]
+    },
+    {
+     "h": "标注规范与一致性检验",
+     "hEn": "Guidelines and Reliability",
+     "p": [
+      "高质量标注的关键在于规范的可操作性：手册须对每个标签给出判别标准，例如规定并列结构是左分枝还是右分枝。又因标注者理解不同，研究通常安排双人独立标注一部分数据并计算标注者间一致度，常用 Cohen 的 Kappa 系数，一般认为达到 0.8 以上较为可靠。一致度低往往意味着规范模糊而非标注者粗心，检验结果也用于修订规范。自动标注器以人工标注语料为金标准，用准确率和 F1 值评估性能。"
+     ],
+     "pEn": [
+      "The quality of an annotation depends on operational guidelines. A manual must state the criterion for each label and the treatment of borderline cases, for example whether coordination is left-branching or right-branching and how contractions are counted. Because annotators interpret instructions differently, projects normally have a portion of the data annotated independently by two coders and report inter-annotator agreement, using simple percentage agreement, Cohen's kappa or Krippendorff's alpha; kappa above about 0.8 is generally treated as satisfactory. Low agreement usually signals a vague guideline rather than careless annotators, so reliability scores feed back into guideline revision. Fully automatic taggers are evaluated against a manually annotated gold standard, with accuracy and F1 as the usual measures."
+     ]
+    },
+    {
+     "h": "发展简史与争议",
+     "hEn": "History and Debates",
+     "p": [
+      "语料标注的规模在数十年间急剧扩大：二十世纪六十年代布朗语料库首创百万词级词性标注，八十年代兰卡斯特与奥斯陆合作的树库推动了结构标注，九十年代宾州树库成为句法分析器的主要训练资源，此后通用依存项目把标注方案推广到上百种语言。争议集中于三点：标注方案是否预设某一理论框架从而限制了对其他分析的检验；自动标注的错误是否会在下游任务中累积放大；标注语料的复用是否应要求公开规范与许可。"
+     ],
+     "pEn": [
+      "The scale of annotation has grown dramatically. In the 1960s the Brown Corpus pioneered part-of-speech tagging at the level of a million words; in the 1980s the Lancaster-Oslo-Bergen treebank advanced syntactic annotation; the Penn Treebank of the 1990s became the standard training resource for parsers; and Universal Dependencies later extended a common scheme to over a hundred languages. Debates centre on three issues: whether a scheme presupposes a particular theory and thereby blocks rival analyses; whether errors in automatic annotation accumulate and are amplified in downstream tasks; and whether reuse should require public guidelines and licensing. Critics argue for keeping theory and annotation apart, while proponents reply that no annotation can be entirely neutral."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语料标注",
+     "tEn": "corpus annotation",
+     "d": "在真实语料上追加语言学信息，使之可检索和统计的加工过程。",
+     "dEn": "The process of adding linguistic information to authentic text so that it becomes searchable."
+    },
+    {
+     "t": "词性标注",
+     "tEn": "part-of-speech tagging",
+     "d": "词性标注，为语料中每个词形指定名词、动词等语法类别的标注工作。",
+     "dEn": "Assigning a grammatical category such as noun or verb to each token in a corpus."
+    },
+    {
+     "t": "树库",
+     "tEn": "treebank",
+     "d": "带有句法结构标注的语料库，以树形表示短语或依存关系。",
+     "dEn": "A corpus annotated with syntactic structure in the form of trees or dependency links."
+    },
+    {
+     "t": "标注规范",
+     "tEn": "annotation guidelines",
+     "d": "标注规范，规定标签定义与边界案例处理办法的说明文件和手册。",
+     "dEn": "A document defining labels and the treatment of borderline cases for annotators."
+    },
+    {
+     "t": "标注者间一致度",
+     "tEn": "inter-annotator agreement",
+     "d": "不同标注者对同一材料标注结果的一致程度，常用 Kappa 衡量。",
+     "dEn": "The degree to which independent annotators agree, commonly measured by kappa."
+    },
+    {
+     "t": "金标准",
+     "tEn": "gold standard",
+     "d": "由人工审校、被用作评估自动标注系统基准的标注语料。",
+     "dEn": "Manually verified annotation used as the benchmark for evaluating automatic systems."
+    },
+    {
+     "t": "依存关系",
+     "tEn": "dependency relation",
+     "d": "依存关系，词与词之间以中心语和从属语连接起来的句法关系。",
+     "dEn": "A syntactic link between a head word and its dependent in a dependency analysis."
+    }
+   ],
+   "related": [
+    "corpus-linguistics",
+    "part-of-speech-tagging",
+    "computational-linguistics",
+    "language-model",
+    "machine-translation"
+   ],
+   "sources": [
+    "Wikipedia, \"Text corpus\", https://en.wikipedia.org/wiki/Text_corpus",
+    "Wikipedia, \"Treebank\", https://en.wikipedia.org/wiki/Treebank",
+    "Jurafsky, D. and Martin, J. H., Speech and Language Processing, 3rd edition, 2024",
+    "《语料库语言学导论》，外语教学与研究出版社"
+   ]
+  },
+  {
+   "id": "sociolinguistic-interview",
+   "title": "社会语言学访谈",
+   "en": "Sociolinguistic Interview",
+   "category": "methods",
+   "tags": [
+    "社会语言学访谈",
+    "拉波夫",
+    "语体变异",
+    "说话人网络",
+    "危险话题"
+   ],
+   "summary": "社会语言学访谈是威廉·拉波夫在纽约市和玛莎葡萄园岛研究中发展的调查方法，用以采集自然口语中的社会变项数据。访谈通常持续半小时到一小时，围绕童年游戏、危险经历、语言态度等话题展开，以降低观察者悖论的影响，让说话人的注意力从语言形式转向谈话内容。研究者由此获得不同语体的样本，并结合年龄、性别、社会阶层等信息分析变异规律，该方法后成为变异社会语言学的标准工具。",
+   "summaryEn": "The sociolinguistic interview is the method developed by William Labov in his New York City and Martha’s Vineyard studies to elicit natural speech containing tokens of sociolinguistic variables. Sessions typically last thirty to sixty minutes and move through topics such as childhood games, dangerous situations and language attitudes, reducing the observer’s paradox by shifting attention from form to content. The recordings yield comparable speech styles that can be correlated with age, sex, class and network, and the method remains the standard tool of variationist sociolinguistics.",
+   "sections": [
+    {
+     "h": "定义与设计原则",
+     "hEn": "Definition and Design",
+     "p": [
+      "社会语言学访谈是一种半结构化的录音访谈，目的是获取自然交际条件下的口语样本，并收集说话人的社会背景信息。其设计核心是观察者悖论：研究者想观察不受观察影响的言语，却又必须通过观察来获得它。为缓解这一矛盾，访谈通常从简短的背景问答开始，随后转入叙事性话题，如童年玩过的游戏、遭遇过的危险、家乡的变化，最后询问语言态度与使用习惯。话题从个人经历逐步走向群体评价，语体也随之从随意体移向正式体，形成可比较的连续统。"
+     ],
+     "pEn": [
+      "A sociolinguistic interview is a semi-structured recorded conversation designed to obtain a sample of a speaker's ordinary speech while also collecting social background information. Its design responds to the observer's paradox: the analyst wants speech unaffected by observation but can only obtain it by observing. To mitigate the problem, the session usually opens with brief background questions, then moves to narrative topics such as childhood games, dangerous experiences or changes in the local community, and ends with questions about language attitudes and usage. As the topics shift from personal experience towards public evaluation, speech style tends to move from casual towards formal, yielding a comparable stylistic continuum."
+     ]
+    },
+    {
+     "h": "模块与提问技巧",
+     "hEn": "Modules and Elicitation Techniques",
+     "p": [
+      "典型访谈由若干模块构成。叙事模块引导说话人讲述亲身经历，如「你小时候玩什么游戏」「你遇到过最危险的事是什么」，此时说话人情绪投入，语音监测下降，最接近随意体。模块中还嵌入语音诱发任务，如朗读词表、朗读短文和最小对立对，用以观察正式语体。研究者还常用巧问法，在话题清单中插入与目标变项相关的词，例如询问家务时引出 fourth floor 之类的词，以获取词中卷舌音的读数。同伴访谈则让两名熟识者互相交谈，进一步弱化研究者的影响。"
+     ],
+     "pEn": [
+      "A typical session consists of several modules. The narrative module invites personal experience, with questions such as what games the speaker played as a child or what the most frightening event in their life was; emotional engagement lowers self-monitoring and brings speech closest to the vernacular. Embedded tasks such as word-list reading, passage reading and minimal pairs elicit more formal styles, and a passage may be followed by a retelling task. Analysts also use the module technique of inserting items that strongly favour the target variable into the topic list, for instance prompting words such as fourth floor while discussing household chores in order to obtain tokens of rhoticity. Peer interviews, in which two acquainted speakers talk to each other, further reduce the researcher's influence."
+     ]
+    },
+    {
+     "h": "示例与主要发现",
+     "hEn": "Examples and Findings",
+     "p": [
+      "拉波夫在纽约市百货公司的快速匿名调查发现，r 音的有无随商店档次和语体而变化，高档商店与刻意发音时出现率最高，由此提出下层中产阶级在正式语体中过度修正的假设。在玛莎葡萄园岛，他通过访谈发现双元音央化与说话人对岛屿的认同和留居意愿相关，如 house 的读音更接近 [həʊs]，变化主要由愿意留下的人推动。在英语否定句中，works 与 work 的变异也常通过访谈获得，可分析为与性别和阶层相关的社会变项。"
+     ],
+     "pEn": [
+      "Labov's rapid anonymous survey in New York department stores showed that the presence of postvocalic r varied with store status, occupation and speech style, with the highest rates in the more expensive stores and in careful pronunciation; this led to the hypothesis that the lower middle class overcorrects in formal styles. On Martha's Vineyard he used interviews to show that the centralisation of the diphthong in words such as house, closer to [həʊs], correlated with speakers' attachment to the island and their intention to stay, the change being carried by those who planned to remain. Similarly, variation between works and work in English negation is regularly sampled in interviews and analysed as a social variable tied to gender and class."
+     ]
+    },
+    {
+     "h": "优点、局限与发展",
+     "hEn": "Strengths, Limits and Development",
+     "p": [
+      "访谈法的优点是能在较短时间内获得大量可比较的录音材料，并同时采集年龄、性别、职业、教育和社会网络等背景信息，便于定量分析。其局限在于研究者本人仍是谈话的参与者，正式体样本可能被过度强化，话题清单反复使用后不再能引发自然的随意体，受访者也未必代表整个言语社区。为弥补不足，米尔罗伊在贝尔法斯特强调通过熟人网络进入社区，埃克特在底特律引入实践社群概念，关注同辈群体的局部身份，也有研究用长时间录音和日常会话语料补充访谈数据。"
+     ],
+     "pEn": [
+      "The interview yields substantial comparable recordings in a short time and collects background variables such as age, sex, occupation, education and social network, which makes quantitative analysis feasible. Its limits are that the researcher remains a participant, so formal styles may be overrepresented; that a repeatedly used topic list eventually fails to elicit casual speech; and that interviewees need not represent the wider speech community. To compensate, Milroy's Belfast work emphasised entering communities through dense personal networks, Eckert's Detroit research introduced the community of practice and local peer-group identities, and other studies supplement interview data with long-term recordings or recordings of ordinary conversation."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "社会语言学访谈",
+     "tEn": "sociolinguistic interview",
+     "d": "以采集自然口语和说话人社会背景为目的的半结构化录音访谈。",
+     "dEn": "A semi-structured recorded interview designed to sample natural speech and social background."
+    },
+    {
+     "t": "观察者悖论",
+     "tEn": "observer's paradox",
+     "d": "研究者要观察自然言语却必然因观察而改变言语的矛盾。",
+     "dEn": "The problem that observing natural speech necessarily alters the speech observed."
+    },
+    {
+     "t": "随意体",
+     "tEn": "vernacular",
+     "d": "说话人未受监测、最自然的语体，是社会语言学访谈追求的目标。",
+     "dEn": "The least monitored and most natural style of a speaker, the target of the interview."
+    },
+    {
+     "t": "巧问法",
+     "tEn": "module",
+     "d": "巧问法，在话题清单中插入能诱发目标变项的问题的做法和技巧。",
+     "dEn": "The technique of embedding questions that prompt the target variable into a topic list."
+    },
+    {
+     "t": "快速匿名调查",
+     "tEn": "rapid anonymous survey",
+     "d": "快速匿名调查，在公共场所用简短提问快速采集大量语音样本的方法。",
+     "dEn": "A method of collecting many speech samples quickly through brief questions in public settings."
+    },
+    {
+     "t": "语体转换",
+     "tEn": "style shifting",
+     "d": "同一说话人因场合和注意力变化而调整语体使用的现象。",
+     "dEn": "A speaker's adjustment of speech style according to situation and attention paid to speech."
+    },
+    {
+     "t": "社会变项",
+     "tEn": "sociolinguistic variable",
+     "d": "社会变项，与社会因素相关、可有不同实现形式的语言单位或项目。",
+     "dEn": "A linguistic unit with variant realisations that correlates with social factors."
+    }
+   ],
+   "related": [
+    "labov",
+    "sociolinguistics",
+    "sociolinguistic-variable",
+    "dialectology",
+    "speech-community"
+   ],
+   "sources": [
+    "Wikipedia, \"Labovian sociolinguistic interview\", https://en.wikipedia.org/wiki/Sociolinguistics",
+    "Labov, W., Sociolinguistic Patterns, University of Pennsylvania Press, 1972",
+    "Milroy, L., Language and Social Networks, Blackwell, 1980",
+    "《社会语言学概论》，商务印书馆"
+   ]
+  }
+ ]
+}

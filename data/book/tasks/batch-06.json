@@ -1,0 +1,25 @@
+{
+ "batch": 6,
+ "chapter": "Chapter 1: Human Language and Language Science",
+ "out": "data/book/gen/batch-06.json",
+ "sections": [
+  {
+   "id": "part-001-chapter-1-language-science",
+   "title": "Chapter 1: Human Language and Language Science",
+   "src": "data/book/src/part-001-chapter-1-language-science.txt",
+   "chars": 1136
+  },
+  {
+   "id": "chapter-001-slug-1-1-what-even-is-language",
+   "title": "1.1 What even is language?",
+   "src": "data/book/src/chapter-001-slug-1-1-what-even-is-language.txt",
+   "chars": 9514
+  },
+  {
+   "id": "chapter-002-slug-1-2-what-grammars-are-and-arent",
+   "title": "1.2 What grammars are and aren't",
+   "src": "data/book/src/chapter-002-slug-1-2-what-grammars-are-and-arent.txt",
+   "chars": 5482
+  }
+ ]
+}

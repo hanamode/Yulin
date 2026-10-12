@@ -1,0 +1,48 @@
+{
+ "batch": 3,
+ "out": "data/gen2/wiki-src/wiki-src-03.json",
+ "entries": [
+  {
+   "id": "deep-structure",
+   "title": "深层结构与表层结构",
+   "en": "Deep Structure and Surface Structure",
+   "category": "concepts",
+   "summary": "深层结构与表层结构是生成语法早期提出的两个句法表达层次：深层结构决定基本语义解释，表层结构决定语音形式，二者由转换规则相联系。该区分用以解释主动句与被动句、陈述"
+  },
+  {
+   "id": "deixis",
+   "title": "指示语",
+   "en": "Deixis",
+   "category": "concepts",
+   "summary": "指示语是语言中意义随语境而变的表达式，其所指必须依赖说话人、听话人、说话时间与说话地点等言语情境才能确定。人称、时间、空间、社会与语篇指示构成其主要类型，指示中"
+  },
+  {
+   "id": "elicitation",
+   "title": "诱导法",
+   "en": "Elicitation",
+   "category": "methods",
+   "summary": "诱导法是研究者通过提问、图片命名、句型替换等任务，让发音人产出或判断特定语言形式，从而获取语料的调查方法。它能在较短时间内系统覆盖音系、词汇与语法范畴，常与自然"
+  },
+  {
+   "id": "experimental-phonetics",
+   "title": "实验语音学",
+   "en": "Experimental Phonetics",
+   "category": "methods",
+   "summary": "实验语音学运用仪器与实验手段测量语音的生理与声学特征，并研究听者的感知过程。它以客观数据补充传统的口耳判断，通过语图、基频、共振峰与嗓音起始时间等参数描写语音，"
+  },
+  {
+   "id": "fieldwork",
+   "title": "田野调查",
+   "en": "Fieldwork",
+   "category": "methods",
+   "summary": "田野调查是语言学者深入语言社区，通过与发音人合作、观察日常交际来采集第一手语料的方法。它是描写语言学、方言学与濒危语言记录的基本手段，强调在自然语境中获取材料，"
+  },
+  {
+   "id": "functionalism",
+   "title": "功能语言学",
+   "en": "Functionalism",
+   "category": "theories",
+   "summary": "功能语言学把语言视为社会交际的工具，主张语法形式由交际功能塑造并应通过功能加以解释。它关注信息结构、语序动因、语言使用与语法化的关系，代表流派包括布拉格学派、伦"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 62,
+ "chapter": "Chapter 12: Adult Language Learning",
+ "out": "data/book/gen/batch-62.json",
+ "sections": [
+  {
+   "id": "chapter-144-slug-12-6-learning-phonetics-and-phonotactics-in-a-later-language",
+   "title": "12.6 Learning Phonetics and Phonotactics in a Later Language",
+   "src": "data/book/src/chapter-144-slug-12-6-learning-phonetics-and-phonotactics-in-a-later-language.txt",
+   "chars": 4451
+  },
+  {
+   "id": "chapter-145-slug-12-7-learning-phonemes-and-allophones-in-a-later-language",
+   "title": "12.7 Learning Phonemes and Allophones in a Later Language",
+   "src": "data/book/src/chapter-145-slug-12-7-learning-phonemes-and-allophones-in-a-later-language.txt",
+   "chars": 4731
+  },
+  {
+   "id": "chapter-146-slug-12-7-exercise-your-linguistics-skills",
+   "title": "12.9 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-146-slug-12-7-exercise-your-linguistics-skills.txt",
+   "chars": 1573
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "batch": 70,
+ "sections": {
+  "chapter-164-a1-4-phrasal-movement-in-wh-questions": {
+   "title": {"en": "A1.6 Phrasal movement in wh-questions", "zh": "A1.6 wh 疑问句中的短语移位"},
+   "summary": {
+    "en": "This section explains how content questions, or wh-questions, are built. Wh-words stand in for whole phrases and move to the front of the clause, while the auxiliary moves to C. Because the moved item is a phrase rather than a head, the operation is Phrasal Movement, or wh-movement, and the tree adds a branch to the left of C. Embedded content questions and main clause subject questions are also examined.",
+    "zh": "本节说明内容疑问句即 wh 疑问句的结构。wh 词替代的是整个短语，并移到小句之前，同时助动词移位到 C。由于移动的成分是短语而非中心语，这种操作属于短语移位，即 wh 移位，树形图在 C 左侧增加一个分支。本节还讨论了嵌入式内容疑问句和主句主语疑问句。"
+   },
+   "points": [
+    {"en": "Content questions, or wh-questions, begin with a wh-word and are answered by a phrase, not by yes or no.", "zh": "内容疑问句即 wh 疑问句，以 wh 词开头，回答是一个短语，而不是 yes 或 no。"},
+    {"en": "Wh-questions show subject-auxiliary inversion, analyzed as Aux-to-C movement, just like yes-no questions.", "zh": "wh 疑问句同样发生主谓倒装，可像一般疑问句那样分析为助动词移位到 C。"},
+    {"en": "Wh-words replace whole phrases: who animate NPs, what inanimate NPs and determiners, when time, where place, why reasons, how manner, which determiners.", "zh": "wh 词替换整个短语：who 有生名词短语，what 无生名词短语和限定词，when 时间，where 处所，why 原因，how 方式，which 限定词。"},
+    {"en": "Because the auxiliary already occupies C and a whole phrase moves, this is Phrasal Movement (XP Movement), called wh-movement.", "zh": "由于助动词已占据 C，而移动的是完整短语，这种操作属于短语移位（XP 移位），称为 wh 移位。"},
+    {"en": "Embedded content questions front the wh-phrase without inversion, leaving C empty; main clause subject questions also lack inversion and do-insertion.", "zh": "嵌入式内容疑问句把 wh 短语前置但不倒装，C 位置为空；主句主语疑问句也不倒装，也没有 do 插入。"}
+   ],
+   "terms": [
+    {"en": "wh-question", "zh": "wh 疑问句", "defEn": "A content question that begins with a wh-word and is answered by a phrase.", "defZh": "以 wh 词开头、用短语而非 yes 或 no 回答的内容疑问句。"},
+    {"en": "phrasal movement", "zh": "短语移位", "defEn": "Movement of an entire phrase into a higher phrase position.", "defZh": "把一个完整的短语移入更高层的短语之中，也称 XP 移位。"},
+    {"en": "wh-movement", "zh": "wh 移位", "defEn": "Movement of a wh-phrase from its original position into the CP.", "defZh": "指 wh 短语从原来所在的句内位置移入 CP 的移位操作。"},
+    {"en": "Aux-to-C movement", "zh": "助动词到 C 的移位", "defEn": "Movement of an auxiliary verb into the C head, producing inversion.", "defZh": "助动词移入 C 中心语并造成主语与助动词倒装的移位。"},
+    {"en": "embedded content question", "zh": "嵌入式内容疑问句", "defEn": "A content question inside another clause, with a fronted wh-phrase but no inversion.", "defZh": "位于另一小句内部的内容疑问句，wh 短语前置但不发生倒装。"}
+   ],
+   "examples": [
+    {"text": "What has the squirrel hidden?", "noteEn": "The wh-phrase what starts as the object of hidden and moves into the CP.", "noteZh": "该 wh 短语 what 原本是 hidden 的宾语，经过 wh 移位进入 CP。"},
+    {"text": "What kind of nuts has the squirrel hidden?", "noteEn": "A complex NP moves to Spec,CP, showing that wh-movement moves phrases, not heads.", "noteZh": "复杂名词短语整体移入 Spec,CP，说明 wh 移位移动的是短语而非中心语。"},
+    {"text": "I know [CP what squirrels hide].", "noteEn": "An embedded content question fronts the wh-phrase but has an empty C and no inversion.", "noteZh": "嵌入式内容疑问句把 wh 短语前置，但 C 位置为空且不发生倒装。"},
+    {"text": "Who ate the cookie? Bruno.", "noteEn": "A subject question with no auxiliary and no do-insertion, so no inversion occurs.", "noteZh": "主语疑问句没有助动词，也不需要 do 插入，因此不发生倒装。"}
+   ],
+   "body": [
+    {"en": "English content questions, or wh-questions, open with a wh-word such as who, what, which, when, where, why, or how, and they are answered by a phrase rather than by yes or no. Like yes-no questions, they show subject-auxiliary inversion, so forms such as did and is appear before the subject; this is Aux-to-C movement. The material missing from the answer is what the wh-word replaces, and wh-words substitute for whole phrases: who replaces animate NPs, what replaces inanimate NPs and determiners, when replaces time expressions, where replaces location expressions, why replaces reason CPs, how replaces manner expressions, and which replaces determiners.", "zh": "英语的内容疑问句又称 wh 疑问句，句首通常是 who、what、which、when、where、why 或 how 这样的 wh 词，其回答是一个短语，而不是 yes 或 no。与一般疑问句一样，wh 疑问句也发生主谓倒装，did、is 等出现在主语之前，这可分析为助动词移位到 C，即 Aux-to-C 移位。回答中缺失的成分正是 wh 词所替换的成分，而 wh 词替换的是整个短语：who 替换有生名词短语，what 替换无生名词短语和限定词，when 替换时间表达，where 替换处所表达，why 替换表示原因的 CP，how 替换方式表达，which 替换限定词。"},
+    {"en": "Although a wh-phrase may consist of one word, examples such as What kind of dance class and Which book about whales show that an entire phrase moves. Because the auxiliary already occupies C and the moving item is a phrase rather than a head, this cannot be head movement. It is Phrasal Movement, also called XP Movement: the wh-phrase moves from wherever it originates into the CP, an operation known as wh-movement. The tree simply adds an extra branch to the left of the C head. In What has the squirrel hidden?, what begins as the object of hidden and ends up in Spec,CP.", "zh": "wh 短语有时只有一个词，但 What kind of dance class、Which book about whales 这类例子表明移动的是一个完整短语。由于助动词已经占据 C，而且移动的成分是短语而非中心语，这种移位不可能是中心语移位，而是短语移位，也称 XP 移位：wh 短语从原来的位置移入 CP，这称为 wh 移位。树形图只需在 C 中心语左侧增加一个分支。在 What has the squirrel hidden? 中，what 原本是 hidden 的宾语，最终落在 Spec,CP。"},
+    {"en": "Embedded content questions also front the wh-phrase but skip inversion, leaving the embedded C empty; an overt complementizer such as if is impossible there. Main clause subject questions likewise show no inversion, a fact revealed by the absence of do-insertion, and linguists still disagree about why.", "zh": "嵌入式内容疑问句同样把 wh 短语前置，但不发生倒装，其 C 位置为空，不能再出现 if 这样的显性标句词。主句主语疑问句也不倒装，缺少 do 插入正说明了这一点；语言学家对其原因尚无定论。"}
+   ]
+  },
+  "chapter-165-a1-5-draw-a-tree-step-by-step": {
+   "title": {"en": "A1.7 Draw a Tree Step-by-Step", "zh": "A1.7 一步步画树形图"},
+   "summary": {
+    "en": "This section gives nine steps for analyzing a sentence and drawing its tree, from identifying the main verb and subjects through classifying clauses, finding modifiers, drawing the spine, filling in phrases, marking movement, and checking the result. It stresses that analysis must come before drawing, warns about ambiguous modifiers, and explains when triangles may be used.",
+    "zh": "本节给出分析句子并绘制树形图的九个步骤，从找出主要动词和各个主语，到判断小句类型、辨认修饰语、画出骨架、填入短语、标出移位，最后复核结果。文中强调先分析后动笔，提醒注意修饰语的歧义，并说明何时可以使用三角形简写结构。"
+   },
+   "points": [
+    {"en": "Step one: identify the main verb, ignoring auxiliaries; have is a main verb in I have a green spaceship but an auxiliary elsewhere.", "zh": "第一步：找出主要动词，不要被助动词干扰；have 在 I have a green spaceship 中是主要动词，在其他句子里则是助动词。"},
+    {"en": "Step two: find the subject of each verb, using question tests and agreement. Step three: identify one clause per main verb, including embedded subject and object clauses.", "zh": "第二步：借助提问测试和主谓一致找出每个动词的主语。第三步：每个主要动词对应一个小句，包括作主语和作宾语的嵌入式小句。"},
+    {"en": "Step four: classify each clause as statement, yes-no question, or content question, and locate where the wh-phrase started. Step five: identify modifiers and what they modify, watching for ambiguity.", "zh": "第四步：判断每个小句是陈述句、一般疑问句还是内容疑问句，并确定 wh 短语原来的位置。第五步：找出修饰语及其修饰对象，注意歧义。"},
+    {"en": "Step six: draw the spine, S branching to subject, auxiliary or negation, and VP, with VP branching to the V head and object; add CP above TP for questions.", "zh": "第六步：画出骨架，S 下分出主语、助动词或否定词以及 VP，VP 下再分出 V 中心语和宾语；疑问句在 TP 之上加 CP。"},
+    {"en": "Step seven: fill in subjects, objects, and modifiers, adding branches as needed; adverbs may sit left or right of the verb, PPs go right, and complex NPs are broken into pieces.", "zh": "第七步：填入主语、宾语和修饰语并按需增加分支；副词可在动词左右，介词短语在右侧，复杂名词短语要逐层拆分。"},
+    {"en": "Step eight: mark movement with angle brackets and arrows for Aux-to-C and wh-movement. Step nine: double check heads, order, crossing branches, positions, labels, and arrows.", "zh": "第八步：用尖括号和箭头标出助动词到 C 的移位以及 wh 移位。第九步：复核中心语、词序、分支交叉、成分位置、词性标注和箭头。"}
+   ],
+   "terms": [
+    {"en": "main verb", "zh": "主要动词", "defEn": "The verb that heads the clause, distinct from any auxiliary verbs.", "defZh": "充当小句核心、决定其论元结构的动词，与助动词相区别。"},
+    {"en": "clause", "zh": "小句", "defEn": "A structure containing a subject and a predicate, one per main verb.", "defZh": "包含主语和谓语的句法单位，每个主要动词对应一个小句。"},
+    {"en": "modifier", "zh": "修饰语", "defEn": "An optional element such as an adjective or PP that modifies another constituent.", "defZh": "形容词或介词短语等可选成分，用来修饰另一个句法成分。"},
+    {"en": "constituent test", "zh": "句法成分测试", "defEn": "A diagnostic such as the movement test that shows whether words form a constituent.", "defZh": "如移位测试等诊断手段，用来判断若干词是否构成一个句法成分。"},
+    {"en": "triangle", "zh": "三角形", "defEn": "A shorthand that replaces branches by writing a whole constituent under a triangle.", "defZh": "一种简写方式，用三角形代替分支，把整个句法成分直接写在三角形下。"}
+   ],
+   "examples": [
+    {"text": "I have a green spaceship.", "noteEn": "Example used in Step one, where have is a main verb, not an auxiliary.", "noteZh": "第一步的例子，其中 have 是主要动词而不是助动词。"},
+    {"text": "That aliens exist surprised my sister.", "noteEn": "An embedded subject clause functioning as the subject of surprised.", "noteZh": "该嵌入式主语小句整体充当主要动词 surprised 的主语。"},
+    {"text": "It is [an alien with a telescope] that you have seen.", "noteEn": "The movement test shows that an alien with a telescope is a constituent.", "noteZh": "移位测试表明 an alien with a telescope 是一个句法成分。"},
+    {"text": "What have you seen?", "noteEn": "Both Aux-to-C movement and wh-movement are marked with arrows in the tree.", "noteZh": "树形图中用箭头同时标出助动词到 C 的移位和 wh 移位。"}
+   ],
+   "body": [
+    {"en": "Before drawing anything, analyze the sentence: find the main verb, locate each verb's subject, identify one clause per main verb, classify each clause, and pin down the modifiers and what they attach to. Only then draw the spine of the clause, starting from S, and fill in subjects, objects, and modifiers. Ambiguity deserves special attention: in You have seen an alien with a telescope, the PP can be sister to the noun alien, meaning that the alien owns the telescope, or sister to the verb, meaning that the telescope was used for seeing. Constituency tests such as the movement test distinguish the two structures.", "zh": "动笔之前应先分析句子：找出主要动词，确定每个动词的主语，按主要动词切分小句，判断每个小句的类型，并辨认修饰语及其修饰对象。之后再从 S 开始画出小句的骨架，填入主语、宾语和修饰语。歧义尤其需要注意：在 You have seen an alien with a telescope 中，介词短语既可以与名词 alien 构成姐妹节点，表示外星人拿着望远镜，也可以与动词构成姐妹节点，表示用望远镜看。可用移位测试等句法成分测试区分这两种结构。"},
+    {"en": "For the spine itself, S typically branches two to four ways, for the subject, any auxiliary or negation, and the VP; the VP then branches into the V head and an optional object. Embedded subject clauses go on the far-left branch under S, embedded object clauses on the right branch under VP, with their CP headed by that or a null C. Complex NPs are broken down one piece at a time, as in the outlandish lady with the purple purse from Wal-Mart on her elegant arm.", "zh": "画骨架时，S 下通常有两到四个分支，分别对应主语、助动词或否定词以及 VP；VP 下再分出一到两个分支，对应 V 中心语和宾语。嵌入式主语小句放在 S 下最左侧的分支，嵌入式宾语小句放在 VP 下的右侧分支，其 CP 的 C 中心语写作 that 或为空。若名词短语较复杂，可像 The outlandish lady with the purple purse from Wal-Mart on her elegant arm 那样逐层拆分：先确定 lady 是中心语，再处理层层嵌套的介词短语。"},
+    {"en": "Questions add a CP above the TP and require movement to be marked: angle brackets around the auxiliary left behind, a copy under C, and an arrow; for wh-movement the wh-phrase is shown in its original position in angle brackets and rewritten in the specifier of CP with its internal structure drawn. Finally, check every answer: every phrase needs a head, branches must not cross, word order must be right, subjects belong under TP, objects under VP, and modifiers must be sisters to what they modify. Triangles abbreviate structure but may cost marks.", "zh": "疑问句要在 TP 之上加一个 CP，并表示出移位：用尖括号标出留在原位的助动词，在 C 下重写助动词并画箭头；发生 wh 移位时，先用尖括号在原始位置标出 wh 短语，再把它的标签写入 CP 的指示语位置，并在下方画出其内部结构。最后要复核：每个短语都要有中心语，分支不能交叉，词序要正确，主语在 TP 之下，宾语在 VP 之下，修饰语必须与所修饰成分构成姐妹节点。三角形可用来简写结构，但考试中可能得不到满分，最好只用于草稿，最后仍要补全。"}
+   ]
+  }
+ }
+}

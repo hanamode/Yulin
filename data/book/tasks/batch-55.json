@@ -1,0 +1,13 @@
+{
+ "batch": 55,
+ "chapter": "Chapter 10: Language Variation and Change",
+ "out": "data/book/gen/batch-55.json",
+ "sections": [
+  {
+   "id": "chapter-127-slug-10-12-exercise-your-linguistic-skills",
+   "title": "10.12 Exercise Your Linguistics Skills",
+   "src": "data/book/src/chapter-127-slug-10-12-exercise-your-linguistic-skills.txt",
+   "chars": 2729
+  }
+ ]
+}

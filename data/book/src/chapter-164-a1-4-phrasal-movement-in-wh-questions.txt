@@ -1,0 +1,112 @@
+# A1.6 Phrasal movement in wh-questions
+
+Note: This is adapted from Section 6.19.
+Alongside yes-no questions, there are also wh-questions, also known as content questions. Content questions in English usually have a wh-word at the beginning (who, what, which, when, where, why, or how). The answer to a wh-word question will be a phrase, not yes or no.
+Wh-questions also have subject-auxiliary inversion. The auxiliaries are in bold in the examples below. In (1b), did appears before the subject Bruno; in (2b), is appears before the subject Kenzie; in (3b), is appears before the subject Radu. We can analyze subject-auxiliary inversion as Aux-to-C movement in wh-questions, just like we did for yes-no questions.
+
+[表格]
+| | | (1) | | a. | | | Bruno | ate the cookie. | | | | | | b. | | | What | | did | | Bruno | eat? The cookie. | | | | (2) | | a. | | | Kenzie | | is | taking syntax classes at the university. | | | | | | b. | | | Where | | is | | Kenzie | taking syntax classes? At the university. | | | | (3) | | a. | | | Radu | | is | commuting by train. | | | | | | b. | | | How | | is | | Radu | commuting? By train. | | |
+
+However, there is also something else going on in wh-questions. You may notice that the wh-word (italicized) appears in front of the auxiliary. In addition, part of the sentence disappears: the cookie in (1b), at the university in (2b), and by train in (3b). Plus, the part of the sentence that disappears happens to be exactly the same as the answer to the question. We explain this by saying that the wh-words actually replace a phrase, similar to a pronoun.
+- Who replaces animate NPs.
+- What replaces inanimate NPs and determiners.
+- When replaces NPs, AdvPs, and PPs that describe time.
+- Where replaces NPs, AdvPs, and PPs that describe location.
+- Why replaces CPs that describe reasons.
+- How replaces AdvPs, PPs, and CPs that describe manner.
+- Which replaces determiners.
+
+The wh-words replace phrases (except for Det, which we will return to later) and then they are moved to the front of the sentence.
+Wh-phrases might, by coincidence, consist only of one word, but but we know that they are phrases because they can sometimes contain more than one word. In examples (1)-(3), you can see that what they replace can be more than one word, but what moves can also be more than one word.
+
+[表格]
+| | | (4) | | a. | | | Jagmeet | | is | taking salsa classes. | | | | | | b. | | | What kind of dance class | | is | | Jagmeet | taking? Salsa classes. | | | | (5) | | a. | | | Kenzie’s class | | is | in the South building. | | | | | | b. | | | Where at the university | | is | | Kenzie’s class | ? In the South building. | | |
+
+Which is special because it doesn’t replace a phrase; instead it is a determiner. In (6), which replaces that; in (7), which replaces a. In both cases, the entire NP that contains the determiner which undergoes wh-movement to the front of the sentence, and so even though which doesn’t replace a phrase, it is still an entire phrase that moves. The wh-word what can also be a determiner sometimes. For example, in (4b), it is a determiner, but not in (1b).
+
+[表格]
+| | | (6) | | a. | | | | Katoka | likes that spaghetti sauce. | | | | | | | b. | | | Which spaghetti sauce | | does | | Katoka | like? | | | | (7) | | a. | | | Zahra | | has | written a book about whales. | | | | | | b. | | | Which book about whales | | has | | Zahra | written? | | |
+
+The wh-phrases can also start out anywhere in the sentence, not just the end. The phrases that are being replaced by the wh-phrase is in square brackets.
+
+[表格]
+| | | (8) | | a. | | | Kenzie | | is | taking [syntax classes] at the university. | | | | | | b. | | | What | | is | | Kenzie | taking at the university? Syntax classes. | | | | (9) | | a. | | | Jagmeet | | is | [happily] dancing. | | | | | | b. | | | How | | is | | Jagmeet | dancing? Happily. | | |
+
+To figure out where it starts out, you can answer the question as a full sentence and see where the answer goes (such as in all of the (a) examples above), or you can act surprised and ask an echo question, as in (10).
+
+[表格]
+| | | (10) | | a. | | Bruno ate WHAT? | | from example (1) | | | | | | b. | | Jagmeet is taking WHAT kind of dance class? | | from example (4) | | | | | | c. | | Kenzie is taking syntax classes WHERE? | | from example (5) | | | | | | d. | | Zahra has written WHICH book about whales? | | from example (7) | | | | | | e. | | Kenzie is taking WHAT at the university? | | from example (8) | | |
+
+## Question word fronting as Phrasal Movement
+
+Because wh-phrases are entire phrases, not heads, we can’t describe their movement in terms of head movement. Instead, we’re going to introduce a second (and final) type of movement: Phrasal Movement.
+Recall that wh-questions all involve subject-auxiliary inversion, which we analyzed earlier as Aux-to-C movement when looking at main clause Yes-No questions. We can tell this has applied because the auxiliary is before the subject in all of the wh-questions in (1)-(9). But we can’t use Aux-to-C movement to analyze how the content question word gets to the front of the sentence for two reasons:
+- The auxiliary is already in C. We can’t put two words in one head, so we need to put the wh-word somewhere else—and somewhere further to the left.
+- The thing that moves to the front of the sentence in a wh-question isn’t just a head, it’s a whole phrase, like we saw in examples (4)-(7). In all of those examples, we have larger NPs moving to the front of the question, instead of the single word what or where—though these larger NPs still contain wh-words.
+
+So we know that the content question phrase isn’t pronounced in the C head in content questions. Instead it is pronounced before C. We can simply add an extra branch in CP, to the left of the C head, in order to contain the wh-phrase.
+Let’s work through an example, What has the squirrel hidden? The statement version of this question is The squirrel has hidden nuts. A labeled bracketed diagram is shown in (11). The subject NP is the squirrel, the auxiliary is has, the verb is hidden and the object is nuts.
+
+[表格]
+| | | (11) | | [S [NP The squirrel] [Aux has ] [VP hidden nuts ] ] | | |
+
+In the content question, what changes is that we have what as the object of hidden, instead of nuts. We also have a +Q C head above S, because that’s where the auxiliary in T moves. We can schematize the structure before we do any movement as in Figure A1.17. (The tree before any movement occurs is called Deep Structure in some theories of syntax, though we won’t focus on that terminology here.)
+
+[图片：the-squirrel-has-hidden-what-300x229.png]
+
+Figure 1.17: Tree for “What has the squirrel hidden?” before movement.
+Now we need to transform this clause so that the question phrase appears in initial position, at the beginning of the sentence. This isn’t head movement, it’s Phrasal Movement, also referred to as XP Movement. A phrase can’t go in a head position, but we can add an extra branch to the CP.
+
+[表格]
+| | | (12) | | | Phrasal Movement | | | | | | | Movement of a phrase (XP) into a higher phrase. | | |
+
+This type of Phrasal Movement is known as wh-movement; Phrasal Movement is usually named for the type of phrase that moves.
+
+[表格]
+| | | (13) | | | | Wh- | movement | | | | | | | Move a | wh | -phrase from its original position into the CP. | | |
+
+Figure A1.18 shows what the tree structure will look like after both Aux-to-C Movement and wh-movement have applied.
+
+[图片：what-has-the-squirrel-hidden-300x236.png]
+
+Figure A1.18: Tree diagram for the question “What has the squirrel hidden?” after both Aux-to-C and wh-movement
+
+What does it look like when we have a complex NP moving to Spec,CP? Basically the same, as shown in Figure A1.19.
+
+[图片：what-kind-of-nuts-300x160.png]
+
+Figure A1.19: Tree diagram for the question “What kind of nuts has the squirrel hidden?” after both Aux-to-C and wh-movement.
+
+## Embedded content questions
+
+Embedded content questions have very similar tree structures. They are like main clause content questions in putting the wh-phrase at the front of the CP, but unlike main clause content phrases in that they don’t do subject-auxiliary inversion (Aux-to-C movement).
+What would this look like in a tree? Consider this embedded content question:
+
+[表格]
+| | | (14) | | I know [CP what squirrels hide]. | | |
+
+The tree for this sentence would be as in Figure A1.20.
+
+[图片：i-know-what-squirrels-hide-279x300.png]
+
+Figure A1.20: Tree diagram for the embedded content question “I know what squirrels hide.”
+Notice that the embedded C is empty! In many varieties of English, when you have a wh-phrase in an embedded Spec,CP, it’s impossible to also have an overt complementizer. So sentences like (13) are always ungrammatical, even though if is a +Q complementizer. This is a property of embedded wh-questions in English.
+
+[表格]
+| | | (15) | | *I know [CP what if squirrels hide]. | | |
+
+This isn’t true in all languages! In many languages wh-movement is totally compatible with an overt complementizer; we saw this for Japanese content questions in Section 6.8.
+
+## Main clause subject questions
+
+Subject questions—when the wh-word replaces the subject—are special because they also don’t appear to undergo subject-auxiliary inversion, even in main clauses. We normally wouldn’t be able to tell—after the subject wh-word moves to the front of the question, both the auxiliary and the C head appear in between the wh-word and the rest of the sentence, as you can see in Figure A1.21. The auxiliary could be in either head, and the sentence would look the same!
+
+[图片：who-is-eating-the-cookie-300x234.png]
+
+Figure A1.21: Tree diagram for the sentence “Who is eating the cookie?”
+But there is one clue that it does not move. When there is no auxiliary, do-insertion doesn’t have to happen.
+
+[表格]
+| | | (16) | | a. | | | Bruno | ate the cookie. | | | | | | b. | | | Who | ate the cookie? Bruno. | | |
+
+Linguists disagree about why subject-auxiliary inversion doesn’t happen in subject questions. It’s an interesting little unsolved puzzle!

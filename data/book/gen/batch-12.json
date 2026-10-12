@@ -1,0 +1,304 @@
+{
+ "batch": 12,
+ "sections": {
+  "chapter-015-slug-2-6-linguistic-law-enforcement": {
+   "title": {
+    "en": "2.6 Linguistic law enforcement",
+    "zh": "2.6 语言的执法"
+   },
+   "summary": {
+    "en": "Criticizing most kinds of social difference is considered rude, yet criticizing language that deviates from the privileged standard is expected and even encouraged, so prescriptive grammar functions like law enforcement. This section examines two targets of that policing, women's voices and unfamiliar accents, and shows how expectations and stigma produce real consequences in employment, housing, and education.",
+    "zh": "批评多数类型的社会差异会被视为无礼，但批评偏离特权标准的语言使用却被期待甚至鼓励，规定性语法因而像执法一样运作。本节考察这种管束的两个对象——女性的嗓音和陌生的口音，并说明预期与污名如何在就业、住房和教育中造成实际后果。"
+   },
+   "points": [
+    {
+     "en": "Criticizing other social differences is rude, but criticizing non-standard language use is expected and encouraged.",
+     "zh": "批评其他社会差异被视为无礼，而批评偏离特权标准的语言使用却被期待甚至鼓励。"
+    },
+    {
+     "en": "Prescriptive grammar is used like law enforcement, especially against women's voices and unfamiliar accents.",
+     "zh": "规定性语法被当作执法工具，尤其针对女性的嗓音和与主流不同的口音。"
+    },
+    {
+     "en": "Vocal fry is a systematic creaky voice quality, yet it is judged far more harshly in women than in men.",
+     "zh": "气泡音是一种系统性的嘎裂发声，但女性使用时所受的苛责远多于男性。"
+    },
+    {
+     "en": "An L2 accent is shaped by L1 phonology, and accent stigma harms employment, housing, and education.",
+     "zh": "第二语言口音受第一语言音系塑造，口音污名会损害就业、住房和教育机会。"
+    },
+    {
+     "en": "Listeners' expectations, not the accent itself, can reduce comprehension, but perceptual adaptation improves it.",
+     "zh": "影响理解的是听者的预期而非口音本身，而知觉适应能够改善这种理解。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "vocal fry",
+     "zh": "气泡音",
+     "defEn": "A voice quality produced with very low frequency vibrations of the vocal folds, sounding creaky.",
+     "defZh": "声带以极低频率振动而发出的语音，听上去嘎吱作响，也称嘎裂发声。"
+    },
+    {
+     "en": "creak",
+     "zh": "嘎裂声",
+     "defEn": "The technical linguistic term for this creaky voice quality in speech.",
+     "defZh": "语言学术语，指上述嘎吱作响的发声方式，系统性地出现于许多语言的语音、音系与韵律中。"
+    },
+    {
+     "en": "accent",
+     "zh": "口音",
+     "defEn": "A way of pronouncing a language; everyone has one, but only unfamiliar ones are noticed.",
+     "defZh": "一种语言的发音方式；人人都有口音，但只有与主流不同的口音才被注意并蒙受污名。"
+    },
+    {
+     "en": "perceptual adaptation",
+     "zh": "知觉适应",
+     "defEn": "Improved comprehension of a talker that grows with experience paying attention to them.",
+     "defZh": "随着听者注意某位说话者的经验增加，对其话语的理解力随之提高的现象。"
+    },
+    {
+     "en": "matched-guise study",
+     "zh": "配对变体实验",
+     "defEn": "An experiment presenting the same voice with different social information, such as a face.",
+     "defZh": "实验方法：使用同一位说话者的录音，配以不同的社会信息（如照片），以考察听者评价的变化。"
+    },
+    {
+     "en": "stigma",
+     "zh": "污名",
+     "defEn": "Negative attitudes and expectations attached to a stigmatized accent or language variety.",
+     "defZh": "社会附加于某种口音或语言变体之上的负面态度与期待，会带来现实的后果。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "The negative perceptions of vocal fry are stronger for female voices relative to male voices",
+     "noteEn": "Anderson et al. (2014), who advised young American women to avoid vocal fry.",
+     "noteZh": "安德森等人（2014）的研究结论，他们据此建议年轻美国女性避免使用气泡音。"
+    },
+    {
+     "text": "if your L1 is English and you learn Japanese as an L2, your accent in Japanese is likely to be different from that of your classmate whose L1 is Korean",
+     "noteEn": "An illustration of how the phonology of the L1 shapes an L2 accent.",
+     "noteZh": "说明第一语言的音系如何塑造第二语言的口音，母语不同的学习者口音因此有别。"
+    },
+    {
+     "text": "For any given voice, the listeners rated the talker as having a stronger accent when they saw a Chinese Canadian face than when they saw a white Canadian face",
+     "noteEn": "Babel and Russell's (2015) matched-guise finding about expectations and intelligibility.",
+     "noteZh": "巴贝尔和拉塞尔（2015）配对变体实验的发现，显示预期如何影响口音评价与理解。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Criticizing other kinds of social difference is widely considered rude, but criticizing language that deviates from the privileged standard is expected, so prescriptive grammar works like law enforcement. Objections to they/them pronouns for non-binary people are typically framed as grammar, yet Bradley (2019) found that prescriptive views of grammar accompany conservative views of the gender binary. Women's voices are policed too: complaints about uptalk gave way in the 2010s to a panic about vocal fry, a creaky voice quality produced with very low frequency vibrations of the vocal folds. Creak is systematic in the phonetics, phonology, and prosody of many languages, and Davidson (2020) reports that creaky speakers sound more bored, more relaxed, less intelligent, and less confident.",
+     "zh": "批评其他类型的社会差异通常被视为无礼，但批评偏离特权标准的语言使用却不仅被容忍，甚至受到期待与鼓励，规定性语法规范因而像执法一样在维持社会秩序。对非二元性别人士使用 they/them 代词的反对意见常以语法为说辞，但布拉德利（2019）发现，持规定性语法观的人往往也对性别二元论持保守立场。女性的嗓音同样受到管束：对升调的抱怨在 2010 年代转向对气泡音的道德恐慌；气泡音是声带以极低频率振动、听来嘎裂的发声方式，而嘎裂声在许多语言的语音、音系和韵律中都是系统性的。戴维森（2020）指出，使用这种发声的说话者会被听成更无聊、更放松、更不聪明、更不自信。"
+    },
+    {
+     "en": "Men and women creak about equally often, but older listeners find it far more irritating when women do it, and Anderson et al. (2014) advised young American women to avoid vocal fry to maximize labor market opportunities. Accent is policed in similar ways. Everyone has an accent, yet only unfamiliar ones are noticed and stigmatized, including L1 varieties such as Black English, the varieties of the southeastern United States, and Newfoundland English. Because an L2 mental grammar is shaped by the experience of an L1, L2 accents vary with the speaker's first language. The costs are fewer job interviews, unrecognized skills, trouble renting housing, less credible court testimony, and children being disproportionately labelled with learning disabilities.",
+     "zh": "男女使用气泡音的频率大致相当，但年长的听者觉得女性使用时更令人恼火，安德森等人（2014）甚至建议年轻美国女性避免气泡音以增加劳动市场机会。口音所受的管束同样明显：人人都有口音，但只有与主流不同的口音才被注意并蒙受污名，其中包括黑人英语、美国东南部诸变体以及纽芬兰英语等第一语言变体。由于第二语言的心理语法由第一语言的经验塑造，第二语言口音的差异与说话者的第一语言有关。代价十分具体：更难获得面试机会、技能不被认可、租房受阻、法庭证词不受重视，以及儿童被不成比例地贴上学习障碍标签。"
+    },
+    {
+     "en": "Expectations also shape comprehension. Babel and Russell (2015) presented identical L1 Canadian English voices with either a white Canadian or a Chinese Canadian face; listeners judged the talkers as more strongly accented and transcribed their sentences less accurately with the Chinese Canadian face, a mismatch of expectations in a region where over 40% of people speak Cantonese or Mandarin. Perceptual adaptation offers a remedy: the longer we attend to a talker, and the more unfamiliar accents we have heard, the better we understand.",
+     "zh": "听者的预期也会影响理解。巴贝尔和拉塞尔（2015）的配对变体实验把同一批第一语言为加拿大英语的说话者的录音，分别配上白人加拿大人或华裔加拿大人的照片；看到华裔面孔时，听者认为说话者口音更重，听写句子也更不准确，这正是出现在超过四成人口讲粤语或普通话地区的预期错配。知觉适应则提供了出路：我们越是注意某个说话者、听过的陌生口音越多，就越能听懂对方所说的话。"
+    }
+   ]
+  },
+  "chapter-016-slug-2-7-legally-enshrined-harms": {
+   "title": {
+    "en": "2.7 Legally enshrined harms",
+    "zh": "2.7 法律明文确立的伤害"
+   },
+   "summary": {
+    "en": "Language policing is not only carried out by individuals but also by governments through language policy, which can unify or divide and can erase or reinforce social identities. This section traces Canada's official English-French bilingualism, the Official Languages Act, the residential school policy and linguicide, and the 2019 Indigenous Languages Act, showing how laws continue to shape whose languages count.",
+    "zh": "语言管束不只来自个人，也来自政府通过语言政策所行使的权力，这些政策既能促成团结也能制造分裂，既能抹除也能强化身份认同。本节梳理加拿大英语—法语官方双语制的由来、《官方语言法》、寄宿学校政策与语言灭绝，以及 2019 年《原住民语言法》，说明法律如何持续决定哪些语言算数。"
+   },
+   "points": [
+    {
+     "en": "Governments wield power through language policy, which can erase or reinforce identities and encourage or forbid languages.",
+     "zh": "政府通过语言政策行使权力，既可能抹除也可能强化身份认同，鼓励或禁止某些语言。"
+    },
+    {
+     "en": "The Official Languages Act of 1969 made French and English official but recognized no Indigenous languages.",
+     "zh": "1969 年的《官方语言法》确立英语和法语的地位，却未承认任何原住民语言。"
+    },
+    {
+     "en": "Residential schools punished Indigenous children for using home languages, a policy of assimilation and linguicide.",
+     "zh": "寄宿学校因原住民儿童使用母语而施罚，这是同化政策，也是对语言的扼杀。"
+    },
+    {
+     "en": "The 2019 Indigenous Languages Act provides protections and funding for reclaiming and revitalizing Indigenous languages.",
+     "zh": "2019 年《原住民语言法》为原住民语言的恢复与振兴提供保障和资金。"
+    },
+    {
+     "en": "Quebec's laws protect French from English assimilation but also suppress Cree, Mohawk, and other languages.",
+     "zh": "魁北克的语言法保护法语免受英语同化，却也压制了克里语、莫霍克语等语言。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "language policy",
+     "zh": "语言政策",
+     "defEn": "Government or institutional decisions about which languages may be used, taught, or displayed.",
+     "defZh": "政府或机构对语言使用、教学和公开展示所作的规定，可用以促进团结，也可制造分裂。"
+    },
+    {
+     "en": "official language",
+     "zh": "官方语言",
+     "defEn": "A language given legal recognition by a government, unlike languages without that status.",
+     "defZh": "经政府法律承认的语言；是否获得法律承认，决定了哪些语言被列为官方语言。"
+    },
+    {
+     "en": "Official Languages Act",
+     "zh": "官方语言法",
+     "defEn": "The 1969 Canadian law making French and English official and expanding Francophone access.",
+     "defZh": "加拿大 1969 年颁布的法律，确立英语和法语为官方语言，并扩大了法语使用者的教育与就业机会。"
+    },
+    {
+     "en": "residential school",
+     "zh": "寄宿学校",
+     "defEn": "An institution where Indigenous children were punished for using home languages and taught only in English or French.",
+     "defZh": "原住民儿童被迫入学、因使用母语而受罚的机构，只以英语或法语授课，目的是同化他们。"
+    },
+    {
+     "en": "linguicide",
+     "zh": "语言灭绝",
+     "defEn": "The killing of a language, as through policies that punish children for using it.",
+     "defZh": "对语言的扼杀；例如寄宿学校惩罚儿童使用母语，迫使其语言中断代际传承。"
+    },
+    {
+     "en": "Indigenous Languages Act",
+     "zh": "原住民语言法",
+     "defEn": "The 2019 Canadian law providing protections and funding for reclaiming and revitalizing Indigenous languages.",
+     "defZh": "加拿大 2019 年通过的法律，为原住民语言的保护、恢复与振兴提供保障和经费。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Based on my experience growing up in Quebec, I was denied the chance to learn French during my time in the federal government day schools",
+     "noteEn": "Mary Simon (2021), criticized as Governor-General for lacking French proficiency.",
+     "noteZh": "玛丽·西蒙（2021）的话；她因法语不够流利而受到批评，尽管英语和因纽特语流利。"
+    },
+    {
+     "text": "linguicide, or killing of language",
+     "noteEn": "The term used for policies that caused children to stop using their home languages.",
+     "noteZh": "用以指称那些使儿童放弃母语的政策，其造成的伤害至今仍在延续。"
+    },
+    {
+     "text": "the majority of Cree and Mohawk speakers in Quebec use English as their second language",
+     "noteEn": "Showing how Quebec's French-protection laws disadvantage speakers of other languages.",
+     "noteZh": "说明魁北克保护法语的法律如何使其他语言的使用者处于不利地位。"
+    },
+    {
+     "text": "French on signs to come first and to be twice as large as other languages",
+     "noteEn": "One requirement of Quebec's language laws regulating the public landscape.",
+     "noteZh": "魁北克语言法对公共空间语言景观的规定之一，用以强化法语的地位。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Language policing is not only individual; governments also wield power through language policy. Such policies can create unity or division, erase or reinforce identities, demand proof of competence, or regulate what appears in public space. In the country now known as Canada, French and English are official languages because of legal recognition, while many other languages are used on these lands.",
+     "zh": "语言管束不仅由个人实施，政府也通过语言政策行使权力。这类政策可以促成团结，也可以制造分裂；可以抹除身份认同，也可以强化它；可以要求证明语言能力，也可以规定公共空间里允许出现哪些语言，其动机可正可负。在今天称为加拿大的这片土地上，法语和英语因法律承认而成为官方语言，但这里还使用着许多其他语言。"
+    },
+    {
+     "en": "The Official Languages Act was instituted in 1969 by Prime Minister Pierre Trudeau in response to increasing Francophone nationalism in Quebec, where an Anglophone minority then dominated industry, commerce, and finance. It made space for Francophones, improved education and employment outside Quebec, and helped make New Brunswick officially bilingual; the Supreme Court of Canada overturned Manitoba's English-only law once the Act passed. Its major shortcoming is that it neither protects nor recognizes the Indigenous languages used here for centuries before Canada existed.",
+     "zh": "1969 年，总理皮埃尔·特鲁多面对魁北克日益高涨的法裔民族主义而推行《官方语言法》。当时魁北克的英语少数群体主导着工业、商业和金融部门，该法为法语使用者开辟了在更多场合使用本族语言的空间，改善了魁北克以外法语使用者的教育与就业机会，并促使法语人口众多的新不伦瑞克省成为正式的双语省份；曼尼托巴省原本以法律规定英语为唯一官方语言，该法通过后即被加拿大最高法院推翻。它的一大缺陷在于，对在加拿大建国之前就已在此使用了许多世纪的原住民语言，既不提供保护，也不予承认。"
+    },
+    {
+     "en": "The Canadian government has also used language policy to oppress Indigenous peoples. Residential schools punished Indigenous children for using their home languages, instructing them only in English and French to assimilate them into colonial society; many children stopped using their community language and did not pass it on. Such policies can be called linguicide, the killing of language, and the harms continue. The Truth and Reconciliation Commission of Canada called in 2015 for policies and funding to support Indigenous languages, and the Indigenous Languages Act of 2019 provided protections and funding for reclaiming and revitalizing them.",
+     "zh": "加拿大政府还利用语言政策压迫原住民。寄宿学校因原住民儿童使用母语而施罚，只以英语和法语授课，目的是把他们同化进殖民社会；许多儿童因此不再使用自己社区的语言，也没有把它传给下一代。这类政策可称为语言灭绝（linguicide），即对语言的扼杀，其伤害至今仍在延续。2015 年，加拿大真相与和解委员会呼吁制定支持原住民语言的政策并提供资金；2019 年通过的《原住民语言法》为此类语言的恢复与振兴提供了保护和经费。"
+    },
+    {
+     "en": "The effects of this focus persist. When Mary Simon became Governor-General in 2021, she was criticized for lacking French proficiency even though she is bilingual in English and Inuktitut, and she attributed this to Canadian education policy. Quebec's language laws protect French from assimilation into the anglophone majority, but they also suppress other languages: since most Cree and Mohawk speakers in Quebec use English rather than French as a second language, these laws hinder their access to education and provincial services.",
+     "zh": "英语—法语双语这一官方重心带来的后果至今可见。2021 年玛丽·西蒙出任总督时，因法语不够流利而受到批评，尽管她的英语和因纽特语都很流利，她把这番经历归因于加拿大的教育政策。魁北克的语言法保护法语不被加拿大其他地区的英语多数同化，但也压制了其他语言：魁北克大多数克里语和莫霍克语使用者以英语而非法语作为第二语言，因此这些法律使他们更难获得教育和省级服务。"
+    }
+   ]
+  },
+  "chapter-017-slug-2-8-exercise-your-linguistics-skills": {
+   "title": {
+    "en": "2.8 Exercise your linguistics skills",
+    "zh": "2.8 练习你的语言学技能"
+   },
+   "summary": {
+    "en": "Four exercises let learners apply the chapter's concepts to their own experience. They use morphology to compare standardized language with standard language, reflect on feelings about an L2 accent, analyse how names and nicknames vary across relationships, and examine swearing in different social contexts in terms of face.",
+    "zh": "本节提供四个练习，让学习者把本章概念应用于自身经验：用形态学知识比较“标准化语言”与“标准语”，反思自己对第二语言口音的感受，分析称呼与昵称如何因人际关系而异，并从面子角度考察不同社会语境中的脏话使用。"
+   },
+   "points": [
+    {
+     "en": "The exercises ask learners to apply morphology, reflect on accent attitudes, and analyse naming and swearing.",
+     "zh": "这些练习要求学习者运用形态学知识、反思口音态度，并分析称呼与脏话的使用。"
+    },
+    {
+     "en": "Learners compare the terms standardized language and standard language and consider why linguists prefer the former.",
+     "zh": "学习者比较“标准化语言”与“标准语”两个术语，并思考语言学家为何偏好前者。"
+    },
+    {
+     "en": "Learners examine how naming choices vary across relationships and what happens when someone uses an other name.",
+     "zh": "学习者考察称呼选择如何因人际关系而异，以及他人使用自己另一个名字时会产生什么后果。"
+    },
+    {
+     "en": "Learners analyse swearing in different social contexts in terms of threats to positive and negative face.",
+     "zh": "学习者从正面面子与负面面子所受影响的角度，分析不同社会语境中的脏话使用。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "morpheme",
+     "zh": "语素",
+     "defEn": "The smallest meaningful unit of language, such as the -ize added to these words.",
+     "defZh": "语言中最小的音义结合单位，如加在这些词后面的 -ize，本身携带意义。"
+    },
+    {
+     "en": "standardized language",
+     "zh": "标准化语言",
+     "defEn": "A variety that has undergone standardization through social processes, rather than being inherently standard.",
+     "defZh": "经由社会标准化过程而形成的变体，并非天生就“标准”的、优于其他变体的语言。"
+    },
+    {
+     "en": "standard language",
+     "zh": "标准语",
+     "defEn": "The prescriptive label that treats one variety as inherently correct and superior.",
+     "defZh": "规定性标签，把某一变体视为天生正确、优于其他语言变体的说法，并非客观事实。"
+    },
+    {
+     "en": "face",
+     "zh": "面子（英文原词 face）",
+     "defEn": "The public self-image a speaker claims in interaction, which can be positive or negative.",
+     "defZh": "交际中说话者为自己主张的公开自我形象，可分为正面面子与负面面子。"
+    },
+    {
+     "en": "positive face",
+     "zh": "正面面子",
+     "defEn": "The desire to be approved of, liked, and accepted by others.",
+     "defZh": "希望得到他人认可、赞许与接纳，从而确认自己被喜欢的需求。"
+    },
+    {
+     "en": "negative face",
+     "zh": "负面面子",
+     "defEn": "The desire to be unimpeded, with one's actions free from imposition.",
+     "defZh": "希望行动不受他人干扰、不被强加要求，从而保持自由的需要。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "prioritized, finalized, Americanized, revitalized",
+     "noteEn": "Words given for analysing what the -ize morpheme contributes to meaning.",
+     "noteZh": "题目给出的词，用以分析 -ize 语素为词义增添了什么样的意义。"
+    },
+    {
+     "text": "standardized language and standard language",
+     "noteEn": "The two competing terms learners are asked to contrast using morphology skills.",
+     "noteZh": "要求学习者借助形态学技能加以对比的两个术语，思考选用哪一个及其理由。"
+    }
+   ],
+   "body": [
+    {
+     "en": "This section offers four exercises that let learners apply the chapter's ideas to their own language experience. The first uses morphology skills to consider what the -ize morpheme adds to the meaning of prioritized, finalized, Americanized, and revitalized, and to ask what difference in meaning separates the term standardized language from the term standard language and why a writer might choose one over the other. The second turns to the learner's own L2 accent, asking how they feel about it, which factors shape those feelings, and whether those factors concern the language itself or instead prestige and power.",
+     "zh": "本节提供四个练习，让学习者把本章的概念应用于自身的语言经验。第一题用形态学技能思考 -ize 语素为 prioritized、finalized、Americanized、revitalized 这几个词的意义增添了些什么，并追问 standardized language 与 standard language 两个术语在意义上有什么差别，以及人们为何会选择其中一个。第二题转向学习者自己在第二语言中的口音，请其思考对口音的感受、哪些因素塑造了这些感受，以及这些因素与语言本身有关，还是与声望和权力有关。"
+    },
+    {
+     "en": "The remaining two exercises concern naming and swearing. Learners consider whether they use different names or nicknames with different people, what factors influence which name they use with different groups, and what happens if someone uses their other name. The final exercise asks for at least one social context in which using swear words is offensive and one in which swearing is acceptable, and for each context asks learners to describe the role that swearing plays in terms of face, deciding whether positive or negative face is threatened or enhanced.",
+     "zh": "后两个练习涉及称呼与脏话。学习者需要思考自己是否对不同的人使用不同的名字或昵称，哪些因素影响他们面对不同群体时所选用的名字，以及别人用了自己“另一个”名字时会发生什么。最后一题要求至少分别举出一个使用脏话会冒犯他人的社会语境和一个可以接受脏话的语境，并针对每种语境说明脏话就面子而言起什么作用：受到威胁或被增强的是正面面子还是负面面子。"
+    }
+   ]
+  }
+ }
+}

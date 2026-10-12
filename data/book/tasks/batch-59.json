@@ -1,0 +1,25 @@
+{
+ "batch": 59,
+ "chapter": "Chapter 11: Child Language Acquisition",
+ "out": "data/book/gen/batch-59.json",
+ "sections": [
+  {
+   "id": "chapter-136-slug-11-9-growing-up-bilingual-or-multilingual",
+   "title": "11.9 Growing up bilingual (or multilingual!)",
+   "src": "data/book/src/chapter-136-slug-11-9-growing-up-bilingual-or-multilingual.txt",
+   "chars": 9645
+  },
+  {
+   "id": "chapter-137-slug-11-10-language-milestones-in-the-first-two-years",
+   "title": "11.10 Language milestones in the first two years",
+   "src": "data/book/src/chapter-137-slug-11-10-language-milestones-in-the-first-two-years.txt",
+   "chars": 1312
+  },
+  {
+   "id": "chapter-138-slug-11-11-exercise-your-linguistics-skills",
+   "title": "11.11 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-138-slug-11-11-exercise-your-linguistics-skills.txt",
+   "chars": 2298
+  }
+ ]
+}

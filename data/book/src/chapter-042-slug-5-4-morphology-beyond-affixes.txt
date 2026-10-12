@@ -1,0 +1,45 @@
+# 5.3 Morphology beyond affixes
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2414#oembed-1
+There are some morphological patterns that don’t obviously involve affixes at all. In this section we discuss a few examples: internal change, suppletion, and reduplication.
+
+## Internal change
+
+Internal change is one name for the type of change found in many irregular English noun plurals and verb past tenses.
+For example, for many speakers of English the plural of mouse is mice, the plural of goose is geese, the past tense of sit is sat, and the past tense of write is wrote
+These are all relics of what used to be a regular pattern in English. By regular we mean that they were phonologically predictable based on the general pattern of the language, and automatically applied to new words. For speakers of English today, changes like “mouse becomes mice when it’s plural” have to be memorized, and are therefore irregular.
+
+## Suppletion
+
+Suppletion is an even more irregular pattern, where a particular morphological form involves entirely replacing the form of a morpheme. Suppletion is always irregular—you can never predict what the result of suppletion will be, it always has to be memorized. For example, the past tense of the verb go is went—there is no amount of affixation or internal change that will get you from one to the other. This type of total replacement is also found in English in the comparatives and superlatives good ~ better ~ best and bad ~ worse ~ worst, throughout the paradigm of the verb to be, and on some pronouns.
+If a language has suppletion (and not all languages do!) it is commonly found on some of the most frequent words in the language, just as we see in English. The reason for this is that children acquiring a language tend to assume patterns are regular and predictable until the weight of the evidence convinces them otherwise—and they’re more likely to get enough evidence to reach the conclusion that something is suppletive if a word is incredibly common. The relevance of frequency for certain types of patterns in language is something we’ll see again in Chapter 11 on Child Language Acquisition and Chapter 13 on Psycholinguistics and Neurolinguistics.
+Suppletion is a type of allomorphy, which we will learn more about in the next section of this chapter
+
+## Reduplication
+
+Finally, reduplication involves repeating part or all of a word as part of a morphological pattern. In Halq’eméylem, a Salish language spoken in British Columbia, one pattern of reduplicating a verb produces an adjective meaning that something or someone is likely or disposed to do the action. The examples below come from Shaw (2008), and the links go to pages on FirstVoices, an online platform for community-based language resources, where you can listen to recordings of the unreduplicated verbs pronounced.
+
+[表格]
+| | | (1) | | a. | | | kw’élh | | | ‘to capsize’ | | [kʼʷə́ɬ] | | → | | [kʼʷə́ɬkʼʷəɬ] | | ‘likely to capsize’ | | | | | | b. | | | qwà:l | | | ‘to speak’ | | [qʷél] | | → | | [qʷélqʷel] | | ‘talkative’ | | |
+
+This is not the only pattern of reduplication in Halq’eméylem; languages in the Salish family have many patterns of reduplication, which are associated with several patterns of meaning and grammatical function.
+English does have one pattern of reduplication, which can apply to phrases as well as words. This type of reduplication carries the meaning of something being a prototypical example of the type; it is often called salad-salad reduplication by linguists. For example, in my variety of English I can say: “Tuna salad is a salad, but it’s not a salad-salad.”—in other words, tuna salad isn’t a prototypical salad because it doesn’t involve lettuce or other leafy green vegetables.
+
+## Morphological typology
+
+Looking at different languages, we can divide them typologically into different morphological types.
+At one end we have what are called isolating or analytic languages. No human language is perfectly isolating—this would be a language where all words are morphologically simple. Chinese languages like Mandarin and Cantonese are highly isolating, because in these languages inflectional information is typically expressed by small function words (“particles”) rather than by affixes. However there are nonetheless many compound words in these languages—compounds are words built out of more than one root, which we will see more about in Section 5.7.
+English is less isolating than Mandarin or Cantonese, but still very analytic.
+The opposite of analytic is synthetic. Synthetic languages have a lot of morphological complexity in words, and are often characterized by having no (or very few) free roots.
+Languages that are more synthetic fall into different types. The main division is between agglutinative and fusional languages. In highly agglutinative languages, words are built from many easily separated affixes, each of which is associated with a consistent piece of meaning. Japanese is a somewhat agglutinative language, as in the following example where the verb has a string of suffixes corresponding to the English passive (“be verb-ed”) and causative (“make X verb”).
+
+[表格]
+| | | (2) | | | | Watasi-wa | | natto-o | | tabe-sase-rare-ta | | | | | | | | I-TOPIC | | natto-ACC | | eat-CAUS-PASS-PAST | | | | | | | | “I was made to eat natto.” | | |
+
+By contrast, a fusional language is one where many inflectional meanings are combined into single affixes. The Romance languages are a good example of fusional languages: the suffix on a verb expresses tense, aspect, and subject agreement, and is difficult to break down into smaller affixes. For example, in the Spanish word estudiáramos, the root estud- means “study” and the suffix -iáramos expresses subject agreement (first person plural), tense (past), aspect (imperfective), and mood (subjunctive).
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2414#h5p-104
+Shaw, P. (2008). Inside Access: The Prosodic Role of Internal Morphological Constituency. In The Nature of the Word: Studies in Honor of Paul Kiparsky. ed. Kristin Hanson and Sharon Inkelas. The MIT Press.

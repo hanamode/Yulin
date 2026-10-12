@@ -1,0 +1,207 @@
+{
+ "batch": 46,
+ "sections": {
+  "chapter-103-chapter-8-summary": {
+   "title": {
+    "en": "8.15 Summary (and further questions to consider)",
+    "zh": "8.15 小结（以及值得进一步思考的问题）"
+   },
+   "summary": {
+    "en": "This closing section reviews the kinds of meaning covered in the chapter, giving special weight to non-at-issue meaning. It lists at-issue meaning, entailment, implicature, presupposition, and illocutionary meaning, then invites readers to look for further kinds of meaning in imperatives and emojis, and to keep approaching the question What does that mean? like a linguist.",
+    "zh": "本节回顾本章讨论的各类意义，重点放在非命题内容意义上。文中依次列出命题内容意义、蕴涵、会话含义、预设与施为意义，并邀请读者继续追问祈使句和表情符号还带来哪些意义，同时希望读者今后遇到「这是什么意思」这一问题时，能像语言学家那样去分析。"
+   },
+   "points": [
+    {
+     "en": "At-issue meaning is the literal meaning of a sentence that is explicitly put up for debate.",
+     "zh": "命题内容意义是句子的字面意义，说话人把它明确摆出来供人讨论。"
+    },
+    {
+     "en": "Non-at-issue meaning covers the meanings that a sentence does not explicitly assert, broadly construed.",
+     "zh": "非命题内容意义是广义上句子并未明确断言的那些意义。"
+    },
+    {
+     "en": "Entailment is what must be true whenever the sentence is true; implicature is only suggested and depends on context.",
+     "zh": "蕴涵是句子为真时必然为真的内容；会话含义只是被暗示出来，且依赖语境。"
+    },
+    {
+     "en": "Presupposition is a special entailment assumed true before the utterance and already in the Common Ground.",
+     "zh": "预设是一种特殊的蕴涵，在说出话语之前就被假定为真，并且已经存在于共同背景之中。"
+    },
+    {
+     "en": "Illocutionary meaning is what you do in uttering, and it simply happens rather than being debated.",
+     "zh": "施为意义是说话时你所做之事，它是随着说出话语而自然发生的，并不供人争论。"
+    },
+    {
+     "en": "The chapter invites further questions about imperatives, about emojis, and about other kinds of meaning still undiscovered.",
+     "zh": "本章还邀请读者继续思考祈使句、表情符号以及其他尚未被发现的意义类型。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "at-issue meaning",
+     "zh": "命题内容意义",
+     "defEn": "The literal content of a sentence that is openly offered for debate.",
+     "defZh": "句子的字面内容，说话人把它明确提出来供听者讨论或质疑。"
+    },
+    {
+     "en": "non-at-issue meaning",
+     "zh": "非命题内容意义",
+     "defEn": "Meaning that is not explicitly asserted, broadly understood.",
+     "defZh": "广义上指句子没有明确断言、却仍在传达的那部分意义。"
+    },
+    {
+     "en": "implicature",
+     "zh": "会话含义",
+     "defEn": "A suggested, non-entailment meaning that depends on context.",
+     "defZh": "一种被暗示出来的意义，不是蕴涵，必须结合语境才能推出。"
+    },
+    {
+     "en": "presupposition",
+     "zh": "预设",
+     "defEn": "A special entailment already assumed true before the utterance is made.",
+     "defZh": "一种特殊的蕴涵，在话语说出之前就已被假定为真，属于共同背景的一部分。"
+    },
+    {
+     "en": "illocutionary meaning",
+     "zh": "施为意义",
+     "defEn": "What a speaker does in making an utterance, such as asserting.",
+     "defZh": "说话人在说出话语时所完成的行为意义，例如作出一个断言。"
+    },
+    {
+     "en": "Common Ground",
+     "zh": "共同背景",
+     "defEn": "The shared assumptions that participants treat as true before an utterance.",
+     "defZh": "交际参与者在话语说出之前共同接受为真的那些假定。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Pet the cat!",
+     "noteEn": "An imperative that the chapter leaves as an open question for future analysis.",
+     "noteZh": "本章举出的祈使句例子，作者把它留作尚待分析的问题。"
+    },
+    {
+     "text": "😂",
+     "noteEn": "The laughing-crying emoji, whose contribution to meaning the chapter asks readers to ponder.",
+     "noteZh": "哭笑不得的表情符号，本章请读者思考它对意义究竟有何贡献。"
+    },
+    {
+     "text": "What does that mean?",
+     "noteEn": "The recurring question that the chapter shows to be far more complicated than it looks.",
+     "noteZh": "反复出现的那个问题，本章说明它远比表面上看起来复杂。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Chapter 8 examined several distinct kinds of meaning, paying special attention to meanings that are not explicitly asserted. At-issue meaning is the literal content of a sentence that a speaker openly offers for debate. Alongside it sit the non-at-issue meanings, broadly understood as whatever a sentence communicates without asserting it outright. The chapter separated four such cases: entailment, which must hold whenever the sentence is true; implicature, a context-dependent suggestion that is not an entailment; presupposition, an assumption already in the Common Ground before the utterance; and illocutionary meaning, the act performed simply by making the utterance.",
+     "zh": "第 8 章考察了若干种不同的意义，尤其关注那些并未被明确断言的意义。命题内容意义是句子的字面内容，说话人把它公开摆出来供人讨论。与之相对的是非命题内容意义，广义上指句子在没有明确断言的情况下所传达的一切。本章区分出其中四种情况：蕴涵，即句子为真时必然成立的内容；会话含义，即依赖语境的暗示，而不是蕴涵；预设，即话语说出之前就已存在于共同背景中的假定；以及施为意义，即仅仅通过说出话语而完成的行为。"
+    },
+    {
+     "en": "Taken together with Chapter 7, this material shows that the innocent question What does that mean? has no simple answer. A single utterance carries many layers of meaning at once, and each layer reveals part of the highly systematic way speakers package what they communicate. The chapter therefore closes by inviting readers to keep looking for further kinds of meaning beyond the ones catalogued here.",
+     "zh": "把这些内容与第 7 章合起来看，就会发现「这是什么意思」这个看似简单的问题其实没有简单答案。一句话同时承载着多个层面的意义，而每一层都揭示出说话人组织所传信息时高度系统化的一面。因此本章在结尾邀请读者继续寻找这里所列之外的其他意义类型。"
+    },
+    {
+     "en": "That invitation points back to structures introduced earlier, such as the Common Ground, the Question Under Discussion stack, and the Discourse Commitment sets. It also points to sentence types treated only briefly, notably imperatives like Pet the cat!: what exactly does a command do to the context, and do the tools already introduced suffice to describe it? A final prompt asks what emojis contribute, wondering whether a laughing-crying emoji is an assertion, an implicature, or a presupposition. The possibilities for research, the chapter says, are limitless.",
+     "zh": "这一邀请指向前面介绍的几种结构：共同背景、讨论中的问题栈，以及话语承诺集合。它也指向本章只是简略带过的句式，特别是像 Pet the cat! 这样的祈使句：发出命令究竟对语境做了什么，已有的工具是否足以描写它？最后一个问题问的是表情符号贡献了什么意义，一个哭笑不得的表情到底算断言、算会话含义，还是算预设。作者说，可研究的方向是无穷的。"
+    }
+   ]
+  },
+  "chapter-104-exercises-8": {
+   "title": {
+    "en": "8.16 Exercise your linguistics skills",
+    "zh": "8.16 练习语言学的技能"
+   },
+   "summary": {
+    "en": "This section offers four graded exercises on pragmatics. They ask students to distinguish violating from flouting a maxim, to explain the lawyer dog case through the Cooperative Principle, to argue about the privileged status of Quality, and to represent a WH-question as a disjunction of answers at the top of the Question Under Discussion stack.",
+    "zh": "本节给出四道难度递进的语用学练习。它们分别要求学生区分违反准则与故意违反准则、用合作原则解释「律师狗」一案、论证质量准则是否具有优先地位，以及把特殊疑问句表示为讨论中的问题栈顶端由若干可能答案构成的析取。"
+   },
+   "points": [
+    {
+     "en": "Exercise 1, basic, contrasts violating a maxim with flouting it, using the proposed Maxim of Politeness.",
+     "zh": "练习 1 属于基础题，要求用学者提出的礼貌准则来对比违反准则与故意违反准则。"
+    },
+    {
+     "en": "Exercise 2, intermediate, asks why the lawyer dog case feels unreasonable, relating it to the Cooperative Principle.",
+     "zh": "练习 2 属于中级题，要求结合合作原则解释「律师狗」一案为何让许多人觉得不合理。"
+    },
+    {
+     "en": "Exercise 3, advanced, asks why Quality may be a privileged maxim and what its failure does to the others.",
+     "zh": "练习 3 属于高级题，追问质量准则为何可能是优先准则，以及它若不被遵守会带来什么后果。"
+    },
+    {
+     "en": "Exercise 4, advanced, asks how a WH-question is represented as a disjunction of possible answers on the QUD stack.",
+     "zh": "练习 4 属于高级题，要求说明特殊疑问句如何表示为讨论中的问题栈上若干可能答案的析取。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "Cooperative Principle",
+     "zh": "合作原则",
+     "defEn": "The assumption that speakers cooperate in conversation, which the maxims spell out.",
+     "defZh": "交际中假定说话人彼此合作的总体原则，各条准则正是对它的具体展开。"
+    },
+    {
+     "en": "maxim",
+     "zh": "准则",
+     "defEn": "One of the conversational rules associated with the Cooperative Principle.",
+     "defZh": "与合作原则相联系的一条会话规则，如质量准则、礼貌准则等。"
+    },
+    {
+     "en": "flouting",
+     "zh": "故意违反",
+     "defEn": "Openly breaking a maxim so that the hearer derives an implicature.",
+     "defZh": "公开地不遵守某条准则，从而让听者推导出会话含义。"
+    },
+    {
+     "en": "violating",
+     "zh": "违反",
+     "defEn": "Quietly breaking a maxim, misleading the hearer rather than implicating.",
+     "defZh": "暗中不遵守某条准则，意在误导听者，而不是产生会话含义。"
+    },
+    {
+     "en": "Quality",
+     "zh": "质量准则",
+     "defEn": "The maxim requiring speakers to say what they believe to be true.",
+     "defZh": "要求说话人只说自己认为真实的话、不说无根据之言的那条准则。"
+    },
+    {
+     "en": "Question Under Discussion (QUD) stack",
+     "zh": "讨论中的问题（QUD）栈",
+     "defEn": "The ordered set of questions that a discourse is currently addressing.",
+     "defZh": "话语当前正在处理的问题按顺序排列而成的集合，新问题会置于栈顶。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Give me a canine lawyer",
+     "noteEn": "The reading the police attributed to Demesme in the lawyer dog case.",
+     "noteZh": "在「律师狗」一案中，警方对 Demesme 那句话所作的解释。"
+    },
+    {
+     "text": "Is that a bean casserole?",
+     "noteEn": "A yes-no question whose QUD representation is a disjunction of two answers.",
+     "noteZh": "一个是非问句，它在问题栈上的表示是两个可能答案构成的析取。"
+    },
+    {
+     "text": "Who brought the bean casserole?",
+     "noteEn": "A WH-question asked at a potluck attended by Aya, Bo, Cai, and Deo.",
+     "noteZh": "一个特殊疑问句，情境是 Aya、Bo、Cai 和 Deo 参加的聚餐。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The first exercise is pitched at a basic level and draws on the discussion of maxims. Students must explain how violating a maxim differs from flouting one, then illustrate each with the Maxim of Politeness, a fifth maxim that some linguists have proposed. The exercise explicitly invites answers in the student's first language: the task is to imagine that politeness really is a maxim in one's own speech community and to work out what breaking it quietly, versus breaking it openly, would look like there.",
+     "zh": "第一题定位为基础难度，取材于关于准则的讨论。学生要说明违反准则与故意违反准则有何不同，再各举一例，所用的准则是有语言学家提出的第五条准则——礼貌准则。题目明确允许用学生的第一语言作答：设想礼貌确实是自己语言社群的准则，然后考虑暗中违反它和公开违反它分别会是什么样子。"
+    },
+    {
+     "en": "The intermediate exercise returns to the lawyer dog case from Section 8.3, in which police read Demesme as meaning Give me a canine lawyer. Students are asked to explain why that interpretation strikes many people as unreasonable, and to connect their reasoning to the Cooperative Principle. The advanced exercise then turns to Grice's remark in Logic and Conversation that the maxims may be ranked by importance. Grice suggested Quality could be the most critical, claiming that the other maxims come into operation only on the assumption that Quality is satisfied. Students must argue why Quality might enjoy this privileged position, and consider what difficulties a discourse with a well-known liar creates for the remaining maxims.",
+     "zh": "中级题回到 8.3 节的「律师狗」一案，警方把 Demesme 的话理解为「给我一只犬类律师」。学生要说明为什么这种解读在许多人看来不合理，并把理由与合作原则联系起来。高级题接着讨论 Grice 在《逻辑与会话》中的说法：各条准则在重要性上可能有高低之分。Grice 认为质量准则可能最为关键，并称其他准则只有在质量准则得到满足的前提下才会起作用。学生需要论证质量准则为何可能享有这种优先地位，并思考当话语的参与者是个人所共知的骗子时，其余准则会遇到什么麻烦。"
+    },
+    {
+     "en": "The last exercise concerns illocutionary meaning and the Question Under Discussion stack. It recalls that a yes-no question such as Is that a bean casserole? places at the top of the stack a question representable as a disjunction, namely whether That is a bean casserole is true or whether it is false, since only two answers are available. Students must extend this treatment to a WH-question, Who brought the bean casserole?, asked at a potluck attended by Aya, Bo, Cai, and Deo, and propose what the resulting disjunction of possible answers would look like.",
+     "zh": "最后一题涉及施为意义与讨论中的问题栈。题目提醒学生，像 Is that a bean casserole? 这样的是非问句会在栈顶放入一个可表示为析取的问题，即「That is a bean casserole 为真」或「That is a bean casserole 为假」，因为是非问句只有两种答案。学生要把这一分析推广到一个特殊疑问句 Who brought the bean casserole? 上，该句的情境是 Aya、Bo、Cai 和 Deo 参加的聚餐，并说明由此得到的可能答案析取会是什么样子。"
+    }
+   ]
+  }
+ }
+}

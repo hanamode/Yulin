@@ -1,0 +1,173 @@
+{
+ "batch": 8,
+ "entries": [
+  {
+   "id": "phonotactics",
+   "title": "音位配列",
+   "en": "Phonotactics",
+   "category": "concepts",
+   "tags": ["音系学", "音节结构", "配列限制", "响度序列", "标记性"],
+   "summary": "音位配列指一种语言中音位允许组合的方式与限制，它规定哪些音段序列可以构成合法的音节、语素和词。例如英语允许 str- 这样的三辅音起首，却不允许以 [ŋ] 起首；夏威夷语则几乎只允许辅音加元音的开音节。音位配列研究通常借助音节模板、响度序列原则和标记性等概念来解释这些限制，并在优选论框架中被表述为对候选形式的制约条件。它揭示了音系系统并非任意堆砌，而具有可归纳的结构规律。",
+   "summaryEn": "Phonotactics refers to the rules and constraints governing which combinations of phonemes are permitted in a given language, specifying the sound sequences that may form legal syllables, morphemes and words. English, for instance, permits the three-consonant onset str- but forbids syllables beginning with [ŋ], whereas Hawaiian allows almost only open syllables of the consonant-plus-vowel type. Phonotactic patterns are usually described through syllable templates, the sonority sequencing principle and markedness, and in Optimality Theory they are captured as ranked constraints evaluating candidate forms.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": ["音位配列是音系学中描述音位组合可能性的一个层面，研究一种语言里哪些音段序列是合法的、哪些是被排除的。它不同于音位清单本身：两种语言可能拥有几乎相同的辅音和元音，却对它们的排列方式作出完全不同的限制。例如英语有音位 /ŋ/，但它不能出现在词首，只能出现在 nation [ˈneɪʃən] 的中间或 sing [sɪŋ] 的末尾；而汉语普通话的 ŋ 同样只作韵尾，出现在「帮」[pɑŋ] 这类音节中。"],
+     "pEn": ["Phonotactics is the area of phonology concerned with the possible combinations of phonemes, describing which sound sequences a language permits and which it excludes. It is distinct from the phoneme inventory itself: two languages may share nearly identical consonants and vowels yet impose very different restrictions on how those segments may be arranged. English, for example, has the phoneme /ŋ/ but never allows it word-initially; it may appear medially in nation [ˈneɪʃən] or finally in sing [sɪŋ]. Mandarin Chinese likewise uses ŋ only as a coda, as in 帮 [pɑŋ]."]
+    },
+    {
+     "h": "音节结构与配列限制",
+     "hEn": "Syllable Structure and Phonotactic Constraints",
+     "p": ["音位配列限制最常在音节这一层级上描述，把音节分析成起首辅音、韵核和韵尾三部分，再规定各部分可容纳的辅音数量与类型。英语允许最多三个辅音作起首，如 spring [sprɪŋ]、street [striːt]，也允许最多四个辅音作韵尾，如 glimpsed [ɡlɪmpst]。这些限制并非绝对，而是由一系列可违反的倾向构成，因此常被表述为配列模板或制约条件。识别这些限制的经典方法是寻找最小对立对与不存在的音节，并请母语者判断其可接受度。"],
+     "pEn": ["Phonotactic constraints are most often stated at the level of the syllable, which is analysed into onset, nucleus and coda, and the number and type of consonants permitted in each position are then specified. English allows up to three consonants in an onset, as in spring [sprɪŋ] and street [striːt], and up to four in a coda, as in glimpsed [ɡlɪmpst]. Such restrictions are tendencies rather than absolute laws, and are therefore usually expressed as phonotactic templates or constraints. A standard method of identifying them is to search for minimal pairs and non-occurring syllables and to test their acceptability with native speakers."]
+    },
+    {
+     "h": "响度序列与响度原则",
+     "hEn": "Sonority Sequencing and the Sonority Principle",
+     "p": ["众多语言的配列规律可以由响度序列原则加以概括：在一个音节内部，响度从起首到韵核逐渐升高，再从韵核到韵尾逐渐降低。塞音响度最低，擦音次之，鼻音、流音较高，元音最高，因此英语的 trump [trʌmp] 合法而 tnump 不合法，因为 [n] 的响度高于 [t]，出现在 [t] 之后会破坏上升的响度曲线。这一原则具有很强的跨语言预测力，但在英语的 s 起首组合如 stop [stɒp] 中明显被违反，通常需要额外说明这类边缘情况。"],
+     "pEn": ["Many phonotactic regularities across languages can be captured by the sonority sequencing principle: within a syllable, sonority rises from the onset to the nucleus and falls from the nucleus to the coda. Stops are least sonorous, followed by fricatives, nasals and liquids, with vowels most sonorous. Hence English trump [trʌmp] is well formed while tnump is not, because the more sonorous [n] after [t] would disrupt the rising sonority profile. The principle has strong cross-linguistic predictive power, though it is clearly violated by English s-initial clusters such as stop [stɒp], which require additional explanation as edge cases."]
+    },
+    {
+     "h": "跨语言差异与语言示例",
+     "hEn": "Cross-linguistic Variation and Examples",
+     "p": ["各语言的配列限制差异极大。夏威夷语只允许开音节，任何词都以元音收尾，如 aloha [aˈloha]。日语除拨音 ん 和促音 っ 外也基本只允许开音节，因此英语 strike 借入后变为 sutoraiku [sɯtoɾaikɯ]。汉语普通话的韵尾只限于 [n]、[ŋ] 等少数辅音，故「光」[kwɑŋ] 合法而 *[kwɑp] 不合法。英语则允许复杂的辅音丛，如 strengths [strɛŋkθs]，日语母语者常在其间增音以符合母语的配列要求，这一现象称为增音。"],
+     "pEn": ["Phonotactic restrictions vary enormously from language to language. Hawaiian permits only open syllables, so every word ends in a vowel, as in aloha [aˈloha]. Japanese likewise allows essentially only open syllables apart from the moraic nasal ん and the geminate っ, which is why English strike is borrowed as sutoraiku [sɯtoɾaikɯ]. In Mandarin the coda is limited to a few consonants such as [n] and [ŋ], so 光 [kwɑŋ] is well formed while *[kwɑp] is not. English, by contrast, tolerates complex clusters such as strengths [strɛŋkθs], and Japanese speakers often insert vowels to satisfy their native phonotactics, a process known as epenthesis."]
+    },
+    {
+     "h": "理论解释与争议",
+     "hEn": "Theoretical Accounts and Debates",
+     "p": ["对音位配列的解释存在不同取向。结构主义传统把配列规律视为对音段分布的描写，与音位变体的条件分布密切相关。生成音系学倾向于用音节结构模板与特征共现限制来表述，而优选论则把配列要求处理为一组普遍而可违反的制约条件，通过排序从候选形式中选出最优者。争议主要在于：配列限制究竟源于发音与感知的生理机制，还是语言特有的抽象知识；以及像英语 s 起首辅音丛这类例外应当视为真正的音节结构，还是附着于音节之外的附加成分。"],
+     "pEn": ["Theoretical accounts of phonotactics differ in orientation. The structuralist tradition treats phonotactic regularities as statements about the distribution of segments, closely tied to the conditioned distribution of allophones. Generative phonology tends to state them as syllable templates and co-occurrence restrictions on features, whereas Optimality Theory treats phonotactic requirements as a set of universal, violable constraints whose ranking selects the optimal candidate. The main debates concern whether such restrictions stem from articulatory and perceptual mechanisms or from language-specific abstract knowledge, and whether exceptions like English s-initial clusters are genuine syllable constituents or extrasyllabic appendices."]
+    }
+   ],
+   "terms": [
+    {"t": "音位配列", "tEn": "Phonotactics", "d": "一种语言中音位允许组合的方式及其限制条件。", "dEn": "The set of constraints on permissible phoneme combinations in a language."},
+    {"t": "音节模板", "tEn": "Syllable Template", "d": "用起首、韵核、韵尾及其容量刻画音节结构的框架。", "dEn": "A structural frame specifying onset, nucleus and coda and their permissible contents."},
+    {"t": "响度序列原则", "tEn": "Sonority Sequencing Principle", "d": "音节内响度自起首向韵核升高、再向韵尾降低的规律。", "dEn": "The principle that sonority rises to the nucleus and falls toward the coda."},
+    {"t": "辅音丛", "tEn": "Consonant Cluster", "d": "在同一音节内相邻出现的两个或更多辅音，如英语 str-。", "dEn": "Two or more adjacent consonants within a single syllable, as in English str-."},
+    {"t": "标记性", "tEn": "Markedness", "d": "音位组合在跨语言分布上体现的常见与罕见、无标记与有标记之别。", "dEn": "The cross-linguistic distinction between common unmarked and rare marked patterns."},
+    {"t": "增音", "tEn": "Epenthesis", "d": "为满足配列要求而在词中插入元音或辅音的过程。", "dEn": "The insertion of a vowel or consonant to satisfy phonotactic requirements."},
+    {"t": "音位变体", "tEn": "Allophone", "d": "同一音位在不同语音环境中实现出的具体语音形式。", "dEn": "A concrete phonetic realisation of a phoneme in a particular environment."}
+   ],
+   "related": ["phonology", "syllable", "phoneme", "optimality-theory", "epenthesis"],
+   "sources": [
+    "Wikipedia, \"Phonotactics\", https://en.wikipedia.org/wiki/Phonotactics",
+    "Chomsky, N. & Halle, M., The Sound Pattern of English, 1968",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "syllable",
+   "title": "音节",
+   "en": "Syllable",
+   "category": "concepts",
+   "tags": ["音系学", "音节结构", "韵核", "响度", "韵律"],
+   "summary": "音节是音系学中最基本的组织单位之一，通常由起首辅音、韵核和韵尾构成，其中韵核一般由元音充当，是音节不可或缺的核心。英语 cat [kæt] 是典型的辅音加元音加辅音结构，汉语「光」[kwɑŋ] 的起首还包含介音。音节不仅是音段排列的框架，也是重音、声调、韵律和音节划分规则的作用域。围绕音节是否具有心理现实性、以及如何界定其边界，音系学界长期存在争论。",
+   "summaryEn": "The syllable is one of the most basic organisational units in phonology, typically consisting of an onset, a nucleus and a coda, with the nucleus usually filled by a vowel and indispensable to the syllable. English cat [kæt] illustrates the common consonant-vowel-consonant shape, while Mandarin 光 [kwɑŋ] has a glide in its onset. The syllable is not merely a frame for arranging segments but also the domain of stress, tone, prosody and syllabification rules. Whether the syllable has psychological reality, and how its boundaries should be defined, remain long-standing questions in phonology.",
+   "sections": [
+    {
+     "h": "定义与基本结构",
+     "hEn": "Definition and Basic Structure",
+     "p": ["音节是听话者与说话者都能直觉感知的语音单位，通常被分析为起首、韵核和韵尾三部分，其中韵核与韵尾合称韵。韵核是音节的核心，多由元音承担，也可由成音节的辅音承担，如英语 button [ˈbʌtn̩] 中成音节的 [n̩]。起首与韵尾都可以为空：英语 eye [aɪ] 只有韵核，cat [kæt] 三者俱全，而汉语「啊」[a] 也只有韵核。这种层级分析解释了为什么某些音段组合受到限制，而另一些则自由出现。"],
+     "pEn": ["The syllable is a unit of speech that speakers and listeners can perceive intuitively, usually analysed into onset, nucleus and coda, with the nucleus and coda together forming the rhyme. The nucleus is the core of the syllable and is most often a vowel, though a syllabic consonant may serve this role, as with the syllabic [n̩] in English button [ˈbʌtn̩]. Both onset and coda may be empty: English eye [aɪ] has only a nucleus, cat [kæt] has all three constituents, and Mandarin 啊 [a] likewise consists of a bare nucleus. This hierarchical analysis explains why some segment combinations are restricted while others occur freely."]
+    },
+    {
+     "h": "音节类型与响度",
+     "hEn": "Syllable Types and Sonority",
+     "p": ["按韵尾的有无，音节可分为开音节与闭音节：以元音收尾的是开音节，如英语 see [siː]；以辅音收尾的是闭音节，如 sit [sɪt]。音节内部音段的排列受响度序列原则支配，响度在韵核处达到峰值，例如 English plant [plɑːnt] 中 [p] 响度最低、[l] 较高、[ɑː] 最高、[n] 与 [t] 依次降低。响度原则可以说明为什么 [pl] 是合法的起首组合而 [lp] 在英语中不能起首。"],
+     "pEn": ["Depending on whether a coda is present, syllables are classified as open or closed: those ending in a vowel are open, as in English see [siː], while those ending in a consonant are closed, as in sit [sɪt]. The arrangement of segments within the syllable is governed by the sonority sequencing principle, with sonority peaking at the nucleus. In English plant [plɑːnt], for instance, [p] is least sonorous, [l] is higher, [ɑː] is highest, and [n] and [t] decline in turn. The principle explains why [pl] is a legal onset cluster while [lp] cannot begin a syllable in English."]
+    },
+    {
+     "h": "音节重量与韵律作用",
+     "hEn": "Syllable Weight and Prosodic Function",
+     "p": ["音节在韵律中具有重量之分：包含长元音或双元音、或带有韵尾的音节通常被视为重音节，只含短元音且无韵尾的为轻音节。英语的重音分布与音节重量密切相关，如动词 record [rɪˈkɔːd] 与名词 record [ˈrekɔːd] 的重音位置差异便与末尾音节的性质有关。拉丁语中重音规则更直接地依赖重量：penna [ˈpen.na] 因第一音节为重而重音居首，而 puella [puˈel.la] 的重音则落在第二音节。"],
+     "pEn": ["Syllables are distinguished by weight in prosody: those containing a long vowel or diphthong, or closed by a coda, are usually treated as heavy, whereas those with only a short vowel and no coda are light. English stress placement is closely tied to syllable weight, as the contrast between the verb record [rɪˈkɔːd] and the noun record [ˈrekɔːd] illustrates. In Latin the stress rule depends even more directly on weight: penna [ˈpen.na] is stressed on the first syllable because it is heavy, while puella [puˈel.la] takes stress on the second."]
+    },
+    {
+     "h": "跨语言示例与音节划分",
+     "hEn": "Cross-linguistic Examples and Syllabification",
+     "p": ["不同语言的音节类型差异显著。日语以开音节为主，但存在拨音 ん 构成的特殊音节，如 しんぶん shinbun [ɕimbɯɴ] 中的 ん 自成一拍。汉语普通话音节可分析为声母、韵头、韵腹与韵母的组合，「光」[kwɑŋ] 的起首是 [kw]，韵核为 [ɑ]，韵尾为 [ŋ]。英语的 strengths [strɛŋkθs] 则是起首三辅音加韵尾四辅音的极端例子。当结构超出允许范围时，语言会通过增音或删音调整，如日语把 strike 借为 sutoraiku。"],
+     "pEn": ["Syllable inventories differ markedly across languages. Japanese is predominantly open-syllable, yet it possesses a special syllable formed by the moraic nasal ん, as in しんぶん shinbun [ɕimbɯɴ], where ん occupies its own mora. Mandarin syllables can be analysed as an initial plus a final containing a medial, a main vowel and an ending: in 光 [kwɑŋ] the onset is [kw], the nucleus [ɑ] and the coda [ŋ]. English strengths [strɛŋkθs] is an extreme case with a three-consonant onset and a four-consonant coda. When structures exceed what is permitted, languages adjust them by epenthesis or deletion, as when Japanese borrows strike as sutoraiku."]
+    },
+    {
+     "h": "心理现实性与争议",
+     "hEn": "Psychological Reality and Debates",
+     "p": ["音节是否具有心理现实性曾引起长期争论。心理语言学实验提供了支持证据：语音复原效应与音节切分任务表明，听话者在加工语音时会参照音节边界。但音节的界定在许多语言中并不明确，尤其是中间只有一个辅音时，如 English extra 中的 [k] 应归入前音节还是后音节，往往取决于最大起首原则或语言特有的规则。优选论把音节划分处理为制约条件的相互作用，正是为了解释这种跨语言的可变性。"],
+     "pEn": ["Whether the syllable has psychological reality has been a matter of prolonged debate. Psycholinguistic experiments provide supporting evidence: the phonemic restoration effect and syllable-splitting tasks indicate that listeners consult syllable boundaries during speech processing. Yet syllable division is not always clear-cut, especially when a single consonant stands between vowels, as with the [k] in English extra, whose assignment to the preceding or following syllable depends on principles such as maximal onset or language-specific rules. Optimality Theory models syllabification as an interaction of ranked constraints precisely in order to capture this cross-linguistic variability."]
+    }
+   ],
+   "terms": [
+    {"t": "音节", "tEn": "Syllable", "d": "由起首、韵核与韵尾构成的语音组织单位。", "dEn": "A phonological unit composed of onset, nucleus and coda."},
+    {"t": "起首辅音", "tEn": "Onset", "d": "音节中位于韵核之前的辅音部分，可以为空。", "dEn": "The consonantal portion preceding the nucleus, which may be empty."},
+    {"t": "韵核", "tEn": "Nucleus", "d": "音节的核心成分，通常由元音充当，也可由成音节辅音充当。", "dEn": "The core of the syllable, usually a vowel but sometimes a syllabic consonant."},
+    {"t": "韵尾", "tEn": "Coda", "d": "音节中位于韵核之后的辅音部分，可以为空。", "dEn": "The consonantal portion following the nucleus, which may be empty."},
+    {"t": "开音节与闭音节", "tEn": "Open and Closed Syllable", "d": "以元音收尾的为开音节，以辅音收尾的为闭音节。", "dEn": "A syllable ending in a vowel is open; one ending in a consonant is closed."},
+    {"t": "音节重量", "tEn": "Syllable Weight", "d": "音节在韵律上分为重音节与轻音节的性质，影响重音分布。", "dEn": "The prosodic property distinguishing heavy from light syllables, affecting stress placement."},
+    {"t": "音节划分", "tEn": "Syllabification", "d": "把连续的音段序列切分为音节的过程与规则。", "dEn": "The process and rules by which a string of segments is divided into syllables."}
+   ],
+   "related": ["phonotactics", "phonology", "stress", "tone", "phoneme"],
+   "sources": [
+    "Wikipedia, \"Syllable\", https://en.wikipedia.org/wiki/Syllable",
+    "Chomsky, N. & Halle, M., The Sound Pattern of English, 1968",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "distinctive-feature",
+   "title": "区别特征",
+   "en": "Distinctive Feature",
+   "category": "concepts",
+   "tags": ["音系学", "特征理论", "音位", "二值对立", "雅各布森"],
+   "summary": "区别特征是音系学中用来刻画音位对立的最小单位，通常以二值形式表示，如 [±浊音]、[±鼻音]、[±圆唇]。一个音位可被看作一束区别特征的组合，两个音位的差别则体现为某一特征取值的对立。例如英语 /p/ 与 /b/ 在 [±浊音] 上对立，汉语普通话 /p/ 与 /pʰ/ 在 [±送气] 上对立。区别特征理论由雅各布森等人系统提出，后经乔姆斯基与哈勒发展为生成音系学的核心分析工具。",
+   "summaryEn": "A distinctive feature is the minimal unit used in phonology to characterise phonemic contrasts, usually expressed in binary terms such as [±voice], [±nasal] and [±round]. A phoneme can be regarded as a bundle of distinctive features, and the difference between two phonemes reduces to an opposing value on some feature. English /p/ and /b/, for instance, contrast in [±voice], while Mandarin /p/ and /pʰ/ contrast in [±aspirated]. The theory was systematically proposed by Jakobson and colleagues and later developed by Chomsky and Halle into a central analytic tool of generative phonology.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": ["区别特征是音系分析中最小的对立单位，用以区分同一语言中不同的音位。它通常取二值形式，即一个特征只有正负两种取值，如 [±浊音]、[±鼻音]、[±延续音]。一个音位因此可以被定义为一组特征值的集合，例如英语 /b/ 可表示为 [+浊音、-鼻音、-延续音]，而 /m/ 则为 [+浊音、+鼻音、-延续音]。两个音位之间的对立就体现为某个特定特征上的取值差异，这一差异足以造成词义区别。"],
+     "pEn": ["A distinctive feature is the smallest unit of contrast in phonological analysis, used to distinguish different phonemes within a language. It is normally binary, taking either a positive or a negative value, as in [±voice], [±nasal] and [±continuant]. A phoneme can therefore be defined as a set of feature values: English /b/ may be represented as [+voice, -nasal, -continuant] and /m/ as [+voice, +nasal, -continuant]. The contrast between two phonemes resides in the differing value of some particular feature, and that difference is sufficient to distinguish word meanings."]
+    },
+    {
+     "h": "基本概念与特征分类",
+     "hEn": "Basic Concepts and Feature Classes",
+     "p": ["区别特征通常按发音机制分类。主要类别包括：与声源有关的特征，如 [±浊音]、[±送气]；与发音部位有关的特征，如 [±圆唇]、[±前位]、[±高]；以及与发音方式有关的特征，如 [±鼻音]、[±延续音]、[±塞擦]。雅各布森早期的特征系统着眼于声学对立，主张用 [±尖锐]、[±低沉] 等特征描写所有语言。特征还具有等级性，某些特征在跨语言分布中更常见、更无标记，如 [-鼻音] 相对 [+鼻音] 更为普遍。"],
+     "pEn": ["Distinctive features are commonly classified according to their articulatory basis. Major classes include features relating to the sound source, such as [±voice] and [±aspirated]; features of place, such as [±round], [±front] and [±high]; and features of manner, such as [±nasal], [±continuant] and [±strident]. Jakobson's early system focused on acoustic oppositions and proposed features such as [±sharp] and [±flat] to describe all languages. Features are also hierarchical: some values are cross-linguistically more common and unmarked, so that [-nasal] is far more widespread than [+nasal]."]
+    },
+    {
+     "h": "主要理论",
+     "hEn": "Major Theories",
+     "p": ["区别特征理论的发展大致经历三个阶段。雅各布森、凡特与哈勒在 1952 年的《言语分析初探》中提出以声学特征为基础的普适特征系统，主张全部语言共享同一套特征。乔姆斯基与哈勒在 1968 年的《英语音系》中转向以发音为基础的特征体系，并把它与规则和底层形式理论结合，成为生成音系学的标准框架。此后，优选论与非线性的特征几何理论进一步把特征组织为层级结构，认为特征之间存在依存关系而非彼此孤立。"],
+     "pEn": ["The theory of distinctive features developed in roughly three phases. In Preliminaries to Speech Analysis (1952), Jakobson, Fant and Halle proposed a universal, acoustically grounded feature system, arguing that all languages draw on the same set of features. Chomsky and Halle's The Sound Pattern of English (1968) shifted to an articulatorily based inventory and integrated features with rules and underlying representations, establishing the standard framework of generative phonology. Later, Optimality Theory and nonlinear feature geometry organised features into hierarchical structures, treating them as mutually dependent rather than isolated."]
+    },
+    {
+     "h": "语言示例",
+     "hEn": "Linguistic Examples",
+     "p": ["英语中 /p/ 与 /b/ 的对立可由 [±浊音] 描写，pat [pæt] 与 bat [bæt] 构成最小对立对。汉语普通话则以送气与否区分塞音，/p/ 与 /pʰ/ 的对立体现为 [±送气]，如「爸」[pa⁵¹] 与「怕」[pʰa⁵¹]。英语中 /l/ 与 /r/ 的区别涉及 [±边音] 与 [±卷舌]，而 /n/ 与 /d/ 的差别在于 [±鼻音]。韩语的塞音系统更为复杂，/p/、/pʰ/ 与紧音 /p͈/ 三分的对立需要同时借助送气与喉紧张等特征来说明。"],
+     "pEn": ["In English the contrast between /p/ and /b/ is described by [±voice], as the minimal pair pat [pæt] and bat [bæt] shows. Mandarin distinguishes stops by aspiration, so the opposition of /p/ and /pʰ/ is captured by [±aspirated], as in 爸 [pa⁵¹] and 怕 [pʰa⁵¹]. The English contrast between /l/ and /r/ involves features such as [±lateral] and [±retroflex], while that between /n/ and /d/ rests on [±nasal]. Korean presents a more complex system in which /p/, /pʰ/ and the tense /p͈/ are distinguished by aspiration together with glottal tension."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticism",
+     "p": ["对区别特征的批评主要集中于三点。第一，二值性是否恰当：元音的高低、圆唇程度实际上是连续变量，用二值特征描写可能丢失梯度信息。第二，特征的普遍性问题：某些特征似乎只适用于个别语言，难以证明其为人类语言的固有属性。第三，特征的独立性问题：语音学研究表明，特征之间常存在蕴涵关系，如 [+鼻音] 往往蕴涵浊音性，因此把特征视为彼此独立的原子单位并不完全符合事实。特征几何与优选论正是为回应这些批评而提出的修正方案。"],
+     "pEn": ["Criticism of distinctive features centres on three issues. First, binarity may be inappropriate: vowel height and lip rounding are continuous variables, and binary features may lose gradient information. Second, universality is questionable, since some features appear to apply to only a few languages and are hard to justify as inherent properties of human language. Third, independence is doubtful, because phonetic research shows implicational relations among features, such as [+nasal] tending to imply voicing; treating features as mutually independent atoms is therefore not entirely faithful to the facts. Feature geometry and Optimality Theory were proposed in response to these objections."]
+    }
+   ],
+   "terms": [
+    {"t": "区别特征", "tEn": "Distinctive Feature", "d": "音系中区分音位的最小对立单位，通常取二值形式。", "dEn": "The minimal unit of phonemic contrast, usually expressed in binary form."},
+    {"t": "二值性", "tEn": "Binarity", "d": "特征只取正负两个值的性质。", "dEn": "The property of a feature having only two possible values, positive or negative."},
+    {"t": "浊音性", "tEn": "Voicing", "d": "以声带是否振动区分音段的特征，记为 [±浊音]。", "dEn": "The feature [±voice] based on whether the vocal folds vibrate."},
+    {"t": "送气", "tEn": "Aspiration", "d": "塞音除阻时伴随气流呼出的特征，汉语以此区分塞音。", "dEn": "The feature of a stop released with a puff of air, contrastive in Mandarin."},
+    {"t": "鼻音性", "tEn": "Nasality", "d": "以软腭升降决定气流是否通过鼻腔的特征。", "dEn": "The feature determined by velum position governing airflow through the nose."},
+    {"t": "特征几何", "tEn": "Feature Geometry", "d": "把区别特征组织为层级树状结构的非线性音系学理论。", "dEn": "A nonlinear theory organising features into hierarchical tree structures."},
+    {"t": "蕴涵关系", "tEn": "Implicational Relation", "d": "某一特征取值预示另一特征取值的跨语言规律。", "dEn": "A cross-linguistic dependency whereby one feature value predicts another."}
+   ],
+   "related": ["phoneme", "phonology", "minimal-pair", "allophone", "markedness"],
+   "sources": [
+    "Wikipedia, \"Distinctive feature\", https://en.wikipedia.org/wiki/Distinctive_feature",
+    "Jakobson, R., Fant, G. & Halle, M., Preliminaries to Speech Analysis, 1952",
+    "Chomsky, N. & Halle, M., The Sound Pattern of English, 1968"
+   ]
+  }
+ ]
+}

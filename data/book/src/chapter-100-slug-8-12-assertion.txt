@@ -1,0 +1,57 @@
+# 8.12 Assertion
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2718#oembed-1
+One major component of the illocutionary meaning of an assertion as contributed by the ASSERT morpheme is that you are publicizing that you believe the proposition to be true. It is absurd to make an assertion, only to say that you don’t believe the propositional content, as in (1).
+
+(1) ?? It’s snowing, but I don’t believe that it’s snowing.
+
+(1) is distinctly odd to say, but it isn’t exactly a contradiction — at least not obviously so. Conceptually, it’s possible for it to be snowing and simultaneously for someone to not believe it. But it’s weird to assert this, as in (1). This phenomenon (the absurdity of sentences of the form p, but I don’t believe that p) is called Moore’s Paradox. When you try to negate the illocutionary meaning of a sentence, it results in Moore’s Paradox. Illocutionary meaning is something that “happens” when you make an utterance, so its impact is immediately perceivable. For example, once you make an assertion, by virtue of making that utterance, you’ve committed to the fact that you’ve publicized your belief. In this way, you cannot “cancel” an illocutionary meaning because it just happens; and in (1), that’s exactly what the speaker/signer is trying to do, unsuccessfully.
+Let’s revisit the conversation about Aya and Bo’s dinner plans from earlier to see how ASSERT works. The illustration of the context has been reproduced below as well.
+
+(2) (Context: Aya and Bo are roommates, and are trying to decide what to make for dinner.)
+Aya: Should we have spaghetti for dinner?
+Bo: We have tomato sauce and ground beef in the fridge.
+Aya: Yeah. Can we make pasta bolognese with those ingredients?
+Bo: Yeah, I think so.
+Aya: OK, cool. We’ll do spaghetti then.
+
+[图片：Context-1024x768.jpg]
+
+Figure 8.6. A context consisting of the Common Ground, the Question Under Discussion stack, and Discourse Commitment sets.
+
+As a reminder, compositionally, the bolded assertion breaks down into ASSERT [we have tomato sauce and ground beef in the fridge]. What we are trying to find out is where ASSERT puts the proposition We have tomato sauce and ground beef in the fridge within the context, which is composed of the Question Under Discussion (QUD) stack, the Common Ground, Aya’s Discourse Commitment set, and Bo’s Discourse Commitment set.
+When Bo makes this utterance, he is publicizing that he believes this proposition to be true. So naturally, the relevant part of the context is Bo’s Discourse Commitment set. If p is a proposition, then ASSERT p puts p in the Discourse Commitment set of the speaker/signer.
+That is not all that an assertion does, however. Remember that the whole point of any conversation is to add propositions to the Common Ground. This means that Bo is not making this assertion for the sake of publicizing his own beliefs: he is trying to get the addressee (Aya) to agree with him. In other words, Bo is also raising an issue for discussion in the discourse by making this utterance.
+You can observe that assertions raise an issue because in (1), Aya responds “Yeah” to it. This easily could’ve been “No we don’t” in another context. What this shows is that people can agree or disagree with assertions, which means that assertions introduce a proposition as the topic for discussion in the QUD stack.
+You may recall from earlier in this chapter that the “literal” meaning of the sentence is called the at-issue meaning. The literal meaning of the sentence is “at-issue” because that’s the content of the sentence that is up for debate in the QUD stack.
+
+To reiterate a point from earlier, just because you believe something doesn’t make it a fact about the world. This means that asserting p doesn’t automatically put p in the Common Ground; you have to get the agreement of other discourse participants first. So the second thing that ASSERT p does is put p up for discussion as the QUD.
+
+(3) summarizes the illocutionary force of ASSERT. To apply it to our example in (3), replace p with the proposition We have tomato sauce and ground beef in the fridge.
+
+(3) ASSERT p =
+(i) Put p in the Discourse Commitment set of the speaker/signer
+(ii) Put “is p true?” at the top of the QUD stack
+
+In the next section, let’s see how this compares to the illocutionary force of questions.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2718#h5p-98
+
+## References
+
+Farkas, D. F., & Bruce, K. B. (2010). On reacting to assertions and polar questions. Journal of semantics, 27(1), 81-118.
+Ginzburg, J. (1996). Dynamics and the semantics of dialogue. Seligman, Jerry, & Westerst ahl, Dag (eds), Logic, language and computation, 1.
+Groenendijk, J., & Stokhof, M. (1991). Dynamic predicate logic. Linguistics and philosophy, 39-100.
+Gunlogson, C. (2004). True to form: Rising and falling declaratives as questions in English. Routledge.
+Hamblin, C. L. (1971). Mathematical models of dialogue. Theoria, 37(2), 130-155.
+Hamblin, C. L. (1973). Questions in Montague English. Foundations of Language, 10(1). 41–53.
+Heim, I. (1982). The semantics of definite and indefinite noun phrases. University of Massachusetts, Amherst dissertation.
+Heim, I. (2002). File change semantics and the familiarity theory of definiteness. Formal Semantics: The Essential Readings, 223-248.
+Kamp, H. (1981). A theory of truth and semantic representation. Truth, Interpretation and Information, 1–41.
+Kamp, H., Genabith, J. V., & Reyle, U. (2011). Discourse Representation Theory. In Handbook of Philosophical Logic (pp. 125-394). Springer, Dordrecht.
+Roberts, C. (2012). Information structure: Towards an integrated formal theory of pragmatics. Semantics and Pragmatics, 5, 6-1.
+Stalnaker, R. C. (1978). Assertion. In Pragmatics (pp. 315-332). Brill.
+Taniguchi, A. (2017). The formal pragmatics of non-at-issue intensification in English and Japanese. Michigan State University dissertation.

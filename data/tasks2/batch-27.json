@@ -1,0 +1,24 @@
+{
+ "batch": 27,
+ "out": "data/gen2/batch-27.json",
+ "entries": [
+  {
+   "id": "writing-system",
+   "title": "文字系统",
+   "en": "Writing System",
+   "category": "concepts"
+  },
+  {
+   "id": "minimalism",
+   "title": "最简方案",
+   "en": "Minimalist Program",
+   "category": "theories"
+  },
+  {
+   "id": "lexical-functional-grammar",
+   "title": "词汇功能语法",
+   "en": "Lexical-Functional Grammar",
+   "category": "theories"
+  }
+ ]
+}

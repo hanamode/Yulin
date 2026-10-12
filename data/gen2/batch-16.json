@@ -1,0 +1,374 @@
+{
+ "batch": 16,
+ "entries": [
+  {
+   "id": "semantic-field",
+   "title": "语义场",
+   "en": "Semantic Field",
+   "category": "concepts",
+   "tags": [
+    "词汇语义",
+    "词义系统",
+    "聚合关系",
+    "义素分析",
+    "语义结构"
+   ],
+   "summary": "语义场指一组意义相关、相互制约的词在词汇系统中构成的聚合网络，又称词汇场。特雷尔等学者提出，词义并不孤立存在，而是在场内部通过彼此的分工与对立获得确定值，如汉语「父亲、母亲、儿子、女儿」构成亲属场。语义场理论把索绪尔的聚合关系落实到词汇层面，成为词汇语义学与义素分析的重要基础，后期又受到原型理论和框架语义学的修正。",
+   "summaryEn": "A semantic field is a set of lexically related words that form a mutually defining network within the vocabulary, also called a lexical field. Trier and others argued that a word's meaning is not self-contained but emerges from the contrasts it contracts with its neighbours, as in the kinship field of father, mother, son, daughter or the colour field of red, orange and yellow. The theory applies Saussurean paradigmatic relations to lexis and underpins lexical semantics and componential analysis, though prototype theory and frame semantics have since qualified its claims.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "语义场是词汇系统中一群在意义上相互关联、彼此制约的词所组成的聚合体。场内的词共享某个共同的语义区域，又通过各自的区别性特征划分这一区域。例如汉语的「兄、弟、姐、妹」同属亲属称谓场，其共同义素是「同胞」，区别义素则是「年长／年幼」与「男性／女性」。词义只有放到场中才获得完整的规定，离开场的对比便无法说明它究竟覆盖哪一段意义空间。"
+     ],
+     "pEn": [
+      "A semantic field is a paradigmatically organised set of words whose meanings are related and mutually delimiting. Members of the field share a common semantic territory and divide it among themselves by distinctive features. In Chinese, for instance, xiong, di, jie and mei all belong to the kinship field of siblings: they share the component 'sibling' and differ by the components 'elder/younger' and 'male/female'. A word's value is fully specified only within the field, since outside its contrasts there is no way of saying which portion of meaning it covers."
+     ]
+    },
+    {
+     "h": "研究内容与理论来源",
+     "hEn": "Subject Matter and Theoretical Sources",
+     "p": [
+      "语义场研究关注场的边界、场内词项的层级结构以及场与场之间的交叉。德国学者特雷尔在二十世纪三十年代通过对中古高地德语「智慧」类词汇的历时考察，证明同一意义区域在不同时代的切分方式会整体改变，从而把历时研究与词汇系统结合起来。波尔齐希则研究动词场，指出语法搭配同样参与词义的确定，如德语 treten 与 gehen 的差别在于是否涉及「地面接触」与「步态」。"
+     ],
+     "pEn": [
+      "Research on semantic fields concerns the boundaries of a field, the hierarchical structure of its members, and the overlap between fields. In the 1930s Jost Trier compared the Middle High German vocabulary of knowledge and showed that the way a conceptual area is partitioned changes as a whole over time, thereby linking diachronic study to the lexical system. Walter Porzig examined verb fields and argued that syntactic collocations also help fix meaning, as with the German verbs gehen and treten, which differ in whether contact with a surface and a stepping motion are involved."
+     ]
+    },
+    {
+     "h": "分类与示例",
+     "hEn": "Types and Examples",
+     "p": [
+      "常见的场类型包括分类场、顺序场、关系场和联想场。分类场按上下义层级组织，如「花」下辖「玫瑰、郁金香」；顺序场按时间或程度排列，如「春、夏、秋、冬」；关系场依据对立，如「买／卖」；联想场依据心理联想，如由「医院」联想到「医生、护士」。英语颜色场 red、orange、yellow、green、blue 的边界与汉语颜色词并不完全重合，俄语更把英语 blue 分为 sinij 与 goluboj 两个基本词，说明场的切分具有语言相对性。"
+     ],
+     "pEn": [
+      "Common field types include taxonomic, sequential, relational and associative fields. Taxonomic fields are organised by hyponymy, as when flower subsumes rose, tulip and chrysanthemum; sequential fields order members by time or degree, as with spring, summer, autumn, winter or cold, warm, hot, scalding; relational fields rest on oppositeness, as with buy and sell or husband and wife; associative fields rest on psychological association, so hospital evokes doctor, nurse, bed and prescription. The English colour terms red, orange, yellow, green, blue and purple do not map neatly onto the Chinese set hong, cheng, huang, lü, lan, zi, and Russian splits the English blue region into the basic terms sinij and goluboj, showing that the partition of a field is language-specific."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods",
+     "p": [
+      "语义场分析通常从语料中提取候选词项，再通过替换与共现测试确定其归属，最后用义素矩阵描写场内差异。例如对汉语「看、望、瞧、盯、瞪」的分析可分解出「方向」「持续」「情绪」等义素。语料库工具可统计搭配与分布，词向量模型则通过余弦相似度自动聚出语义相近的词群，如 king 与 queen、man 与 woman 的向量差高度一致，但在场的边界判定上仍需语言学解释。"
+     ],
+     "pEn": [
+      "Semantic field analysis usually extracts candidate items from a corpus, tests their membership by substitution and co-occurrence, and then describes their differences with a componential matrix. Analyses of the Chinese visual verbs kan, wang, qiao, ding and deng, for instance, decompose them into features such as direction, duration and emotional stance. Corpus tools quantify collocation and distribution, and distributional word embeddings cluster semantically similar words automatically; the vector difference between king and queen closely matches that between man and woman. Deciding where a field ends nevertheless still requires linguistic interpretation."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "批评者指出，场的边界往往依赖研究者的直觉，缺乏可操作的判定标准；把词义分解为离散义素也难以处理一词多义和模糊性。莱考夫与兰盖克等认知语言学家认为，词汇并非按清晰的特征矩阵组织，而是围绕原型辐射出多义网络。框架语义学主张以语义框架取代语义场，把词义与场景知识和句式联系起来。尽管如此，场的概念在词典编纂、同义词辨析和语言教学中仍被广泛使用。"
+     ],
+     "pEn": [
+      "Critics note that field boundaries often depend on the analyst's intuition and lack operational criteria, and that decomposing meaning into discrete components handles polysemy and vagueness poorly. Cognitive linguists such as Lakoff and Langacker argue that vocabulary is not organised by clear feature matrices but radiates from prototypes into polysemous networks. Frame semantics proposes replacing the field with the semantic frame, tying word meaning to scene knowledge and clause patterns. Even so, the notion of the field remains widely used in lexicography, synonym discrimination and language teaching."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语义场",
+     "tEn": "Semantic field",
+     "d": "指一组意义相关、相互制约的词在词汇系统中构成的聚合网络，又称词汇场。",
+     "dEn": "A set of mutually delimiting words whose meanings are related."
+    },
+    {
+     "t": "义素",
+     "tEn": "Semantic component",
+     "d": "对词义进行分解后得到的最小区别性语义特征，如「男性」「年长」等。",
+     "dEn": "A minimal distinctive feature into which a word's meaning is decomposed."
+    },
+    {
+     "t": "词汇场",
+     "tEn": "Lexical field",
+     "d": "语义场在词汇层面的称呼，强调词项之间的聚合关系与彼此制约。",
+     "dEn": "The lexical-level designation of a semantic field, stressing paradigmatic relations."
+    },
+    {
+     "t": "上下义关系",
+     "tEn": "Hyponymy",
+     "d": "上位词与下位词之间的语义包含关系，如「花」与「玫瑰」的关系。",
+     "dEn": "The semantic inclusion relation holding between a superordinate term and its subordinate terms."
+    },
+    {
+     "t": "义素分析",
+     "tEn": "Componential analysis",
+     "d": "用一组区别性语义特征构成的矩阵来描写词义异同的分析方法。",
+     "dEn": "A method describing lexical contrasts by a matrix of semantic features."
+    },
+    {
+     "t": "联想场",
+     "tEn": "Associative field",
+     "d": "依据心理联想而非严格分类标准形成的词群，如由「医院」联想到的词。",
+     "dEn": "A word group formed by psychological association rather than strict taxonomy."
+    },
+    {
+     "t": "词汇空缺",
+     "tEn": "Lexical gap",
+     "d": "某一语言在特定语义场中缺少对应词项的现象，常造成翻译上的困难。",
+     "dEn": "The absence of a term at a point in a language's semantic field."
+    }
+   ],
+   "related": [
+    "lexical-semantics",
+    "syntagmatic-paradigmatic",
+    "prototype",
+    "markedness",
+    "cognitive-linguistics"
+   ],
+   "sources": [
+    "Wikipedia, \"Semantic field\", https://en.wikipedia.org/wiki/Semantic_field",
+    "Trier, Der deutsche Wortschatz im Sinnbezirk des Verstandes, 1931",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "metaphor-metonymy",
+   "title": "隐喻与转喻",
+   "en": "Metaphor and Metonymy",
+   "category": "concepts",
+   "tags": [
+    "认知语义",
+    "概念隐喻",
+    "转喻",
+    "跨域映射",
+    "修辞"
+   ],
+   "summary": "隐喻与转喻是两种基本的语义延伸与思维方式。传统修辞学把二者视为辞格，莱考夫与约翰逊则提出，隐喻是借助一个概念域去理解另一个概念域，如以「战争」理解辩论；转喻是在同一概念域内以部分代整体或相关之物相代，如以「白宫」指美国政府。两者普遍存在于日常语言与手势、图像之中，是认知语言学与词汇语义学研究的核心课题。",
+   "summaryEn": "Metaphor and metonymy are two fundamental modes of meaning extension and thought. Classical rhetoric treated them as figures of speech, but Lakoff and Johnson argued that metaphor is understanding one conceptual domain in terms of another, as when argument is construed through war, whereas metonymy substitutes one entity for a related entity within a single domain, as when the White House stands for the US administration. Both are pervasive in everyday language, gesture and images, and are central to cognitive linguistics and lexical semantics.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "隐喻是两个不同概念域之间的映射：源域的具体经验被投射到目标域的抽象经验上。例如汉语「时间就是金钱」把金钱域的「花费、浪费、节省」投射到时间域，产生「浪费时间」「节省时间」。转喻则发生在同一概念域内部，用显著的一方指代另一方，如汉语「吃食堂」以场所代食物来源，英语 the kettle is boiling 以容器代所容之物。隐喻多涉及跨域相似，转喻则依据邻接与显著度。"
+     ],
+     "pEn": [
+      "Metaphor is a mapping between two distinct conceptual domains, in which concrete experience from a source domain is projected onto a more abstract target domain. The Chinese expression langfei shijian ('waste time') extends the money domain to time, licensing shijian jiushi jinqian ('time is money'). Metonymy operates inside one domain, letting a salient entity stand for a related one: Chinese chi shitang ('eat canteen') names a place for the food obtained there, and English the kettle is boiling names a container for its contents. Metaphor typically exploits cross-domain resemblance; metonymy relies on contiguity and salience."
+     ]
+    },
+    {
+     "h": "概念隐喻理论",
+     "hEn": "Conceptual Metaphor Theory",
+     "p": [
+      "莱考夫与约翰逊在《我们赖以生存的隐喻》中指出，隐喻不是语言的装饰，而是概念系统的组织方式。他们区分结构隐喻、方位隐喻和本体隐喻三类。结构隐喻以一个域系统地构造另一个域，如 argument is war 产生「攻击观点」「捍卫立场」；方位隐喻建立在身体经验的空间取向上，如 happy is up；本体隐喻把抽象经验当作实体，如 inflation is an entity 产生 to fight inflation。"
+     ],
+     "pEn": [
+      "In Metaphors We Live By, Lakoff and Johnson argued that metaphor is not an ornament of language but an organising principle of the conceptual system. They distinguished structural, orientational and ontological metaphors. Structural metaphors build one domain systematically in terms of another: argument is war yields expressions such as to attack a position or to defend a claim. Orientational metaphors rest on bodily spatial experience, as with happy is up in I am feeling up. Ontological metaphors treat abstractions as entities, as when inflation is an entity licenses to fight inflation."
+     ]
+    },
+    {
+     "h": "转喻的类型与示例",
+     "hEn": "Types of Metonymy and Examples",
+     "p": [
+      "常见的转喻关系包括部分代整体、整体代部分、容器代内容、生产者代产品、地点代机构、材料代成品。汉语「他是个新面孔」以部分代整体，「读鲁迅」以作者代作品，「喝一杯」以容器代内容；英语 Wall Street 指美国金融界，the pen is mightier than the sword 以工具代力量。转喻也是语法化的重要动因，如汉语「手里拿着一本书」由身体部位引申出方位义，英语 be going to 由空间移动转而表达将来时。"
+     ],
+     "pEn": [
+      "Frequent metonymic relations include part for whole, whole for part, container for contents, producer for product, place for institution and material for object. Chinese ta shi ge xin miankong ('he is a new face') uses a part for the whole, du Lu Xun ('read Lu Xun') uses an author for his work, and he yi bei ('drink a cup') uses a container for its contents. English Wall Street stands for American finance and the pen is mightier than the sword puts an instrument for its power. Metonymy also drives grammaticalisation: Chinese shou ('hand') develops locative senses, and English be going to shifts from spatial motion to future marking."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods",
+     "p": [
+      "隐喻研究早期依赖内省与语料归纳：先收集表达同一隐喻主题的语句，再概括出概念隐喻，如 time is money 一类链条。批评隐喻分析进一步统计政治与新闻语篇中隐喻的分布，揭示其意识形态功能。心理语言学采用启动范式，测量隐喻句对相关目标词的促进效应，以检验映射的心理现实性。神经语言学发现隐喻与字面句激活的脑区大体重叠，但隐喻更依赖右半球与额下回的整合加工。"
+     ],
+     "pEn": [
+      "Early metaphor research relied on introspection and corpus induction: expressions sharing a metaphorical theme are collected and generalised into conceptual metaphors, following the chain from time is money through time is a resource to time is a commodity. Critical metaphor analysis additionally quantifies metaphor use in political and news discourse to expose its ideological work. Psycholinguists employ priming paradigms, presenting a metaphorical sentence and then measuring lexical decision latency, to test the psychological reality of mappings. Neuroimaging shows largely overlapping networks for metaphorical and literal sentences, with metaphor placing greater demands on right-hemisphere and inferior frontal integration."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "有学者指出概念隐喻的判定标准过于宽松，几乎任何表达都可被追认为某一隐喻，存在循环论证的风险。另一些研究质疑隐喻与转喻的截然二分，认为如「唇枪舌剑」之类表达同时涉及两个域和域内替代。格莱斯学派则强调隐喻意义可由会话含义推导，无须专门的认知机制。此外，不同语言的隐喻系统差异明显，如汉语以「气」贯穿情绪表达，英语则以液体隐喻为主，这提示隐喻既有身体基础也受文化塑造。"
+     ],
+     "pEn": [
+      "Some scholars argue that the criteria for positing conceptual metaphors are so permissive that almost any expression can be retrofitted to one, inviting circularity. Others question the sharp metaphor-metonymy divide, noting that expressions such as a tongue like a sword involve both cross-domain mapping and intra-domain substitution. Gricean accounts instead derive metaphorical meaning from conversational implicature without positing a dedicated cognitive mechanism. Metaphor systems also differ across languages: Chinese channels emotion through the notion of qi, whereas English favours liquid metaphors, suggesting that metaphor is both bodily grounded and culturally shaped."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "概念隐喻",
+     "tEn": "Conceptual metaphor",
+     "d": "以一个概念域系统地去理解另一个概念域的认知机制，如以战争理解辩论。",
+     "dEn": "A cognitive mechanism understanding one conceptual domain in terms of another."
+    },
+    {
+     "t": "转喻",
+     "tEn": "Metonymy",
+     "d": "在同一概念域内用显著的、相关联的事物指代另一事物的语义延伸方式。",
+     "dEn": "Referring to an entity by a salient related entity within one domain."
+    },
+    {
+     "t": "源域与目标域",
+     "tEn": "Source and target domain",
+     "d": "隐喻映射中提供具体经验的一方与接受投射的抽象一方。",
+     "dEn": "The domain supplying experience and the domain receiving the projection."
+    },
+    {
+     "t": "映射",
+     "tEn": "Mapping",
+     "d": "源域与目标域之间建立起来的一套系统的对应关系，是隐喻运作的核心。",
+     "dEn": "The systematic set of correspondences established between a source and a target domain."
+    },
+    {
+     "t": "意象图式",
+     "tEn": "Image schema",
+     "d": "由身体经验反复概括而成的抽象空间结构与力量结构，如容器图式。",
+     "dEn": "A recurring abstract spatial or force structure derived from bodily experience."
+    },
+    {
+     "t": "方位隐喻",
+     "tEn": "Orientational metaphor",
+     "d": "依据上下、内外等空间取向组织抽象概念的隐喻，如情绪高涨为「上」。",
+     "dEn": "A metaphor organising concepts by spatial orientations such as up and down."
+    },
+    {
+     "t": "本体隐喻",
+     "tEn": "Ontological metaphor",
+     "d": "把抽象的、无形而连续的经验视为实体或物质的隐喻方式。",
+     "dEn": "A metaphor treating abstract experience as an entity or substance."
+    }
+   ],
+   "related": [
+    "cognitive-linguistics",
+    "lexical-semantics",
+    "prototype",
+    "construction-grammar",
+    "grammaticalization"
+   ],
+   "sources": [
+    "Wikipedia, \"Metaphor\", https://en.wikipedia.org/wiki/Metaphor",
+    "Wikipedia, \"Metonymy\", https://en.wikipedia.org/wiki/Metonymy",
+    "Lakoff & Johnson, Metaphors We Live By, 1980"
+   ]
+  },
+  {
+   "id": "prototype",
+   "title": "原型范畴",
+   "en": "Prototype",
+   "category": "concepts",
+   "tags": [
+    "认知语言学",
+    "范畴化",
+    "典型性",
+    "家族相似",
+    "基本层次"
+   ],
+   "summary": "原型范畴指以典型成员为核心、边界模糊的范畴化模式。罗施通过颜色与鸟类等实验发现，人们对范畴成员的判断有典型性差异：知更鸟是鸟的典型，企鹅则处于边缘。范畴由家族相似性维系，成员地位不平等，边界可随语境伸缩。该理论取代了经典的充分必要条件观，成为认知语言学、词汇语义学与语言习得研究的重要基础，也引发关于原型是心理表征还是统计平均的争论。",
+   "summaryEn": "A prototype is the pattern of categorisation in which a category centres on typical members and has fuzzy boundaries. Through experiments on colour and on bird terms, Rosch showed that typicality is graded: a robin is a good example of a bird while a penguin lies at the periphery. Categories are held together by family resemblance, their members are unequal in status, and their boundaries shift with context. The account replaced the classical necessary-and-sufficient view and became central to cognitive linguistics, lexical semantics and acquisition research.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "原型范畴理论主张，多数自然范畴无法用一组充分必要条件界定，而是围绕一个或多个最典型的成员组织起来。典型成员享有最多的共同属性，边缘成员属性较少却仍被纳入。例如在「鸟」这一范畴中，麻雀、知更鸟具有会飞、有羽毛、体型小、会鸣叫等多项特征，典型性高；而企鹅与鸵鸟不会飞，虽被承认是鸟，却在判断实验中反应更慢、更易被质疑。范畴因此不是全有全无的集合，而是有中心有边缘的连续体。"
+     ],
+     "pEn": [
+      "Prototype theory holds that most natural categories cannot be defined by a set of necessary and sufficient conditions but are instead organised around one or more best examples. The most typical member carries the greatest number of shared attributes, while peripheral members carry fewer yet remain members. In the category bird, a sparrow or a robin flies, has feathers, is small and sings, so it is highly typical, whereas a penguin or an ostrich does not fly and, although accepted as a bird, elicits slower and less confident judgements. A category is thus a centre-periphery continuum, not an all-or-nothing set."
+     ]
+    },
+    {
+     "h": "历史发展",
+     "hEn": "Historical Development",
+     "p": [
+      "早在二十世纪五十年代，维特根斯坦就以「游戏」为例指出，棋类、球类、纸牌之间没有共同的本质属性，只有交错重叠的家族相似性。柏林与凯在基本颜色词研究中发现，颜色词的焦点色在跨语言调查中高度一致，提示存在感知上的最佳样例。七十年代罗施在此基础上开展一系列实验，用典型性评定、反应时和启动任务证明范畴具有内部结构，并提出基本层次范畴与上位、下位范畴的层级。此后莱考夫、兰盖克把原型纳入认知语言学的整体框架。"
+     ],
+     "pEn": [
+      "As early as the 1950s Wittgenstein used the example of games to show that board games, ball games and card games share no common essence but only overlapping family resemblances. Berlin and Kay, studying basic colour terms, found that focal colours were strikingly consistent across languages, suggesting perceptually privileged best examples. In the 1970s Rosch built on these findings with a series of experiments using typicality ratings, reaction times and priming, demonstrating internal category structure and positing a hierarchy of basic, superordinate and subordinate levels. Lakoff and Langacker later incorporated the prototype into cognitive linguistics."
+     ]
+    },
+    {
+     "h": "主要概念与示例",
+     "hEn": "Key Concepts and Examples",
+     "p": [
+      "典型性程度指成员被判断为代表范畴的难易，可用七点量表测量。家族相似性指成员之间交错重叠的属性网络，如「椅子」范畴中，办公椅、餐椅、摇椅、沙发凳各有相似之处，却无共同特征。基本层次范畴在认知上最突显，儿童最先习得，如「狗」「树」「杯子」，其上位是「动物」「植物」「容器」，下位是「贵宾犬」「橡树」「马克杯」。汉语「蔬菜」范畴中，白菜、菠菜最典型，西红柿、土豆则常有争议；英语 furniture 与汉语「家具」的原型成员也不完全对应。"
+     ],
+     "pEn": [
+      "Typicality refers to how readily a member is judged to represent its category and can be measured on a rating scale. Family resemblance refers to the overlapping network of attributes among members: office chairs, dining chairs, rocking chairs and stools resemble one another in crisscrossing ways without sharing a common feature. Basic-level categories are cognitively most salient and are acquired first, as with dog, tree and cup, whose superordinates are animal, plant and container and whose subordinates are poodle, oak and mug. Among Chinese shucai ('vegetables'), baicai and bocai are highly typical while tomato and potato are disputed; the prototypes of English furniture and Chinese jiaju also diverge."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods",
+     "p": [
+      "典型性评定是原型研究的经典方法，让被试在量表上评价某成员在多大程度上属于某范畴。反应时任务测量判断「X 是 Y」所需的时间，典型成员通常更快。属性列举法要求被试写出范畴成员的共同特征，再统计特征的出现频率与权重。语义启动实验先呈现范畴名再呈现成员词，考察其促进效应。此外，语料库搭配统计与词向量相似度也可近似刻画典型性，如英语 bird 的向量最近邻多为鸟类词，而 penguin 距离较远。"
+     ],
+     "pEn": [
+      "Typicality rating is the classic method: participants judge on a scale how good an example of a category a member is. Reaction-time tasks measure how long it takes to verify that X is a Y, with typical members verified faster. Attribute listing asks participants to write down features of category members, after which feature frequency and weight are computed. Semantic priming presents a category name followed by a member word to assess facilitation. Corpus collocation statistics and distributional similarity offer converging evidence: the nearest neighbours of bird in an embedding space are mostly bird names, while penguin lies farther away."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "有学者主张原型并非稳定的心理表征，而是实验任务中被即时建构出来的判断倾向；也有研究认为典型性效应可由范畴的统计结构直接预测，无须设定原型。阿姆斯特朗等人发现，被试对「奇数」等数学范畴也表现出典型性等级，但又拒绝承认其边界模糊，这被称为「范畴的复合表征」问题。此外，原型理论对科学概念和法定定义的刻画较弱，因此在术语学与法律语言研究中常与经典范畴观并用。"
+     ],
+     "pEn": [
+      "Some researchers argue that the prototype is not a stable mental representation but a judgement tendency constructed on the spot by the task, and others hold that typicality effects follow directly from a category's statistical structure without positing a prototype at all. Armstrong and colleagues found that participants give graded typicality judgements for mathematical categories such as odd number while still denying that these have fuzzy boundaries, a puzzle known as the dual representation of categories. Prototype theory also characterises scientific and legal definitions poorly, so terminological and legal research often combines it with the classical view."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "原型",
+     "tEn": "Prototype",
+     "d": "范畴中最具代表性、享有最多共同属性的成员，处于范畴的中心。",
+     "dEn": "The most representative member of a category, sharing the most attributes."
+    },
+    {
+     "t": "典型性",
+     "tEn": "Typicality",
+     "d": "范畴成员被判断为代表该范畴的程度，呈现明显的等级差异。",
+     "dEn": "The graded extent to which a member is judged representative of its category."
+    },
+    {
+     "t": "家族相似性",
+     "tEn": "Family resemblance",
+     "d": "范畴成员之间交错重叠而非共同具备的属性网络，由维特根斯坦提出。",
+     "dEn": "A network of crisscrossing rather than shared attributes that links the members of a category."
+    },
+    {
+     "t": "基本层次范畴",
+     "tEn": "Basic-level category",
+     "d": "认知上最突显、儿童最先习得的中间层级范畴，如「狗」「树」。",
+     "dEn": "The cognitively most salient, earliest acquired middle level of categorisation."
+    },
+    {
+     "t": "范畴化",
+     "tEn": "Categorisation",
+     "d": "把纷繁的经验归入类别，以便进行识别、推理与记忆的心理过程。",
+     "dEn": "The mental process of sorting experience into categories for recognition."
+    },
+    {
+     "t": "图式",
+     "tEn": "Schema",
+     "d": "由反复的知觉与身体经验概括而成的抽象知识结构，具有相当的稳定性。",
+     "dEn": "An abstract knowledge structure generalised from repeated perceptual and bodily experience."
+    },
+    {
+     "t": "边缘成员",
+     "tEn": "Peripheral member",
+     "d": "属性较少、典型性较低但仍被归入范畴的成员，如「企鹅」之于鸟。",
+     "dEn": "A low-typicality member with few attributes that still belongs to the category."
+    }
+   ],
+   "related": [
+    "cognitive-linguistics",
+    "categorical-perception",
+    "lexical-semantics",
+    "markedness",
+    "semantic-field"
+   ],
+   "sources": [
+    "Wikipedia, \"Prototype theory\", https://en.wikipedia.org/wiki/Prototype_theory",
+    "Rosch, \"Natural categories\", Cognitive Psychology, 1973",
+    "Lakoff, Women, Fire, and Dangerous Things, 1987"
+   ]
+  }
+ ]
+}

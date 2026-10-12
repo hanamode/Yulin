@@ -1,0 +1,14 @@
+# Chapter 7: Semantics
+
+This chapter is about linguistic meaning, particularly semantics: how the meaning of words combine to form the meaning of sentences. We will start by examining lexical meaning: what goes into the meaning of a word and other smaller linguistic expressions stored in your mental lexicon. We will examine various theories of lexical meaning and evaluate the pros and cons of each one. The latter half of the chapter focuses on case studies of linguistic meaning across categories and across languages, and along the way, we will think about what it means for the meaning of one word to combine with the meaning of another word. We will examine various data across categories and across languages in order to appreciate the complexity of human semantic competence.
+
+When you’ve completed this chapter, you’ll be able to:
+
+- Acknowledge the plurality of linguistic theories concerning the status of the lexicon, explain the differences between each theory, and evaluate the pros and cons of each theory;
+- Explain why the dictionary is not the ultimate authority of linguistic meaning;
+- Analyse linguistic meaning critically based on descriptive observations;
+- Gain a general understanding of what kinds of concepts lexical meaning encodes in language;
+- Explain the difference between sense and denotation;
+- Use diagnostics to identify entailments, implicatures, and presuppositions;
+- Evaluate the usefulness of each kind of meaning in linguistic analysis;
+- Appreciate the complexity and diversity of linguistic meaning.

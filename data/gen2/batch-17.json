@@ -1,0 +1,164 @@
+{
+ "batch": 17,
+ "entries": [
+  {
+   "id": "register",
+   "title": "语域",
+   "en": "Register",
+   "category": "concepts",
+   "tags": ["语域", "语言变体", "情境语境", "韩礼德", "社会语言学"],
+   "summary": "语域指语言因使用情境不同而呈现的系统性变体，与说话人社会背景所决定的方言相对。它由语场、语旨和语式三个变量共同决定，分别对应话题内容、参与者关系与交际渠道。语域差异体现在词汇、语法、语音乃至篇章结构各个层面，如法律文书的正式程式语与朋友闲聊的随意表达形成鲜明对照。语域是系统功能语言学和社会语言学共同关注的核心概念，也是研究语言与社会情境关系的重要工具。",
+   "summaryEn": "Register is a systematic variety of language determined by the situation of use rather than by the speaker's social background. Halliday analyses it through three variables, field, tenor and mode, which concern the topic, the relationships among participants and the channel of communication. Register variation appears in vocabulary, grammar, phonology and discourse structure, as when legal documents use formal formulae while friends chat casually. It is central to systemic functional linguistics and sociolinguistics, linking linguistic choices to recurrent types of social situation.",
+   "sections": [
+    {
+     "h": "定义与基本特征",
+     "hEn": "Definition and Basic Features",
+     "p": ["语域是语言使用者根据交际情境对语言资源作出的系统性选择。与方言不同，方言标记说话人来自何地或属于哪个社会群体，语域则标记交际正在何种场合中进行。同一个人可以在家庭、课堂、法庭等不同情境中自如切换语域，例如汉语中对长辈说「请您稍等」，对同学说「等你一下」。语域表现为一组共现的语言特征，而不是孤立词语的偶然替换，因此具有可预测性。"],
+     "pEn": ["Register refers to the systematic choices a speaker makes from the linguistic resources available in a given situation of use. Unlike dialect, which indexes where a speaker comes from or which social group they belong to, register indexes what kind of situation the interaction is. The same individual moves between registers, saying Please wait a moment, sir in a formal encounter and Hang on a sec to a friend. A register is a constellation of co-occurring features, so its linguistic shape is to some degree predictable."]
+    },
+    {
+     "h": "三个变量：语场、语旨、语式",
+     "hEn": "Field, Tenor and Mode",
+     "p": ["韩礼德提出，语域由三个情境变量构成。语场指正在发生的社会活动与话题，如医学诊断或课堂教学；语旨指参与者的角色关系与权势距离，如师生、医患；语式指语言在交际中承担的作用与渠道，如口头即席交谈、书面报告或电话留言。三者的组合决定语言元功能的选择：语场影响概念功能，语旨影响人际功能，语式影响语篇功能。例如学术论文多用被动式与名词化，朋友聊天则多用省略句和口语词。"],
+     "pEn": ["Halliday analyses register through three situational variables. Field concerns the social activity and topic, such as a medical diagnosis or a seminar; tenor concerns the role relationships and power distance among participants, such as doctor and patient; mode concerns the part language plays and its channel, whether spontaneous speech, a written report or a telephone message. Their combination shapes metafunctional choices: field tends to govern ideational meaning, tenor interpersonal meaning, and mode textual meaning. Academic writing favours passives and nominalisation, whereas casual conversation relies on ellipsis and colloquial vocabulary."]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": ["语域差异在语言中随处可见。英语法律文书常用 hereby、shall 等古体程式语，日常口语则说 from now on 一类词语。汉语里，点餐时说「来一份宫保鸡丁」，正式宴请则说「请给我上一道宫保鸡丁」。语音上，正式朗读中 going to 读作 [ˈɡoʊɪŋ tuː]，随意口语常弱化为 gonna [ˈɡənə]。词汇密度、句长与情态动词的使用也随语域系统变化。"],
+     "pEn": ["Register differences are readily observable. English legal texts favour archaic formulae such as hereby, hereinafter and shall, as in The parties shall hereafter be referred to as..., whereas everyday speech says So from now on we'll call them.... In Chinese, ordering food informally uses 来一份宫保鸡丁, while a formal banquet might use 请给我上一道宫保鸡丁. Phonologically, careful speech realises going to as [ˈɡoʊɪŋ tuː], whereas casual speech reduces it to gonna [ˈɡənə]. Lexical density, sentence length and modal use also vary systematically with register."]
+    },
+    {
+     "h": "研究方法与理论发展",
+     "hEn": "Research Methods and Theoretical Development",
+     "p": ["语域研究早期以韩礼德等人的系统功能语法为代表，强调语域是意义潜势在具体情境中的实例化。社会语言学家则用定量方法考察语域与方言的交互，如拉波夫发现同一说话人在正式访谈中更常用标准变项，在随意交谈中更多使用非标准变项，这一取样困境被称为观察者悖论。语料库语言学兴起后，比伯等人通过多维分析统计语域中语言特征的共现模式，把英语口语与书面语划分为若干维度。"],
+     "pEn": ["Early register research was pursued within systemic functional grammar, which treats a register as the instantiation of meaning potential in context. Sociolinguists used quantitative methods to examine how register interacts with dialect; Labov found that the same speaker used standard variants more often in formal interviews and vernacular variants in casual talk, a sampling problem he called the observer's paradox. With corpus linguistics, Biber and colleagues applied multi-dimensional analysis to the co-occurrence of features and distinguished spoken from written English along several dimensions."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": ["语域与方言的界线并非总是清晰。社会方言本身也承载情境信息，而某些语域特征会逐渐固化并成为某一群体的标志。批评者指出，三变量模型偏重静态描述，难以刻画语域在互动中的动态协商；把语域完全视为场景决定的看法也可能低估说话人的能动性。批评话语分析则强调，语域选择常与权势和意识形态相关，例如官方文件刻意使用名词化和被动式以隐匿施事。"],
+     "pEn": ["The boundary between register and dialect is not always clear, since social dialects also carry situational information and some register features become markers of a particular group. Critics argue that the three-variable model is largely static and struggles to capture the dynamic negotiation of register, and that treating register as wholly situationally determined may underrate speaker agency. Critical discourse analysis stresses that register choices are bound up with power and ideology, as when official documents use nominalisation and passives to conceal agency."]
+    }
+   ],
+   "terms": [
+    {"t": "语域", "tEn": "Register", "d": "由使用情境决定的语言变体，体现词汇、语法与语音的系统性选择。", "dEn": "A variety of language determined by situation of use, showing systematic lexical, grammatical and phonological choices."},
+    {"t": "语场", "tEn": "Field", "d": "语域变量之一，指交际所涉及的社会活动、话题内容与领域。", "dEn": "The register variable concerning the social activity and topic of the interaction."},
+    {"t": "语旨", "tEn": "Tenor", "d": "语域变量之一，指参与者之间的角色关系、权势与亲疏程度。", "dEn": "The register variable concerning role relationships, power and social distance among participants."},
+    {"t": "语式", "tEn": "Mode", "d": "语域变量之一，指语言交际的渠道及其在活动中的作用。", "dEn": "The register variable concerning the channel of communication and the role language plays."},
+    {"t": "正式度", "tEn": "Formality", "d": "语言适应情境正式程度的连续统，从随意口语到庄重书面语。", "dEn": "A continuum of linguistic adaptation ranging from casual speech to highly formal writing."},
+    {"t": "行话", "tEn": "Jargon", "d": "特定行业或专业群体内部使用的专门词汇与表达方式，外行不易理解。", "dEn": "Specialised vocabulary and expressions used by a particular occupational or professional group."}
+   ],
+   "related": ["sociolinguistics", "diglossia", "standard-language", "speech-community", "code-switching"],
+   "sources": [
+    "Wikipedia, \"Register (sociolinguistics)\", https://en.wikipedia.org/wiki/Register_(sociolinguistics)",
+    "Halliday, An Introduction to Functional Grammar, 1985",
+    "Biber, Variation across Speech and Writing, 1988"
+   ]
+  },
+  {
+   "id": "dialect",
+   "title": "方言",
+   "en": "Dialect",
+   "category": "concepts",
+   "tags": ["方言", "地域变体", "社会方言", "方言学", "语言变体"],
+   "summary": "方言是某一语言在特定地域或社会群体中形成的变体，具有自身成系统的语音、词汇与语法特征。地域方言源于地理隔离与历史演变，社会方言则与阶层、年龄、性别等社会因素相关。方言之间通常存在规律性的结构对应，如汉语各地方言声调调类的整齐对应。语言学强调方言本身并无优劣之分，所谓标准语也只是被制度化的一个变体。方言研究是方言学与社会语言学的核心课题。",
+   "summaryEn": "A dialect is a variety of a language associated with a particular region or social group, with its own systematic phonology, vocabulary and grammar. Regional dialects arise from geographical separation and historical change, while social dialects correlate with class, age, gender and other social factors. Dialects typically show regular structural correspondences, such as the tonal category correspondences among Chinese varieties. Linguists insist that no dialect is intrinsically superior and that a standard language is simply one institutionalised variety among many.",
+   "sections": [
+    {
+     "h": "定义与区分",
+     "hEn": "Definition and Distinctions",
+     "p": ["方言是语言的一种变体，在语音、词汇和语法上具有一套相对完整的系统。判断两个言语变体是方言还是语言，往往不取决于结构差异的大小，而取决于政治与社会因素：汉语的粤语、闽语与普通话口语互通度很低，却常被称为方言；而塞尔维亚语与克罗地亚语互通度较高，却被视为不同语言。语言学家常用「方言连续体」描述地理上逐渐过渡的变体链，用「社会方言」指称与阶层、民族、年龄相关的变体。"],
+     "pEn": ["A dialect is a variety of a language with a relatively complete system of phonology, vocabulary and grammar. Whether two speech varieties count as dialects or as separate languages often depends on political and social factors rather than on structural distance: Cantonese, Hokkien and Mandarin are mutually unintelligible yet are commonly called dialects of Chinese, while Serbian and Croatian are highly mutually intelligible yet treated as distinct languages. Linguists describe gradual geographical transitions as dialect continua and correlate social dialects with class, ethnicity and age."]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": ["方言差异可见于各个层面。英语中，美国英语多为卷舌音，如 car 读作 [kɑɹ]，而英国标准发音读作 [kɑː]；英格兰北部一些方言把 but 的元音读作 [ʊ]，南部读作 [ʌ]。汉语中，「人」普通话读 [ʐən³⁵]，粤语读 [jɐn²¹]，闽南语读 [laŋ²⁴]。语法上，北方话问「你去哪儿？」，粤语说「你去边度？」，用词与句型都有系统差别。"],
+     "pEn": ["Dialect differences appear at every level. In English, most American varieties are rhotic, pronouncing car as [kɑɹ], whereas Received Pronunciation is non-rhotic and has [kɑː]; some northern English dialects use [ʊ] where southern varieties have [ʌ] in but. In Chinese, 人 is [ʐən³⁵] in Mandarin, [jɐn²¹] in Cantonese and [laŋ²⁴] in Southern Min. Grammatically, northern Mandarin asks 你去哪儿? while Cantonese asks 你去边度?, differing systematically in both vocabulary and sentence pattern."]
+    },
+    {
+     "h": "分类",
+     "hEn": "Classification",
+     "p": ["方言通常分为地域方言与社会方言两大类。地域方言按地理分布划分，常形成方言区、方言片等层级，如汉语分为官话、吴、湘、赣、客家、粤、闽等大区。社会方言按说话人的社会属性划分，包括阶层方言、行业语、年龄变体与性别变体。此外还有因交际情境不同而形成的语域变体，以及个人特有的言语习惯即个人方言。不同类别的变体在真实语言生活中往往相互交织、共同作用。"],
+     "pEn": ["Dialects are usually divided into regional and social types. Regional dialects are classified geographically into areas and sub-areas; Chinese, for instance, is divided into Mandarin, Wu, Xiang, Gan, Hakka, Yue and Min groups. Social dialects are defined by speakers' social attributes, including class dialects, occupational varieties, age-graded and gender-related variation. Register varieties shaped by situation of use, and idiolects, the speech habits of an individual, are further categories. In real speech these types of variation overlap and interact."]
+    },
+    {
+     "h": "研究方法与理论",
+     "hEn": "Methodology and Theory",
+     "p": ["方言学传统上采用田野调查和问卷调查，绘制方言地图以显示同言线的分布，如《中国语言地图集》。社会语言学则用抽样调查与定量分析考察变项的分布，拉波夫在纽约市发现，词尾 r 的发音与社会阶层和语体正式度呈规律性相关。方言接触研究关注方言之间的借用、混合与趋同，如城市方言在城市化过程中向标准语靠拢。近年实验语音学与语料库方法也被广泛用于方言比较。"],
+     "pEn": ["Dialectology has traditionally relied on fieldwork and questionnaires, mapping isoglosses to display the distribution of features, as in the Language Atlas of China. Sociolinguistics uses sampling and quantitative analysis to study variable distribution: Labov showed in New York City that final r correlated regularly with social class and formality of style. Research on dialect contact examines borrowing, mixing and convergence, as when urban varieties shift towards the standard under urbanisation. Experimental phonetics and corpus methods are now widely used in dialect comparison."]
+    },
+    {
+     "h": "社会评价与争议",
+     "hEn": "Social Evaluation and Controversies",
+     "p": ["在日常语言意识中，方言常被赋予高低优劣的评价，某些口音被视为粗俗或乡土。语言学的基本立场是，所有方言在结构上都是完备自足的交际系统，所谓优劣只是社会评价而非语言属性。尽管如此，方言歧视在教育和就业中真实存在，可能影响说话人的发展机会。另一方面，方言的萎缩与语言濒危密切相关，许多地区方言的使用域正被标准语和通用语逐步取代。"],
+     "pEn": ["In everyday language attitudes, dialects are often ranked as better or worse, with some accents stigmatised as rustic or unrefined. The linguistic position is that every dialect is a complete and self-sufficient communicative system; judgements of quality are social evaluations, not linguistic properties. Nevertheless, dialect discrimination is real in education and employment and can affect speakers' opportunities. The decline of dialects is also closely linked to language endangerment, as standard and national languages increasingly take over their domains of use."]
+    }
+   ],
+   "terms": [
+    {"t": "地域方言", "tEn": "Regional dialect", "d": "按地理分布划分的语言变体，具有区域内共有的语音词汇特征。", "dEn": "A language variety defined by geographical distribution and shared by speakers of a region."},
+    {"t": "社会方言", "tEn": "Social dialect", "d": "与社会阶层、年龄、民族、性别等社会属性相关的语言变体。", "dEn": "A variety associated with social attributes such as class, age or ethnicity."},
+    {"t": "方言连续体", "tEn": "Dialect continuum", "d": "地理上相邻的方言变体逐渐过渡、彼此可懂度随之递减的方言链。", "dEn": "A chain of geographically adjacent varieties that shade into one another gradually."},
+    {"t": "同言线", "tEn": "Isogloss", "d": "方言地图上用来标示某一特定语言特征分布边界的界线，又称等语线。", "dEn": "A line on a dialect map marking the geographical boundary of a linguistic feature."},
+    {"t": "个人方言", "tEn": "Idiolect", "d": "单个说话人特有的语音、词汇与语法习惯的总和，又称个人语型。", "dEn": "The speech habits and linguistic system peculiar to an individual speaker."},
+    {"t": "方言学", "tEn": "Dialectology", "d": "研究方言的地理分布、结构特征与历史演变的语言学分支。", "dEn": "The branch of linguistics studying the distribution, structure and history of dialects."}
+   ],
+   "related": ["dialectology", "sociolinguistic-variable", "standard-language", "speech-community", "code-switching"],
+   "sources": [
+    "Wikipedia, \"Dialect\", https://en.wikipedia.org/wiki/Dialect",
+    "Chambers and Trudgill, Dialectology, 1980",
+    "Labov, The Social Stratification of English in New York City, 1966"
+   ]
+  },
+  {
+   "id": "standard-language",
+   "title": "标准语",
+   "en": "Standard Language",
+   "category": "concepts",
+   "tags": ["标准语", "语言标准化", "民族共同语", "普通话", "语言规划"],
+   "summary": "标准语是在一个言语社区中被制度化为规范形式的语言变体，通常用于教育、行政、媒体和正式书面写作。它通过选择、编定、功能扩展和接受四个环节形成，这一过程称为语言标准化。标准语并非在结构上优于其他变体，而是社会与政治选择的结果。汉语普通话、英语标准发音与标准美式英语都是典型例子。标准语与方言、语域的关系是语言规划与社会语言学的核心议题。",
+   "summaryEn": "A standard language is the variety institutionalised as the norm within a speech community, typically used in education, administration, the media and formal writing. It emerges through the four stages of selection, codification, elaboration of function and acceptance, a process known as standardisation. A standard variety is not structurally superior to others but the product of social and political choice. Mandarin Chinese, Received Pronunciation and Standard American English are familiar examples. Its relation to dialects and registers is central to language planning and sociolinguistics.",
+   "sections": [
+    {
+     "h": "定义与形成过程",
+     "hEn": "Definition and Standardisation",
+     "p": ["标准语又称标准变体，是被社会赋予权威地位、用于公共领域的语言形式。挪威语言学家豪根把标准化概括为四个环节：选择一种方言或变体作为基础，通过词典、语法书和正音规范加以编定，扩展其在新领域中的表达功能，最后由社区接受并使用。编定使标准语具有明确的正误标准，例如普通话以北京语音为标准音、以北方话为基础方言、以典范的现代白话文著作为语法规范。"],
+     "pEn": ["A standard language, or standard variety, is the form of a language granted social authority and used in public domains. The Norwegian linguist Einar Haugen summarised standardisation as four steps: selecting a variety as the base, codifying it through dictionaries, grammars and pronunciation norms, elaborating its functions in new domains, and securing acceptance by the community. Codification yields explicit norms of correctness; Mandarin, for example, takes the Beijing pronunciation as its standard, the northern dialects as its base and model modern vernacular writing as its grammatical norm."]
+    },
+    {
+     "h": "功能与社会作用",
+     "hEn": "Functions and Social Roles",
+     "p": ["标准语承担多重功能：它是跨地域交际的工具，使不同方言区的人能够相互理解；它是教育和行政的媒介，法律文书与教科书通常只用标准语书写；它还常被赋予民族认同的象征意义。在双言制社会中，标准语用于正式场合，地方变体用于日常交谈，两者分工明确，如阿拉伯语世界的标准阿拉伯语与各地口语。标准语同时是第二语言教学的主要目标形式。"],
+     "pEn": ["A standard language serves several functions. It is a tool of interregional communication, allowing speakers of different dialect areas to understand one another; it is the medium of education and administration, since legal texts and textbooks are normally written in it; and it often symbolises national identity. In diglossic societies the standard is reserved for formal settings while local varieties serve everyday talk, as with Standard Arabic and the regional vernaculars. The standard is also the principal target of second language teaching."]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": ["英语中标准形式并不唯一。英国的标准发音为非卷舌口音，如 car 读 [kɑː]，标准美式英语则读 [kɑɹ]。汉语普通话中，「这儿」常读作 [tʂɤɻ⁵¹]，儿化是标准音的显著特征。法语以法兰西岛方言为基础，通过法兰西学术院的规范确立标准。词形上，英语标准语区分 their 与 there、your 与 you're，非标准变体则可能混同；这些规范多由词典、正音词典与考试机构长期维持。"],
+     "pEn": ["English has more than one standard. Received Pronunciation is non-rhotic, pronouncing car as [kɑː], whereas Standard American English is rhotic and has [kɑɹ]. In Mandarin, 这儿 is commonly [tʂɤɻ⁵¹], and erhua is a salient feature of the standard pronunciation. French took the dialect of the Île-de-France as its base and codified it through the norms of the Académie française. In spelling, the English standard distinguishes their from there and your from you're, distinctions that non-standard varieties may collapse. Dictionaries and examination bodies maintain such norms."]
+    },
+    {
+     "h": "语言规划与批评",
+     "hEn": "Language Planning and Criticism",
+     "p": ["标准语的形成与语言规划密切相关，政府常通过正字法改革、术语标准化和推广政策来确立并传播标准语。批评者指出，标准化会边缘化地方变体，使方言使用者在教育中处于不利地位，也可能加剧社会不平等。布迪厄认为，标准语是一种语言资本，其权威来自国家与教育制度。另一方面，过度僵化的规范可能阻碍语言的自然演变，因此不少语言学家主张采取描述而非规定的立场。"],
+     "pEn": ["The formation of a standard language is bound up with language planning, as governments establish and spread it through spelling reforms, terminology standardisation and promotion policies. Critics argue that standardisation marginalises local varieties, disadvantages dialect speakers in education and may reinforce social inequality. Bourdieu treated the standard as linguistic capital whose authority derives from the state and the education system. Conversely, rigid norms may obstruct natural change, and many linguists therefore adopt a descriptive rather than prescriptive stance."]
+    }
+   ],
+   "terms": [
+    {"t": "标准语", "tEn": "Standard language", "d": "被制度化并被赋予权威地位、用于公共与正式场合的语言变体。", "dEn": "The variety institutionalised and granted authority for public and formal use."},
+    {"t": "标准化", "tEn": "Standardisation", "d": "通过选择、编定、功能扩展与接受确立规范变体的过程。", "dEn": "The process of establishing a norm variety through selection, codification, elaboration and acceptance."},
+    {"t": "编定", "tEn": "Codification", "d": "用词典、语法书和正音规范把语言形式固定为明确标准的过程。", "dEn": "Fixing linguistic forms as explicit norms in dictionaries, grammars and pronunciation guides."},
+    {"t": "双言制", "tEn": "Diglossia", "d": "标准语与地方变体按交际场合分工并存的稳定的社会语言格局。", "dEn": "A stable division of labour between a standard variety and regional varieties across settings."},
+    {"t": "语言规划", "tEn": "Language planning", "d": "政府或机构对语言的地位、形式与教学进行的有意干预和安排。", "dEn": "Deliberate intervention by authorities in the status, form and teaching of languages."},
+    {"t": "规定主义", "tEn": "Prescriptivism", "d": "主张按既定规范评判语言用法正误、强调正确用法的立场。", "dEn": "The stance that judges usage as correct or incorrect according to established norms."}
+   ],
+   "related": ["dialect", "diglossia", "language-ideology", "register", "sociolinguistics"],
+   "sources": [
+    "Wikipedia, \"Standard language\", https://en.wikipedia.org/wiki/Standard_language",
+    "Haugen, \"Dialect, Language, Nation\", American Anthropologist, 1966",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

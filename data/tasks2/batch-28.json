@@ -1,0 +1,24 @@
+{
+ "batch": 28,
+ "out": "data/gen2/batch-28.json",
+ "entries": [
+  {
+   "id": "dependency-grammar",
+   "title": "依存语法",
+   "en": "Dependency Grammar",
+   "category": "theories"
+  },
+  {
+   "id": "usage-based-linguistics",
+   "title": "基于用法的语言学",
+   "en": "Usage-based Linguistics",
+   "category": "theories"
+  },
+  {
+   "id": "head-driven-phrase-structure-grammar",
+   "title": "中心语驱动短语结构语法",
+   "en": "Head-driven Phrase Structure Grammar",
+   "category": "theories"
+  }
+ ]
+}

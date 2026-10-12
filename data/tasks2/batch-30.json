@@ -1,0 +1,24 @@
+{
+ "batch": 30,
+ "out": "data/gen2/batch-30.json",
+ "entries": [
+  {
+   "id": "phonetic-transcription",
+   "title": "标音",
+   "en": "Phonetic Transcription",
+   "category": "methods"
+  },
+  {
+   "id": "corpus-annotation",
+   "title": "语料标注",
+   "en": "Corpus Annotation",
+   "category": "methods"
+  },
+  {
+   "id": "sociolinguistic-interview",
+   "title": "社会语言学访谈",
+   "en": "Sociolinguistic Interview",
+   "category": "methods"
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "batch": 10,
+ "entries": {
+  "grimm-law": {
+   "summaryEn": "Grimm’s Law is a Germanic consonant shift proposed by Jacob Grimm, whereby the Proto-Indo-European stops changed systematically in Proto-Germanic: voiceless stops became voiceless fricatives, voiced stops became voiceless stops, and voiced aspirated stops became voiced stops. One of the earliest precisely formulated sound laws in historical linguistics, it provides powerful evidence for the regularity of sound change.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Background",
+     "pEn": [
+      "Grimm’s Law, also known as the First Germanic Sound Shift, describes the regular changes undergone by the Proto-Indo-European stop system in Proto-Germanic. The law was set out systematically by the German scholar Jacob Grimm in his Deutsche Grammatik (first edition 1819, revised 1822), from which its name derives. It shows that the consonant correspondences between Indo-European and Germanic are not isolated phenomena but a set of systematic correspondences that can be stated precisely.",
+      "Before Grimm, Rask had already noticed systematic consonant differences between Germanic and the other Indo-European languages; Grimm organised these observations into a complete law and integrated them into the framework of historical linguistics. The formulation of the law made it clear that sound change is regular and predictable, and it directly influenced the later Neogrammarian doctrine that sound laws admit no exceptions."
+     ]
+    },
+    {
+     "hEn": "The Three Sets of Correspondences",
+     "pEn": [
+      "Grimm’s Law can be summarised in three sets of correspondences. First, the Proto-Indo-European voiceless stops *p, *t, *k became the Proto-Germanic voiceless fricatives *f, *þ, *h. Second, the Proto-Indo-European voiced stops *b, *d, *g became the Proto-Germanic voiceless stops *p, *t, *k. Third, the Proto-Indo-European voiced aspirated stops *bʰ, *dʰ, *gʰ became the Proto-Germanic voiced stops *b, *d, *g.",
+      "These three changes form a closed chain of shift: the original voiced aspirates filled the voiced gaps, the voiced stops filled the voiceless gaps, and the voiceless stops turned into fricatives. Because the slots between the voiceless fricatives [f], [θ], [x] and the voiced stops [b], [d], [g] were refilled, the system as a whole remained distinct rather than merging, and this is regarded as an early example of a chain shift."
+     ]
+    },
+    {
+     "hEn": "Linguistic Illustrations",
+     "pEn": [
+      "The first set of correspondences can be seen in kinship terms: Latin pater and Sanskrit pitā correspond to English father, where Proto-Indo-European *p becomes Germanic f; Latin tres and Sanskrit trayas correspond to English three, where *t becomes þ (written th today); Latin centum [kentum] corresponds to English hundred, where *k becomes h. The second set appears in Latin duo beside English two, where *d becomes t, and Latin genu beside English knee, where *g becomes k.",
+      "The third set appears in Sanskrit bhrātar beside English brother, where the voiced aspirate *bʰ becomes b; in Sanskrit madhu ‘honey’ beside Old English medu ‘mead’; and in the historical form behind Sanskrit hanu ‘jaw’ and English chin. The sound correspondences in these examples are not isolated coincidences but regularities that can be repeatedly verified across a large number of lexical items, and they constitute the core evidence by which the comparative method establishes cognate relationships."
+     ]
+    },
+    {
+     "hEn": "Exceptions and Verner’s Law",
+     "pEn": [
+      "Grimm’s Law has a set of exceptions that are difficult to explain. For example, Latin pater corresponds to English father, where by the law *t should have become þ rather than d; in Latin centum beside English hundred the change of *k to h conforms to the law, yet certain cognates show a voiced fricative instead. These irregularities were for a time treated as counterexamples to the law, until the Danish scholar Verner offered an explanation in 1875.",
+      "Verner’s Law states that whether a Proto-Indo-European voiceless fricative became voiced depended on the position of the accent in the syllable preceding it: if the accent fell on the preceding syllable, the fricative was voiced; if the accent followed it, the fricative remained voiceless. Because Germanic later fixed the accent on the initial syllable, this condition has left traces in individual words, such as the source of d in father. Verner’s Law not only explains the exceptions to Grimm’s Law but in turn provides evidence for reconstructing the position of the Proto-Indo-European accent."
+     ]
+    },
+    {
+     "hEn": "Scholarly Significance and Criticism",
+     "pEn": [
+      "Grimm’s Law is a milestone in the history of historical linguistics. It showed that sound change can be stated as conditioned and systematic, thereby moving linguistics from scattered philological conjecture towards testable scientific explanation. Together with Verner’s Law and the Great Vowel Shift, it has become a standard teaching example of the regularity of sound change and of the conditions governing exceptions, and it is basic material for genealogical research on the Indo-European family.",
+      "Its limitations are also clearly recognised: the law describes the correspondences at the stage from Proto-Indo-European to Proto-Germanic, and both the precise dating and the internal periodisation remain disputed; individual words may deviate from the law through analogy, borrowing or morphological conditions; and the principle of exceptionless sound change has been modified in sociolinguistic variation research, since sound change in its diffusion involves lexical diffusion and social variation. Grimm’s Law should therefore be regarded as a highly generalised statistical regularity rather than a mechanical formula without exceptions."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Grimm’s Law", "dEn": "The law describing the systematic shift of Proto-Indo-European stops in Proto-Germanic, formulated by Grimm; also called the First Sound Shift."},
+    {"tEn": "consonant shift", "dEn": "A change in which the consonants of a language or family shift as a group, as in Grimm’s Law."},
+    {"tEn": "Verner’s Law", "dEn": "The law explaining exceptions to Grimm’s Law: whether a Proto-Indo-European voiceless fricative became voiced depended on the preceding accent."},
+    {"tEn": "Proto-Germanic", "dEn": "The common ancestor of the Germanic languages, whose consonant system underwent the shift described by Grimm’s Law."},
+    {"tEn": "Neogrammarians", "dEn": "A late nineteenth-century German school holding that sound change proceeds by exceptionless laws and stressing sound laws and analogy."},
+    {"tEn": "analogy", "dEn": "The process by which speakers remodel irregular forms on a regular pattern, often creating exceptions to sound laws."}
+   ]
+  },
+  "chinese-characters": {
+   "summaryEn": "Chinese characters are the writing system used to record Chinese, one of the world’s oldest scripts still in use and one that is primarily logographic. Characters record morphemes and syllables, are formed by pictographic, indicative, associative and phono-semantic principles, evolved through oracle-bone, bronze, seal, clerical and regular scripts, and spread to Japan, the Korean peninsula and Vietnam.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Nature",
+     "pEn": [
+      "Chinese characters are the system of written symbols used to record Chinese. Their basic unit is the individual character (zì), one character normally corresponding to one syllable and usually to one morpheme. Unlike alphabetic writing, which takes the phoneme or the syllable as its unit, the written form of a Chinese character is linked directly to the meaning and the pronunciation of a morpheme; a single character can therefore be used by people in different regions across dialect boundaries, as with 「水」, which is pronounced differently in different dialects but has the same meaning.",
+      "In terms of writing-system typology, Chinese characters belong to the morphosyllabic type: they record the minimal sound–meaning unit of the language rather than mere sound. Phono-semantic compounds make up the overwhelming majority of modern characters, with a semantic component indicating the meaning category and a phonetic component suggesting the pronunciation, as in 「江」 and 「河」, whose semantic component 「氵」 indicates water and whose phonetic components 「工」 and 「可」 suggest the reading. This structure gives Chinese characters both a semantic and a phonetic component."
+     ]
+    },
+    {
+     "hEn": "Principles of Formation: The Six Scripts",
+     "pEn": [
+      "Traditional Chinese philology uses the ‘six scripts’ (liùshū) to summarise how characters are constructed and used: pictographs, simple indicatives, compound indicatives, phono-semantic compounds, derivative cognates and phonetic loans. Pictographs depict the shape of things, as in 「日」, 「月」, 「山」 and 「木」; simple indicatives mark abstract notions with symbols, as in 「上」, 「下」, 「本」 and 「末」; compound indicatives combine two or more components to express a new meaning, as in 「休」, which represents a person resting against a tree, and 「信」, made up of 「人」 and 「言」.",
+      "Phono-semantic compounds consist of a semantic component and a phonetic component, as in 「江」, 「河」, 「铜」 and 「简」, and they are the main means by which the inventory of characters expanded. Derivative cognates and phonetic loans generally do not create new character forms: a phonetic loan borrows a homophonous character to write a word that has no character of its own, as when 「其」 (a winnowing basket) was borrowed for the pronoun 「其」; derivative cognates, by contrast, refer to a group of characters of related meaning that can gloss one another, and their precise definition has been interpreted differently through the ages."
+     ]
+    },
+    {
+     "hEn": "A Brief History of Development",
+     "pEn": [
+      "The earliest forms of Chinese characters appear in the oracle-bone inscriptions of the Shang dynasty (roughly the fourteenth to eleventh centuries BCE) and in the bronze inscriptions of the Shang and Zhou. Their forms are strongly pictographic and show many variants. After the scripts of the Warring States period and their unification in the Qin small seal script, character forms became more regular. The emergence of the clerical script turned the rounded, curving lines of the script into flat, straight strokes; known as the ‘clerical change’ (lìbiàn), this marks the division between ancient and modern script forms. From the Wei and Jin periods onwards the regular script became the standard and has been used ever since.",
+      "The Shuowen Jiezi (Explaining Graphs and Analysing Characters) compiled by Xu Shen of the Eastern Han (completed around 100 CE) contains more than nine thousand characters and was the first work to organise characters by radicals and to analyse their forms; it is the founding work of Chinese character studies and Chinese graphology. Later dictionaries and rhyme books such as the Yupian, the Guangyun and the Kangxi Zidian continued to add material, while modern works such as the Table of General Standard Chinese Characters serve to regulate character form, pronunciation and inventory."
+     ]
+    },
+    {
+     "hEn": "Form, Sound and Meaning, and Transmission Abroad",
+     "pEn": [
+      "The written form of a Chinese character does not directly indicate its modern pronunciation, and the phonetic function of the phonetic component weakens as the language changes. For example, 「青」 suggests different initial consonants and tones in 「清」, 「情」, 「请」 and 「晴」, yet the finals of this group of characters still show a correspondence of the [iŋ] type, indicating that the phonetic value of the component belongs to a historical layer. Moreover, the phonetic components of characters that had the entering tone in earlier Chinese often fail to indicate the pronunciation accurately in modern Standard Chinese, as with 「白」 beside 「伯」 and 「柏」.",
+      "Chinese characters spread to neighbouring regions and formed the Chinese character cultural sphere. Japan borrowed characters and developed hiragana and katakana while retaining large numbers of on-readings and kun-readings; the Korean peninsula used Chinese characters for a long period before creating Hangul; Vietnam used chữ Nôm and Chinese characters before French colonisation; and the Khitan, Tangut and Jurchen scripts were also inspired by the forms and formation principles of Chinese characters. These borrowings and imitations reflect the far-reaching influence of Chinese characters as a shared regional writing tradition."
+     ]
+    },
+    {
+     "hEn": "Simplification, Standardisation and Informatisation",
+     "pEn": [
+      "Since the twentieth century, the simplification and standardisation of Chinese characters have become major issues. Mainland China promulgated the Scheme for Simplifying Chinese Characters in 1956 and compiled the General Table of Simplified Characters in 1964, reducing strokes and merging some variant forms while preserving the basic structure of the writing system; Singapore, Malaysia and other places also adopted simplified characters, whereas Taiwan, Hong Kong and Macao continue to use mainly traditional characters. Simplification has reduced the burden of writing but has also raised problems such as conversion between traditional and simplified forms and the reading of ancient texts.",
+      "In the information age, the input and encoding of Chinese characters have become key issues. Schemes such as the Wubi method and pinyin input solved the problem of keyboard entry, and character sets such as GB, Big5 and Unicode allow Chinese characters to be represented and exchanged uniformly on computers and networks. In recent years, character recognition, handwriting input and artificial-intelligence processing have matured, enabling this ancient writing system to continue to function in the digital environment."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Chinese characters", "dEn": "The writing system that records Chinese, with units corresponding to syllables and morphemes; a still-used independently created script."},
+    {"tEn": "six scripts", "dEn": "The six traditional categories of character formation and use: pictograph, simple indicative, compound indicative, phono-semantic, derivative cognate and phonetic loan."},
+    {"tEn": "phono-semantic compound", "dEn": "A character formed from a semantic component and a phonetic component, such as 「江」 or 「河」; the largest character class."},
+    {"tEn": "clerical change", "dEn": "The Qin–Han transition from seal to clerical script, turning rounded lines into flat strokes and dividing ancient from modern forms."},
+    {"tEn": "Shuowen Jiezi", "dEn": "Xu Shen’s Eastern Han dictionary, which first organised characters by radicals and analysed their forms; a classic of graphology."},
+    {"tEn": "simplified characters", "dEn": "Standard character forms created by reducing strokes and merging variant forms, used in mainland China, Singapore and elsewhere."}
+   ]
+  },
+  "sino-tibetan": {
+   "summaryEn": "The Sino-Tibetan family is the second largest language family by number of speakers after Indo-European, spoken across China, Southeast Asia and the Himalayan region; it is generally taken to comprise the Sinitic and Tibeto-Burman branches. Its languages typically have monosyllabic roots, tones and little inflectional morphology, and both its internal classification and the reconstruction of Old Chinese remain much debated.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Distribution",
+     "pEn": [
+      "The Sino-Tibetan family (Sino-Tibetan family) refers to the family formed by a group of languages descended from the common ancestor Proto-Sino-Tibetan, whose members are spoken in China, Myanmar, Thailand, Nepal, Bhutan, northeastern India and elsewhere. The member with the largest number of speakers is Chinese, followed by Burmese, Tibetan, Yi, Zhuang, Miao and others. The area of distribution is topographically complex and contains a very large number of languages, many of which lack historical documents, which brings great difficulties to genealogical research.",
+      "Compared with the Indo-European family, comparative research on Sino-Tibetan began later: the eighteenth and nineteenth centuries produced mostly scattered observations, and systematic reconstruction emerged only in the twentieth century. Because Chinese has more than three thousand years of documentary records, it is important material for Sino-Tibetan comparison, yet the fact that its script does not directly represent sound also increases the difficulty of tracing earlier pronunciations."
+     ]
+    },
+    {
+     "hEn": "Classification and Branches",
+     "pEn": [
+      "The more widely accepted classification divides Sino-Tibetan into two branches, Sinitic and Tibeto-Burman. The Sinitic branch comprises the Chinese dialects, such as Mandarin, Wu, Yue, Min and Hakka; whether these count as different languages depends on the criteria used to distinguish languages from dialects. The Tibeto-Burman branch contains many languages and is usually further divided into the Tibetan, Lolo-Burmese, Jingpo and Qiang subgroups, with Tibetan, Burmese, Yi and Jingpo as its representatives.",
+      "The affiliation of the Kam-Tai and Hmong-Mien groups has long been disputed. Earlier classifications placed them within Sino-Tibetan, but many scholars hold that they have no genetic relationship with Sino-Tibetan and should be set up separately as the Austro-Tai and Hmong-Mien families, or combined with the Austronesian family. This controversy concerns the criteria for identifying cognates and the distinction between borrowing and typological similarity, and it is one of the central disagreements in Sino-Tibetan studies."
+     ]
+    },
+    {
+     "hEn": "Phonological and Grammatical Features",
+     "pEn": [
+      "Sino-Tibetan languages show clear commonalities in typology: roots are mostly monosyllabic, the syllable is structured in terms of initial, final and tone, and tone has a meaning-distinguishing function. In Standard Chinese, for example, 「妈」 [ma⁵⁵], 「麻」 [ma³⁵], 「马」 [ma²¹⁴] and 「骂」 [ma⁵¹] are distinguished in meaning by tone alone; Lhasa Tibetan, Burmese and Yi also have tonal systems, though their tone categories and tone values differ.",
+      "Examples of cognates include the numeral ‘three’: Chinese sān, written Tibetan gsum, Burmese thum:; ‘five’: Chinese wǔ, Tibetan lnga, Burmese nga:; and the first person ‘I’: Chinese wǒ, Tibetan nga, Burmese nga. Grammatically, Sino-Tibetan languages generally lack the noun cases and verbal person marking of the Indo-European type; word order and function words carry the main grammatical load, as in the Chinese 「我吃饭」, a subject–verb–object construction, whereas Tibetan and Yi mostly use verb-final order and mark arguments with case particles."
+     ]
+    },
+    {
+     "hEn": "Writing Systems and Documents",
+     "pEn": [
+      "The Sino-Tibetan family possesses a variety of scripts of different origins. Chinese characters are the only ancient script that has been in continuous use, recording more than three thousand years of Chinese; Tibetan and Burmese writing derive from the Indian Brāhmī script and are alphabetic; Yi script and the Naxi Dongba script, by contrast, are indigenous or developed under the influence of Chinese characters. These scripts differ greatly in the time of their creation and in how far they represent sound, and their value for the study of phonological history varies accordingly.",
+      "Historical documents provide important evidence for reconstruction: oracle-bone and bronze inscriptions and the rhyme books of the Qieyun tradition allow the Middle Chinese phonological system to be reconstructed fairly completely; Tibetan writing, created in the seventh century, has a relatively stable orthography that preserves clues to Old Tibetan phonology; and Burmese inscriptions also reach back to early Burmese. By contrast, Tibeto-Burman languages without writing can only be reconstructed internally from modern dialects and fieldwork materials."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticism",
+     "pEn": [
+      "Disagreement in Sino-Tibetan studies centres on three issues. First, the boundary between cognates and loanwords is hard to draw, since long-standing contact among Southeast Asian languages has led to mutual lexical penetration. Second, reconstructions of Old Chinese differ considerably, and there is no consensus on whether it had morphological alternation or initial consonant clusters. Third, there is no agreement on the internal hierarchy of the family or on the dating of the split of the ancestor language; some scholars argue for combining Sino-Tibetan with Kam-Tai, Hmong-Mien and Austronesian into a larger ‘Sino-Austronesian’ superfamily, but the evidence is insufficient.",
+      "In addition, the affiliation of the Chinese dialects, the position of Bai and Tujia, and the criteria for classifying cross-border languages are handled differently because of differences in politics, ethnicity and scholarly tradition. In recent years, the perspectives of language contact and linguistic areas have supplemented and modified the purely genealogical tree model."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "Sino-Tibetan family", "dEn": "The language family descended from Proto-Sino-Tibetan, consisting mainly of the Sinitic and Tibeto-Burman branches, spoken in East and Southeast Asia."},
+    {"tEn": "Tibeto-Burman", "dEn": "The branch of Sino-Tibetan with the most languages, including Tibetan, Burmese, Yi and Jingpo, whose internal division is much disputed."},
+    {"tEn": "tone", "dEn": "A phonological feature distinguishing word meaning by pitch variation, such as the four tones of Standard Chinese; typical of Sino-Tibetan."},
+    {"tEn": "monosyllabic root", "dEn": "A root carrying basic lexical meaning and grammatical function in monosyllabic form, an important feature of Sino-Tibetan morphological structure."},
+    {"tEn": "cognate", "dEn": "A word in different languages derived from the same ancestral word, showing regular sound–meaning correspondences; key evidence of genetic relationship."},
+    {"tEn": "Austro-Tai", "dEn": "A proposed genetic classification grouping Kam-Tai, Hmong-Mien and Austronesian languages, whose relation to Sino-Tibetan remains disputed."}
+   ]
+  },
+  "language-family": {
+   "summaryEn": "A language family is the highest-level classification of languages by genetic relationship: languages descended from a single ancestor language and showing systematic sound and vocabulary correspondences belong to the same family. Families are established by the comparative method, with Indo-European and Sino-Tibetan as classic examples, but the family-tree model is often inadequate in the face of language contact and dialect continua and must be supplemented by other perspectives.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Hierarchy",
+     "pEn": [
+      "A language family (language family) is the largest unit in the genetic classification of languages in historical linguistics; it denotes a group of languages that have developed by divergence from a single parent language (parent language or protolanguage). Whether two languages belong to the same family depends not on typological similarity but on the presence of systematic cognate material: sets of lexical correspondences, regular sound correspondences and comparable grammatical morphemes.",
+      "Below the family there are usually further levels such as the branch and the sub-branch, forming a family tree. In the Indo-European family, for example, the Germanic branch divides into North, West and East Germanic, and West Germanic further includes English, German, Dutch and others; languages at the same level differ in how closely they are related, and the branching structure of the tree represents the order in which the splits occurred. Ancestor languages are usually reconstructed with an asterisk, as in Proto-Indo-European *pətēr or Proto-Sino-Tibetan *g-sum."
+     ]
+    },
+    {
+     "hEn": "Methods of Establishing a Family",
+     "pEn": [
+      "The genetic relationship of languages is established mainly by the comparative method. Researchers first look for cognates, such as the correspondences among English three, Latin tres, Greek treis and Sanskrit trayas, and then generalise sound-correspondence rules, such as the change of Proto-Indo-European *p to Germanic f, thereby raising mere phonetic similarity to the status of a predictable systematic correspondence. Correspondences in morphology and grammar are often more convincing than lexical ones, because grammatical morphemes are borrowed less often.",
+      "Besides the comparative method, internal reconstruction can reconstruct an earlier stage from irregular alternations within a single language, as the vowel alternation in English tooth and teeth points to an earlier morphophonological change. Documentary materials, dialect geography and layers of loanwords also provide important evidence. It should be stressed that typological similarity (for instance, that both Chinese and Vietnamese have tones) is not sufficient to prove common origin; borrowing and parallel development caused by contact must be excluded."
+     ]
+    },
+    {
+     "hEn": "Examples and Scale of Classification",
+     "pEn": [
+      "Widely recognised language families include Indo-European, Sino-Tibetan, Afro-Asiatic (Hamito-Semitic, including Arabic, Hebrew and Hausa), Niger-Congo, Austronesian (including the indigenous languages of Taiwan, Malay and Hawaiian), Dravidian, Uralic and Altaic (whose validity is still disputed). There are in addition many isolate languages: for instance, the kinship of Basque, Japanese and Korean remains undetermined.",
+      "Families vary greatly in size: Niger-Congo contains more than a thousand languages, while some families have only a few members. There are roughly six to seven thousand languages in the world, but most lack documentary records, and their genealogical affiliation can only be determined gradually through fieldwork and comparative research, which makes the classification of families a long-term undertaking subject to continual revision."
+     ]
+    },
+    {
+     "hEn": "Limitations of the Tree Model and Controversies",
+     "pEn": [
+      "The family-tree model assumes that languages arise through continual divergence, but in reality language contact is equally common. Long-term contact can produce a linguistic area (Sprachbund), as on the Balkan peninsula, where Greek, Bulgarian, Romanian and Albanian have converged grammatically although they belong to different branches; adjacent regions of a dialect continuum are mutually intelligible, so sharp boundaries are often artificial. These phenomena show that the tree model is only a useful abstraction.",
+      "Modern research therefore often combines the family tree with the wave model and social-network models in order to describe both vertical inheritance and horizontal diffusion. Another controversy concerns distant kinship and ‘superfamily’ hypotheses such as Nostratic or Sino-Austronesian, which have not won general acceptance because their time depth is too great and the available evidence too sparse. Methodologically, any genealogical hypothesis must be testable and falsifiable."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "language family", "dEn": "The largest unit in the genetic classification of languages: a set of languages descended from one ancestor with systematic correspondences."},
+    {"tEn": "protolanguage", "dEn": "The common source language of a family or branch, usually undocumented, reconstructed from daughter languages and marked with an asterisk."},
+    {"tEn": "family tree", "dEn": "A tree-shaped model representing the divergence of languages, whose branches reflect degrees of kinship and the order of splits."},
+    {"tEn": "Sprachbund", "dEn": "A regional community of languages that have converged phonologically and grammatically through long contact despite having no genetic relationship."},
+    {"tEn": "isolate", "dEn": "A language with no provable genetic relationship to any known language, such as Basque, whose family affiliation cannot be determined."},
+    {"tEn": "internal reconstruction", "dEn": "A linguistic method that reconstructs an earlier stage from irregular alternations and distributional restrictions within a single language."}
+   ]
+  }
+ }
+}

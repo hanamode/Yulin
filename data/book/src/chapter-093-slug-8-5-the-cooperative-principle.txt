@@ -1,0 +1,145 @@
+# 8.5 The Cooperative Principle
+
+Part 1 video (the Cooperative Principle):
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#oembed-1
+
+## The Cooperative Principle
+
+In this section, we will discuss the conversational logic behind why certain implicatures arise in discourse. Let’s start with the following example in (1).
+
+[表格]
+| | | (1) | | Aya: | | | | | Did Raj feed the cat and clean the litterbox? | | | | | | | Bo: | | | | | He fed the cat. | | | | | | | Aya: | | | | | (Infers: ‘He didn’t clean the litterbox.’) | | | |
+
+Terminologically, the speaker/signer creates an implicature or they imply that content. The addressee makes an inference or they infer that content.
+
+We use speaker/signer and addressee in this chapter to discuss the dichotomy of “producer of utterance” vs. “person at whom the utterance was directed”. Where we are referring to the producer of an utterance in a spoken language in particular, we will use speaker. Where we are referring to the producer of an utterance in a signed language in particular, we will use signer. When we are referring to ‘producer of utterance’ in a more general way not specific to modality, we will use speaker/signer. Outside of this textbook, you may encounter just “speaker” being used to mean ‘producer of utterance (not specific to modality)’. Some signed language users do not have a problem with this use of “speaker“, but many signed language users think a more modality-inclusive term should be used. Some other alternatives for this include: utterer/addressee, addressor/addressee, author/addressee, sender/perceiver, producer/perceiver, sender/receiver, sender/recipient, and communicator/audience.
+
+The basic idea of why we get this implicature in this context is that if Raj had fed the cat and cleaned the litterbox, Bo would’ve said so. He didn’t in this case, so Aya can infer that only Raj fed the cat is true, and that Raj cleaned the litterbox is false. Here is how this implicature would be calculated by Aya:
+
+- I asked Bo if Raj fed the cat and cleaned the litterbox.
+- I assume that Bo would only tell me things that are true.
+- I assume that Bo would give me the maximally informative answer to my question.
+- Bo could’ve answered “Raj fed the cat and cleaned the litterbox”, “Raj fed the cat”, “Raj cleaned the litterbox,” or “Raj didn’t feed the cat or clean the litterbox”.
+- If the actual facts were that Raj fed the cat AND cleaned the litterbox, then the following answers would be logically true statements: “Raj fed the cat and cleaned the litterbox,” “Raj fed the cat,” and “Raj cleaned the litterbox”.
+- However, if Raj actually fed the cat AND cleaned the litterbox, “Raj fed the cat and cleaned the litterbox” would be the more informative thing to say than “Raj fed the cat” or “Raj cleaned the litterbox”.
+- In actuality, Bo only said “Raj fed the cat.” This must be because if he said “Raj fed the cat and cleaned the litterbox,” it would be a false statement.
+- Therefore, it must be the case that only Raj fed the cat is true, and that Raj cleaned the litterbox is false.
+
+This way of analysing how implicatures arise in discourse is called the Cooperative Principle, proposed by philosopher Paul Grice. He proposed that one way of explaining how we get implicatures in a conversation is to think that there are implicit conversational principles that discourse participants follow. According to the Cooperative Principle, the major underlying assumption that we make in a conversation is that all discourse participants are acting in a way to accomplish conversational goals. For example, let’s say that the topic of discussion was “How much money should we spend on our cat’s birthday party?”. If everyone in the conversation agrees that the goal is to figure out a reasonable cost for the party, then all discourse participants assume that everyone in the conversation is acting in a reasonable way and uttering things in order to accomplish this goal. This is what is meant by “cooperation” in the Cooperative Principle. Specifically, Grice described four maxims (or general rules of conduct) that might be the basis of many conversations: the Maxim of Quality, Maxim of Quantity, Maxim of Relation, and Maxim of Manner. The idea is that if these are the conversational rules that people follow (and if people assume that other people follow these rules too), then there is an explanation of why certain implicatures arise in discourse.
+You will notice that the maxims are stated as imperatives (e.g., “do this!”, “don’t do that!”). These are not meant to be prescriptive “do’s” and “don’t’s”. They should be taken as a way to describe someone’s pragmatic knowledge in a language. It’s similar to how phonological rules can be stated like “turn voiceless consonants into voiced consonants!” or “don’t voice the consonant if you already have a voiced obstruent in the morpheme!”. Grice at one point describes the Cooperative Principle as something that is “REASONABLE for us to follow” and something that “we SHOULD NOT abandon” (Grice 1975, p.48; emphasis his). Sometimes this is misinterpreted to mean that the Cooperative Principle is a set of prescriptive rules, something along the lines of “if you don’t follow these rules, you are not a good language user”. However, that is not what he meant. A better interpretation of the Cooperative Principle goes something like this: IF discourse participants have a common immediate goal in the conversation, THEN it is in their best interest to follow something like the Cooperative Principle (Grice 1975, p.49). Grice pondered that this type of assumption may be an extension of cooperative transactions in general, not limited to language: if you and I agreed to get a car fixed together, it would be in our best interest to act in a cooperative way to accomplish this goal (Grice 1975, p.48).
+Of course, what counts as “cooperative” in a conversation might be different depending on what kind of conversation it is (Grice 1975, p.48): what if you are fighting? Or writing a letter? Or making a witness statement in court? For the sake of exemplifying how the Cooperative Principle works, our examples in this chapter will be “ordinary” conversations (e.g., casual conversations between friends, family, or roommates). But after you are done reading or listening to this chapter, you are encouraged to think further about how the Cooperative Principle might work differently in other types of discourse!
+Speaking of variation, we have seen already that conversational rules can vary from community to community, meaning that what counts as “cooperative” might vary depending on who the interlocutors are (not just the discourse genre). We will study the Cooperative Principle as applied to various linguistic communities, and you are also encouraged to think about how conversational rules might differ in your own culture(s)! The linguist way of thinking about the Cooperative Principle is that it is subject to variation within and across language communities.
+Keeping all of this in mind, let’s take a look at the four maxims that Grice described.
+
+Part 2 video (Maxim of Quality):
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#oembed-2
+
+## The Maxim of Quality
+
+Grice observed that discourse participants seem to follow a conversational rule about being honest. He stated this rule as the Maxim of Quality: in a conversation, you say what you believe to be true, and only say what you have sufficient evidence for. For your convenience, our previous example is reproduced below as (2).
+
+[表格]
+| | | (2) | | Aya: | | | | | Did Raj feed the cat and clean the litterbox? | | | | | | | Bo: | | | | | He fed the cat. | | | | | | | Aya: | | | | | (Infers: ‘He didn’t clean the litterbox.’) | | | |
+
+This maxim says that the fundamental assumption that you make in discourse is that no one is lying in the conversation. Aya gets the the inference from Bo’s statement in (2) partially because she assumes he would only say true things. Their logic is that Bo must have not said Raj cleaned the litterbox because it would be false to say so.
+If the Maxim of Quality is violated, someone would be overtly lying in the discourse. Imagine for example that the conversation in (2) took place, except that Raj never fed the cat (or clean the litterbox for that matter). Bo is being blatantly uncooperative in this conversation in this case. When a maxim is violated in a conversation, it gives rise to the intuition that something has gone wrong in the discourse. In this case, the objective in the conversation was to figure out if Raj fed the cat and if Raj cleaned the litterbox, but now Aya incorrectly thinks Raj did feed the cat. This does not help with the objective of the conversation, hence, something has gone wrong. Note that if Bo is a good liar, Aya might not realise that something has gone awry in the discourse during the conversation. But if it was revealed later that Raj didn’t feed the cat, Aya would certainly feel that the conversation she previously had with Bo was not a cooperative one: a maxim was violated.
+In English and many languages, failure to try is what is considered a maxim violation. That is, if you were not trying to follow Quality at all, knew the statement was false but uttered it anyway, that is what is considered a violation. Let’s assume for a moment again that Raj actually didn’t feed the cat. If Bo truly thought that Raj fed the cat, saying “He fed the cat” would technically not be a violation under the Cooperative Principle. English users likely wouldn’t wouldn’t accuse Bo of “lying” because Bo truly had the belief that he was telling the truth (Carson 2006). Bo said something false but didn’t lie.
+What is considered a maxim violation can vary from language to language. In Mopan / Mopan Maya (an indigenous language of the Mayan family in Eastern Central America, spoken by Mopan people), falsehoods are characterised as tus ‘lying’ regardless of whether the speaker was aware of the falsehood at the time of utterance or not (Danziger 2010). So in Mopan, if Raj didn’t feed the cat but Bo said he did with the sincere belief that he did so, Bo’s utterance would still be considered a tus. It should be noted that tus has a negative connotation, much like the word lie in English: in Mopan, there is moral disapproval of falsehoods (Danziger 2010). This parameter for the Maxim of Quality in Mopan has interesting implications for how fiction is treated in the language/culture. Consider the following anecdote from a linguist who studied this phenomenon (Danziger 2010):
+
+“One or two prosperous Mopan families have since the 1980s owned electrical generators and VCRs. But it has always been difficult in remote Mopan communities to find tapes to play on them. When I left the village after my first long stay (and before I had begun researching issues of truth and lies in Mopan), I was asked to bring back videotapes for entertainment when I returned. I did so. The first commercial tape which I supplied was Walt Disney’s The Jungle Book. It was received with enthusiasm, as I had hoped it would be—it is colorful and amusing and because of the rainforest setting proved very interpretable even to older and monolingual Mopan people. But it does show some troubling scenes. In this film, a baby is abandoned in the forest and taken by wild beasts— and they don’t eat him. Later, the boy develops the disturbing habit of playing happily with jungle cats and other wild animals. Perhaps most alarming of all, in one choreographed scene Mowgli not only touches but actually dances with Kaa the snake. In Southern Belize constrictors are unknown, but the region is home to snakes which harbor some of the world’s fastest-acting and deadliest poisons. At last one day a good friend asked me doubtfully if all of this were really true. When I answered that of course it was not, I was surprised at her shocked reaction. She seemed to think that if this story was not true, it could only be considered tus ‘‘lies’’. I discovered that this conclusion holds true for all areas in which narrative output must be assessed or evaluated in Mopan. While narratives in various media offer fascinating plots and themes, no classificatory distinction is made in Mopan between stories involving supernatural creatures and those involving actual accounts of events in the speaker’s own life. If stories are discovered not to be true, they are not excused as fictions, they are condemned as tus.” (Danziger 2010, p.213)
+
+In summary, the Maxim of Quality is paraphrasable as “don’t lie” and “make sure you have enough evidence for what you’re saying”, which is a maxim common to a lot of languages — but what counts as a lie (= a violation of the maxim) may vary from community to community. Later, in Section 8.6 , we will see that what counts as “enough evidence” can vary from person to person as well.
+
+Part 3 video (Maxim of Quantity):
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#oembed-3
+
+## The Maxim of Quantity
+
+Grice also observed that discourse participants seem to follow a conversational rule about how much information they should give when trying to meet conversational goals. He stated this as the Maxim of Quantity: in a conversation, don’t be more informative than is needed by the purpose of the conversation, and don’t be less informative than is needed by the purpose of the conversation, either. You need to be as informative as is required. Informativity is generally measured based on entailment relations. This definition of informativity is given below. Take p and q to be variables for sentences.
+
+[表格]
+| | | (3) | | | | | | If | p entails q | (and | p | and | q | are not the same sentence), then | p | is more informative than | q | . | | |
+
+By this definition, Panks is a Siberian Forest Cat (=p) is more informative than Panks is a cat (=q), because p entails q and they are not the same sentence. Let’s go back to our original example, reproduced below as (4).
+
+[表格]
+| | | (4) | | Aya: | | | | | Did Raj feed the cat and clean the litterbox? | | | | | | | Bo: | | | | | He fed the cat. | | | | | | | Aya: | | | | | (Infers: ‘He didn’t clean the litterbox.’) | | | |
+
+The relevant entailment relation is between Raj fed the cat and Raj fed the cat and cleaned the litterbox. The latter sentence entails the former; so, Raj fed the cat and cleaned the litterbox is more informative than Raj fed the cat.
+To understand how this maxim works, imagine in (4) that Bo knew that Raj actually fed the cat AND cleaned the litterbox, and still said what he said (“He fed the cat.”). This would be a violation of the Maxim of Quantity, because the statement He fed the cat is underinformative: the more informative thing to say in this situation would be Raj fed the cat and cleaned the litterbox. If Aya found out after the conversation in (4) that Raj actually cleaned the litterbox too, Aya would likely feel that Bo was being uncooperative in the conversation they had (“Why didn’t you tell me he cleaned the litterbox too, if you knew?!”). Bo didn’t make a false statement, but the true statement that he did make wasn’t the most informative one. This also is the case in Bronston v. United States (1973) from Section 8.3: Bronston was not being maximally informative in the courtroom, which is why he was accused of being deceptive.
+The flip side of this is being OVERinformative. For this, imagine this version of the previous discourse:
+
+[表格]
+| | | (5) | | Aya: | | | | | Did Raj feed the cat and clean the litterbox? | | | | | | | Bo: | | ?? | | | Yes, he fed the cat, he cleaned the litterbox, he brushed the cat, he trimmed the cat’s claws, he told the cat what a good boy he was, he pet the cat, he napped with the cat… | | | |
+
+Assume that Raj actually did all of the things that Bo said he did. This means that Quality is not being violated. What IS being violated is Quantity. This time, he gave more information than what was requested by Aya’s question. A simple “Yes (he fed the cat and cleaned the litterbox)” would’ve sufficed to meet the objective of the conversation.
+Note that depending on what other linguistic and extra-linguistic factors there are, withholding information is not necessarily seen as “uncooperative”. Consider the translation of the following conversation in Malagasy, an Austronesian language spoken in Madagascar (Keenan (1976) does not provide the original utterances in Malagasy, just the English translations):
+
+[表格]
+| | | (6) | | A: | | | | | Where is your mother? | | | | | | | B: | | | | | She is either in the house or at the market. | | | |
+
+If you are an English user, because of the disjunction or, you may have drawn the inference that speaker B does not have the specific information pertaining to their mother’s whereabouts: if speaker B knew exactly where she was, they would’ve said so. In Malagasy, that type of inference is unlikely. For Malagasy users, information that isn’t already publicly known to everyone is highly valued, meaning that having exclusive knowledge about something is highly regarded (Keenan 1976). Because this cultural value, speaker A is more likely to infer something like ‘B is superior to me at this moment’ in this kind of conversation (Prince 1982). Even if speaker B knew that speaker A actually knew the whereabouts of their mother, the conversation in (6) would still not be considered uncooperative because speaker A would have the understanding that speaker B is saying what they are saying to accrue social currency.
+
+Part 4 video (Maxim of Relation):
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#oembed-4
+
+## The Maxim of Relation
+
+Another one of Grice’s observation was that discourse participants seem to expect each other to stay on topic during a conversation. He described this as the Maxim of Relation: make your contributions to the conversation relevant to what is being discussed. Consider the following conversation in (7).
+
+[表格]
+| | | (7) | | Aya: | | | | | I used to take piano lessons when I was little. What sorts of extracurricular activities did you do as a kid? | | | | | | | Bo: | | | | | Nice. When I was little, I used to go to weekly swimming classes. | | | |
+
+This is a perfectly normal and cooperative conversation, because Aya brought up the topic of what things they did in their childhood. Bo responds with something that is related to this topic: what he did as a child, which in this case is take swimming classes. The Maxim of Relation is being followed.
+Contrast this with Bo’s reply in (8), which for some people is a slightly more surprising turn in the conversation.
+
+[表格]
+| | | (8) | | Aya: | | | | | I used to take piano lessons when I was little. What sorts of extracurricular activities did you do as a kid? | | | | | | | Bo: | | ?? | | | When I was little, my favourite food was chicken nuggets. | | | |
+
+Assuming that Bo is not lying, Bo has said something truthful, thus Bo is following the Maxim of Quality. We don’t get the sense that he is oversharing or undersharing, and he has at least said something about his childhood, which is to some extent informative — so Quantity doesn’t seem like the main maxim being violated either. The main reason that (7) might feel odd to some adult English users is because Bo is off topic. The topic under discussion is “what extracurricular activities did you do as a child”, so to stay on topic you would minimally name events, not stative properties like what your favourite food was. This in this context would be a violation of the Maxim of Relation.
+If you find yourself thinking things like ‘Well, maybe Bo means that he took cooking classes, or that he didn’t do any extracurriculars at all?’, that is a valid inference you are trying to draw. Section 8.6 will clarify why you feel the impulse to make sense of Bo’s utterance.
+
+Part 5 video (Maxim of Manner, and other possible maxims):
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#oembed-5
+
+## The Maxim of Manner
+
+Grice’s fourth and final observation was that discourse participants seem to have an expectation about how they say things in a conversation too, not just what they say. He described this as the Maxim of Manner: be as clear, brief, and as orderly as possible when you make your contributions in a conversation. Consider the following conversation (Note: the hand-washing instructions are adapted from this CDC guideline).
+
+[表格]
+| | | (9) | | Aya: | | | | | How do I properly wash my hands? | | | | | | | Bo: | | ?? | | Dry your hands using a clean towel or air dry them. Scrub your hands for at least 20 seconds. Lather the backs of your hands, between your fingers, and under your nails. Rinse your hands well under clean, running water. Lather your hands by rubbing them together with the soap. Wet your hands with clean, running water. Turn off the tap, and apply soap. | | |
+
+Bo’s instructions are truthful, in that each step he listed indeed are things you do when you wash your hands. His contribution is also appropriately informative, and relevant to the question that was asked by Aya. However, Bo said the instructions in a funny way: he didn’t list the steps in order. So the oddness of Bo’s utterance mainly comes from a violation of the Maxim of Manner. For Bo to conform to the Maxim of Manner, we would of course have to change the order in which he presented each step:
+
+[表格]
+| | | (10) | | Aya: | | | | | How do I properly wash my hands? | | | | | | | Bo: | | | | Wet your hands with clean, running water. Turn off the tap, and apply soap. Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails. Scrub your hands for at least 20 seconds. Rinse your hands well under clean, running water. Dry your hands using a clean towel or air dry them. | | |
+
+The Maxim of Manner essentially says that the way that you present the information should not get in the way of transmitting the information. So under the scope of this maxim are things like the order in which you present information, whether your statement is ambiguous, which words you choose, how quickly you speak or sign, and how loud you speak (for spoken languages). The Maxim of Manner sees quite a bit of cultural variation. For example, what is considered to be an appropriate “manner” of speaking may depend on things like cultural expectations about expressions of emotion (Wierzbicka 2009), and different values attached to veiled speech (Ameka & Terkourafi 2019). For example, in some African cultures it is not necessarily considered “uncooperative” to make one’s utterance obscure, long-winded, and vague (Ameka & Terkourafi 2019).
+
+## Other possible maxims
+
+Note that the above four maxims are not meant to be an exhaustive list of maxims. Grice himself speculated that there are probably more than just these four maxims in language (Grice 1975, p.47).
+One of the maxims that Grice mentioned, but did not elaborate on, is the Maxim of Politeness. Some researchers think this maxim is needed (Kallia 2007, Pfister 2009), while others think it is not necessarily a maxim (Brown & Levinson 1987) — but there is a general consensus that politeness is something that has relevance in discourse. Some languages, like Japanese, Korean, and Thai, have specific affixes you must use for expressing politeness! Pfister (2009) has proposed the following as the Maxim of Politeness: Do not impose on the addressee (avoid unnecessary imposition), and show approval of the desires and actions of the addressee. To not “impose” means to not force the other person to do what they don’t necessarily want to do (e.g., not asking them to take you to the airport on their day off). To “show approval of the desires and actions” means to show that what the other person wants is desirable (e.g., complimenting their haircut).
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=869#h5p-84
+
+## References
+
+Ameka, F. K., & Terkourafi, M. (2019). What if…? Imagining non-Western perspectives on pragmatic theory and practice. Journal of Pragmatics, 145, 72-82.
+Brown, P., & Levinson, S. C. (1978). Universals in language usage: Politeness phenomena. In Questions and Politeness: Strategies in Social Interaction (pp. 56-311). Cambridge University Press.
+Carson, T. L. (2006). The Definition of Lying. Noûs, 40(2), 284–306. http://www.jstor.org/stable/3506133
+Danziger, E. (2010). On trying and lying: Cultural configurations of Grice’s Maxim of Quality, 7(2), 199-219. https://doi.org/10.1515/iprg.2010.010
+Grice, H. P. (1975). Logic and conversation. In Speech Acts (pp. 41-58). Brill.
+Kallia, A. (2007). Politeness and implicature: Expanding the cooperative principle. Kovač.
+Keenan, E. O. (1976). The universality of conversational postulates. Language in Society, 5(1), 67-80.
+Pfister, J. (2010). Is there a need for a maxim of politeness?. Journal of Pragmatics, 42(5), 1266-1282.
+Prince, E. F. (1982). Grice and universality: A reappraisal.
+Wierzbicka, A. (2009). Cross-cultural pragmatics. De Gruyter Mouton.

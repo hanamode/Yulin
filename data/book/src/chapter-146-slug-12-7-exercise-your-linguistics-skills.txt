@@ -1,0 +1,27 @@
+# 12.9 Exercise your linguistics skills
+
+## Exercise 1.
+
+The phonetic inventory of French includes a pair of tense and lax high, front, rounded vowels [y] and [ʏ], as illustrated in the following words:
+
+[表格]
+| | | [lʏn] | | | moon | | | | | [tʀʏk] | | | thing, trick | | | | | [lynɛt] | | | glasses | | | | | [tʀyke] | | | to rig or falsify | | | |
+
+These two vowels are not part of the English phonetic inventory. What substitutions are L1 English learners of French likely to make when they pronounce these words? Explain the reasoning for your predictions.
+
+## Exercise 2.
+
+German includes the following phones:
+- the voiceless post-alveolar fricative /ʃ/, which contrasts with
+- a phoneme that has two allophones: voiceless velar fricative [x] and voiceless palatal fricative [ç].
+
+Given what you know about English phonology, how easy or difficult will it be for an L1 speaker of English to learn this contrast in German? Explain how you arrived at your conclusion.
+
+## Exercise 3.
+
+Think about your mental grammar in your L1. Consider the phonetics and phonology, lexicon, morphology, syntax, semantics and pragmatics. What parts of your language knowledge would you classify as declarative knowledge? What parts are more like procedural knowledge?
+Now think about any language you’ve learned later than your L1. Would you classify the parts of your grammatical knowledge in your later language the same ways?
+
+## Exercise 4.
+
+Think about your experience of learning a later language. What parts of your L1 grammar led to a positive transfer to your later language? What parts of your L1 created a negative transfer to your later language? Consider phonetics and phonology as well as morphology and syntax.

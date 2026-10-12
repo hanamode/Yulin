@@ -1,0 +1,25 @@
+{
+ "batch": 58,
+ "chapter": "Chapter 11: Child Language Acquisition",
+ "out": "data/book/gen/batch-58.json",
+ "sections": [
+  {
+   "id": "chapter-133-slug-11-6-understanding-word-combinations",
+   "title": "11.6 Understanding word combinations",
+   "src": "data/book/src/chapter-133-slug-11-6-understanding-word-combinations.txt",
+   "chars": 7884
+  },
+  {
+   "id": "chapter-134-slug-11-7-syntax-in-early-utterances",
+   "title": "11.7 Syntax in early utterances",
+   "src": "data/book/src/chapter-134-slug-11-7-syntax-in-early-utterances.txt",
+   "chars": 7161
+  },
+  {
+   "id": "chapter-135-slug-11-8-developing-meaning",
+   "title": "11.8. Developing word meanings",
+   "src": "data/book/src/chapter-135-slug-11-8-developing-meaning.txt",
+   "chars": 11254
+  }
+ ]
+}

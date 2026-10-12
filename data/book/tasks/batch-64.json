@@ -1,0 +1,19 @@
+{
+ "batch": 64,
+ "chapter": "[In progress] Chapter 13: Psycholinguistics and Neurolinguistics",
+ "out": "data/book/gen/batch-64.json",
+ "sections": [
+  {
+   "id": "chapter-149-in-progress-evidence-for-language-specific-phonology",
+   "title": "13.3 Evidence for language-specific phonology",
+   "src": "data/book/src/chapter-149-in-progress-evidence-for-language-specific-phonology.txt",
+   "chars": 8845
+  },
+  {
+   "id": "chapter-150-slug-13-4-evidence-for-top-down-effects-of-word-knowledge-on-perception",
+   "title": "13.4 Evidence for ‘top-down’ effects of word knowledge on perception",
+   "src": "data/book/src/chapter-150-slug-13-4-evidence-for-top-down-effects-of-word-knowledge-on-perception.txt",
+   "chars": 4782
+  }
+ ]
+}

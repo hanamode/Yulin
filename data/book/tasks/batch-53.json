@@ -1,0 +1,25 @@
+{
+ "batch": 53,
+ "chapter": "Chapter 10: Language Variation and Change",
+ "out": "data/book/gen/batch-53.json",
+ "sections": [
+  {
+   "id": "chapter-121-slug-10-6-sociolinguistic-correlations-place",
+   "title": "10.6 Sociolinguistic correlations: Place",
+   "src": "data/book/src/chapter-121-slug-10-6-sociolinguistic-correlations-place.txt",
+   "chars": 9682
+  },
+  {
+   "id": "chapter-122-slug-10-7-sociolinguistic-correlations-social-status",
+   "title": "10.7 Sociolinguistic correlations: Social status",
+   "src": "data/book/src/chapter-122-slug-10-7-sociolinguistic-correlations-social-status.txt",
+   "chars": 5383
+  },
+  {
+   "id": "chapter-123-slug-10-8-sociolinguistic-correlations-gender",
+   "title": "10.8 Sociolinguistic correlations: Gender",
+   "src": "data/book/src/chapter-123-slug-10-8-sociolinguistic-correlations-gender.txt",
+   "chars": 19415
+  }
+ ]
+}

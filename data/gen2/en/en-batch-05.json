@@ -1,0 +1,277 @@
+{
+ "batch": 5,
+ "entries": {
+  "language-acquisition": {
+   "summaryEn": "Language acquisition studies how human beings come to command a language, whether in natural settings or under instruction, with particular attention to children's mastery of a first language within a few years and without systematic teaching. Central issues include the stages and sequences of acquisition, the role of input, the interplay of an innate linguistic capacity with postnatal experience, and the debate over the critical period hypothesis and universal grammar. It is a major research area within psycholinguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Scope of Research",
+     "pEn": [
+      "Language acquisition refers to the processes and mechanisms by which human beings gradually come to command a language in natural communicative settings, and is conventionally divided into first language (native) acquisition and second language acquisition. Krashen distinguishes 'acquisition' from 'learning': the former is a subconscious process of internalisation that takes place in genuine communication, whereas the latter is a conscious classroom process relying on rule explanation and error correction. Although this distinction is controversial, it highlights the distinctive character of language acquisition.",
+      "The central questions of the field include the following: How do children master a complex grammatical system in only three or four years, without systematic instruction or explicit correction? Why do adults learning a second language often fail to attain native-like proficiency? Which information in the input is exploited and which is ignored? What do an innate linguistic capacity and postnatal experience each contribute? These questions make language acquisition an interdisciplinary meeting ground for psychology, linguistics and neuroscience."
+     ]
+    },
+    {
+     "hEn": "Stages of Acquisition",
+     "pEn": [
+      "First language acquisition broadly follows predictable stages. In the months after birth the babbling stage begins, and at about six to eight months canonical babbling appears, with alternating consonants and vowels such as [bababa], whose syllable structure already approximates the phonotactics of the target language. Around the first birthday the first words appear, and children use single words to express complete intentions, as when a Chinese-speaking child says 抱 'hold' to mean 'I want you to hold me'.",
+      "At about eighteen to twenty-four months children enter the two-word stage, producing telegraphic speech such as 'Mommy sock' or 妈妈抱 'Mommy hold', which contains only content words and lacks function words and inflectional markers. Thereafter sentence length grows rapidly and overgeneralisation appears, as when English-speaking children say goed (went) or foots (feet), or when a Chinese-speaking child passes through a stage such as 我昨天去 'I went yesterday' with aspect markers omitted before producing 我昨天去公园了 'I went to the park yesterday'. Overgeneralisation shows precisely that children are not mechanically imitating but actively inducing and extending rules."
+     ]
+    },
+    {
+     "hEn": "Major Theories",
+     "pEn": [
+      "Behaviourism, represented by Skinner, holds that language acquisition, like other behaviour, proceeds through imitation, reinforcement and habit formation, and rests on stimulus-response associations. This view struggles to explain why children produce sentences they have never heard, why they make rule-generalisation errors, and why acquisition is so rapid.",
+      "Nativism, represented by Chomsky, proposes that children are born with a language acquisition device (LAD) and universal grammar (UG), and argues from the poverty of the stimulus that input is both limited and noisy and cannot support the induction of such abstract rules, so that innate linguistic knowledge must be posited. By contrast, cognitive and functional approaches emphasise general cognitive abilities, social interaction and input frequency: Tomasello's usage-based theory holds that children abstract grammar gradually from concrete constructions, while connectionism models statistical learning with neural networks."
+     ]
+    },
+    {
+     "hEn": "Research Methods and Examples",
+     "pEn": [
+      "Research methods include naturalistic observation and parental diaries, cross-sectional surveys, longitudinal tracking and experimental techniques. Since infants cannot report, researchers use the high-amplitude sucking procedure, the headturn preference procedure and eye tracking: experiments show that infants of one or two months can already discriminate [p] from [b] and [pa] from [ba], indicating that sensitivity to phonetic categories develops before speech production.",
+      "Berko's (1958) 'Wug test' is a classic demonstration: children were shown a picture of a fictitious animal called a wug and then shown two pictures with the prompt 'Now there are two ___', and most four-year-olds answered wugs, showing that they had mastered the English plural rule and could extend it to new words. Large child language corpora such as CHILDES provide the empirical basis for cross-linguistic comparison, and corpus-based studies have systematically examined tone acquisition, classifier acquisition and ba-construction acquisition in Chinese-speaking children."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "The critical period hypothesis is one focus of debate. Lenneberg proposed that a sensitive period for language acquisition closes before puberty, and cases of aphasic patients and of the isolated child 'Genie' are often cited; Johnson and Newport's (1989) study of English-speaking immigrants showed that the later the age of arrival, the lower the ultimate level of grammatical attainment. Critics point out, however, that adults can also acquire new languages, that evidence for a critical period is often confounded with psychosocial factors, and that the sensitive period looks more like a gradual decline than an abrupt closure.",
+      "A second debate revolves around the poverty-of-the-stimulus argument. Corpus research has found that input contains abundant statistical regularities sufficient to support frequency-based learning, so that an innate grammar may not be necessary. The opposition between universal grammar and usage-based theory, together with research on first language transfer, age effects and individual differences in second language acquisition, constitutes the principal tension in contemporary acquisition research."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "language acquisition device", "dEn": "The innate cognitive device posited by Chomsky as dedicated specifically to the acquisition of linguistic rules."},
+    {"tEn": "critical period hypothesis", "dEn": "The claim that language acquisition has a biologically privileged window of time that gradually closes around puberty."},
+    {"tEn": "universal grammar", "dEn": "The system of innate linguistic principles and parameters shared by humans, proposed by Chomsky as the basis of first language acquisition."},
+    {"tEn": "overgeneralisation", "dEn": "Children's extension of a learned rule to exceptional cases, as in English goed and foots, showing that rules are actively constructed."},
+    {"tEn": "interlanguage", "dEn": "The developing, independent language system that a second language learner constructs between the native language and the target language."}
+   ]
+  },
+  "phoneme": {
+   "summaryEn": "A phoneme is the smallest sound unit in a particular language that can distinguish word meanings; it is not a specific phonetic segment but an abstract set of phonetically similar segments whose distributions are complementary and which do not contrast in meaning. The identification of phonemes rests on minimal pair tests and the analysis of complementary distribution, and the notion is a core concept of phonology.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "A phoneme is the smallest phonological unit that can distinguish word meanings or morphological forms within the phonological system of a particular language or dialect. It is an abstract unit at the level of language, not a sound that can be measured physically; what a speaker actually produces is always a concrete variant of a phoneme, that is, an allophone. Whether two sounds belong to different phonemes depends not on how great the auditory difference between them is, but on whether they can create a contrast in meaning in the same position.",
+      "In English, for example, [p] and [b] contrast in pin [pʰɪn] (a pin) and bin [bɪn] (a bin), so English has the two phonemes /p/ and /b/; [p] and [pʰ], by contrast, do not distinguish meaning in English, and the difference between spin [spɪn] (to spin) and pin [pʰɪn] is determined by syllable position, so the two belong to the same phoneme /p/. Mandarin Chinese behaves in the opposite way: [p] and [pʰ] constitute the two phonemes /p/ (爸 [pa⁵¹] 'father') and /pʰ/ (怕 [pʰa⁵¹] 'to fear')."
+     ]
+    },
+    {
+     "hEn": "Methods of Establishing Phonemes",
+     "pEn": [
+      "The most basic method of establishing a phoneme is to seek minimal pairs: if two words differ in meaning although their phonetic environments are identical except for one segment, that segment belongs to different phonemes. Where no minimal pair can be found, complementary distribution together with phonetic similarity may be used: if two phones never occur in the same phonetic environment and are phonetically similar, they are usually treated as the conditioned variants of one phoneme; if their distributions are complementary but they differ greatly in phonetic form, they should be regarded as distinct phonemes.",
+      "There are also auxiliary procedures such as the commutation test, parallel distribution tests and phonotactic analysis. The Prague School further proposed that a phoneme can be decomposed into a set of distinctive features (such as [±voice], [±aspiration] and [±nasal]), so that contrasts among phonemes are stated as differences in a feature matrix; this laid the foundation for later generative phonology."
+     ]
+    },
+    {
+     "hEn": "Classification and Properties of Phonemes",
+     "pEn": [
+      "Phonemes are usually divided into segmental and suprasegmental phonemes. Segmental phonemes comprise consonantal and vocalic phonemes; suprasegmental phonemes (also called non-segmental phonemes) comprise tone, stress, intonation and the like, for example the four tonal phonemes of Mandarin /55/, /35/, /214/ and /51/, which equally serve to distinguish meaning: /ma⁵⁵/ '妈 mother' and /ma²¹⁴/ '马 horse' differ only in tone.",
+      "Functionally, phonemes may also be classified into single phonemes and phoneme combinations, or, according to their distributional capacity, into core phonemes and marginal phonemes. The number of phonemes varies greatly across languages: Hawaiian has about thirteen, whereas some Caucasian languages have more than eighty. A phoneme inventory and its phonotactic rules constitute the basic profile of a language's phonological system and are an important parameter in typological comparison."
+     ]
+    },
+    {
+     "hEn": "Theoretical Development and Controversies",
+     "pEn": [
+      "The concept of the phoneme was first adumbrated by Russian scholars such as Baudouin de Courtenay and Shcherba, and was systematised by Trubetzkoy and Jakobson of the Prague School, becoming a cornerstone of structuralist linguistics. American structuralism (Bloomfield, Sapir, Hockett) developed a procedural method centred on distributional analysis, insisting that phonemes be induced from phonetic data.",
+      "With the rise of generative phonology, the phoneme came to be seen as an intermediate level between underlying and surface representation, and its independent status was weakened, some scholars arguing that distinctive features and rules should replace phonemic units. Whether the phoneme has psychological reality is also disputed: speech perception experiments show that listeners tend to categorise sounds according to their native phoneme categories, which supports the psychological reality of the phoneme, but other studies point to the fuzziness and gradient character of phoneme boundaries."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "phoneme", "dEn": "The smallest sound unit in a given language that distinguishes word meaning, an abstract set of phonetic variants."},
+    {"tEn": "distinctive feature", "dEn": "A binary phonetic property into which phonemic contrasts can be decomposed, such as [±voice], [±aspiration] and [±nasal]."},
+    {"tEn": "contrast", "dEn": "The relation in which two phonemes occur in the same phonetic environment and thereby create a difference in meaning, the basis for distinguishing phonemes."},
+    {"tEn": "complementary distribution", "dEn": "The distributional relation in which two phones never occur in the same phonetic environment, often taken as evidence that they are variants of one phoneme."},
+    {"tEn": "allophone", "dEn": "A concrete phone actually produced as an instance of a phoneme under different conditions, whether conditioned or free."},
+    {"tEn": "suprasegmental phoneme", "dEn": "A distinctive unit carried by a syllable or a larger unit, such as tone, stress and intonation."}
+   ]
+  },
+  "allophone": {
+   "summaryEn": "An allophone is a concrete phone that actually occurs as the realisation of a given phoneme in different phonetic environments or under free conditions. Allophones of the same phoneme are phonetically similar and do not distinguish meaning, and they typically stand in complementary distribution or may be substituted freely. They fall into conditioned and free variants and form the crucial link between abstract phonemes and physical speech.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "An allophone is the phonetic form actually produced by a phoneme in a particular phonetic environment. The phoneme is an abstract phonological unit, and the allophone is its realisation in speech. Variants belonging to the same phoneme cannot form a contrast in meaning in the same phonetic environment; speakers usually perceive them as 'the same sound' and notice only slight differences.",
+      "English /p/, for instance, has at least the two variants [pʰ] and [p]: the p of pin [pʰɪn] (a pin) is aspirated, whereas the p of spin [spɪn] (to spin) is unaspirated. Because the two occur in mutually exclusive positions and substituting one for the other produces no new word, English speakers treat them as one /p/. In Mandarin Chinese, by contrast, [p] and [pʰ] belong to different phonemes, which shows that the phonemic status of the same set of phones can differ completely from one language to another."
+     ]
+    },
+    {
+     "hEn": "Conditioned Variants and Free Variants",
+     "pEn": [
+      "Conditioned variants (combinatory variants, or contextual allophones) are variants whose occurrence is constrained by the phonetic environment, so that their position is predictable. English /l/ is clear [l] before a vowel (as in leaf [liːf]) and dark [ɫ] word-finally or before a consonant (as in feel [fiːɫ] and milk [mɪɫk]), the two standing in complementary distribution. Mandarin /a/ likewise has several conditioned variants: a front vowel [a] in [an], a back vowel [ɑ] in [ɑŋ], and [æ] in [iɛn].",
+      "Free variants are variants of one phoneme that may be substituted freely in the same phonetic environment without any difference in meaning; their occurrence is not conditioned by context and is often associated with individual, social or regional factors. In some Chinese dialects, for example, [n] and [l] are freely interchangeable, so that '脑 brain' and '老 old' are homophonous; in English, word-final [t] is often realised as a flap [ɾ] or a glottal stop [ʔ]. The distribution of free variants has sociophonetic significance and often provides a window on linguistic variation."
+     ]
+    },
+    {
+     "hEn": "Analytical Methods",
+     "pEn": [
+      "The identification of allophones rests above all on distributional analysis: if two phones occur in perfectly complementary environments and are phonetically similar, they may be assigned to the conditioned variants of a single phoneme; if their distributions are complementary but they differ substantially (as with English [h] and [ŋ]), they should still be regarded as distinct phonemes. One must further check whether a minimal pair exists: once a contrast is found, the two sounds cannot be merged.",
+      "The study of allophones relies on instrumental phonetic techniques such as acoustic analysis (measuring VOT and formants) and articulatory research (palatography, ultrasound), which allow the phonetic differences among variants to be described precisely. Optimality Theory, for its part, explains the selection of variants through the ranking of constraints: different variants are the outcome of competition among the same underlying form within a system of constraints, a perspective that advances the study of variation from static description to explanatory theory."
+     ]
+    },
+    {
+     "hEn": "Significance and Theoretical Status",
+     "pEn": [
+      "The concept of the allophone resolves the question of why the same sound has different actual pronunciations, allowing phonological description to be both abstract and concrete. It is an indispensable component of phonemic theory: only through variants does the abstract phoneme establish contact with observable phonetic facts, and the division of labour between phonetics and phonology is clarified accordingly.",
+      "Allophones are also closely connected with language acquisition and with second language pronunciation teaching. In acquiring their native language, children must establish phonemic categories and ignore non-distinctive differences among variants; second language learners, by contrast, often misjudge the variant relations of the target language because their native phonemic system differs, as when they treat the Chinese aspiration contrast as an English-style difference among variants. Sociolinguistics likewise uses the study of variants to reveal the links between phonetic variation, speaker identity and speech style."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "allophone", "dEn": "A concrete phonetic form in which a phoneme is actually realised in different phonetic environments or under free conditions."},
+    {"tEn": "conditioned variant", "dEn": "An allophone whose occurrence is constrained by the phonetic environment and whose position is predictable, standing in complementary relation to other variants."},
+    {"tEn": "free variant", "dEn": "An allophone that may be freely substituted in the same phonetic environment without any difference in meaning, often linked to individual or social factors."},
+    {"tEn": "complementary distribution", "dEn": "The distributional relation in which two phones occur in mutually exclusive environments, a key basis for assigning them to one phoneme."},
+    {"tEn": "phoneme", "dEn": "The smallest sound unit in a given language that distinguishes word meaning; allophones are its realisations in speech."},
+    {"tEn": "phone", "dEn": "The smallest sound unit defined by the natural properties of speech, the entity that constitutes allophones."}
+   ]
+  },
+  "sound-change": {
+   "summaryEn": "Sound change is the regular alteration of a language's phonological system over the course of its history and is a central object of study for both historical linguistics and phonology. The Neogrammarians held that sound change is exceptionlessly regular, while analogy, borrowing and social factors account for apparent exceptions; cases such as Grimm's Law and the Great Vowel Shift reveal the conditioned nature of change and the mechanisms by which it spreads.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Sound change refers to any regular evolution of a language's phonological system over time, including changes in the manner and place of articulation of segments, increases or decreases in the number of phonemes, and adjustments to phonotactic restrictions. Change may be gradual and almost imperceptible to contemporaries, or relatively rapid and abundantly documented in the written record. It is the fundamental basis on which historical linguistics explains linguistic diversification and genetic relationships, and a natural laboratory in which phonology tests its theories.",
+      "Sound change is intimately connected with synchronic variation. Labov proposed that we should 'use the present to explain the past': the phonetic variation distributed today within a community by social class, age and style is often a cross-section of a change in progress. If a variant continues to spread among the younger generation and eventually replaces the older form, synchronic variation crystallises into historical change. Historical linguistics and sociolinguistics have therefore become increasingly integrated in their methods."
+     ]
+    },
+    {
+     "hEn": "Types",
+     "pEn": [
+      "By conditioning, sound changes may be divided into unconditioned and conditioned changes. Unconditioned changes take place in all phonetic environments, such as the devoicing of all word-final stops in a language; conditioned changes occur only in particular environments, such as the nasalisation of vowels before nasals (French bon [bɔ̃]) or the palatalisation of consonants before high vowels. By mechanism, one distinguishes assimilation (the convergence of segments, as when in- becomes im- before possible), dissimilation, weakening and loss, epenthesis, metathesis, monophthongisation and diphthongisation.",
+      "By mode of diffusion, the traditional view of regular sound change holds that a single change acts simultaneously on all lexical items in identical conditions, whereas the theory of lexical diffusion proposed by Wang Shiyuan maintains that change advances word by word through the lexicon, so that the same change may be at different stages in different words, leaving 'residues'. Labov's research further shows that change also diffuses layer by layer through social groups."
+     ]
+    },
+    {
+     "hEn": "Classic Examples",
+     "pEn": [
+      "Grimm's Law describes the systematic development of the Proto-Indo-European stops into Proto-Germanic: the voiceless stops *p, *t and *k became the fricatives *f, *θ and *x, and the voiced stops *b, *d and *g became the voiceless stops *p, *t and *k. Thus Latin pater is cognate with English father, and Latin tris with English three. The law has exceptions; Verner discovered that these depended on the position of the Proto-Indo-European accent, so that the exceptions themselves received an explanation, a landmark in the methodological triumph of the Neogrammarians.",
+      "The Great Vowel Shift is the systematic change of the long vowels from Middle English to Early Modern English: /iː/ diphthongised to /aɪ/ (mice, bite), /uː/ diphthongised to /aʊ/ (mouse, house), /eː/ raised to /iː/ (see, meet), and /oː/ raised to /uː/ (moon, food). Chinese also has classic changes of its own, such as the devoicing of the fully voiced obstruent initials of Middle Chinese and the change known as 'voiced rising tones become departing' (浊上变去), whereby syllables with a rising tone and a fully voiced obstruent initial merged with the departing tone, as with 道 and 坐, which are pronounced with the departing tone today."
+     ]
+    },
+    {
+     "hEn": "Regularity and Exceptions",
+     "pEn": [
+      "'Sound laws admit no exceptions' was the core slogan of the Neogrammarians: a sound change necessarily applies to all eligible lexical items under the same phonetic conditions, and any exception must be explicable. Common sources of exceptions include analogy, as when the English plural rule is extended and repairs morphological irregularity caused by sound change; borrowing, since loanwords enter a language without undergoing its native changes; dialect mixture; and residue left by lexical diffusion.",
+      "In Chinese, second-division words with the Middle Chinese 见 initial underwent palatalisation in the modern period, the initial changing from [k] to [tɕ], as in 家 [tɕia] and 江 [tɕiaŋ], whereas first-division words remained unchanged, as in 哥 [kɤ] and 古 [ku]. Palatalisation is thus a conditioned sound change whose conditioning factor lies in the division and grade of the rhyme. Such neat correspondences delimited by phonetic conditions are precisely what enables the comparative method to reconstruct earlier pronunciation."
+     ]
+    },
+    {
+     "hEn": "Research Methods and Causes",
+     "pEn": [
+      "The main methods for studying sound change are the comparative method, internal reconstruction, philological investigation, dialect geography and sociolinguistic variation studies. The comparative method reconstructs the phonological system of a proto-language and formulates correspondence rules by systematically comparing cognate forms in related languages; internal reconstruction infers earlier forms from the regularity of alternations within a single language. Documentary materials such as rhyme dictionaries, phonetic annotations, rhymes and transcriptions provide direct evidence for languages such as Chinese that have a long written tradition.",
+      "As for the causes of sound change, several explanations have been proposed: weakening and assimilation arising from articulatory economy and coarticulation, reanalysis prompted by confusion in the listener's perception, the pressure of the phonological system towards symmetry and distinctiveness, and diffusion driven by social identification and prestige. Modern phonological theories such as Optimality Theory attempt to formulate sound change as a diachronic re-ranking of constraints, but the prediction of sound change remains an unsolved problem."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "sound law", "dEn": "The Neogrammarian hypothesis that under the same phonetic conditions a sound change applies exceptionlessly to all relevant lexical items."},
+    {"tEn": "conditioned sound change", "dEn": "A sound change that occurs only in a specific phonetic environment, such as the nasalisation of a vowel before a nasal."},
+    {"tEn": "assimilation", "dEn": "A change in which adjacent or nearby segments become more alike in articulatory features, as when in- becomes im- before possible."},
+    {"tEn": "lexical diffusion", "dEn": "The theory proposed by Wang Shiyuan that sound change spreads word by word through the lexicon rather than affecting all items simultaneously."},
+    {"tEn": "Grimm's Law", "dEn": "A set of correspondence rules explaining the systematic development of the Proto-Indo-European stops into Proto-Germanic."},
+    {"tEn": "the Great Vowel Shift", "dEn": "The historical change in which the long vowels of Middle English were systematically raised or diphthongised in Early Modern English."}
+   ]
+  },
+  "optimality-theory": {
+   "summaryEn": "Optimality Theory is a generative linguistic theory proposed by Prince and Smolensky in the 1990s, holding that universal grammar consists of a set of violable constraints and that cross-linguistic differences arise from different rankings of those constraints. The grammar evaluates candidate outputs and selects the optimal form, the one that incurs the fewest violations; the framework has since spread from phonology to morphology, syntax and semantics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition",
+     "pEn": [
+      "Optimality Theory (OT) was proposed by Alan Prince and Paul Smolensky in 1993 and represents an important theoretical shift within generative linguistics. Its basic assumption is that what universal grammar supplies is not rules but a set of universally present constraints; differences among particular languages lie not in the presence or absence of rules but in the different rankings of those constraints.",
+      "Unlike the ordered rewrite rules of generative phonology, OT constraints are violable, and no candidate ever satisfies all of them. The task of the grammar is to adjudicate among several conflicting constraints, and the candidate that satisfies the most important constraint while incurring the least serious violation is judged 'optimal'. This replacement of rule derivation by constraint interaction is the framework's most distinctive feature."
+     ]
+    },
+    {
+     "hEn": "Basic Mechanism",
+     "pEn": [
+      "The OT model of grammar has three components. The generator (GEN) produces infinitely many possible output candidates for a given input; the constraint set (CON) is the content of universal grammar and contains two major classes, markedness constraints and faithfulness constraints; and the evaluator (EVAL) compares candidates from the top of the language's constraint hierarchy downwards and selects the optimal one.",
+      "The evaluation process is usually represented by a tableau. Take the borrowing of English strike into Japanese, where the output is ストライキ sutoraiki, with an inserted vowel eliminating a complex onset such as [str]. If the markedness constraint 'no complex onsets' outranks the faithfulness constraint 'no insertion of segments', the candidate with the inserted vowel wins despite violating faithfulness, because it does not violate the more important markedness constraint; if the ranking is reversed, the output is strike. Different rankings yield different results for the same input."
+     ]
+    },
+    {
+     "hEn": "Types of Constraints",
+     "pEn": [
+      "Faithfulness constraints require the output to be identical to the input; typical examples are MAX-IO (no deletion of segments), DEP-IO (no insertion of segments) and IDENT-IO (no change of feature values). They express the input's hold over the output and ensure that forms do not deviate arbitrarily from the underlying forms of the lexicon.",
+      "Markedness constraints require the output to avoid structurally complex or typologically rare patterns, such as NOCODA (no syllable codas), *COMPLEX (no complex onsets), ONSET (syllables must have an onset) and *VOICED-CODA (no voiced codas). Cross-linguistic tendencies are thereby encoded as constraints, and when a particular language violates these tendencies is determined by the ranking."
+     ]
+    },
+    {
+     "hEn": "Linguistic Examples",
+     "pEn": [
+      "Final devoicing in German is a classic object of OT analysis. The underlying form /hund/ 'dog' is actually pronounced [hʊnt], the final /d/ becoming [t]. If the markedness constraint *VOICED-CODA (no voiced stops in codas) outranks the faithfulness constraint IDENT(voice), the devoiced candidate [hʊnt] wins; the corresponding ranking in English is the reverse, so that the final voiced sound of dog is retained.",
+      "Mandarin Chinese has no voiced-voiceless contrast in stop codas and its syllable structure is highly restricted, and it too can be described within the same framework: the high ranking of NOCODA and *COMPLEX determines that Chinese permits only a small number of nasal codas such as [n] and [ŋ]. OT also predicts the possible language types by the 'exhaustive permutation' of rankings (factorial typology), which links it closely with typological research."
+     ]
+    },
+    {
+     "hEn": "Development and Criticism",
+     "pEn": [
+      "OT quickly expanded from phonology into other domains: McCarthy and Prince applied it to prosodic morphology, Grimshaw, Legendre and others established OT syntax, and Blutner and colleagues proposed bidirectional OT to handle semantic and pragmatic problems. Quantitative and variation-oriented variants such as Stochastic OT and Harmonic Grammar have also been developed, giving rise to research on the learnability of constraints.",
+      "Criticism has focused on three points: first, the form and number of constraints lack independent motivation and are often said to restate linguistic facts after the event; second, the learning algorithms for rankings and their psychological reality remain in doubt; third, the debate with the rule-based view of generative phonology continues. Nevertheless, OT has profoundly influenced the questions asked and the modes of description in phonology, typology and language acquisition research."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "constraint", "dEn": "A universal, violable restriction supplied by universal grammar, such as 'a syllable must not have a coda'."},
+    {"tEn": "ranking", "dEn": "The ordering of constraints by importance in a particular language, the central means of explaining linguistic differences."},
+    {"tEn": "generator", "dEn": "The mechanism, abbreviated GEN, that generates all possible output candidate forms for a given input."},
+    {"tEn": "evaluator", "dEn": "The mechanism, abbreviated EVAL, that selects from the candidate set the form incurring the lowest degree of violation according to the constraint hierarchy."},
+    {"tEn": "faithfulness constraint", "dEn": "A constraint requiring the output to match the input, such as prohibiting insertion, deletion or change of features."},
+    {"tEn": "markedness constraint", "dEn": "A constraint requiring the output to avoid structurally complex or typologically rare forms, such as prohibiting complex onsets."}
+   ]
+  },
+  "functionalism": {
+   "summaryEn": "Functionalism views language as an instrument of social communication and holds that grammatical forms are shaped by communicative functions and should be explained in functional terms. It is concerned with information structure, the motivations of word order, and the relation between language use and grammaticalisation, and its representative schools include the Prague School, the London School and American functionalism. It stands opposed to formalism and stresses empirical research and cross-linguistic comparison.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Basic Claims",
+     "pEn": [
+      "Functionalism is a group of linguistic approaches united by the belief that function explains form, rather than a single tightly organised theoretical system. It holds that the fundamental property of language is that of an instrument of social communication, and that grammatical structure is formed and adjusted over long periods of use to meet communicative needs; language study therefore cannot be divorced from context, users and discourse purposes. Compared with generative grammar, it attaches greater importance to attested data, linguistic variation and cross-linguistic tendencies.",
+      "The core argument of functionalism is that if grammatical form is determined by function, then predictable regular tendencies should emerge cross-linguistically, rather than merely arbitrary structures. Nearly all languages, for example, tend to place given information at the beginning of the sentence and new information at the end in order to reduce processing cost; this universal pressure of 'information flow' is thought to shape word order and syntactic structure."
+     ]
+    },
+    {
+     "hEn": "Major Schools",
+     "pEn": [
+      "The Prague School is an important source of functionalism: Mathesius proposed the functional sentence perspective, distinguishing theme (given information) from rheme (new information), and studied how word order serves the transmission of information, while Jakobson, starting from communicative function, proposed six functions of language, including the referential, emotive, conative, phatic, metalinguistic and poetic functions.",
+      "The London School runs in an unbroken line from Malinowski and Firth to Halliday, emphasising context and the social character of language; on this basis Halliday constructed systemic functional grammar. American functionalism, represented by Givón, Hopper and Thompson, holds that grammar is the crystallisation of patterns repeatedly used in discourse, and investigates cross-linguistic regularities such as topic prominence, transitivity and grammaticalisation. The French linguist Martinet, for his part, explained sound change and grammatical evolution in terms of the principle of economy."
+     ]
+    },
+    {
+     "hEn": "Core Concepts",
+     "pEn": [
+      "Theme and rheme characterise the point of departure and the informational core of the sentence; topic and comment designate what the sentence is about and what is said about it. Focus is the new information highlighted by the speaker, often marked by word order, stress or a dedicated construction. From the functionalist point of view transitivity is not binary but a continuum: the agentivity, patienthood, completion and affectedness of an action jointly determine the degree of transitivity of a clause.",
+      "Iconicity refers to the way linguistic structure mirrors conceptual structure to a certain extent, as when the word order of 'he came in, sat down, opened the book' corresponds to the temporal order of the events, or when the plural is encoded with more phonetic material. Grammaticalisation describes the process by which content words develop into grammatical elements, for example the Chinese 把, which was demoted from the verb 'to grasp' to a disposal marker, and 了, which developed from a verb meaning 'to finish' into a perfective aspect particle."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "Chinese has several sentence patterns expressing the same proposition, which differ mainly in information structure. 我把书放在桌子上 'I put the book on the table' takes 我 'I' as subject and highlights the agent's act of disposal; 书在桌子上 'the book is on the table' takes 书 'book' as topic or subject and foregrounds state and location. The two have similar truth conditions but different communicative functions and discourse roles, which is precisely what functionalism is concerned with.",
+      "The division of labour between the Japanese topic marker は and the nominative marker が likewise reflects information structure. In 「象は鼻が長い」 'the elephant has a long nose', は marks the given topic and が marks the subject of the new information; when answering the question 'Who came?', one must say 「田中さんが来ました」, marking the focus with が. The English existential there-construction (There is a book on the table), for its part, places new information towards the end and is likewise a functional device of information organisation."
+     ]
+    },
+    {
+     "hEn": "Relation to Formalism and Criticisms",
+     "pEn": [
+      "Functionalism and formalism constitute the two major orientations of contemporary theoretical linguistics. Formalism treats syntax as an autonomous formal system and functional explanation as merely supplementary; functionalism holds that syntactic structure itself must be explained by communicative function, cognitive processing and discourse use. The two differ in research methods, data sources and explanatory goals, but they are not entirely irreconcilable.",
+      "Criticism of functionalism centres on two points: first, functional explanations often remain post hoc rationalisations lacking falsifiable predictions; second, the claim that 'function determines form' is hard to defend against counterexamples, since many grammatical phenomena have no obvious functional motivation. Functionalists reply that cross-linguistic statistical tendencies and pathways of grammaticalisation themselves constitute testable empirical evidence."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "theme and rheme", "dEn": "Theme is the point of departure of an utterance, that is, the given information, and rheme is the new information about it; the core distinction of the functional sentence perspective."},
+    {"tEn": "topic and comment", "dEn": "The topic is what a sentence is about and the comment is what is said about it; the two often fail to coincide with subject and predicate."},
+    {"tEn": "iconicity", "dEn": "The phenomenon whereby linguistic structure mirrors conceptual or experiential structure to some extent, as when word order corresponds to the temporal order of events."},
+    {"tEn": "grammaticalisation", "dEn": "The historical process by which a content word or construction gradually loses its lexical meaning and acquires grammatical function, as when 把 became a disposal marker."},
+    {"tEn": "transitivity", "dEn": "A continuous dimension measuring how action-like a clause is, involving the number of participants, the completion of the action and the degree of affectedness."}
+   ]
+  }
+ }
+}

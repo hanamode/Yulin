@@ -1,0 +1,103 @@
+{
+ "batch": 39,
+ "sections": {
+  "chapter-085-slug-7-12-set-theory": {
+   "title": {"en": "7.12 Introduction to set theory", "zh": "7.12 集合论简介"},
+   "summary": {
+    "en": "Denotation can be modelled with sets: a common noun denotes the set of things it applies to, a name denotes an individual, and a sentence denotes a truth value. Membership, subset, proper subset, superset, cardinality, intersection, and union provide notation for these relations. Set theory also explains quantificational determiners such as two and every, whose meaning depends on how the sets in a sentence overlap or contain one another.",
+    "zh": "指称可以用集合来刻画：普通名词指称它所适用的所有事物构成的集合，专有名词指称某个个体，句子则指称真值。成员、子集、真子集、超集、基数、交集与并集等概念为这些关系提供了形式化记号。集合论还能解释 two、every 等量化限定词的意义，因为它们的理解依赖于句中各集合之间的包含与重叠关系。"
+   },
+   "points": [
+    {"en": "The denotation of cat is the set of all cats in the actual world; members of a set are its elements.", "zh": "cat 的指称是现实世界中所有猫构成的集合；集合中的事物称为该集合的成员或元素。"},
+    {"en": "A name denotes the individual it refers to, so Panks denotes that particular cat in the actual world.", "zh": "专有名词指称它所指向的个体，因此 Panks 指称现实世界中的那只猫。"},
+    {"en": "A sentence denotes a truth value: Panks is a cat is true just in case Panks is in the cat set.", "zh": "句子指称真值：Panks is a cat 为真，当且仅当 Panks 属于猫的集合。"},
+    {"en": "A is a subset of B when all members of A are also members of B.", "zh": "若 A 的所有成员都是 B 的成员，则 A 是 B 的子集，记为 A⊆B。"},
+    {"en": "Quantificational determiners like two and every are understood through intersection and subset relations among sets.", "zh": "two 与 every 等量化限定词的意义，可以通过集合之间的交集与子集关系来理解。"}
+   ],
+   "terms": [
+    {"en": "denotation", "zh": "外延/指称", "defEn": "The set of things in the actual world that a linguistic expression applies to.", "defZh": "语言表达式在现实世界中所指称的对象集合，与心理词库中储存的涵义相对。"},
+    {"en": "set", "zh": "集合", "defEn": "A collection of objects, conventionally named with a capital letter.", "defZh": "由若干对象组成的整体，在集合论中通常用大写字母表示，如集合 A。"},
+    {"en": "member", "zh": "成员", "defEn": "An object that belongs to a set; also called an element.", "defZh": "属于某个集合的对象，也称元素；b ∈ A 读作 b 是 A 的成员。"},
+    {"en": "subset", "zh": "子集", "defEn": "A set whose members are all contained in another set.", "defZh": "其所有成员都包含在另一个集合之中的集合，符号为 ⊆。"},
+    {"en": "proper subset", "zh": "真子集", "defEn": "A subset that leaves out at least one member of the larger set.", "defZh": "真子集要求较大集合中至少有一个成员不属于该子集，符号为 ⊂。"},
+    {"en": "intersection", "zh": "交集", "defEn": "The set of objects that are members of both A and B.", "defZh": "同时属于 A 和 B 的所有对象构成的集合，写作 A∩B。"}
+   ],
+   "examples": [
+    {"text": "⟦cat⟧ = the set of all cats in the actual world", "noteEn": "Double brackets express denotation; here cat denotes the whole set of cats.", "noteZh": "双括号表示指称，此处说明 cat 指称现实世界中所有猫构成的集合。"},
+    {"text": "Panks is a cat", "noteEn": "True because the individual Panks is a member of the set of cats.", "noteZh": "该句为真，因为个体 Panks 是猫集合的成员。"},
+    {"text": "Karti is a cat", "noteEn": "Denotes F, since the dog Karti is not in the set of cats.", "noteZh": "该句指称假，因为狗 Karti 不属于猫的集合。"},
+    {"text": "Every cat is grey", "noteEn": "Means that everything in the cat set is also in the grey set.", "noteZh": "意为猫集合中的所有事物也都属于灰色事物的集合。"}
+   ],
+   "body": [
+    {"en": "Set theory provides a precise way of talking about denotation. The denotation of the noun cat is the set of all cats in the actual world, and anything belonging to a set is called a member, or element, of it. Double brackets mark denotation, so cat denotes that set, whereas a name such as Panks denotes the individual it refers to. Sentences denote truth values, restatable as truth conditions: Panks is a cat is true just in case the individual Panks is a member of the set of all cats, and false otherwise. Because Panks really is a cat, that sentence denotes T; the parallel sentence about the dog Karti denotes F.",
+     "zh": "集合论为讨论指称提供了精确的工具。名词 cat 的指称是现实世界中所有猫构成的集合，而属于某个集合的对象称为该集合的成员（或元素）。依照惯例，双括号表示“指称”，因此 ⟦cat⟧ 就是那个集合，而专有名词 Panks 的指称则是它所指向的那个个体。句子指称真值，这也可以表述为真值条件：Panks is a cat 为真，当且仅当个体 Panks 是猫集合的成员，否则为假。由于 Panks 确实是猫，该句指称真；而关于狗 Karti 的平行句子则指称假，因为 Karti 不在猫的集合之中。"},
+    {"en": "Sets may contain smaller sets. Suppose Panks, Waffy, and Lilly are Siberian Forest Cats and Sugar and Brezel are not; then the set containing just Panks, Waffy, and Lilly is a subset of the set of cats. Formally, A is a subset of B when every member of A is also a member of B, written A⊆B, and B is then a superset of A, written B⊇A. A proper subset, symbolised ⊂, requires in addition that at least one member of B is not a member of A, as with the Siberian Cats and cats. The reversed symbol ⊃ marks a proper superset. Capital letters conventionally stand for sets, and related notation covers cardinality, intersection, and union.",
+     "zh": "集合之中还可以有更小的集合。假设 Panks、Waffy 与 Lilly 是西伯利亚森林猫，而 Sugar 与 Brezel 不是，那么仅含 Panks、Waffy、Lilly 的集合就是猫集合的子集。形式化地说，若 A 的所有成员都是 B 的成员，则 A 是 B 的子集，写作 A⊆B；此时也称 B 是 A 的超集，写作 B⊇A。真子集用符号 ⊂ 表示，它额外要求 B 中至少有一个成员不属于 A，例如西伯利亚猫集合之于猫集合。颠倒过来的符号 ⊃ 表示真超集。大写字母通常用来表示集合，其他记号还涉及基数、交集与并集。"},
+    {"en": "Set theory also illuminates quantificational words, which concern quantity, such as the English determiners every, some, most, many, few, two, and five. To interpret Two cats are grey, take the set of cats C and the set of grey things G and form their intersection C∩G, the set of grey cats; two asks how many members that intersection has. Every cat is grey instead says that everything in C is also in G. For later sections, grasping subset and superset conceptually matters more than formal notation.",
+     "zh": "集合论也有助于理解与数量有关的量化词语。英语中的量化限定词包括 every、some、most、many、few、two、five 等。要理解 Two cats are grey，可以取猫的集合 C 与灰色事物的集合 G，二者的交集 C∩G 就是灰色的猫；two 追问的正是这个交集里有多少成员。而 Every cat is grey 是说 C 中的一切都也属于 G。对于后面的小节来说，从概念上把握子集与超集比掌握形式记号更为重要。"}
+   ]
+  },
+  "chapter-086-slug-7-13-negative-polarity": {
+   "title": {"en": "7.13 Negative polarity items", "zh": "7.13 否定极性项"},
+   "summary": {
+    "en": "Negative polarity items are expressions such as anything, at all, anywhere, ever, and any, which appear only in particular licensing contexts. Although negation with not or no is the clearest licenser, the verb doubt and the antecedent of a conditional also license them. What these contexts share is downward entailment: a sentence with a proper superset entails the corresponding sentence with a proper subset. Upward-entailing contexts do not license negative polarity items.",
+    "zh": "否定极性项是 anything、at all、anywhere、ever、any 这类只出现在特定允准语境中的表达式。带 not 或 no 的否定是最明显的允准语境，但 doubt 以及条件句的先行语同样可以允准它们。这些语境的共同点是向下蕴涵：含真超集的句子蕴涵含真子集的对应句子。向上蕴涵语境则不能允准否定极性项。"
+   },
+   "points": [
+    {"en": "Negative polarity items such as anything and ever appear only in certain negative grammatical contexts, called licensing contexts.", "zh": "anything、ever 等否定极性项只出现在特定的否定性语法语境中，这类语境称为允准语境。"},
+    {"en": "Negation must be structurally higher than the negative polarity item in the tree; fronting the item makes the sentence ungrammatical.", "zh": "否定成分在树形图中必须结构上高于否定极性项；若把该成分前置，句子便不合乎语法。"},
+    {"en": "Licensing is not limited to literal negation: embedding under doubt and conditional antecedents also license these items.", "zh": "允准并不限于字面否定：嵌入 doubt 之下以及条件句先行语之中的否定极性项同样得到允准。"},
+    {"en": "A context is downward-entailing when the sentence with a proper superset entails the sentence with a proper subset.", "zh": "若含真超集的句子蕴涵含真子集的句子，该语境就是向下蕴涵语境。"},
+    {"en": "Upward-entailing contexts reverse the entailment pattern, so they do not license negative polarity items.", "zh": "向上蕴涵语境的蕴涵方向恰好相反，即由子集句蕴涵超集句，因此不能允准否定极性项。"}
+   ],
+   "terms": [
+    {"en": "negative polarity item (NPI)", "zh": "否定极性项", "defEn": "An expression licensed only in certain negative or downward-entailing contexts.", "defZh": "只在特定否定性或向下蕴涵语境中才能出现的表达式，如 anything、ever。"},
+    {"en": "licensing context", "zh": "允准语境", "defEn": "The grammatical environment that permits a negative polarity item to appear.", "defZh": "允许否定极性项出现的语法环境，例如带 not 的否定句或条件句先行语。"},
+    {"en": "downward-entailing context", "zh": "向下蕴涵语境", "defEn": "A context in which a sentence with a proper superset entails the one with a proper subset.", "defZh": "由含真超集的句子蕴涵含真子集句子的语境，例如 They did not ____。"},
+    {"en": "upward-entailing context", "zh": "向上蕴涵语境", "defEn": "A context in which the sentence with a proper subset entails the one with a proper superset.", "defZh": "由含真子集的句子蕴涵含真超集句子的语境，否定极性项在此不被允准。"},
+    {"en": "entailment", "zh": "蕴涵", "defEn": "A necessary meaning relation: if one sentence is true, another must be true.", "defZh": "一种必然的意义关系：若一个句子为真，另一个句子也必然为真。"},
+    {"en": "conditional", "zh": "条件句", "defEn": "A sentence of the form if X, then Y, whose if-clause can license NPIs.", "defZh": "形如“如果 X，那么 Y”的句子，其 if 小句可以是否定极性项的允准语境。"}
+   ],
+   "examples": [
+    {"text": "I did not pet any cats.", "noteEn": "The negation not is present, so the NPI any cats is grammatical.", "noteZh": "句中存在否定词 not，因此否定极性项 any cats 合乎语法。"},
+    {"text": "* Any cats, I did not pet.", "noteEn": "Fronting the NPI places it above negation, so it is ungrammatical.", "noteZh": "把否定极性项前置后它位于否定之上，因此句子不合乎语法。"},
+    {"text": "They did not pet Siberian Forest Cats.", "noteEn": "This is the proper subset version used in the downward-entailing test for that context.", "noteZh": "这是向下蕴涵测试中把 cats 换成真子集后的对应句子。"},
+    {"text": "If you buy orange pumpkins, then you get free candy.", "noteEn": "The conditional antecedent is downward-entailing, so an NPI is licensed there.", "noteZh": "条件句先行语具有向下蕴涵性质，因此其中可以出现否定极性项 any。"}
+   ],
+   "body": [
+    {"en": "When meaning is treated in terms of denotation, several patterns become explainable. The expressions anything, at all, anywhere, ever, and any are negative polarity items (NPIs): expressions that appear only in certain negative grammatical contexts, their licensing contexts. The clearest case is a sentence containing the negation not or no, but merely containing negation is not sufficient. Syntactically, negation must sit in a structurally higher position than the NPI in the tree, so I did not pet any cats is well formed while the fronted Any cats, I did not pet is ungrammatical. NPIs are also licensed under the verb doubt and in the antecedent of a conditional, the if-clause.",
+     "zh": "当我们从指称的角度理解语言表达的意义时，一些有趣的语言现象就能得到解释。anything、at all、anywhere、ever、any 这类表达式称为否定极性项（NPI），它们只出现在某些“否定性”语法语境之中，这种语境称为允准语境。最直接的情形是句子中含有否定词 not 或 no，但仅仅含有否定还不够。从句法上看，否定成分在树形图中必须处于比否定极性项更高的结构位置，因此 I did not pet any cats 合乎语法，而把否定极性项前置的 Any cats, I did not pet 则不合语法。否定极性项还可以在动词 doubt 之下以及条件句的先行语（if 小句）中得到允准。"},
+    {"en": "That characterisation is downward entailment. To test a context, first insert a phrase containing something that denotes a set, as in They did not pet cats. Second, replace that set with a proper subset of it, giving They did not pet Siberian Forest Cats. Third, check the entailment relation between the two sentences. Here the sentence with the proper superset entails the sentence with the proper subset: if they did not pet cats, then they did not pet Siberian Forest Cats, but not conversely, since they might have petted a Siamese cat. A context producing this entailment pattern is downward-entailing, and this property seems to be what licenses NPIs.",
+     "zh": "这种允准语境的性质可以用向下蕴涵来刻画。检验分为三步：第一步，在语境中填入含集合指称的短语，如 They did not pet cats；第二步，把该集合换成它的真子集，得到 They did not pet Siberian Forest Cats；第三步，检查两句之间的蕴涵关系。这里含真超集的句子蕴涵含真子集的句子：若他们没有摸过猫，就必然没有摸过西伯利亚森林猫；反过来则不成立，因为他们可能摸过暹罗猫。产生这种蕴涵方向的语境就是向下蕴涵语境，而它似乎正是允准否定极性项的条件。"},
+    {"en": "A context without negation behaves differently. From They petted cats, the proper subset sentence They petted Siberian Forest Cats does not follow; instead the subset sentence entails the superset sentence, so this context is upward-entailing, and NPIs are not licensed in it. The conditional antecedent behaves like negation: if buying pumpkins earns free candy, then buying orange pumpkins also earns free candy, so the superset sentence entails the subset sentence, and the environment is downward-entailing. Thinking in terms of denotations and sets therefore proves genuinely useful.",
+     "zh": "不含否定的语境表现不同。由 They petted cats 推不出 They petted Siberian Forest Cats；相反，是含真子集的句子蕴涵含真超集的句子，因此这是向上蕴涵语境，否定极性项在其中不被允准。条件句先行语则与否定相似：如果买南瓜就能得到免费糖果，那么买橙色南瓜也必然能得到免费糖果，于是含真超集的句子蕴涵含真子集的句子，该环境属于向下蕴涵。可见，从指称和集合的角度思考意义确实很有用。"}
+   ]
+  },
+  "chapter-087-slug-7-summary": {
+   "title": {"en": "7.14 Summary", "zh": "7.14 小结"},
+   "summary": {
+    "en": "This chapter surveyed several kinds of linguistic meaning: entailment versus implicature, sense versus denotation, lexical versus sentential meaning, and compositional versus non-compositional meaning. The main lesson is that asking what an expression means is a complicated question, because meaning has many layers, each of which sheds light on how language users produce and understand it.",
+    "zh": "本章考察了若干种语言意义：蕴涵与会话含义、涵义与指称、词汇意义与句子意义、组合性意义与非组合性意义。核心结论是，“这到底是什么意思”是一个复杂的问题：语言意义具有多个层面，每个层面都为语言使用者如何产生和理解意义提供了重要洞见。"
+   },
+   "points": [
+    {"en": "Linguistic meaning comes in several kinds, including entailment versus implicature and sense versus denotation.", "zh": "语言意义有多种类型，包括蕴涵与会话含义之别、涵义与指称之别。"},
+    {"en": "We also distinguished lexical from sentential meaning and compositional from non-compositional meaning.", "zh": "本章还区分了词汇意义与句子意义，以及组合性意义与非组合性意义。"},
+    {"en": "Because meaning has many layers, asking what an expression means is a complicated question.", "zh": "由于意义具有多个层面，“某个表达是什么意思”是一个复杂的问题。"}
+   ],
+   "terms": [
+    {"en": "entailment", "zh": "蕴涵", "defEn": "A necessary meaning relation between sentences: if one is true, the other must be.", "defZh": "句子之间必然的意义关系：若一句为真，另一句也必定为真。"},
+    {"en": "implicature", "zh": "会话含义", "defEn": "Meaning suggested by an utterance but not literally entailed by it.", "defZh": "话语所暗示、但并不由字面内容所必然蕴涵的那一层意义。"},
+    {"en": "sense", "zh": "涵义", "defEn": "The meaning stored in the mental lexicon, as opposed to denotation.", "defZh": "储存在心理词库之中的那层意义，与指称（外延）相对。"},
+    {"en": "denotation", "zh": "外延/指称", "defEn": "The set of things in the world that an expression applies to.", "defZh": "表达式在现实世界中所适用的对象所构成的集合，如 cat 指称所有猫。"},
+    {"en": "compositionality", "zh": "组合性原则", "defEn": "The meaning of a whole is built from the meanings of its parts.", "defZh": "整体表达式的意义由其组成部分的意义及组合方式共同决定。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "The chapter examined different kinds of linguistic meaning. It contrasted entailments with implicature, sense with denotation, lexical with sentential meaning, and compositional with non-compositional meaning. Each contrast isolates a distinct layer of interpretation that a theory of meaning has to account for.",
+     "zh": "本章考察了不同类型的语言意义：蕴涵与会话含义的对比、涵义与指称的对比、词汇意义与句子意义的对比，以及组合性意义与非组合性意义的对比。每一组对比都区分出意义理论必须解释的一个不同层面。"},
+    {"en": "The take-away is that what does this mean is a complicated question. Linguistic meaning has many layers, and each layer provides important insight into how language users produce and understand meaning.",
+     "zh": "本章的要点在于，“这到底是什么意思”是一个复杂的问题。语言意义包含许多层面，每个层面都为我们理解语言使用者如何产生和解读意义提供了重要的洞见。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "batch": 1,
+ "chapter": "Accessibility Statement",
+ "out": "data/book/gen/batch-01.json",
+ "sections": [
+  {
+   "id": "front-matter-001-accessibility-statement",
+   "title": "Accessibility Statement",
+   "src": "data/book/src/front-matter-001-accessibility-statement.txt",
+   "chars": 1974
+  }
+ ]
+}

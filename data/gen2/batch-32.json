@@ -1,0 +1,401 @@
+{
+ "batch": 32,
+ "entries": [
+  {
+   "id": "langacker",
+   "title": "罗纳德·兰盖克",
+   "en": "Ronald Langacker",
+   "category": "people",
+   "tags": [
+    "认知语言学",
+    "认知语法",
+    "意象图式",
+    "突显",
+    "基于用法"
+   ],
+   "summary": "罗纳德·兰盖克（1942— ）是美国语言学家，认知语言学的奠基人之一，认知语法的创立者。他主张语法与词汇构成一个连续统，语义即概念化，句法结构直接映现概念结构，反对生成语法关于句法自主的主张。他提出的意象图式、基体与侧面、射体与地标、识解等概念，成为认知语言学的核心分析工具。其两卷本《认知语法基础》奠定了该理论的框架，并深刻影响了构式语法与基于用法的语言学。",
+   "summaryEn": "Ronald Langacker (born 1942) is an American linguist and a founding figure of cognitive linguistics, best known for creating Cognitive Grammar. He argues that lexicon and grammar form a continuum, that meaning is conceptualization, and that grammatical structure directly reflects conceptual structure, rejecting the autonomy of syntax assumed in generative grammar. His notions of image schema, base and profile, trajector and landmark, and construal supply the descriptive apparatus of the theory. The two-volume Foundations of Cognitive Grammar established the framework and strongly influenced Construction Grammar and usage-based linguistics.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "兰盖克 1942 年生于美国，1960 年代在伊利诺伊大学获博士学位，其博士论文研究乌托语系语言。他长期任教于加利福尼亚大学圣迭戈分校，与乔治·莱考夫、马克·约翰逊等人共同推动了认知语言学的形成。1987 年与 1991 年，他先后出版《认知语法基础》第一卷与第二卷，系统提出自己的理论框架。此后他持续修订和推广认知语法，并创办了学术期刊《认知语言学》。",
+      "兰盖克的研究起点是传统语法与生成语法，但他在分析英语名词化、形容词等棘手现象时，逐渐发现句法自主的假设难以维持，转而主张从人的概念系统出发理解语法。他的学术生涯与认知语言学的制度化过程高度重合。"
+     ],
+     "pEn": [
+      "Langacker was born in the United States in 1942 and took his doctorate at the University of Illinois in the 1960s with a dissertation on Uto-Aztecan languages. He spent most of his career at the University of California, San Diego, where he worked alongside George Lakoff and Mark Johnson in shaping cognitive linguistics. In 1987 and 1991 he published the two volumes of Foundations of Cognitive Grammar, setting out his framework in full, and he later helped to found the journal Cognitive Linguistics.",
+      "Langacker began from traditional grammar and from the generative framework of the 1960s. While analysing difficult English phenomena such as nominalizations and adjectives, however, he came to doubt the autonomy of syntax and turned instead to conceptual structure as the proper basis of grammatical description. His career closely tracks the institutional growth of cognitive linguistics: the field grew alongside his own theoretical work, from early conferences in the 1980s to the founding of the journal Cognitive Linguistics, which he helped to establish."
+     ]
+    },
+    {
+     "h": "主要理论：认知语法",
+     "hEn": "Main Theory: Cognitive Grammar",
+     "p": [
+      "认知语法把语言视为一般认知能力的一部分，认为语法单位不是任意的形式规则，而是具有意义的象征单位。一个象征单位由语音极与语义极结合而成，语法与词汇只在具体程度上不同：词汇倾向具体，语法倾向抽象，二者构成连续统。因此，语法本身也是有意义的，例如英语复数后缀 -s 的意义可概括为“多个实例”。",
+      "兰盖克还提出，语言知识由大量图式网络组织而成。高度抽象的图式与具体实例通过范畴化关系相连，新表达依靠既有图式被许可。这一网络模型能够解释语言为何既稳定又允许创新，也为基于用法的语言习得研究提供了理论依据。"
+     ],
+     "pEn": [
+      "Cognitive Grammar treats language as part of general cognition. Grammatical units are not arbitrary formal rules but symbolic units that pair a phonological pole with a semantic pole. Lexicon and grammar differ only in specificity of schema: lexical items are relatively concrete, grammatical patterns relatively abstract, and the two form a continuum. Grammar is therefore meaningful in itself; the English plural ending -s, for instance, can be characterized as marking multiple instances.",
+      "Langacker further proposes that linguistic knowledge is organized as a vast network of schemas. Highly abstract schemas are linked to specific instances through categorizing relationships, and novel expressions are sanctioned or licensed by existing schemas in the network. This model helps explain how language can be at once stable and open to innovation, how speakers generalize over stored expressions, and how children build grammar from concrete usage events. It also supplies the theoretical foundation for usage-based accounts of acquisition and change."
+     ]
+    },
+    {
+     "h": "基本概念：基体与侧面、射体与地标",
+     "hEn": "Key Notions: Base and Profile, Trajector and Landmark",
+     "p": [
+      "兰盖克用基体与侧面描述语义凸显。基体是一个表达所激活的概念领域，侧面则是其中最受凸显的部分。英语 uncle 的基体是亲属关系网络，其侧面是其中的“父母的兄弟”这一关系位置；同一个基体可以支持 father、mother、aunt 等不同侧面。",
+      "他进一步用射体与地标说明关系表达的内部突显。在 The boy threw the ball 中，boy 是射体，ball 是地标，介词 over 与 above 的差别就在于地标与射体的相对关系。这些工具使认知语法能够细致刻画近义表达的语义差异。"
+     ],
+     "pEn": [
+      "Langacker uses base and profile to describe semantic prominence. The base is the conceptual domain that an expression activates, while the profile is the highlighted portion within it. The base of English uncle is a network of kinship relations and its profile is the position parent's brother; the very same base supports the different profiles of father, mother, son and aunt. This apparatus lets the theory state precisely what an expression designates without invoking abstract lexical features.",
+      "He also uses trajector and landmark to describe prominence within relational expressions. In The boy threw the ball, the boy is the trajector and the ball the landmark; the contrast between over and above lies in the relative configuration of landmark and trajector rather than in any difference in the entities themselves. The vase is over the table and the vase is above the table differ in whether contact or sheer vertical alignment is at issue, a difference these notions capture directly."
+     ]
+    },
+    {
+     "h": "研究内容与语言示例",
+     "hEn": "Research Themes and Language Examples",
+     "p": [
+      "兰盖克长期关注句法与语义界面的难题。以英语名词化为例，the destruction of the city 与 the city's destruction 都指同一事件，但凸显的侧面不同，前者凸显过程，后者凸显参与者。类似的还有英语形容词 like 与 alike、near 与 nearly 的对立，他主张这些差异应从概念识解而非形式规则说明。",
+      "在时体方面，他指出英语进行体 be ... ing 凸显过程的持续性。试比较 He crossed the street 与 He was crossing the street：前者把事件作为完整整体，后者聚焦过程内部。这一分析把体貌意义归因于识解方式，而非独立的句法特征。"
+     ],
+     "pEn": [
+      "Langacker has long addressed difficult problems at the syntax-semantics interface. In English nominalization, the destruction of the city and the city's destruction denote the same event but profile different facets: the first highlights the process itself, the second foregrounds a participant. Comparable contrasts appear with like and alike or near and nearly, which he explains through construal rather than through formal rules of word formation. Such analyses aim to show that apparent syntactic quirks follow from how speakers construe a scene.",
+      "On tense and aspect he argues that the English progressive be ... ing profiles the ongoing nature of a process. Compare He crossed the street with He was crossing the street: the first construes the event as a complete whole, the second focuses on its internal development. Aspectual meaning is thus attributed to construal, not to an independent syntactic feature."
+     ]
+    },
+    {
+     "h": "代表著作、影响与批评",
+     "hEn": "Major Works, Influence and Criticism",
+     "p": [
+      "代表作包括《认知语法基础》（1987、1991）、《概念、意象与象征》（1990）、《认知语法导论》（2008）以及《句法分析基础》（2009）。这些著作把认知语法扩展为覆盖音系、形态、句法与语义的完整体系。",
+      "兰盖克推动的认知转向影响了构式语法、基于用法的语言学和隐喻研究。批评主要来自生成语法阵营：他们认为意象图式与识解等概念定义不够精确，难以作出可证伪的预测；此外，认知语法的许多论证依赖内省，缺乏实验与语料库量化证据。支持者则回应，该理论的优势正在于对语义细微差别的系统描写。"
+     ],
+     "pEn": [
+      "His major works include Foundations of Cognitive Grammar (1987, 1991), Concept, Image, and Symbol (1990), Cognitive Grammar: A Basic Introduction (2008) and Investigations in Cognitive Grammar (2009). Together these volumes extend Cognitive Grammar into a comprehensive account of phonology, morphology, syntax and semantics, and they contain detailed case studies of English nominalizations, the passive, the auxiliary system and possessives, all treated as meaningful symbolic structures rather than purely formal devices.",
+      "Langacker's cognitive turn shaped Construction Grammar, usage-based linguistics and metaphor research. Criticism comes mainly from generativists, who argue that notions such as image schema and construal are too loosely defined to yield falsifiable predictions, and that many arguments rest on introspection rather than experiments or corpus evidence. Supporters reply that the theory's strength lies precisely in its systematic description of semantic nuance."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "认知语法",
+     "tEn": "Cognitive Grammar",
+     "d": "兰盖克创立的语法理论，主张语法是象征单位的网络，词汇与句法构成连续统。",
+     "dEn": "Langacker's theory treating grammar as a network of symbolic units on a lexicon-syntax continuum."
+    },
+    {
+     "t": "基体与侧面",
+     "tEn": "Base and Profile",
+     "d": "语义凸显的两种成分：基体是表达激活的概念领域，侧面是被凸显的部分。",
+     "dEn": "The activated conceptual domain and the highlighted subpart within it."
+    },
+    {
+     "t": "射体与地标",
+     "tEn": "Trajector and Landmark",
+     "d": "关系表达中被凸显的首要参与者与作为参照的次要参与者。",
+     "dEn": "The primary focal participant and the reference participant in a relational expression."
+    },
+    {
+     "t": "识解",
+     "tEn": "Construal",
+     "d": "说话人用不同方式构想和表达同一情景的能力，如详略、视角与凸显的差异。",
+     "dEn": "The ability to conceive and express a situation in alternate ways, e.g. vantage and prominence."
+    },
+    {
+     "t": "意象图式",
+     "tEn": "Image Schema",
+     "d": "来自身体经验的高度抽象结构，如容器、路径、上下，用于组织概念与语法。",
+     "dEn": "An abstract structure from bodily experience, such as container or path, organizing concepts."
+    },
+    {
+     "t": "图式网络",
+     "tEn": "Schema Network",
+     "d": "语言知识由抽象图式与具体实例通过范畴化关系联结成的网络。",
+     "dEn": "A network linking abstract schemas to specific instances through categorizing relations."
+    },
+    {
+     "t": "象征单位",
+     "tEn": "Symbolic Unit",
+     "d": "语音极与语义极的结合体，是认知语法中语言知识的基本单位。",
+     "dEn": "A pairing of a phonological and a semantic pole, the basic unit of linguistic knowledge."
+    }
+   ],
+   "related": [
+    "cognitive-linguistics",
+    "construction-grammar",
+    "usage-based-linguistics",
+    "prototype",
+    "syntax"
+   ],
+   "sources": [
+    "Wikipedia, \"Ronald Langacker\", https://en.wikipedia.org/wiki/Ronald_Langacker",
+    "Langacker, Foundations of Cognitive Grammar, Vol. 1, Stanford University Press, 1987"
+   ]
+  },
+  {
+   "id": "trudgill",
+   "title": "彼得·特鲁吉尔",
+   "en": "Peter Trudgill",
+   "category": "people",
+   "tags": [
+    "社会语言学",
+    "方言学",
+    "社会变项",
+    "诺里奇研究",
+    "隐性声望"
+   ],
+   "summary": "彼得·特鲁吉尔（1943— ）是英国社会语言学家与方言学家，以诺里奇英语研究和英国方言调查著称。他继承拉波夫的变项研究方法，系统考察社会阶层、性别、年龄与语体对语音变项分布的影响，并提出隐性声望、超正确等概念。他长期研究英语方言的地理分布与语言接触，倡导把社会语言学与社会方言学结合。其《社会语言学导论》是使用最广的教科书之一。",
+   "summaryEn": "Peter Trudgill (born 1943) is a British sociolinguist and dialectologist known for his study of Norwich English and for large-scale work on British dialects. Building on Labov's variationist method, he examined how social class, gender, age and style shape the distribution of phonological variables, and introduced concepts such as covert prestige and hypercorrection. He has also studied the geography of English dialects and language contact, arguing for closer ties between sociolinguistics and social dialectology. His textbook Sociolinguistics is among the most widely used introductions.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "特鲁吉尔 1943 年生于英国诺里奇，先后在剑桥大学与爱丁堡大学学习，受到方言学家与语言地理学传统的训练。他长期任教于雷丁大学与东英吉利大学，并曾任国际社会语言学学会的重要职务。诺里奇是他的故乡，也是他最重要的调查地点，他一生的大部分实证工作都围绕这座城市及其周边地区展开。",
+      "1970 年代，他借鉴拉波夫在纽约和马萨葡萄园岛采用的定量变项方法，对诺里奇不同阶层、年龄与性别的居民进行抽样访谈，把英国社会方言学推向系统的实证阶段。他不再凭印象描述方言形式，而是统计各变体在不同语体中的出现频率，并与说话人的社会背景相联系，从而证明语言变异是有秩序、有社会结构的。"
+     ],
+     "pEn": [
+      "Trudgill was born in Norwich, England, in 1943 and studied at Cambridge and Edinburgh, where he was trained in dialectology and linguistic geography. He taught for many years at Reading and later at the University of East Anglia, and held leading positions in the international sociolinguistics community. Norwich was his home city and the site of his most influential fieldwork.",
+      "In the 1970s he adapted the quantitative variable method that Labov had developed in New York City and Martha's Vineyard, conducting sampled interviews with Norwich residents of different social classes, ages and genders. Rather than describing dialect forms impressionistically, he counted their frequencies across styles and correlated them with social background, showing that variation is orderly and socially structured. This work moved British social dialectology decisively into a systematic, quantitative and empirical phase."
+     ]
+    },
+    {
+     "h": "主要研究：诺里奇英语",
+     "hEn": "Main Research: Norwich English",
+     "p": [
+      "诺里奇研究考察了多个语音变项，包括词尾与词中的 -ing 读作 [ɪn] 或 [ɪŋ]，以及 house、mouth 等词中元音的前化程度。特鲁吉尔把发音变体的使用频率与社会阶层、性别、年龄和语体正式程度联系起来，发现同一说话人会随语境在标准变体与本地变体之间移动。",
+      "他还发现一个引人注目的性别模式：在同一社会阶层中，女性更倾向使用标准变体，而男性更倾向使用本地非标准变体，因为本地口音象征团结与男子气概。这一现象被称为隐性声望。"
+     ],
+     "pEn": [
+      "The Norwich study examined several phonological variables, including the alternation between [ɪn] and [ɪŋ] for word-final and word-medial -ing, and the fronting of the vowel in words such as house and mouth. Trudgill related the frequencies of variants to social class, gender, age and formality of style, showing that the same speaker shifts between standard and local variants according to context.",
+      "He also found a striking gender pattern: within the same social class, women tend to use standard variants considerably more often than men, while men favour local non-standard forms, which signal solidarity, toughness and local masculinity. When asked directly, moreover, men often claim to use local forms more than they actually do. This phenomenon, in which a stigmatized variety nevertheless carries positive local value, is known as covert prestige and became a central finding of British variationist sociolinguistics."
+     ]
+    },
+    {
+     "h": "核心贡献：隐性声望与超正确",
+     "hEn": "Core Contributions: Covert Prestige and Hypercorrection",
+     "p": [
+      "隐性声望指非标准变体在特定社群中具有正面社会意义，尽管它在公开评价中被视为低俗。特鲁吉尔指出，男性工人阶层对本地口音的自我报告往往高于实际使用率，说明说话人有意向本地规范靠拢。",
+      "超正确则指中下层说话人在正式语体中过度使用标准变体，甚至超过上层说话人，例如把本不该出现的标准音插入词中。二者共同说明，语言变项的社会评价具有双重性，既有公开的声望等级，也有隐藏的团结价值。"
+     ],
+     "pEn": [
+      "Covert prestige refers to the positive social value that non-standard variants carry within a community even though public, overt evaluation labels them incorrect or vulgar. Trudgill observed that working-class men sometimes over-report their use of local forms in interviews, which suggests a deliberate orientation towards local norms and a rejection of the prestige standard associated with outsiders and formal institutions.",
+      "Hypercorrection, by contrast, is the overuse of standard or prestigious variants by lower-middle-class speakers in formal styles, occasionally exceeding the usage of the highest social class. Trudgill found such patterns for several Norwich variables, and similar results appeared in Labov's New York department-store study. Together the two notions show that the social evaluation of linguistic variables is double-edged, combining an overt prestige hierarchy with a hidden value of local solidarity and identity."
+     ]
+    },
+    {
+     "h": "方言学与语言接触研究",
+     "hEn": "Dialectology and Language Contact",
+     "p": [
+      "除社会变项研究外，特鲁吉尔长期关注英语方言的地理分布。他参与编纂《英格兰语言地图集》，考察方言边界、扩散与接触引发的演变，例如诺里奇周边地区某些音变的自上而下传播。",
+      "他还研究语言接触与皮钦语、克里奥尔语，主张社会因素而非纯结构因素决定接触变异的走向。晚近他与学生合作研究挪威、希腊等地的小方言消亡，强调语言接触与语言濒危之间的关联。"
+     ],
+     "pEn": [
+      "Beyond variationist work, Trudgill has long studied the geographical distribution of English dialects. He contributed to the Linguistic Atlas of England and wrote extensively on dialect boundaries, diffusion and contact-induced change, including the spread of particular sound changes in and around Norwich. He argues that patterns of geographical variation cannot be explained by linguistic structure alone, since historical settlement, migration and social networks all shape which forms spread and how far they travel.",
+      "He has also written on language contact and on pidgins and creoles, arguing that social rather than purely structural factors determine the direction of contact-induced variation. More recently, working with students and collaborators, he has studied the loss of small and marginal dialects in Norway, Greece and elsewhere, stressing the close link between contact, standardization and language endangerment, and arguing that dialect death deserves the same attention as the death of whole languages."
+     ]
+    },
+    {
+     "h": "代表著作、影响与批评",
+     "hEn": "Major Works, Influence and Criticism",
+     "p": [
+      "代表作有《诺里奇英语的社会分化》（1974）、《社会语言学导论》（1974 初版，多次修订）、《英语方言》（1990）以及《社会语言学变项研究》（2002）。他的教科书把定量变项方法普及到全世界的社会语言学课堂。",
+      "批评意见主要有两点：其一，阶级、性别等社会范畴被当作既定类别，未充分讨论其建构性；其二，诺里奇的抽样规模有限，结论向其他言语社区推广时需谨慎。尽管如此，他确立的变项分析范式至今仍是社会语言学的标准方法。"
+     ],
+     "pEn": [
+      "His books include The Social Differentiation of English in Norwich (1974), the widely revised textbook Sociolinguistics (first edition 1974), The Dialects of England (1990), Sociolinguistic Variation and Change (2002) and, with Jean Hannah, International English (1982). His textbooks did much to bring quantitative variationist method, and the study of British dialects, into sociolinguistics classrooms around the world, and they remain standard references for students of English dialects and of language variation.",
+      "Two criticisms recur in the literature. First, categories such as social class and gender are treated as given social facts rather than as socially constructed and locally negotiated identities. Second, the Norwich sample was modest in size and drawn from a single city, so generalization to other speech communities requires caution. Even so, the variationist paradigm that Trudgill helped to establish remains the standard quantitative method of sociolinguistics, and his descriptive work is still widely cited."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "社会变项",
+     "tEn": "Sociolinguistic Variable",
+     "d": "随社会因素与语体变化而交替出现的语言变体集合，如 [ɪn] 与 [ɪŋ]。",
+     "dEn": "A set of alternating variants whose use correlates with social and stylistic factors."
+    },
+    {
+     "t": "隐性声望",
+     "tEn": "Covert Prestige",
+     "d": "非标准变体在特定社群内部获得的正面价值，表现为团结与本地认同。",
+     "dEn": "The positive value non-standard variants carry within a community as markers of solidarity."
+    },
+    {
+     "t": "超正确",
+     "tEn": "Hypercorrection",
+     "d": "中下层说话人在正式语体中过度使用标准变体，超出上层说话人的用法。",
+     "dEn": "Overuse of prestigious variants by lower-middle-class speakers beyond upper-class usage."
+    },
+    {
+     "t": "语体变异",
+     "tEn": "Style Shifting",
+     "d": "同一说话人依语境正式程度与交谈对象调整变体使用的现象，是变项研究的核心概念之一。",
+     "dEn": "A speaker's adjustment of variant use according to the formality of the context."
+    },
+    {
+     "t": "社会方言学",
+     "tEn": "Social Dialectology",
+     "d": "研究方言变异与社会因素关系的分支，特鲁吉尔是其重要推动者。",
+     "dEn": "The study of dialect variation in relation to social factors."
+    },
+    {
+     "t": "语言接触",
+     "tEn": "Language Contact",
+     "d": "不同语言或方言在长期互动中相互影响而引发的结构、词汇与社会层面的变化，是接触语言学的研究对象。",
+     "dEn": "Structural and social change arising from interaction between languages or dialects."
+    },
+    {
+     "t": "社会阶层与语言",
+     "tEn": "Social Class and Language",
+     "d": "社会阶层地位、职业与教育背景同语言变体选择之间呈现的系统性相关关系，是社会方言学的基本发现。",
+     "dEn": "The systematic correlation between social class position and choice of linguistic variants."
+    }
+   ],
+   "related": [
+    "sociolinguistics",
+    "dialectology",
+    "labov",
+    "sociolinguistic-variable",
+    "dialect"
+   ],
+   "sources": [
+    "Wikipedia, \"Peter Trudgill\", https://en.wikipedia.org/wiki/Peter_Trudgill",
+    "Trudgill, The Social Differentiation of English in Norwich, Cambridge University Press, 1974"
+   ]
+  },
+  {
+   "id": "boas",
+   "title": "弗朗茨·博厄斯",
+   "en": "Franz Boas",
+   "category": "people",
+   "tags": [
+    "美国人类学",
+    "田野调查",
+    "文化相对主义",
+    "描写语言学",
+    "语言相对论"
+   ],
+   "summary": "弗朗茨·博厄斯（1858—1942）是德裔美国人类学家，美国现代人类学与美洲描写语言学的奠基人。他坚持长期田野调查，主张用当地语言记录文本，反对以印欧语框架套用于美洲原住民语言。他提出文化相对主义与语言分类的相对性，其关于语言与思维方式关系的论述成为语言相对论的先声。他培养了大批学生，深刻塑造了二十世纪美国语言学。",
+   "summaryEn": "Franz Boas (1858-1942) was a German-born American anthropologist and the founding figure of modern American anthropology and of the descriptive study of Native American languages. He insisted on long-term fieldwork and on recording texts in the local language, rejecting the imposition of Indo-European categories. He advocated cultural relativism and argued that linguistic classifications are relative, and his reflections on language and thought prefigured linguistic relativity. His many students shaped twentieth-century American linguistics.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "博厄斯 1858 年生于德国明登的一个犹太家庭，先学习物理学与地理学，在基尔大学获博士学位。他因对巴芬岛因纽特人的地理考察转向人类学，后移居美国，长期任教于哥伦比亚大学，直至 1942 年去世。",
+      "在哥伦比亚大学，他建立了美国最早的人类学系之一，培养出萨丕尔、克罗伯、米德等学生。他主持的《美洲印第安语言手册》编写计划，把语言描写确立为人类学训练的核心内容。"
+     ],
+     "pEn": [
+      "Boas was born in 1858 in Minden, Germany, into a liberal Jewish family. He first studied physics and geography, taking his doctorate at Kiel, and turned to anthropology after a geographical expedition to the Inuit of Baffin Island. He later emigrated to the United States, taught at Clark University and then at Columbia University, where he remained until his death in 1942, training a generation of American anthropologists.",
+      "At Columbia he built one of the first American departments of anthropology and trained students such as Edward Sapir, Alfred Kroeber, Ruth Benedict and Margaret Mead. He also edited the Handbook of American Indian Languages, a collaborative series of grammatical sketches, and made linguistic description a core part of anthropological training rather than a marginal auxiliary discipline. Under his influence, learning to record and analyse an unwritten language became a standard requirement for American anthropologists."
+     ]
+    },
+    {
+     "h": "核心贡献：描写语言学方法",
+     "hEn": "Core Contribution: Descriptive Method",
+     "p": [
+      "博厄斯主张每一种语言都应按其自身的结构范畴来描写，而不能照搬拉丁语或英语的语法框架。此前许多传教士与学者用印欧语的格、时、性等范畴分析美洲语言，往往得出错误结论。",
+      "他强调亲自记录长篇语料，重视语音的准确转写。在《美洲印第安语言手册》导言中，他提出语言、种族与文化三者相互独立：语言的分类不能用来推断种族或文化的优劣。这一立场成为现代语言学的共同前提。"
+     ],
+     "pEn": [
+      "Boas insisted that every language be described in terms of its own structural categories rather than through the grammatical framework of Latin or English. Earlier missionaries and scholars had often analysed Native American languages using Indo-European categories of case, tense, gender and person, and had reached mistaken conclusions about their supposed primitiveness or irregularity. For Boas such mistakes followed from imposing alien categories, and the remedy was patient description grounded in the language's own patterns.",
+      "He emphasized recording long texts in the field rather than isolated words, and paid close attention to accurate phonetic transcription of sounds unfamiliar to European ears. In the introduction to the Handbook of American Indian Languages he argued that language, race and culture are independent variables: linguistic classification cannot be used to rank races or cultures, and the grammatical complexity of a language says nothing about the intellectual capacity of its speakers. This position became a shared premise of modern linguistics."
+     ]
+    },
+    {
+     "h": "语言与文化：语言相对论的先声",
+     "hEn": "Language and Culture: Prelude to Relativity",
+     "p": [
+      "博厄斯指出，语言范畴并不直接反映使用者的思维水平，但语言习惯确实会引导人们注意某些经验特征而忽略其他特征。他以英语与夸扣特尔语在数的表达上的差异说明，语法范畴是任意的约定，不是普遍思维的必然结果。不同语言的说话人因此被引导去关注世界的不同侧面，不过博厄斯并不认为语言会限制人能够想到什么。",
+      "这一观点经他的学生萨丕尔与沃尔夫进一步发展，形成了关于语言影响思维的假设，相关争论后来被称为语言相对论。尽管博厄斯本人对语言决定论持谨慎态度，他仍被视为这一传统的思想源头之一。他坚持用语言自身的范畴进行描写的主张，至今仍是人类语言学与田野语言学的基本要求。"
+     ],
+     "pEn": [
+      "Boas argued that linguistic categories do not directly reflect the intellectual level of their speakers, yet habitual linguistic patterns do lead people to attend to some features of experience and to neglect others. Using contrasts between English and Kwak'wala in the expression of number, he showed that grammatical categories are arbitrary conventions rather than inevitable products of universal thought. Different languages thus oblige their speakers to notice different aspects of the world, although Boas denied that such differences set limits on what can be thought.",
+      "His students Edward Sapir and Benjamin Lee Whorf developed this line of thought into a hypothesis about the influence of language on thought, and the resulting debate is usually called linguistic relativity. Although Boas himself was cautious about strong linguistic determinism, he is generally regarded as one of the intellectual sources of that tradition, and his insistence on studying each language in its own terms remains central to anthropological linguistics."
+     ]
+    },
+    {
+     "h": "代表著作与田野实践",
+     "hEn": "Major Works and Fieldwork",
+     "p": [
+      "代表作包括《美洲印第安语言手册》导言（1911）、《原始人的心智》（1911）、《人类学与现代生活》（1928）与《种族、语言与文化》（1940）。其中《原始人的心智》系统批驳了以种族或语言划分心智高低的观点。",
+      "他曾在巴芬岛、太平洋西北海岸与墨西哥等地开展田野工作，记录了夸扣特尔语、钦西安语等语言的大量文本。他坚持研究者必须学习当地语言，这一规范至今仍是田野调查的基本要求。"
+     ],
+     "pEn": [
+      "His major works include the introduction to the Handbook of American Indian Languages (1911), The Mind of Primitive Man (1911), Anthropology and Modern Life (1928), Kwakiutl Ethnography and Race, Language and Culture (1940). The Mind of Primitive Man systematically refuted the ranking of mental capacity by race or language and became a landmark in the scientific critique of racial prejudice in the United States.",
+      "He carried out fieldwork on Baffin Island, along the Pacific Northwest Coast and in Mexico, recording substantial text corpora in languages such as Kwak'wala and Tsimshian. He insisted that researchers learn the local language and work with speakers as collaborators rather than mere informants, and he trained local assistants who continued the documentation. This norm of language learning and long-term residence remains basic to linguistic fieldwork today."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "博厄斯的方法确立了美国语言学的描写传统与人类学四大分支格局，也影响了萨丕尔、沃尔夫、雅各布森等人的研究。他对种族主义的科学批判，以及文化差异源于历史而非生物的主张，具有超越学院语言学的持久社会意义。他的学生把他的研究纲领带进语言学、民俗学与博物馆研究，遍及北美各地。",
+      "批评者认为，他过度强调文化的独特性，削弱了跨文化比较与理论概括；有学者指出他对待科学种族主义的态度与其时代背景纠缠复杂；此外，他的抢救式记录虽保存了珍贵语料，却难免带有记录者的选择偏向。"
+     ],
+     "pEn": [
+      "Boas's methods established the descriptive tradition in American linguistics and the four-field structure of American anthropology, and they influenced the work of Sapir, Whorf, Jakobson and many others. His scientific critique of racism, and his insistence that cultural differences are historical rather than biological, retain lasting social and political importance well beyond academic linguistics. His students carried his programme into linguistics, folklore and museum studies across North America.",
+      "Critics argue that his emphasis on the particularity of each culture weakened cross-cultural comparison and the search for general theory. Some historians also contend that his stance towards scientific racism was entangled with the assumptions of his own time, while his salvage documentation, though it preserved invaluable material, inevitably reflects the choices and categories of the recorder. These debates continue in anthropology and in the historiography of linguistics."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "文化相对主义",
+     "tEn": "Cultural Relativism",
+     "d": "主张一种文化应以自身标准理解，不能用另一文化的尺度评判其高低。",
+     "dEn": "The view that a culture should be understood by its own standards, not judged by another's."
+    },
+    {
+     "t": "描写语言学",
+     "tEn": "Descriptive Linguistics",
+     "d": "按语言自身结构范畴如实记录与分析语言，而非套用外来语法框架。",
+     "dEn": "Recording and analysing a language in terms of its own categories."
+    },
+    {
+     "t": "抢救式记录",
+     "tEn": "Salvage Documentation",
+     "d": "在语言消亡前尽快记录其词汇、文本与语法的方法取向。",
+     "dEn": "Urgent recording of vocabulary, texts and grammar before a language disappears."
+    },
+    {
+     "t": "语言相对论",
+     "tEn": "Linguistic Relativity",
+     "d": "语言范畴与语言习惯影响说话人感知世界和思维方式的主张，源自博厄斯、萨丕尔与沃尔夫的论述。",
+     "dEn": "The claim that linguistic categories and habits influence perception and thought."
+    },
+    {
+     "t": "美洲印第安语言手册",
+     "tEn": "Handbook of American Indian Languages",
+     "d": "博厄斯主编的语言描写丛书，其导言奠定美洲语言描写方法。",
+     "dEn": "Boas's edited series whose introduction set the method for describing American languages."
+    },
+    {
+     "t": "四大分支",
+     "tEn": "Four-field Anthropology",
+     "d": "把考古学、生物人类学、文化人类学与语言学结合的人类学框架。",
+     "dEn": "The integration of archaeology, biological anthropology, cultural anthropology and linguistics."
+    },
+    {
+     "t": "文本记录",
+     "tEn": "Text Recording",
+     "d": "逐句记录并转写当地语言的自然长篇话语，作为分析基础。",
+     "dEn": "Transcribing extended natural speech in the local language as the basis of analysis."
+    }
+   ],
+   "related": [
+    "linguistic-relativity",
+    "sapir",
+    "whorf",
+    "ethnolinguistics",
+    "fieldwork"
+   ],
+   "sources": [
+    "Wikipedia, \"Franz Boas\", https://en.wikipedia.org/wiki/Franz_Boas",
+    "Boas, Handbook of American Indian Languages, Introduction, Bureau of American Ethnology, 1911"
+   ]
+  }
+ ]
+}

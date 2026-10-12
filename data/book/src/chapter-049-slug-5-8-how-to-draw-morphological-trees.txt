@@ -1,0 +1,22 @@
+# 5.10 How to draw morphological trees
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2339#oembed-1
+In Section 5.9 we saw that the order in which we attach derivational affixes, or the order in which we build compound words, sometimes matters. So a word like “governmental”, isn’t just a string of the root govern + the suffix –ment + the suffix –al. Instead, it’s the result of first combining govern and –ment, and then combining the result of that with a further suffix –al.
+In linguistics, we often represent this type of structure with a tree diagram. Trees are used to represent the constituency of language, the subgroupings of pieces within a larger word or phrase. One of the big insights of linguistics is that constituency is always relevant when describing how pieces combine together, whether we’re looking at morphemes within a word or words within a sentence. (though different theories in linguistics often take different views of what range of hierarchical structures are possible in natural languages.)
+
+[图片：5_tree5_governmental.png]
+
+Figure 5.9 Tree diagram for governmental
+When drawing a morphological tree, we can follow these steps:
+- Identify the root and any affixes 1 root: non-compound word
+- 2 roots: compound word
+- Determine the category of the root
+- Determine the order in which affixes attach
+- Determine the category of any intervening bases, and of the whole word.
+
+You might find that it makes sense to do these in different orders, or in different orders in different words. The best way to find out what works for you is to practice.
+Linguistic trees also represent the order of their elements—you should be able to read along the bottom of the tree, and get the order of morphemes in the word (or words in a sentence, as we’ll see in Chapter 6). This means that prefixes should always go on the left of the constituent they attach to, and suffixes should always go on the right (assuming we read left-to-right).
+
+## Check your understanding
+
+Coming soon!

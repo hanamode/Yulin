@@ -1,0 +1,48 @@
+{
+ "batch": 4,
+ "out": "data/gen2/wiki-src/wiki-src-04.json",
+ "entries": [
+  {
+   "id": "generativism",
+   "title": "生成语法",
+   "en": "Generative Grammar",
+   "category": "theories",
+   "summary": "生成语法由乔姆斯基创立，认为语言学应以解释人类有限手段生成无限句子的能力为目标。它区分语言能力与语言表现，主张句法具有自主性与递归性，并假设人脑先天具备普遍语法"
+  },
+  {
+   "id": "grice",
+   "title": "保罗·格莱斯",
+   "en": "H. P. Grice",
+   "category": "people",
+   "summary": "保罗·格莱斯（1913—1988）是英国哲学家、语言学家，日常语言哲学与语用学的奠基人。他区分自然意义与非自然意义，提出会话的合作原则及数量、质量、关系、方式四"
+  },
+  {
+   "id": "grimm-law",
+   "title": "格里姆定律",
+   "en": "Grimm’s Law",
+   "category": "writing",
+   "summary": "格里姆定律是雅各布·格林提出的日耳曼语辅音演变规律，说明原始印欧语的塞音在原始日耳曼语中发生了系统性转音：清塞音变清擦音、浊塞音变清塞音、送气浊塞音变浊塞音。它"
+  },
+  {
+   "id": "halliday",
+   "title": "韩礼德",
+   "en": "M. A. K. Halliday",
+   "category": "people",
+   "summary": "韩礼德（1925—2018）是英国语言学家，系统功能语法的创立者。他主张语言是社会符号系统，语法由可供选择的意义潜势构成；他提出概念、人际、语篇三大元功能，并把"
+  },
+  {
+   "id": "historical-linguistics",
+   "title": "历史语言学",
+   "en": "Historical Linguistics",
+   "category": "branches",
+   "summary": "历史语言学研究语言在时间维度上的演变及其原因，通过比较法重建原始语言，解释音变、类推、借词与语法化等机制，是理解语言谱系关系与文字、词汇演化的基础分支学科。"
+  },
+  {
+   "id": "implicature",
+   "title": "会话含义",
+   "en": "Conversational Implicature",
+   "category": "concepts",
+   "summary": "会话含义是格莱斯提出的核心概念，指说话人通过话语在字面意义之外传达、并由听话人依据合作原则与语境推论出来的意义。它具有可推导性、可取消性与不可分离性，分为一般会"
+  }
+ ]
+}

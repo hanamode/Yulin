@@ -1,0 +1,99 @@
+{
+ "batch": 65,
+ "sections": {
+  "part-014-chapter-14-historical-linguistics": {
+   "title": {"en": "Chapter 14: Historical Linguistics", "zh": "第 14 章 历史语言学"},
+   "summary": {
+    "en": "Languages change constantly, from one generation to the next and even within a single generation, and they can change in any area where they differ: phonology, morphology, syntax, and others. This chapter surveys the many ways languages change and explains how linguists make educated guesses about what earlier languages looked like.",
+    "zh": "语言在不断变化，既发生在代际之间，也发生在同一代人内部；语言可以在音系、形态、句法等任何彼此不同的层面发生变化。本章考察语言变化的各种方式，说明语言学家如何依据证据对语言早期的面貌作出有根据的推测，并列出学完本章后应达到的学习目标。"
+   },
+   "points": [
+    {"en": "Languages change from one generation to the next and even within a single generation.", "zh": "语言会一代代发生变化，甚至在同一代人的内部也会发生变化。"},
+    {"en": "Change can occur in any domain where languages differ, including phonology, morphology, and syntax.", "zh": "语言在音系、形态、句法等任何存在差异的层面都可能发生变化。"},
+    {"en": "The chapter teaches readers to categorize changes, reconstruct proto-forms, and refute common myths.", "zh": "本章教读者给变化归类、构拟原始形式，并反驳关于语言变化的常见误解。"},
+    {"en": "Sections 14.1-14.6 and 14.8-14.9 are complete but are still subject to change.", "zh": "14.1 至 14.6 节与 14.8 至 14.9 节已经完成，但仍然可能修改。"}
+   ],
+   "terms": [
+    {"en": "phonology", "zh": "音系学", "defEn": "The study of how sounds pattern and function in a language.", "defZh": "研究语音在语言中如何系统分布并发挥功能的语言学分支。"},
+    {"en": "morphology", "zh": "形态学", "defEn": "The study of the internal structure and formation of words.", "defZh": "研究词的内部结构、构成方式及其变化的语言学分支。"},
+    {"en": "syntax", "zh": "句法学", "defEn": "The study of how words combine into phrases and sentences.", "defZh": "研究词如何组合成短语和小句、句子的一门语言学分支。"},
+    {"en": "proto-form", "zh": "原始形式（构拟形式）", "defEn": "A reconstructed ancestral form inferred from patterns in the available linguistic data.", "defZh": "根据现有语言材料中的规律推断并构拟出来的共同祖语形式。"}
+   ],
+   "examples": [],
+   "body": [
+    {"en": "Historical linguistics is the study of how languages change over time. Because languages can differ from one another in phonology, morphology, syntax, and other areas, they can also change in each of those areas, from one generation to the next and even within a single generation. This chapter surveys the many kinds of change that languages undergo and explains how linguists make reasoned guesses about earlier stages of a language.", "zh": "历史语言学研究语言如何随时间发生变化。语言可以在音系、形态、句法等各个层面彼此不同，因此也可以在每一个层面发生变化，既可能发生在代际之间，也可能发生在同一代人内部。本章介绍语言所能经历的各种变化，并说明语言学家如何对语言的早期面貌作出有根据的推测。"},
+    {"en": "By the end of the chapter readers should be able to label examples of change with the appropriate technical terms, analyze linguistic data to identify which changes are illustrated and to reconstruct proto-forms, and recognize and argue against widespread myths about language change. The chapter is still being written: Sections 14.1-14.6 and 14.8-14.9 are complete but may change, and further sections are planned, including 14.7 External change, 14.10 More comparative reconstruction, and 14.11 Language families.", "zh": "学完本章后，读者应能：用专业术语给语言变化的实例归类；分析语言材料，判断其中体现了哪些变化并构拟原始形式；识别并反驳关于语言变化的常见误解。本章仍在编写中：14.1 至 14.6 节和 14.8 至 14.9 节已经完成但可能修改，后续还将增加 14.7 外部变化、14.10 更多比较构拟、14.11 语系等小节。"}
+   ]
+  },
+  "chapter-151-slug-14-1-why-do-languages-change": {
+   "title": {"en": "14.1 Why do languages change?", "zh": "14.1 语言为什么会变化？"},
+   "summary": {
+    "en": "Languages change because the world they describe changes and because speakers naturally vary. Change may come from outside the language, as in language contact, or from internal pressures such as ease of articulation, and it is not linked to complexity. Linguists study such change synchronically, at one point in time, or diachronically, across two or more points in time.",
+    "zh": "语言变化既因为它所描述的世界在变化，也因为说话者本身存在变异。变化可来自语言外部（如语言接触），也可来自发音省力等内部压力，并且与语言的复杂度无关。语言学家以共时视角研究某一时间点，以历时视角研究两个或多个时间点之间的变化。"
+   },
+   "points": [
+    {"en": "New technology and cultural shifts push speakers to coin or adapt short terms for frequently discussed concepts.", "zh": "新科技与文化变迁促使说话者为经常谈论的概念创造或改造简短词语。"},
+    {"en": "Variation may be stable, but a variant can spread until older forms become obsolete and socially unremarkable.", "zh": "变异可能长期稳定，但某一变式也可能扩散，使旧形式最终被淘汰、不再有社会含义。"},
+    {"en": "Synchronic linguistics studies one point in time; diachronic linguistics studies change across two or more periods.", "zh": "共时语言学研究某一时间点，历时语言学研究两个或多个时期之间的变化。"},
+    {"en": "Labels such as Old, Middle, and Modern describe attested periods, and their boundaries are gradual and language-specific.", "zh": "古、中古、现代等标签用于有据可考的时期，其界限渐变且因语言而异。"},
+    {"en": "Change may come from external sources such as language contact or from internal pressures such as ease of articulation.", "zh": "变化或源于语言接触等外部因素，或源于发音省力等语言内部压力。"},
+    {"en": "Language change and complexity are unrelated, because complexity is not a single well-defined property.", "zh": "语言变化与复杂度并无关联，因为复杂度并非单一而明确的属性。"}
+   ],
+   "terms": [
+    {"en": "synchronic linguistics", "zh": "共时语言学", "defEn": "The study of language patterns at a single point in time.", "defZh": "研究语言在某一特定时间点上的模式与结构的语言学分支。"},
+    {"en": "diachronic linguistics", "zh": "历时语言学", "defEn": "The study of changes in language patterns across two or more points in time.", "defZh": "研究语言模式在两个或多个时间点之间发生变化的语言学分支。"},
+    {"en": "etymology", "zh": "词源", "defEn": "The historical development of a word or expression.", "defZh": "一个词或表达方式在历史上的来源、形成与意义演变过程。"},
+    {"en": "etymological fallacy", "zh": "词源谬误", "defEn": "An argument relying on an older etymological meaning where only the current meaning matters.", "defZh": "在只应依据当前意义时，却以词的古老词源意义进行论证的逻辑谬误。"},
+    {"en": "external change", "zh": "外部变化", "defEn": "Language change caused by something outside the language, such as cultural change or language contact.", "defZh": "由语言之外的因素引起的变化，如文化变迁、新科技或语言接触。"},
+    {"en": "internal change", "zh": "内部变化", "defEn": "Language change that happens spontaneously within the language because of its structure or modality.", "defZh": "因语言自身结构或模态而在语言内部自发产生、无需外部原因的变化。"}
+   ],
+   "examples": [
+    {"text": "the house is building > the house is being built", "noteEn": "An older English construction was replaced by a newer passive progressive form.", "noteZh": "英语中较旧的进行被动结构逐渐被较新的被动进行式取代。"},
+    {"text": "reasons [rezənz] > [rizənz]", "noteEn": "A vowel change that destroyed a pun in Shakespeare's Henry IV.", "noteZh": "一次元音变化，使莎士比亚《亨利四世》中的双关语失效。"},
+    {"text": "nice 'silly' > 'delicate' > 'careful' > 'pleasant'", "noteEn": "The meaning of nice shifted repeatedly after it was borrowed into English.", "noteZh": "nice 一词借入英语后，其词义经历了多次连续的演变。"},
+    {"text": "If reasons were as plentiful as blackberries, […]", "noteEn": "Falstaff's pun depended on the word reasons sounding like raisins.", "noteZh": "福斯塔夫的这个双关依赖于 reasons 与 raisins 读音相近。"}
+   ],
+   "body": [
+    {"en": "Languages change because the world they describe changes: new technology and cultural shifts demand new ways of talking. A sentence about an app, a blog, and a life hack would have been hard to decode in the 1990s. Frequently discussed concepts attract short specialized terms, so speakers coin or adapt expressions instead of repeating cumbersome descriptions. Languages also vary naturally, and a meaningful variant may displace older forms: the house is being built replaced the house is building, despite prescriptivists who called it clumsy.", "zh": "语言之所以变化，是因为它所描述的世界在变化：新科技与文化变迁都需要新的说法。今天一句涉及 app、blog 和 life hack 的话，在 20 世纪 90 年代几乎无法解读。由于经常谈论的概念容易获得简短而专门的词语，说话者会创造或改造表达方式，而不愿反复使用冗长的描述。语言本身也在自然地变异，一个带有社会含义的变式最终可能取代旧形式：the house is being built 取代了 the house is building，尽管当时的规范主义者曾指责它笨拙。"},
+    {"en": "Synchronic linguistics studies patterns at a single point in time; diachronic linguistics studies change across two or more points. When changes accumulate, modifiers such as Old, Middle, and Modern label periods: Old English (AD 450-1150), Middle English (1150-1500), and Modern English (1500-present). Such labels apply only to attested forms, those with direct written or recorded evidence. The boundaries are conventional and never sharp, since every period contained variation by class, age, gender, and region, and the transition from one period to the next is gradual.", "zh": "共时语言学研究某一时间点上的语言模式，历时语言学研究两个或多个时间点之间的变化。当变化积累到一定程度，可用 Old、Middle、Modern 等修饰语标示时期：古英语（公元 450—1150 年）、中古英语（1150—1500 年）和现代英语（1500 年至今）。这些标签只用于有直接书面或录音证据的、有据可考的形式。时期界限是约定的，从不截然分明，因为任何时期都存在因阶层、年龄、性别和地域而产生的变异，而从一个时期到下一个时期的过渡是渐进的。"},
+    {"en": "A change can be written with a greater-than sign from the older form to the newer one, as in reasons [rezənz] > [rizənz]. The notation also tracks meaning: nice, borrowed from Old French meaning 'silly', shifted through 'delicate' and 'careful' to 'pleasant'. A word's history is its etymology, but its meaning depends on current use, not on its source. Insisting on an older sense where only the modern one matters is the etymological fallacy; the suffix -phobic generally marks aversion or intolerance.", "zh": "变化可以用大于号表示，由旧形式指向新形式，如 reasons [rezənz] > [rizənz]。这一记号也能表示意义变化：nice 借自中古法语，原义为「silly」，后经「delicate」「careful」演变为「pleasant」。一个词的历史演变过程就是它的词源，但词义取决于当下的用法，而与来源无关。在只应依据现代意义时坚持词源意义，就是词源谬误；-phobic 这一后缀一般表示厌恶或不容忍。"},
+    {"en": "Change has two broad sources. External change originates outside the language, especially in language contact, when speakers of different languages interact. Internal change arises from a language's own structure: adjacent phones are easier to pronounce when they take on properties from one another through assimilation. Many internal changes probably begin during acquisition, as children articulate slightly differently from their parents, unnoticed at first but pushed further in later generations. Change and complexity are unrelated, because complexity is not a single well-defined property.", "zh": "变化有两大来源。外部变化源于语言之外，尤其是不同语言的使用者相互接触之时。内部变化源于语言自身的结构：相邻的音素如果互相吸收特征而发生同化，发音会更省力。许多内部变化可能始于语言习得，儿童与父母的发音略有不同，起初无人察觉，却可能被后代进一步推进。变化与复杂度之间并无关联，因为复杂度并非单一而明确的属性。"}
+   ]
+  },
+  "chapter-152-slug-14-2-lexical-change": {
+   "title": {"en": "14.2 Lexical change", "zh": "14.2 词汇变化"},
+   "summary": {
+    "en": "Some changes are sporadic, affecting only one or a few words, as when app was clipped from application. Lexical change mostly adds words: neologisms may come from root creation, proper names, brand names and genericization, compounding, clipping, blending, or acronyms and initialisms. Taboo avoidance can also create new words or add meanings to existing ones.",
+    "zh": "有些变化是零星的，只影响一个或少数几个词，如 app 由 application 截短而来。词汇变化主要表现为新词增加：新词可来自词根创制、专有名词、品牌名与商标通用化、复合、截短、混成，以及首字母缩略与字母词。忌讳回避也能创造新词，或为已有词增添新义。"
+   },
+   "points": [
+    {"en": "Sporadic changes affect only one or a few words, as when app was clipped from application but not complication.", "zh": "零星变化只影响一个或少数几个词，如 app 由 application 截短而来，而 complication 并未如此。"},
+    {"en": "A neologism is a word created inside a language; root creation coins one without deriving it from existing words.", "zh": "新词指在语言内部创造的词；词根创制不依据已有词而直接造词。"},
+    {"en": "Many new words come from proper names, brand names, or genericization, in which a trademark becomes a general term.", "zh": "许多新词来自专有名词、品牌名或商标通用化，即商标变成一般词语。"},
+    {"en": "Compounding, clipping, and blending build new words from existing material in different ways.", "zh": "复合、截短与混成以不同的方式利用语言中已有的材料来构造新词。"},
+    {"en": "Acronyms derive from spelling rather than pronunciation and may be read as words or letter by letter.", "zh": "首字母缩略词依据拼写而非读音构成，可整体拼读或逐字母读出。"},
+    {"en": "Taboo avoidance can add meaning to an existing word or create a neologism such as dang for damn.", "zh": "忌讳回避既可以给已有词增添新的意义，也可以创造新词，如用 dang 代替 damn。"}
+   ],
+   "terms": [
+    {"en": "neologism", "zh": "新词", "defEn": "A new word or expression created within a language.", "defZh": "在某一语言内部新创造出来、此前并不存在的词或表达方式。"},
+    {"en": "root creation", "zh": "词根创制", "defEn": "Coining a new word that is not derived from any existing word.", "defZh": "不依据任何已有词，直接创造出一个全新词语的构词方式。"},
+    {"en": "clipping", "zh": "截短（截短法）", "defEn": "Creating a new word by shortening a longer existing word.", "defZh": "通过截去较长词语的一部分来创造新词的方法，又称压缩或截断。"},
+    {"en": "blend", "zh": "混成词", "defEn": "A word made by combining pieces of two or more words.", "defZh": "把两个或更多词的部分组合成一个新词，又称拼缀词或混合词。"},
+    {"en": "acronym", "zh": "首字母缩略词", "defEn": "A word formed from pieces of the spelling of a phrase.", "defZh": "由短语中各词拼写的一部分构成的词，可按单词或按字母读。"},
+    {"en": "genericization", "zh": "商标通用化", "defEn": "When a brand name comes to refer to any similar product regardless of brand.", "defZh": "商标名称变为泛指任何同类产品、不再区分品牌的语义变化。"}
+   ],
+   "examples": [
+    {"text": "the shortened form app for application in English", "noteEn": "A clipping that did not extend to similar words such as complication.", "noteZh": "这一截短并没有波及 complication 等结构相似的词，只影响了 app 一个词。"},
+    {"text": "brunch is a blend of breakfast and lunch", "noteEn": "The clipped pieces [br-] and [-ʌnt͡ʃ] join to form [brʌnt͡ʃ].", "noteZh": "brunch 是把 breakfast 截取的部分 [br-] 与 lunch 截取的部分 [-ʌnt͡ʃ] 组合起来形成的新词 [brʌnt͡ʃ]。"},
+    {"text": "scuba < self-contained underwater breathing apparatus", "noteEn": "An acronym that is pronounced as an ordinary word, namely [skubə].", "noteZh": "可以像普通单词一样读出的首字母缩略词，读作 [skubə]。"},
+    {"text": "dang and gosh entered English, as they were coined as alternatives to damn and God", "noteEn": "Taboo avoidance creating new words rather than reusing existing ones.", "noteZh": "忌讳回避不借用已有词，而是创造新词替代禁忌词。"}
+   ],
+   "body": [
+    {"en": "Some internal changes are sporadic: they affect only one or a few words. English app was shortened from application, but complication and implication were not shortened to comp or imp. A notable sporadic change is the shift of some two-handed signs in American Sign Language, such as COW, to one-handed signs, while BOOK and HALLOWEEN kept both hands. Lexical change usually means adding words. A word created inside a language without direct outside influence is a neologism; the most basic type, root creation, is rare and often imitative, as with zap or googol.", "zh": "有些内部变化是零星的，只影响一个或少数几个词。英语的 app 由 application 截短而来，但 complication、implication 并没有截短为 comp、imp。另一个零星变化的例子是美国手语中某些双手手势（如 COW）变为单手手势，而 BOOK、HALLOWEEN 仍保留双手。词汇变化通常指新词的增加。在语言内部、不受外部直接影响而创造的词叫新词，最基本的类型是词根创制，这类词相当少见，且常带模仿性质，如 zap 和 googol。"},
+    {"en": "Most neologisms are derived from words already in the language. Proper names are a rich source: canary is named after the Canary Islands, whose Latin name Canariæ Insulæ means 'Islands of the Dogs', so the birds are indirectly named after dogs. Brand names also produce words. When a brand name comes to refer to any similar product regardless of brand, genericization has occurred, as with dry ice, dumpster, escalator, heroin, and zipper, and sometimes the trademark still legally exists.", "zh": "大多数新词都由语言中已有的词派生而来。专有名词是丰富的来源：canary（金丝雀）得名于加那利群岛，而群岛的拉丁语名称 Canariæ Insulæ 意为「狗之岛」，因此这种鸟其实是间接以狗命名的。品牌名也能产生新词。当品牌名转而泛指任何同类产品而不分品牌时，就发生了商标通用化，如 dry ice、dumpster、escalator、heroin、zipper；有时商标在法律上仍然存在。"},
+    {"en": "New words can also be built from existing material. A compound joins two or more words, often with a non-compositional meaning. Clipping shortens a longer word, as in exam < examination and burger < hamburger, and rarely takes material from the middle, as in flu < influenza. A blend combines pieces of two or more words into a new word sharing their pronunciation and meaning: brunch joins [br-] from breakfast with [-ʌnt͡ʃ] from lunch.", "zh": "新词也可以用已有材料构造。复合词把两个或更多单词组合起来，其意义往往不能由组成部分直接推知。截短通过缩短较长的词造词，如 exam < examination、burger < hamburger，极少数情况下截取词的中部，如 flu < influenza。混成词把两个或更多词的部分拼合，新词在读音和意义上都与原词相关：brunch 由 breakfast 的 [br-] 与 lunch 的 [-ʌnt͡ʃ] 组合为 [brʌnt͡ʃ]。"},
+    {"en": "Acronyms come from the spelling of a word or phrase. They may be read as ordinary words, like scuba < self-contained underwater breathing apparatus, pronounced [skubə], or letter by letter, in which case they are initialisms, like SO < significant other, pronounced [ɛs o]. Acronyms are relatively modern, and most claimed acronym etymologies before the mid-twentieth century are false. Taboo avoidance also creates neologisms such as dang for damn and gosh for God.", "zh": "首字母缩略词依据词或短语的拼写而非读音构成，可以像普通词一样读出，如 scuba < self-contained underwater breathing apparatus 读作 [skubə]；也可以逐字母读出，这时称为字母词，如 SO < significant other 读作 [ɛs o]。缩略词是相对晚近的现象，20 世纪中叶以前关于某词源自缩略的说法几乎都是错误的。忌讳回避也会创造新词，如用 dang 代替 damn、用 gosh 代替 God。"}
+   ]
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "batch": 17,
+ "out": "data/gen2/batch-17.json",
+ "entries": [
+  {
+   "id": "register",
+   "title": "语域",
+   "en": "Register",
+   "category": "concepts"
+  },
+  {
+   "id": "dialect",
+   "title": "方言",
+   "en": "Dialect",
+   "category": "concepts"
+  },
+  {
+   "id": "standard-language",
+   "title": "标准语",
+   "en": "Standard Language",
+   "category": "concepts"
+  }
+ ]
+}

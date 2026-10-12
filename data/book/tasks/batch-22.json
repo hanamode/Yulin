@@ -1,0 +1,25 @@
+{
+ "batch": 22,
+ "chapter": "Chapter 5: Morphology",
+ "out": "data/book/gen/batch-22.json",
+ "sections": [
+  {
+   "id": "part-005-chapter-5-morphology",
+   "title": "Chapter 5: Morphology",
+   "src": "data/book/src/part-005-chapter-5-morphology.txt",
+   "chars": 606
+  },
+  {
+   "id": "chapter-040-slug-5-1-what-is-morphology",
+   "title": "5.1 What is morphology?",
+   "src": "data/book/src/chapter-040-slug-5-1-what-is-morphology.txt",
+   "chars": 6649
+  },
+  {
+   "id": "chapter-041-slug-5-2-types-of-morphology-affixes-and-beyond",
+   "title": "5.2 Roots, bases, and affixes",
+   "src": "data/book/src/chapter-041-slug-5-2-types-of-morphology-affixes-and-beyond.txt",
+   "chars": 8985
+  }
+ ]
+}

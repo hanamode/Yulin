@@ -1,0 +1,51 @@
+{
+ "batch": 9,
+ "sections": {
+  "chapter-009-exercises": {
+   "title": {"en": "1.9 Exercise your linguistics skills", "zh": "1.9 练一练语言学技能"},
+   "summary": {
+    "en": "This section offers four exercises that apply the chapter's ideas to the reader's own language experience. They ask for descriptive observations about a first language, for the invention and evaluation of new product names, for new verbs coined from nouns, and for a dictionary definition of a word that has only recently entered English.",
+    "zh": "本节提供四个练习，把本章的理念用于读者自身的语言经验：先界定第一语言与 L1，并对自己的第一语言作出描写性而非规定性的科学观察；再为初创公司的新产品发明独一无二的名称，并评判其他学生所造名称的优劣；接着由名词创造新动词，以体会心理语法的生成性；最后为刚进入英语不久、尚未收入主流词典的新词，根据语境中的用法编写词典释义。"
+   },
+   "points": [
+    {"en": "First language and L1, sometimes called native language, means the language learned in very early childhood from surrounding people.", "zh": "第一语言（first language）与 L1（有时称母语 native language）指在幼年早期从周围人那里习得的语言。"},
+    {"en": "Many people have more than one L1, and observations about a language must be descriptive rather than prescriptive.", "zh": "许多人不只拥有一门第一语言；对语言的观察必须是描写性的，而不是规定性的。"},
+    {"en": "A good product name must be unique, and readers are asked to judge which invented names work and why.", "zh": "好的产品名称必须独一无二；读者需要判断哪些生造名称可行，以及原因何在。"},
+    {"en": "Mental grammar is generative: new words, including new verbs made from nouns or proper names, can always be created.", "zh": "心理语法具有生成性：新词总能被创造出来，包括由名词或专有名词转成的新动词。"},
+    {"en": "Words that are too new for mainstream dictionaries can still be defined from observed uses in context.", "zh": "尚未收入主流词典的新词，仍可根据在语境中观察到的用法加以定义。"}
+   ],
+   "terms": [
+    {"en": "first language / L1", "zh": "第一语言 / L1", "defEn": "The language a person learned from surrounding people in very early childhood.", "defZh": "一个人幼年早期从周围人那里习得的语言，许多人可以拥有不止一门第一语言。"},
+    {"en": "native language", "zh": "母语", "defEn": "Another name for a first language, sometimes used when only one is assumed.", "defZh": "第一语言的另一种说法，通常在假定一个人只有一门母语时使用。"},
+    {"en": "descriptive", "zh": "描写性的", "defEn": "Describing how a language is actually used rather than how it ought to be used.", "defZh": "如实描述语言实际的使用方式，而不去规定它应当如何使用。"},
+    {"en": "prescriptive", "zh": "规定性的", "defEn": "Stating how a language should be used, often judging some usages as incorrect.", "defZh": "规定语言应当如何使用，往往把某些实际存在的用法判定为不正确。"},
+    {"en": "generative", "zh": "生成性的", "defEn": "The property of mental grammar that allows speakers to create new words and sentences.", "defZh": "心理语法的一种属性，使说话者能够创造出此前从未听过的新词与新句子。"},
+    {"en": "mental grammar", "zh": "心理语法", "defEn": "The system of knowledge in a speaker's mind that underlies language use.", "defZh": "存在于说话者心智之中、支撑其理解与生成语言的知识系统。"}
+   ],
+   "examples": [
+    {"text": "We’re Megabussing to Montreal this weekend.", "noteEn": "A proper name is turned into a new verb describing travel by that company.", "noteZh": "专有名词被用作新动词，表示乘该公司的车前往某地。"},
+    {"text": "You can find out the answer by Googling.", "noteEn": "A brand name becomes a verb meaning to search for information online.", "noteZh": "品牌名称被用作动词，表示在网上搜索并查找信息。"},
+    {"text": "The kids got Pfizered before going back to school.", "noteEn": "A company name becomes a verb meaning to receive that company's vaccine.", "noteZh": "公司名称被用作动词，表示接种该公司生产的疫苗。"},
+    {"text": "mentocular, swoodiei, torrix, baizan, jibberdab, keerild, euquinu, tuitionary, kzen, zirka, hbiufk, fluxon", "noteEn": "Invented product names from other students, to be judged for how well they work.", "noteZh": "其他学生生造的产品名称，需要判断哪些名称更可行。"}
+   ],
+   "body": [
+    {
+     "en": "The section consists of four exercises that turn the chapter's concepts back on the reader's own linguistic knowledge. The first asks for a definition in use: first language and L1, or native language, name the language a person learned from the people around them in very early childhood. Since many people have more than one L1, readers are asked how many they have and then told to make two scientific observations about one of them, remembering that such observations must be descriptive and not prescriptive.",
+     "zh": "本节由四个练习构成，把本章的概念反过来用在读者自身的语言知识上。第一个练习围绕术语的实际用法：第一语言与 L1（或称母语）指一个人在幼年早期从周围人那里习得的语言，而许多人并不止拥有一门第一语言。因此读者需先回答自己有几种第一语言，然后对其中一门作出两条科学观察，并牢记这类观察必须是描写性的，即如实记录语言的实际用法，而不是规定性的，即不评判某种说法是否正确。"
+    },
+    {
+     "en": "The second exercise is an exercise in naming. Readers imagine working as the in-house linguist for a start-up and must invent a unique name for its new product, a name that does not already exist. They then examine a list of names produced by other students, such as mentocular, torrix, baizan and fluxon, and decide which of them are good product names and which are not, asking what makes a name good and how one can know.",
+     "zh": "第二个练习是关于命名的任务。读者设想自己是一家初创公司的内部语言学家，必须为该公司的新产品发明一个独一无二、此前并不存在的名称。随后要审视其他学生给出的名称清单，例如 mentocular、torrix、baizan、fluxon，判断其中哪些是好的产品名称、哪些不是，并追问好名称的标准是什么、又如何知道。"
+    },
+    {
+     "en": "The third exercise demonstrates that mental grammar is generative, since it is always possible to create new words. English readily forms new verbs from existing nouns, even from proper names, as in We’re Megabussing to Montreal this weekend, You can find out the answer by Googling, and The kids got Pfizered before going back to school. Readers must coin three new verbs from common nouns or proper names and place each in a sentence that shows its meaning.",
+     "zh": "第三个练习说明心理语法具有生成性，因为新词总是可以被创造出来。英语很容易由已有的名词构成新动词，甚至可由专有名词构成，例如 We’re Megabussing to Montreal this weekend、You can find out the answer by Googling、The kids got Pfizered before going back to school。读者需要由普通名词或专有名词造出三个新动词，并各造一句以显示其意义。"
+    },
+    {
+     "en": "The fourth exercise turns to lexical change as it happens. Readers choose a word that has only recently entered English, so recent that it is not yet in mainstream dictionaries, and then collect examples of it being used in context, either in ordinary conversation or by searching online. On the basis of those observed uses, they write a dictionary definition of the word, practising definition as a descriptive task rather than a prescriptive one.",
+     "zh": "第四个练习关注正在发生的词汇变化。读者选一个刚进入英语不久、尚未收入主流词典的新词，然后在日常对话中或通过网络检索，收集它在语境中的用例。根据观察到的用法，为该词撰写一条词典释义，从而把下定义当作描写性任务而非规定性任务来练习。"
+    }
+   ]
+  }
+ }
+}

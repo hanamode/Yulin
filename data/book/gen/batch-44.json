@@ -1,0 +1,103 @@
+{
+ "batch": 44,
+ "sections": {
+  "chapter-097-slug-8-9-illocutionary-meaning": {
+   "title": {"en": "8.9 Illocutionary meaning", "zh": "8.9 施为意义"},
+   "summary": {
+    "en": "Illocutionary meaning is the meaning of a sentence in terms of what the speaker or signer means in making an utterance. Using a dinner conversation between roommates, the section contrasts Bo's assertion with Aya's question, then shows that language is performative and that every speech act involves locutionary, illocutionary, and perlocutionary acts. Sentence form does not map one-to-one onto illocutionary meaning.",
+    "zh": "施为意义指说话人或手语者在作出话语时所表达的意思。本节以两位室友商量晚餐的对话为例，对比 Bo 的断言与 Aya 的疑问，进而说明语言具有施为性，每个言语行为都同时包含言说行为、施为行为和取效行为。句子形式与施为意义之间并不存在一一对应的关系。"
+   },
+   "points": [
+    {"en": "Illocutionary meaning is what a speaker or signer means in making an utterance, not its literal content.", "zh": "施为意义指说话人或手语者在作出话语时所表达的意思，而非句子的字面内容。"},
+    {"en": "Assertions commit the speaker to the truth of the utterance, while questions ask about a proposition's truth value.", "zh": "断言使说话人承诺该话语为真，疑问则就命题的真值向受话人发问。"},
+    {"en": "Because language is performative, saying something can bring about conventional consequences such as christening or bequeathing.", "zh": "语言具有施为性，说出话语可以产生命名船只、遗赠财物等约定俗成的后果。"},
+    {"en": "Every speech act simultaneously involves a locutionary act, an illocutionary act, and a perlocutionary act.", "zh": "每个言语行为都同时包含言说行为、施为行为和取效行为三个层面。"},
+    {"en": "Sentence form does not map one-to-one onto illocutionary meaning, so You got first place! can congratulate or scold.", "zh": "句子形式与施为意义并非一一对应，You got first place! 既可表示祝贺也可表示斥责。"}
+   ],
+   "terms": [
+    {"en": "illocutionary meaning", "zh": "施为意义", "defEn": "What a speaker or signer means by making an utterance in discourse.", "defZh": "说话人或手语者在话语中作出某一言语时所表达的意思，区别于句子的字面意义。"},
+    {"en": "speech act", "zh": "言语行为", "defEn": "Any linguistic expression whose purpose is to do something, in any modality.", "defZh": "任何以做事为目的的语言表达，可出现在口语、手语等不同模态中。"},
+    {"en": "performative", "zh": "施为句", "defEn": "An utterance made to do something and bring about a conventional consequence, often with a performative verb.", "defZh": "为完成某行为并产生约定俗成后果而说出的话语，常含施为动词，如 I hereby name。"},
+    {"en": "locutionary act", "zh": "言说行为", "defEn": "The expression of the literal, truth-conditional meaning of the sentence.", "defZh": "表达句子字面意义即真值条件意义的行为层面，不涉及说话人的交际意图。"},
+    {"en": "illocutionary act", "zh": "施为行为", "defEn": "What the speaker does in making an utterance, such as asserting or requesting.", "defZh": "说话人在作出话语时所做的事，如断言、请求、承诺、祝贺等。"},
+    {"en": "perlocutionary act", "zh": "取效行为", "defEn": "The actual effect the utterance has on the addressee.", "defZh": "话语对受话人实际产生的效果，也称取效效果，取决于受话人的反应。"}
+   ],
+   "examples": [
+    {"text": "We have tomato sauce and ground beef in the fridge.", "noteEn": "Bo's utterance in the dinner conversation, which counts as an assertion.", "noteZh": "晚餐对话中 Bo 说出的话语，表达他相信该句为真，属于一个断言。"},
+    {"text": "Should we have spaghetti for dinner?", "noteEn": "Aya's first utterance, which poses a question rather than an assertion.", "noteZh": "Aya 的第一句话，提出的是一个疑问而非断言。"},
+    {"text": "You're manspreading", "noteEn": "Simultaneously an assertion and a request that the addressee move his legs.", "noteZh": "说话人同时作出断言和请求，要求受话人把腿收拢一些。"},
+    {"text": "You got first place!", "noteEn": "Can count as congratulating in one context and as scolding in another.", "noteZh": "在一种语境中表示祝贺，在另一种语境中则表示斥责。"}
+   ],
+   "body": [
+    {"en": "Illocutionary meaning concerns what a speaker means in making an utterance, not the literal content of the sentence. In the roommates' dinner conversation, Bo's utterance We have tomato sauce and ground beef in the fridge has a sense built from its words, but he says it because he believes it and wants Aya to agree, which makes it an assertion. Aya's Should we have spaghetti for dinner? instead poses a question. Assertion versus question classifies sentences by their illocutionary meaning.", "zh": "施为意义关注的是说话人在作出话语时所要表达的意思，而不是句子的字面内容。在 Aya 和 Bo 商量晚餐的对话中，Bo 说 We have tomato sauce and ground beef in the fridge，这句话固然有由词汇意义组合而成的涵义，但他说它是因为相信它为真并希望 Aya 同意，这使他作出了一个断言；而 Aya 的第一句话 Should we have spaghetti for dinner? 则是提出疑问。断言与疑问正是按施为意义对句子所作的一种分类。"},
+    {"en": "Language is performative: saying I name this ship the S.S. Anne christens the ship, and writing I bequeath my card collection to my child in a will gives rise to rights about future ownership. Austin held that to say something is to do something, and used performatives for utterances made to do something and bring about a conventional consequence, typically with verbs like I hereby name. Anything expressed in order to do something is a speech act, so even Did you break my bike? invites the addressee to supply information.", "zh": "语言具有施为性：说出 I name this ship the S.S. Anne 便完成了命名，在遗嘱中写下 I bequeath my card collection to my child 会产生关于未来财产归属的权利。Austin 认为 to say something is to do something，并用施为句指称这类为做事并带来约定俗成后果而说出的话语，它们通常含有 I hereby name 之类的动词。凡以做事为目的的语言表达都称为言语行为，因此即便只是问一句 Did you break my bike?，也是邀请受话人提供信息的言语行为。"},
+    {"en": "A speech act involves three simultaneous acts. In You're manspreading, the locutionary act gives the literal meaning, namely that the addressee, presupposed male, is sitting with his legs wide apart; the illocutionary act is what she does, asserting and likely also requesting; the perlocutionary act is the effect on the addressee, perhaps that he moves his legs. Form and illocutionary meaning are not one-to-one: You got first place! may congratulate or scold, while T-to-C movement in spoken English typically indicates a question.", "zh": "一个言语行为同时包含三种行为。以 You're manspreading 为例：言说行为给出字面意义，即被预设为男性的受话人正把双腿大张着坐；施为行为是说话人所做的事，她既作出断言，也很可能在提出请求；取效行为则是话语对受话人实际产生的效果，例如他挪动双腿腾出空间。句子形式与施为意义并不一一对应：You got first place! 既可表示祝贺也可表示斥责；不过英语口语中的 T-to-C 移位通常表示正在提出问题。"}
+   ]
+  },
+  "chapter-098-slug-8-10-illocutionary-meaning-compositionality": {
+   "title": {"en": "8.10 Thinking about illocutionary meaning compositionally", "zh": "8.10 从组合性角度思考施为意义"},
+   "summary": {
+    "en": "Sentential meaning is compositional, but sentences are used inside conversations, so illocutionary meaning must be added to a proposition. The section distinguishes propositions from statements, noting that questions lack truth values yet still involve a proposition. It proposes silent ASSERT and INTERR morphemes in C that supply illocutionary force, and shows that Korean marks these forces overtly with -ta and -nunya.",
+    "zh": "句子意义具有组合性，但句子是在对话中使用的，因此必须为命题添加施为意义。本节区分命题与陈述，指出疑问句没有真值却仍然涉及命题；并设定位于 C 的隐性 ASSERT 与 INTERR 语素来提供施为语力，还说明韩语用显性语素 -ta 和 -nunya 标记这两种语力。"
+   },
+   "points": [
+    {"en": "Sentential meaning is compositional, yet sentences are produced within conversations rather than in isolation.", "zh": "句子意义具有组合性，但句子是在对话中产生而非孤立存在的。"},
+    {"en": "A proposition is something that can be assigned a truth value; once it is given one, it is a statement.", "zh": "命题是可以被赋予真值的东西；一旦被赋予真值，就成为陈述。"},
+    {"en": "Questions have no truth value but still involve a proposition, asking whether it is true or false.", "zh": "疑问句没有真值，却仍涉及某个命题，就其为真为假发问。"},
+    {"en": "Silent illocutionary force morphemes ASSERT and INTERR sit in C and combine with their sister TP.", "zh": "隐性施为语力语素 ASSERT 和 INTERR 位于 C，与其姐妹节点 TP 组合。"},
+    {"en": "Korean has overt illocutionary morphemes -ta for assertion and -nunya for questions, surfacing sentence-finally.", "zh": "韩语用显性语素 -ta 标记断言、-nunya 标记疑问，因中心语后置而出现在句末。"}
+   ],
+   "terms": [
+    {"en": "proposition", "zh": "命题", "defEn": "Something that can be assigned a truth value, such as p belonging to C.", "defZh": "可以被赋予真值的东西，如 p∈C，即 Panks 属于猫的集合。"},
+    {"en": "statement", "zh": "陈述", "defEn": "A proposition that has been given a truth value or truth condition.", "defZh": "已被赋予真值或真值条件的命题，与尚未赋值的命题相对。"},
+    {"en": "illocutionary force", "zh": "施为语力", "defEn": "The utterer's intended illocutionary meaning of a sentence.", "defZh": "说话人意图表达的施为意义；只有受话人正确理解，施为行为才算成功。"},
+    {"en": "ASSERT morpheme", "zh": "断言语素", "defEn": "A silent illocutionary force morpheme in C that turns a proposition into an assertion.", "defZh": "位于 C 的隐性施为语力语素，使其姐妹 TP 所表命题成为断言。"},
+    {"en": "INTERR morpheme", "zh": "疑问语素", "defEn": "A silent interrogative force morpheme in C that asks about a proposition's truth value.", "defZh": "位于 C 的隐性疑问语力语素，与命题组合后使其成为疑问句。"},
+    {"en": "head-final", "zh": "中心语后置", "defEn": "A language type in which the head follows its complements, as in Korean and Japanese.", "defZh": "中心语位于补足语之后的语言类型，如韩语和日语，语力语素因此出现在句末。"}
+   ],
+   "examples": [
+    {"text": "Panks is a cat", "noteEn": "The declarative version, an assertion built on the proposition p belongs to C.", "noteZh": "陈述式版本，是基于命题 p∈C 并赋予真值的断言。"},
+    {"text": "Is Panks a cat?", "noteEn": "The interrogative version, which asks about the truth value of p belongs to C.", "noteZh": "疑问式版本，就命题 p∈C 为真还是为假向受话人发问。"},
+    {"text": "ku-ka seoul-e ka-ass-ta", "noteEn": "Korean example glossed 'He went to Seoul', with the overt ASSERT morpheme -ta.", "noteZh": "韩语例子，意为 He went to Seoul，带显性断言语素 -ta。"},
+    {"text": "ku-ka seoul-e ka-ass-nunya?", "noteEn": "Korean question glossed 'Did he go to Seoul?', with the overt INTERR morpheme -nunya.", "noteZh": "韩语疑问句，意为 Did he go to Seoul?，带显性疑问语素 -nunya。"}
+   ],
+   "body": [
+    {"en": "Chapter 7 showed that sentential meaning is compositional: in Panks is a cat, the meaning of cat, the set of all cats, combines with the meaning of Panks to yield TRUE if and only if Panks is in that set. That suffices for a sentence considered in isolation, but sentences are part of a larger conversation, and you typically cannot decide alone whether one is true. This chapter therefore treats sentential meaning as collaborative and discourse-based, which largely concerns illocutionary meaning.", "zh": "第七章已经说明，句子的意义具有组合性：在 Panks is a cat 中，cat 的意义（所有猫的集合）与 Panks 的意义组合，当且仅当 Panks 属于该集合时为真。这种分析对于孤立考察的句子够用，但句子是更大对话的一部分，你通常无法独自决定它是否为真。因此本章把句子意义视为协作性的、基于话语的，这主要涉及施为意义。"},
+    {"en": "Two terms must be distinguished. Panks is a cat is the declarative version and Is Panks a cat? the interrogative version of the same proposition, that Panks is among the set of cats, or p∈C. A proposition is something that can be assigned a truth value; once it is given a truth value, it is a statement. The question is therefore not a statement, because questions have no truth value, yet it still asks whether p∈C is true or false. In this chapter a TP is simply assumed to be a proposition without a truth value yet.", "zh": "有两个术语需要区分。Panks is a cat 是陈述式版本，Is Panks a cat? 则是同一命题的疑问式版本，即 Panks 属于猫的集合（p∈C）。命题是可以被赋予真值的东西，被赋予真值后称为陈述。疑问句没有真值，因而不是陈述，但它仍然就问 p∈C 为真还是为假发问。本章假定 TP 就是一个尚未具有真值的命题。"},
+    {"en": "A proposition alone has no illocutionary meaning, so we posit a silent illocutionary force morpheme. English has a silent ASSERT in C, the head of CP, which adds illocutionary meaning to the proposition of its sister TP: asserting says roughly I believe p∈C is true; do you believe this too? Questions use INTERR instead, meaning roughly Either p∈C is true or p∈C is false; which do you think it is? Korean has overt morphemes for these forces, -ta for assertions and -nunya for questions, appearing sentence-finally because Korean is head-final.", "zh": "命题本身没有施为意义，因此我们设定一个隐性语力语素。英语在 C（CP 的中心语）位置有一个隐性 ASSERT，为其姐妹节点 TP 所表示的命题添加施为意义：断言大致相当于我相信 p∈C 为真；你是否也相信？疑问则使用 INTERR，大致相当于 p∈C 要么为真要么为假；你认为哪一种？韩语用显性语素表达这两种语力：-ta 标记断言，-nunya 标记疑问；由于韩语是中心语后置语言，它们出现在句末。"}
+   ]
+  },
+  "chapter-099-slug-8-11-what-is-a-context": {
+   "title": {"en": "8.11 What is a context?", "zh": "8.11 什么是语境？"},
+   "summary": {
+    "en": "Conversation is a collaborative game in which participants try to determine which propositions are true. This section formalises the context as a collection of sets: the Common Ground of propositions all participants accept, the Question Under Discussion stack of current topics, and each participant's Discourse Commitment set. Illocutionary meaning places a proposition into one or more of these sets.",
+    "zh": "对话是一场协作性的游戏，参与者共同弄清哪些命题为真。本节把语境形式化地刻画为一组集合：所有参与者都接受的共同基础、记录当前话题的讨论中的问题堆栈，以及每个参与者的话语承诺集合。施为意义就是把命题放入这些集合中的一个或多个。"
+   },
+   "points": [
+    {"en": "Conversation is a collaborative game in which participants try to determine which propositions are true.", "zh": "对话是一场协作性的游戏，参与者共同设法确定哪些命题为真。"},
+    {"en": "The context can be modelled as sets that track discourse information: Common Ground, QUD stack, and Discourse Commitment sets.", "zh": "语境可刻画为记录话语信息的集合：共同基础、讨论中的问题堆栈和话语承诺集合。"},
+    {"en": "The Common Ground holds propositions all discourse participants agree to be true, and the goal is to enlarge it.", "zh": "共同基础包含所有话语参与者都同意为真的命题，话语游戏的目标就是不断扩大它。"},
+    {"en": "The Question Under Discussion set is a stack of current topics, whose topmost issue is the one being discussed.", "zh": "讨论中的问题集合是当前话题的堆栈，最上面的议题就是正在讨论的议题。"},
+    {"en": "Each participant's Discourse Commitment set holds propositions they have publicly committed to; the Common Ground is their intersection.", "zh": "每个参与者的话语承诺集合是其公开承诺为真的命题集合，共同基础则是这些集合的交集。"}
+   ],
+   "terms": [
+    {"en": "context", "zh": "语境", "defEn": "The state of affairs in the discourse when an utterance is made, modelled as sets of information.", "defZh": "作出话语时话语中的事态，可形式化地刻画为一组记录信息的集合。"},
+    {"en": "Common Ground (CG)", "zh": "共同基础", "defEn": "The set of propositions that all discourse participants agree to be true.", "defZh": "所有话语参与者一致同意为真的命题集合，是话语游戏努力扩大的目标。"},
+    {"en": "Question Under Discussion (QUD) stack", "zh": "讨论中的问题堆栈", "defEn": "A stack containing the questions or topics currently under discussion in the discourse.", "defZh": "存放话语中正在讨论的问题或议题的堆栈，每提出一个问题就加入一个议题。"},
+    {"en": "Discourse Commitment (DC) set", "zh": "话语承诺集合", "defEn": "The set of propositions a discourse participant has publicly committed to as true.", "defZh": "某一话语参与者公开承诺为真的命题集合，也称公共信念集合。"},
+    {"en": "at-issue", "zh": "命题内容", "defEn": "Being the topic of discussion; issue here simply means topic, not a problem.", "defZh": "处于讨论议题之中；issue 在此仅指话题，并无问题、麻烦的负面含义。"},
+    {"en": "discourse participant", "zh": "话语参与者", "defEn": "A person taking part in the conversation whose beliefs and commitments are tracked.", "defZh": "参与会话的人，其公开承诺与信念由相应的话语承诺集合记录。"}
+   ],
+   "examples": [
+    {"text": "Is coffee better than tea?", "noteEn": "A QUD on which participants fail to agree, so neither answer enters the CG.", "noteZh": "参与者无法达成一致的 QUD，因此两个答案都不会进入 CG。"},
+    {"text": "Coffee is better than tea", "noteEn": "One competing answer, which does not get added to the Common Ground.", "noteZh": "相互竞争的一个答案，不会被加入共同基础。"},
+    {"text": "Tea is better than coffee", "noteEn": "The other competing answer, which likewise does not get added to the CG.", "noteZh": "另一个相互竞争的答案，同样不会被加入 CG。"}
+   ],
+   "body": [
+    {"en": "To see concretely what ASSERT and INTERR do with a proposition, consider why we have conversations. The big question a conversation always tries to answer is what the state of affairs in our world is. Participants are in a collaborative game, working out which propositions are true and which are false, and each player updates the context every time they make an utterance.", "zh": "要具体了解 ASSERT、INTERR 对命题做了什么，不妨想想人为什么要对话。对话始终试图回答的大问题是我们这个世界处于什么状态；参与者在一场协作性游戏中共同弄清哪些命题为真、哪些为假，每个玩家每说出一句话就更新一次语境。"},
+    {"en": "Informally, the context of an utterance is the state of affairs in the discourse when it is made: the topic, who is taking part, what has already been said. More formally, it is a collection of sets that track information. The Common Ground (CG) is the set of propositions all participants agree to be true, and the goal of the game is to increase it. Because discourse is collaborative, no one adds propositions singlehandedly; negotiation happens in the Question Under Discussion (QUD) set, which contains the topics being discussed. The QUD set is a stack: picture a stack of papers, each with a question on it, and every question asked adds an issue.", "zh": "非正式地说，一句话语的语境就是它说出时话语中的事态：话题是什么、谁参与其中、已经说过什么。更形式化地说，语境是一组记录信息的集合。共同基础（CG）是所有参与者都同意为真的命题集合，话语游戏的目标就是扩大它。由于对话是协作性的，谁也不能单方面加入命题，协商发生在讨论中的问题（QUD）集合中，它包含正在讨论的话题。QUD 集合是一个堆栈：可以把它想成一摞纸，每张纸上写着一个问题，每提一个问题就加入一个议题。"},
+    {"en": "Issue here just means topic of discussion, so something at-issue is the current topic. The topmost issue is what is being discussed, and once it is resolved it is removed from the stack. When participants cannot agree, as with Is coffee better than tea?, neither Coffee is better than tea nor Tea is better than coffee enters the CG. Each participant still has beliefs, tracked in their Discourse Commitment (DC) set; the CG is the intersection of all DC sets, such as DCA ∩ DCB. The context is therefore the CG, the QUD stack, and each participant's DC set, and illocutionary meaning places a proposition in these sets.", "zh": "这里的 issue 只表示讨论的话题；说某事 at-issue，就是说它是当前的话题。最上面的议题是正在讨论的议题，一旦得到解决就被移出堆栈。当参与者无法达成一致，例如 QUD 是 Is coffee better than tea? 时，Coffee is better than tea 和 Tea is better than coffee 都不会进入 CG。但每个人仍有自己的信念，这由各自的话语承诺（DC）集合记录；共同基础可以看作所有 DC 集合的交集，如 DCA ∩ DCB。总之，语境就是共同基础、QUD 堆栈和每个参与者的 DC 集合的总和，施为意义就是把命题放入这些集合中。"}
+   ]
+  }
+ }
+}

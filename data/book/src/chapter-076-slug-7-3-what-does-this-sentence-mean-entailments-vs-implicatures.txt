@@ -1,0 +1,87 @@
+# 7.3 What does this sentence "mean"? Entailments vs. implicatures
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=804#oembed-1
+
+## Entailments
+
+In this chapter, we are interested in how word meanings combine to arrive at sentence meaning. To analyze the meaning of a word in a language, it’s not useful to just look at that word in isolation. For example, if you wanted to know what the meaning of the verb sigh was, looking at just the word sigh is not insightful. What we want to consider is the interaction of this word with other words in that language: we need to look at how that word is (or isn’t) used in sentences in that language. Because sentences inform us about the meaning of words, we will first think about what we can and cannot conclude from the meaning of sentences.
+Consider the sentences in (1) and (2).
+
+[表格]
+| | | (1) | | | | The customer sighed. | | | | (2) | | | | The customer emitted a breath. | | |
+
+If the sentence in (1) is true, then the sentence in (2) is necessarily true, too. We say that the sentence in (1) entails the sentence in (2), or that (2) is an entailment of (1). Using variables p and q as placeholders for sentences, we can define entailment in the following way: p entails q if and only if p being true makes q necessarily true, too.
+
+Semantics and math: variables
+In mathematics, a variable is a symbol that is used as a placeholder for a value that may change. For example, the mathematical formula for calculating the area of a circle is π r 2, where r is a variable that represents the radius of the circle. The value of r will be different depending on which circle you are analyzing. If the circle has a radius of 3cm, we can plug in 3cm for r, which yields approximately 28.26cm2. If we put 10m in for r, we get approximately 314m2. In semantics, we often use variables as place holders too, as we have done in the definition of entailments.
+
+You can see if something is necessarily true from a sentence by negating the piece of meaning in question with “it is not the case that…” as in (3) and conjoining it with the original sentence with “but…” as in (4). For example, if we want to show that (2) is an entailment of (1), we want to see what happens when we negate (2) and conjoin it with (1).
+
+[表格]
+| | | (3) | | | | | It is not the case that | the customer emitted a breath. | | | | (4) | | ⊥ | | The customer sighed, but it is not the case that the customer emitted a breath. | | |
+
+The ⊥ symbol indicates a contradiction. A contradiction is a sentence that is never true. When you negate an entailment of a sentence, you get a contradiction. So we say that the sentence in (4) is a contradiction. We can also say that the sentence in (3) contradicts the sentence in (1). (4) is a contradiction because if you sigh, it is necessarily the case that you emit a breath; it would be impossible to sigh without doing so. This contradiction informs us what it means for someone to sigh: what’s required of this event.
+
+## Implicatures
+
+Consider other things we might conclude from the sentence in (1), reproduced below as (5). (6) is something we might conclude from hearing (5).
+
+[表格]
+| | | (5) | | | | The customer sighed. | | | | (6) | | | | The customer is angry. | | |
+
+Is (6) an entailment of (5), though? Let’s try the contradiction test.
+
+[表格]
+| | | (7) | | | | | It is not the case that | the customer is angry. | | | | (8) | | | | The customer sighed, | but | it is not the case that the customer is angry. | | |
+
+(8) is not a contradiction, which means that (6) is NOT an entailment of (5). (6) is called an implicature of (5). Once again using the variables p and q as place holders for sentences, p implies q if, based on the context, p has the suggestion that q is true, but q is NOT necessarily true. In other words, an implicature is a possible, but not a guaranteed, conclusion from a sentence. You can show that something is not necessarily true by cancelling it (negating it without a contradiction) as we did in (8). Implicatures are cancellable because they don’t always have to be true. For example, it’s possible in this case that the customer sighed for other reasons: relief, for example.
+Implicatures will be covered in more detail in Chapter 8, but for right now, it is important for us to be aware of what we mean when we say a sentence “means” something: is it an entailment or an implicature?
+
+## Presuppositions
+
+Now consider the following sentence.
+
+[表格]
+| | | (9) | | | | The restaurant stopped charging extra for guacamole. | | |
+
+The sentence in (9) expresses that the restaurant no longer charges extra for guacamole. That’s likely a good thing for customers who are hoping to cut down on lunch costs. However, guacamole enthusiasts may still feel mild annoyance towards what is expressed in this sentence because the sentence also “means” (10).
+
+[表格]
+| | | (10) | | | | The restaurant used to charge extra for guacamole. | | |
+
+(10) is an entailment of (9), as shown below:
+
+[表格]
+| | | (11) | | ⊥ | | The restaurant stopped charging extra for guacamole, | but it is not the case that | they used to charge extra for guacamole. | | |
+
+(10) is a special kind of entailment, called a presupposition. A presupposition is an entailment that a sentence takes for granted. (9) presupposes (10), meaning that (9) assumes that (10) is true already. To illustrate this, imagine this discourse:
+
+[表格]
+| | | (12) | | Hanna: | | The restaurant stopped charging extra for guacamole. | | | | | | Ken: | | That’s not true! | | |
+
+In (12), the only thing that Ken is able to contest is whether or not the restaurant stopped charging extra for guac or not. Even when Ken says “that’s not true”, it is still assumed by Ken and Hanna in this conversation that the restaurant has charged extra for guacamole in the past. This is what we mean when we say that the content of the presupposition is taken for granted.
+Because a presupposition is what must be true before a sentence is uttered, it cannot be the target of negation or questioning in the main sentence. Consider (13) and (14).
+
+[表格]
+| | | (13) | | | | It is not the case that the restaurant stopped charging extra for guacamole. | | | (negation test) | | | | | | | | | (Still entails: ‘The restaurant used to charge extra for guacamole’) | | | | | | | | (14) | | | | Did the restaurant stop charging extra for guacamole? | | | (question test) | | | | | | | | | (Still entails: ‘The restaurant used to charge extra for guacamole’) | | | | | | |
+
+(13) and (14) still presuppose (10): ‘The restaurant used to charge extra for guacamole’. Whether a piece of meaning “survives” negation and questions is a good diagnostic to see if it is a presupposition or not. Contrast (13)/(14) with a regular (non-presupposition) entailment in (15). What happens to the entailment that the customer emitted a breath in (16) and (17)?
+
+[表格]
+| | | (15) | | | | The customer sighed. | | | | | | | | | | (Entails: ‘The customer emitted a breath’) | | | | | | (16) | | | | It is not the case that the customer sighed. | | | (negation test) | | | | | | | | | (Does not entail: ‘The customer emitted a breath’) | | | | | | | | (17) | | | | Did the customer sigh? | | | (question test) | | | | | | | | | (Does not entail: ‘The customer emitted a breath’) | | | | | | |
+
+The entailment that was there with (15) is no longer there in (16) and (17). If it is not the case that the customer sighed, we cannot necessarily conclude that they emitted a breath. If we are asking if the customer sighed, we also cannot necessarily conclude that they emitted a breath.
+
+In summary, there are two main kinds of sentential meaning relations we discussed in this section: entailments and implicatures. Entailments can further be split into “regular” entailments and presuppositions.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=804#h5p-57
+
+## References
+
+Frege, G. (1892). Über sinn und bedeutung. Zeitschrift für Philosophie und philosophische Kritik, 100, 25-50.
+Kratzer, A., & Heim, I. (1998). Semantics in Generative Grammar (Vol. 1185). Oxford: Blackwell.
+Karttunen, L. (1973). Presuppositions of compound sentences. Linguistic Inquiry, 4(2), 169-193.
+Strawson, P. F. (1950). On referring. Mind, 59(235), 320-344.

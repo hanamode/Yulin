@@ -1,0 +1,50 @@
+# 8.1 At-issue vs. non-at-issue meaning
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=841#oembed-1
+Let’s revisit the issue of what we mean by meaning from Chapter 7 (Semantics). In Chapter 7, we learned how (3) concerns linguistic meaning, while (1) and (2) do not.
+
+[表格]
+| | | (1) | | | | | In Japanese culture, what does it | | | | mean | | | | when a tea stalk floats vertically in your green tea? | | | | | (2) | | | | | | | | takai | | mishin-o | | katte-mo | | tsukaikata-ga | | wakaranakereba | | | imi | -ga | | nai | | | | expensive | | sewing.maching-ACC | | buy-even.if | | how.to.use-NOM | | understand.NEG.if | | | meaning | -NOM | | NEG.exist | | | | ‘There is no point in buying an expensive sewing machine if you don’t know how to use it’ (Japanese) | | |
+
+(3) Ode’imin and strawberry mean the same thing.
+We learned that the notion of meaning in (3) can be thought of in one of two ways: the sense of the word, or the denotation of the word. So when we say that ode’imin in Ojibwe and strawberry in English “mean the same thing”, that can be interpreted as (i) ‘ode’imin and strawberry have the same sense; Ojibwe speakers and English speakers have the same lexical semantics for the term in their heads’ or (ii) ‘ode’imin and strawberry have the same denotation; these words both point to the same fruit in the actual world’. We found that thinking about meaning in terms of their sense was very useful for thinking about the lexical meaning of words, and thinking about meaning in terms of their denotation was helpful for analysing how a lot of quantificational meaning works, like when we say Three strawberries are red or Every strawberry is red.
+Recall the other use of meaning that we introduced in Chapter 7:
+
+[表格]
+| | | (4) | | | | I said coffee is just as tasty as tea, but I didn’t | mean | it. | | |
+
+We mentioned briefly in Chapter 7 how meaning in this sentence is used to express something about the speaker’s sincerity. This use of meaning is not about the sense of the words or the sentence, considering Coffee is just as tasty as tea still has sense, even if the speaker wasn’t sincere about it. So this is not the same kind of “meaning” as the one mentioned in (3) — but it’s still related to language. This type of meaning concerns what you are doing in a conversation when you produce an utterance. This person is referring to some sort of commitment that they made during the discourse when they said “coffee is just as tasty as tea”, and now they wish to retract it. In this chapter, we will discuss what exactly is happening when you have a conversation with someone.
+Here is another sort of meaning we will explore in this chapter. Consider (5).
+
+[表格]
+| | | (5) | | | | | What do you | | | | mean | | | | , | | | | Mounissa bought 10lbs of strawberries | | | | ? | | | |
+
+Here, it’s not very likely that the speaker is asking about the literal meaning of this sentence when they say, “What do you mean?” — the compositional sense of the sentence is pretty clear: an individual named Mounissa exchanged some amount of money for strawberries, and these strawberries weighed 10lbs total. Instead, a natural understanding of what is meant by meaning here is about the implicature the sentence carries. Recall from Chapter 7 that an implicature is a non-entailment that is suggested by a sentence, based on the context. So in (5), if you know that Mounissa loves jam, Mounissa bought 10lbs of strawberries might imply that Mounissa is making strawberry jam — lots of it. Importantly, an implicature is not an entailment, so the implicature of any particular sentence can change depending on the context. So in another world, maybe Mounissa isn’t making strawberry jam; maybe she’s making a bunch of strawberry lemonade at a farmer’s market. In this chapter, we will continue to explore what implicatures are, and how they arise in a conversation.
+In this textbook, we will call the “literal”, “surface” meaning of a sentence the at-issue meaning of the sentence. The main, literal meaning of the sentence is the at-issue meaning, because that’s the main “issue” being discussed. “Issue” here just means ‘topic of discussion’, and not something negative like ‘problem’. In Chapter 7, we largely discussed at-issue meaning.
+The meaning that is not a part of the “surface” meaning of the sentence can be called the non-at-issue meaning of the sentence. So implicatures are a type of non-at-issue meaning. In declarative sentences, a good diagnostic for the at-issueness of a piece of meaning is to negate the sentence using “it is not the case that…”. Let’s see what happens to the various meanings produced by the sentence in (6) when you negate it in (7).
+
+[表格]
+| | | (6) | | | | (Context: Mounissa is at the market, looking for ingredients to make jam with.) | | | | | | | | Mounissa will buy the discounted strawberries. | | | | | | | | a. | At-issue meaning: | ‘Mounissa will buy the discounted strawberries.’ | | | | | | | | b. | Non-at-issue meaning (possible implicature): | ‘Mounissa likes strawberries.’ | | | | | | | | c. | Non-at-issue meaning (presupposition): | ‘There are discounted strawberries.’ | | |
+
+[表格]
+| | | (7) | | | | It is not the case that Mounissa will buy the discounted strawberries. | | | | | | | | a. | No longer means: | ‘Mounissa will buy the discounted strawberries’ | | | | | | | | b. | Still can mean: | ‘Mounissa likes strawberries.’ | | | | | | | | c. | Still can (and must) mean: | ‘There are discounted strawberries.’ | | |
+
+Sentential negation (“it is not the case that…”) targets the at-issue meaning. The negated sentence in (7) can no longer mean ‘Mounissa will buy the discounted strawberries’. In fact, it means the exact opposite: the event in which Mounissa buys the discounted strawberries will not take place. The at-issue meaning that was present in (6) necessarily gets canceled in (7).
+The negation does not necessarily cancel the implicature, however: It’s possible for Mounissa to not buy discounted strawberries and simultaneously like strawberries still. Non-at-issue meaning cannot be the target of sentential negation. It’s certainly possible that Mounissa does not like strawberries in (7), but what matters is that the implicature we got from the positive sentence in (6) can still be true in (7).
+Given the above diagnostic, we can conclude that presuppositions are non-at-issue, too. Recall from Chapter 7 that presuppositions are what’s assumed to be true already when a sentence is uttered. In (6), the definite determiner the triggers the presupposition that discounted strawberries exist. Sentential negation cannot negate presuppositions. In fact, (7), which is the negated version of (6), still necessarily assumes that there are discounted strawberries. That is, even if you negate the original sentence, the presupposition of that sentence “survives”. When you negate a sentence, its implicature possibly disappears, but never its presupposition.
+
+In linguistics, you might also encounter the term truth-conditional meaning and non-truth-conditional meaning outside of this textbook, to refer to at-issue meaning and non-at-issue meaning, respectively. We find that it’s a little less confusing to call e.g., presuppositions
+“non-at-issue meaning” rather than “non-truth-conditional meaning”, because presuppositions are still related to the truth of the sentence (because a presupposition is what has to be true before the sentence is uttered).
+
+In this chapter, we will explore what kinds of non-at-issue meanings there are in language, what their differences are, and how they come about in conversations.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=841#h5p-78
+
+## References
+
+Grice, H. P. (1975). Logic and conversation. In Speech Acts (pp. 41-58). Brill.
+Potts, C. (2015). Presupposition and implicature. The Handbook of Contemporary Semantic Theory, 2, 168-202.
+Sander, T. (2022). Taxonomizing Non-at-Issue Contents. Grazer Philosophische Studien, 1, 1-28.

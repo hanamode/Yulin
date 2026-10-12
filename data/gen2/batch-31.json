@@ -1,0 +1,398 @@
+{
+ "batch": 31,
+ "entries": [
+  {
+   "id": "austin",
+   "title": "约翰·奥斯汀",
+   "en": "J. L. Austin",
+   "category": "people",
+   "tags": [
+    "日常语言哲学",
+    "言语行为",
+    "施行话语",
+    "牛津学派",
+    "语用学"
+   ],
+   "summary": "约翰·奥斯汀（1911—1960）是英国牛津学派的日常语言哲学家，被视为现代语用学与言语行为理论的开创者。他在哈佛大学的系列讲座后整理成《如何以言行事》，提出说话本身就是一种行为：除了表达命题的言说行为，还有传达意图的语力行为与影响听话人的取效行为。他把语言研究从真假命题扩展到具体的行事实践，深刻影响了塞尔、格莱斯及后来的语用学与话语分析。",
+   "summaryEn": "J. L. Austin (1911-1960) was an Oxford ordinary language philosopher and the founding figure of modern speech act theory and pragmatics. In How to Do Things with Words he argued that uttering a sentence is itself a form of action, distinguishing locutionary, illocutionary and perlocutionary acts. By shifting attention from truth conditions to what speakers actually do with words, he reshaped philosophical and linguistic work and provided the foundation later developed by Searle and Grice.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "奥斯汀生于英国兰开斯特，先后在牛津大学修习古典学、语文学与哲学，二战期间在英国情报部门服役，战后回到牛津任教，1952年成为怀特道德哲学教授。他很少发表论文，思想主要通过课堂讲授、学术会议发言和与学生同行的讨论传播，因此生前出版的文字并不多。",
+      "他与赖尔、斯特劳森等人同属牛津日常语言哲学群体，主张回到日常语言的细微用法中去考察哲学问题，反对用人为构造的形式语言一劳永逸地解决一切疑难。1955年他在哈佛大学发表威廉·詹姆斯讲座，讲稿在他去世后由厄姆森整理为《如何以言行事》于1962年出版。"
+     ],
+     "pEn": [
+      "Austin was born in Lancaster and studied classics, philology and philosophy at Oxford. He served in British intelligence during the Second World War, returned to Oxford to teach, and became White's Professor of Moral Philosophy in 1952. He published relatively little, preferring to develop his ideas through lectures, conference papers and sustained discussion with colleagues and students, and his written output during his lifetime remained modest by the standards of his discipline and generation.",
+      "With Ryle and Strawson he belonged to the Oxford school of ordinary language philosophy. That school held that philosophical puzzles should be examined through the fine-grained usage of everyday language rather than dissolved in an artificial formalism. His 1955 William James Lectures at Harvard were edited by Urmson and published posthumously in 1962 as How to Do Things with Words, a book that soon became a standard point of reference."
+     ]
+    },
+    {
+     "h": "核心贡献：言语行为理论",
+     "hEn": "Core Contribution: The Theory of Speech Acts",
+     "p": [
+      "奥斯汀首先注意到一类特殊话语，它们既不描述事实也无所谓真假，说出它们就等于做出某个行为。他说出「我把这艘船命名为伊丽莎白号」时，命名这一行为已然完成；这类话语被他称为施行话语，其成败在于是否得体，而不在于是否符合事实。",
+      "后来他放弃了施行话语与记述话语的二分，转而主张一切说话都是行事。他把一个完整的言语行为分解为三个层次：言说行为是发出语音并说出有意义的词语，语力行为是在说出的同时完成承诺、命令、请求等动作，取效行为则是通过说话对听话人产生实际效果，例如使人相信、使人惊慌或使人服从。"
+     ],
+     "pEn": [
+      "Austin first noticed a class of utterances that neither describe facts nor can be judged true or false: in saying them one performs an action. When a speaker says I name this ship the Queen Elizabeth, the naming is accomplished in the saying itself. He called such utterances performatives and judged them by felicity rather than by truth, since they may misfire or be void instead of simply being false.",
+      "He later abandoned the performative-constative dichotomy and argued that every utterance is an action. He analysed a total speech act into three layers: the locutionary act of producing sounds and meaningful words, the illocutionary act of promising, ordering or requesting in so saying, and the perlocutionary act of producing effects on the hearer, such as convincing, alarming or securing obedience to what has been said."
+     ]
+    },
+    {
+     "h": "基本概念与术语",
+     "hEn": "Key Concepts and Terminology",
+     "p": [
+      "施行话语的成立依赖适切条件：说话人必须具备相应资格，情境必须合适，程序必须完整执行，且说话人须有真诚的意图。若在非正式场合随口宣布会议开幕，或在无权时给人颁奖，话语便因不适切而失效，奥斯汀称之为不恰当或落空。",
+      "他还区分了以言指事、以言行事与以言成事三个层次，并以动词为线索对语力行为作出初步分类，包括判定式、行使式、承诺式、表态式与阐述式五类，这一分类后来由塞尔加以修正和系统化。"
+     ],
+     "pEn": [
+      "Performatives depend on felicity conditions: the speaker must be properly qualified, the circumstances must be appropriate, the procedure must be executed completely and sincerely. A casually announced opening of a meeting, or an award conferred by someone who holds no authority, is infelicitous and misfires rather than being simply false, so the notion of truth does not apply in the usual way.",
+      "Austin also distinguished the locutionary, illocutionary and perlocutionary dimensions, and sketched a classification of illocutionary verbs into verdictives, exercitives, commissives, behabitives and expositives. This five-way classification was later revised and systematised by Searle, whose own scheme has largely replaced it in the standard literature on speech acts, although Austin's original labels are still cited in historical surveys of the field."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "英语婚礼仪式中的 I pronounce you husband and wife 只在特定制度与角色下才算成功；汉语中「我宣布大会开幕」「我保证明天准时到」同样属于说出即行事的表达，其效力依赖说话人的身份、场合与程序的完整性，而非所述内容的真假。",
+      "疑问、命令与陈述在语法上各有形式，却可具有相同的语力：Could you pass the salt? 形式上为疑问句，实际语力是请求；汉语「这里有点冷」字面只是描述，在合适语境中却可行使关上窗户的请求。这说明语力不能仅由句子形式推知，必须结合语境来判断。"
+     ],
+     "pEn": [
+      "In the English marriage ceremony, I pronounce you husband and wife succeeds only when uttered by a properly authorised officiant. The Chinese equivalents 我宣布大会开幕 and 我保证明天准时到 likewise depend on the speaker's status, the setting and the complete execution of a recognised procedure rather than on the truth of any description that might be extracted from them. Such examples show that felicity depends on institutions and roles, not on the linguistic form of the sentence alone.",
+      "Interrogative, imperative and declarative forms may carry the same illocutionary force. English Could you pass the salt? is formally a question but functions as a request, and the Chinese remark 这里有点冷 literally describes the temperature yet may count as a request to close the window. Illocutionary force therefore cannot be read off from sentence form alone, but must be recovered from context, convention and intention."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "奥斯汀的思想经由塞尔、格莱斯与布朗和列文森等人的发展，成为语用学、会话分析与礼貌研究的共同基础，也影响了法律语言学与人工智能中的言语行为建模。他把语言视为行动的观点，为语言哲学与社会学的交叉研究打开了空间。",
+      "批评意见主要针对其分类标准。塞尔指出奥斯汀的五分法缺乏统一原则，类别之间存在重叠；德里达则质疑适切条件预设了稳定的语境与意图，认为语境永远可以被再语境化，从而使施行话语的界限始终不稳定。也有学者指出例证偏重英语与制度性场景，跨语言的适用性需要更多检验。"
+     ],
+     "pEn": [
+      "Through Searle, Grice, and Brown and Levinson, Austin's ideas became a shared foundation for pragmatics, conversation analysis and politeness research, and they inform work in forensic linguistics and the modelling of speech acts in artificial intelligence. Treating language as a form of action also opened a productive space between philosophy of language and social theory. His lectures, though few in number, thus left a lasting mark on the way linguists and philosophers describe what speakers do.",
+      "Criticism has focused on his classification. Searle argued that the five categories rest on no single principle and overlap with one another, while Derrida questioned whether felicity conditions presuppose a stable context and intention, since any context can be recontextualised and the boundaries of the performative remain unstable. Others note that his examples are heavily English and institutional, so cross-linguistic validity is still an open question."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "言语行为",
+     "tEn": "speech act",
+     "d": "说话本身即实施某种行为，如做出承诺、下达命令或表示道歉。",
+     "dEn": "An utterance that itself performs an action such as promising, ordering or apologising."
+    },
+    {
+     "t": "施行话语",
+     "tEn": "performative utterance",
+     "d": "说出即完成行为的表达，其成败取决于是否适切而非真假。",
+     "dEn": "An utterance whose very saying performs an act, judged by felicity rather than truth."
+    },
+    {
+     "t": "语力行为",
+     "tEn": "illocutionary act",
+     "d": "在说出话语的同时所完成的承诺、命令或请求等具体行为。",
+     "dEn": "The act performed in saying something, such as promising or ordering."
+    },
+    {
+     "t": "取效行为",
+     "tEn": "perlocutionary act",
+     "d": "通过说话对听话人产生的实际效果，如说服、警告或使人惊慌。",
+     "dEn": "The effect produced on the hearer by speaking, such as persuading or warning."
+    },
+    {
+     "t": "适切条件",
+     "tEn": "felicity conditions",
+     "d": "施行话语得以成功所需的情境、资格、程序与真诚等条件。",
+     "dEn": "Conditions of setting, authority, procedure and sincerity required for a performative to succeed."
+    },
+    {
+     "t": "言说行为",
+     "tEn": "locutionary act",
+     "d": "发出语音并说出具有确定意义与指称的词语的行为过程。",
+     "dEn": "The act of producing sounds and meaningful, referring words in an utterance."
+    }
+   ],
+   "related": [
+    "searle",
+    "speech-act",
+    "pragmatics",
+    "grice",
+    "conversation-analysis"
+   ],
+   "sources": [
+    "Wikipedia, \"J. L. Austin\", https://en.wikipedia.org/wiki/J._L._Austin",
+    "Austin, How to Do Things with Words, Oxford University Press, 1962",
+    "Wikipedia, \"Speech act\", https://en.wikipedia.org/wiki/Speech_act"
+   ]
+  },
+  {
+   "id": "searle",
+   "title": "约翰·塞尔",
+   "en": "John Searle",
+   "category": "people",
+   "tags": [
+    "言语行为",
+    "意向性",
+    "中文屋",
+    "心智哲学",
+    "社会实在"
+   ],
+   "summary": "约翰·塞尔（1932— ）是美国哲学家，长期任教于加州大学伯克利分校。他系统发展了奥斯汀的言语行为理论，提出构成规则与调节规则的区分，并按适切方向与心理状态把语力行为分为断言、指令、承诺、表情与宣告五类。他还以中文屋论证批评强人工智能，提出集体意向性与社会实在的建构理论，在语言哲学与心智哲学之间建立了持续的对话。",
+   "summaryEn": "John Searle (1932- ) is an American philosopher long associated with the University of California, Berkeley. He systematised Austin's speech act theory, distinguished constitutive from regulative rules, and classified illocutionary acts into assertives, directives, commissives, expressives and declarations. His Chinese room argument against strong artificial intelligence, and his later work on collective intentionality and social reality, made him a central figure in both philosophy of language and philosophy of mind.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "塞尔生于美国丹佛，先后在威斯康星大学与牛津大学学习，1959年在牛津获博士学位，师从奥斯汀与斯特劳森，随后回到美国任教于加州大学伯克利分校，长期担任该校哲学教授。他的研究横跨语言哲学、心智哲学与社会哲学。",
+      "塞尔早年去牛津本为学习言语行为理论，恰逢奥斯汀病重，二人面谈机会有限，他主要依靠讲稿与后来出版的《如何以言行事》来继承和修正这一理论。这种既继承又批评的姿态贯穿他的整个学术生涯。"
+     ],
+     "pEn": [
+      "Searle was born in Denver and studied at the University of Wisconsin and then at Oxford, where he took his doctorate in 1959 under Austin and Strawson. He subsequently joined the University of California, Berkeley, where he spent his career as a professor of philosophy, working across the philosophy of language, mind and society, and where he supervised many students who later became prominent philosophers.",
+      "He had gone to Oxford to study speech act theory, but Austin was already seriously ill, so direct discussion with him was limited. Searle developed and corrected the theory largely from Austin's lectures and from the posthumously published How to Do Things with Words, and this stance of respectful revision ran through the whole of his subsequent career in philosophy."
+     ]
+    },
+    {
+     "h": "对言语行为理论的发展",
+     "hEn": "Developing Speech Act Theory",
+     "p": [
+      "塞尔在《言语行为》中为言语行为提供了更明确的规则基础。他区分调节规则与构成规则：前者规范既有行为，如礼节规范进餐；后者则创造并界定行为本身，如下棋规则使走子成为合法着法，而做出承诺正是由构成规则所定义的活动。",
+      "他还提出语力的构成要素包括命题内容、适切方向、表达的心理状态与命题内容条件，并据此把语力行为重新分为断言、指令、承诺、表情与宣告五类。此外，他区分命题行为与语力行为，指出同一命题内容可以出现在不同的语力之中。"
+     ],
+     "pEn": [
+      "In Speech Acts Searle gave the theory a firmer rule-based foundation. He distinguished regulative rules, which govern pre-existing behaviour such as table manners, from constitutive rules, which create and define the behaviour itself, as the rules of chess make moving a piece a legal move. Promising, on this account, is an activity constituted by such rules rather than merely regulated by them.",
+      "He also analysed illocutionary force through propositional content, direction of fit, expressed psychological state and preparatory conditions, and on that basis reclassified illocutionary acts as assertives, directives, commissives, expressives and declarations. He further separated the propositional act from the illocutionary act, showing that a single propositional content can appear under quite different forces. Speech Acts remains the standard point of departure for later formal and descriptive work on illocutionary logic."
+     ]
+    },
+    {
+     "h": "语言实例与间接言语行为",
+     "hEn": "Linguistic Examples and Indirect Speech Acts",
+     "p": [
+      "塞尔指出，同一命题内容可承载不同语力。英语中「约翰将离开」这一命题内容分别出现在断言 John will leave、指令 Will John leave? 与承诺 I promise that John will leave 之中，语力随句式与语境而变。",
+      "间接言语行为是形式与语力不一致的现象。英语 Can you reach the salt? 以疑问形式行使请求，其成立依赖听话人对合作原则的推断；汉语「你能把盐递给我吗」同理。塞尔也用「我把书放在桌子上」这类句子说明命题内容与宣告力量可以分离。"
+     ],
+     "pEn": [
+      "Searle stressed that one propositional content may carry different forces. The proposition that John will leave appears in the assertive John will leave, the directive Will John leave? and the commissive I promise that John will leave, with the force varying according to sentence form, verb and context rather than being determined by the content alone. The distinction between sentence form and illocutionary force therefore became a central theme of later pragmatics.",
+      "Indirect speech acts arise when form and force diverge. English Can you reach the salt? is interrogative in form but functions as a request, and its interpretation rests on Gricean reasoning about the speaker's intentions. The Chinese sentence 你能把盐递给我吗 works in exactly the same way, showing that sentence form and illocutionary force need not coincide in either language. The distinction between sentence form and illocutionary force therefore became a central theme of later pragmatics."
+     ]
+    },
+    {
+     "h": "心智哲学与社会实在",
+     "hEn": "Philosophy of Mind and Social Reality",
+     "p": [
+      "1980年塞尔提出中文屋论证：一个不懂汉语的人按规则手册在屋内处理汉字符号，对外给出看似正确的回答，却并不理解汉语。他由此论证形式符号操作本身不足以产生语义理解，反对以程序实现心灵的主张。",
+      "在《社会实在的建构》中，他把言语行为理论扩展到制度领域，提出X在语境C中算作Y的公式，并强调集体意向性与宣告式言语行为在创造货币、婚姻、所有权等制度事实中的作用。语言因此不只是描述世界的工具，也是建构社会事实的机制。"
+     ],
+     "pEn": [
+      "In 1980 Searle proposed the Chinese room argument: a person who knows no Chinese manipulates symbols according to a rule book and returns apparently correct answers, yet understands nothing at all of what he is doing. He concluded that formal symbol manipulation alone cannot generate semantic understanding, which is his central objection to the claim that running a program produces a mind.",
+      "In The Construction of Social Reality he extended speech act theory to institutions with the formula X counts as Y in context C, stressing collective intentionality and declarative speech acts in creating institutional facts such as money, marriage and property. Language therefore does not merely describe an independent world but actively helps to constitute social reality. His later books argue that institutional facts exist only because communities collectively recognise and maintain them."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "塞尔的语力分类至今仍是语用学教科书的通行框架，间接言语行为研究、礼貌理论与话语分析都从中受益；他关于心智与意识的研究亦推动了认知科学的哲学讨论，其著作被广泛译介并用于语言学教学。",
+      "中文屋论证引发了持久的争论。批评者提出系统回复、机器人回复与模拟回复等反驳，认为理解可能属于整个系统而非屋内的人；塞尔则坚持句法不等于语义，计算只能给出模拟而非真正的意向性。也有学者质疑其分类在跨语言场景中的稳定性以及宣告类语力的界定标准。"
+     ],
+     "pEn": [
+      "Searle's classification of illocutionary acts remains a standard framework in pragmatics textbooks, informing work on indirect speech acts, politeness theory and discourse analysis, while his writings on mind and consciousness contributed to philosophical debate in cognitive science and are widely translated for use in linguistics teaching around the world. The debate continues to shape discussions of artificial intelligence, consciousness and the limits of computation.",
+      "The Chinese room has prompted sustained objections, including the systems, robot and simulation replies, which hold that understanding may belong to the whole system rather than to the person inside. Searle insists that syntax is not sufficient for semantics and that computation yields simulation rather than genuine intentionality; other critics question the cross-linguistic stability of his categories and the boundaries of declarations."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "构成规则",
+     "tEn": "constitutive rule",
+     "d": "创造并界定某种活动的规则，如使承诺得以成立的规则。",
+     "dEn": "A rule that creates and defines an activity, such as the rules constituting a promise."
+    },
+    {
+     "t": "调节规则",
+     "tEn": "regulative rule",
+     "d": "规范既有行为而不创造行为的规则，如礼节与交通规则。",
+     "dEn": "A rule that regulates pre-existing behaviour without creating it, such as etiquette."
+    },
+    {
+     "t": "适切方向",
+     "tEn": "direction of fit",
+     "d": "话语与世界之间的适应关系，或由话语适应世界、或由世界适应话语。",
+     "dEn": "The relation in which words fit the world or the world is made to fit the words."
+    },
+    {
+     "t": "间接言语行为",
+     "tEn": "indirect speech act",
+     "d": "句面形式与说话人实际施行的语力并不一致的言语行为。",
+     "dEn": "A speech act whose surface form differs from the force actually performed."
+    },
+    {
+     "t": "中文屋论证",
+     "tEn": "Chinese room argument",
+     "d": "以符号操作不等于理解来反驳强人工智能主张的思想实验。",
+     "dEn": "A thought experiment arguing that symbol manipulation is not understanding, against strong AI."
+    },
+    {
+     "t": "集体意向性",
+     "tEn": "collective intentionality",
+     "d": "若干主体共享的意向状态，是制度事实得以成立的基础。",
+     "dEn": "Shared intentional states of several agents that underlie institutional facts."
+    },
+    {
+     "t": "宣告式",
+     "tEn": "declaration",
+     "d": "通过说出话语直接改变制度性现实的语力行为类型，如宣战。",
+     "dEn": "An illocutionary act that changes institutional reality by being uttered."
+    }
+   ],
+   "related": [
+    "austin",
+    "speech-act",
+    "pragmatics",
+    "grice",
+    "cooperative-principle"
+   ],
+   "sources": [
+    "Wikipedia, \"John Searle\", https://en.wikipedia.org/wiki/John_Searle",
+    "Searle, Speech Acts: An Essay in the Philosophy of Language, Cambridge University Press, 1969",
+    "Wikipedia, \"Chinese room\", https://en.wikipedia.org/wiki/Chinese_room"
+   ]
+  },
+  {
+   "id": "lakoff",
+   "title": "乔治·莱考夫",
+   "en": "George Lakoff",
+   "category": "people",
+   "tags": [
+    "认知语言学",
+    "概念隐喻",
+    "具身认知",
+    "框架",
+    "政治语言"
+   ],
+   "summary": "乔治·莱考夫（1941— ）是美国语言学家，认知语言学的奠基人之一，长期任教于加州大学伯克利分校。他在《我们赖以生存的隐喻》中提出隐喻不只是修辞，而是以具体经验理解抽象概念的日常认知机制，如以战争理解论辩。他还发展出意象图式、理想化认知模型与框架理论，并把认知语言学的成果用于分析政治话语，影响遍及语言学、心理学与传播研究。",
+   "summaryEn": "George Lakoff (1941- ) is an American linguist and a founder of cognitive linguistics, long based at the University of California, Berkeley. In Metaphors We Live By he argued that metaphor is not mere rhetoric but a routine cognitive mechanism by which abstract concepts are understood through bodily experience, as argument is understood through war. He developed image schemas, idealised cognitive models and framing theory, and applied them to political discourse.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "莱考夫生于美国新泽西州，在麻省理工学院取得博士学位，早年在生成语法框架内研究句法与语义，曾在加州大学伯克利分校与哈佛大学任教。二十世纪六十年代末，他与同事对生成语法的语义基础提出质疑，逐渐转向以认知与经验为基础的语法观。",
+      "1971年他与麦考利发表《语用学与自然逻辑》，随后对生成语义学的争论作出回应，并在此后的著述中与约翰逊、兰盖克、菲尔莫尔等人共同推动认知语言学的形成。他长期关注语言与政治，晚年致力于框架研究与进步政治的公共传播。"
+     ],
+     "pEn": [
+      "Lakoff was born in New Jersey, took his doctorate at the Massachusetts Institute of Technology, and worked within generative grammar on syntax and semantics before teaching at Berkeley and Harvard. In the late 1960s he and colleagues began to challenge the semantic foundations of generative grammar and moved toward a cognitively and experientially grounded view of language, a shift that shaped his later programme.",
+      "In 1971 he published Pragmatics and Natural Logic with McCawley and responded to the debates over generative semantics. With Mark Johnson, Ronald Langacker and Charles Fillmore he helped establish cognitive linguistics, and he has remained a prominent public commentator on language, framing and politics. That break with the dominant paradigm of the 1960s defined the intellectual trajectory of his entire career."
+     ]
+    },
+    {
+     "h": "主要理论：概念隐喻与具身认知",
+     "hEn": "Main Theories: Conceptual Metaphor and Embodied Cognition",
+     "p": [
+      "莱考夫与约翰逊在《我们赖以生存的隐喻》中主张，隐喻的本质是以一个经验域去理解另一个经验域，其形式为概念隐喻。英语中论辩常被理解为战争，于是有 Your claims are indefensible 与 He attacked every weak point in my argument 这样的说法，汉语中「他的论点不堪一击」「我攻破了他的说法」也是同一模式。",
+      "莱考夫进一步提出具身认知，认为抽象推理依赖身体经验形成的意象图式与隐喻映射。比如容器图式支撑了英语 in trouble、out of danger 与汉语「陷入困境」「脱离危险」，而方位隐喻把上理解为多、好、有控制，如 more is up 与 happy is up。"
+     ],
+     "pEn": [
+      "In Metaphors We Live By Lakoff and Johnson argued that metaphor is understanding one domain of experience in terms of another, a pattern they called conceptual metaphor. English treats argument as war, as in Your claims are indefensible and He attacked every weak point in my argument, and Chinese shows the same pattern in expressions such as 他的论点不堪一击 and 我攻破了他的说法.",
+      "Lakoff went on to argue for embodied cognition: abstract reasoning draws on image schemas and metaphorical mappings rooted in bodily experience. The container schema underlies English in trouble and out of danger as well as Chinese 陷入困境, while orientational metaphors construe up as more, better or controlling, as shown by more is up and happy is up. Because the mapping is conventional, speakers use it automatically and often without noticing its figurative basis."
+     ]
+    },
+    {
+     "h": "分类与认知模型",
+     "hEn": "Categories and Cognitive Models",
+     "p": [
+      "在《女人、火与危险事物》中，莱考夫以迪尔巴尔语的类别词系统等材料说明，人类范畴化并不依赖充分必要条件，而是围绕原型与理想化认知模型展开。他还提出辐射范畴与转喻模型，用来说明一个范畴内部各成员如何通过中心义项向外扩展。",
+      "这些观点直接挑战了经典范畴观，也与罗施的原型实验相互呼应。莱考夫强调语义不是客观真值条件的镜像，而是概念化过程的产物，意义与人的身体、经验和想象密切相关，因此语法形式本身也承载着概念化的方式。"
+     ],
+     "pEn": [
+      "In Women, Fire, and Dangerous Things Lakoff drew on the noun-class system of Dyirbal and similar data to argue that human categorisation does not rest on necessary and sufficient conditions but on prototypes and idealised cognitive models. He introduced radial categories and metonymic models to explain how members extend outward from a central sense. Dyirbal grammar, for instance, groups women, fire and dangerous things in one class, a pattern that makes sense only through culturally shared models rather than through objective properties.",
+      "These claims challenged the classical view of categories and converged with Rosch's prototype experiments. Lakoff treats meaning not as a mirror of objective truth conditions but as the product of conceptualisation, intimately tied to the body, experience and imagination, so that grammatical form itself encodes conventional ways of construing experience. Grammatical constructions, on this view, are conventional patterns that pair form with meaning and are learned from use."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "英语时间即金钱的隐喻产生了 spend time、waste time、invest time 等表达，汉语同样说「花时间」「浪费时间」「节省时间」，说明不同语言可以共享某些基于经验的隐喻映射，而映射的具体词汇化方式又各有差异。",
+      "在语法层面，莱考夫注意到英语 There is a man in the room 与汉语「房间里有一个人」都把容器图式编码为存在句，说明处所与存在之间存在系统性关联。政治话语中的框架同样可以用语言实例说明：英语 tax relief 把税收框架为负担，而 estate tax 与 death tax 的取舍会激活不同的道德框架。"
+     ],
+     "pEn": [
+      "The metaphor time is money yields English spend time, waste time and invest time, and Chinese uses the same pattern in 花时间, 浪费时间 and 节省时间, evidence that unrelated languages may share experientially grounded mappings even where the lexical details differ. The systematicity of such sets is what distinguishes conceptual metaphor from isolated poetic imagery. Such patterns indicate that metaphor and grammar are continuous with ordinary cognition rather than decorative additions to it.",
+      "At the level of grammar, Lakoff observed that English There is a man in the room and Chinese 房间里有一个人 both encode the container schema in existential constructions, linking location and existence systematically. Political framing offers further examples: English tax relief frames taxation as a burden, while the choice between estate tax and death tax activates different moral frames. Such patterns indicate that metaphor and grammar are continuous with ordinary cognition rather than decorative additions to it."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "莱考夫的工作使隐喻从修辞学边缘进入认知科学核心，推动了认知语言学、构式语法与基于用法的语言学的发展，也影响了语言教学、翻译研究与政治传播分析。语料库研究后来为概念隐喻提供了大规模的定量支持。",
+      "批评主要集中于方法。有学者指出隐喻的判定常依赖研究者的直觉，缺乏可复核的识别程序，因而难以排除任意性；也有人质疑从语言证据直接推断思维结构的做法，认为需要更多心理实验来支撑具身认知的主张。此外，其政治评论被批评为简化了复杂的政治现实。"
+     ],
+     "pEn": [
+      "Lakoff brought metaphor from the margins of rhetoric into the core of cognitive science, contributing to cognitive linguistics, construction grammar and usage-based approaches, and influencing language teaching, translation studies and political communication research. Corpus studies have since provided large-scale quantitative support for conceptual metaphor across many genres and languages. Later researchers accordingly proposed explicit identification procedures to make metaphor analysis more replicable and testable.",
+      "Criticism focuses on method. Some scholars argue that metaphor identification often rests on the analyst's intuition without a replicable procedure, so arbitrariness cannot be excluded; others question inferences from linguistic evidence to conceptual structure and call for more experimental support for embodied cognition. His political commentary has also been criticised as simplifying complex realities of policy and public debate. Later researchers accordingly proposed explicit identification procedures to make metaphor analysis more replicable and testable."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "概念隐喻",
+     "tEn": "conceptual metaphor",
+     "d": "以一个经验域理解另一个经验域的认知映射，如论辩即战争。",
+     "dEn": "A cognitive mapping in which one experiential domain is understood in terms of another."
+    },
+    {
+     "t": "意象图式",
+     "tEn": "image schema",
+     "d": "由身体经验抽象出的基本结构，如容器、路径与上下等图式。",
+     "dEn": "A basic structure abstracted from bodily experience, such as container, path or verticality."
+    },
+    {
+     "t": "理想化认知模型",
+     "tEn": "idealised cognitive model",
+     "d": "组织经验与范畴化的背景知识结构，通常简称为ICM模型。",
+     "dEn": "A background knowledge structure that organises experience and human categorisation."
+    },
+    {
+     "t": "辐射范畴",
+     "tEn": "radial category",
+     "d": "由中心义项通过扩展链条相互联系而构成的多义范畴结构。",
+     "dEn": "A category whose members cluster around a central sense through extension links."
+    },
+    {
+     "t": "具身认知",
+     "tEn": "embodied cognition",
+     "d": "认为认知与意义根植于身体经验和感觉运动系统的观点。",
+     "dEn": "The view that cognition and meaning are grounded in bodily and sensorimotor experience."
+    },
+    {
+     "t": "框架",
+     "tEn": "frame",
+     "d": "组织概念与推理的知识结构，见菲尔莫尔的框架语义学。",
+     "dEn": "A knowledge structure organising concepts and reasoning, as in Fillmore's frame semantics."
+    },
+    {
+     "t": "方位隐喻",
+     "tEn": "orientational metaphor",
+     "d": "以空间方位组织非空间概念的隐喻，如多即为上、好即为上。",
+     "dEn": "A metaphor organising non-spatial concepts by spatial orientation, as more is up."
+    }
+   ],
+   "related": [
+    "langacker",
+    "cognitive-linguistics",
+    "metaphor-metonymy",
+    "construction-grammar",
+    "prototype"
+   ],
+   "sources": [
+    "Wikipedia, \"George Lakoff\", https://en.wikipedia.org/wiki/George_Lakoff",
+    "Lakoff and Johnson, Metaphors We Live By, University of Chicago Press, 1980",
+    "Wikipedia, \"Conceptual metaphor\", https://en.wikipedia.org/wiki/Conceptual_metaphor"
+   ]
+  }
+ ]
+}

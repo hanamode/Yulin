@@ -1,0 +1,80 @@
+# 3.12 Tone and intonation
+
+## Pitch
+
+During voicing, the vocal folds vibrate at some rate, which is normally called the fundamental frequency (typically abbreviated f0 or F0) when talking specifically about the actual physical vibration and pitch when talking about our auditory perception of that vibration. For the purposes of this discussion, we will use the term pitch, since we are concerned with the more abstract, cognitive categorization rather than the actual physical implementation, which can vary quite a bit from speaker to speaker.
+Pitch is often intertwined with duration and intensity for stress systems in spoken languages, but it can also be manipulated separately as part of its own distinct system. Roughly speaking, if pitch is manipulated at the level of syllables or entire words to make completely different meanings, it is called tone, whereas if pitch is manipulated at combinations of words (phrases and sentences) to have different kinds of conversational functions (statements versus questions, for example), it is called intonation. A language with a tone system is often called a tone language or tonal language, while a language with an intonation system is called an intonational language. There are some interesting cases that are not easily classified in either category or seem to be a mixture of both, but tone and intonation are useful basic categories for describing the two main ways that spoken languages can manipulate pitch.
+
+## Tone notation
+
+Many tone languages have only two tones, normally identified as a high tone (often abbreviated as H) and a low tone (often abbreviated as L). High tones have a higher pitch (with the vocal folds vibrating faster), and low tones have a lower pitch (with the vocal folds vibrating slower). Note that there is no single consistent rate of vibration for high and low tones. A high tone in one language may consistently have faster vocal fold vibration than a high tone in a different language, and even within the same language, different speakers may have different rates of vibration for the same tone.
+The IPA has two different systems for notating tone: tone diacritics placed above the relevant phone and separate tone letters placed after the entire syllable.
+For languages with only a few tones, the tone diacritics are normally used, with the acute accent [ ˊ ] representing a high tone and the grave accent [ ˋ ] representing a low tone. Tone letters iconically represent the height of the tone with a horizontal line connected to a vertical supporting base, with [ ˥ ] representing a high tone and [ ˩ ] representing a low tone.
+In addition, non-IPA superscript numbers on a 1–5 scale are sometimes used instead, with the highest number [ 5 ] representing a high tone and the lowest number [ 1 ] representing a low tone.
+All three of these notation systems are shown in Table 3.2 for the example words [lúk] ‘vomit’ (with a high tone) and [lùk] ‘weave’ (with a low tone) from Bemba, a southern Bantoid language of the Niger-Congo family, spoken in Zambia and nearby areas (Hamann and Kula 2015).
+
+[表格]
+| Table 3.2. Tone patterns in one-syllable Bemba words. | | | | tone | | example with IPA tone diacritics | | example with IPA tone letters | | example with non-IPA tone numbers | | gloss | | | | H | | [lúk] | | [luk˥] | | [luk | 5 | ] | | ‘vomit’ | | | | L | | [lùk] | | [luk˩] | | [luk | 1 | ] | | ‘weave’ | | |
+
+The choice of notation depends on a combination of factors, including legibility, the complexity of the language’s tone system, the intended purpose of the transcription, and historical tradition.
+Each system has problems. Tone numbers are problematic because they may be confused for the numbers used in other traditional tone numbering systems that differ from the system presented here. For example, the high tone in Mandarin is traditionally called 一声 yīshēng ‘first sound’, and this traditional numbering is used in some romanizations of Chinese, such as the Wade-Giles system, in which 媽/妈 [ma5] ‘mother’ with a high tone is written as ma1 or ma1. If you are familiar only with the 1–5 tone numbers presented here, you could be confused by seeing Wade-Giles ma1, since the superscript [ 1 ] makes this word look like it has a low tone rather than a high tone.
+Diacritics can also be problematic for similar reasons, since [má] ‘mother’ is written mā in a different romanization of Chinese called pinyin. This is not the IPA diacritic [ ˊ ] for a high tone, so again, if you know the IPA system but not pinyin, you could be confused into thinking this word does not have a high tone. Furthermore, recall from Section 3.11 that the diacritics [ ˊ ] and [ ˋ ] are also sometimes used to represent primary and secondary stress rather than tone, which creates the potential for a completely different kind of confusion!
+Tone letters are generally more reliably unambiguous in how they represent tone, since they are not normally used with any other meaning. However, tone letters do not have widespread font support, so just as we saw with the signed language notation systems, it can be difficult to get access to the relevant characters, and we cannot be guaranteed that the symbols will be readable by someone using a different device to view the symbols.
+Thus, different linguists use different systems for notating tone, and it is important to understand all three of the notation systems presented here, since you may encounter any of them in the linguistics literature.
+
+## Tone as a phonemic property
+
+In many tone languages, each syllable can in principle have its own independent tone, as in the various tone patterns seen in the Bemba words in Table 3.3.
+
+[表格]
+| Table 3.3. Tone patterns in longer Bemba words. | | | | tone pattern | | example with IPA tone diacritics | | example with IPA tone letters | | example with non-IPA tone numbers | | gloss | | | | LH | | [kùːlá] | | [kuː˩la˥] | | [kuː | 1 | la | 5 | ] | | ‘build’ | | | | HH | | [βúːlá] | | [βuː˥la˥] | | [βuː | 5 | la | 5 | ] | | ‘take’ | | | | HL | | [péːlà] | | [peː˥la˩] | | [peː | 5 | la | 1 | ] | | ‘give’ | | | | LHL | | [ùkúwà] | | [u˩ku˥wa˩] | | [u | 1 | ku | 5 | wa | 1 | ] | | ‘fall’ | | | | LLH | | [ìnùmá] | | [i˩nu˩ma˥] | | [i | 1 | nu | 1 | ma | 5 | ] | | ‘back’ | | | | HLH | | [íŋòmá] | | [i˥ŋo˩ma˥] | | [i | 5 | ŋo | 1 | ma | 5 | ] | | ‘drum’ | | | | HHL | | [íːnt͡ʃítò] | | [iː˥nt͡ʃi˥to˩] | | [iː | 5 | nt͡ʃi | 5 | to | 1 | ] | | ‘work’ | | |
+
+Here, we see that the first syllable of a word could have either a high tone, as in [βúːlá] ‘take’, or a low tone, as in [ùkúwà] ‘fall’. Then, regardless of what tone the first syllable has, the second syllable could also have a high tone, as in [βúːlá] ‘take’ and [ùkúwà] ‘fall’, or a low tone, as in [péːlà] ‘give’ and [ìnùmá] ‘back’, and so on. While not all tone languages behave this way, in general, they often allow for a wide range of possible tone combinations across syllables.
+
+## More tones
+
+One of the ways that tones can be more complex is that they are often not simply binary, with just a high versus low distinction. Many tone languages also have a mid tone (M) that is intermediate between high and low. For example, Igala, a Yoruboid language of the Niger-Congo family, spoken in Nigeria, has minimal triplets like those in Table 3.4, which all have a low tone on the first syllable but then one of three different tones (high, mid, or low) on the second (Welmers 1973). Mid tones are represented with an IPA diacritic, the macron accent [ ˉ ], with the IPA tone letter [ ˧ ], or with a superscript number between [ 1 ] and [ 5 ], usually [ 3 ].
+
+[表格]
+| Table 3.4. Tone patterns in Igala. | | | | tone pattern | | example with IPA tone diacritics | | example with IPA tone letters | | example with non-IPA tone numbers | | gloss | | | | LH | | [àwó] | | [a˩wo˥] | | [a | 1 | wo | 5 | ] | | ‘slap’ | | | | LM | | [àwō] | | [a˩wo˧] | | [a | 1 | wo | 3 | ] | | ‘comb’ | | | | LL | | [àwò] | | [a˩wo˩] | | [a | 1 | wo | 1 | ] | | ‘star’ | | |
+
+Other intermediate tones are also possible, especially when describing more fine-grained details in how a given language’s tone system works. The numbers 1–5 generally seem to provide enough options to cover observed tone systems.
+
+## Contour tones
+
+So far, we have only looked at level tones (high, mid, low), which have relatively stable pitch from beginning to end. However, many tone languages also have contour tones, which change in pitch during the course of the syllable. For example, Awa (a Kainantu-Goroka language of the Trans-New Guinea family, spoken in Papua New Guinea) has two level tones (H and L) plus two contour tones, a falling tone (F) that starts high and ends low, and a rising tone (R) that starts low and ends high (Loving 1966), as shown in the data in Table 3.5.
+Falling tones are represented with an IPA diacritic, the caret accent [ ˆ ], with a sequence of a high IPA tone letter followed by a low tone letter (usually [ ˥‌˩ ]), or with a sequence of superscript numbers that starts high and goes low (usually [ 51 ]). Similarly, rising tones are represented with an IPA diacritic, the haček accent [ ˇ ], with a sequence of a low IPA tone letter followed by a high tone letter (usually [ ˩‌˥ ]), or with a sequence of superscript numbers that starts low and goes high (usually [ 15 ]). More complicated tones are possible, including using more intermediate tones and more than two component tones in a contour, but they are beyond the scope of this textbook.
+
+[表格]
+| Table 3.5. Tone patterns in Awa. | | | | tone pattern | | example with IPA tone diacritics | | example with IPA tone letters | | example with non-IPA tone numbers | | gloss | | | | H | | [ná] | | [na˥] | | [na | 5 | ] | | ‘breast’ | | | | L | | [nà] | | [na˩] | | [na | 1 | ] | | ‘house’ | | | | F | | [nâ] | | [na˥ | ‌ | ˩] | | [na | 51 | ] | | ‘taro’ | | | | R | | [pǎ] | | [pa˩ | ‌ | ˥] | | [pa | 15 | ] | | ‘fish’ | | |
+
+Tone letters for contour tones are sometimes displayed as a single combined character rather than a sequence of separate tone letters, as shown in Figure 3.40. However, this requires a font with the combined characters properly encoded, and this is not always available.
+
+[图片：3.39-contour-tone-300x100.png]
+
+Figure 3.40. Contour tones as sequences of separate tone letters (on the left of the equals sign) and as combined characters (on the right of the equals sign).
+
+## Intonation
+
+​​Finally, we can also see changes in pitch over entire sentences as intonation, with the purpose of conveying information about the function of the sentences rather than information of which word is being used. For example, the English sentence this is vegetarian chili has many different possible intonation patterns, as in the examples in sentences 1–8. These intonation patterns depend on whether the sentence is being used as a declarative statement (1–4) or a question (5–8), and whether there is emphasis on a particular word (indicated with italicized capitals in 1–8). Each of these sentences is appropriate in different contexts; a sample context is provided in parentheses for each sentence.
+- (What are you eating?) This is vegetarian chili.
+- THIS is vegetarian chili (and THAT is shrimp étouffée).
+- This is VEGETARIAN chili (not BEEF chili).
+- This is vegetarian CHILI (not vegetarian STEW).
+- This is vegetarian chili? (I didn’t hear exactly what you said.)
+- THIS is vegetarian chili? (It tastes like shrimp étouffée!)
+- This is VEGETARIAN chili? (I’m sure I tasted meat in it!)
+- This is vegetarian CHILI? (It seems more like a stew.)
+
+Intonation is very complex, as it depends on the syntactic structure of what is being said, as well as the function of the sentence in the larger conversation. It can also interact with word-level stress or tone in various interesting ways. Intonation lies at the intersection of many different aspects of language, and a proper analysis requires a solid understanding of phonetics, phonology, syntax, semantics, and pragmatics.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=604#h5p-116
+
+## References
+
+Hamann, Silke and Nancy C. Kula. 2015. Bemba. Journal of the International Phonetic Association 45(1): 61–68.
+Loving, Rochard E. 1966. Awa phonemes, tonemes, and tonally differentiated allomorphs. Papers in New Guinea Linguistics A-7: 23–32.
+Welmers, William E. 1973. African language structures. Berkeley and Los Angeles: University of California Press.

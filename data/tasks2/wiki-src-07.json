@@ -1,0 +1,48 @@
+{
+ "batch": 7,
+ "out": "data/gen2/wiki-src/wiki-src-07.json",
+ "entries": [
+  {
+   "id": "neurolinguistics",
+   "title": "神经语言学",
+   "en": "Neurolinguistics",
+   "category": "branches",
+   "summary": "神经语言学研究语言能力与大脑神经机制之间的关系，考察语音、词汇、句法在大脑中的表征与加工。它结合失语症临床观察、电生理记录与功能脑成像，检验布洛卡区、韦尼克区等"
+  },
+  {
+   "id": "optimality-theory",
+   "title": "优选论",
+   "en": "Optimality Theory",
+   "category": "theories",
+   "summary": "优选论是20世纪90年代由Prince与Smolensky提出的生成语言学理论，主张普遍语法由一组可违反的制约条件构成，语言差异源于制约条件的层级排列不同。语法"
+  },
+  {
+   "id": "phoneme",
+   "title": "音位",
+   "en": "Phoneme",
+   "category": "concepts",
+   "summary": "音位是特定语言中能够区别词义的最小语音单位，它不是某个具体的音素，而是一组在听感上相似、分布上互补且不起区别意义作用的音素的抽象集合。音位的确立依赖最小对立对测"
+  },
+  {
+   "id": "phonetics",
+   "title": "语音学",
+   "en": "Phonetics",
+   "category": "branches",
+   "summary": "语音学是研究人类语言声音的学科，关注语音的发音、声学与感知三个方面，即言语的产生、传递与接收过程。它描写具体音素的生理与物理属性，为音系学、语言教学、言语工程等"
+  },
+  {
+   "id": "phonology",
+   "title": "音系学",
+   "en": "Phonology",
+   "category": "branches",
+   "summary": "音系学是研究语言中语音如何组织成系统的学科，关注音位、音位变体、音节结构与音系规则，探讨哪些语音对立具有区别意义。它把语音视为功能单位，与语音学互补，是结构主义"
+  },
+  {
+   "id": "politeness",
+   "title": "礼貌原则",
+   "en": "Politeness Theory",
+   "category": "concepts",
+   "summary": "礼貌原则是语用学中解释人们为何在交际中偏离直接高效表达、大量使用间接与委婉说法的核心理论。它关注说话人如何通过语言手段维护双方的面子、减弱言语行为的面子威胁，主"
+  }
+ ]
+}

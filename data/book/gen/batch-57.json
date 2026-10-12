@@ -1,0 +1,320 @@
+{
+ "batch": 57,
+ "sections": {
+  "chapter-130-slug-11-3-phonemic-contrast": {
+   "title": {
+    "en": "11.3 Phonemic contrast",
+    "zh": "11.3 音位对立"
+   },
+   "summary": {
+    "en": "Hearing babies start building the phonology of their language long before they speak. Using habituation and conditioned head turns, Werker and colleagues showed that six-month-olds notice place-of-articulation contrasts from English, Hindi and Nłeʔkepmxcín alike, but that this sensitivity narrows to about 10-20% for non-native contrasts by age one. Deaf and hearing babies acquiring a sign language follow the same timetable.",
+    "zh": "听力正常的婴儿在开口说话之前就已开始构建母语音系。Werker 等人借助习惯化与条件化转头法发现，六个月大的婴儿既能分辨英语的发音部位对立，也能分辨印地语和 Nłeʔkepmxcín 的对立；但到一岁时，他们对非母语对立的敏感度已降至约 10–20%。学习手语的聋婴与健听婴儿表现出相同的时间表。"
+   },
+   "points": [
+    {
+     "en": "Every language organizes the same phonetic differences differently: [pʰ] and [p] are allophones in English, but separate phonemes in Thai.",
+     "zh": "语音差异本身各语言相同，但组织方式各异：英语中 [pʰ] 与 [p] 是同一音位的变体，在泰语中却是两个不同音位。"
+    },
+    {
+     "en": "Conditioned head-turn testing infers discrimination when a habituated baby looks back at the speaker after a sound change.",
+     "zh": "条件化转头法以婴儿在声音改变后重新转向声源为依据，推断其察觉到了差异。"
+    },
+    {
+     "en": "Six-month-old English-learning babies succeeded on English, Hindi and Nłeʔkepmxcín contrasts at 80-90%, matching no language in particular.",
+     "zh": "六个月大的英语婴儿对英语、印地语、Nłeʔkepmxcín 三组对立的成功率均为 80–90%，尚未偏向任何语言。"
+    },
+    {
+     "en": "By ten months success fell to 50-60%, and by one year only 10-20% for the two non-English contrasts.",
+     "zh": "到十个月大时成功率降至 50–60%，一岁时对两组非英语对立的成功率仅剩 10–20%。"
+    },
+    {
+     "en": "Researchers found the same perceptual narrowing for ASL handshapes; ASL-exposed babies kept the sensitivity, English-learning babies without ASL lost it.",
+     "zh": "研究者在美国手语手形上也发现同样的知觉窄化：接触手语的婴儿保留了敏感性，未接触手语的英语婴儿则失去该能力。"
+    },
+    {
+     "en": "Losing sensitivity does not make new contrasts unlearnable; later learning is simply shaped by the categories built in the first year.",
+     "zh": "敏感度下降并不意味着新对立无法习得，只是后续学习会受到第一年所建立范畴的塑造。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "phoneme",
+     "zh": "音位",
+     "defEn": "A contrastive speech unit in a language's mental grammar; replacing it changes meaning.",
+     "defZh": "某一语言心理语法中具有对立作用的语音单位，替换它会改变词义。"
+    },
+    {
+     "en": "allophone",
+     "zh": "音位变体",
+     "defEn": "A predictable phonetic variant of a single phoneme, as [pʰ] and [p] are in English.",
+     "defZh": "同一音位在不同语音环境中的可预测变体，如英语中送气的 [pʰ] 与不送气的 [p]。"
+    },
+    {
+     "en": "conditioned head turn",
+     "zh": "条件化转头法",
+     "defEn": "A habituation procedure that measures whether a baby turns back toward a speaker after a sound change.",
+     "defZh": "一种习惯化实验程序，通过观察婴儿在声音改变后是否重新转向声源来判断其辨别能力。"
+    },
+    {
+     "en": "perceptual narrowing",
+     "zh": "知觉窄化",
+     "defEn": "The first-year decline in sensitivity to phonetic contrasts absent from the language environment.",
+     "defZh": "婴儿在第一年内对语言环境中不存在的语音对立逐渐失去敏感度的现象。"
+    },
+    {
+     "en": "place of articulation",
+     "zh": "发音部位",
+     "defEn": "The location in the vocal tract where a consonant's obstruction is made.",
+     "defZh": "辅音发音时声道中形成阻碍的位置，如齿、齿龈、卷舌、软腭或小舌。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[pʰ]",
+     "noteEn": "The aspirated stop that is an allophone of English /p/ but a separate phoneme in Thai.",
+     "noteZh": "送气塞音，在英语中是 /p/ 的音位变体，在泰语中却是独立的音位。"
+    },
+    {
+     "text": "cat and bat",
+     "noteEn": "A familiar English minimal pair illustrating the /k/ versus /b/ phoneme contrast.",
+     "noteZh": "熟悉的英语最小对立对，用来说明 /k/ 与 /b/ 的音位对立。"
+    },
+    {
+     "text": "the Hindi contrast between a retroflex stop /ʈa/ and a dental stop /t̪a/",
+     "noteEn": "One of the three syllable pairs tested in Werker and Tees's cross-language study.",
+     "noteZh": "Werker 与 Tees 跨语言研究中所测三组音节对之一，差别在发音部位。"
+    },
+    {
+     "text": "a Nłeʔkepmxcín contrast between glottalized velar /kʼi/ and uvular /qʼi/ stops",
+     "noteEn": "A Salish contrast that English-learning babies could still detect at six months.",
+     "noteZh": "一种萨利什语的对立，英语婴儿在六个月大时仍能察觉其差别。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The phonology of a language is language-specific: which segments and features contrast and which are merely allophones differs from one language to the next. English treats aspirated [pʰ] and unaspirated [p] as variants of one phoneme, whereas Thai treats them as two. Nobody ever teaches a child that [k] and [b] distinguish cat from bat, so where does that unconscious knowledge come from?",
+     "zh": "每种语言的音系都自成系统：哪些音段和特征构成对立、哪些只是音位变体，在不同语言中并不相同。英语把送气的 [pʰ] 与不送气的 [p] 视为同一音位的变体，泰语则视之为两个音位。从没有人教过孩子 [k] 与 [b] 能区分 cat 和 bat，这种无意识的知识从何而来？研究者需要借助实验来回答这个问题。"
+    },
+    {
+     "en": "One method for finding out is the conditioned head-turn procedure. A sound plays from a speaker and the baby turns toward it; after habituating, the baby looks away. If the next sound is the same, the baby stays bored, but a genuinely different sound brings the head back around. Researchers read that head turn as evidence that the baby detected a difference.",
+     "zh": "条件化转头法正是探究这一问题的实验手段。扬声器播放声音时婴儿会转向声源，习惯之后便移开视线；若接下来的声音相同，婴儿保持不注意状态，若声音确有差别，婴儿会重新转头。研究者便把这次转头解读为婴儿察觉到了差异的证据，其逻辑与高振幅吸吮法相同。"
+    },
+    {
+     "en": "Janet Werker's team tested three syllable pairs: the English /ba/ and /da/, the Hindi retroflex /ʈa/ against dental /t̪a/, and the Nłeʔkepmxcín glottalized velar /kʼi/ against uvular /qʼi/. English-speaking adults were flawless on English but poor on the other two. Monolingual English-learning babies, however, succeeded on all three at 80-90% at six months, fell to 50-60% by ten months, and managed only 10-20% on the non-English contrasts at one year, already matching adults.",
+     "zh": "Janet Werker 的团队测试了三组音节：英语的 /ba/ 与 /da/、印地语的卷舌塞音 /ʈa/ 与齿塞音 /t̪a/，以及 Nłeʔkepmxcín 的声门化软腭塞音 /kʼi/ 与小舌塞音 /qʼi/。说英语的成人在英语对立上毫无差错，在另外两组上却表现很差。而在单语英语环境中成长的婴儿六个月大时三组都达到 80–90% 的成功率，十个月大降至 50–60%，一岁时对非英语对立的成功率仅 10–20%，已与成人相当。"
+    },
+    {
+     "en": "The signed-language research came later but told the same story: babies under six months noticed contrastive ASL handshapes without any ASL exposure, and by fourteen months only the ASL-acquiring babies still did. So whether the language is spoken or signed, a child's mind has built phoneme categories from the ambient contrasts by about age one.",
+     "zh": "手语研究开展得更晚，结论却一致：未接触过美国手语的六个月以下婴儿也能察觉具有音位对立的手形差异，而到十四个月大时，只有正在习得美国手语的婴儿仍保持这一敏感性。可见无论语言是口语还是手语，儿童的心理语法都会在约一岁时依据环境中的对立建立起音位范畴。"
+    }
+   ]
+  },
+  "chapter-131-slug-11-4-early-production": {
+   "title": {
+    "en": "11.4 Early language production",
+    "zh": "11.4 早期语言产出"
+   },
+   "summary": {
+    "en": "Newborns cannot yet talk because their larynx sits high and their articulatory control is still developing, so early productions are random wiggling and gurgling. Around six months, reduplicated syllable-like babbles appear in speech and, for sign-exposed babies, on the hands. First words arrive later, and their meanings are shaped by the child's own experience of the environment.",
+    "zh": "新生儿还不会说话，是因为喉位偏高、发音器官的控制尚未成熟，早期产出只是随意的扭动与咕噜声。约六个月大时，口语中出现重复音节的咿呀声，接触手语的婴儿则在手上发出类似产出。首批词出现得更晚，其意义受儿童自身环境经验的塑造。"
+   },
+   "points": [
+    {
+     "en": "Newborns' larynx starts lowering around six months, and control of fingers and arms precedes control of the jaw, tongue and lips.",
+     "zh": "新生儿的喉部约在六个月大时开始下降，对手指和手臂的控制早于对下颌、舌头和嘴唇的控制。"
+    },
+    {
+     "en": "Canonical babbling, from about six months, uses reduplicated consonant-vowel syllables such as [babababa], favouring low [a] and voiced stops.",
+     "zh": "约六个月大起出现的典型咿呀声由重复的辅音加元音音节构成，如 [babababa]，多使用低元音 [a] 和浊塞音。"
+    },
+    {
+     "en": "Deaf babies start vocal babbling on the same schedule but gradually produce less of it; sign-exposed babies babble with their hands.",
+     "zh": "聋婴开始发声咿呀的时间与健听婴儿相同，但日后逐渐减少；处于手语环境中的婴儿则用手咿呀。"
+    },
+    {
+     "en": "Babbling is not random: it uses repeated syllable patterns and a subset of the segments or handshapes present in the environment.",
+     "zh": "咿呀声并非随机：它采用重复的音节模式，并且只使用环境语言中部分音段或手形。"
+    },
+    {
+     "en": "A form counts as a word only when it refers: [baba] reaching for a bottle refers, but sounds for fun do not.",
+     "zh": "某一形式是否算词取决于语境：伸手要奶瓶或球时说 [baba] 算词，纯粹为发声取乐则只是咿呀。"
+    },
+    {
+     "en": "Children's meanings may be overextended or underextended, as when apple covers all roundish fruit or elephant names only one stuffed toy.",
+     "zh": "儿童词义可能过度扩展或扩展不足，例如把 apple 用于所有圆形水果，或只用 elephant 指某一个毛绒玩具。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "canonical babbling",
+     "zh": "典型咿呀声",
+     "defEn": "Reduplicated consonant-vowel babble such as [babababa], typical from about six months.",
+     "defZh": "自约六个月大起出现的重复性辅音加元音咿呀声，如 [babababa]，是婴儿习得音节结构的最早表现之一。"
+    },
+    {
+     "en": "articulator",
+     "zh": "发音器官",
+     "defEn": "A movable part of the vocal tract, such as the tongue, lips or jaw, used to produce speech.",
+     "defZh": "声道中可以活动的部分，如舌头、嘴唇和下颌，发音时通过改变其位置来形成不同的语音。"
+    },
+    {
+     "en": "proximal articulator",
+     "zh": "近端发音器官",
+     "defEn": "A sign articulator closer to the torso, such as the elbow or wrist.",
+     "defZh": "手语中位置更靠近躯干的发音器官，如肘部和腕部，手语婴儿最早的手部咿呀多用这类器官。"
+    },
+    {
+     "en": "distal articulator",
+     "zh": "远端发音器官",
+     "defEn": "A sign articulator farther from the torso, such as the fingers or knuckles.",
+     "defZh": "手语中位置离躯干较远的发音器官，如手指和指关节，其控制能力比近端器官发育得更晚。"
+    },
+    {
+     "en": "overextension",
+     "zh": "过度扩展",
+     "defEn": "Applying a word more broadly than adults do, so that apple names many round fruits.",
+     "defZh": "把某个词的使用范围扩大到超出成人的程度，如用 apple 指称各种圆形水果。"
+    },
+    {
+     "en": "underextension",
+     "zh": "扩展不足",
+     "defEn": "Applying a word more narrowly than adults do, so that elephant names only one toy.",
+     "defZh": "把某个词的适用范围限制得比成人更窄，如 elephant 只指某一个玩具。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "[babababa]",
+     "noteEn": "The classic canonical babble, built from repeated low vowels and voiced stops.",
+     "noteZh": "最典型的咿呀声，由重复的低元音与浊塞音构成。"
+    },
+    {
+     "text": "[badibadi]",
+     "noteEn": "A later babble in which the child varies both consonants and vowels.",
+     "noteZh": "后期咿呀声的例子，儿童在其中已能变换辅音和元音，不再只是重复同一音节。"
+    },
+    {
+     "text": "Apple!",
+     "noteEn": "A toddler's overextended label for a pumpkin seen for the first time.",
+     "noteZh": "幼儿初次见到南瓜时所说的话，属于词义的过度扩展。"
+    },
+    {
+     "text": "look up",
+     "noteEn": "The instruction to which blind Kelli responded by raising her hands rather than her head.",
+     "noteZh": "研究者给出的指令，盲童 Kelli 听到后举手而非抬头作为回应。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Babies learn a great deal about their language before they can talk, and their silence is largely physical. A newborn's larynx sits higher than an adult's and only begins to lower at about six months. Control of the body also comes gradually: fingers, hands and forearms first, then the jaw, tongue and lips. In the first months, hand movements and vocalizations are mostly random wiggling and gurgling.",
+     "zh": "婴儿在会说话之前已学到大量语言知识，迟迟不开口的原因主要是生理上的。新生儿的喉位比成人高，约六个月大时才开始下降。身体控制能力也是逐步获得的：先能控制手指、手和手臂，之后才轮到下颌、舌头和嘴唇。出生后最初几个月里，手部动作和发声大多只是随意的扭动与咕噜声。"
+    },
+    {
+     "en": "From about six months the sounds gain syllable structure. Babies produce reduplicated consonant-vowel syllables, typically with the low vowel [a] and voiced stops, because a wide-open and a fully obstructed tract is easier to alternate than partial obstruction, and keeping the vocal folds vibrating avoids voicing switches. Canonical babbling therefore sounds like [babababa] or [dadadada], later becoming more varied, as in [badibadi] or [ɡudaɡuda].",
+     "zh": "从约六个月大起，婴儿发出的声音开始具备音节结构。他们会产出重复的辅音加元音音节，多用低元音 [a] 和浊塞音，因为让声道在完全张开与完全阻塞之间交替、并始终保持声带振动，比形成部分阻碍或反复切换清浊要容易。因此典型咿呀声听起来像 [babababa] 或 [dadadada]，此后逐渐变得多样，如 [badibadi] 或 [ɡudaɡuda]。"
+    },
+    {
+     "en": "Vocal babbling begins on the same schedule for hearing and deaf babies, though deaf babies gradually produce less of it. When the ambient language is signed, babies babble on their hands, using handshapes from the environment and favouring proximal articulators like elbows and wrists over distal ones. Either way the babble is structured: repeated syllable-like patterns, alternation between handshape and path movement, and a subset of ambient segments or handshapes.",
+     "zh": "健听婴儿与聋婴发声咿呀的时间表相同，只是聋婴日后逐渐减少。当环境语言是手语时，婴儿改用手来咿呀，使用环境中的手形，并更多使用肘、腕等近端发音器官而非手指等远端器官。无论哪种模态，咿呀都有结构：重复的音节式模式，手形与路径运动之间或闭合与开放声道之间的交替，以及只取用环境中部分音段或手形。"
+    },
+    {
+     "en": "Distinguishing babbling from first words requires the context, because a word links a form to a meaning. An English-acquiring child who says [baba] while reaching for a bottle or a ball is referring and therefore producing a word, even though the adult forms are [bɑɾəl] and [bɑl]; the same form produced purely for fun is non-referential babble. Sign-acquiring babies usually sign their first words around 0;8 or 0;9, earlier than the 1;0 typical of spoken language, perhaps because arm and hand control develops sooner or because signs are more often iconic.",
+     "zh": "要区分咿呀与首批词必须依据语境，因为词把形式与意义联系在一起。习得英语的儿童在伸手要奶瓶或球时说 [baba]，是在进行指称，因此算作词，尽管成人形式是 [bɑɾəl] 和 [bɑl]；若只是为发声取乐而发出同一形式，则属于无指称的咿呀。习得手语的婴儿通常在 0;8 或 0;9 左右打出首批词，早于口语常见的 1;0，原因可能是手臂和手部控制发育更早，也可能因为手语词更多具有象似性。"
+    }
+   ]
+  },
+  "chapter-132-slug-11-5-the-language-environment-and-the-so-called-word-gap": {
+   "title": {
+    "en": "11.5 The Language environment and the so-called word gap",
+    "zh": "11.5 语言环境与所谓的词汇缺口"
+   },
+   "summary": {
+    "en": "Hart and Risley's 1995 study produced the famous claim that poor children hear thirty million fewer words by age three, a phrase that has shaped policy but also stigmatized low-income parents. A 2018 follow-up that counted all speech in the environment, not just mothers' speech to the child, found no clear socioeconomic pattern and even an advantage in some poor Black communities. The case shows how measurement choices can bias supposedly objective findings.",
+    "zh": "Hart 与 Risley 1995 年的研究提出了著名论断：贫困家庭的儿童到三岁时少听到三千万个词，这一说法影响了政策，也给低收入家长带来污名。2018 年的后续研究改以环境中全部言语为计数对象，而非只计母亲对孩子说的话，结果未发现明确的社会经济模式，部分贫困黑人社区甚至更具优势。此案例显示测量选择本身就可能使所谓客观的结论产生偏差。"
+   },
+   "points": [
+    {
+     "en": "The language environment matters: hearing babies learn speech patterns before birth, and deaf babies learn sign patterns once exposed to them.",
+     "zh": "语言环境至关重要：健听婴儿在出生前就开始学习语音模式，聋婴一旦接触手语便开始学习其模式。"
+    },
+    {
+     "en": "Hart and Risley reported that three-year-olds in poor families heard thirty million fewer words than affluent peers, the '30 million word gap'.",
+     "zh": "Hart 与 Risley 报告称，贫困家庭的儿童三岁时比富裕家庭的同龄人少听到三千万个词，由此产生「三千万词汇缺口」之说。"
+    },
+    {
+     "en": "The 1995 count included only words the mother spoke directly to the child, a measure favouring white middle-class stay-at-home mothers.",
+     "zh": "1995 年的统计只计入母亲直接对孩子说的话，这一测量方式偏向白人中产阶层全职母亲与儿童的互动模式。"
+    },
+    {
+     "en": "The affluent families studied were largely white and the poor families almost entirely Black, so cultural differences in interaction went unaccounted for.",
+     "zh": "所研究的富裕家庭大多是白人，贫困家庭几乎全是黑人，因此成人与儿童互动方式上的文化差异未被纳入考虑。"
+    },
+    {
+     "en": "Counting all caregivers and ambient language, Sperry found the word gap gone and poor Black households with the most words.",
+     "zh": "在统计所有照护者以及环境中全部言语后，Sperry 等人发现词汇缺口消失，贫困黑人家庭每小时听到的词数反而最多。"
+    },
+    {
+     "en": "A 2021 meta-analysis concluded that socioeconomic status is not a good predictor of the quality of a child's language environment.",
+     "zh": "2021 年的一项元分析得出结论：社会经济地位并不能很好地预测儿童语言环境的质量。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "language environment",
+     "zh": "语言环境",
+     "defEn": "The speech or sign input available to a learner, including what is overheard rather than addressed to them.",
+     "defZh": "学习者所能接触到的口语或手语输入，包括并非对其直接说出的旁听言语。"
+    },
+    {
+     "en": "word gap",
+     "zh": "词汇缺口",
+     "defEn": "The claimed difference in the number of words poor and affluent children hear by age three.",
+     "defZh": "所谓贫困家庭与富裕家庭儿童在三岁前所听到词数上的差距。"
+    },
+    {
+     "en": "socioeconomic status",
+     "zh": "社会经济地位",
+     "defEn": "A measure combining income, education and occupation, often used to compare family environments.",
+     "defZh": "综合收入、教育与职业的衡量指标，研究家庭环境时常用它来划分不同的社会群体。"
+    },
+    {
+     "en": "meta-analysis",
+     "zh": "元分析",
+     "defEn": "A study that statistically combines the results of many separate studies on one question.",
+     "defZh": "把针对同一问题的多项独立研究结果在统计上加以合并的研究方法。"
+    },
+    {
+     "en": "primary caregiver",
+     "zh": "主要照护者",
+     "defEn": "The person who provides most of a child's day-to-day care and interaction.",
+     "defZh": "承担儿童日常照料与互动主要责任的人，通常是父母之一，1995 年的统计只计算了这个人对孩子说的话。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "thirty million fewer words",
+     "noteEn": "The most quoted figure from Hart and Risley, which became the '30 million word gap'.",
+     "noteZh": "Hart 与 Risley 研究中最常被引用的数字，后来被概括为「三千万词汇缺口」。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Environment clearly matters for young learners. Hearing babies begin absorbing speech patterns before birth, and deaf babies begin absorbing sign patterns as soon as those patterns are available to them. Most obviously, which language a child acquires depends on which language surrounds them, which naturally raises the question of whether differences in that environment affect children acquiring the same language.",
+     "zh": "环境对幼儿学习者的重要性显而易见。健听婴儿在出生前就开始吸收语音模式，聋婴一旦能接触到手语模式便立即开始吸收。最直接的一点是，儿童习得哪种语言取决于周围存在哪种语言，这自然引出新的问题：对习得同一种语言的儿童而言，环境差异是否会影响其语言发展。"
+    },
+    {
+     "en": "Hart and Risley's influential 1995 comparison of American children from different socioeconomic and racial groups reported what they called staggering contrasts between rich and poor families. Their most quoted claim is that by age three, children in poor families had heard thirty million fewer words than children in middle-class and affluent families. The catchy phrase '30 million word gap' spread widely and prompted policy decisions and early-childhood interventions, but it also stigmatized low-income parents.",
+     "zh": "Hart 与 Risley 在 1995 年比较了不同社会经济与种族背景的美国儿童，报告称富裕家庭与贫困家庭之间存在「惊人的反差」。其中最常被引用的主张是：贫困家庭的儿童到三岁时比中产及富裕家庭的儿童少听到三千万个词。朗朗上口的「三千万词汇缺口」说法广为流传，推动了政策决策与幼儿教育干预，但同时也给低收入家长带来污名，仿佛在指责他们不常与孩子说话。"
+    },
+    {
+     "en": "The 1995 analysis counted only words the mother spoke directly to the child. It excluded speech addressed to the child by anyone else and speech from nearby conversations not directed at the child, so the measure favoured the interaction style of white, middle-class, stay-at-home mothers. Its other flaw was demographic: the affluent families studied were largely white and the poor families almost entirely Black, so cultural and linguistic differences in how adults interact with children went unaccounted for.",
+     "zh": "1995 年的分析只统计母亲直接对孩子说的话，未计入其他人对孩子说的话，也未计入旁边并非针对孩子的对话，因此这一测量偏向白人中产阶层全职母亲与儿童的互动方式。其另一处缺陷是人口构成：所研究的富裕家庭大多是白人，贫困家庭几乎全是黑人，于是成人与儿童互动方式上的文化和语言差异未被纳入考虑。"
+    },
+    {
+     "en": "The 2018 follow-up argued that children also learn from overheard language, so it added further measures. With the 1995 measure there was no clear socioeconomic pattern; counting speech by all caregivers, and then all language in the environment, the households with the most words per hour were poor Black families. The researchers reported that the Word Gap disappeared and that some poor and working-class communities showed an advantage, while variation within each socioeconomic stratum was large. A 2021 meta-analysis likewise found socioeconomic status a poor predictor.",
+     "zh": "2018 年的后续研究主张，儿童也能从旁听到的语言中学习，因此增加了更多测量方式。按 1995 年的方式统计时并未出现明确的社会经济模式；而统计所有照护者对孩子说的话、进而统计环境中全部言语时，每小时词数最多的反而是贫困黑人家庭。研究者报告词汇缺口消失，一些贫困与工薪阶层社区甚至显示优势，同时同一阶层内部的差异极大。2021 年的元分析同样发现社会经济地位难以预测语言环境。"
+    }
+   ]
+  }
+ }
+}

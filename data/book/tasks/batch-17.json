@@ -1,0 +1,13 @@
+{
+ "batch": 17,
+ "chapter": "Chapter 3: Phonetics",
+ "out": "data/book/gen/batch-17.json",
+ "sections": [
+  {
+   "id": "chapter-029-slug-3-12-tone-and-intonation",
+   "title": "3.12 Tone and intonation",
+   "src": "data/book/src/chapter-029-slug-3-12-tone-and-intonation.txt",
+   "chars": 11869
+  }
+ ]
+}

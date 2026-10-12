@@ -1,0 +1,147 @@
+# 6.5 Functional categories
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1485#oembed-1
+
+## From lexical categories to functional categories
+
+In 5.5 Lexical categories we reviewed the lexical categories of nouns, verbs, adjectives, and adverbs. As we’ve started looking at phrases and sentences, however, you may have noticed that not all words in a sentence belong to one of these categories. Consider the sentence in (1).
+
+[表格]
+| | | (1) | | | | The spaceship will arrive in orbit very soon. | | |
+
+Spaceship is a noun, and it is the head of the noun phrase [the spaceship] (we can tell because it could be replaced by a pronoun like it). But what category is the? Similarly, arrive is a verb, orbit is a noun, and soon is an adverb, but what categories do will, in, and very belong to?
+Words like the, will, in, and very belong to functional categories. Functional categories can be thought of as the grammatical glue that holds syntax together. While lexical categories mostly describe non-linguistic things, states, or events, functional categories often have purely grammatical meanings or uses.
+Some of the most important functional categories that we’ll use in this chapter are described in this section. In some later sections other functional categories will be introduced—as we develop a syntactic theory, a lot of the action comes in identifying new grammatical functions, and figuring out how they map onto structure.
+
+## Determiner
+
+You may be familiar with the definite article the and indefinite article a(n), as in the book or a cat.
+
+[表格]
+| | | (2) | | a. | | the book | | | | | | b. | | a cat | | |
+
+In English, definite and indefinite articles occur in noun phrases before the head noun, as well as before any numbers or adjectives, as we see in the examples in (3):
+
+[表格]
+| | | (3) | | a. | | the three red books | | | | | | b. | | a large angry cat | | |
+
+In fact, articles are usually the very first thing in a noun phrase, and you can only have one of them (unlike adjectives, which you can pile up). If you try to have more than one, the result is ungrammatical, as we can see in (4)—for me it’s not grammatical to say *a the book or *the a cat.
+
+[表格]
+| | | (4) | | a. | | *a the book | | | | | | b. | | *the a cat | | |
+
+This distribution doesn’t apply only to the articles the and a(n), though. There are a bunch of other elements that occur in exactly the same places, with exactly the same restrictions. These other things aren’t articles in traditional grammar, so we use the label determiners for this larger functional category (usually abbreviated Det).
+Some other determiners:
+- Demonstratives (this, that, these, those)
+- Some quantifiers (every, some, each, most, etc.)
+
+Test for yourself that these occur in the same places in noun phrases as the and a(n) do—and that some other words expressing quantities (like all and many) and numbers do not.
+
+Possessors in English expressed by possessive pronouns or by noun phrases marked with ‘s also appear in the same position as determiners, and are also in complementary distribution with them, as shown in (5).
+
+[表格]
+| | | (5) | | a. | | | my | book | | | | | | b. | | | [a friend from school]’s | cat | | | | | | c. | | *the [a friend from school]’s cat | | | | | | d. | | *[a friend from school]’s the book | | |
+
+Notice that the marker ‘s attaches to the whole phrase, rather than to the head noun friend; this makes it a clitic rather than an affix, and makes it different from possessor marking typically found in languages that have genitive case.
+Possession in English can also be marked with a prepositional phrase, which would come after the noun and not be in complementary distribution with determiners: the cat [of my friend from school].
+Not all languages have definite and indefinite articles, but most languages have some kind of determiners. If you know a language other than English, try to figure out whether there’s a class a words that occur at the edge of noun phrases, outside adjectives and numbers, that might be determiners—these could come first, as in English, but they might instead appear after the head noun, especially if other things in the noun phrase, like adjectives, also come after the noun.
+
+## Pronouns
+
+Pronouns are a special functional category that can replace a whole noun phrase, as we saw in 6.4 Identifying phrases: Constituency tests. The set of pronouns in the variety of English most Canadians speak is limited to the following, where each row lists the nominative, accusative, and possessive forms of the pronoun (as introduced in 5.7 Inflectional morphology):
+- First person singular: I / me / my
+- First person plural: we / us / our
+- Second person singular or plural: you / you / your
+- Third person singular inanimate: it / it / its
+- Third person singular feminine: she / her / her
+- Third person singular masculine: he / him / his
+- Third person animate singular or general plural: they / them / their
+
+Many English speakers have a dedicated second person plural like y’all or yous; for some English speakers, you guys may also have the distribution of a second person plural pronoun, though for other people this might be an ordinary noun phrase. Across different varieties of English, many people have different case forms for some of the pronouns listed above as well.
+Try taking a moment to figure out what pronouns exist in your English grammar: do you use a distinct second person plural like y’all? Would you use a different form for any of the pronouns listed above?
+Most languages have pronouns, but in some languages pronouns aren’t used as often as they are in English; when using those languages, people might usually leave noun phrases out entirely, rather than replace them with pronouns.
+While pronouns are a functional category, in this textbook we will treat them as still belonging to the same category as nouns (abbreviated N).
+
+## Auxiliaries
+
+Auxiliaries (abbreviated Aux) are like verbs in that they can be present or past tense, and can show agreement, but they always occur alongside a lexical main verb. For this reason they’re sometimes called “helping verbs”.
+For example, in the progressive in English we see the auxiliary be, alongside a main verb that ends in the inflectional suffix -ing, as in (6):
+
+[表格]
+| | | (6) | | | | The bears | are | | dancing | . | | |
+
+In English declarative sentences, auxiliaries occur after the subject and before the main verb.
+If an English sentence is negative, at least one auxiliary will occur to the left of negative not /n’t, as you see in (7):
+
+[表格]
+| | | (7) | | | | The bears | aren’t | dancing. | | |
+
+In a Yes-No questions in English, at least one auxiliary appears at the front of the sentence, before the subject, as you see in (8):
+
+[表格]
+| | | (8) | | | | | Are | the bears dancing? | | |
+
+The auxiliaries in English are:
+- have (followed by a past participle, in the perfect)
+- be (followed by a past participle in the passive, and a present participle in the progressive)
+- do (used in questions and negation when there’s no other auxiliary)
+
+Importantly, these can all also be used as main lexical verbs! They’re auxiliaries only when there’s also another verb in the clause that’s acting as the lexical verb. If have expresses possession, or be is followed by a noun or adjective instead of a verb, they are occurring as main verbs.
+In English there is also a class of modal auxiliaries. In modern English modals only occur as auxiliaries—they don’t have uses as main verbs—and they are different from the other auxiliaries in that they don’t agree with the subject. The modal auxiliaries are:
+- will
+- would
+- can
+- could
+- may
+- might
+- shall (archaic for many people)
+- should
+- must
+
+You can test for yourself that these have the same distribution with respect to subjects, negation, and in questions as the auxiliaries be, have, and do.
+Sometimes lists of modals include ought (as in You ought not do that.) need (as in You need not go) and dare (as in I dare not try), but these aren’t used as modals very frequently by most English speakers today.
+
+## Prepositions
+
+Prepositions (abbreviated P) express locations or grammatical relations. They are almost always followed by noun phrases (though a few prepositions can occur by themselves)—in other words, they are almost always transitive and select a noun phrase complement. Prepositions can sometimes be modified by degree words like very or way. Those modifiers, the preposition, and the following noun phrase, all group together into a prepositional phrase constituent.
+Some prepositions:
+- on
+- up
+- beside
+- through
+- outside
+- in
+- above
+- to
+- of
+- with
+- for
+- without
+
+Outside is an example of a preposition that can occur without a following noun phrase, in a sentence like They’re playing outside.
+
+## Other functional categories
+
+A few other functional categories that you will encounter in this chapter are degree words like very and way, which always modify adjectives or adverbs (abbreviated Deg); numbers, which occur between determiners and adjectives, and which as a syntactic category in English also include words like many and few (abbreviated Num); and conjunctions, which include only and, or, and but, and connect two phrases of the same category (abbreviated Conj).
+Two other important functional categories will come up later in this chapter: tense, which will be the category that heads sentences (abbreviated T), and complementizers, which will introduce embedded clauses (abbreviated C). We will learn how to identify these functional categories in later sections; for now, it’s useful to note that words like because and although pattern together with other words as part of the functional category of complementizers, even though in traditional grammar they’re often identified as conjunctions—but that traditional categorization is based mostly on their meaning, instead of their distribution, and we saw in 5.5 Lexical categories that for the purposes of linguistics it’s more reliable to identify categories based on their distribution, not meaning.
+
+## Functional categories as “closed class”
+
+Even though there are lots of different functional categories, they’re different from lexical categories in that it’s much harder to add new words to an existing functional category than it is to come up with new lexical items. So I can coin new nouns (like grypno in 6.1) and new adjectives (like tichek) very easily, but it’s more difficult to add, say, a brand-new determiner or auxiliary to a language. For this reason, functional categories are sometimes described as closed classes of words, while lexical categories are described as open classes.
+Even though it’s harder, though, it’s definitely not impossible! Consider the functional category of pronouns. There are lots of new pronouns that people have proposed as nonbinary pronouns. These neopronouns are sometimes harder to get the hang of than new lexical nouns are (which is one of the signs that pronouns are more of a closed class than nouns are) but it’s very possible to become a fluent user of a new pronoun with practice.
+
+Prepositions: lexical or functional?
+Prepositions are sometimes treated as a lexical category instead of as a functional category. For one thing, you might have noticed in 5.8 Compounding that prepositions can occur in compounds, which is something more typical of roots that belong to lexical categories. On the other hand, prepositions form a more closed class than nouns, verbs, adjectives, or adverbs, and they are often used to express purely grammatical information. In this textbook, we will continue to treat prepositions as functional elements—though the distinction between functional and lexical elements won’t be relevant very often.
+
+## Summary
+
+In this section we’ve introduced several functional categories, alongside distributional properties that can help us identify those functional categories. Functional categories are very important in syntax—they help nouns, verbs, adjectives, and adverbs hang together into complete sentences. In the next section we’ll see how the functional category complementizer (C) helps create complex sentences, by introducing a clause as the complement of a verb.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1485#h5p-154
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.4 Identifying phrases: Constituency tests and the next section is 6.13 From constituency to tree diagrams. This is your first departure from the published order of sections.

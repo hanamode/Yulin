@@ -1,0 +1,278 @@
+{
+ "batch": 7,
+ "entries": {
+  "experimental-phonetics": {
+   "summaryEn": "Experimental phonetics uses instruments and experimental methods to measure the physiological and acoustic properties of speech and to study how listeners perceive it. It supplements traditional impressionistic judgement with objective data, describing speech through parameters such as the spectrogram, fundamental frequency, formants and voice onset time. It is a key marker of the modernisation of phonetics and also serves speech recognition and language teaching.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and a Brief History of Development",
+     "pEn": [
+      "Experimental phonetics is the branch of phonetics that studies the production, transmission and perception of speech by means of experiments and instruments. It treats speech as a measurable physical and physiological event, drawing on acoustic analysis, observation of articulatory physiology and perceptual experiments to obtain quantitative evidence, thereby supplementing and testing the conclusions of traditional auditory transcription.",
+      "Its development has passed through roughly three stages: in the nineteenth century speech was observed with devices such as the phonograph and the kymograph; in the mid-twentieth century, with the advent of the sound spectrograph and Acoustic Theory of Speech Production, acoustic analysis became the mainstream; and in recent decades computers, ultrasound, electromagnetic articulography and brain imaging have made real-time observation possible, while the field has become closely tied to speech engineering."
+     ]
+    },
+    {
+     "hEn": "Principal Research Methods",
+     "pEn": [
+      "In acoustic analysis, the spectrogram displays time, frequency and energy simultaneously, and formants and fundamental frequency are the core parameters for describing vowels and tones. In articulatory physiology, the electroglottograph measures vocal fold vibration, ultrasound and electromagnetic articulography track tongue position and lip shape, and airflow and air-pressure devices measure the dynamics of aspiration and burst release.",
+      "Perceptual experiments commonly use identification and discrimination tasks, varying a single parameter of synthesised speech and observing changes in listeners' judgements. For example, synthesising a [pʰa]—[pa] continuum that differs in voice onset time allows the boundary of categorical perception to be located, showing that listeners' identification of aspirated and unaspirated sounds is discrete.",
+      "Statistical analysis is indispensable: experiments usually include several speakers and multiple repetitions, and differences between conditions are tested with analysis of variance or mixed-effects models, so that the idiosyncrasies of an individual speaker are not mistaken for a general rule of the language."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts and Measurement Parameters",
+     "pEn": [
+      "Voice onset time refers to the interval between the release of a stop and the onset of vocal fold vibration; aspirated stops typically have relatively long positive values. The contrast between 爸 [pa⁵¹] and 怕 [pʰa⁵¹] in Standard Chinese is realised jointly by parameters such as voice onset time and aspiration duration.",
+      "The acoustic characteristics of vowels are determined mainly by the two lowest formants: the first formant correlates with tongue height and the second with tongue frontness. For instance, [i] has a low first formant and a high second formant, whereas [a] is the reverse. Tone depends mainly on the fundamental frequency contour: in Standard Chinese, the first tone (yinping) is high and level, while the third tone (shang) falls and then rises."
+     ]
+    },
+    {
+     "hEn": "Examples and Applications",
+     "pEn": [
+      "In the study of tone, experimental phonetics has distinguished tone contour from tone value and has shown that one and the same tone category undergoes regular variation in different contexts. In Standard Chinese, for example, when two third tones are adjacent the first is realised as the second tone: 你好 is pronounced ní hǎo rather than nǐ hǎo. Such rules, confirmed by fundamental frequency measurements, have become common knowledge in teaching and in speech synthesis systems.",
+      "In applied work, speech recognition and synthesis rely on large acoustic and articulatory databases; speech pathology uses acoustic parameters to assess voice and articulation disorders; and second language teaching uses spectrograms to compare learners with native speakers, so that, for instance, Japanese learners' confusion of aspirated and unaspirated Chinese stops can be diagnosed from voice onset time data."
+     ]
+    },
+    {
+     "hEn": "Relations to Related Disciplines",
+     "pEn": [
+      "Experimental phonetics and phonology complement each other: experiments supply concrete data on phonetic realisation, while phonology explains whether these differences are functional within the system. The field also shares methods for studying perception and brain processing with psycholinguistics and neurolinguistics, and speech signal processing techniques with computational linguistics; it is one of the most thoroughly experimentalised areas of linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "spectrogram", "dEn": "Acoustic display plotting time against frequency, with darkness showing energy; reveals formants and noise components."},
+    {"tEn": "formant", "dEn": "Concentration of acoustic energy produced by vocal-tract resonance; vowel identification depends mainly on the two lowest formants."},
+    {"tEn": "fundamental frequency", "dEn": "The basic rate of vocal fold vibration; the physical correlate of pitch variation in tone and intonation."},
+    {"tEn": "voice onset time", "dEn": "The time interval between stop release and the onset of vocal fold vibration; a key acoustic cue to aspiration."},
+    {"tEn": "categorical perception", "dEn": "The psychological phenomenon whereby listeners classify a continuously varying acoustic parameter discretely; a classic finding of perceptual experiments."},
+    {"tEn": "coarticulation", "dEn": "The phenomenon whereby the articulatory gestures of adjacent sounds overlap in time and influence one another, observable in acoustic data."}
+   ]
+  },
+  "comparative-method": {
+   "summaryEn": "The comparative method is the procedure by which historical linguistics compares cognates and sound correspondences across related languages in order to reconstruct their common ancestor and establish genealogical relationship. It rests on the assumption that sound change is regular, and proceeds by identifying cognates, establishing correspondences and reconstructing proto-forms. It is the cornerstone of Indo-European and Sino-Tibetan studies.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Basic Assumptions",
+     "pEn": [
+      "The comparative method is a set of procedures used in historical linguistics to determine genealogical relationships among languages and to reconstruct their proto-language. Its premise is that languages change regularly, so that sound correspondences between related languages are systematic rather than accidental; any cognates that conform to the correspondence patterns may serve as evidence for comparison.",
+      "The product of the comparative method is reconstructed proto-language forms. Reconstructed forms are marked with an asterisk to indicate that they are not attested directly in texts but inferred from correspondences among descendant languages. Reconstruction may also proceed in layers within a single family: Proto-Germanic may first be reconstructed and then compared with Latin, Greek and others in order to trace an earlier stage."
+     ]
+    },
+    {
+     "hEn": "Procedural Steps",
+     "pEn": [
+      "The typical steps are as follows: first, identify candidate cognates, which must match in meaning and show regular correspondences in phonetic form and should cover basic vocabulary as far as possible; second, establish sound correspondences and exclude borrowings and chance resemblances; third, reconstruct proto-sounds on the basis of the correspondence patterns; and finally, account for exceptions by sound-change laws, revising the reconstruction where necessary and testing its explanatory power.",
+      "For example, English foot, Latin pedis and Greek pous (all meaning 'foot') display systematic correspondences. Proto-Indo-European *p became *f in Germanic; this regularity forms part of Grimm's Law, so that English father corresponds to Latin pater and Sanskrit pitā, belonging to the same set of correspondences."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "The establishment of the Indo-European family is the classic example. English father, Latin pater, Greek patēr and Sanskrit pitā all point to a common proto-form. Comparable correspondences appear in the numerals: English three, Latin tres and Greek treis point to the same source. When numerous independent lexical items exhibit the same correspondence pattern, a chance explanation becomes untenable.",
+      "In Sino-Tibetan research the comparative method has also been used to establish cognate relationships: Chinese 三 sān, Tibetan gsum and Burmese sûm are often cited as cognates. Because Sino-Tibetan languages differ greatly in syllable structure and early documentation is unevenly distributed, reconstruction is more difficult than for Indo-European, and the specific correspondence rules remain much disputed."
+     ]
+    },
+    {
+     "hEn": "Limitations and Controversies",
+     "pEn": [
+      "The comparative method can hardly handle cases in which no related languages exist or the relationship is too remote, nor can it directly address structural similarities between unrelated languages, which belong to typology rather than genealogy. In addition, borrowing, parallel change and prolonged language contact can produce apparently regular correspondences, which must be excluded with the help of social and historical evidence.",
+      "There is also disagreement about the 'reality' of reconstructions: are reconstructed forms approximations of historical entities, or merely a convenient set of formulae? Even so, the methodological rigour of the comparative method makes it still the most reliable tool for determining genealogical relationship, and it is often used together with internal reconstruction and lexicostatistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "cognate", "dEn": "A word in related languages descending from the same root of the common proto-language, with corresponding meaning and sound."},
+    {"tEn": "sound correspondence", "dEn": "A regular mapping between sound classes of related languages, as opposed to the accidental similarity of individual sounds."},
+    {"tEn": "reconstruction", "dEn": "The inference of proto-language forms and phonological systems from correspondences among related languages, with reconstructed forms marked by an asterisk."},
+    {"tEn": "proto-language", "dEn": "The hypothetical ancestral language from which related languages are jointly derived, such as Proto-Indo-European or Proto-Sino-Tibetan."},
+    {"tEn": "Grimm's Law", "dEn": "A set of sound laws describing the systematic change of Proto-Indo-European stops in Germanic, classic evidence for regular sound change."},
+    {"tEn": "loanword", "dEn": "A word borrowed from another language that may create spurious correspondences, a confounding factor the comparative method must exclude."}
+   ]
+  },
+  "fieldwork": {
+   "summaryEn": "Fieldwork is the method by which linguists go into a speech community and collect first-hand data by working with speakers and observing everyday interaction. It is the basic technique of descriptive linguistics, dialectology and endangered-language documentation, stressing the collection of material in natural contexts and the creation of durable language archives through IPA transcription and recording equipment.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Goals",
+     "pEn": [
+      "Fieldwork refers to the research method in which the investigator enters a community that uses a particular language or dialect and observes, records and analyses its linguistic facts on the spot. Unlike methods that rely on written sources or introspection, fieldwork emphasises first-hand material: the researcher must obtain phonetic, lexical, grammatical and discourse data in real social and cultural contexts, and must account for the provenance of the material and the process of collection.",
+      "Its goals are roughly threefold: first, to describe languages that have no writing system or have been little studied, such as the Native American languages and the many minority languages of China; second, to document endangered languages and preserve a language archive for future generations; third, to provide comparable empirical material for dialectology, sociolinguistics and linguistic typology. It was through fieldwork on North American languages that Boas, Sapir and others of the American descriptivist school established this tradition."
+     ]
+    },
+    {
+     "hEn": "Preparation and Basic Procedure",
+     "pEn": [
+      "A typical procedure includes: consulting previous literature and dialect maps, deciding on the survey site and the criteria for speakers, designing a wordlist and questionnaire, entering the community to carry out recording and interviews, and then transcribing, checking and archiving the material. Before going into the field one normally needs a command of the International Phonetic Alphabet and of auditory transcription skills, as well as some knowledge of local customs and patterns of language use, so that cultural distance does not lead to misinterpretation of the data.",
+      "The choice of speakers directly determines the quality of the material. An ideal speaker is a native speaker who articulates clearly, is patient and can provide stable intuition judgements. Investigators often cross-check with several speakers to reduce idiosyncratic features, for example by asking two or three speakers to pronounce the same item and comparing the results; if the readings diverge, regional or age differences must be distinguished further."
+     ]
+    },
+    {
+     "hEn": "Recording, Transcription and Archiving",
+     "pEn": [
+      "Recording is based mainly on transcription in the International Phonetic Alphabet, supplemented by recorders, sound cards and annotation software. For tonal languages the tone values must be marked: in Cantonese, for instance, 诗 [si⁵⁵] and 时 [si²¹] differ in meaning only by tone, so that recording the segments alone would lose crucial information. Transcription should also note suprasegmental features such as tone sandhi, connected speech and speech rate.",
+      "Besides isolated characters and wordlists, the investigator needs to collect long texts such as stories, conversations and ritual language in order to observe grammatical and pragmatic phenomena in natural discourse. All material should be numbered and stored according to a uniform metadata standard, noting the time, place, information about the speaker and the transcriber, so that others can verify and reuse it."
+     ]
+    },
+    {
+     "hEn": "Ethics and Community Participation",
+     "pEn": [
+      "Modern fieldwork emphasises informed consent, ownership of materials and giving back the results. Researchers should explain the purpose and use of the study in advance, respect speakers' wishes regarding ethnic names, religious material and sensitive content, and share recordings, dictionaries and other outputs with the community. For endangered languages, fieldwork is often at the same time part of revitalisation work.",
+      "Questions of attribution and copyright, whether speakers may remain anonymous, and whether recordings may be made public all need to be agreed in advance. This differs fundamentally from the practice in early surveys of treating speakers merely as 'providers of material'."
+     ]
+    },
+    {
+     "hEn": "Limitations and Contemporary Developments",
+     "pEn": [
+      "Fieldwork faces the 'observer's paradox': the presence of the researcher affects the linguistic behaviour of those observed, so that natural data retain a degree of artificiality. In addition, the investigator's auditory skills, limitations of time and funding, and language shift in the community all affect the completeness and representativeness of the material.",
+      "Contemporary surveys increasingly make use of digital recording, automatic annotation and online language archives, and take part in large documentation projects such as the Project for the Protection of Language Resources of China. Researchers also stress long-term accessibility and interdisciplinary sharing of data, so that a single recording can serve linguistics, anthropology and language teaching alike."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "speaker", "dEn": "A native speaker who supplies data for linguistic investigation, normally requiring clear articulation and stable intuition."},
+    {"tEn": "wordlist survey", "dEn": "The practice of eliciting and recording readings item by item from a fixed wordlist for lexical and phonetic comparison."},
+    {"tEn": "transcription", "dEn": "The process of rendering recordings or spoken material as written text according to IPA and grammatical annotation conventions."},
+    {"tEn": "observer's paradox", "dEn": "The phenomenon whereby the researcher's presence affects the linguistic behaviour of those observed, a general difficulty of fieldwork."},
+    {"tEn": "endangered language", "dEn": "A language whose speaker population is falling sharply and whose transmission is at risk, a main target of documentation work."},
+    {"tEn": "archiving", "dEn": "The long-term preservation of recordings, transcriptions and metadata under uniform standards so that they can be retrieved, checked and reused."}
+   ]
+  },
+  "corpus-linguistics": {
+   "summaryEn": "Corpus linguistics is a methodological approach that studies language by means of computerised retrieval and statistics applied to large collections of authentic texts. It stresses the description of language use on the basis of verifiable frequency and contextual evidence, and is widely used in lexicography, grammar research, language teaching and natural language processing; representative resources include the BNC and COCA for English and the Modern Chinese corpus.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Research Orientation",
+     "pEn": [
+      "Corpus linguistics refers to a way of doing research that takes a corpus collected and annotated according to explicit principles as its basic material and uses computational tools to retrieve, count and interpret it. Its core claim is that the description of linguistic knowledge should be based on evidence from authentic texts in use, and not merely on the researcher's introspection and self-made example sentences.",
+      "There is disagreement about its disciplinary status: on one view it is a methodology that can serve syntax, semantics, sociolinguistics and many other fields; on another it has become an independent paradigm, organising research around the core concepts of frequency, collocation and probability, and on that basis proposing a 'usage-based' view of language."
+     ]
+    },
+    {
+     "hEn": "Types of Corpus",
+     "pEn": [
+      "By register, corpora may be written or spoken; by structure, raw or annotated; by language, monolingual, parallel or comparable; by time, synchronic or diachronic. Sampling method and representativeness are crucial to design: if the corpus is skewed towards one genre, its conclusions cannot be generalised to the language as a whole.",
+      "Well-known resources include the British National Corpus (BNC, about one hundred million words), the Corpus of Contemporary American English (COCA), the Brown Corpus and the corpus of the Center for Chinese Linguistics at Peking University. Learner corpora, in turn, are used to study errors and lexical development in second-language writing."
+     ]
+    },
+    {
+     "hEn": "Basic Concepts and Techniques",
+     "pEn": [
+      "Word frequency and the type-token ratio are the most basic statistics. Keywords are words that are significantly more frequent than in a reference corpus, and are often used to reveal the thematic features of a register. Collocation refers to word combinations that tend to co-occur statistically, their strength commonly measured by mutual information or the log-likelihood ratio.",
+      "Co-text is often presented in the form of a 'keyword in context' display, which makes it easy to observe how a word is actually used. The division of labour between strong tea and powerful car in English is a classic example: corpora show that strong co-occurs highly with tea, whereas powerful collocates more often with computer, argument and the like, showing that collocational patterns themselves form part of a word's meaning."
+     ]
+    },
+    {
+     "hEn": "Applications and Examples",
+     "pEn": [
+      "In lexicography, corpora supply authentic example sentences and word frequencies, helping editors decide the ordering of senses and typical collocations; the Collins COBUILD English Dictionary was compiled on the basis of a corpus. In grammatical research, corpora can reveal high-frequency structures in speech, such as the distribution and functions of English existential sentences and Chinese 把-constructions in authentic texts.",
+      "Chinese research often draws on corpora to examine the use of function words and differences between near-synonyms. 进行, for example, usually takes a disyllabic verbal object (进行讨论, 进行研究) and rarely a monosyllabic verb; a tendency of this kind becomes clear only through statistics on a large corpus, and it directly serves vocabulary discrimination in teaching Chinese as a foreign language."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticisms",
+     "pEn": [
+      "Critics point out that a corpus can reflect only discourse that has already occurred; it cannot directly provide negative evidence, nor can it easily capture low-frequency but grammatical structures, and mere frequency counts without theoretical interpretation are liable to become a list of phenomena. In addition, questions of copyright, consistency of annotation and norms for transcribing spoken data have long attracted attention."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "corpus", "dEn": "A collection of language material gathered according to specific principles, of a certain size and representativeness and searchable by computer."},
+    {"tEn": "tokens and types", "dEn": "Tokens are the total word occurrences in a text and types the distinct word forms; their ratio reflects lexical richness."},
+    {"tEn": "collocation", "dEn": "A word combination that tends significantly to co-occur in authentic texts, such as English strong tea or Chinese 进行讨论."},
+    {"tEn": "annotation", "dEn": "The addition of part-of-speech, syntactic or semantic information to a corpus so that searches can use grammatical categories."},
+    {"tEn": "keyword in context (KWIC)", "dEn": "A retrieval display with the target word centred and a fixed amount of context shown on either side; abbreviated KWIC."},
+    {"tEn": "representativeness", "dEn": "The degree to which a corpus reflects the target language in size and sampling; a core criterion of corpus design."}
+   ]
+  },
+  "elicitation": {
+   "summaryEn": "Elicitation is a survey method in which the researcher gets speakers to produce or judge particular linguistic forms through tasks such as questioning, picture naming and sentence substitution. It can cover phonological, lexical and grammatical categories systematically within a relatively short time, and is often combined with the collection of natural data; it is a standard technique in fieldwork and experimental linguistics.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Principles",
+     "pEn": [
+      "Elicitation refers to the method by which the researcher leads a speaker to produce particular linguistic forms through controlled questions or tasks. Unlike passively waiting for natural speech to occur, elicitation actively sets up a context so that the target structure is drawn out; it is therefore efficient and highly comparable, and facilitates the contrast of many languages around the same semantic framework.",
+      "It rests on a basic assumption: speakers possess stable linguistic intuition and can reliably judge 'how one says such-and-such' or 'whether this sentence can be said'. The material obtained by elicitation includes both productive data and metalinguistic material such as acceptability judgements, the latter being especially important in the study of grammatical constraints."
+     ]
+    },
+    {
+     "hEn": "Common Types and Design",
+     "pEn": [
+      "By task form one may distinguish translation elicitation (asking the speaker to translate given sentences into the native language), picture naming (naming objects or actions from pictures), fill-in-the-blank and substitution, situation description, and grammaticality judgement or scale rating. In designing tasks one must avoid revealing the structure of the target language in the prompt, or what is obtained is imitation rather than natural expression.",
+      "Semantic-field elicitation is a common design in lexical surveys: questions are asked item by item within semantic fields such as body parts, kinship terms, colours and spatial directions, in order to test how the language divides up conceptual space. The investigation of colour terms, which used standard colour chips to elicit data from many languages, discovered a universal sequence of basic colour terms and is a famous achievement of cross-linguistic elicitation."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "In phonetic investigation, minimal pairs can be used to test phonemic contrast: ask the speaker to read [pa] and [pʰa]; if they are judged to be different words, as in Chinese 爸 [pa⁵¹] and 怕 [pʰa⁵¹], aspiration is distinctive in that language. If, conversely, the speaker regards them merely as variant readings of one word, they may be allophones.",
+      "In syntactic investigation, substitution frames are often used: give 他用刀切肉 ('he cut the meat with a knife') and then substitute 用石头 or 用手, observing whether the case marking of the instrument argument changes. In Chinese dialect surveys a three-level elicitation of 'character list, wordlist and sentence list' is also common, gradually extending from isolated character readings to natural sentences in order to combine systematicity."
+     ]
+    },
+    {
+     "hEn": "Limitations and Norms",
+     "pEn": [
+      "The main problems of elicitation are artificiality and observer effects: speakers may produce translationese, overly literary expressions or usages influenced by the researcher's language. Repeated questioning about the same structure also easily causes fatigue and accommodating answers. Modern surveys therefore stress cross-validating elicited material against natural data, and any conflict should be recorded faithfully and its cause analysed.",
+      "Ethically, when elicitation touches on taboo words, kinship terms or sensitive content, the speaker's wishes should be respected and the purpose explained. Intuition judgements should not be the sole evidence; it is best to cross-check with several speakers and to state in the report the exact form of the judgement task and the language of questioning."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "elicitation", "dEn": "A survey technique that leads speakers to produce particular linguistic forms or make intuition judgements through questions or tasks."},
+    {"tEn": "intuition judgement", "dEn": "A native speaker's implicit judgement about the acceptability, meaning and usage of the mother tongue, an important source of evidence."},
+    {"tEn": "grammaticality judgement", "dEn": "A metalinguistic task in which native speakers decide whether a structure is grammatical and how acceptable it is."},
+    {"tEn": "translation elicitation", "dEn": "Giving a sentence in the researcher's language and asking the speaker to translate it to obtain a particular structure."},
+    {"tEn": "semantic field", "dEn": "A group of words related in meaning, such as colour terms or kinship terms, often used in lexical elicitation surveys."},
+    {"tEn": "minimal pair", "dEn": "A pair of words that differ in only one sound yet have different meanings, used to test distinctive function."}
+   ]
+  },
+  "questionnaire": {
+   "summaryEn": "The questionnaire survey is a quantitative method that puts standardised questions to respondents in written or electronic form in order to collect data systematically on language use, language attitudes and social background. It yields comparable data from relatively large samples and is often combined with sociolinguistic sampling designs to study language variation, bilingual usage and language policy.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Types",
+     "pEn": [
+      "The questionnaire survey refers to the method by which the researcher distributes a list of questions, designed uniformly, to a certain number of respondents and, through their return and statistical treatment, learns about their linguistic behaviour, language attitudes and social attributes. It is an indirect form of investigation: what is obtained is usually the respondents' self-report rather than linguistic behaviour directly observed by the researcher.",
+      "By mode of administration, questionnaires may be self-administered or interview-based, on paper or online; by question form, closed or open. In sociolinguistics, questionnaires are often combined with interviews and participant observation in a mixed design, using quantitative data to make up for the representativeness of case material and interviews to explain the motives behind the statistical results."
+     ]
+    },
+    {
+     "hEn": "Design Principles",
+     "pEn": [
+      "Questionnaire design requires neutral wording, avoiding leading and double-barrelled questions, with options that are mutually exclusive and exhaustive. Language-attitude surveys often use Likert scales: respondents might rate the statement 'one should speak the dialect at home' on a five-point scale from 'strongly agree' to 'strongly disagree', making it possible to compare the positions of different groups quantitatively.",
+      "The order of questions also affects the results: as a rule one moves from factual to attitudinal questions and places sensitive questions later. Before the survey proper, a small-scale pilot should be conducted to test comprehension of the items, completion time and scale reliability, and the questions revised accordingly; when translating into several language versions, conceptual equivalence rather than literal translation is required."
+     ]
+    },
+    {
+     "hEn": "Sampling and Administration",
+     "pEn": [
+      "The sampling method determines how far the conclusions can be generalised; common methods include random sampling, stratified sampling, cluster sampling and snowball sampling. Studies of speech communities often stratify by social variables such as age, sex, education and urban versus rural residence, in order to examine correlations between linguistic variation and social factors.",
+      "In bilingual or multilingual communities, questionnaires can establish language choice in different settings, such as the proportions in which Putonghua, a dialect or a minority language are used at home, at school and at work. Large-scale language surveys also commonly use a uniform questionnaire to record speakers' background and language use, providing social-variable data for subsequent phonetic recording."
+     ]
+    },
+    {
+     "hEn": "Examples",
+     "pEn": [
+      "Classic sociolinguistic studies have mostly combined questionnaires with observation. Labov's survey in New York department stores used rapid anonymous observation to obtain data on the social stratification of r, together with questionnaires on respondents' language attitudes and self-evaluation, thereby revealing a systematic gap between 'self-report' and actual pronunciation.",
+      "In language-attitude research, respondents are often asked to rate recordings of Putonghua, a dialect or a foreign language on dimensions such as 'friendly' and 'prestigious'. This matched-guise technique can measure language prejudice indirectly and is a typical design combining questionnaires with experiment."
+     ]
+    },
+    {
+     "hEn": "Limitations and Criticisms",
+     "pEn": [
+      "The main defect of the questionnaire survey is self-report bias: respondents may under-report or over-report the frequency with which they use a language because of social expectations, and they may also lack accurate awareness of their own linguistic behaviour. In addition, pre-set options inevitably simplify a complex linguistic reality, while open questions are hard to code and compare.",
+      "Questionnaire data therefore usually need to be corroborated by observation, interviews or corpus evidence. Sample representativeness, response rate and non-response bias should also be reported, so that conclusions drawn from a convenience sample are not extended directly to the whole population."
+     ]
+    }
+   ],
+   "termsEn": [
+    {"tEn": "questionnaire", "dEn": "A set of questions put to respondents in a uniform design to collect information on linguistic behaviour, attitudes and background."},
+    {"tEn": "Likert scale", "dEn": "A measurement instrument made up of attitude statements and graded options, used to quantify respondents' degree of agreement."},
+    {"tEn": "sampling", "dEn": "The process of selecting respondents from a target population by definite rules, which determines how far findings can be generalised."},
+    {"tEn": "language attitude", "dEn": "The evaluations and affective orientations of speakers or groups towards a language, dialect or its users, often measured by scales."},
+    {"tEn": "social desirability bias", "dEn": "The phenomenon whereby respondents give untrue answers in order to conform to social norms, distorting questionnaire data."},
+    {"tEn": "matched-guise technique", "dEn": "A technique where one speaker reads a passage in different languages or accents for listeners to rate, indirectly measuring prejudice."}
+   ]
+  }
+ }
+}

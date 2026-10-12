@@ -1,0 +1,25 @@
+{
+ "batch": 48,
+ "chapter": "Chapter 9: Reclaiming Indigenous Languages",
+ "out": "data/book/gen/batch-48.json",
+ "sections": [
+  {
+   "id": "chapter-107-mohawk-culture",
+   "title": "9.3 Mohawk culture and language",
+   "src": "data/book/src/chapter-107-mohawk-culture.txt",
+   "chars": 7363
+  },
+  {
+   "id": "chapter-108-creating-materials",
+   "title": "9.4 Creating materials for teaching Mohawk",
+   "src": "data/book/src/chapter-108-creating-materials.txt",
+   "chars": 7704
+  },
+  {
+   "id": "chapter-109-speaking-reconciliation",
+   "title": "9.5 Speaking Mohawk and reconciliation",
+   "src": "data/book/src/chapter-109-speaking-reconciliation.txt",
+   "chars": 2801
+  }
+ ]
+}

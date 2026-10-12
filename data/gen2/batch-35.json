@@ -1,0 +1,344 @@
+{
+ "batch": 35,
+ "entries": [
+  {
+   "id": "afroasiatic",
+   "title": "亚非语系",
+   "en": "Afroasiatic",
+   "category": "writing",
+   "tags": [
+    "语系",
+    "闪米特语族",
+    "乍得语族",
+    "三辅音词根",
+    "词根与模式形态"
+   ],
+   "summary": "亚非语系又称闪含语系，分布于北非、东北非与西亚，包含闪米特、柏柏尔、库施、乍得与奥莫五个语族，约三百五十种语言，使用人口逾三亿。代表语言有阿拉伯语、希伯来语、阿姆哈拉语、豪萨语与索马里语。该语系以三辅音词根与模式形态著称，如阿拉伯语 k-t-b 派生出 kataba、kitāb 与 kātib，并普遍具有强调辅音、动词居首语序和阴阳性系统等特征。",
+   "summaryEn": "Afroasiatic, formerly called Hamito-Semitic, is a family of some 350 languages spoken across North Africa, the Horn of Africa and Southwest Asia. It comprises the Semitic, Berber, Cushitic, Chadic and Omotic branches, represented by Arabic, Hebrew, Amharic, Hausa and Somali. Its hallmark is root-and-pattern morphology built on triconsonantal roots, so that Arabic k-t-b yields kataba 'he wrote', kitāb 'book' and kātib 'writer'. Emphatic consonants, verb-initial order and grammatical gender are further typical traits.",
+   "sections": [
+    {
+     "h": "定义与分布",
+     "hEn": "Definition and Distribution",
+     "p": [
+      "亚非语系是分布于北非与西亚的大型语系，早期因包括闪米特语族与所谓含米特诸语而被称为闪含语系，今通称亚非语系。其范围西起摩洛哥的大西洋沿岸，东至阿拉伯半岛与两河流域，南达埃塞俄比亚高原、索马里与坦桑尼亚北部，北抵地中海东岸。全语系约三百五十种语言，使用人口超过三亿，其中阿拉伯语、豪萨语、阿姆哈拉语与索马里语影响最大，塔马齐格特语等柏柏尔语言则是北非的土著语言。"
+     ],
+     "pEn": [
+      "Afroasiatic is a large language family of North and East Africa together with Southwest Asia. It was long known as Hamito-Semitic, a label now avoided because the supposed Hamitic unity was never demonstrated. The family stretches from the Atlantic coast of Morocco through the Sahara and the Horn of Africa to the Arabian Peninsula and Mesopotamia. It contains roughly 350 languages spoken by more than 300 million people, among them Arabic, Hausa, Amharic, Hebrew and Somali, while Berber varieties such as Tamazight are indigenous to North Africa."
+     ]
+    },
+    {
+     "h": "分支与代表语言",
+     "hEn": "Branches and Representative Languages",
+     "p": [
+      "亚非语系通常划分为五个语族。闪米特语族分布最广，包括阿拉伯语、希伯来语、马耳他语、阿姆哈拉语与提格里尼亚语，古代还有阿卡德语、腓尼基语与吉兹语。柏柏尔语族是北非的土著语言，包括塔马齐格特语、卡比尔语与图阿雷格语。库施语族见于埃塞俄比亚与非洲之角，如索马里语、奥罗莫语与阿法尔语。乍得语族分布在乍得湖周边，以豪萨语最著名，是西非最重要的通用语之一。奥莫语族局限于埃塞俄比亚西南部，其独立地位最具争议。"
+     ],
+     "pEn": [
+      "Five branches are usually recognized. Semitic is the most widely attested, covering Arabic, Hebrew, Maltese, Amharic and Tigrinya, with ancient members such as Akkadian, Phoenician and Ge'ez. Berber languages including Tamazight, Kabyle and Tuareg are indigenous to North Africa. Cushitic is spoken in Ethiopia and the Horn of Africa, with Somali, Oromo and Afar. Chadic occupies the Lake Chad basin, where Hausa serves as a major lingua franca of West Africa. Omotic is confined to southwestern Ethiopia, and its independent status remains the most contested issue in the family."
+     ]
+    },
+    {
+     "h": "形态与结构特征",
+     "hEn": "Morphological and Structural Features",
+     "p": [
+      "亚非语系最具标志性的特征是词根与模式形态，即三辅音词根插入不同的元音模式构成整个词族。阿拉伯语词根 k-t-b 可派生 kataba（他写了）、kitāb（书）、kātib（作家）与 maktūb（被写的）。闪米特语还用不连续语素构成所谓破碎复数，如 kitāb 的复数 kutub。音系上普遍存在咽化的强调辅音，如阿拉伯语 sˤ、dˤ、tˤ、ðˤ。句法上闪米特语与柏柏尔语常用动词居首的语序，名词区分阳性与阴性，并有三格系统。"
+     ],
+     "pEn": [
+      "The hallmark of Afroasiatic is root-and-pattern, or templatic, morphology. A triconsonantal root is interleaved with vocalic patterns to build word families: Arabic k-t-b gives kataba 'he wrote', kitāb 'book', kātib 'writer' and maktūb 'written'. Semitic also forms plurals with discontinuous morphemes, as in Arabic kitāb 'book' with the broken plural kutub. Pharyngealized or glottalized emphatic consonants are widespread, for example Arabic sˤ, dˤ, tˤ and ðˤ. Syntactically, Semitic and Berber typically place the verb first, and nouns distinguish masculine from feminine and mark nominative, genitive and accusative case."
+     ]
+    },
+    {
+     "h": "历史与谱系研究",
+     "hEn": "History and Genealogical Research",
+     "p": [
+      "亚非语系诸语的历史比较研究始于十九世纪，但现代分类的奠基者是格林伯格，他在《非洲的语言》中依据词汇与形态证据取消含米特语族，把其成员分归柏柏尔、库施、乍得与奥莫。闪米特语的内部分类较为可靠，因为有阿卡德语、吉兹语与阿拉伯语的大量文献与碑铭支持。原始亚非语的构拟存在多种方案，如 Orel 与 Stolbova 的辅音对应体系以及 Ehret 的重建，彼此差异较大。祖语故乡有东北非与阿拉伯半岛两说，近年证据多倾向东北非。"
+     ],
+     "pEn": [
+      "Comparative work on Afroasiatic began in the nineteenth century, but the modern classification was established by Joseph Greenberg, who in The Languages of Africa abandoned the Hamitic hypothesis and redistributed its members among Berber, Cushitic, Chadic and Omotic. The internal classification of Semitic is comparatively secure, supported by a rich record of Akkadian, Ge'ez and Arabic texts. Reconstructions of Proto-Afroasiatic differ considerably, as in the competing proposals of Orel and Stolbova and of Ehret. Its homeland is disputed between Northeast Africa and Arabia, and recent linguistic and genetic evidence tends to favour Africa."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "三辅音词根",
+     "tEn": "Triconsonantal root",
+     "d": "由三个辅音构成、承载基本词汇意义的词根，如阿拉伯语 k-t-b。",
+     "dEn": "A root of three consonants carrying the core lexical meaning of a word family."
+    },
+    {
+     "t": "词根与模式形态",
+     "tEn": "Root-and-pattern morphology",
+     "d": "把辅音词根与元音模式交错组合构成词形的形态类型，为闪米特语典型。",
+     "dEn": "Word formation in which consonantal roots and vocalic patterns are interleaved."
+    },
+    {
+     "t": "破碎复数",
+     "tEn": "Broken plural",
+     "d": "以词内部元音模式变化而非附加词尾构成的名词复数，如 kitāb 的复数 kutub。",
+     "dEn": "A plural formed by internal vowel change rather than by suffixation, as Arabic kutub."
+    },
+    {
+     "t": "强调辅音",
+     "tEn": "Emphatic consonant",
+     "d": "阿拉伯语等语言中咽化或喉化的辅音，如 sˤ、dˤ、tˤ、ðˤ。",
+     "dEn": "A pharyngealized or glottalized consonant such as Arabic sˤ, dˤ, tˤ or ðˤ."
+    },
+    {
+     "t": "语族",
+     "tEn": "Branch",
+     "d": "语系内部由共同祖语分化而来的次一级单位，如闪米特语族与乍得语族。",
+     "dEn": "A primary subgroup of a language family descended from a shared ancestor."
+    },
+    {
+     "t": "含米特假说",
+     "tEn": "Hamitic hypothesis",
+     "d": "把北非诸语归为单一含米特语族的旧说，已被格林伯格的分类取代。",
+     "dEn": "The rejected claim that North African languages form a single Hamitic unit."
+    },
+    {
+     "t": "原始亚非语",
+     "tEn": "Proto-Afroasiatic",
+     "d": "亚非语系的假想祖语，其语音与词汇的构拟方案至今分歧较大。",
+     "dEn": "The reconstructed ancestor of the Afroasiatic family, reconstructed only tentatively."
+    }
+   ],
+   "related": [
+    "niger-congo",
+    "indo-european",
+    "language-family",
+    "comparative-method",
+    "proto-language"
+   ],
+   "sources": [
+    "Wikipedia, \"Afroasiatic languages\", https://en.wikipedia.org/wiki/Afroasiatic_languages",
+    "Greenberg, The Languages of Africa, Indiana University Press, 1963",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "uralic",
+   "title": "乌拉尔语系",
+   "en": "Uralic",
+   "category": "writing",
+   "tags": [
+    "语系",
+    "芬兰-乌戈尔语族",
+    "元音和谐",
+    "黏着语",
+    "格系统"
+   ],
+   "summary": "乌拉尔语系分布于北欧、东欧与西北西伯利亚，主要包括芬兰语、爱沙尼亚语、匈牙利语、萨米语与萨莫耶德语族诸语，使用人口约两千五百万。该语系以黏着形态、丰富的格系统和元音和谐著称，芬兰语名词有十五个格，匈牙利语约有十八个格。乌拉尔语与印欧语长期接触，芬兰语与匈牙利语虽相距遥远，却共享芬兰语 käsi 与匈牙利语 kéz（手）这类同源词。",
+   "summaryEn": "The Uralic family comprises about 25 million speakers of some forty languages in northern and eastern Europe and northwestern Siberia. Its best-known members are Finnish, Estonian, Hungarian, the Sami languages and the Samoyedic group. Typical features include agglutinative morphology, large case inventories, vowel harmony and the absence of grammatical gender. Despite their present distance, Finnish and Hungarian share inherited vocabulary, as in Finnish käsi and Hungarian kéz 'hand' and Finnish vesi and Hungarian víz 'water'.",
+   "sections": [
+    {
+     "h": "定义与分布",
+     "hEn": "Definition and Distribution",
+     "p": [
+      "乌拉尔语系是欧亚大陆北部的一个语系，名称取自乌拉尔山脉，因多数语言分布于山脉两侧而得名。今天的使用范围从挪威、芬兰与波罗的海沿岸向东延伸至俄罗斯的伏尔加河流域、乌拉尔山区与西伯利亚西北部，匈牙利语则因九世纪马扎尔人的迁徙而孤立于喀尔巴阡盆地。全语系约四十种语言，使用人口约两千五百万，其中大多数语言使用者很少，处于濒危状态，只有芬兰语、爱沙尼亚语与匈牙利语拥有国家官方语言地位。"
+     ],
+     "pEn": [
+      "Uralic is a language family of northern Eurasia, named after the Ural Mountains, on both sides of which most of its languages are spoken. Its range today extends from Norway, Finland and the Baltic coast eastwards to the Volga basin, the Urals and northwestern Siberia, while Hungarian is separated from the rest in the Carpathian Basin after the Magyar migration of the ninth century. The family numbers about forty languages with some 25 million speakers, though most are small and endangered; only Finnish, Estonian and Hungarian are national standard languages."
+     ]
+    },
+    {
+     "h": "分类与代表语言",
+     "hEn": "Classification and Representative Languages",
+     "p": [
+      "乌拉尔语系传统上分为芬兰-乌戈尔语族与萨莫耶德语族。前者又含芬兰语支（芬兰语、爱沙尼亚语、卡累利阿语）、萨米语支、莫尔多瓦语支、马里语支、彼尔姆语支（乌德穆尔特语、科米语）与乌戈尔语支（匈牙利语、汉特语、曼西语）。萨莫耶德语族分布在北极海岸与叶尼塞河之间，包括涅涅茨语、埃涅茨语与塞尔库普语，形态与语音较为保守，常被视为最早分出的支系。爱沙尼亚语、芬兰语与匈牙利语同时也是文学语言，拥有悠久的书面传统。"
+     ],
+     "pEn": [
+      "Uralic is traditionally divided into Finno-Ugric and Samoyedic. The former comprises Finnic (Finnish, Estonian, Karelian), Sami, Mordvin, Mari, Permic (Udmurt, Komi) and Ugric (Hungarian, Khanty, Mansi). Samoyedic languages such as Nenets, Enets and Selkup are spoken between the Arctic coast and the Yenisei and are often regarded as the earliest branch to split off, retaining some conservative features. Estonian, Finnish and Hungarian also serve as literary languages with long written traditions and official status in their respective states."
+     ]
+    },
+    {
+     "h": "语音与形态特征",
+     "hEn": "Phonological and Morphological Features",
+     "p": [
+      "乌拉尔语言的共同倾向是黏着形态、后缀丰富而无语法性别。芬兰语名词有十五个格，如 talo（房子）、talossa（在房子里）、talosta（从房子里）。元音和谐十分显著，芬兰语后缀元音随词干元音变化，talossa（在房子里）与 metsässä（在森林里）形成对照；匈牙利语同样区分 házban（在房子里）与 kertben（在花园里）。芬兰语支还有辅音交替，如 katu（街道）与 kadulla（在街上）。"
+     ],
+     "pEn": [
+      "Uralic languages tend to be agglutinative, suffixing and without grammatical gender. Finnish nouns inflect for fifteen cases, as in talo 'house', talossa 'in the house', talosta 'out of the house' and taloon 'into the house'. Vowel harmony is prominent: Finnish suffixes agree with the stem vowel, contrasting talossa 'in the house' with metsässä 'in the forest', while Hungarian opposes házban 'in the house' to kertben 'in the garden'. Finnic also shows consonant gradation, as in katu 'street' versus kadulla 'on the street'."
+     ]
+    },
+    {
+     "h": "历史与谱系研究",
+     "hEn": "History and Genealogical Research",
+     "p": [
+      "乌拉尔语的历史比较研究以原始乌拉尔语的构拟为核心，其分化通常估计在六千年前左右，祖语故乡多被定位在乌拉尔山脉南段与伏尔加河、卡马河之间。语言证据主要来自共有词根与形态成分，如芬兰语 vesi 与匈牙利语 víz（水）、芬兰语 kolme 与匈牙利语 három（三）。叶斯柏森等人曾提出乌拉尔-阿尔泰假说，把乌拉尔语与突厥语、蒙古语联系起来，但该假说缺乏严格的语音对应，今多不被接受。萨莫耶德语与其他支系的关系仍是分类讨论的焦点。"
+     ],
+     "pEn": [
+      "Historical work on Uralic centres on the reconstruction of Proto-Uralic, whose disintegration is usually dated to about six thousand years ago, with a homeland often placed between the southern Urals and the Volga-Kama region. The evidence rests on shared roots and morphological material, as in Finnish vesi and Hungarian víz 'water' and Finnish kolme with Hungarian három 'three'. The Ural-Altaic hypothesis, linking Uralic with Turkic, Mongolic and Tungusic, was advanced by scholars such as Otto Jespersen, but it lacks strict sound correspondences and is now largely rejected. The relation of Samoyedic to the other branches remains debated."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "黏着语",
+     "tEn": "Agglutinative language",
+     "d": "以多个界限分明的后缀依次表达语法意义为特征的语言类型，如芬兰语。",
+     "dEn": "A language type in which distinct suffixes are added one after another to a stem."
+    },
+    {
+     "t": "元音和谐",
+     "tEn": "Vowel harmony",
+     "d": "后缀元音须与词干元音在前后或圆唇性上保持一致的现象，如 talossa 与 metsässä。",
+     "dEn": "A requirement that suffix vowels agree with stem vowels in frontness or rounding."
+    },
+    {
+     "t": "格",
+     "tEn": "Grammatical case",
+     "d": "名词或代词随句法功能而变化的形态形式，乌拉尔语言的格系统尤为丰富。",
+     "dEn": "A morphological form marking the syntactic or semantic role of a noun."
+    },
+    {
+     "t": "辅音交替",
+     "tEn": "Consonant gradation",
+     "d": "芬兰语支中屈折引起的辅音强弱交替，如 katu 与 kadulla 的 t 与 d。",
+     "dEn": "An alternation between strong and weak consonants triggered by inflection in Finnic."
+    },
+    {
+     "t": "萨莫耶德语族",
+     "tEn": "Samoyedic",
+     "d": "乌拉尔语系最东部的支系，包括涅涅茨语、埃涅茨语与塞尔库普语。",
+     "dEn": "The easternmost branch of Uralic, including Nenets, Enets and Selkup."
+    },
+    {
+     "t": "芬兰-乌戈尔语族",
+     "tEn": "Finno-Ugric",
+     "d": "乌拉尔语系中除萨莫耶德语以外的诸语支的合称，传统上与后者并列。",
+     "dEn": "The Uralic branches other than Samoyedic, traditionally treated as a unit."
+    },
+    {
+     "t": "原始乌拉尔语",
+     "tEn": "Proto-Uralic",
+     "d": "乌拉尔语系的假想祖语，其构拟是历史比较语言学的经典课题。",
+     "dEn": "The reconstructed ancestor of the Uralic languages, a classic comparative project."
+    }
+   ],
+   "related": [
+    "language-family",
+    "indo-european",
+    "proto-language",
+    "cognate",
+    "comparative-method"
+   ],
+   "sources": [
+    "Wikipedia, \"Uralic languages\", https://en.wikipedia.org/wiki/Uralic_languages",
+    "Abondolo (ed.), The Uralic Languages, Routledge, 1998",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "austronesian",
+   "title": "南岛语系",
+   "en": "Austronesian",
+   "category": "writing",
+   "tags": [
+    "语系",
+    "台湾南岛语",
+    "马来-波利尼西亚语族",
+    "重叠构词",
+    "焦点系统"
+   ],
+   "summary": "南岛语系是分布最广的语系之一，从马达加斯加经东南亚与太平洋直至复活节岛，包含约一千二百种语言、使用人口近四亿。台湾原住民语言内部分歧最大，构成多个早期分支，其余语言合称马来-波利尼西亚语族。该语系以动词焦点系统、重叠构词以及第一人称复数包含式与排除式的对立著称，如他加禄语 tayo（咱们）与 kami（我们，不含对方），并有 mata 等同源词。",
+   "summaryEn": "Austronesian is one of the world's most widely dispersed families, stretching from Madagascar through Southeast Asia to Easter Island and New Zealand, with about 1,200 languages and nearly 400 million speakers. The Formosan languages of Taiwan are the most divergent and form several primary branches, while all the rest constitute Malayo-Polynesian. Typical traits include verb-focus systems, reduplication and an inclusive-exclusive distinction in the first person plural, as in Tagalog tayo 'we including you' versus kami 'we excluding you'.",
+   "sections": [
+    {
+     "h": "定义与分布",
+     "hEn": "Definition and Distribution",
+     "p": [
+      "南岛语系是地理分布最广的语系，其语言自非洲东岸的马达加斯加向东横跨印度尼西亚、菲律宾、台湾、新几内亚沿海、美拉尼西亚、密克罗尼西亚与波利尼西亚，直至新西兰与复活节岛。全语系约一千二百种语言，使用人口近四亿，其中印度尼西亚语、马来语、爪哇语、他加禄语与马拉加斯语使用最广。台湾是语言分歧最大的地区，被视为整个语系向外扩散的起点，因而在谱系研究中占有特殊地位。"
+     ],
+     "pEn": [
+      "Austronesian has the widest geographical spread of any language family, running from Madagascar off East Africa through Indonesia, the Philippines, Taiwan, coastal New Guinea, Melanesia, Micronesia and Polynesia as far as New Zealand and Easter Island. It contains roughly 1,200 languages spoken by nearly 400 million people, the largest being Indonesian, Malay, Javanese, Tagalog and Malagasy. Taiwan shows the greatest internal diversity and is widely regarded as the starting point of the whole dispersal, which gives it a special place in genealogical research."
+     ]
+    },
+    {
+     "h": "分类与代表语言",
+     "hEn": "Classification and Representative Languages",
+     "p": [
+      "南岛语系通常首先分为台湾南岛语与马来-波利尼西亚语两大块。台湾原住民语言包括阿美语、泰雅语、排湾语、布农语与邹语等，它们构成多个彼此平行的早期分支，而不构成一个单一语族。马来-波利尼西亚语族涵盖其余全部语言，包括菲律宾的他加禄语、宿务语、伊洛卡诺语，印度尼西亚的马来语、爪哇语、巽他语，大洋洲的斐济语、萨摩亚语、汤加语、夏威夷语与毛利语，以及非洲的马拉加斯语。越南的占语与中国海南的回辉语也属此语系。"
+     ],
+     "pEn": [
+      "Austronesian is usually divided first into the Formosan languages of Taiwan and Malayo-Polynesian. The Formosan languages, including Amis, Atayal, Paiwan, Bunun and Tsou, form several parallel primary branches rather than a single subgroup. Malayo-Polynesian covers everything else: Tagalog, Cebuano and Ilokano in the Philippines; Malay, Javanese and Sundanese in Indonesia; Fijian, Samoan, Tongan, Hawaiian and Māori in Oceania; and Malagasy in Africa. Cham in Vietnam and Tsat on Hainan Island also belong to this family."
+     ]
+    },
+    {
+     "h": "形态与句法特征",
+     "hEn": "Morphological and Syntactic Features",
+     "p": [
+      "南岛语言常见动词居首的语序以及焦点或语态系统。菲律宾型语言通过动词词缀标示哪个论元充当句法上的主格，他加禄语 nagbili（施事焦点）与 binili（受事焦点）形成对立。重叠构词十分普遍，如他加禄语 araw（天）重叠为 araw-araw（每天）。许多语言区分第一人称复数的包含式与排除式，如他加禄语 tayo（咱们）与 kami（我们）。同源词显示祖语词汇，如眼睛在马拉加斯语为 maso，马来语为 mata。"
+     ],
+     "pEn": [
+      "Austronesian languages frequently show verb-initial order and so-called focus or voice systems. In Philippine-type languages verbal affixes mark which argument serves as syntactic subject, so that Tagalog contrasts nagbili 'bought, actor focus' with binili 'bought, object focus'. Reduplication is pervasive, as in Tagalog araw 'day' with araw-araw 'every day'. Many languages distinguish inclusive from exclusive first person plural, as in Tagalog tayo 'we including you' versus kami 'we excluding you'. Cognates reveal the ancestral lexicon: 'eye' is maso in Malagasy and mata in Malay."
+     ]
+    },
+    {
+     "h": "历史、扩散与争议",
+     "hEn": "History, Dispersal and Debates",
+     "p": [
+      "南岛语系的扩散通常用出台湾模型解释：约六千年前讲原始南岛语的人群自台湾向菲律宾与印度尼西亚扩散，随后沿新几内亚海岸进入大洋洲，约一千年前波利尼西亚人抵达新西兰、夏威夷与复活节岛，另有群体向西航行到达马达加斯加。白乐思等人的构拟提供了原始南岛语与原始马来-波利尼西亚语的大量词汇与音变规律，为谱系划分奠定基础。研究争论集中在台湾以外是否存在更早的祖语故乡，以及新几内亚与大洋洲语言中非南岛成分的影响程度。"
+     ],
+     "pEn": [
+      "The Austronesian dispersal is usually explained by the Out-of-Taiwan model: some six thousand years ago speakers of Proto-Austronesian spread from Taiwan to the Philippines and Indonesia, then along the coast of New Guinea into Oceania, reaching New Zealand, Hawaii and Easter Island about a thousand years ago, while other groups sailed west to Madagascar. Reconstructions by Robert Blust and others supply extensive Proto-Austronesian and Proto-Malayo-Polynesian vocabulary and sound changes. Debate continues over whether an earlier homeland lay outside Taiwan and over non-Austronesian influence on the languages of New Guinea and Oceania."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "焦点系统",
+     "tEn": "Focus system",
+     "d": "通过动词词缀标示哪个论元充当主语的句法系统，见于菲律宾型语言。",
+     "dEn": "A system of verbal affixes marking which argument serves as the syntactic subject."
+    },
+    {
+     "t": "重叠",
+     "tEn": "Reduplication",
+     "d": "重复词或词的一部分以表达复数、反复或强化等意义，如 araw-araw。",
+     "dEn": "Repetition of a word or part of it to express plurality, repetition or intensity."
+    },
+    {
+     "t": "包含式与排除式",
+     "tEn": "Inclusive and exclusive",
+     "d": "第一人称复数区分是否包括听话人，如他加禄语 tayo 与 kami。",
+     "dEn": "A first person plural distinction according to whether the addressee is included."
+    },
+    {
+     "t": "马来-波利尼西亚语族",
+     "tEn": "Malayo-Polynesian",
+     "d": "南岛语系中除台湾南岛语以外的全部语言的合称，成员约占全语系九成。",
+     "dEn": "All Austronesian languages outside Taiwan, the great majority of the family."
+    },
+    {
+     "t": "台湾南岛语",
+     "tEn": "Formosan languages",
+     "d": "台湾原住民所使用的南岛语言，内部分歧最大，构成多个早期分支。",
+     "dEn": "The Austronesian languages of Taiwan's indigenous peoples, the most divergent."
+    },
+    {
+     "t": "出台湾模型",
+     "tEn": "Out-of-Taiwan model",
+     "d": "认为南岛语系自台湾向太平洋与印度洋扩散的史前假说。",
+     "dEn": "The prehistoric model according to which Austronesian spread outward from Taiwan."
+    },
+    {
+     "t": "原始南岛语",
+     "tEn": "Proto-Austronesian",
+     "d": "南岛语系的假想祖语，其构拟主要以台湾南岛语言为证据。",
+     "dEn": "The reconstructed ancestor of Austronesian, based chiefly on the Formosan languages."
+    }
+   ],
+   "related": [
+    "language-family",
+    "proto-language",
+    "typology",
+    "sino-tibetan",
+    "comparative-method"
+   ],
+   "sources": [
+    "Wikipedia, \"Austronesian languages\", https://en.wikipedia.org/wiki/Austronesian_languages",
+    "Blust, The Austronesian Languages, Pacific Linguistics, 2009",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

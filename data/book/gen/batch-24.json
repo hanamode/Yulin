@@ -1,0 +1,104 @@
+{
+ "batch": 24,
+ "sections": {
+  "chapter-045-slug-5-5-derivational-morphology": {
+   "title": {"en": "5.6 Derivational morphology", "zh": "5.6 派生形态学"},
+   "summary": {
+    "en": "Derivational morphemes build new words and are typically selective about the category of the base they attach to. English suffixes such as -able may change category, while prefixes such as un- and re- keep it and add meaning. Because each affix has selectional restrictions, the order in which affixes attach is often uniquely determined, as in foolishly and unkindness.",
+    "zh": "派生语素用于构造新词，并且往往对词基的类别有所选择，这种特性称为选择性。英语后缀如 -able 会改变词类，通常只接在动词上；而 un-、re- 等前缀不改变词类，只增添否定、重复等意义。借自法语和拉丁语的词缀能产性较低，-ish、-ness、-able、-ing 则最为能产。由于每个词缀都有选择限制，词缀接合的顺序常被唯一确定，foolishly 与 unkindness 即是典型例证。"
+   },
+   "points": [
+    {"en": "Derivational affixes select the category of their base: -able attaches only to verbs and always creates adjectives.", "zh": "派生词缀会选择词基的类别：-able 只能接在动词上，并且一律构成形容词。"},
+    {"en": "English prefixes never change the category of their base, but express meanings such as negation, repetition, and ordering.", "zh": "英语前缀从不改变词基的词类，只表达否定、重复、顺序等意义。"},
+    {"en": "Latinate affixes borrowed from French and Latin prefer to combine with each other, making them less productive than other affixes.", "zh": "借自法语和拉丁语的拉丁语系词缀倾向于彼此结合，因此比其他词缀的能产性更低。"},
+    {"en": "-ish, -ness, -able, and -ing are among the most productive suffixes; -ing attaches to every English verb.", "zh": "-ish、-ness、-able 和 -ing 是英语中最能产的后缀，其中 -ing 尤其能产，可以接于全部动词。"},
+    {"en": "Affixes attach to the outer edge of the base, so selectional properties often determine the only possible order of attachment.", "zh": "词缀总是接在词基外缘，因此选择限制往往决定唯一可行的接合顺序。"}
+   ],
+   "terms": [
+    {"en": "derivational morphology", "zh": "派生形态学", "defEn": "Morphology that builds new words and often changes the lexical category of the base.", "defZh": "构造新词、并常改变词基词类的形态学过程，与屈折形态学相对。"},
+    {"en": "select", "zh": "选择", "defEn": "Of an affix, to restrict the category or identity of the bases it attaches to.", "defZh": "指词缀对接合词基的类别或具体词根加以限制的特性，限制越强则能产性越低。"},
+    {"en": "productive", "zh": "能产的", "defEn": "Describing an affix that combines freely with many bases in a language.", "defZh": "形容某一词缀能与语言中大量词基自由组合，造出可接受的新词。"},
+    {"en": "root", "zh": "词根", "defEn": "The smallest meaningful lexical unit, to which affixes may attach.", "defZh": "最小的有意义词汇单位，词缀可以接于其上构成新词，如 fool 之于 foolish。"},
+    {"en": "circumfix", "zh": "环缀", "defEn": "An affix with two parts that surround the base, attaching at both edges.", "defZh": "由两部分构成、分别接在词基两端的词缀，两个部分共同表达一个意义。"}
+   ],
+   "examples": [
+    {"text": "readable, writeable, playable, employable, and googleable", "noteEn": "Adjectives produced by the suffix -able attaching only to English verbs.", "noteZh": "后缀 -able 只接在英语动词后，由此构成的形容词表示「能够被……的」。"},
+    {"text": "non-issue, non-distinct, undo, unhappy, redo", "noteEn": "Derivational prefixes that keep the category of their base while adding meaning.", "noteZh": "这些派生前缀不改变词基的词类，只在原有意义上增添否定、重复等含义。"},
+    {"text": "foolishly", "noteEn": "The noun root fool takes -ish to form an adjective, then -ly to form an adverb.", "noteZh": "名词词根 fool 先接 -ish 构成形容词 foolish，再接 -ly 构成副词，这是唯一可能的顺序。"},
+    {"text": "unkindness", "noteEn": "Only un- before -ness is possible, because un- cannot attach to the noun kindness.", "noteZh": "只能先接 un- 再接 -ness，因为 un- 不能接在名词 kindness 上，否则选择限制无法满足。"}
+   ],
+   "body": [
+    {"en": "Derivational morphology builds new words. A derivational affix is selective: it cares about the category of the base it attaches to, and it may change that category in the resulting word. The English suffix -able, for instance, attaches only to verbs and always produces adjectives meaning \"able to be verb-ed\", which is why even so recent a verb as google yields the adjective googleable. A representative sample of English derivational suffixes includes -tion, -able, -en, -ed, -ing, -ment, -ness, -ity, -ous, -hood, -ize, -ly, and -ish, each described by the category it selects and the category it creates.", "zh": "派生形态学负责构造新词。派生词缀具有选择性：它关注词基的类别，并可能使整个词的类别发生改变。以英语后缀 -able 为例，它只能接在动词后，并且一律构成表示「能够被……的」的形容词，因此即便像 google 这样较新的动词，也能造出形容词 googleable。英语派生后缀的一个代表性样本包括 -tion、-able、-en、-ed、-ing、-ment、-ness、-ity、-ous、-hood、-ize、-ly 和 -ish，每个后缀都可以按其所选择的类别和所构成的类别加以描述。这说明构词能力来自词缀的组合规则，而不取决于词典是否已经收录某个词。"},
+    {"en": "English prefixes behave differently: they never change the category of their base, though they carry clear meanings such as negation, repetition, and ordering, as in pre- and post-. The prefixes non-, un-, and re- illustrate this, attaching to nouns, adjectives, or verbs without altering the category. Some derivational affixes are even more restrictive and demand particular roots. Many English derivational patterns were borrowed from French and Latin, and these latinate affixes tend to combine with one another, or only with latinate roots, which makes them less productive than affixes that combine freely with most bases.", "zh": "英语前缀的表现不同：它们从不改变词基的类别，却带有明确的意义，如否定、重复和顺序（如 pre- 与 post-）。前缀 non-、un- 和 re- 即为例证，它们可以接在名词、形容词或动词上而不改变词类。有些派生词缀限制更强，要求与特定的词根结合。英语中许多派生模式借自法语和拉丁语，这些拉丁语系词缀往往彼此结合，或只与拉丁语词根结合，因而比能与大多数词基自由组合的词缀更能产性更低。"},
+    {"en": "The order in which affixes attach matters, because affixes attach to the outer edge of their base. In foolishly, -ish must attach first to the noun root fool, producing the adjective foolish, before -ly turns it into an adverb. When a word contains both prefixes and suffixes, selectional properties often rule out all but one order. In unkindness, attaching -ness first would create the noun kindness, to which un- cannot attach at all; only the order in which un- attaches to the adjective kind before -ness matches the selectional properties of the affixes involved.", "zh": "词缀接合的顺序之所以重要，是因为词缀总是接在词基的外缘。在 foolishly 中，-ish 必须先接在名词词根 fool 上构成形容词 foolish，然后 -ly 才把它变成副词。当一个词同时包含前缀和后缀时，选择限制往往排除掉除一种之外的所有顺序。在 unkindness 中，若先接 -ness 就会得到名词 kindness，而 un- 根本无法接在其上；只有先让 un- 接在形容词 kind 上、再接 -ness 的顺序，才符合相关词缀的选择限制。因此表面上存在两种可能的构造顺序，实际上却只有一种符合语言事实。"}
+   ]
+  },
+  "chapter-046-slug-5-6": {
+   "title": {"en": "5.7 Inflectional morphology", "zh": "5.7 屈折形态学"},
+   "summary": {
+    "en": "Inflectional morphology never changes the category of its base; it adds grammatical information that a language requires. English marks number, case on pronouns, verb agreement, tense, participles, and the progressive, plus adjective comparison. Other languages add dual, trial, paucal, inclusive and exclusive person, richer case and agreement systems, aspect, negation, and categories such as evidentiality, modality, and gender.",
+    "zh": "屈折形态学不改变词基的词类，只添加该语言所要求的语法信息。英语的屈折包括名词的数、代词的格、动词一致、时、分词与进行体，以及形容词的比较等级。其他语言还区分双数、三数、少量数，第一人称的包括式与排除式，更丰富的格与一致系统、体、否定，以及示证、情态、性别等更多范畴。"
+   },
+   "points": [
+    {"en": "Inflectional morphology never changes the lexical category of its base and expresses grammatical information the language requires.", "zh": "屈折形态学从不改变词基的词类，只表达该语言所要求的语法信息。"},
+    {"en": "English inflection covers number, pronominal case, verb agreement, tense, participles, progressive -ing, and adjective comparison.", "zh": "英语屈折包括数、代词格、动词一致、时、分词、进行体 -ing 和形容词比较等级。"},
+    {"en": "Inflection can also be expressed syntactically with particles, a separate word rather than an affix on the verb.", "zh": "屈折信息也可通过句法手段表达，如用时态助词而非动词上的词缀。"},
+    {"en": "Number systems may contrast singular, plural, dual, trial, or paucal, as Inuktitut does on nouns and agreeing verbs.", "zh": "数系统可区分单数、复数、双数、三数或少量数，因纽特语的名词和一致动词即如此。"},
+    {"en": "Person may distinguish inclusive from exclusive first person plural, as in Anishinaabemowin giinawind and niinawind.", "zh": "人称可区分第一人称复数的包括式与排除式，如阿尼希纳贝语的 giinawind 与 niinawind。"},
+    {"en": "Languages may mark obviation, causative, evidentiality, modality, gender, or noun class through morphology rather than syntax.", "zh": "一些语言用形态而非句法标记近指与远指、使役、示证、情态、性别或名词类别。"}
+   ],
+   "terms": [
+    {"en": "inflectional morphology", "zh": "屈折形态学", "defEn": "Morphology that marks grammatical information without changing the category of the base.", "defZh": "不改变词基词类、只标记语法信息（如数、时、格、一致）的形态学过程。"},
+    {"en": "number", "zh": "数", "defEn": "The grammatical distinction between singular, plural, and possibly dual, trial, or paucal.", "defZh": "单数、复数以及可能的双数、三数或少量数之间的语法区分，属于名词的屈折范畴。"},
+    {"en": "case", "zh": "格", "defEn": "Marking on nouns that reflects their grammatical role in the sentence.", "defZh": "名词上反映其在句中语法角色（如主语、宾语、领属）的标记，英语只保留在代词上。"},
+    {"en": "agreement", "zh": "一致", "defEn": "Inflectional morphology that reflects properties of another word in the sentence.", "defZh": "反映句中另一词语（通常是主语名词）属性的屈折形态，如动词与主语在人称、数上的一致。"},
+    {"en": "aspect", "zh": "体", "defEn": "The perspective taken on an event, described either as complete or as ongoing.", "defZh": "对事件所采取的视角，即把事件描述为已经完成还是仍在进行，如完成体与进行体。"},
+    {"en": "evidentiality", "zh": "示证", "defEn": "Morphology indicating the source of a speaker's evidence or degree of certainty.", "defZh": "标示说话人证据来源或确信程度的形态标记，如土耳其语的直接过去与间接过去。"}
+   ],
+   "examples": [
+    {"text": "titiraut, titirautiik, titirautit", "noteEn": "Inuktitut singular, dual, and plural forms of the noun meaning \"pen\".", "noteZh": "因纽特语中意为「笔」的名词的单数、双数与复数形式。"},
+    {"text": "giinawind", "noteEn": "The Anishinaabemowin pronoun for inclusive we, meaning \"we including the person addressed\".", "noteZh": "阿尼希纳贝语表示包括式的第一人称复数代词，意为「包括听话人在内的我们」。"},
+    {"text": "gel-di, gel-miş", "noteEn": "Turkish direct past versus indirect past, for witnessed versus reported evidence.", "noteZh": "土耳其语的直接过去与间接过去，分别表示亲见证据与转述证据。"},
+    {"text": "le (了), zài (在)", "noteEn": "Mandarin particles expressing perfective and progressive aspect, separate from the verb.", "noteZh": "汉语普通话中表示完成体与进行体的助词，与动词分离而非充当词缀。"}
+   ],
+   "body": [
+    {"en": "Inflectional morphology differs from derivation in one crucial respect: it never changes the category of its base, suiting instead the grammatical information that a particular language requires. English has a very limited inflectional system. Nouns inflect for number, and pronouns for nominative, accusative, and possessive case. Verbs agree with third person singular subjects in the present, contrast past with present tense, take participial -ed or -en, and add progressive -ing after auxiliary be. Adjectives take comparative -er and superlative -est, though some analyse these as derivational.", "zh": "屈折形态学与派生形态学有一个关键区别：它从不改变词基的词类，只满足特定语言所要求的语法信息。英语的屈折系统十分有限：名词有数的屈折；代词有主格、宾格和属格的区分；动词在现在时中与第三人称单数主语一致，并区分过去时与现在时，还有分词 -ed 或 -en，以及助动词 be 后的进行体 -ing；形容词有比较级 -er 和最高级 -est，不过也有人把它们分析为派生。"},
+    {"en": "Inflectional information can also be expressed syntactically rather than morphologically. Some languages have tense but mark it with a particle, a separate word, instead of an affix on the verb; this is still tense, yet it is not part of inflectional morphology. The survey below covers inflectional distinctions commonly made in the world's languages, but many types of inflection are not mentioned.", "zh": "屈折信息也可以用句法而非形态手段表达。有些语言拥有时范畴，却用助词这一独立的词来标记，而不是在动词上附加词缀；这仍然是时，但不属于屈折形态学。以下概述介绍世界语言中常见的屈折区分类型，但仍有许多屈折类型未予提及。"},
+    {"en": "Number is the most familiar category. Many languages contrast only singular with plural, but others add dual for exactly two things, as Inuktitut does for nouns and agreeing verbs; a few languages have a trial for groups of three, usually only on pronouns, and some have a paucal for small groups. Person distinguishes first, second, and third, and some languages split the first person plural into inclusive, meaning me plus you, and exclusive, meaning me plus others but not you. Anishinaabemowin marks this contrast with giinawind and niinawind.", "zh": "数是最常见的范畴。许多语言只区分单数与复数，另一些语言还有表示恰好两个事物的双数，因纽特语的名词以及与主语一致的动词即如此；少数语言还有通常只用于代词、表示三个一组的三数，有些语言则有表示少量小组的少量数。人称区分第一、第二和第三人称，部分语言把第一人称复数分为包括式（我加你）与排除式（我加其他人但不包括你），阿尼希纳贝语用 giinawind 和 niinawind 表达这一对立。"},
+    {"en": "Case marks the grammatical role of nouns and survives in English only on pronouns, while French distinguishes dative from accusative on third person pronouns. Agreement reflects properties of another word, most commonly a subject noun. Tense contrasts present with past, and aspect presents an event as complete or ongoing; Mandarin le (了) and zài (在) express perfective and progressive aspect as particles. Negation, obviation, causatives, evidentiality, modality, and gender or noun class are marked morphologically in various languages, though English uses other means.", "zh": "格标记名词的语法角色，在现代英语中只保留于代词，而法语在第三人称代词上区分与格和宾格。一致反映句中另一词语（通常是主语名词）的属性。时区分现在与过去，体则把事件呈现为完成或正在进行；汉语普通话用助词 了 和 在 分别表达完成体与进行体。此外，否定、近指与远指、使役、示证、情态以及性别或名词类别在许多语言中由形态标记，而英语大多通过其他手段表达。"}
+   ]
+  },
+  "chapter-047-slug-5-7-compounding": {
+   "title": {"en": "5.8 Compounding", "zh": "5.8 复合"},
+   "summary": {
+    "en": "Compounds are words built from more than one root, combining roots with roots rather than roots with affixes. English forms compounds freely across categories such as Noun-Noun and Adjective-Noun, and spelling is inconsistent, but compounds take stress on their first member and are interpreted as single words. Their head normally lies on the right, while exocentric and dvandva compounds differ.",
+    "zh": "复合词由两个或更多词根构成，是词根与词根的结合，而非词根与词缀的结合。英语可以自由构成名词-名词、形容词-名词等各种类型的复合词；其拼写并不统一，但重音落在第一个成分上，并被理解为单一的词。复合词的中心语通常位于右侧，外部中心复合词与并列复合词则属例外。"
+   },
+   "points": [
+    {"en": "Compounds contain more than one root and combine roots with roots rather than roots with affixes.", "zh": "复合词包含一个以上词根，是词根与词根的组合，而不是词根与词缀的组合。"},
+    {"en": "English builds compounds freely across categories, including Noun-Noun, Adjective-Noun, Verb-Noun, and Noun-Verb combinations.", "zh": "英语可跨词类自由构词，包括名词-名词、形容词-名词、动词-名词和名词-动词等组合。"},
+    {"en": "Compounds take stress on their first member, while phrases take stress on their last member.", "zh": "复合词的重音落在第一个成分上，而短语的重音落在最后一个成分上。"},
+    {"en": "The head of an English compound is on the right, so endocentric compounds are a type of what their head denotes.", "zh": "英语复合词的中心语位于右侧，因此向心复合词表示其中心语所指事物的一种。"},
+    {"en": "Exocentric compounds lack such a head, and dvandva compounds are co-headed and can be paraphrased with and.", "zh": "外部中心复合词没有这种中心语，并列复合词则属共同中心，可用「和」来改写。"}
+   ],
+   "terms": [
+    {"en": "compounding", "zh": "复合", "defEn": "Word formation that combines two or more roots into a single word.", "defZh": "把两个或更多词根组合成一个词的构词方式，不同于派生和屈折。"},
+    {"en": "endocentric", "zh": "向心", "defEn": "Describing a compound whose head determines its category and interpretation.", "defZh": "中心语位于复合词内部并决定整词词类与释义的复合词，如 sunflower 与 bluebird。"},
+    {"en": "exocentric", "zh": "外部中心", "defEn": "Describing a compound with no head inside it, denoting neither member.", "defZh": "内部没有中心语的复合词，其指称不等于其中任何一个成分。"},
+    {"en": "dvandva", "zh": "并列复合词", "defEn": "A co-headed compound paraphrasable with and between its two members.", "defZh": "共同中心的复合词，指称两个成分之和，可在两者之间用「和」来改写。"},
+    {"en": "head", "zh": "中心语", "defEn": "The member of a compound that determines its category and interpretation.", "defZh": "复合词中决定整词词类和释义的那个成分，英语复合词的中心语位于右侧。"}
+   ],
+   "examples": [
+    {"text": "doghouse, website, basketball, sunflower, moonlight", "noteEn": "English Noun-Noun compounds listed among the categories in the section.", "noteZh": "该节按词类列举的英语名词-名词复合词，其中心语均位于右侧。"},
+    {"text": "bláckboard, gréenhouse, blúebird", "noteEn": "Compounds carry stress on the first member, unlike the phrases black bóard and green hóuse.", "noteZh": "复合词重音落在第一个成分上，与短语 black bóard、green hóuse 的重音位置不同。"},
+    {"text": "Donaudampfschiffahrtsgesellschaftskapitän", "noteEn": "German compound meaning Danube steam shipping company captain, spelled without spaces.", "noteZh": "德语复合词，意为「多瑙河蒸汽航运公司船长」，书写时不留空格。"},
+    {"text": "zigzag, helter skelter, flip flop, riff raff, hocus pocus", "noteEn": "Reduplicative dvandva compounds whose two roots mirror each other's sounds.", "noteZh": "叠音式并列复合词，两个词根在语音上彼此呼应。"}
+   ],
+   "body": [
+    {"en": "Compounding is the last main type of morphology. A compound is a word built from more than one root, though it may also contain derived words; any word containing two roots is certainly a compound. What sets compounding apart from derivation and inflection is that it combines roots with roots instead of roots with affixes. English builds compounds very freely, much like other Germanic languages such as German and Dutch, and examples exist for almost every pair of categories: Noun-Noun (doghouse, website, basketball), Adjective-Noun (greenhouse, bluebird), Verb-Noun (breakwater), Noun-Adjective (trustworthy, watertight), Adjective-Adjective (purebred, kind-hearted), Noun-Verb (browbeat, sidestep), and Adjective-Verb (blacklist).", "zh": "复合是最后一类主要构词方式。复合词是由一个以上词根构成的词，其中也可以包含派生词；只要一个词里出现两个词根，它就一定是复合词。复合与派生、屈折的区别在于，它把词根与词根组合起来，而不是把词根与词缀组合起来。英语构词十分自由，与德语、荷兰语等日耳曼语言相似，几乎任何两个词类的组合都能找到实例：名词-名词（doghouse、website、basketball）、形容词-名词（greenhouse、bluebird）、动词-名词（breakwater）、名词-形容词（trustworthy、watertight）、形容词-形容词（purebred、kind-hearted）、名词-动词（browbeat、sidestep）以及形容词-动词（blacklist）。"},
+    {"en": "English spells compounds inconsistently: older ones are written solid, others are hyphenated, and many new ones are written with a space. Pronunciation nevertheless reveals their status, because compounds carry stress on their first member while phrases carry it on their last: bláckboard and gréenhouse differ from black bóard and green hóuse. Interpretation also differs, since a blackboard need not be black and a greenhouse usually is not green. Syntactically, English cannot string bare nouns together, so any such sequence of noun-like words must be a compound.", "zh": "英语复合词的拼写并不统一：较古老的写法连写，另一些用连字符，许多新复合词则分开书写。但读音仍能显示其性质，因为复合词的重音落在第一个成分上，而短语的重音落在最后一个成分上：bláckboard、gréenhouse 与 black bóard、green hóuse 读音不同。释义也不同，因为 blackboard 未必是黑色的，greenhouse 通常也不是绿色的。从句法上看，英语无法把光杆名词直接连缀起来，因此凡是这样的名词性序列，必然是复合词。"},
+    {"en": "Most compounds have a head, which determines both their interpretation and their category: a sunflower is a type of flower and is a noun, while a bluebird is a type of bird and also a noun. English is thus a right-headed language. Compounds with a head are endocentric, and those without one are exocentric: redhead and sabretooth describe a person or animal rather than a type of head or tooth, and outcome and tell-all have no head matching their category at all. Dvandva compounds are co-headed and can be paraphrased with and; many are reduplicatives such as zigzag and flip flop, with bittersweet and parent-child as further examples. Dvandva compounds are relatively uncommon in English.", "zh": "大多数复合词都有一个中心语，它同时决定整词的释义和词类：sunflower 是花的一种，也是名词；bluebird 是鸟的一种，也是名词。因此英语是中心语在右的语言。有中心语的复合词是向心复合词，没有中心语的则是外部中心复合词：redhead 和 sabretooth 指人或动物，而不表示某类头或牙；outcome 和 tell-all 更没有任何成分与其词类相配。并列复合词属共同中心，可用「和」改写；其中许多是叠音词，如 zigzag 和 flip flop，bittersweet 与 parent-child 也是例子。并列复合词在英语中相对少见。"}
+   ]
+  }
+ }
+}

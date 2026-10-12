@@ -1,0 +1,24 @@
+{
+ "batch": 4,
+ "out": "data/gen2/batch-04.json",
+ "entries": [
+  {
+   "id": "biolinguistics",
+   "title": "生物语言学",
+   "en": "Biolinguistics",
+   "category": "branches"
+  },
+  {
+   "id": "contact-linguistics",
+   "title": "接触语言学",
+   "en": "Contact Linguistics",
+   "category": "branches"
+  },
+  {
+   "id": "discourse-analysis",
+   "title": "话语分析",
+   "en": "Discourse Analysis",
+   "category": "branches"
+  }
+ ]
+}

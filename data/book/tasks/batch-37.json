@@ -1,0 +1,25 @@
+{
+ "batch": 37,
+ "chapter": "Chapter 7: Semantics",
+ "out": "data/book/gen/batch-37.json",
+ "sections": [
+  {
+   "id": "chapter-079-slug-7-6-events-and-thematic-roles",
+   "title": "7.6 Events and thematic roles",
+   "src": "data/book/src/chapter-079-slug-7-6-events-and-thematic-roles.txt",
+   "chars": 12095
+  },
+  {
+   "id": "chapter-080-slug-7-7-countability",
+   "title": "7.7 Countability",
+   "src": "data/book/src/chapter-080-slug-7-7-countability.txt",
+   "chars": 11017
+  },
+  {
+   "id": "chapter-081-slug-7-8-individual-vs-stage-level-predicates",
+   "title": "7.8 Individual- vs. stage-level predicates",
+   "src": "data/book/src/chapter-081-slug-7-8-individual-vs-stage-level-predicates.txt",
+   "chars": 4650
+  }
+ ]
+}

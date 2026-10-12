@@ -1,0 +1,373 @@
+{
+ "batch": 22,
+ "entries": [
+  {
+   "id": "cognate",
+   "title": "同源词",
+   "en": "Cognate",
+   "category": "concepts",
+   "tags": [
+    "历史语言学",
+    "词源",
+    "语音对应",
+    "语系",
+    "比较法"
+   ],
+   "summary": "同源词指两种或多种语言中由同一祖语词根传承下来、在语音上呈规律对应而意义相近或相关的词。它们是比较法与历史语言学的核心证据：英语 father、拉丁语 pater、希腊语 patēr、梵语 pitā 形式相似并非偶然，而是共同来源的反映。同源词的判定不依赖表面相似，而依据成套的语音对应规律，并须排除借词与偶然巧合。",
+   "summaryEn": "Cognates are words in two or more languages that descend from the same ancestral root, showing regular sound correspondences and related meanings. They are the primary evidence for the comparative method: English father, Latin pater, Greek patēr and Sanskrit pitā are similar because they share a common origin rather than by chance. Establishing cognacy depends on systematic correspondences instead of superficial resemblance, and requires excluding borrowings and coincidental similarity.",
+   "sections": [
+    {
+     "h": "定义与判定",
+     "hEn": "Definition and Identification",
+     "p": [
+      "同源词是分属不同语言的词，它们在语音上存在系统的对应关系，语义相同或相关，并且可以追溯到同一祖语的同一个词。判定同源词不能只看形式是否相似，而要看对应是否成规律、是否成批出现。例如英语 father、德语 Vater 与拉丁语 pater，辅音 f 与 p 的对应在 foot／pedal、fish／piscis 等大量词中反复出现，因而可信。相反，表面相同的词也可能是借词或偶然巧合。"
+     ],
+     "pEn": [
+      "Cognates are words in different languages that show systematic sound correspondences, share the same or a closely related meaning, and can be traced back to a single word in a common ancestor. Cognacy is established not by superficial resemblance but by regularity and by the recurrence of correspondences across many words. Thus English father, German Vater and Latin pater are supported by the same f and p correspondence seen in foot/pedal and fish/piscis. Conversely, similar forms may be loans or mere coincidence."
+     ]
+    },
+    {
+     "h": "语音对应与示例",
+     "hEn": "Sound Correspondences and Examples",
+     "p": [
+      "印欧语系提供了大量经典例证。原始印欧语的 p 在日耳曼语中变为 f，在拉丁语中保持 p：梵语 pitā、波斯语 pedar、拉丁语 pater、英语 father 同源；拉丁语 pēs 与英语 foot、德语 Fuß 同源。数词也是常用证据：英语 three、德语 drei、拉丁语 trēs、希腊语 treis、梵语 tráyaḥ 同源。汉藏语方面，汉语「三」sān 与藏语 gsum、「目」mù 与藏语 mig 也被视为同源。"
+     ],
+     "pEn": [
+      "Indo-European offers classic examples. Proto-Indo-European p became f in Germanic but remained p in Latin: Sanskrit pitā, Persian pedar, Latin pater and English father are cognate, as are Latin pēs (genitive pedis), English foot and German Fuß. Numerals are equally common evidence: English three, German drei, Latin trēs, Greek treis and Sanskrit tráyaḥ. Within Sino-Tibetan, Chinese 三 sān and Tibetan gsum, or 目 mù and Tibetan mig, are likewise treated as cognates."
+     ]
+    },
+    {
+     "h": "假同源词与借词",
+     "hEn": "False Cognates and Loanwords",
+     "p": [
+      "形式相似而来源无关的词称为假同源词，例如澳大利亚姆巴巴拉姆语中表示「狗」的词也作 dog，却与英语无亲缘关系；英语 gift（礼物）与德语 Gift（毒药）来自同一祖语而意义分化，属于同源异义词。借词同样会干扰判断：英语 beef 借自法语 bœuf，与英语 cow 并不同源。因此比较研究必须先把横向的借用剔除，再建立纵向传承的证据链。"
+     ],
+     "pEn": [
+      "Words that resemble each other but have unrelated origins are false cognates; the well-known example is Mbabaram dog, which means dog yet shares no ancestry with English dog. English gift and German Gift descend from the same source but diverged in meaning, illustrating cognates that are not translation equivalents. Borrowing also interferes: English beef is a loan from French bœuf and is not a cognate of English cow. Comparative work therefore separates horizontal borrowing from vertical descent."
+     ]
+    },
+    {
+     "h": "研究方法与证据",
+     "hEn": "Methods and Evidence",
+     "p": [
+      "确立同源词主要依据比较法：先收集各语言的核心词表，寻找反复出现的语音对应，再据此构拟原始形式。格里姆定律描述了日耳曼语的辅音演变，即原始印欧语的 p、t、k 变为日耳曼语的 f、θ、h，而 b、d、g 变为 p、t、k。此外，共享的屈折形态、代词系统和基本词汇也能为亲缘关系提供佐证。"
+     ],
+     "pEn": [
+      "Cognates are established mainly through the comparative method: researchers compile core word lists, identify recurrent sound correspondences, and reconstruct proto-forms. Grimm's Law describes the Germanic consonant shift, whereby Proto-Indo-European p, t, k became f, θ, h, while b, d, g became p, t, k. Shared inflectional morphology, pronoun systems and basic vocabulary provide further support for genealogical relatedness. Regularity across many lexical items, not isolated resemblance, is what makes a reconstruction credible."
+     ]
+    },
+    {
+     "h": "争议与局限",
+     "hEn": "Controversies and Limitations",
+     "p": [
+      "同源词的判定并非总是界限分明。远距离比较如诺斯特拉语系假说，因对应规律零散、时间深度过大而广受质疑；语言接触造成的长期借用也会掩盖传承关系。此外，同源并不等于同义，词义在演变中可能大幅漂移，如拉丁语 caput（头）演变为法语 chef（厨师、首领）。这些困难使同源词研究必须结合文献考据、考古证据与统计方法。"
+     ],
+     "pEn": [
+      "Cognate identification is not always clear-cut. Long-range proposals such as Nostratic are widely doubted because correspondences are sparse and time depth is great, while prolonged contact can obscure descent. Cognacy also does not guarantee similarity of meaning: Latin caput head yielded French chef chief or cook. Such difficulties mean that cognate research must combine philological, archaeological and statistical evidence. Statistical and computational methods are now also used to test proposed family groupings."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "同源词",
+     "tEn": "cognate",
+     "d": "由同一祖语词传承而来、在语音上呈规律对应、意义相关的词。",
+     "dEn": "A word descended from the same ancestral word as another, with regular sound correspondences."
+    },
+    {
+     "t": "比较法",
+     "tEn": "comparative method",
+     "d": "通过语音对应规律构拟祖语、判定语言之间亲缘关系的方法。",
+     "dEn": "The method of reconstructing ancestors and relatedness from systematic sound correspondences."
+    },
+    {
+     "t": "语音对应",
+     "tEn": "sound correspondence",
+     "d": "不同亲属语言之间音类与音类之间系统的规律性映射关系。",
+     "dEn": "A regular mapping between sound classes across genetically related languages."
+    },
+    {
+     "t": "假同源词",
+     "tEn": "false cognate",
+     "d": "形式相似或完全相同但来源无关、彼此并无亲缘关系的词。",
+     "dEn": "Words that look alike or identical but have entirely unrelated origins."
+    },
+    {
+     "t": "借词",
+     "tEn": "loanword",
+     "d": "从其他语言借入并已完全融入本语言词汇与语法系统的词。",
+     "dEn": "A word taken into one language from another and integrated into its lexicon."
+    },
+    {
+     "t": "祖语",
+     "tEn": "proto-language",
+     "d": "一组亲属语言共同来源的假设性母语，通常靠构拟得出。",
+     "dEn": "The hypothetical common ancestor of a family of related languages, usually reconstructed."
+    }
+   ],
+   "related": [
+    "comparative-method",
+    "historical-linguistics",
+    "sound-change",
+    "proto-language",
+    "loanword"
+   ],
+   "sources": [
+    "Wikipedia, \"Cognate\", https://en.wikipedia.org/wiki/Cognate",
+    "Wikipedia, \"Comparative method\", https://en.wikipedia.org/wiki/Comparative_method",
+    "Campbell, Historical Linguistics: An Introduction, 3rd ed., 2013",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "allomorphy",
+   "title": "语素变体",
+   "en": "Allomorphy",
+   "category": "concepts",
+   "tags": [
+    "形态学",
+    "语素",
+    "音系条件",
+    "形态音位学",
+    "交替"
+   ],
+   "summary": "语素变体指同一个语素在不同环境中所呈现的不同语音形式，如英语复数语素在 cats 中为 [s]、在 dogs 中为 [z]、在 horses 中为 [ɪz]。这些形式意义相同、分布互补，其选择往往由音系条件、形态条件或词汇条件决定。研究语素变体是形态学与音系学交界处的核心课题，通常称为形态音位学或形态音系学。",
+   "summaryEn": "Allomorphy refers to the alternation of different phonological forms of a single morpheme across contexts, as when the English plural morpheme surfaces as [s] in cats, [z] in dogs and [ɪz] in horses. The variants carry the same meaning and are usually in complementary distribution, their choice being conditioned phonologically, morphologically or lexically. The study of such alternations lies at the interface of morphology and phonology.",
+   "sections": [
+    {
+     "h": "定义与基本性质",
+     "hEn": "Definition and Basic Properties",
+     "p": [
+      "语素变体是同一语素在不同语境中的不同语音实现。它们具备三个特征：意义相同，分布互补或部分互补，形式之间存在可描述的对应关系。例如英语复数语素的意义始终是「多于一个」，但读音随前一个音段而变化：cats [kæts] 中是 [s]，dogs [dɒɡz] 中是 [z]，horses [ˈhɔːsɪz] 中是 [ɪz]。这种由一个抽象语素统辖多个形式的格局也称语素交替。"
+     ],
+     "pEn": [
+      "Allomorphs are the different phonological realisations of one and the same morpheme in different contexts. They share a single meaning, are typically in complementary distribution, and stand in a describable formal relation. The English plural morpheme, for instance, always means more than one but is pronounced [s] in cats [kæts], [z] in dogs [dɒɡz] and [ɪz] in horses [ˈhɔːsɪz]. A morpheme that governs several such forms is said to exhibit alternation."
+     ]
+    },
+    {
+     "h": "变体的类型",
+     "hEn": "Types of Allomorphs",
+     "p": [
+      "按制约条件，语素变体可分为几类。音系条件变体由相邻音段决定，如英语复数 [s]、[z]、[ɪz] 受前一个辅音清浊的制约。形态条件变体由特定词形或词类触发，如英语过去式除规则的 [t]、[d]、[ɪd] 外还有 sang、went 等形式。词汇条件变体只出现在个别词中，如英语复数 oxen 中的 -en。形式完全不同的情形称为异干互补，如 go／went、good／better。"
+     ],
+     "pEn": [
+      "Allomorphs are usually classified by the conditions that select them. Phonologically conditioned allomorphs are determined by neighbouring sounds, as with English plural [s], [z] and [ɪz]. Morphologically conditioned allomorphs are triggered by particular word forms or classes, as with past-tense sang and went alongside regular [t], [d], [ɪd]. Lexically conditioned allomorphs occur only in individual words, such as the plural -en of oxen. Radically different forms like go and went are called suppletive."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Concrete Examples",
+     "p": [
+      "语言中的实例众多。英语否定前缀 in- 依后接辅音变为 im-（impossible）、il-（illegal）、ir-（irregular）；不定冠词 a 在元音前变为 an。汉语「一」yī 在第四声前读 yí，如「一个」yí ge，在第一、二、三声前读 yì，如「一天」yì tiān。",
+      "日语连浊现象中，「手」te 与「紙」kami 合成「手紙」tegami，「花」hana 与「火」hi 合成「花火」hanabi。土耳其语处所格依元音和谐作 -de 或 -da，如 evde、okulda。"
+     ],
+     "pEn": [
+      "Examples are abundant. The English negative prefix in- becomes im- before bilabials (impossible), il- before l (illegal) and ir- before r (irregular); the article a becomes an before vowels. Mandarin 一 yī is realised yí before a fourth tone, as in yí ge one plus classifier, and yì before other tones, as in yì tiān one day. Such alternations are automatic and regular across the vocabulary of the language.",
+      "Japanese rendaku voices the initial consonant in compounds such as tegami letter and hanabi fireworks. Turkish suffixes harmonise with the stem vowel, as in evde in the house and okulda at school. Comparable patterns appear in many unrelated languages, which suggests that phonological and morphological conditioning interact in similar ways. Speakers acquire these patterns without instruction, and children regularise them in predictable directions."
+     ]
+    },
+    {
+     "h": "理论解释",
+     "hEn": "Theoretical Accounts",
+     "p": [
+      "语素变体是形态音位学（形态音系学）的核心对象。结构主义把语素视为抽象单位，用形态音位规则描写其变体及其分布。生成音系学早期主张由底层形式经音系规则导出表层形式，如把英语复数底层记为 /z/，再由清化规则得到 [s]。优选论则把变体选择归因于制约条件的等级排列，而不是有序规则的逐步应用。"
+     ],
+     "pEn": [
+      "Allomorphy is the central object of morphophonology. Structuralist accounts treat the morpheme as an abstract unit whose variants and distributions are described by morphophonemic rules. Early generative phonology derived surface forms from underlying representations, for example positing underlying /z/ for the English plural and devoicing it to [s] after voiceless sounds. Optimality Theory instead attributes the choice of allomorph to ranked constraints rather than to ordered rules."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "围绕语素变体存在长期争论。有学者主张交替应完全由音系规则解释，另有学者认为许多交替只能靠词库中的词汇条目与类推来处理，如英语 oxen、children 必须逐个登记。异干互补更挑战「语素形式完全由规则决定」的观点。此外，音系条件变体与形态条件变体的边界也常常难以划清。"
+     ],
+     "pEn": [
+      "Allomorphy has long been disputed. Some scholars argue that alternations should follow from general phonological rules, while others hold that many are listed in the lexicon and extended by analogy, as with English oxen and children. Suppletion further challenges the view that allomorphy is fully rule-governed. The boundary between phonological and morphological conditioning is likewise often difficult to draw. Debates about how much alternation to list and how much to derive remain unresolved."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "语素变体",
+     "tEn": "allomorph",
+     "d": "同一语素在不同语音或形态环境中呈现出来的不同形式。",
+     "dEn": "One of the variant forms that a single morpheme takes in different contexts."
+    },
+    {
+     "t": "形态音位学",
+     "tEn": "morphophonology",
+     "d": "研究语素形式与音系条件之间相互作用的语言学分支学科。",
+     "dEn": "The branch studying interactions between morpheme shapes and phonological conditioning."
+    },
+    {
+     "t": "语素交替",
+     "tEn": "alternation",
+     "d": "同一语素的形式在构词或构形过程中发生的规律性变化。",
+     "dEn": "The regular variation of a morpheme's form across morphological contexts."
+    },
+    {
+     "t": "互补分布",
+     "tEn": "complementary distribution",
+     "d": "两个语言形式出现在互不重叠的语音环境中的分布格局。",
+     "dEn": "The pattern in which two forms occur in mutually exclusive environments."
+    },
+    {
+     "t": "异干互补",
+     "tEn": "suppletion",
+     "d": "同一语法范畴由完全不同的词根表示，如 go 与 went。",
+     "dEn": "The use of wholly different roots for one grammatical category, as in go and went."
+    },
+    {
+     "t": "制约条件",
+     "tEn": "conditioning",
+     "d": "决定某一变体能否出现的音系、形态或词汇方面的因素。",
+     "dEn": "The phonological, morphological or lexical factor that selects a variant."
+    }
+   ],
+   "related": [
+    "morpheme",
+    "allophone",
+    "morphology",
+    "inflection-derivation",
+    "free-bound-morpheme"
+   ],
+   "sources": [
+    "Wikipedia, \"Allomorph\", https://en.wikipedia.org/wiki/Allomorph",
+    "Wikipedia, \"Morphophonology\", https://en.wikipedia.org/wiki/Morphophonology",
+    "Bloomfield, Language, 1933",
+    "Carstairs-McCarthy, An Introduction to English Morphology, 2002"
+   ]
+  },
+  {
+   "id": "thematic-role",
+   "title": "题元角色",
+   "en": "Thematic Role",
+   "category": "concepts",
+   "tags": [
+    "句法学",
+    "语义角色",
+    "论元结构",
+    "题元关系",
+    "格语法"
+   ],
+   "summary": "题元角色是谓语在语义上赋予其论元的关系类别，如施事、受事、经验者、目标、工具等。它说明「谁对谁做了什么」，是连接词汇语义与句法结构的重要层面。例如在「张三用钥匙开了门」中，张三为施事，门为受事，钥匙为工具。生成语法用题元准则限制论元的分布，并借助题元层级解释主语与宾语的选择。",
+   "summaryEn": "Thematic roles are the semantic relation types that a predicate assigns to its arguments, such as agent, patient, experiencer, goal and instrument. They capture who does what to whom and mediate between lexical meaning and syntactic structure. In Zhangsan opened the door with a key, Zhangsan is the agent, the door the patient and the key the instrument. Generative grammar constrains argument distribution by the Theta Criterion and explains subject choice through thematic hierarchies.",
+   "sections": [
+    {
+     "h": "定义与基本概念",
+     "hEn": "Definition and Basic Concepts",
+     "p": [
+      "题元角色又称语义角色、格角色或题元关系，是谓语所表达的事件中参与者承担的语义功能。它属于词汇语义层面，不同于句法上的主语、宾语，也不同于形态上的格。同一个句法位置可以承载不同角色，如主语可以是施事（他跑得快），也可以是经验者（他很高兴）或受事（门开了）。角色由动词的词义决定，随动词不同而不同。"
+     ],
+     "pEn": [
+      "Thematic roles, also called semantic or theta roles, are the semantic functions that participants bear in the event denoted by a predicate. They belong to lexical semantics and are distinct from syntactic functions such as subject and object and from morphological case. A single syntactic position may host different roles: a subject can be an agent (He runs fast), an experiencer (He is happy) or a patient (The door opened). Roles are determined by the meaning of the individual verb."
+     ]
+    },
+    {
+     "h": "主要角色类型",
+     "hEn": "Major Role Types",
+     "p": [
+      "常见角色包括：施事，动作的有意发出者；受事，受动作影响而改变状态的实体；客体或主题，被移动或被谈论的实体；经验者，感知或情感的主体；受益者，动作的受益方；目标，移动或转移的终点；来源，起点；工具，动作凭借的手段；处所，事件发生的位置。例如英语 Mary gave Tom a book 中，Mary 为施事，Tom 为目标或接受者，a book 为客体。"
+     ],
+     "pEn": [
+      "Common roles include agent, the deliberate performer of an action; patient, the entity affected or changed; theme, the entity moved or described; experiencer, the one who perceives or feels; beneficiary; goal, the endpoint of motion or transfer; source; instrument; and location. In Mary gave Tom a book, Mary is the agent, Tom the goal or recipient and a book the theme. Chinese 他给孩子一本书 shows the same configuration, with 他 as agent and 孩子 as goal."
+     ]
+    },
+    {
+     "h": "句法映射与题元准则",
+     "hEn": "Syntactic Mapping and the Theta Criterion",
+     "p": [
+      "题元角色如何映射到句法位置是句法理论的核心问题。生成语法提出题元准则：每个论元必须且只能获得一个题元角色，每个题元角色必须且只能指派给一个论元。此外，题元层级认为角色按显著度排序，如施事高于受事，层级最高的角色通常实现为主语。题元指派一致性假说进一步主张，同一角色的初始句法位置在各语言中保持一致。"
+     ],
+     "pEn": [
+      "How thematic roles map onto syntactic positions is a central question of syntactic theory. Generative grammar proposes the Theta Criterion: every argument receives exactly one theta role, and every theta role is assigned to exactly one argument. Thematic hierarchies rank roles by prominence, with agent above patient, and the highest role usually surfaces as subject. The Uniformity of Theta Assignment Hypothesis adds that a given role occupies the same underlying position across languages."
+     ]
+    },
+    {
+     "h": "理论发展",
+     "hEn": "Historical Development",
+     "p": [
+      "题元角色的研究始于二十世纪六十年代。格鲁伯在《词汇关系研究》中提出题元关系，菲尔墨在《格辨》中建立格语法，用施事、工具、与格等深层格描写句子。此后杰肯道夫等人把角色纳入概念语义结构分析，生成语法则将题元理论与移位、约束等模块结合，形成论元结构理论，成为最简方案中接口层面的重要组成部分。"
+     ],
+     "pEn": [
+      "Research on thematic roles began in the 1960s. Gruber introduced thematic relations in Studies in Lexical Relations, and Fillmore's The Case for Case established Case Grammar, describing sentences through deep cases such as agentive, instrumental and dative. Jackendoff and others later embedded roles in conceptual semantics, while generative grammar integrated theta theory with movement and binding into argument structure theory, which remains an interface component of the Minimalist Program."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticism",
+     "p": [
+      "题元角色面临的主要批评是角色清单缺乏统一标准，不同学者提出的数目和定义互不一致，边缘成分也难以归类。道蒂提出原型角色理论，用「原型施事」与「原型受事」两组特征取代离散清单。此外，题元角色与语法关系并非一一对应，如被动句把受事提升为主语，说明映射还受句法操作的影响。"
+     ],
+     "pEn": [
+      "The main criticism is that the inventory of roles lacks a principled basis: scholars disagree about their number and definitions, and peripheral participants are hard to classify. Dowty proposed proto-roles, replacing discrete lists with clusters of entailments defining proto-agent and proto-patient. Moreover, roles and grammatical relations are not in one-to-one correspondence, since passivisation promotes a patient to subject, showing that mapping is also affected by syntactic operations."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "题元角色",
+     "tEn": "thematic role",
+     "d": "谓语在语义上赋予其论元的语义关系类型，如施事、受事。",
+     "dEn": "A semantic relation type assigned by a predicate to one of its arguments."
+    },
+    {
+     "t": "施事",
+     "tEn": "agent",
+     "d": "动作的有意发出者或行为主体，如「他打碎了杯子」中的「他」。",
+     "dEn": "The deliberate performer or initiator of an action, typically its subject."
+    },
+    {
+     "t": "受事",
+     "tEn": "patient",
+     "d": "直接受动作影响而状态发生改变的实体，如被打碎的杯子。",
+     "dEn": "The entity that is affected or changed by the action."
+    },
+    {
+     "t": "经验者",
+     "tEn": "experiencer",
+     "d": "感知、情感或认知状态的主体，如「他很高兴」中的「他」。",
+     "dEn": "The participant who perceives, feels or undergoes a mental or emotional state."
+    },
+    {
+     "t": "题元准则",
+     "tEn": "Theta Criterion",
+     "d": "规定论元与题元角色必须一一对应且不可重复的句法原则。",
+     "dEn": "The principle requiring a one-to-one match between arguments and theta roles."
+    },
+    {
+     "t": "论元结构",
+     "tEn": "argument structure",
+     "d": "动词所要求的论元数目、性质及其句法实现方式的总和。",
+     "dEn": "The set of arguments a verb requires, with their properties and realisation."
+    },
+    {
+     "t": "格语法",
+     "tEn": "Case Grammar",
+     "d": "菲尔墨提出的以深层格或语义角色来描写句子的语法理论。",
+     "dEn": "Fillmore's theory that describes sentences through deep semantic cases or roles."
+    },
+    {
+     "t": "原型角色",
+     "tEn": "proto-role",
+     "d": "道蒂提出的以特征丛而不是离散清单定义施事受事的角色概念。",
+     "dEn": "Dowty's role notion defined by clusters of entailments rather than a list."
+    }
+   ],
+   "related": [
+    "argument-structure",
+    "syntax",
+    "grammatical-case",
+    "deep-structure",
+    "lexical-functional-grammar"
+   ],
+   "sources": [
+    "Wikipedia, \"Thematic relation\", https://en.wikipedia.org/wiki/Thematic_relation",
+    "Fillmore, The Case for Case, 1968",
+    "Gruber, Studies in Lexical Relations, 1965",
+    "Jackendoff, Semantic Structures, 1990"
+   ]
+  }
+ ]
+}

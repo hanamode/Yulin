@@ -1,0 +1,25 @@
+{
+ "batch": 25,
+ "chapter": "Chapter 5: Morphology",
+ "out": "data/book/gen/batch-25.json",
+ "sections": [
+  {
+   "id": "chapter-048-ambiguity-in-ordering",
+   "title": "5.9 Structural ambiguity in morphology",
+   "src": "data/book/src/chapter-048-ambiguity-in-ordering.txt",
+   "chars": 4957
+  },
+  {
+   "id": "chapter-049-slug-5-8-how-to-draw-morphological-trees",
+   "title": "5.10 How to draw morphological trees",
+   "src": "data/book/src/chapter-049-slug-5-8-how-to-draw-morphological-trees.txt",
+   "chars": 2047
+  },
+  {
+   "id": "chapter-050-how-to-solve-morphology-problems",
+   "title": "5.11 How to solve morphology problems",
+   "src": "data/book/src/chapter-050-how-to-solve-morphology-problems.txt",
+   "chars": 3593
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 15,
+ "chapter": "Chapter 3: Phonetics",
+ "out": "data/book/gen/batch-15.json",
+ "sections": [
+  {
+   "id": "chapter-023-slug-3-6-the-international-phonetic-alphabet",
+   "title": "3.6 The International Phonetic Alphabet",
+   "src": "data/book/src/chapter-023-slug-3-6-the-international-phonetic-alphabet.txt",
+   "chars": 31418
+  },
+  {
+   "id": "chapter-024-slug-3-7-signed-language-articulators",
+   "title": "3.7 Signed language articulators",
+   "src": "data/book/src/chapter-024-slug-3-7-signed-language-articulators.txt",
+   "chars": 17954
+  },
+  {
+   "id": "chapter-025-slug-3-8-describing-signs",
+   "title": "3.8 Describing signs",
+   "src": "data/book/src/chapter-025-slug-3-8-describing-signs.txt",
+   "chars": 13680
+  }
+ ]
+}

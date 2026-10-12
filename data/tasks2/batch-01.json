@@ -1,0 +1,24 @@
+{
+ "batch": 1,
+ "out": "data/gen2/batch-01.json",
+ "entries": [
+  {
+   "id": "synchronic-diachronic",
+   "title": "共时语言学与历时语言学",
+   "en": "Synchronic and Diachronic Linguistics",
+   "category": "branches"
+  },
+  {
+   "id": "applied-linguistics",
+   "title": "应用语言学",
+   "en": "Applied Linguistics",
+   "category": "branches"
+  },
+  {
+   "id": "dialectology",
+   "title": "方言学",
+   "en": "Dialectology",
+   "category": "branches"
+  }
+ ]
+}

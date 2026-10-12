@@ -1,0 +1,157 @@
+{
+ "batch": 36,
+ "entries": [
+  {
+   "id": "proto-language",
+   "title": "原始语",
+   "en": "Proto-language",
+   "category": "writing",
+   "tags": ["历史语言学", "祖语", "重构", "比较法", "语系"],
+   "summary": "原始语指由若干亲属语言经历史比较而推断出的共同祖先语言，通常没有文献记录，只能通过同源词与规律性语音对应加以重构。它并非某种实际使用过的统一方言，而是对祖语系统的理想化拟测，例如原始印欧语。原始语的重建是历史语言学的核心任务，为解释语系内部的分化、音变与借词层次提供比较基准。",
+   "summaryEn": "A proto-language is the reconstructed common ancestor of a group of genetically related languages. Since it is normally unattested, linguists infer its sounds, words and structures from systematic correspondences among its descendants, as with Proto-Indo-European. A proto-language is best understood as an idealised model of a former speech system rather than a homogeneous dialect. It serves as the reference point for explaining diversification, sound change and borrowing within a language family.",
+   "sections": [
+    {
+     "h": "定义与性质",
+     "hEn": "Definition and Status",
+     "p": ["原始语是同一语系中若干语言在分化之前所共享的祖语系统，英语称 proto-language，重构形式通常在词前加星号表示。它一般没有直接文献，原始印欧语、原始汉藏语均属重构产物。原始语并不等于某个真实存在的统一方言，而是对一组相近变体的概括；当语系继续分化时，它同时充当后续语言演变的起点。"],
+     "pEn": ["A proto-language is the ancestral system shared by a set of related languages before they diverged. Because it is usually unattested, reconstructed forms are marked with an asterisk, as in Proto-Indo-European *pətēr. Such an entity is not simply an attested dialect but an abstraction over a cluster of varieties. Once subgroups split, the proto-language functions as the baseline from which later changes are measured."]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods of Reconstruction",
+     "p": ["重构主要依靠比较法：先确认同源词并建立规律性的语音对应，再据此逆推祖语形式。例如梵语 pitā、拉丁语 pater、希腊语 patēr 与英语 father 相互对应，可支持原始印欧语 *pətēr 父亲这一重构。内部重构则利用同一语言内部的不规则形态与音变痕迹来推测更早的阶段。格里姆定律所描述的日耳曼语辅音演变，是检验重构结果的重要证据。"],
+     "pEn": ["Reconstruction relies chiefly on the comparative method: cognates are identified, regular sound correspondences are established, and ancestral forms are inferred from them. Sanskrit pitā, Latin pater, Greek patēr and English father jointly support Proto-Indo-European *pətēr father. Internal reconstruction exploits irregular paradigms within a single language to recover earlier stages. Grimm's Law, which describes the Germanic consonant shift, provides a classic test of reconstructions."]
+    },
+    {
+     "h": "层级与实例",
+     "hEn": "Levels and Examples",
+     "p": ["原始语可以按分化层级层层嵌套。原始印欧语之下有原始日耳曼语、原始罗曼语（即拉丁语）、原始斯拉夫语等。原始日耳曼语 *fōts 与英语 foot、德语 Fuß 相承，其词首 f 来自更早的 *p，可比较拉丁语 pēs。原始印欧语的数词 *ḱm̥tóm 百在拉丁语为 centum、在梵语为 śatam、在阿维斯陀语为 satəm，反映了经典的腭音分化。"],
+     "pEn": ["Proto-languages may be nested at successive levels. Beneath Proto-Indo-European lie Proto-Germanic, Proto-Romance, that is Latin, Proto-Slavic and others. Proto-Germanic *fōts corresponds to English foot and German Fuß, its initial f continuing an earlier *p, as in Latin pēs. The Proto-Indo-European numeral *ḱm̥tóm hundred appears as centum in Latin, śatam in Sanskrit and satəm in Avestan, illustrating the centum-satem division. Such a single ancestral item may diverge widely across the branches."]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticism",
+     "p": ["有学者指出，原始语的重构只是最简解释，未必等于历史上的真实语言，其年代、地域与内部一致性都难以直接验证。语言接触与方言混合可能使单一起源的树形模型过度简化，学界因此提出波浪模型与语言联盟等补充方案。此外，重构成果通常偏重音系与词汇，句法信息相对薄弱，对原始语的语序判断往往依赖类型学推论。"],
+     "pEn": ["Critics note that a reconstruction is only the most economical hypothesis, not necessarily a real historical language; its dating, homeland and internal homogeneity cannot be directly verified. Language contact and dialect mixture may make a strictly tree-like single-origin model too simple, prompting wave models and areal accounts. Reconstruction is also richer in phonology and lexicon than in syntax, so word-order claims often rest on typological inference."]
+    }
+   ],
+   "terms": [
+    {"t": "原始语", "tEn": "proto-language", "d": "若干亲属语言经重构而推定的共同祖语，通常无文献记录。", "dEn": "A reconstructed common ancestor of related languages, normally unattested in documents."},
+    {"t": "重构", "tEn": "reconstruction", "d": "依据同源词与语音对应规律拟测祖语形式的方法与结果。", "dEn": "The method and result of inferring ancestral forms from correspondences among descendants."},
+    {"t": "比较法", "tEn": "comparative method", "d": "通过比较亲属语言的对应形式重建祖语并确定亲属关系的程序。", "dEn": "The procedure of comparing related languages to reconstruct their ancestor and establish kinship."},
+    {"t": "同源词", "tEn": "cognate", "d": "语音形式有规律对应、源自同一祖语词的不同语言词汇。", "dEn": "Words in different languages that descend from one ancestral word with regular correspondence."},
+    {"t": "语音对应", "tEn": "sound correspondence", "d": "不同亲属语言之间音类与音类彼此对应的规律性映射关系，是同源词判定的基础。", "dEn": "A regular mapping between sound classes of different related languages."},
+    {"t": "原始印欧语", "tEn": "Proto-Indo-European", "d": "印欧语系的祖语，是经比较法重构且研究最充分的原始语。", "dEn": "The reconstructed ancestor of Indo-European, the most thoroughly studied proto-language."}
+   ],
+   "related": ["indo-european", "comparative-method", "cognate", "language-family", "sound-change"],
+   "sources": [
+    "Wikipedia, \"Proto-language\", https://en.wikipedia.org/wiki/Proto-language",
+    "Wikipedia, \"Proto-Indo-European language\", https://en.wikipedia.org/wiki/Proto-Indo-European_language",
+    "Wikipedia, \"Comparative method\", https://en.wikipedia.org/wiki/Comparative_method",
+    "Campbell, Historical Linguistics: An Introduction, 2013",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "logogram",
+   "title": "表意文字",
+   "en": "Logogram",
+   "category": "writing",
+   "tags": ["文字学", "汉字", "语素文字", "形声字", "书写系统"],
+   "summary": "表意文字是以单个符号记录词或语素、而不直接记录语音的文字单位，汉字中的日、山、人即为典型。它与音节文字、音素文字相对，但纯粹的表意系统并不存在：多数表意符号兼表音，如汉字形声字的声旁。埃及圣书体、苏美尔楔形文字与汉字都属语素文字系统，一个符号通常对应一个语素并携带意义。",
+   "summaryEn": "A logogram is a written sign standing for a whole word or morpheme rather than for a single sound, as Chinese 日 sun, 山 mountain and 人 person illustrate. Truly pure logographic systems are rare, since most signs also carry phonetic information; Chinese phono-semantic compounds combine a semantic radical with a sound-bearing element. Egyptian hieroglyphs, Sumerian cuneiform and Chinese characters are therefore better described as morphographic or logosyllabic.",
+   "sections": [
+    {
+     "h": "定义与术语",
+     "hEn": "Definition and Terminology",
+     "p": ["表意文字指以符号直接记录语言中词或语素意义的书写单位，也称语素文字。判断标准在于符号所对应的语言单位：对应音素者为音素文字，对应音节者为音节文字，对应语素或词者属表意文字。严格说来，完全不含表音成分的系统几乎不存在，学界因此常用语素文字或意音文字来替换表意文字这一名称，以避免误解。"],
+     "pEn": ["A logogram is a written sign that records a word or morpheme directly rather than a phonological unit. Classification depends on the linguistic unit each sign encodes: phonemes for alphabets, syllables for syllabaries, and morphemes or words for logographies. Because almost no system is entirely free of phonetic cues, scholars often prefer the terms morphographic or logosyllabic in order to avoid the misleading implications of logographic."]
+    },
+    {
+     "h": "典型文字系统",
+     "hEn": "Major Logographic Systems",
+     "p": ["苏美尔楔形文字约在公元前3200年出现，最初用于记账，后发展出表意与表音混合的用法。埃及圣书体兼有表意符号、表音符号与限定符三类。汉字是延续至今规模最大的语素文字，日、月、木、水等独体字由早期图画演变而来，男由田与力会意合成。英语的 & 源自拉丁语 et，也是常见的表意符号。"],
+     "pEn": ["Sumerian cuneiform appeared around 3200 BCE, beginning as accounting signs before developing mixed logographic and syllabic uses. Egyptian hieroglyphs combine logograms, phonograms and determinatives. Chinese characters form the largest surviving morphographic system: simple graphs such as 日 sun, 月 moon, 木 tree and 水 water descend from pictorial signs, while 男 man compounds 田 field with 力 strength. The English ampersand, from Latin et, is a familiar modern logogram."]
+    },
+    {
+     "h": "结构原则",
+     "hEn": "Structural Principles",
+     "p": ["汉字中有大量形声字，由表示意义类别的形旁与提示读音的声旁组成，如湖从水、胡声，铜从金、同声。传统的六书区分象形、指事、会意、形声、转注与假借，说明表意系统内部并存多种造字机制。假借尤其重要：它借用现成符号记录同音词，使表意文字获得表音功能，从而形成意音结合的文字体系。"],
+     "pEn": ["Many Chinese characters are phono-semantic compounds, pairing a semantic radical with a sound-bearing component: 湖 lake takes the water radical with 胡 as phonetic, and 铜 copper takes the metal radical with 同. The traditional six categories distinguish pictographs, simple indicatives, compounds, phono-semantic compounds, derivative cognates and loan characters. Loan use is crucial, since it recycles an existing sign for a homophone and gives a morphographic script a phonetic dimension."]
+    },
+    {
+     "h": "争议与比较",
+     "hEn": "Debates and Comparisons",
+     "p": ["把文字简单分为表意、音节与音素三类受到批评，因为任何成熟的文字都同时使用多种记音策略。有研究指出，汉字阅读同样依赖语音激活，学习者需要建立形、音、义三方面的联系。表意文字常被认为数量庞大、学习困难，但现代常用汉字约三千五百个即可覆盖绝大多数文本，这一印象需要具体数据加以修正。"],
+     "pEn": ["Sharp divisions between logographic, syllabic and alphabetic scripts have been criticised, since every mature writing system mixes strategies. Research on Chinese reading shows that phonological activation occurs even for morphographic characters, and learners must link form, sound and meaning. Logographies are often described as too large and hard to learn, yet roughly 3,500 common characters cover the great majority of running text, which qualifies that impression."]
+    }
+   ],
+   "terms": [
+    {"t": "表意文字", "tEn": "logogram", "d": "以单个符号直接记录词或语素、而不直接记录音素的文字单位。", "dEn": "A written sign recording a word or morpheme rather than a single sound."},
+    {"t": "语素文字", "tEn": "morphographic writing", "d": "符号主要对应语素的文字系统，常用以替代表意文字之名。", "dEn": "A script whose signs primarily encode morphemes, often preferred over logographic."},
+    {"t": "形声字", "tEn": "phono-semantic compound", "d": "由表示意义类别的形旁与提示读音的声旁组合而成的汉字。", "dEn": "A Chinese character combining a semantic radical with a phonetic component."},
+    {"t": "六书", "tEn": "six categories of Chinese characters", "d": "传统分析汉字构造的六种类型，含象形、指事、会意、形声等。", "dEn": "The traditional sixfold classification of the ways in which Chinese characters are formed."},
+    {"t": "限定符", "tEn": "determinative", "d": "附加于词后以提示其语义类别的符号，在埃及圣书体中尤为常用。", "dEn": "A sign indicating the semantic class of a word, common in Egyptian hieroglyphs."},
+    {"t": "假借", "tEn": "phonetic loan", "d": "不另造新字而借用现成同音字的字形来记录新词的做法。", "dEn": "Reusing an existing character for a homophonous word instead of coining a new sign."}
+   ],
+   "related": ["chinese-characters", "writing-system", "syllabary", "latin-alphabet"],
+   "sources": [
+    "Wikipedia, \"Logogram\", https://en.wikipedia.org/wiki/Logogram",
+    "Wikipedia, \"Chinese characters\", https://en.wikipedia.org/wiki/Chinese_characters",
+    "Wikipedia, \"Egyptian hieroglyphs\", https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+    "裘锡圭《文字学概要》，商务印书馆，1988"
+   ]
+  },
+  {
+   "id": "syllabary",
+   "title": "音节文字",
+   "en": "Syllabary",
+   "category": "writing",
+   "tags": ["文字学", "假名", "音节", "线形文字B", "元音附标文字"],
+   "summary": "音节文字是以单个符号记录一个完整音节的文字系统，日语假名是其典型代表，如か、き、く、け、こ分别表示 ka、ki、ku、ke、ko。与音素文字不同，音节文字的符号数目通常在一百上下，切罗基音节文字有八十五个符号。若辅音符号自带默认元音且元音可另行标记，则称为元音附标文字，如天城文，二者应加以区分。",
+   "summaryEn": "A syllabary is a writing system in which each sign represents a whole syllable rather than a single phoneme. Japanese kana are the standard example: か, き, く, け and こ stand for ka, ki, ku, ke and ko. Syllabaries typically contain one or two hundred signs, such as the eighty-five signs of the Cherokee syllabary. Systems in which consonant signs carry an inherent vowel that can be modified, such as Devanagari, are classified separately as abugidas.",
+   "sections": [
+    {
+     "h": "定义与分类",
+     "hEn": "Definition and Classification",
+     "p": ["音节文字指符号与音节的对应关系构成书写基本原则的文字系统。它与音素文字的关键差别在于切分单位：英语 cat 用 c、a、t 三个字母记录音素，而日语か用一个假名记录整个音节 ka。现代日语的ん是唯一可独立成音节的鼻音假名，其音值视后接音而定，可读作 [n]、[m] 或 [ŋ]。"],
+     "pEn": ["In a syllabary the basic correspondence holds between a sign and a syllable. The difference from an alphabet lies in the unit of segmentation: English cat spells phonemes with c, a and t, whereas Japanese か writes the whole syllable ka with a single kana. Modern Japanese ん is the only kana that may stand alone as a moraic nasal, realised as [n], [m] or [ŋ] according to the following sound."]
+    },
+    {
+     "h": "实例",
+     "hEn": "Examples",
+     "p": ["日语假名分平假名与片假名两套，各有约四十六个基本符号，配合浊音符号可表示 ga、za、da 等音节。迈锡尼希腊语的线形文字B是早期音节文字，pa-te 记录 patēr 父亲，ko-no-so 记录地名 Knossos。塞阔雅于1821年为切罗基语创制音节文字，共八十五个符号，其迅速普及显示了音节文字与口语音节结构贴合时的传播优势。"],
+     "pEn": ["Japanese kana come in two sets, hiragana and katakana, each with about forty-six basic signs; a voicing mark yields syllables such as ga, za and da. Mycenaean Greek Linear B is an early syllabary in which pa-te spells patēr father and ko-no-so spells the place name Knossos. Sequoyah created the Cherokee syllabary in 1821 with eighty-five signs, and its rapid adoption shows how well such a script can fit a language's syllable structure."]
+    },
+    {
+     "h": "与相关类型的关系",
+     "hEn": "Relation to Other Script Types",
+     "p": ["元音附标文字如天城文、藏文，其基本符号表示辅音并自带默认元音，改变元音须附加符号，因此介于音节文字与音素文字之间。辅音音素文字如阿拉伯文、希伯来文只写辅音，元音由读者补足。可见文字类型的界线是渐变的，把日语假名与天城文并举，可以说明音节级与辅音级记音策略的差异。"],
+     "pEn": ["Abugidas such as Devanagari and Tibetan write consonants with an inherent vowel that is altered by added marks, placing them between syllabaries and alphabets. Abjads such as Arabic and Hebrew record consonants only, leaving vowels to the reader. The boundaries between script types are therefore gradient, and comparing kana with Devanagari clarifies the difference between syllable-level and consonant-level representation. The two types therefore differ in how much phonological detail the basic sign encodes."]
+    },
+    {
+     "h": "发展简史",
+     "hEn": "Historical Development",
+     "p": ["音节文字多见于音节结构以开音节为主的语言。假名由汉字演变而来：平假名源于整字草写，片假名取楷书偏旁。线形文字B约使用于公元前十五至前十二世纪，随迈锡尼文明衰落后失传，二十世纪由文特里斯解读成功。西非的瓦伊文字与北美切罗基文字则是在十九世纪前后独立创制或受外来文字启发而成。"],
+     "pEn": ["Syllabaries flourish in languages with predominantly open syllables. Kana developed from Chinese characters: hiragana from cursive whole graphs and katakana from fragments of regular script. Linear B was used from roughly the fifteenth to the twelfth century BCE, was lost with Mycenaean civilisation, and was deciphered by Michael Ventris in the twentieth century. The Vai script of West Africa and the Cherokee syllabary were created in the nineteenth century."]
+    }
+   ],
+   "terms": [
+    {"t": "音节文字", "tEn": "syllabary", "d": "以单个符号记录完整音节、而非记录单个音素的文字系统。", "dEn": "A writing system whose signs represent whole syllables rather than single phonemes."},
+    {"t": "假名", "tEn": "kana", "d": "日语所用的音节文字符号，分为平假名与片假名两套系统。", "dEn": "The Japanese syllabic signs, comprising the hiragana and katakana sets."},
+    {"t": "元音附标文字", "tEn": "abugida", "d": "辅音符号自带默认元音、并可加附加符号改变元音的文字类型。", "dEn": "A script whose consonant signs carry an inherent vowel that marks can change."},
+    {"t": "辅音音素文字", "tEn": "abjad", "d": "只记录辅音而把元音留给读者补足的文字系统，如阿拉伯文。", "dEn": "A script recording consonants only, with vowels supplied by the reader."},
+    {"t": "线形文字B", "tEn": "Linear B", "d": "记录迈锡尼希腊语的早期音节文字，二十世纪由文特里斯解读。", "dEn": "An early syllabary used for Mycenaean Greek, deciphered in the twentieth century."},
+    {"t": "莫拉", "tEn": "mora", "d": "日语等语言中计算音长的单位，ん与促音各占一个莫拉。", "dEn": "A unit of timing in Japanese; the nasal ん and geminate each count as one."}
+   ],
+   "related": ["writing-system", "logogram", "latin-alphabet", "chinese-characters", "syllable"],
+   "sources": [
+    "Wikipedia, \"Syllabary\", https://en.wikipedia.org/wiki/Syllabary",
+    "Wikipedia, \"Kana\", https://en.wikipedia.org/wiki/Kana",
+    "Wikipedia, \"Linear B\", https://en.wikipedia.org/wiki/Linear_B",
+    "Daniels & Bright, The World's Writing Systems, 1996",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+# 6.9 Embedded content questions and relative clauses
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1503#oembed-1
+In looking at simple and complex clauses in English, so far we have looked at:
+- Statements Main clauses
+- Embedded clauses (complementizer = that or )
+Yes-No Questions
+- Main clauses (Subject-Auxiliary Inversion)
+- Embedded clauses (complementizer = if or whether)
+Content Questions
+- Main clauses (Subject-Auxiliary Inversion and Question Word Fronting)
+
+All that remains to complete this picture is to look at the profile of Content Questions in embedded clauses.
+
+## Embedded content questions in English
+
+It turns out that any verb that can embed a Yes-No question can also embed a content question. Let’s look at some examples, with the verbs know, ask, and wonder.
+
+[表格]
+| | | (1) | | | | | know | | | | | | | a. | | I know [ | CP | if squirrels have hidden nuts ]. | | (embedded Yes-No question) | | | | | | b. | | I know [ | CP | what squirrels have hidden ]. | | (embedded content question) | | |
+
+[表格]
+| | | (2) | | | | | ask | | | | | | | a. | | They asked [ | CP | if the movie ends at 8 p.m. ]. | | (embedded Yes-No question) | | | | | | b. | | They asked [ | CP | when the movie ends ]. | | (embedded content question) | | |
+
+[表格]
+| | | (3) | | | | | wonder | | | | | | | a. | | We wondered [ | CP | if someone had baked cookies ]. | | (embedded Yes-No question) | | | | | | b. | | We wondered [ | CP | what someone had baked ]. | | (embedded content question) | | |
+
+If we looked kept looking at all the other question-embedding verbs in English, we would find the same thing: any verb that can embed a Yes-No question as in the (a) examples can also embed a content question as in the (b) examples.
+What else is going on in the (b) examples? First of all, we do not see the complementizer if (or whether) that is found in embedded Yes-No questions—and it’s ungrammatical to include it, or any other complementizer, no matter what position we try to put them in:
+
+[表格]
+| | | (4) | | a. | | *I know [ | CP | what if squirrels have hidden ]. | | | | | | b. | | *They asked [ | CP | if when the movie ends ]. | | | | | | c. | | *We wondered [ | CP | what that someone had baked ]. | | |
+
+From the ungrammaticality of all the sentences in (4), we can conclude that it’s impossible to include a complementizer in embedded content questions in English—or at least, we can conclude that it’s impossible in my variety of English, and very likely in yours as well.
+What about Subject-Auxiliary Inversion? There’s no inversion in I know what squirrels have hidden.—the auxiliary have stays after the subject squirrels—and if we try to add Subject-Auxiliary Inversion this sentence would become ungrammatical:
+
+[表格]
+| | | (5) | | | | *I know [ | CP | what have squirrels hidden ]. | | |
+
+So it looks like embedded content questions—at least for most English speakers in Canada—are like main clause content questions in putting the content question word at the front of the clause, but unlike main clause content questions in that they don’t do Subject-Auxiliary Inversion.
+There are some varieties of English where sentences like (5), with Subject-Auxiliary Inversion in embedded clauses, are grammatical! This has been described for some varieties spoken in Belfast, Ireland, for example, as described by Henry (1995). Do you find examples like (5) grammatical, or have you ever heard someone use them in English?
+
+## Relative clauses in English
+
+So far we’ve focused on complex sentences where a clause appears as the complement of an embedding verb like say, know, or wonder. But there are other ways for a clause to appear inside another clause. In (6), for example, we see that clauses can appear as the complements of nouns, especially when those nouns are derived from clause-embedding verbs.
+
+[表格]
+| | | (6) | | a. | | [ | NP | The knowledge [ | CP | that squirrels hide nuts ] ] can help explain how they survive the winter. | | | | | | b. | | I’ve often heard [ | NP | the saying [ | CP | that actions speak louder than words ] ]. | | | | | | c. | | She was late because of [ | NP | her belief [ | CP | that the movie started at 9 p.m. ] ]. | | |
+
+When a statement is the complement of a noun, it looks just like an embedded statement. But when a question is the complement of a noun, it has to be introduced by the preposition of, just like noun phrase objects of nouns have to be introduced by a preposition.
+So for example, just like the verb know, the noun knowledge can appear with a statement as its complement, as in (6a), or with a question or noun phrase. But as you see in (7), the question and the noun phrase have to be introduced by of. If you try to take the of out, the result is ungrammatical.
+
+[表格]
+| | | (7) | | a. | | [ | NP | | | The knowledge [ | PP | of [ | CP | what squirrels hide ] ] ] can help explain how they survive the winter. | | | | | | b. | | *[ | NP | | | The knowledge [ | CP | what squirrels hide ] ] can help explain how they survive the winter. | | | | | | c. | | [ | NP | Their knowledge [ | PP | of/about [ | NP | squirrel behaviour ] ] ] is impressive. | | | | | | d. | | *[ | NP | Their knowledge [ | NP | squirrel behaviour ] ] is impressive. | | |
+
+Can you think of other nouns that can take questions as complements? Try to come up with question-embedding nouns that aren’t derived from verbs. If you know a language other than English, see if you can figure out what clausal complements of nouns look like in that language; ask yourself if they look like clauses embedded by verbs, or if they are different in some way. Do they look like noun phrase complements of nouns?
+Another type of clause that occurs inside noun phrases is a relative clause. Relative clauses are clauses that modify a noun, instead of occurring as its complement. All the sentences in (7) contain relative clauses, which are underlined and in square brackets.
+
+[表格]
+| | | (7) | | a. | | [ | NP | The cookies [ | | (that) my brother baked | ] | ] turned out well. | | | | | | b. | | We talked to [ | NP | someone [ | | who keeps squirrels as pets | ] | ]. | | | | | | c. | | [ | NP | The park [ | where | | | she walked | ] | ] was very beautiful. | | |
+
+Notice that these relative clauses can be introduced by an optional compelementizer that, like embedded statements, or by who, which looks like a content question word. Relative clauses in English can also be introduced by which, as in both the sentence just before this one and the last sentence in the previous paragraph. In traditional grammar who and which would be called relative pronouns; we’ll use that terminology here.
+In English most content question words can also be used as relative pronouns; the exceptions in my English are how and what, but many other varieties of English are more consistent and do also use these as relative pronouns. In other languages, though, you find specific complementizers or relative pronouns that only appear in relative clauses. In Levantine Arabic, for example, the complementizer illi only occurs in relative clauses; in French, lequel, laquelle, lesquels, and lesquelles only occur as relative pronouns, never as content question words (though que and qui occur in both relative clauses and other types of embedded clauses).
+
+that vs which
+Some prescriptive guides to English grammar insist on a distinction between that and which: that is supposed to be used for restrictive relative clauses (relative clauses that narrow down or specify the thing or person you’re talking about), while which is used for nonrestrictive relatives (relative clauses that just add extra information). Though that’s how that and which are used in the examples in this section, in fact most English speakers find both that and which grammatical in all relative clauses (though one or the other might sound better in specific examples). From the perspective of linguistics, that’s what matters—we aren’t interested in what prescriptive grammar says language users “should” do, which is often just a way to reinforce existing social hierarchies, but instead in figuring out the complexities of what people actually do!
+How can you tell a relative clause like in (7) apart from a clausal complement of a noun like in (6)? One difference is the appearance of relative pronouns (who, where, when, why, which), which never occur in the (non-question) complements of nouns. Another difference is that like content questions, relative clauses always have a gap in them. Just like with content questions, the gap in a relative clause can correspond to a subject, an object, or another position in the clause. Unlike content questions, though, the gap isn’t something you’re asking about, it’s something that can be filled by the noun you’re modifying. So the noun phrases in (7) could be (awkwardly) rephrased as “someone such that they keep squirrels as pets“, “the cookies (such that) my brother made those cookies“, “the park such that she walked in the park“, with the phrase filling the gap underlined.
+Because they behave in a parallel way, we can give a parallel analysis of relative clauses and content questions: just as content questions in English require Content Word Fronting (in both main and embedded clauses), relative clauses require what we can call Relative Fronting: Relative Fronting A relative pronoun must appear at the beginning of a relative clause.
+One difference between relative pronouns and content question words in English is that relative pronouns are optional: in both (7a) and (7c) there was no pronounced relative pronoun, and since that could also be dropped it’s possible for nothing at all to introduce an English relative clause. One way to account for this is to say that just as English has two non-question complementizers, that and ∅ (which both occur in embedded statements and in relative clauses), English has a silent relative pronoun ∅relative.
+In example (4) we saw that my English does not allow overt complementizers in embedded content questions. In many varieties of English, including mine, it is also not possible for relative clauses to have both a pronounced relative pronoun and a pronounced complementizer. In other words, relative clauses like those in (8) are impossible for most English speakers.
+
+[表格]
+| | | (8) | | a. | | *[ | NP | The cookies [ which that | my brother baked ] | ] turned out well. | | | | | | b. | | *We talked to [ | NP | someone [ | who that keeps squirrels as pets ] | ]. | | | | | | c. | | *[ | NP | The park [ where that | she walked ] | ] was very beautiful. | | |
+
+Looking at both (8) and (4), we can make a more general statement about the relevant varieties of English: it is ungrammatical to both move something to the very beginning of a clause (whether via Question Word Fronting or Relative Fronting) and have an overt complementizer in the same clause. (In the terms to be introduced in 6.19 Trees: Movement, you can’t both move something to Spec,CP and have an overt head of that CP.)
+A special type of relative clause stands on its own, without modifying a noun. These are called free relative clauses, and in English they are usually introduced by a relative pronoun + ever (whoever, whatever, wherever, whenever, however), though in some circumstances you find them without the ever, as in (9c). Free relative clauses occur in all the same positions that regular noun phrases do.
+
+[表格]
+| | | (9) | | a. | | The irate guest complained about [ | whoever was at the front desk | ]. | | | | | | b. | | [ | | | Wherever you want to go | ] would be fine with me. | | | | | | c. | | I’ll have [ | | | what he’s having | ]. | | |
+
+Relative clauses have been the focus of a lot of research in linguistics, not only in syntax but also in other areas. Chapter 13 looks at some of the research on relative clauses in psycholinguistics research.
+
+## Summary
+
+In this section we’ve finished our survey of different types of clauses, introduced by different types of complementizers, by looking at embedded content questions and relative clauses. Like main clause content questions, these both involve fronting a content question word (or a relative pronoun) from what we can think of as its “original” position. But unlike main clause content questions, neither of them involves Subject-Auxiliary Inversion.
+Having looked at the very edge of the clause, the domain of complementizers, in the next two sections we’ll look back inside the clause, at the patterns of arguments different predicates select, and how those patterns can be adjusted by syntactic constructions like causatives and passives.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.8 Main clause content questions and the next section is 6.19 Trees: Movement.
+
+## References
+
+Henry, Alison. 1995. Belfast English and standard English : dialect variation and parameter setting. Oxford University Press.

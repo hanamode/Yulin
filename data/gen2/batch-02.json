@@ -1,0 +1,154 @@
+{
+ "batch": 2,
+ "entries": [
+  {
+   "id": "philology",
+   "title": "语文学",
+   "en": "Philology",
+   "category": "branches",
+   "tags": ["文献研究", "文本校勘", "历史语法", "词源学", "人文学科"],
+   "summary": "语文学是以文献为对象的传统人文学科，通过对古代文本的校勘、注释、考订与解读，重建语言的历史面貌与文本的原始形态。它关注书面文献的年代、作者、真伪与传承，并由此发展出文本批评、历史语法与词源研究等方法。19世纪欧洲语文学与印欧语比较研究相互促进，为现代历史语言学的诞生奠定基础。现代语言学兴起后，语文学仍以文献实证为特色，与语言学保持互补关系。",
+   "summaryEn": "Philology is the traditional humanistic discipline that studies texts and the languages preserved in them. It establishes and interprets written records through textual criticism, emendation, commentary and dating, and reconstructs the history of languages from documentary evidence. In nineteenth-century Europe, philology advanced alongside Indo-European comparative studies and provided much of the groundwork for modern historical linguistics. Although linguistics later became a more autonomous and theory-driven science, philology survives as the documentary, evidence-based study of written language and its transmission.",
+   "sections": [
+     {
+      "h": "定义与研究对象",
+      "hEn": "Definition and Object of Study",
+      "p": ["语文学一词源自希腊语 philologia，意为对学问的热爱。它最初指对古代文献的全面研究，包括语言、文学、历史、哲学与宗教。就语言学意义而言，语文学以书面文本为主要材料，通过校勘异文、考订年代与作者、注释疑难词句，还原文本原貌并解释其语言。与以口语为优先对象的现代语言学不同，语文学的核心证据是传世写本、碑铭与早期印本。"],
+      "pEn": ["The term philology derives from Greek philologia, the love of learning, and originally covered the comprehensive study of ancient texts, including their language, literature, history and religion. In its linguistic sense, philology works from written texts: it collates variant readings, establishes date and authorship, annotates difficult passages, and reconstructs both the original text and its language. Unlike modern linguistics, which often privileges spoken language, philology relies mainly on manuscripts, inscriptions and early printed editions."]
+     },
+     {
+      "h": "研究内容与方法",
+      "hEn": "Research Content and Methods",
+      "p": ["语文学的工作包括文本批评、校勘与注释，也涉及历史语法、词源学和文字学。研究者比勘不同写本，判断异文来源，区分抄写讹误与真实变体；再依据语音对应与形态证据追溯词形演变。例如英语 father 与拉丁语 pater、梵语 pitā 同源，均来自原始印欧语的 *ph₂tḗr，此类对应关系正是语文学与比较研究共同的证据。"],
+      "pEn": ["Philological work combines textual criticism, collation and commentary with historical grammar, etymology and palaeography. Scholars compare manuscripts, judge the provenance of variant readings, and separate scribal errors from genuine variants; they then trace word forms through sound correspondences and morphological evidence. English father, Latin pater and Sanskrit pitā, for instance, are cognates reflecting Proto-Indo-European *ph₂tḗr, and such correspondences formed the shared evidence of philology and comparative grammar."]
+     },
+     {
+      "h": "发展简史",
+      "hEn": "Historical Development",
+      "p": ["语文学在古希腊亚历山大里亚学派已具规模，学者整理荷马史诗并制定校勘规则。中国自汉代起形成训诂、音韵与文字之学，清代乾嘉学派达到高峰。18至19世纪，欧洲学者在整理梵语、希腊语与拉丁语文献时发现系统对应，催生比较语法，格林兄弟与葆朴等人的工作使语文学与历史语言学一度几乎同义。"],
+      "pEn": ["Philology took shape in the Alexandrian school of Hellenistic Greece, where scholars edited Homer and devised rules of textual criticism. In China, the exegetical, phonological and graphological traditions flourished from the Han dynasty onward and peaked in the Qianjia scholarship of the Qing. In eighteenth- and nineteenth-century Europe, the systematic correspondences found while editing Sanskrit, Greek and Latin texts gave rise to comparative grammar, and the work of scholars such as Jacob Grimm and Franz Bopp made philology nearly synonymous with historical linguistics."]
+     },
+     {
+      "h": "与现代语言学的关系及争议",
+      "hEn": "Relation to Modern Linguistics and Criticism",
+      "p": ["索绪尔区分共时与历时研究，把语言学从文献学传统中独立出来，此后语文学常被视为偏重文本而缺乏理论概括。批评者指出，语文学以书面语和标准语为中心，容易忽略口语与方言，也带有明显的精英取向。另一方面，语文学提供的原始材料与考订成果，仍是历史语言学、文字学与古文献研究不可替代的基础。"],
+      "pEn": ["Saussure's distinction between synchronic and diachronic study helped establish linguistics as an autonomous science, and philology was thereafter often portrayed as text-bound and theoretically modest. Critics note that it concentrates on written and standard languages, tends to neglect speech and dialects, and carries an elitist bent. Even so, the primary materials and editorial results it produces remain an indispensable foundation for historical linguistics, graphemics and the study of older texts."]
+     }
+   ],
+   "terms": [
+    {"t": "文本批评", "tEn": "textual criticism", "d": "通过比勘异文判定文本原始形态的方法。", "dEn": "The method of comparing variants in order to reconstruct a text's original form."},
+    {"t": "校勘", "tEn": "collation", "d": "比对不同写本以记录并评判异文差异的工作。", "dEn": "The comparison of manuscripts to record and evaluate variant readings."},
+    {"t": "词源学", "tEn": "etymology", "d": "研究词的来源及其历史演变的分支。", "dEn": "The study of the origin and historical development of words."},
+    {"t": "比较语法", "tEn": "comparative grammar", "d": "依据语言间的系统对应重建共同祖语。", "dEn": "The reconstruction of a common ancestor from systematic correspondences among languages."},
+    {"t": "训诂", "tEn": "exegesis", "d": "中国传统解释古书词句意义的学问。", "dEn": "The Chinese tradition of explaining the wording and meaning of ancient texts."},
+    {"t": "写本", "tEn": "manuscript", "d": "手写传抄的文献载体，是校勘的主要依据。", "dEn": "A hand-written copy of a text, the chief evidence for collation."}
+   ],
+   "related": ["historical-linguistics", "comparative-method", "saussure", "indo-european", "synchronic-diachronic"],
+   "sources": [
+    "Wikipedia, \"Philology\", https://en.wikipedia.org/wiki/Philology",
+    "Saussure, Cours de linguistique générale, 1916",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "semiotics",
+   "title": "符号学",
+   "en": "Semiotics",
+   "category": "branches",
+   "tags": ["符号", "能指与所指", "皮尔士", "索绪尔", "意义分析"],
+   "summary": "符号学是研究符号、符号系统及其意义的学科，考察符号如何指代表达、如何被解释以及符号之间如何组合。索绪尔提出能指与所指的二元模式，皮尔士建立图像、指示与象征的三分法，莫里斯区分句法、语义与语用三个层面。符号学与语言学关系密切，却把语言视为更普遍的符号现象中的一类，其方法被广泛用于文学、影视、广告、建筑与文化分析。",
+   "summaryEn": "Semiotics is the study of signs, sign systems and meaning: how signs stand for something, how they are interpreted, and how they combine with one another. Saussure proposed a two-part model of signifier and signified, Peirce distinguished icon, index and symbol, and Morris separated syntax, semantics and pragmatics. Closely tied to linguistics, semiotics treats language as one sign system among many, and its methods are applied to literature, film, advertising, architecture and culture at large.",
+   "sections": [
+     {
+      "h": "定义与基本概念",
+      "hEn": "Definition and Basic Concepts",
+      "p": ["符号学源自希腊语 sēmeion，意为记号，研究符号的构成、运作与解释。符号通常被理解为以一物代指另一物的关系，须由三方面构成：可感知的形式、所传达的内容，以及使用者的解释。索绪尔把符号分为能指与所指，强调二者联结的任意性；皮尔士则把符号过程视为符号、对象与解释项的三元关系，认为解释本身又会产生新的符号。"],
+      "pEn": ["Semiotics, from Greek sēmeion meaning sign, studies how signs are constituted, how they work and how they are interpreted. A sign is usually defined as something that stands for something else, and it involves a perceptible form, a conveyed content and an interpreter. Saussure divided the sign into signifier and signified, stressing the arbitrariness of their link, whereas Peirce treated semiosis as a triadic relation among sign, object and interpretant, in which every interpretation produces a further sign."]
+     },
+     {
+      "h": "主要理论与分类",
+      "hEn": "Main Theories and Classifications",
+      "p": ["皮尔士按符号与对象的关系分出三类：图像符号以相似性为基础，如肖像与地图；指示符号以因果或邻接关系为基础，如烟指示火、箭头指示方向；象征符号以约定俗成为基础，如汉语的书和英语的 book。莫里斯把符号学分为句法、语义与语用三支，分别处理符号之间的组合、符号与所指的关系以及符号与使用者的关系。"],
+      "pEn": ["Peirce distinguished three kinds of sign by their relation to the object: icons, based on resemblance, such as a portrait or a map; indices, based on causal or contiguous connection, such as smoke indicating fire or an arrow indicating direction; and symbols, based on convention, such as Chinese shū or English book. Morris divided semiotics into syntax, semantics and pragmatics, dealing respectively with combinations among signs, signs and their referents, and signs and their users."]
+     },
+     {
+      "h": "示例与分析方法",
+      "hEn": "Examples and Analytical Method",
+      "p": ["符号学分析通常把日常现象拆解为相互对立的符号项。以交通信号为例，红灯与绿灯的意义来自同一系统内的对立，而非颜色本身；在语言中，汉语普通话的 /p/ 与 /pʰ/ 构成爸 [pa⁵¹] 与怕 [pʰa⁵¹] 的对立，同样说明价值由系统差异决定。罗兰·巴特进一步分析神话，指出能指与所指结合后可以整体再充当新的能指，从而承载文化意涵。"],
+      "pEn": ["Semiotic analysis often decomposes everyday phenomena into opposed signifying items. In traffic lights, the meaning of red and green comes from a contrast within one system rather than from the colours themselves; in language, the contrast between Mandarin /p/ and /pʰ/ in 爸 [pa⁵¹] father and 怕 [pʰa⁵¹] to fear likewise shows that value depends on systemic difference. Roland Barthes extended this to myth, showing how a completed sign can serve as a new signifier carrying cultural connotations."]
+     },
+     {
+      "h": "与语言学的关系",
+      "hEn": "Relation to Linguistics",
+      "p": ["索绪尔把符号学设想为一门更一般的科学，语言学只是其中一部分；雅各布森与列维-斯特劳斯则把音位对立与二元对立的分析方法推向人类学与诗学。今天符号学与语用学、话语分析、社会语言学多有交叉，指示语研究就同时属于两门学科。批评者认为，符号学有时过于依赖直觉式的对立分析，缺乏可重复的验证程序。"],
+      "pEn": ["Saussure envisaged semiotics as a general science of which linguistics would be one part, while Jakobson and Lévi-Strauss carried phonological and binary oppositional methods into anthropology and poetics. Today semiotics overlaps with pragmatics, discourse analysis and sociolinguistics; deixis, for instance, belongs to both fields. Critics argue that semiotic analysis sometimes relies on intuitive oppositions and lacks replicable procedures of verification."]
+     }
+   ],
+   "terms": [
+    {"t": "符号", "tEn": "sign", "d": "以可感知形式指代某物的基本意义单位。", "dEn": "A basic unit that stands for something else through a perceptible form."},
+    {"t": "能指", "tEn": "signifier", "d": "符号中可感知的音响形象或书写形式。", "dEn": "The perceptible sound image or written form of a sign."},
+    {"t": "所指", "tEn": "signified", "d": "符号所表达的概念内容。", "dEn": "The conceptual content expressed by a sign."},
+    {"t": "符号过程", "tEn": "semiosis", "d": "符号、对象与解释项相互作用而产生意义的过程。", "dEn": "The process in which sign, object and interpretant interact to produce meaning."},
+    {"t": "图像符号", "tEn": "icon", "d": "因与对象相似而表意的符号。", "dEn": "A sign that signifies by resembling its object."},
+    {"t": "指示符号", "tEn": "index", "d": "因与对象有因果或邻接关系而表意的符号。", "dEn": "A sign that signifies through a causal or contiguous link to its object."},
+    {"t": "象征符号", "tEn": "symbol", "d": "依靠社会约定与对象建立联系的符号。", "dEn": "A sign linked to its object by social convention."}
+   ],
+   "related": ["saussure", "signifier-signified", "iconicity", "arbitrariness", "structuralism"],
+   "sources": [
+    "Wikipedia, \"Semiotics\", https://en.wikipedia.org/wiki/Semiotics",
+    "Saussure, Cours de linguistique générale, 1916",
+    "Peirce, Collected Papers of Charles Sanders Peirce, 1931–1958"
+   ]
+  },
+  {
+   "id": "ethnolinguistics",
+   "title": "民族语言学",
+   "en": "Ethnolinguistics",
+   "category": "branches",
+   "tags": ["语言与文化", "语言相对论", "亲属称谓", "田野调查", "语言人类学"],
+   "summary": "民族语言学是研究语言与民族、文化及社会认知之间关系的语言学分支。它关注词汇如何反映生态环境与生活方式，语法范畴如何编码社会关系与认知区分，以及语言使用如何体现民族认同。博厄斯、萨丕尔与沃尔夫对美洲原住民语言的调查奠定了该领域的基础，并引出语言相对论之争。今天的民族语言学与语言人类学、认知语言学及濒危语言研究密切结合。",
+   "summaryEn": "Ethnolinguistics examines the relations between language, ethnicity, culture and social cognition. It studies how vocabulary reflects ecology and ways of life, how grammatical categories encode social relations and conceptual distinctions, and how language use expresses ethnic identity. The fieldwork of Boas, Sapir and Whorf on Native American languages founded the field and gave rise to the debate over linguistic relativity. Today it is closely linked to linguistic anthropology, cognitive linguistics and work on endangered languages.",
+   "sections": [
+     {
+      "h": "定义与研究范围",
+      "hEn": "Definition and Scope",
+      "p": ["民族语言学介于语言学与人类学之间，研究语言与民族文化、社会结构和认知方式的关系。它的材料多来自田野调查，关注亲属称谓、动植名称、颜色词、方位表达与礼仪用语等具体词汇领域，也关注语法中反映社会身份的范畴，如敬语、人称与数。其目标不止于描写单一语言的结构，更在于解释语言如何参与文化的建构与传承。"],
+      "pEn": ["Ethnolinguistics lies between linguistics and anthropology, studying how language relates to culture, social structure and cognition. Its data come largely from fieldwork and concern such lexical domains as kinship terms, plant and animal names, colour words, spatial expressions and ritual language, as well as grammatical categories that encode social identity, such as honorifics, person and number. Its aim is not merely to describe one language but to explain how language participates in building and transmitting culture."]
+     },
+     {
+      "h": "基本概念与经典研究",
+      "hEn": "Basic Concepts and Classic Studies",
+      "p": ["萨丕尔与沃尔夫提出，语言结构会影响说话者观察和切分世界的方式，即语言相对论。沃尔夫曾指出霍皮语的时间表达与英语不同，但后来的研究认为其论证有所夸大。另一个经典议题是颜色词：基本颜色词的演化被认为大致遵循由黑、白、红到绿、黄、蓝的先后顺序，反映出认知与文化的共同作用。"],
+      "pEn": ["Sapir and Whorf argued that the structure of a language shapes how its speakers observe and partition the world, a view known as linguistic relativity. Whorf claimed that Hopi expresses time differently from English, though later research judged his argument overstated. Another classic issue is colour terminology: the evolution of basic colour terms is claimed to follow an ordered sequence from black, white and red toward green, yellow and blue, reflecting the interplay of cognition and culture."]
+     },
+     {
+      "h": "示例与研究方法",
+      "hEn": "Examples and Research Methods",
+      "p": ["亲属称谓是常被引用的例子。英语用 uncle 统称父母辈的男性亲属，而汉语区分伯父、叔父、舅父、姑父、姨父，编码了父系与母系、长幼与姻亲的不同区分。在语法层面，日语敬语通过动词形式标示说话人与听话人或第三方的社会关系，如用いらっしゃる尊称他人的来去。研究者主要依靠参与观察、访谈与语言记录获取材料。"],
+      "pEn": ["Kinship terminology is a standard example. English uses uncle for male relatives of the parents' generation on either side, whereas Chinese distinguishes 伯父, 叔父, 舅父, 姑父 and 姨父, encoding lineality, relative age and affinal ties. At the grammatical level, Japanese honorifics mark the social relation between speaker, addressee and third party through verb forms, as in いらっしゃる for respectfully referring to someone's coming or going. Researchers rely chiefly on participant observation, interviews and language documentation."]
+     },
+     {
+      "h": "争议与发展",
+      "hEn": "Debates and Development",
+      "p": ["对语言相对论的评价长期分歧：强式观点认为语言决定思维，多被否定；弱式观点认为语言影响注意与记忆，得到部分实验支持，但效应通常不大。也有人批评民族语言学早期的语言、文化、民族三者对应过于简单，忽视了多语现象、语言接触与人口流动。当代研究更强调语言意识形态、语言权力关系与濒危语言的记录保存。"],
+      "pEn": ["Assessments of linguistic relativity remain divided. The strong claim that language determines thought is largely rejected, while the weak claim that it biases attention and memory receives some experimental support, with modest effects. Critics also fault early ethnolinguistics for assuming too simple a correspondence among language, culture and ethnicity, neglecting multilingualism, contact and migration. Contemporary work stresses language ideology, power relations and the documentation of endangered languages."]
+     }
+   ],
+   "terms": [
+    {"t": "语言相对论", "tEn": "linguistic relativity", "d": "认为语言结构影响思维与认知方式的假说。", "dEn": "The hypothesis that language structure influences thought and cognition."},
+    {"t": "亲属称谓", "tEn": "kinship terminology", "d": "表示亲属关系的词汇系统，常反映社会结构。", "dEn": "The lexical system for kin relations, often mirroring social structure."},
+    {"t": "田野调查", "tEn": "fieldwork", "d": "深入语言社区进行观察与记录的研究方法。", "dEn": "Research conducted by observing and recording a community in situ."},
+    {"t": "敬语", "tEn": "honorific", "d": "标示说话人与交际对象社会关系的语言形式。", "dEn": "A linguistic form marking the social relation between speaker and interlocutor."},
+    {"t": "颜色词", "tEn": "colour term", "d": "用于划分颜色范围的词汇，是认知与文化研究的经典课题。", "dEn": "A word that partitions the colour spectrum, a classic topic in cognition and culture."},
+    {"t": "语言人类学", "tEn": "linguistic anthropology", "d": "从人类学角度研究语言与文化关系的学科。", "dEn": "The anthropological study of language in relation to culture."},
+    {"t": "语言意识形态", "tEn": "language ideology", "d": "关于语言价值、正误与合法性的社会信念体系。", "dEn": "A body of social beliefs about linguistic value, correctness and legitimacy."}
+   ],
+   "related": ["linguistic-relativity", "sapir", "whorf", "boas", "fieldwork"],
+   "sources": [
+    "Wikipedia, \"Ethnolinguistics\", https://en.wikipedia.org/wiki/Ethnolinguistics",
+    "Boas, Handbook of American Indian Languages, 1911",
+    "Whorf, Language, Thought, and Reality, 1956"
+   ]
+  }
+ ]
+}

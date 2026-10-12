@@ -1,0 +1,43 @@
+{
+ "batch": 5,
+ "sections": {
+  "front-matter-005-revisions": {
+   "title": {"en": "Revisions", "zh": "修订记录"},
+   "summary": {
+    "en": "This page explains how the textbook is revised as a living online resource and where readers of downloadable versions should obtain the current file. It records only major revisions, such as new chapters, sections, videos and exercises, and it states clearly that typos and small clarifications are normally left unrecorded.",
+    "zh": "本页说明该教材作为在线资源如何随时更新，并提示使用可下载版本（PDF、EPUB 等）的读者应从主页获取最新文件。页面只记录新增章、节、视频与练习等重大修订，并说明拼写错误、细节澄清等小改动通常不在此登记。"
+   },
+   "points": [
+    {"en": "Because the textbook is online, its content may be updated at any time after initial publication.", "zh": "由于教材是在线资源，其内容在初次发布之后可能随时更新。"},
+    {"en": "Users of PDF, EPUB and other downloadable versions are advised to download the latest file from the home page.", "zh": "使用 PDF、EPUB 等可下载版本的读者，建议从主页重新下载最新文件。"},
+    {"en": "Only major revisions such as new chapters, sections, videos and exercises are recorded on this page.", "zh": "本页只登记新章、新节、新视频、新练习等重大修订。"},
+    {"en": "Smaller changes, including typos and minor clarification or re-wording, are not normally listed.", "zh": "拼写错误以及小幅澄清、改写等较小改动通常不予列出。"},
+    {"en": "The revision list runs from Version 2.0 in March 2022 to Version 2.5 in February 2026.", "zh": "修订列表从 2022 年 3 月的 2.0 版一直记录到 2026 年 2 月的 2.5 版。"}
+   ],
+   "terms": [],
+   "examples": [
+    {"text": "Version 2.5 February 2026, added sections 1.7 and 1.8", "noteEn": "The newest entry records two new sections added in February 2026.", "noteZh": "最新一条记录显示 2026 年 2 月新增了 1.7 与 1.8 两节。"},
+    {"text": "Version 2.3: 11 July 2023, added portions of Chapter 14", "noteEn": "A major revision may add only part of a chapter rather than a complete one.", "noteZh": "重大修订也可能只增补某一章的部分内容，而非整章。"},
+    {"text": "Version 2.0: 1 March 2022, initial release of Chapters 1–11 and portions of Chapter 13", "noteEn": "The first release contained most chapters but only portions of Chapter 13.", "noteZh": "首个版本收录了大部分章，而第 13 章只发布了部分内容。"}
+   ],
+   "body": [
+    {
+     "en": "This textbook is designed as an online resource, so its contents can be modified at any moment rather than being frozen at publication. Readers who work with a downloadable copy are therefore encouraged to return to the home page and take the most recent file; the page notes that it was most recently updated on 28 March 2026.",
+     "zh": "本教材按在线资源设计，内容不会在出版时固定下来，而是可以随时修改。因此，使用可下载副本的读者最好回到主页获取最新文件；页面注明最近一次更新是在 2026 年 3 月 28 日。"
+    },
+    {
+     "en": "Major revisions are gathered on this page. They include new chapters or sections, new videos, new exercises, and similar structural additions that change how the book can be used. Each entry gives a version number, a date or date range, and a short description of what was added or updated.",
+     "zh": "重大修订汇总在本页。它们包括新增的章或节、新视频、新练习，以及诸如此类改变教材使用方式的结构性增补。每条记录都给出一个版本号、日期或日期区间，并简要说明增补或更新的内容。"
+    },
+    {
+     "en": "Smaller revisions are treated differently. Typos, minor clarifications and small re-wordings are made when needed but are not normally listed here, so a lack of entries does not mean the text has stood still. The recorded history begins with Version 2.0, released on 1 March 2022, which contained Chapters 1–11 and portions of Chapter 13.",
+     "zh": "较小的修订另有处理方式。拼写错误、细节澄清和轻微改写会在需要时进行，但通常不在此列出，因此没有记录并不意味着教材停滞不变。换言之，在线正文会持续被修订，只有影响较大的变动才被登记，而登记的重点是变动的事实、时间与版本编号。有记录的修订史始于 2022 年 3 月 1 日发布的 2.0 版，该版包含第 1–11 章以及第 13 章的部分内容。"
+    },
+    {
+     "en": "Later versions show how the book grew. Chapter 12 arrived in Version 2.2 in August 2022, Appendix 1 in Version 2.1 in July 2022, portions of Chapter 14 in Version 2.3 in July 2023, and updated or added videos for sections 3.1, 3.2, 10.1 and 10.2 across Versions 2.4 and 2.5.",
+     "zh": "此后的版本展示了教材的扩充过程。第 12 章随 2022 年 8 月的 2.2 版加入，附录 1 随 2022 年 7 月的 2.1 版加入，第 14 章的部分内容随 2023 年 7 月的 2.3 版加入；3.1、3.2、10.1、10.2 各节的视频则在 2.4 与 2.5 版中更新或新增。"
+    }
+   ]
+  }
+ }
+}

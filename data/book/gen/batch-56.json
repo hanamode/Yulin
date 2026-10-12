@@ -1,0 +1,264 @@
+{
+ "batch": 56,
+ "sections": {
+  "part-011-chapter-11-child-language-acquisition": {
+   "title": {
+    "en": "Chapter 11: Child Language Acquisition",
+    "zh": "第 11 章：儿童语言习得"
+   },
+   "summary": {
+    "en": "This chapter examines how children build the components of mental grammar: phonetics, phonology, morphology, syntax and semantics. It argues that children acquire grammar very quickly whenever other language users are available to observe, and it sets out the milestones, experimental methods, signed-language parallels and bilingual benefits covered in the chapter ahead.",
+    "zh": "本章考察儿童如何建立心理语法的各个组成部分：语音学、音位学、形态学、句法与语义学。儿童只要身边有可供观察的语言使用者，就能迅速习得语法；本章据此列出语言发展里程碑、实验方法、手语与口语的平行发展，以及双语习得的益处与要点。"
+   },
+   "points": [
+    {
+     "en": "Children develop phonetics, phonology, morphology, syntax and semantics as parts of mental grammar.",
+     "zh": "儿童把语音学、音位学、形态学、句法与语义学各部分发展为心理语法。"
+    },
+    {
+     "en": "Children acquire grammar quickly as long as other language users are available to observe.",
+     "zh": "只要身边有可供观察的语言使用者，儿童习得语法的速度就很快。"
+    },
+    {
+     "en": "Learners will identify typical language development milestones from acquisition data.",
+     "zh": "学习者将能依据习得数据辨认典型的语言发展里程碑。"
+    },
+    {
+     "en": "Experimental methods reveal what children's mental grammars contain at each stage.",
+     "zh": "实验方法可以揭示儿童各阶段心理语法的内容。"
+    },
+    {
+     "en": "Signed language development parallels spoken language when an accessible environment is available.",
+     "zh": "在有可及语言环境时，手语发展与口语发展相互平行。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "mental grammar",
+     "zh": "心理语法",
+     "defEn": "The system of linguistic knowledge stored in a speaker's mind.",
+     "defZh": "说话者头脑中存储的语言知识系统。"
+    },
+    {
+     "en": "acquisition",
+     "zh": "习得",
+     "defEn": "The natural development of grammar without explicit instruction.",
+     "defZh": "无需明确教学而自然形成语法的过程。"
+    },
+    {
+     "en": "milestone",
+     "zh": "里程碑",
+     "defEn": "A typical stage that children reach in language development.",
+     "defZh": "儿童在语言发展中通常达到的阶段。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "This chapter traces how children assemble the components of mental grammar: phonetics, phonology, morphology, syntax and semantics. Each component is examined through acquisition data rather than adult descriptions. The guiding claim is that children's minds are equipped to acquire grammar very quickly, provided they have other language users to observe.",
+     "zh": "本章追踪儿童如何构建心理语法的各个组成部分：语音学、音位学、形态学、句法与语义学。每一部分都通过习得数据来考察，而非通过成人的语法描写。全章的核心理念是：只要身边有可供观察的语言使用者，儿童的心智就有能力极其迅速地习得语法。"
+    },
+    {
+     "en": "By the end, readers should identify the milestones of typical language development and interpret evidence from a range of experimental methods to draw conclusions about children's mental grammar. The chapter also shows how development in a signed language parallels development in a spoken language whenever the child's environment makes that language accessible.",
+     "zh": "学完本章，读者应能辨认典型语言发展的各个里程碑，并解读来自多种实验方法的证据，据此推断儿童心理语法的状况。本章还说明，只要环境让儿童能够接触到某一种手语，该手语的发展就与口语的发展相互平行。"
+    },
+    {
+     "en": "A final theme concerns multilingualism: the chapter discusses some of the benefits of acquiring more than one language. Together the milestones, experiments and signed-language evidence point to how much grammar a young mind can build in a very short time.",
+     "zh": "最后一个主题涉及多语现象：本章讨论习得一种以上语言所带来的若干益处。里程碑、实验证据与手语证据合在一起，说明幼小的心智能在极短时间内建立起多少语法知识。"
+    }
+   ]
+  },
+  "chapter-128-slug-11-1-tiny-powerful-language-learners": {
+   "title": {
+    "en": "11.1 Tiny, powerful language learners",
+    "zh": "11.1 幼小却强大的语言学习者"
+   },
+   "summary": {
+    "en": "Newborns can do little beyond sleeping, eating and crying, yet by school age they hold sophisticated conversations without explicit teaching. Their rapid progress comes from brain activity that tracks the ambient language. Deaf children show how vital that input is: language deprivation, driven by oralism, harms development, while early access to ASL supports typical vocabulary growth.",
+    "zh": "新生儿除了睡眠、进食和哭泣几乎什么都不会，但到入学年龄已能进行相当复杂的对话，而且并未受过正式教学。这种迅猛进步来自追踪环境语言的大脑活动。聋童的案例显示了这种输入何其关键：由口语法主义驱动的语言剥夺会损害发展，而及早接触美国手语则能支持正常的词汇增长。"
+   },
+   "points": [
+    {
+     "en": "Newborns can only sleep, eat, cry and eliminate, but soon manage complex sentences.",
+     "zh": "新生儿只会睡眠、进食、哭泣与排泄，但不久便能说出复杂句子。"
+    },
+    {
+     "en": "Every typically-developing child with access to language becomes fluent, mostly without explicit teaching.",
+     "zh": "每个接触得到语言的正常发展儿童都会变得流利，且大多无需明确教学。"
+    },
+    {
+     "en": "The baby brain tracks the ambient language and builds the child's mental grammar from it.",
+     "zh": "婴儿大脑追踪环境语言，并据此建立儿童自己的心理语法。"
+    },
+    {
+     "en": "About 90-95% of deaf or hard-of-hearing babies are born to families whose primary modality is speech.",
+     "zh": "约 90–95% 的聋儿或听障婴儿出生在主要使用口语的家庭中。"
+    },
+    {
+     "en": "Cochlear implants provide electrical signals that are not a sufficient language environment.",
+     "zh": "人工耳蜗提供的是电信号，并不构成充分的语言环境。"
+    },
+    {
+     "en": "Deaf children with ASL by six months develop vocabulary at a rate comparable to signing peers.",
+     "zh": "六个月前接触美国手语的聋童，词汇发展速度与聋人父母所生的聋童相当。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "ambient language",
+     "zh": "环境语言",
+     "defEn": "The language used around a child by family, caregivers and older children.",
+     "defZh": "儿童周围由家人、照料者与年长儿童所使用的语言。"
+    },
+    {
+     "en": "cochlear implant (CI)",
+     "zh": "人工耳蜗",
+     "defEn": "A surgically implanted electronic prosthetic that converts sounds into electrical signals.",
+     "defZh": "通过手术植入的电子假体装置，把声音转换为电信号。"
+    },
+    {
+     "en": "oralism",
+     "zh": "口语法主义（口语至上）",
+     "defEn": "The belief that vocal language is better than sign language.",
+     "defZh": "认为有声语言优于手语的信念。"
+    },
+    {
+     "en": "language deprivation",
+     "zh": "语言剥夺",
+     "defEn": "Lack of accessible language input, causing long-term social and cognitive impairments.",
+     "defZh": "缺乏可及的语言输入，导致长期的社会与认知功能损害。"
+    },
+    {
+     "en": "modality",
+     "zh": "模态",
+     "defEn": "The channel a language uses, either auditory-vocal or visual-gestural.",
+     "defZh": "语言所使用的通道，即听觉—发音通道或视觉—手势通道。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "Mummy, do you remember that time we made chocolate pudding? Maybe we could make some on Saturday. This Saturday, in the afternoon. I don’t need to take a nap. Let’s do it together, and maybe then we can eat some!",
+     "noteEn": "An utterance produced by the author's twin at about four and a half years old.",
+     "noteZh": "作者的双胞胎孩子约四岁半时说出的语句。"
+    },
+    {
+     "text": "a child aged 1;6 is one year and six months old, or one-and-a-half",
+     "noteEn": "The notation convention for writing young children's ages in years and months.",
+     "noteZh": "书写幼儿年龄时用分号隔开年与月的记法约定。"
+    }
+   ],
+   "body": [
+    {
+     "en": "A newborn can do little but sleep, eat liquid food, eliminate and cry, and cannot focus its eyes or control its limbs. Yet by the time children start school at four or five, most run and jump, some ride bikes, and they hold sophisticated conversations with complex sentences. One of the author's twins, at four and a half, bargained about making chocolate pudding on Saturday afternoon. Every typically-developing child with language access becomes fluent, mostly without explicit teaching.",
+     "zh": "新生儿除了睡眠、吃流质食物、排泄和哭泣之外做不了什么，甚至无法聚焦视线或控制四肢。然而到四五岁开始上学时，多数孩子已能奔跑跳跃，有些还会骑车，并能用复杂句子进行有相当难度的对话。作者的一个双胞胎孩子四岁半时，商量星期六下午做巧克力布丁。每个接触得到语言的正常发展儿童都会变得流利，而且大多没有明确教学。"
+    },
+    {
+     "en": "That development comes from immense brain activity responding to the ambient language: the language used by family members, caregivers and older children the child spends time with. The baby brain tracks patterns there and builds the child's mental grammar. English yields a grammar for English, Tamil and Mandarin likewise. If the ambient language is American Sign Language (ASL), the child develops a grammar for ASL, and a two-language environment yields grammars for both.",
+     "zh": "这种发展源自大脑针对环境语言的大量活动。环境语言指儿童身边的家人、照料者和年长儿童所使用的语言。婴儿大脑追踪其中的模式，并据此建立儿童自己的心理语法。英语环境产生英语语法，泰米尔语和普通话等环境亦然。若环境语言是美国手语（ASL），儿童就会发展出美国手语的心理语法；双语环境则产生两种语法。"
+    },
+    {
+     "en": "Some children lack any language environment: about 90-95% of babies born deaf or hard of hearing have families whose primary modality is speech. A cochlear implant, surgically implanted, converts sounds into electrical signals sent to the brain via the auditory nerve, and is commonly given between ages one and three. Even so, children with CIs score far below hearing peers on language tests, since those signals are not a sufficient language environment.",
+     "zh": "有些儿童接触不到任何语言环境：出生时耳聋或听障的婴儿中，约 90–95% 的家庭主要使用口语模态。人工耳蜗经手术植入，把声音转换为电信号并经听神经传至大脑，通常在一至三岁间植入。即便如此，植入人工耳蜗的儿童在语言测试中仍远低于听力正常的同龄人，因为这些信号并不构成充分的语言环境。"
+    },
+    {
+     "en": "Stigma persists around sign languages, and many parents and professionals consider passing in a hearing world so important that they withhold signed language, fearing it will interfere with spoken language. This belief that vocal language is better than sign language is oralism. Many deaf children meet no language before a CI and afterwards have only the device's atypical signals; such deprivation causes lasting social and cognitive impairments. By contrast, deaf children of hearing parents who access ASL by six months show vocabulary growth comparable to those of deaf signing parents, since grammar's neural connections form only in response to input.",
+     "zh": "围绕手语与耳聋的污名依然存在，许多家长和专业人员认为在听人世界中“过关”极其重要，因而拒绝提供手语，担心它干扰口语习得。这种认为有声语言优于手语的信念称为口语法主义。于是许多聋童植入人工耳蜗前接触不到语言，之后也只有装置的非典型信号，这种剥夺造成持久的社会与认知损害。相反，听人父母的聋童若在六个月前接触美国手语，词汇发展与聋人父母的聋童相当，因为语法的神经连接只能在对输入的回应中形成。"
+    }
+   ]
+  },
+  "chapter-129-slug-11-2-when-does-language-learning-start": {
+   "title": {
+    "en": "11.2 When does language learning start?",
+    "zh": "11.2 语言学习从何时开始？"
+   },
+   "summary": {
+    "en": "For hearing babies, language learning begins before birth. Fetal heart rate rises in response to external sounds at about seven months of pregnancy, and by eight months a fetus responds more to its pregnant parent's voice than to a stranger's. Using high-amplitude sucking, researchers found newborns discriminate French from Russian, and Thai-English babies notice a language switch.",
+    "zh": "对听力正常的婴儿来说，语言学习在出生前就已开始。怀孕约七个月时，胎儿心率会因外界声音而升高；到八个月时，胎儿对怀孕父母声音的反应强于对陌生人的反应。研究者用高振幅吮吸法发现，新生儿能区分法语与俄语，泰语—英语双语家庭的婴儿也能察觉语言切换。"
+   },
+   "points": [
+    {
+     "en": "Fetal heart rate increases in response to external sounds at about seven months of pregnancy.",
+     "zh": "怀孕约七个月时，胎儿心率会因外界声音而升高。"
+    },
+    {
+     "en": "By eight months, a fetus responds more to its pregnant parent's voice than a stranger's.",
+     "zh": "到八个月时，胎儿对怀孕父母声音的反应强于对陌生人声音的反应。"
+    },
+    {
+     "en": "High-amplitude sucking measures interest: babies suck harder, then habituate and recover for new sounds.",
+     "zh": "高振幅吮吸法测量兴趣：婴儿吮吸更强，随后习惯化，遇到新声音又恢复。"
+    },
+    {
+     "en": "Newborns of French-speaking parents distinguish French from Russian sentences by the same speaker.",
+     "zh": "父母说法语的新生儿能区分同一说话人说的法语与俄语句子。"
+    },
+    {
+     "en": "Newborns of Thai-English bilingual parents notice a switch between English and Thai.",
+     "zh": "泰语—英语双语父母的新生儿能察觉英语与泰语之间的切换。"
+    },
+    {
+     "en": "Acquisition is not a race; earlier learning is not necessarily an advantage.",
+     "zh": "习得不是竞赛；更早学会未必是优势。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "fetus",
+     "zh": "胎儿",
+     "defEn": "An unborn baby still inside the uterus.",
+     "defZh": "尚在子宫内的未出生婴儿。"
+    },
+    {
+     "en": "pressure transducer",
+     "zh": "压力传感器",
+     "defEn": "An instrument connected to a pacifier that measures how powerfully a baby sucks.",
+     "defZh": "连接安抚奶嘴、用于测量婴儿吮吸力度的仪器。"
+    },
+    {
+     "en": "high-amplitude sucking",
+     "zh": "高振幅吮吸（法）",
+     "defEn": "A habituation method using sucking strength to test what babies notice.",
+     "defZh": "以吮吸力度为指标、通过习惯化考察婴儿能否察觉差异的实验方法。"
+    },
+    {
+     "en": "habituation",
+     "zh": "习惯化",
+     "defEn": "The decrease in response that follows repeated presentation of the same stimulus.",
+     "defZh": "同一刺激反复呈现后反应减弱的现象。"
+    },
+    {
+     "en": "prosody",
+     "zh": "韵律",
+     "defEn": "The rhythmic and melodic pattern of speech, including syllable timing and stress.",
+     "defZh": "话语的节奏与旋律模式，包括音节时长与重音。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "newborns whose parents speak French notice the difference between French and Russian sentences spoken by the same person",
+     "noteEn": "Evidence from the high-amplitude sucking habituation method.",
+     "noteZh": "来自高振幅吮吸习惯化方法的证据。"
+    },
+    {
+     "text": "babies born to Thai-English bilingual parents noticed when the spoken language switched from English to Thai",
+     "noteEn": "A high-amplitude sucking study conducted in British Columbia.",
+     "noteZh": "在不列颠哥伦比亚进行的一项高振幅吮吸研究。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Early exposure matters because the mind begins building a mental grammar very young, and for hearing babies that work can start before birth. A fetus's heart rate rises in response to external sounds at about the seven-month point in pregnancy, so it can hear noises from outside. Fetuses retain something of what they hear: by eight months the heart rate rises more for the pregnant parent's voice than for a stranger's, meaning some memory of that voice is stored. After birth heart rate is less informative, since the world offers many other interesting stimuli and newborns cannot report what they know.",
+     "zh": "及早接触语言之所以重要，是因为心智在很小的年纪就开始构建心理语法，而对听力正常的婴儿来说，这项工作在出生前就能启动。怀孕约七个月时，胎儿心率会因外界声音而升高，可见胎儿能听到体外的声响。胎儿还会保留所听内容的一部分：到八个月时，心率对怀孕父母声音的升高幅度大于对陌生人声音的反应，说明关于该声音的记忆已经存储下来。出生之后心率提供的信息变少，因为世界中有许多其他有趣的刺激，而新生儿又无法说出自己知道什么。"
+    },
+    {
+     "en": "The high-amplitude sucking habituation method solves that problem. A pressure transducer connected to a pacifier measures how powerfully a baby sucks. A baby interested in a sound sucks harder; if the sound keeps playing, she becomes bored and her sucking strength decreases, which we call habituation. A new sound revives her interest and sucking becomes powerful again. Observing whether sucking strength increases when one sound replaces another therefore reveals whether a baby notices the difference.",
+     "zh": "高振幅吮吸习惯化方法解决了这一难题。与安抚奶嘴相连的压力传感器可以测量婴儿吮吸的力度。婴儿对某个声音感兴趣时吮吸更有力；若同一声音持续播放，她会厌倦，吮吸力度下降，这称为习惯化。新声音会重新唤起兴趣，吮吸又变得有力。因此观察声音替换时吮吸力度是否上升，就能知道婴儿是否察觉了差异。"
+    },
+    {
+     "en": "Much of the sound reaching a fetus is muffled, but prosody remains accessible. French rhythm rests on syllables of similar length, whereas Russian rhythm depends on syllable stress; because that prosodic rhythm is audible in the uterus, newborns can separate a familiar rhythm from an unfamiliar one. Newborns of French-speaking parents distinguish French from Russian sentences by the same speaker, and babies of Thai-English bilingual parents in a high-amplitude sucking study in British Columbia noticed a switch from English to Thai, suggesting two mental grammars are already taking shape. Acquisition is not a race, though: children vary hugely, earlier learning is not necessarily an advantage, and there is no evidence that a fetus without in-utero speech, whether deaf or with a signing parent, is disadvantaged.",
+     "zh": "传到胎儿耳中的声音大多很模糊，但韵律仍然可及。法语的节奏依赖长度相近的音节，而俄语的节奏依赖音节重音；由于这种韵律节奏在子宫内可以听到，新生儿能把熟悉的节奏与陌生的节奏分开。父母说法语的新生儿能区分同一说话人说出的法语与俄语句子；在不列颠哥伦比亚的一项高振幅吮吸研究中，泰语—英语双语家庭的婴儿察觉到所说语言从英语切换到泰语，说明两种心理语法已在形成。但习得不是竞赛：儿童个体差异极大，更早学会未必是优势，也没有证据表明因胎儿耳聋或父母使用手语而未在子宫内接触语音的胎儿处于不利地位。"
+    }
+   ]
+  }
+ }
+}

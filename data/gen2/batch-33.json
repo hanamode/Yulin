@@ -1,0 +1,248 @@
+{
+ "batch": 33,
+ "entries": [
+  {
+   "id": "whorf",
+   "title": "本杰明·李·沃尔夫",
+   "en": "Benjamin Lee Whorf",
+   "category": "people",
+   "tags": ["语言相对论", "霍皮语", "萨丕尔-沃尔夫假说", "标准平均欧洲语", "隐型范畴"],
+   "summary": "本杰明·李·沃尔夫（1897—1941）是美国语言学家，语言相对论的代表人物。他本为化学工程师，长期任职于火灾保险公司，后师从萨丕尔研究美洲原住民语言，重点考察霍皮语与纳瓦特尔语。他主张语言的语法范畴会习惯性地引导说话人观察和切分经验的方式，并把欧洲语言概括为标准平均欧洲语以作对照。其论文由卡罗尔编成《语言、思维与现实》于1956年出版，深刻影响了语言与思维关系的研究。",
+   "summaryEn": "Benjamin Lee Whorf (1897-1941) was an American linguist best known for the principle of linguistic relativity. Trained as a chemical engineer and employed by a fire insurance company, he studied under Edward Sapir and worked on Hopi and Nahuatl. He argued that the grammatical categories of a language habitually guide how its speakers observe and segment experience, and he contrasted them with what he called Standard Average European. His papers were collected in Language, Thought, and Reality in 1956 and influenced later work on language and cognition.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "沃尔夫1897年生于美国马萨诸塞州温思罗普，1918年毕业于麻省理工学院化学工程专业，此后终生在哈特福德火灾保险公司任职，负责火灾预防与损失调查。语言学在很大程度上是他的业余事业，他利用晚间与假期研究语言。1931年前后他开始在耶鲁大学随萨丕尔学习美洲原住民语言，并很快成为萨丕尔最重要的合作者之一。1941年他因癌症去世，年仅四十四岁。"
+     ],
+     "pEn": [
+      "Whorf was born in Winthrop, Massachusetts, in 1897 and graduated in chemical engineering from the Massachusetts Institute of Technology in 1918. He spent his whole career at the Hartford Fire Insurance Company, where he investigated the causes of fires, and pursued linguistics largely in the evenings and during holidays. Around 1931 he began studying American Indian languages with Edward Sapir at Yale and soon became one of Sapir's closest collaborators. He died of cancer in 1941 at the age of forty-four, before his work had reached a wide audience."
+     ]
+    },
+    {
+     "h": "核心贡献：语言相对论",
+     "hEn": "Core Contribution: Linguistic Relativity",
+     "p": [
+      "沃尔夫把语言与思维的关系概括为语言相对论原则。他并不认为语言严格决定思想，而是主张语言的语法范畴构成一种背景性的、习惯性的观察框架，说话人往往不自觉地依此切分经验。他特别强调语法范畴而非词汇差异，认为时态、体、名词类别与数的表达方式会塑造人们对事件与实体的默认理解。这一主张后来被称为萨丕尔-沃尔夫假说，并常被区分为强势版本与弱势版本。"
+     ],
+     "pEn": [
+      "Whorf formulated the relation between language and thought as the principle of linguistic relativity. He did not claim that language strictly determines thought, but argued that grammatical categories form a habitual background frame through which speakers unconsciously segment experience. He stressed grammar rather than vocabulary, holding that tense, aspect, noun classes and number shape default understandings of events and entities. The claim later became known as the Sapir-Whorf hypothesis, usually divided into a strong and a weak version."
+     ]
+    },
+    {
+     "h": "基本概念：标准平均欧洲语与隐型范畴",
+     "hEn": "Key Concepts: Standard Average European and Cryptotypes",
+     "p": [
+      "为了给霍皮语等美洲语言提供对照，沃尔夫把英语、德语、法语等相关欧洲语言合称标准平均欧洲语，指出它们共享冠词、名词的个体与物质之分以及以时态为核心的时间表达。他还提出隐型范畴，指在语法中实际运作却缺少显性形式标记的范畴。英语名词没有性标记，但代词 he、she、it 的选择揭示出隐藏的性别分类；同理，只有部分动词能加前缀 un-，如 unlock、untie、unwrap，而 break 一类则不能。"
+     ],
+     "pEn": [
+      "To provide a contrast with Hopi and other American languages, Whorf grouped English, German, French and related languages under the label Standard Average European, noting their shared articles, the individual-mass distinction in nouns and their tense-centred treatment of time. He also introduced the notion of the cryptotype, a category that operates grammatically without any overt marker. English nouns carry no gender marking, yet the choice among he, she and it reveals a covert gender classification, and only certain verbs, such as unlock, untie or unwrap, accept the prefix un-."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "沃尔夫引用过一个著名的火灾案例：工人把贴着「空」字标签的汽油桶视为安全之物，在旁边吸烟，却未意识到桶内残留的油气仍然可爆；「空」一词的习惯含义是「无物、无害」，这种语言习惯影响了危险判断。在语法层面，他注意到英语把时间当作可数之物，说 ten days、three years，如同说 ten men，从而把时间个体化为可以累加的单位；而霍皮语更注重事件的进行与实现状态，缺乏与英语过去时、现在时相对应的时态格局。"
+     ],
+     "pEn": [
+      "Whorf retold a well-known accident case: workers treated petrol drums labelled empty as harmless and smoked beside them, unaware that residual vapour remained explosive, because the habitual meaning of empty suggests the absence of anything dangerous. At the level of grammar he observed that English construes time as a countable substance, saying ten days and three years much as it says ten men, and thereby individualises time into addable units, whereas Hopi foregrounds the ongoing or realised character of events and lacks a tense system matching the English past-present contrast."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "沃尔夫的论文由卡罗尔编成《语言、思维与现实》于1956年出版，成为语言与思维关系研究的起点，也影响了认知语言学、民族语言学与语言人类学。他关于语法范畴与习惯性思维的讨论，至今仍是跨语言认知研究的核心议题。",
+      "批评主要有两方面。其一，他关于霍皮语缺乏时间观念的说法在语言学上难以成立：马洛特基经过长期的霍皮语田野调查，记录到大量时间词、时间副词与表示时间流逝的隐喻，并据此反驳了沃尔夫的论断。其二，他的论证常被认为过于依赖个别语料与思辨性推断，缺少系统的实验检验，早期实证研究也未能支持强势版本的相对论主张。"
+     ],
+     "pEn": [
+      "Whorf's papers were collected by John Carroll as Language, Thought, and Reality in 1956, and the volume became a starting point for research on language and thought, influencing cognitive linguistics, ethnolinguistics and linguistic anthropology. His discussion of the link between grammatical categories and habitual thinking remains central to cross-linguistic work on cognition. The questions he raised were later reformulated as testable hypotheses about attention, memory and categorisation.",
+      "Two lines of criticism stand out. First, his claim that Hopi lacks any notion of time did not survive scrutiny: Malotki's long fieldwork on Hopi documented numerous temporal words, adverbs and metaphors of time passing, and he rejected Whorf's conclusion on empirical grounds. Second, Whorf's arguments are often said to rest on isolated examples and speculative inference rather than systematic testing, and much early experimental work failed to support a strong reading of relativity."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "语言相对论", "tEn": "linguistic relativity", "d": "认为语言的语法范畴会习惯性地影响说话人观察和切分经验方式的假说。", "dEn": "The hypothesis that grammatical categories habitually shape how speakers observe and segment experience."},
+    {"t": "萨丕尔-沃尔夫假说", "tEn": "Sapir-Whorf hypothesis", "d": "由后人命名的语言相对论主张，常分为强势决定论与弱势影响论。", "dEn": "The claim named after Sapir and Whorf, usually split into strong and weak versions."},
+    {"t": "标准平均欧洲语", "tEn": "Standard Average European", "d": "沃尔夫对英语、德语、法语等欧洲语言的统称，用以与霍皮语对照。", "dEn": "Whorf's label for English, German, French and related European languages, used as a contrast to Hopi."},
+    {"t": "隐型范畴", "tEn": "cryptotype", "d": "在语法中实际运作却缺少显性形式标记的隐性语法范畴，如英语的代词性别。", "dEn": "A covert grammatical category that operates in the language without overt formal marking."},
+    {"t": "霍皮语", "tEn": "Hopi", "d": "美国亚利桑那州霍皮族使用的犹他-阿兹特克语系语言，沃尔夫的主要研究对象。", "dEn": "A Uto-Aztecan language of the Hopi people of Arizona, the main object of Whorf's research."},
+    {"t": "语法范畴", "tEn": "grammatical category", "d": "语言中通过词形变化与句法结构体现的类别，如时态、体、数与性。", "dEn": "A class expressed by morphology or syntax, such as tense, aspect, number or gender."},
+    {"t": "语言决定论", "tEn": "linguistic determinism", "d": "认为语言决定思维方式的强势主张，通常被视为难以成立的极端版本。", "dEn": "The strong claim that language determines thought, generally regarded as untenable in its extreme form."}
+   ],
+   "related": ["linguistic-relativity", "sapir", "ethnolinguistics", "boas", "cognitive-linguistics"],
+   "sources": [
+    "Wikipedia, \"Benjamin Lee Whorf\", https://en.wikipedia.org/wiki/Benjamin_Lee_Whorf",
+    "Whorf, Language, Thought, and Reality: Selected Writings, MIT Press, 1956",
+    "Wikipedia, \"Linguistic relativity\", https://en.wikipedia.org/wiki/Linguistic_relativity"
+   ]
+  },
+  {
+   "id": "grimm",
+   "title": "雅各布·格林",
+   "en": "Jacob Grimm",
+   "category": "people",
+   "tags": ["格里姆定律", "历史比较语言学", "日耳曼语文学", "德国民间故事", "德语词典"],
+   "summary": "雅各布·格林（1785—1863）是德国语言学家与文献学家，日耳曼语文学与历史比较语言学的奠基人之一。他在《德语语法》中系统描述日耳曼语辅音与印欧语辅音之间的对应关系，后世称为格里姆定律，即第一次日耳曼语辅音推移。他与弟弟威廉共同搜集出版《儿童与家庭童话集》，并主持编纂规模宏大的《德语词典》。他把语言研究建立在可靠的文献考订与语言比较之上，深刻影响了十九世纪的语言科学。",
+   "summaryEn": "Jacob Grimm (1785-1863) was a German philologist and a founder of Germanic philology and historical-comparative linguistics. In Deutsche Grammatik he systematically described the correspondences between the consonants of the Germanic languages and those of Indo-European, a set of changes later named Grimm's Law, or the First Germanic Sound Shift. With his brother Wilhelm he collected the Kinder- und Hausmärchen, and he initiated the vast Deutsches Wörterbuch. His combination of textual scholarship with systematic comparison shaped nineteenth-century linguistics.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "格林1785年生于黑森-卡塞尔的哈瑙，与弟弟威廉自幼亲密，二人同在马尔堡大学求学，受法学家萨维尼影响而转向对古代文献与民间传统的兴趣。他曾任卡塞尔图书馆员，1830年受聘为哥廷根大学教授，1837年因与六位同事抗议汉诺威国王废除宪法而被解职，1841年转赴柏林，任普鲁士科学院院士并讲授德语语言学。他终身未婚，与威廉同住，兄弟二人被合称为格林兄弟。"
+     ],
+     "pEn": [
+      "Grimm was born in Hanau in Hesse-Kassel in 1785. He and his younger brother Wilhelm studied together at the University of Marburg, where contact with the jurist Savigny turned their attention to early texts and popular tradition. He worked as a librarian in Kassel, was appointed professor at Göttingen in 1830, and was dismissed in 1837 along with six colleagues for protesting the King of Hanover's suspension of the constitution. From 1841 he worked in Berlin as a member of the Prussian Academy. He never married and lived with Wilhelm; the two are known as the Brothers Grimm."
+     ]
+    },
+    {
+     "h": "核心贡献：格里姆定律",
+     "hEn": "Core Contribution: Grimm's Law",
+     "p": [
+      "格林在《德语语法》第二版中系统整理了日耳曼语与其他印欧语之间的辅音对应，后人称之为格里姆定律。其内容包含三组有规律的音变：印欧语清塞音 p、t、k 变为日耳曼语的擦音 f、θ、h；印欧语浊塞音 b、d、g 变为日耳曼语清塞音 p、t、k；印欧语送气浊塞音 bh、dh、gh 变为日耳曼语浊塞音 b、d、g。这一发现使音变第一次呈现出可预测的规律性，成为历史比较语言学的基石。"
+     ],
+     "pEn": [
+      "In the second edition of Deutsche Grammatik Grimm set out the systematic consonant correspondences between Germanic and the other Indo-European languages, a set of changes later named Grimm's Law. It consists of three linked shifts: Indo-European voiceless stops p, t and k become the Germanic fricatives f, θ and h; Indo-European voiced stops b, d and g become Germanic voiceless p, t and k; and the Indo-European voiced aspirates bh, dh and gh become Germanic voiced stops b, d and g. The discovery showed sound change to be regular and predictable, and it became a cornerstone of the comparative method."
+     ]
+    },
+    {
+     "h": "代表著作与语言思想",
+     "hEn": "Major Works and Linguistic Ideas",
+     "p": [
+      "《德语语法》共四卷，1819年出版第一卷，至1837年出齐，是第一部以历史比较方法全面描写日耳曼语各语言形态与语音的著作。他还在书中创用了 ablaut 与 umlaut 两个术语，前者指词根元音的规律性交替，如英语 sing、sang、sung，后者指受后一音节影响而发生的元音前化，如德语 Gast 的复数 Gäste。1838年起他与威廉着手编纂《德语词典》，力图从文献中穷尽德语词的历史用法，该词典直至1961年才全部完成。",
+      "格林兄弟最广为人知的成果是1812年与1815年出版的《儿童与家庭童话集》，他们从口头讲述者处采集故事并加以文学整理，这项工作在当时被视为对民族精神遗产的抢救。雅各布的《德国神话学》则试图从语言与民间信仰的痕迹中重构古代的宗教观念。"
+     ],
+     "pEn": [
+      "Deutsche Grammatik appeared in four volumes between 1819 and 1837 and was the first comprehensive historical and comparative description of the sounds and forms of the Germanic languages. In it Grimm coined the terms ablaut and umlaut: ablaut is the regular alternation of root vowels, as in English sing, sang, sung, while umlaut is the fronting of a vowel under the influence of a following syllable, as in the German plural Gäste beside Gast. From 1838 he and Wilhelm worked on the Deutsches Wörterbuch, which documents the historical usage of German words and was completed only in 1961.",
+      "The brothers are best known for the Kinder- und Hausmärchen of 1812 and 1815, stories collected from oral narrators and edited for publication, a project understood at the time as rescuing a national heritage. Jacob's Deutsche Mythologie attempted to reconstruct ancient religious beliefs from traces preserved in language and popular custom. Both works belong to the same Romantic project of recovering a shared German past from language, literature and popular belief."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "格里姆定律可以用日常词例直接观察。拉丁语 pater 与英语 father 相对，印欧语的 p 在日耳曼语中变为 f；拉丁语 trēs、tenuis 与英语 three、thin 相对，t 变为 θ；拉丁语 cornū、centum 与英语 horn、hundred 相对，k 变为 h；拉丁语 duo 与英语 two、拉丁语 genu 与英语 knee，则体现了浊塞音变为清塞音的过程。",
+      "规律最初也存在明显例外，例如哥特语 fadar 与拉丁语 pater 对应的辅音并不一致。1875年维尔纳指出，当印欧语的重音不落在该辅音之前的音节时，格里姆定律所预测的清擦音会发生浊化，这一补充规则被称为维尔纳定律。梵语 pitár- 的重音在第二音节，正符合浊化的条件，因此出现了哥特语 fadar 中的 d；维尔纳定律同时也为重建印欧语重音位置提供了证据。"
+     ],
+     "pEn": [
+      "Grimm's Law is directly visible in everyday vocabulary. Latin pater corresponds to English father, the Indo-European p becoming Germanic f; Latin trēs and tenuis correspond to English three and thin, with t becoming θ; Latin cornū and centum correspond to English horn and hundred, with k becoming h. Latin duo beside English two and Latin genu beside English knee show the shift of voiced stops to voiceless ones.",
+      "Apparent exceptions soon appeared: Gothic fadar does not match the consonant of Latin pater. In 1875 Karl Verner showed that the voiceless fricatives predicted by Grimm's Law become voiced when the Indo-European accent did not fall on the preceding syllable, a supplement known as Verner's Law. Sanskrit pitár-, accented on the second syllable, meets that condition, which is why Gothic has fadar with d, and the rule also gave linguists a way to reconstruct the position of the Indo-European accent."
+     ]
+    },
+    {
+     "h": "影响与批评",
+     "hEn": "Influence and Criticism",
+     "p": [
+      "格里姆定律是历史比较语言学最早确立的规律性音变之一，它证明语音演变可以脱离个别词例而被概括为规则，这一观念后来在新语法学派手中发展为音律无例外的原则。格林的《德语语法》确立了日耳曼语文学的研究范式，《德语词典》至今仍是德语历史词汇研究的权威依据，格林兄弟的童话集则成为世界文学的一部分。",
+      "批评主要针对两点。其一，格里姆定律的例外直到维尔纳定律提出后才获得解释，说明早期比较研究对条件的把握尚不完备。其二，《德国神话学》中不少词源建立在语音对应不够严格的联想之上，被后来的学者视为推测性的民间词源，其结论需要谨慎对待。此外，他编纂词典时偏重文献中的书面用法，对口语材料的利用相对有限。"
+     ],
+     "pEn": [
+      "Grimm's Law was among the first regular sound changes established in comparative linguistics. It showed that phonological development can be stated as a rule rather than recounted word by word, an idea the Neogrammarians later turned into the principle that sound laws admit no exceptions. Deutsche Grammatik established a research paradigm for Germanic philology, the Deutsches Wörterbuch remains an authoritative record of German historical vocabulary, and the brothers' fairy tales became part of world literature.",
+      "Criticism has centred on two points. First, the exceptions to Grimm's Law were explained only after Verner's Law was formulated, showing that early comparative work did not yet control all the conditioning factors. Second, many etymologies in Deutsche Mythologie rest on associations that do not meet strict sound correspondences, and later scholars regard them as speculative folk etymology. His dictionary also leans on written sources, making comparatively limited use of spoken usage."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "格里姆定律", "tEn": "Grimm's Law", "d": "印欧语与日耳曼语之间的三组规律性辅音对应，即第一次辅音推移。", "dEn": "The three systematic consonant correspondences between Indo-European and Germanic, the First Sound Shift."},
+    {"t": "维尔纳定律", "tEn": "Verner's Law", "d": "说明重音位置如何使格里姆定律所预测的清擦音发生浊化的补充规律。", "dEn": "The rule explaining how accent position voiced the fricatives predicted by Grimm's Law."},
+    {"t": "辅音推移", "tEn": "consonant shift", "d": "塞音在发音方式或发音部位上的系统性变化，如清塞音变为擦音。", "dEn": "A systematic change in the manner or place of stops, as voiceless stops becoming fricatives."},
+    {"t": "元音交替", "tEn": "ablaut", "d": "词根元音随语法功能发生的规律性交替，如英语的 sing、sang、sung，是印欧语形态的重要手段。", "dEn": "The regular alternation of a root vowel according to grammatical function, as in sing, sang, sung."},
+    {"t": "元音变音", "tEn": "umlaut", "d": "后一音节元音使前一元音前化的音变，如德语 Gast 与 Gäste，常以变音符号表示。", "dEn": "The fronting of a vowel caused by a vowel in the following syllable, as in Gast and Gäste."},
+    {"t": "历史比较语言学", "tEn": "historical-comparative linguistics", "d": "通过比较亲属语言的形式来重建其共同来源的语言学分支。", "dEn": "The branch that reconstructs common origins by comparing the forms of related languages."},
+    {"t": "德语词典", "tEn": "Deutsches Wörterbuch", "d": "格林兄弟主持编纂的德语历史词典，历时百余年才全部完成。", "dEn": "The historical dictionary of German begun by the Brothers Grimm and completed over a century later."},
+    {"t": "儿童与家庭童话集", "tEn": "Kinder- und Hausmärchen", "d": "格林兄弟采集整理的德国民间故事集，1812年首次出版，又称格林童话。", "dEn": "The collection of folk tales gathered and edited by the Brothers Grimm, first published in 1812."}
+   ],
+   "related": ["grimm-law", "historical-linguistics", "sound-change", "indo-european", "comparative-method"],
+   "sources": [
+    "Wikipedia, \"Jacob Grimm\", https://en.wikipedia.org/wiki/Jacob_Grimm",
+    "Grimm, Deutsche Grammatik, 1819-1837",
+    "Wikipedia, \"Grimm's Law\", https://en.wikipedia.org/wiki/Grimm%27s_law"
+   ]
+  },
+  {
+   "id": "jespersen",
+   "title": "奥托·叶斯柏森",
+   "en": "Otto Jespersen",
+   "category": "people",
+   "tags": ["英语语法", "叶斯柏森循环", "三品说", "元音大推移", "国际辅助语"],
+   "summary": "奥托·叶斯柏森（1860—1943）是丹麦语言学家，长期任哥本哈根大学英语教授，二十世纪最重要的英语语法研究者之一。他的七卷本《现代英语语法》按历史原则描写英语的形式与用法，并提出三品说、接合与连系等分析概念，还最早使用元音大推移这一术语。他关于否定的研究描述了一个反复出现的演变循环，即叶斯柏森循环。他同时是国际音标协会的活跃成员，并创制了国际辅助语新语。",
+   "summaryEn": "Otto Jespersen (1860-1943) was a Danish linguist and professor of English at the University of Copenhagen, and one of the most influential students of English grammar in the twentieth century. His seven-volume Modern English Grammar describes English forms and usage on historical principles, and introduced analytic notions such as the three ranks, junction and nexus. He coined the term Great Vowel Shift, and his work on negation identified a recurring cycle of reinforcement known as Jespersen's Cycle. He was also active in the IPA and designed the auxiliary language Novial.",
+   "sections": [
+    {
+     "h": "生平与学术背景",
+     "hEn": "Life and Academic Background",
+     "p": [
+      "叶斯柏森1860年生于丹麦兰讷斯，早年学习法律，后转向语言研究，先后在哥本哈根、伦敦、牛津与巴黎求学，曾受教于语音学家斯威特，并与帕西、菲托等人交往。1893年他受聘为哥本哈根大学英语教授，任职至1925年。他毕生关注语言的实际使用，反对把拉丁语法范畴强加于英语，主张依据英语自身的形式与意义建立描写体系。"
+     ],
+     "pEn": [
+      "Jespersen was born in Randers, Denmark, in 1860. He began by studying law, then turned to language, working in Copenhagen, London, Oxford and Paris, where he studied with the phonetician Henry Sweet and associated with Paul Passy and Wilhelm Viëtor. In 1893 he became professor of English at the University of Copenhagen and held the chair until 1925. Throughout his career he attended to actual usage and resisted imposing Latin categories on English, insisting that description should follow the forms and meanings of English itself."
+     ]
+    },
+    {
+     "h": "主要理论：三品说与接合、连系",
+     "hEn": "Main Theory: The Three Ranks, Junction and Nexus",
+     "p": [
+      "叶斯柏森在《语法哲学》中提出三品说，按词在组合中的依附关系区分首品、次品与三品。在英语 the furiously barking dog 中，dog 是首品，barking 依附于它是次品，furiously 又依附于 barking，属于三品。他还区分接合与连系两种组合方式：接合把成分并入同一短语，如 the barking dog；连系则把成分组织为命题，如 the dog barks。二者可以借助名词化等手段相互转换，例如 the dog barks 与 the dog's barking 之间的对应。"
+     ],
+     "pEn": [
+      "In The Philosophy of Grammar Jespersen proposed the theory of three ranks, ordering words by their mutual dependence within a combination. In the furiously barking dog, dog is primary, barking is secondary because it depends on dog, and furiously is tertiary because it depends on barking. He also distinguished junction from nexus: a junction fuses elements into one phrase, as in the barking dog, whereas a nexus organises them into a proposition, as in the dog barks. The two are related through devices such as nominalisation, as in the correspondence between the dog barks and the dog's barking."
+     ]
+    },
+    {
+     "h": "基本概念：否定循环与语言演变",
+     "hEn": "Key Concept: The Negation Cycle",
+     "p": [
+      "叶斯柏森在《英语及其他语言中的否定》中观察到否定标记会周期性地弱化并被加强。最初只有一个弱化的否定词，其后为了增强语气再加入一个强调性的名词，如古英语 ne 之外再加 na wiht，后来的 not 正由 na wiht 演变而来；到最后阶段，原有否定词脱落，只留下加强成分承担否定功能。法语中 ne 与 pas 的关系被认为是同一循环的中间阶段，因为口语里已可说 je sais pas，不再使用 ne。"
+     ],
+     "pEn": [
+      "In Negation in English and Other Languages Jespersen observed that negative markers are periodically weakened and then reinforced. A single weak negator may be joined by an emphatic noun, so that Old English ne was reinforced by na wiht, from which not eventually developed; in the final stage the original negator is dropped and the reinforcement alone carries negation. The French pair ne and pas is commonly treated as an intermediate stage of the same cycle, since colloquial French can say je sais pas without ne."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "叶斯柏森在《现代英语语法》第一卷中为英语长元音在中古英语晚期至近代早期的系统性升高与复化汇集了大量证据，并创造了元音大推移这一名称。例如中古英语的 /iː/ 在 mice 中变为 /aɪ/，/uː/ 在 mouse 中变为 /aʊ/，/eː/ 在 geese 中升为 /iː/，/aː/ 在 name 中升为 /eɪ/，这一连串变化使英语拼写与读音的对应关系变得十分复杂。",
+      "叶斯柏森也常以英语代词与格的变化说明形式的简化：古英语的格系统在英语中基本消失，you 取代了 ye，口语中宾格形式扩展到主格位置，如 It is me，而他为这一说法作了辩护。他认为这类变化体现的是英语越来越依赖语序与虚词，并不意味语言发生了退化。"
+     ],
+     "pEn": [
+      "In the first volume of A Modern English Grammar Jespersen assembled the evidence for the systematic raising and diphthongisation of the English long vowels between late Middle English and the early modern period, and coined the name Great Vowel Shift. Middle English /iː/ became /aɪ/ in mice, /uː/ became /aʊ/ in mouse, /eː/ rose to /iː/ in geese, and /aː/ rose to /eɪ/ in name, a chain of changes that left English spelling poorly matched to pronunciation.",
+      "Jespersen often used English pronouns and case to illustrate formal simplification: the Old English case system largely disappeared, you replaced ye, and the objective form spread to the subject position in colloquial use, as in It is me, a usage he defended. He argued that such developments moved English toward greater reliance on word order and function words rather than marking any decline in the language."
+     ]
+    },
+    {
+     "h": "代表著作、影响与批评",
+     "hEn": "Major Works, Influence and Criticism",
+     "p": [
+      "叶斯柏森的代表著作包括《英语的成长与结构》《语言：其本质、发展与起源》《语法哲学》《英语语法纲要》以及七卷本《现代英语语法》。他还长期参与国际辅助语运动，1928年出版《一种国际语》并提出新语方案。他的描写性语法影响深远，也被视为后来哥本哈根学派语符学的重要思想背景之一。",
+      "在影响方面，叶斯柏森的语法分析被英语教学语法广泛吸收，元音大推移与叶斯柏森循环已成为历史语言学与语言类型学的标准术语，他对语言演变的肯定评价也影响了功能主义取向。批评者则认为，三品说混合了形式与意义两套标准，不够严格；他在《语言》中对女性语言与种族问题的论述带有明显的时代偏见，已受到社会语言学与语言意识形态研究的批评，其关于语言进步的乐观论断也被认为证据不足。"
+     ],
+     "pEn": [
+      "Jespersen's major works include Growth and Structure of the English Language, Language: Its Nature, Development and Origin, The Philosophy of Grammar, Essentials of English Grammar and the seven volumes of A Modern English Grammar. He was also active in the movement for an international auxiliary language, publishing An International Language in 1928 with his own scheme, Novial. His descriptive grammar proved highly influential and is regarded as an important intellectual background to the glossematics of the later Copenhagen school.",
+      "Jespersen's analyses were absorbed into pedagogical English grammar, the Great Vowel Shift and Jespersen's Cycle are standard terms in historical linguistics and typology, and his positive evaluation of language change influenced functionalist approaches. Structuralists, however, objected that the theory of three ranks mixes formal and semantic criteria without sufficient rigour. His discussion of women's language and of race in Language reflects the prejudices of his time and has been criticised in sociolinguistics and work on language ideology, while his optimistic account of progress in language is widely seen as under-supported."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "三品说", "tEn": "theory of three ranks", "d": "按依附关系把组合中的词分为首品、次品与三品的分析框架。", "dEn": "A framework ranking words in a combination as primary, secondary and tertiary by dependence."},
+    {"t": "接合", "tEn": "junction", "d": "把修饰成分并入同一短语的组合方式，如 the barking dog，构成一个整体概念。", "dEn": "A combination that fuses a modifier into one phrase, as in the barking dog."},
+    {"t": "连系", "tEn": "nexus", "d": "把成分组织为完整命题的组合方式，如英语 the dog barks，通常含有述谓关系。", "dEn": "A combination that organises elements into a proposition, as in the dog barks."},
+    {"t": "叶斯柏森循环", "tEn": "Jespersen's Cycle", "d": "否定标记弱化、被加强继而取代原有否定词的周期性演变，如英语与法语。", "dEn": "The recurring process by which a negator weakens, is reinforced and is finally replaced."},
+    {"t": "元音大推移", "tEn": "Great Vowel Shift", "d": "中古英语晚期至近代早期英语长元音的系统升高与复化，约发生于十五至十八世纪。", "dEn": "The systematic raising and diphthongisation of English long vowels in late Middle and early Modern English."},
+    {"t": "语法哲学", "tEn": "The Philosophy of Grammar", "d": "叶斯柏森1924年出版的语法理论著作，提出三品说等概念，强调从意义出发描写形式。", "dEn": "Jespersen's 1924 theoretical work, which introduced notions such as the three ranks."},
+    {"t": "新语", "tEn": "Novial", "d": "叶斯柏森1928年提出的国际辅助语方案，词汇取自罗曼语与日耳曼语。", "dEn": "The international auxiliary language designed by Jespersen in 1928, with Romance and Germanic vocabulary."},
+    {"t": "描写语法", "tEn": "descriptive grammar", "d": "依据语言自身的形式与用法所作的语法描写，不预设规范标准。", "dEn": "A grammar describing a language's own forms and usage without prescribing norms."}
+   ],
+   "related": ["vowel-shift", "syntax", "historical-linguistics", "grammaticalization", "functionalism"],
+   "sources": [
+    "Wikipedia, \"Otto Jespersen\", https://en.wikipedia.org/wiki/Otto_Jespersen",
+    "Jespersen, The Philosophy of Grammar, 1924",
+    "Wikipedia, \"Great Vowel Shift\", https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+    "Jespersen, A Modern English Grammar on Historical Principles, 1909-1949"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "batch": 5,
+ "chapter": "Revisions",
+ "out": "data/book/gen/batch-05.json",
+ "sections": [
+  {
+   "id": "front-matter-005-revisions",
+   "title": "Revisions",
+   "src": "data/book/src/front-matter-005-revisions.txt",
+   "chars": 770
+  }
+ ]
+}

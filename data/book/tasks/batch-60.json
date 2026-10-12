@@ -1,0 +1,25 @@
+{
+ "batch": 60,
+ "chapter": "Chapter 12: Adult Language Learning",
+ "out": "data/book/gen/batch-60.json",
+ "sections": [
+  {
+   "id": "part-012-chapter-12-adult-language-learning",
+   "title": "Chapter 12: Adult Language Learning",
+   "src": "data/book/src/part-012-chapter-12-adult-language-learning.txt",
+   "chars": 782
+  },
+  {
+   "id": "chapter-139-slug-12-1-adults-are-not-children",
+   "title": "12.1 Adults are not children",
+   "src": "data/book/src/chapter-139-slug-12-1-adults-are-not-children.txt",
+   "chars": 5948
+  },
+  {
+   "id": "chapter-140-slug-12-2-motivations-for-adult-language-learning",
+   "title": "12.2 Motivations for adult language learners",
+   "src": "data/book/src/chapter-140-slug-12-2-motivations-for-adult-language-learning.txt",
+   "chars": 12451
+  }
+ ]
+}

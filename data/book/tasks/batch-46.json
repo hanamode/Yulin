@@ -1,0 +1,19 @@
+{
+ "batch": 46,
+ "chapter": "Chapter 8: Pragmatics",
+ "out": "data/book/gen/batch-46.json",
+ "sections": [
+  {
+   "id": "chapter-103-chapter-8-summary",
+   "title": "8.15 Summary (and further questions to consider)",
+   "src": "data/book/src/chapter-103-chapter-8-summary.txt",
+   "chars": 2700
+  },
+  {
+   "id": "chapter-104-exercises-8",
+   "title": "8.16 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-104-exercises-8.txt",
+   "chars": 2623
+  }
+ ]
+}

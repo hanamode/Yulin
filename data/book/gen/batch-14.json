@@ -1,0 +1,339 @@
+{
+ "batch": 14,
+ "sections": {
+  "chapter-020-slug-3-3-describing-consonants-place-and-phonation": {
+   "title": {
+    "en": "3.3 Describing consonants: Place and phonation",
+    "zh": "3.3 描述辅音：发音部位与发声"
+   },
+   "summary": {
+    "en": "Consonants are phones produced with relatively narrow constrictions in the vocal tract, made when an active or lower articulator moves toward a passive or upper articulator. This section lists the active and passive articulators, shows how their adjectives combine into names for place of articulation, and treats shortened labels, bilabial, dental, interdental, and retroflex articulations, the glottal place, and voicing and phonation.",
+    "zh": "辅音是声道中形成较窄阻碍的音素，阻碍由一个主动（下部）发音器官移向一个被动（上部）发音器官而构成。本节列出各主动与被动发音器官，说明其形容词如何组合成发音部位名称，并讨论缩略称名、双唇、齿、齿间与卷舌等部位、声门部位，以及浊音与发声。"
+   },
+   "points": [
+    {
+     "en": "Active articulators range from the lower lip to the tongue tip, blade, front, back, root, and the epiglottis.",
+     "zh": "主动发音器官从下唇依次包括舌尖、舌叶、舌前、舌后、舌根以及会厌。"
+    },
+    {
+     "en": "Place of articulation combines the active and passive adjectives, as in labiodental or dorsovelar.",
+     "zh": "发音部位由主动与被动发音器官的形容词组合而成，如唇齿音或舌背软腭音。"
+    },
+    {
+     "en": "Many places are shortened to the passive term alone, while bilabial, interdental, and retroflex are special cases.",
+     "zh": "许多部位名称缩略为只保留被动器官的说法，而双唇、齿间与卷舌属于特殊情形。"
+    },
+    {
+     "en": "Glottal consonants involve only the vocal folds and have no clear active or passive articulator.",
+     "zh": "声门辅音只涉及声带，没有明确的主动或被动发音器官。"
+    },
+    {
+     "en": "Voicing is vocal fold vibration, while phonation is the broader manipulation of airflow by the vocal folds.",
+     "zh": "浊音指声带振动，而发声是声带调控气流的更宽泛范畴。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "active articulator",
+     "zh": "主动发音器官",
+     "defEn": "The moving or lower articulator that approaches another part of the vocal tract.",
+     "defZh": "发音时主动移动的下部器官，它向声道另一部位靠近并形成阻碍。"
+    },
+    {
+     "en": "passive articulator",
+     "zh": "被动发音器官",
+     "defEn": "The target or upper articulator toward which the active articulator moves.",
+     "defZh": "主动发音器官所趋近的目标器官，即位置较为固定的上部发音器官。"
+    },
+    {
+     "en": "place of articulation",
+     "zh": "发音部位",
+     "defEn": "The combination of an active articulator and a passive articulator in a consonant.",
+     "defZh": "辅音发音时主动发音器官与被动发音器官共同构成的部位。"
+    },
+    {
+     "en": "bilabial",
+     "zh": "双唇音",
+     "defEn": "A consonant articulated with both lips moving toward each other as mutual targets.",
+     "defZh": "双唇互为运动目标而构成的辅音，两唇大致同等主动地靠近。"
+    },
+    {
+     "en": "voicing",
+     "zh": "浊音",
+     "defEn": "Phonation in which airflow through the glottis causes the vocal folds to vibrate.",
+     "defZh": "气流通过声门时使声带振动的一种发声状态，与清音相对。"
+    },
+    {
+     "en": "phonation",
+     "zh": "发声",
+     "defEn": "The manipulation of airflow through the vocal tract by the vocal folds in different ways.",
+     "defZh": "声带以不同方式调控通过声道气流的总范畴，范围大于浊音。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "pin and fin",
+     "noteEn": "Both begin with labial consonants, since the lower lip is the active articulator.",
+     "noteZh": "二者均以唇音起首，因为下唇是主动发音器官。"
+    },
+    {
+     "text": "thin and chin",
+     "noteEn": "These begin with laminal consonants, and are therefore also coronal.",
+     "noteZh": "这两个词以舌叶辅音起首，因而也属于舌前音。"
+    },
+    {
+     "text": "su 'fire' and zu 'you'",
+     "noteEn": "Basque distinguishes these words by tongue tip versus tongue blade.",
+     "noteZh": "巴斯克语用舌尖与舌叶的对立区分这两个词。"
+    },
+    {
+     "text": "he and who",
+     "noteEn": "Both begin with glottal consonants, but the lips are spread for he and rounded for who.",
+     "noteZh": "二者均以声门辅音起首，但 he 全程展唇，who 全程圆唇。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Consonants are phones made with a relatively narrow constriction somewhere in the vocal tract. The moving part is the active or lower articulator, and its target is the passive or upper articulator. Listed from front to back, the active articulators are the lower lip, the tongue tip, the tongue blade, the tongue front, the tongue back, the tongue root, and the epiglottis, with matching adjectives such as labial, apical, laminal, coronal, dorsal, radical, and epiglottal.",
+     "zh": "辅音是在声道某处形成较窄阻碍的音素。移动的一方是主动（下部）发音器官，其目标则是相应的被动（上部）发音器官。主动发音器官由前到后依次为下唇、舌尖、舌叶、舌前、舌后、舌根和会厌，对应的形容词为唇、舌尖、舌叶、舌前、舌背、舌根和会厌。"
+    },
+    {
+     "en": "The passive articulators run from the upper lip and upper teeth back through the alveolar ridge, the postalveolar region, the hard palate, the velum, the uvula, and the pharyngeal wall, with the adjectives labial, dental, alveolar, postalveolar, palatal, velar, uvular, and pharyngeal. A place of articulation combines both adjectives, the active one first without its ending, then a linking -o-, then the passive adjective, giving names such as labiodental for fin and dorsovelar for kin.",
+     "zh": "被动发音器官由前到后为上唇、上齿、齿龈、齿龈后区、硬腭、软腭、小舌和咽壁，对应的形容词为唇、齿、齿龈、齿龈后、腭、软腭、小舌和咽。发音部位把两个形容词组合起来，先写去掉词尾的主动器官形容词，再加连接元音 -o-，最后是被动器官形容词，于是 fin 的词首音为唇齿音，kin 的词首音为舌背软腭音。"
+    },
+    {
+     "en": "Not every pairing of articulators is possible or attested. Frequently used places are shortened, usually to the passive adjective, so apicoalveolar becomes alveolar and dorsovelar becomes velar. Consonants made with both lips are called bilabial rather than labiolabial. Dentals come in a laminodental type and an interdental type, and postalveolars in a plain type and a retroflex type with the tongue tip curled back.",
+     "zh": "并非所有发音器官的配对都可行或见于语言。常用的部位名称往往缩略，通常只保留被动器官的形容词，因此舌尖齿龈音通常只说齿龈音，舌背软腭音只说软腭音。双唇都参与的辅音称为双唇音，而不说唇唇音。齿音有舌叶齿音与齿间音两类，齿龈后音也有普通与舌尖后卷的卷舌两类。"
+    },
+    {
+     "en": "Glottal consonants, such as the first sound of he and who, consist only of vocal fold articulation, have no clear active or passive articulator, and take on aspects of neighbouring vowels. The vocal folds also regulate airflow for most sounds. Their vibration is called voicing, so a phone with it is voiced and one without it is voiceless; the broader shaping of airflow by the vocal folds is phonation.",
+     "zh": "声门辅音如 he 与 who 的词首音只由声带的运动构成，没有明确的主动或被动发音器官，并会吸收邻近元音的特征。声带也为大多数音调控气流。声带振动称为浊音，有振动的音是浊音，没有的是清音；声带调控气流的更大范畴称为发声，本书只讨论浊与清两种发声。"
+    }
+   ]
+  },
+  "chapter-021-slug-3-4-describing-consonants-manner": {
+   "title": {
+    "en": "3.4 Describing consonants: Manner",
+    "zh": "3.4 描述辅音：发音方法"
+   },
+   "summary": {
+    "en": "Manner of articulation describes how air flows through the vocal tract, depending on the size and shape of the constriction between the articulators. This section defines oral and nasal stops, including plosives, fricatives, central and lateral approximants, affricates, taps, and trills, groups consonants into obstruents, sonorants, and continuants, and then combines phonation, place, and manner into a full description.",
+    "zh": "发音方法描述气流如何在声道中通过，取决于发音器官之间阻碍的大小与形状。本节界定口塞音与鼻塞音，以及爆破音、擦音、央近音与边近音、塞擦音、闪音和颤音，并把辅音归为阻塞音、响音与持续音，最后把发声、发音部位与发音方法三者组合成完整描写。"
+   },
+   "points": [
+    {
+     "en": "Manner of articulation describes how air flows through the vocal tract given the size and shape of the constriction.",
+     "zh": "发音方法描述在特定阻碍大小与形状下气流如何通过声道。"
+    },
+    {
+     "en": "Stops make a complete closure; a raised velum gives oral stops and a lowered velum nasal stops.",
+     "zh": "塞音形成完全闭塞；软腭抬起形成口塞音，软腭下降形成鼻塞音。"
+    },
+    {
+     "en": "Fricatives have a narrow constriction producing turbulent frication, while approximants have little or no frication.",
+     "zh": "擦音阻碍狭窄，产生湍流性摩擦；近音则几乎没有摩擦。"
+    },
+    {
+     "en": "An affricate is a plosive whose closure is released slowly, giving it a brief fricated release.",
+     "zh": "塞擦音是缓慢除阻、因而带有短暂摩擦性除阻的爆破音。"
+    },
+    {
+     "en": "Obstruents are oral stops, fricatives, and affricates; sonorants are nasal stops, approximants, taps, and trills.",
+     "zh": "阻塞音包括口塞音、擦音和塞擦音；响音包括鼻塞音、近音、闪音和颤音。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "manner of articulation",
+     "zh": "发音方法",
+     "defEn": "How air flows through the vocal tract, based on the size and shape of the constriction.",
+     "defZh": "依据发音器官间阻碍的大小与形状而定的气流通过声道的方式。"
+    },
+    {
+     "en": "plosive",
+     "zh": "爆破音",
+     "defEn": "An oral stop whose trapped air is released in a quick explosive burst.",
+     "defZh": "被阻住的气流在闭塞解除后以短促爆发方式释放的口塞音。"
+    },
+    {
+     "en": "fricative",
+     "zh": "擦音",
+     "defEn": "A phone made with a narrow constriction that turns airflow into turbulent frication.",
+     "defZh": "发音器官靠近但不接触，使气流变为湍流摩擦而成的语音。"
+    },
+    {
+     "en": "approximant",
+     "zh": "近音",
+     "defEn": "A phone whose articulators are far enough apart to create little or no frication.",
+     "defZh": "发音器官相距较远、几乎不产生摩擦的语音，如央近音与边近音。"
+    },
+    {
+     "en": "affricate",
+     "zh": "塞擦音",
+     "defEn": "A plosive with a fricated release, created by releasing the closure slowly.",
+     "defZh": "通过缓慢除阻而在释放时带出短暂摩擦成分的一类爆破音。"
+    },
+    {
+     "en": "obstruent",
+     "zh": "阻塞音",
+     "defEn": "The class of oral stops, fricatives, and affricates, which significantly obstruct airflow.",
+     "defZh": "由口塞音、擦音与塞擦音构成、对气流有明显阻碍的类别。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "met",
+     "noteEn": "Its initial consonant is fully described as a voiced bilabial nasal stop, hence a sonorant.",
+     "noteZh": "其词首辅音完整描写为浊双唇鼻塞音，因而属于响音。"
+    },
+    {
+     "text": "set",
+     "noteEn": "Its initial consonant is a voiceless alveolar fricative, an obstruent and a continuant.",
+     "noteZh": "其词首辅音是清齿龈擦音，既是阻塞音也是持续音。"
+    },
+    {
+     "text": "czy 'if, whether' and trzy 'three'",
+     "noteEn": "Polish contrasts an affricate with a plosive followed by a fricative.",
+     "noteZh": "波兰语以塞擦音对立于爆破音加擦音的组合。"
+    },
+    {
+     "text": "pero 'but' and perro 'dog'",
+     "noteEn": "Spanish distinguishes a tap in the middle of pero from a trill in perro.",
+     "noteZh": "西班牙语以 pero 中间的闪音对立于 perro 中的颤音。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Manner of articulation classifies consonant phones by how air flows through the vocal tract, based on the size and shape of the constriction between the articulators. In a stop, the active articulator presses firmly against the passive articulator and blocks all airflow. If the velum is raised, air passes only through the oral cavity, giving an oral stop; if it is lowered, air also enters the nasal cavity, giving a nasal stop. Most oral stops are plosives, but ejectives, implosives, and clicks are also oral stops.",
+     "zh": "发音方法依据发音器官之间阻碍的大小与形状，按气流通过声道的方式给辅音分类。发塞音时主动发音器官紧压被动发音器官，完全阻断气流。软腭抬起时气流只经口腔，形成口塞音；软腭下降时气流也进入鼻腔，形成鼻塞音。多数口塞音是爆破音，但挤喉音、内爆音和搭嘴音也属于口塞音。"
+    },
+    {
+     "en": "When the articulators come very close without touching, the narrow constriction makes airflow turbulent and noisy, a frication that sounds like hissing or buzzing; such phones are fricatives. If the articulators are far enough apart that little or no frication results, the phone is an approximant. Most approximants allow airflow through the middle of the oral cavity and are central approximants, while a lateral approximant diverts airflow along one or both sides of a central contact.",
+     "zh": "当发音器官十分接近但并未接触时，狭窄的阻碍使气流变得湍乱嘈杂，产生类似嘶嘶声或嗡嗡声的摩擦，这类语音就是擦音。若发音器官相距足够远、几乎不产生摩擦，则该语音是近音。多数近音的气流较不受阻地通过口腔中部，称为央近音；边近音则让气流沿舌部中央接触的一侧或两侧通过。"
+    },
+    {
+     "en": "Releasing a plosive closure slowly creates a brief fricative-like sound, so the release is fricated; a plosive with such a release is an affricate. Telling a true affricate apart from a plosive followed by a fricative is difficult, and the contrast is marginal in English but robust in Polish. Beyond the scope of this textbook are taps, whose closure is so brief that airflow is barely interrupted, and trills, which resemble repeated taps.",
+     "zh": "缓慢释放爆破音的闭塞会产生短暂的类擦音成分，即摩擦性除阻；带有这种除阻的爆破音就是塞擦音。区分真正的塞擦音与爆破音加擦音的组合十分困难，这一对立在英语中很边缘，在波兰语中则较稳固。超出本书范围的是闪音与颤音：闪音的闭塞极短，气流几乎未被阻断；颤音类似反复的闪音。"
+    },
+    {
+     "en": "These manners also form larger classes. Oral stops, fricatives, and affricates are obstruents, defined by a significant obstruction to airflow, while nasal stops, approximants, taps, and trills are sonorants. Fricatives and approximants, with continuous oral airflow, are continuants. A consonant is described in the order phonation, place, manner, so met begins with a voiced bilabial nasal stop and set with a voiceless alveolar fricative.",
+     "zh": "这些发音方法还构成更大的类别。口塞音、擦音与塞擦音合称阻塞音，其特征是总体上对气流有显著阻碍；鼻塞音、近音、闪音与颤音合称响音，气流经鼻腔或口腔时较为通畅。擦音与近音因口腔气流持续，合称持续音。辅音的描写顺序为发声、发音部位、发音方法，因此 met 的词首音是浊双唇鼻塞音，set 的词首音是清齿龈擦音。"
+    }
+   ]
+  },
+  "chapter-022-slug-3-5-describing-vowels": {
+   "title": {
+    "en": "3.5 Describing vowels",
+    "zh": "3.5 描述元音"
+   },
+   "summary": {
+    "en": "Vowel phones are categorized by the configuration of the tongue and lips during their articulation, which determines the vowel's overall quality; quality is more of a continuum than consonant categories, so it is divided into broad regions. This section covers height, backness, rounding, tenseness, nasality, and length, explains why frontness depends on height, and treats monophthongs, diphthongs, and triphthongs.",
+    "zh": "元音音素按发音时舌头与嘴唇的形态分类，由此决定元音的整体音质；音质比辅音的部位与方法更接近连续统，因而只能划分为若干主要区域。本节介绍舌位高低、前后、圆唇、松紧、鼻化与长短，说明前后位置为何取决于高低，并讨论单元音、双元音与三元音。"
+   },
+   "points": [
+    {
+     "en": "Height (high, mid, low) and backness (front, central, back) describe vertical and horizontal tongue position.",
+     "zh": "舌位高低（高、中、低）与前后（前、央、后）分别描写舌头的垂直与水平位置。"
+    },
+    {
+     "en": "Rounding distinguishes rounded, spread, and neutral lips, with spread and neutral grouped as unrounded.",
+     "zh": "圆唇区分圆唇、展唇与中性唇形，展唇与中性合称非圆唇。"
+    },
+    {
+     "en": "Tenseness depends on tongue root position: advanced for tense vowels and retracted for lax vowels.",
+     "zh": "松紧取决于舌根位置：舌根前伸为紧元音，舌根后缩为松元音。"
+    },
+    {
+     "en": "Nasality separates oral vowels from nasal vowels according to whether the velum is raised or lowered.",
+     "zh": "鼻化依软腭抬起或下降，把元音区分为口元音与鼻元音。"
+    },
+    {
+     "en": "Length separates long from short vowels, and long consonants are geminates as opposed to singletons.",
+     "zh": "长短区分长元音与短元音，长辅音称为叠辅音，与单辅音相对。"
+    },
+    {
+     "en": "Monophthongs hold a steady quality, while diphthongs and triphthongs shift through two or three qualities.",
+     "zh": "单元音音质稳定，双元音与三元音则依次经过两个或三个音质。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "vowel quality",
+     "zh": "元音音质",
+     "defEn": "The overall character of a vowel, determined by tongue and lip configuration.",
+     "defZh": "由发音时舌头与嘴唇的形态所决定的元音整体听感特征。"
+    },
+    {
+     "en": "backness",
+     "zh": "舌位前后",
+     "defEn": "The horizontal position of the tongue, giving front, central, and back vowels.",
+     "defZh": "舌头的水平位置，据此把元音分为前元音、央元音和后元音。"
+    },
+    {
+     "en": "rounding",
+     "zh": "圆唇",
+     "defEn": "The shape of the lips, which may be rounded, spread, or neutral.",
+     "defZh": "发音时双唇的形态，可分为圆唇、展唇与中性三种情况。"
+    },
+    {
+     "en": "tenseness",
+     "zh": "松紧",
+     "defEn": "Whether the tongue root is advanced for a tense vowel or retracted for a lax vowel.",
+     "defZh": "依舌根前伸或后缩而定的元音特征，使元音分为紧与松。"
+    },
+    {
+     "en": "nasality",
+     "zh": "鼻化",
+     "defEn": "Whether a vowel is oral, with a raised velum, or nasal, with a lowered velum.",
+     "defZh": "依软腭抬起或下降而定，把元音分为口元音与鼻元音的特征。"
+    },
+    {
+     "en": "diphthong",
+     "zh": "双元音",
+     "defEn": "A vowel phone that begins with one articulation and shifts quickly into another.",
+     "defZh": "从一种发音状态开始、并迅速滑向另一状态的元音音素。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "beat and bat",
+     "noteEn": "Beat has a high vowel and bat a low vowel; both are front.",
+     "noteZh": "beat 含高元音，bat 含低元音；二者都是前元音。"
+    },
+    {
+     "text": "ii 'good' and i 'stomach'",
+     "noteEn": "Japanese contrasts a long vowel in ii with a short vowel in i, with the same quality.",
+     "noteZh": "日语以 ii 的长元音对立于 i 的短元音，二者音质相同。"
+    },
+    {
+     "text": "sammān 'honour' and samān 'equal'",
+     "noteEn": "Hindi contrasts a geminate bilabial nasal stop with a singleton in the middle of the word.",
+     "noteZh": "印地语以词中的叠双唇鼻塞音对立于单辅音。"
+    },
+    {
+     "text": "rượu 'alcohol'",
+     "noteEn": "Vietnamese has a triphthong that moves through three vowel qualities.",
+     "noteZh": "越南语的该词含有依次经过三种元音音质的三元音。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Vowel phones are described by the configuration of the tongue and lips during their articulation, which determines the vowel's overall quality. Quality is much more of a continuum than consonant place or manner: moving an articulator by less than a millimetre turns a stop into a fricative, yet that same distance makes no noticeable difference to a vowel. Vowel height refers to how high the tongue is, and backness to its horizontal position.",
+     "zh": "元音音素依发音时舌头与嘴唇的形态来描写，这一形态决定元音的整体音质。音质比辅音的部位与方法更接近连续统：发音器官移动不到一毫米就足以把塞音变成擦音，而同样的距离对元音却没有可察觉的影响。舌位高低指舌头的垂直位置，舌位前后则指其水平位置。"
+    },
+    {
+     "en": "Backness cannot be defined in absolute terms. The human jaw is hinged, so lowering it also swings it backward and carries the tongue along, making it harder for a lowered tongue to reach as far forward as a high one. What counts as front therefore depends on vowel height. The possible combinations of height and backness thus form a skewed vowel space, drawn as an asymmetric quadrangle with the bottom left corner cut off.",
+     "zh": "舌位前后不能以绝对方式定义。人的下颌是铰接的，下颌下降时也向后摆动并带动舌头，使降低的舌头难以像高舌位那样前伸。因此，何谓前取决于元音的高低。于是高低与前后可能组合出的元音空间呈偏斜形状，通常画成一个被切掉左下角的不对称四边形。"
+    },
+    {
+     "en": "Rounding concerns the shape of the lips: they may be compressed and protruded into a circle, thinly stretched into a smile, or in between, and spread and neutral configurations together count as unrounded. Tenseness depends on the tongue root, which may be advanced for a tense vowel or retracted for a lax vowel; many languages, such as Taba, need no such distinction, whereas English has tense and lax pairs. Nasality separates oral from nasal vowels, and length separates long from short vowels and geminates from singletons.",
+     "zh": "圆唇涉及双唇的形状：双唇可以收拢前突成圆形，可以拉平成微笑状，也可以处于中间状态，展唇与中性状态合称非圆唇。松紧取决于舌根：舌根前伸为紧元音，舌根后缩为松元音；许多语言如 Taba 无需这一区分，而英语有紧松配对的元音。鼻化区分口元音与鼻元音，长短区分长元音与短元音，以及叠辅音与单辅音。"
+    },
+    {
+     "en": "Vowels that keep a stable pronunciation from beginning to end are monophthongs. Diphthongs begin with one articulation and shift quickly into another, and some languages even have triphthongs, which move through three vowel qualities. There is less consistency in the order of vowel descriptions than for consonants; a common order is height, backness, rounding, with nasality almost always last and tenseness or length usually first.",
+     "zh": "从头到尾发音相对稳定的元音是单元音。双元音从某一特定发音状态开始并迅速滑向另一状态；有些语言甚至有三元音，依次经过三种元音音质。元音描写的顺序不如辅音统一；常见顺序是高低、前后、圆唇，鼻化几乎总是放在最后，而松紧或长短通常放在最前。"
+    }
+   ]
+  }
+ }
+}

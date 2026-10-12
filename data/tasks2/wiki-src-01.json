@@ -1,0 +1,48 @@
+{
+ "batch": 1,
+ "out": "data/gen2/wiki-src/wiki-src-01.json",
+ "entries": [
+  {
+   "id": "allophone",
+   "title": "音位变体",
+   "en": "Allophone",
+   "category": "concepts",
+   "summary": "音位变体是同一音位在不同语音环境或自由条件下实际出现的具体音素。它们听感相似、不区别意义，同一音位的各变体之间通常呈互补分布，或可自由替换。音位变体分为条件变体"
+  },
+  {
+   "id": "bloomfield",
+   "title": "伦纳德·布龙菲尔德",
+   "en": "Leonard Bloomfield",
+   "category": "people",
+   "summary": "伦纳德·布龙菲尔德（1887—1949）是美国描写语言学的奠基人。其《语言论》（1933）把语言研究建立在可观察的言语行为之上，系统阐述音位、语素与直接成分分析"
+  },
+  {
+   "id": "chinese-characters",
+   "title": "汉字",
+   "en": "Chinese Characters",
+   "category": "writing",
+   "summary": "汉字是记录汉语的书写符号系统，是世界上最古老且仍在使用、以表意为主的文字之一。它以字形记录语素—音节，通过象形、指事、会意、形声等方式构造，历经甲骨文、金文、篆"
+  },
+  {
+   "id": "chomsky",
+   "title": "诺姆·乔姆斯基",
+   "en": "Noam Chomsky",
+   "category": "people",
+   "summary": "诺姆·乔姆斯基（1928— ）是美国语言学家，生成语法的创立者。他主张语言学应描写人脑内在的语言能力，用形式化规则生成无限句子，并提出深层结构与表层结构、普遍语"
+  },
+  {
+   "id": "code-switching",
+   "title": "语码转换",
+   "en": "Code-switching",
+   "category": "concepts",
+   "summary": "语码转换是双语或多语者在同一会话乃至同一句子中交替使用两种或多种语言变体的现象。它既受句法层面的结构制约，又承担标识身份、调节人际关系与实现话语功能等社会作用，"
+  },
+  {
+   "id": "cognitive-linguistics",
+   "title": "认知语言学",
+   "en": "Cognitive Linguistics",
+   "category": "theories",
+   "summary": "认知语言学是20世纪70至80年代兴起的语言学思潮，主张语言是人类一般认知能力的产物，语法与语义不可分割。它反对句法自主性，强调体验性、原型范畴化、概念隐喻与意"
+  }
+ ]
+}

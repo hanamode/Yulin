@@ -1,0 +1,24 @@
+{
+ "batch": 36,
+ "out": "data/gen2/batch-36.json",
+ "entries": [
+  {
+   "id": "proto-language",
+   "title": "原始语",
+   "en": "Proto-language",
+   "category": "writing"
+  },
+  {
+   "id": "logogram",
+   "title": "表意文字",
+   "en": "Logogram",
+   "category": "writing"
+  },
+  {
+   "id": "syllabary",
+   "title": "音节文字",
+   "en": "Syllabary",
+   "category": "writing"
+  }
+ ]
+}

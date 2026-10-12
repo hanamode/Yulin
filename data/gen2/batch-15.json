@@ -1,0 +1,344 @@
+{
+ "batch": 15,
+ "entries": [
+  {
+   "id": "proposition",
+   "title": "命题",
+   "en": "Proposition",
+   "category": "concepts",
+   "tags": [
+    "命题",
+    "真值条件",
+    "命题态度",
+    "内涵语境",
+    "意义理论"
+   ],
+   "summary": "命题是语义学中表示句子所表达的、可判定真假的抽象内容，它独立于具体语言形式与说话场合。同一命题可由不同句子表达，如英语 Snow is white 与汉语「雪是白的」在真值条件上等同。命题是信念、知道、断言等命题态度动词的宾语，也是逻辑推理与真值语义学的基本单位。自弗雷格以来，命题被视为超越语句与言语行为的第三层意义对象。",
+   "summaryEn": "A proposition is the abstract, truth-evaluable content expressed by a sentence, independent of any particular language or occasion of use. Different sentences, such as English Snow is white and Chinese 「雪是白的」, may express the same proposition. Propositions serve as the objects of propositional-attitude verbs like believe and know, and as the basic units of truth-conditional semantics and logical inference. Since Frege they have been treated as a level of meaning distinct from sentences and utterances.",
+   "sections": [
+    {
+     "h": "定义与基本特征",
+     "hEn": "Definition and Basic Characteristics",
+     "p": [
+      "命题是语句所表达的抽象意义内容，其核心特征是可真可假。英语句子 The cat is on the mat 与汉语「猫在垫子上」形式迥异，却表达同一命题，因为二者在同一情形下同为真、同为假。命题既不是句子本身，也不是说话事件：同一句子在不同场合可以表达不同命题，如含指示语的「我明天来」随说话人与时间而变。真值条件因此成为判定命题同一性的基本标准。"
+     ],
+     "pEn": [
+      "A proposition is the abstract content expressed by a sentence, and its defining feature is that it can be true or false. The English sentence The cat is on the mat and the Chinese sentence 「猫在垫子上」 look quite different yet express the same proposition, since they are true or false in exactly the same situations. A proposition is neither a sentence nor a speech event: one and the same sentence may express different propositions on different occasions, as with the indexical sentence 「我明天来」. Truth conditions are therefore the standard criterion of propositional identity."
+     ]
+    },
+    {
+     "h": "命题、语句与言语行为",
+     "hEn": "Propositions, Sentences and Speech Acts",
+     "p": [
+      "语言哲学通常区分句子、命题与言语行为三个层次。句子是语言单位，命题是其承载的真值内容，言语行为则是说话人在具体语境中实施的断言、提问或命令。同一命题可以由陈述句、疑问句或名词化结构表达，例如「他离开了」「他离开了吗」「他的离开」。奥斯汀与塞尔由此把命题内容与言外之力分开处理，认为前者是共同的内容核心，后者决定话语的功能。"
+     ],
+     "pEn": [
+      "Philosophy of language commonly distinguishes three levels: the sentence, the proposition and the speech act. The sentence is a linguistic unit, the proposition is the truth-evaluable content it carries, and the speech act is the assertion, question or command performed by a speaker in context. The same proposition can be expressed by a declarative, an interrogative or a nominalisation, for instance 「他离开了」, 「他离开了吗」 and 「他的离开」. Austin and Searle accordingly separate propositional content from illocutionary force, treating the former as the shared core of content."
+     ]
+    },
+    {
+     "h": "命题态度与内涵语境",
+     "hEn": "Propositional Attitudes and Intensional Contexts",
+     "p": [
+      "命题是命题态度动词的宾语。在 believe、know、doubt、hope 等动词之后，从句表达的不是事实，而是主体所持的态度内容。这类语境属于内涵语境：即使「启明星」与「长庚星」指称同一颗行星，替换之后仍可能改变真值。弗雷格因此提出涵义与指称之分，用以解释「启明星是长庚星」既有认知内容又只涉及同一个对象。"
+     ],
+     "pEn": [
+      "Propositions serve as the objects of propositional-attitude verbs. After verbs such as believe, know, doubt and hope, the embedded clause does not state a fact but reports the content of a mental attitude. Such contexts are intensional: even though 「启明星」 and 「长庚星」 refer to the same planet, substituting one for the other may change the truth value of the whole sentence. Frege therefore distinguished sense from reference in order to explain how 「启明星是长庚星」 is both informative and about a single object."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Controversies and Criticisms",
+     "p": [
+      "命题的本体论地位长期存在争议。弗雷格视之为第三领域的抽象对象，罗素早期主张命题是包含对象与属性的复合体，蒯因则因其个体化困难而倾向以语句代替命题。结构化命题理论主张命题由对象、属性与结构组成，可能世界语义学则把命题等同于可能世界集合。这些理论之争直接影响着语义学处理态度归属与模态语境的方式。"
+     ],
+     "pEn": [
+      "The ontological status of propositions remains disputed. Frege treated them as abstract objects belonging to a third realm; the early Russell held that they are complexes containing objects and properties; Quine, troubled by their individuation, preferred to speak of sentences instead. Structured-propositions theories analyse propositions as built from objects, properties and structure, whereas possible-worlds semantics identifies a proposition with a set of possible worlds. These disagreements bear directly on how semantics handles attitude attributions and modal contexts."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "命题",
+     "tEn": "Proposition",
+     "d": "句子所表达的、可以判定真假的抽象语义内容，是逻辑推理的基本单位。",
+     "dEn": "The abstract, truth-evaluable content expressed by a sentence and used in inference."
+    },
+    {
+     "t": "真值条件",
+     "tEn": "Truth Condition",
+     "d": "使一个命题得以成真的充分必要情形，是判定命题同一性的依据。",
+     "dEn": "The conditions under which a proposition is true, used to identify propositional content."
+    },
+    {
+     "t": "命题态度",
+     "tEn": "Propositional Attitude",
+     "d": "信念、知道、怀疑、希望等主体对某个命题所持的心理状态。",
+     "dEn": "A mental state such as belief, knowledge or hope that takes a proposition as its object."
+    },
+    {
+     "t": "言外之力",
+     "tEn": "Illocutionary Force",
+     "d": "言语行为中说话人所实施的断言、提问或命令等交际功能。",
+     "dEn": "The assertive, interrogative or directive function a speaker performs in uttering a sentence."
+    },
+    {
+     "t": "内涵语境",
+     "tEn": "Intensional Context",
+     "d": "替换同指成分可能改变真值的语言环境，如信念动词所带的从句。",
+     "dEn": "A context, such as a belief clause, in which substituting co-referring terms may alter truth value."
+    },
+    {
+     "t": "结构化命题",
+     "tEn": "Structured Proposition",
+     "d": "主张命题由对象、属性以及它们的组合结构构成的命题理论。",
+     "dEn": "The view that a proposition is composed of objects, properties and their structural arrangement."
+    },
+    {
+     "t": "可能世界语义学",
+     "tEn": "Possible-worlds Semantics",
+     "d": "以可能世界的集合来刻画命题真值条件与模态的语义理论。",
+     "dEn": "A semantic theory that models propositions and modality in terms of sets of possible worlds."
+    }
+   ],
+   "related": [
+    "entailment",
+    "presupposition",
+    "reference-sense",
+    "speech-act",
+    "semantics"
+   ],
+   "sources": [
+    "Wikipedia, \"Proposition\", https://en.wikipedia.org/wiki/Proposition",
+    "Frege, \"Über Sinn und Bedeutung\", 1892",
+    "Russell, \"On Denoting\", 1905"
+   ]
+  },
+  {
+   "id": "reference-sense",
+   "title": "指称与涵义",
+   "en": "Reference and Sense",
+   "category": "concepts",
+   "tags": [
+    "指称",
+    "涵义",
+    "弗雷格",
+    "内涵语境",
+    "意义理论"
+   ],
+   "summary": "指称与涵义是弗雷格在《论涵义与指称》中提出的意义区分：指称是表达式所指向的对象，涵义是该对象被给出的方式。启明星与长庚星同指金星，涵义却不同，故「启明星是长庚星」既有认知价值又非空洞的同语反复。这一区分奠定了现代语义学处理同一性、内涵语境与空名问题的基本框架，也启发了罗素的摹状词理论与卡尔纳普的内涵外延之分。",
+   "summaryEn": "Reference and sense is Frege's distinction between the object an expression stands for and the way that object is presented. The morning star and the evening star both refer to Venus, yet they differ in sense, which is why 「启明星是长庚星」 is informative rather than a trivial tautology. The distinction underlies modern treatments of identity, intensional contexts and empty names, and it inspired Russell's theory of descriptions and Carnap's distinction between extension and intension.",
+   "sections": [
+    {
+     "h": "基本区分",
+     "hEn": "The Basic Distinction",
+     "p": [
+      "指称是表达式在现实或可能世界中指向的对象，涵义则是该对象被呈现的方式，即认知主体据以识别对象的条件。专名、摹状词与通名都可以同时具有涵义与指称。弗雷格认为涵义决定指称：把握了涵义，就掌握了识别指称的途径，但涵义本身是客观的、可以为整个语言共同体共享的抽象对象，而非个别人的主观联想。"
+     ],
+     "pEn": [
+      "Reference is the object an expression picks out in the actual or some possible world, while sense is the mode of presentation of that object, that is, the condition by which a thinker identifies it. Proper names, definite descriptions and common nouns may all possess both sense and reference. For Frege, sense determines reference: grasping the sense amounts to knowing how to identify the referent, yet the sense itself is an objective, abstract entity shareable by a whole linguistic community rather than a private association."
+     ]
+    },
+    {
+     "h": "经典例证：启明星与长庚星",
+     "hEn": "The Classical Example: Morning Star and Evening Star",
+     "p": [
+      "弗雷格的著名例子是「启明星」（Morgenstern）与「长庚星」（Abendstern）：前者指清晨出现的金星，后者指黄昏出现的金星，二者指称同一颗行星，涵义却不同。因此「启明星是长庚星」传达了天文学发现，而「启明星是启明星」只是同一律的实例。如果意义仅由指称构成，这一差别便无法解释，因为两个表达式在任何情形下都选取同一对象。"
+     ],
+     "pEn": [
+      "Frege's celebrated example is 「启明星」 (Morgenstern) and 「长庚星」 (Abendstern): the first names Venus as it appears at dawn, the second as it appears at dusk. Both refer to the same planet, yet their senses differ. Hence 「启明星是长庚星」 reports an astronomical discovery, whereas 「启明星是启明星」 merely instances the law of identity. If meaning consisted only in reference, this contrast could not be explained, since both expressions select the same object in every circumstance."
+     ]
+    },
+    {
+     "h": "涵义、指称与语句",
+     "hEn": "Sense, Reference and Sentences",
+     "p": [
+      "涵义与指称的区分同样适用于整个句子：句子的指称是真值，句子的涵义是命题。弗雷格据此解释从句在内涵语境中的替换失败：在「某人相信启明星是长庚星」中，从句的指称转为其涵义，故同指替换未必保真。汉语中「《呐喊》的作者」与「鲁迅」同指一人，而「知道《呐喊》的作者是鲁迅」与「知道鲁迅是鲁迅」认知内容迥异，可见该区分具有跨语言的解释力。"
+     ],
+     "pEn": [
+      "The distinction applies to whole sentences as well: a sentence refers to a truth value, while its sense is the proposition it expresses. Frege thus explains the failure of substitution in intensional contexts: in 「某人相信启明星是长庚星」, the embedded clause shifts from reference to sense, so replacing co-referring terms need not preserve truth. Chinese offers a parallel case: 「《呐喊》的作者」 and 「鲁迅」 pick out the same person, yet knowing that the author of Na Han is Lu Xun differs cognitively from knowing that Lu Xun is Lu Xun."
+     ]
+    },
+    {
+     "h": "后续发展与批评",
+     "hEn": "Later Developments and Criticism",
+     "p": [
+      "罗素在《论指称》中批评弗雷格的涵义概念，主张摹状词本身并不指称，而是通过量化结构在语境中获得意义，从而处理「当今法国国王是秃头」这类空指问题。卡尔纳普以内涵与外延重述该区分，克里普克则主张专名只有指称而无弗雷格式涵义，指称由因果历史链条确定。这些争论使该区分至今仍是意义理论的核心议题。"
+     ],
+     "pEn": [
+      "In On Denoting Russell criticised Frege's notion of sense, arguing that descriptions do not refer by themselves but acquire meaning through quantificational structure, an analysis that handles empty descriptions such as the present King of France is bald. Carnap restated the distinction as one between intension and extension, while Kripke argued that proper names have reference but no Fregean sense, reference being fixed by a causal-historical chain. These debates keep the distinction central to the theory of meaning."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "指称",
+     "tEn": "Reference",
+     "d": "表达式在现实或可能世界中所指向的对象，句子则指称真值。",
+     "dEn": "The object an expression picks out, or the truth value in the case of sentences."
+    },
+    {
+     "t": "涵义",
+     "tEn": "Sense",
+     "d": "表达式呈现其指称对象的方式，即识别该对象的认知条件。",
+     "dEn": "The mode of presentation of an expression's referent, i.e. the condition for identifying it."
+    },
+    {
+     "t": "摹状词",
+     "tEn": "Definite Description",
+     "d": "以定冠词或限定成分引导、意在指称某个唯一对象的名词性短语。",
+     "dEn": "A phrase, such as the author of Waverley, intended to pick out a unique object."
+    },
+    {
+     "t": "内涵语境",
+     "tEn": "Intensional Context",
+     "d": "同指替换不必然保真的语境，如信念、知道等态度动词之后。",
+     "dEn": "A context, typically after attitude verbs, in which substituting co-referring terms may change truth value."
+    },
+    {
+     "t": "认知价值",
+     "tEn": "Cognitive Value",
+     "d": "两个表达式涵义不同所带来的信息差异，如同语反复与发现之别。",
+     "dEn": "The difference in information contributed by expressions sharing a referent but differing in sense."
+    },
+    {
+     "t": "空名",
+     "tEn": "Empty Name",
+     "d": "在现实世界中缺乏真实指称对象的名称或摹状词，如福尔摩斯。",
+     "dEn": "A name or description, such as Sherlock Holmes, that lacks a real-world referent."
+    },
+    {
+     "t": "外延与内涵",
+     "tEn": "Extension and Intension",
+     "d": "外延是表达式所指的类或真值，内涵是确定外延的规则或函项。",
+     "dEn": "Extension is the class or truth value an expression determines; intension is the rule determining it."
+    }
+   ],
+   "related": [
+    "semantics",
+    "proposition",
+    "signifier-signified",
+    "lexical-semantics",
+    "entailment"
+   ],
+   "sources": [
+    "Wikipedia, \"Sense and reference\", https://en.wikipedia.org/wiki/Sense_and_reference",
+    "Frege, \"Über Sinn und Bedeutung\", 1892",
+    "Russell, \"On Denoting\", 1905"
+   ]
+  },
+  {
+   "id": "compositionality",
+   "title": "组合性原则",
+   "en": "Compositionality",
+   "category": "concepts",
+   "tags": [
+    "组合性",
+    "弗雷格原则",
+    "句法结构",
+    "递归",
+    "形式语义学"
+   ],
+   "summary": "组合性原则指复合表达式的意义由其组成部分的意义及句法组合方式决定，因此语义可随句法结构递归生成。英语 The dog chased the cat 与 The cat chased the dog 词项相同而结构不同，意义随之相反；happy 加前缀 un- 得 unhappy，语义可以预测。该原则是形式语义学的基石，成语与隐喻则被视为需额外说明的边缘现象。",
+   "summaryEn": "The principle of compositionality states that the meaning of a complex expression is determined by the meanings of its parts together with their syntactic mode of combination, so that semantics can be generated recursively from structure. The dog chased the cat and The cat chased the dog contain the same words but differ in structure and hence in meaning, while happy plus the prefix un- yields the predictable unhappy. The principle is the cornerstone of Montague grammar and formal semantics; idioms and metaphors are usually treated as marginal phenomena.",
+   "sections": [
+    {
+     "h": "原则的表述",
+     "hEn": "Formulating the Principle",
+     "p": [
+      "组合性原则通常表述为：整体表达式的意义是其各部分意义与组合方式的函项。这一思想可以追溯至弗雷格，故又称弗雷格原则。它确保语言使用者无需为每个新句子单独存储意义，只需掌握词项意义与组合规则，就能理解无限多的句子。形式的严格表述则要求语义解释与句法规则同构，即句法每组合一次，语义便相应地计算一次。"
+     ],
+     "pEn": [
+      "The principle is usually stated as follows: the meaning of a complex expression is a function of the meanings of its parts and of their mode of combination. The idea goes back to Frege, which is why it is also called the Frege principle. It guarantees that speakers need not store the meaning of every new sentence individually, since knowledge of lexical meanings and combination rules suffices to understand an unlimited number of sentences. A rigorous formulation demands that semantic interpretation run parallel to syntactic rules, meaning being computed whenever syntax combines two items."
+     ]
+    },
+    {
+     "h": "句法结构与语义组合",
+     "hEn": "Syntactic Structure and Semantic Composition",
+     "p": [
+      "词语相同而结构不同，意义即不同。英语 The dog chased the cat 意为狗追猫，而 The cat chased the dog 意为猫追狗；汉语「咬死了猎人的狗」因层次切分不同而产生歧义。这说明组合不仅依赖词义清单，还依赖句法树所表示的层次与支配关系，语义规则通常逐节点自下而上地计算，先组合动词与宾语，再与主语结合。"
+     ],
+     "pEn": [
+      "Identical words with different structures yield different meanings. In English, The dog chased the cat means that the dog pursued the cat, whereas The cat chased the dog reverses the roles; in Chinese, the string 「咬死了猎人的狗」 is ambiguous because it allows two different bracketings. Composition therefore depends not only on a list of word meanings but also on the hierarchical and dominance relations represented in the syntactic tree, with semantic rules applying bottom-up at each node, first combining verb and object and then adding the subject."
+     ]
+    },
+    {
+     "h": "可预测性与递归",
+     "hEn": "Predictability and Recursion",
+     "p": [
+      "组合性是语言创造性的语义基础。由于句法可以递归地生成无限长的结构，语义也随之递归计算，例如英语 The man who knew the woman who wrote the book，或汉语「我知道你知道他知道这件事」层层嵌套。这种可预测性使有限的词汇与有限的规则能够覆盖无限的表达，也解释了儿童为何能在有限输入的基础上理解从未听过的新句子。"
+     ],
+     "pEn": [
+      "Compositionality is the semantic basis of linguistic creativity. Because syntax can generate indefinitely long structures recursively, meaning is computed recursively as well, as in The man who knew the woman who wrote the book, or the nested Chinese sentence 「我知道你知道他知道这件事」. This predictability allows a finite vocabulary and finite rules to cover an infinite range of expressions, and it explains why children can understand sentences they have never heard on the basis of limited input."
+     ]
+    },
+    {
+     "h": "反例与限制",
+     "hEn": "Counterexamples and Limits",
+     "p": [
+      "成语与固定搭配常被视为组合性的反例。英语 kick the bucket 并不等于踢水桶，而是死去；汉语「胸有成竹」也不能由字面意义推知。此外，隐喻、转喻与依赖语境的解释同样超出字面组合。多数理论家的回应是区分字面语义与语用推理，或者把习语作为词汇化单位直接列入词库，从而在保留原则普遍性的同时容纳这些现象。"
+     ],
+     "pEn": [
+      "Idioms and fixed expressions are often cited as counterexamples. English kick the bucket does not mean that someone kicks a bucket but that someone dies, and Chinese 「胸有成竹」 cannot be derived from the literal meanings of its characters. Metaphor, metonymy and context-dependent interpretation likewise exceed literal composition. Most theorists respond either by distinguishing literal semantics from pragmatic inference or by listing idioms in the lexicon as lexicalised units, thereby preserving the generality of the principle while accommodating the data."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "组合性原则",
+     "tEn": "Principle of Compositionality",
+     "d": "复合表达式的意义由部分意义与组合方式共同决定的原则。",
+     "dEn": "The thesis that the meaning of a complex expression is determined by its parts and their combination."
+    },
+    {
+     "t": "弗雷格原则",
+     "tEn": "Frege Principle",
+     "d": "主张整体意义依赖于部分意义的语义思想，常与组合性同义。",
+     "dEn": "The semantic doctrine, often identified with compositionality, that the whole depends on its parts."
+    },
+    {
+     "t": "函项性",
+     "tEn": "Functionality",
+     "d": "语义解释以函项方式作用于句法结构，保证组合结果唯一。",
+     "dEn": "The property whereby interpretation applies as a function to structure, yielding a unique result."
+    },
+    {
+     "t": "递归",
+     "tEn": "Recursion",
+     "d": "句法或语义规则反复应用于自身输出，从而生成无限的结构。",
+     "dEn": "The repeated application of a rule to its own output, generating unbounded structures."
+    },
+    {
+     "t": "习语",
+     "tEn": "Idiom",
+     "d": "意义不能由字面成分组合推知的固定表达，如 kick the bucket。",
+     "dEn": "A fixed expression, such as kick the bucket, whose meaning is not derivable from its parts."
+    },
+    {
+     "t": "歧义",
+     "tEn": "Ambiguity",
+     "d": "同一词串因句法结构或词义不同而具有多种解释的现象。",
+     "dEn": "The phenomenon whereby one string receives several interpretations because of structure or lexical meaning."
+    },
+    {
+     "t": "蒙塔古语法",
+     "tEn": "Montague Grammar",
+     "d": "以类型逻辑与函项应用严格实现组合性的形式语义框架。",
+     "dEn": "A formal semantic framework implementing compositionality through type logic and function application."
+    }
+   ],
+   "related": [
+    "semantics",
+    "proposition",
+    "recursion",
+    "syntax",
+    "lexical-semantics"
+   ],
+   "sources": [
+    "Wikipedia, \"Principle of compositionality\", https://en.wikipedia.org/wiki/Principle_of_compositionality",
+    "Frege, \"Über Sinn und Bedeutung\", 1892",
+    "Montague, \"The Proper Treatment of Quantification in Ordinary English\", 1973"
+   ]
+  }
+ ]
+}

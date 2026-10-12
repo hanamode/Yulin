@@ -1,0 +1,288 @@
+{
+ "batch": 6,
+ "sections": {
+  "part-001-chapter-1-language-science": {
+   "title": {
+    "en": "Chapter 1: Human Language and Language Science",
+    "zh": "第 1 章：人类语言与语言科学"
+   },
+   "summary": {
+    "en": "This opening chapter introduces language as an object of scientific study rather than a set of rules that can be marked right or wrong. It explains that linguists use linguistic tools and techniques to observe patterns in human languages and to draw conclusions about abstract principles in minds and communities. It also asks how language science and language attitudes have bolstered colonial power and privilege.",
+    "zh": "本章引导读者把语言视为科学研究的对象，而不是一套可以判对错的规则。语言学家运用语言学的工具与技术观察人类各种语言中的模式，并据此对人类语言在人脑与语言社群中的抽象原则和组织方式作出推论。本章同时反思语言科学以及人们的语言态度如何支撑殖民性的权力与特权。"
+   },
+   "points": [
+    {
+     "en": "The chapter treats language as something to observe scientifically, not as rules you can get right or wrong.",
+     "zh": "本章把语言当作科学观察的对象，而不是可以判对错的规则。"
+    },
+    {
+     "en": "Linguists use the tools and techniques of linguistics to observe patterns across human languages.",
+     "zh": "语言学家运用语言学的工具与技术，观察人类各种语言中的模式。"
+    },
+    {
+     "en": "Observations support conclusions about the abstract principles and organization of language in minds and communities.",
+     "zh": "这些观察支持我们对语言在人脑与语言社群中的抽象原则与组织方式作出结论。"
+    },
+    {
+     "en": "The chapter also asks how language science and language attitudes have bolstered colonial structures of power and privilege.",
+     "zh": "本章还追问语言科学与语言态度如何支撑了殖民性的权力与特权结构。"
+    },
+    {
+     "en": "Objectives cover prescriptive versus descriptive thinking, mental grammar, universal properties, methods and ethics.",
+     "zh": "学习目标包括规定性与描述性思维、心理语法、语言的普遍属性、研究方法与研究伦理。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "prescriptive",
+     "zh": "规定性",
+     "defEn": "Approaching language by stating how it ought to be used, with rules that can be right or wrong.",
+     "defZh": "以规则说明语言应当如何使用，并据此判断正确与错误的研究取向。"
+    },
+    {
+     "en": "descriptive",
+     "zh": "描述性",
+     "defEn": "Approaching language by observing and describing how people actually use it.",
+     "defZh": "通过观察与描写，说明人们实际上如何使用语言，而不作对错评判的研究取向。"
+    },
+    {
+     "en": "mental grammar",
+     "zh": "心理语法",
+     "defEn": "The shared system in people's minds that allows them to understand one another.",
+     "defZh": "存在于人脑中的共享系统，使同一语言的使用者能够相互理解、彼此交流。"
+    }
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "The chapter begins the book by asking what language is and how language scientists, also known as linguists, think about it and observe it. Many readers come to the study of language expecting an approach built on rules that can be marked right or wrong. This book takes a different path: it shows how the tools and techniques of linguistics can be used to observe the patterns of human languages.",
+     "zh": "本章开篇追问语言是什么，以及语言科学家（即语言学家）如何看待和观察语言。许多读者此前接触语言学习时，面对的都是可以判对错的规则，而本书不走这条路：它展示如何用语言学的工具与技术观察人类各种语言中的模式。"
+    },
+    {
+     "en": "From those observations the book tries to draw conclusions about the abstract principles and organization of human language in people's minds and in language communities. Along the way it also considers how language science and people's attitudes about language have bolstered colonial structures of power and privilege and have been used to do harm, so the study of language is presented as a scientific and an ethical project at once.",
+     "zh": "从这些观察出发，本书试图就人类语言在人脑与语言社群中的抽象原则和组织方式得出结论。行文之中，本书也考察语言科学以及人们对语言的态度如何支撑了殖民性的权力与特权结构，并被用来造成伤害；因此语言研究既是科学课题，也是伦理课题。"
+    },
+    {
+     "en": "By the end of the chapter, readers should be able to differentiate between prescriptive and descriptive ways of thinking about language, identify components of mental grammar, explain some properties of all human languages, describe some techniques for doing language science, and discuss the ethics of doing language science.",
+     "zh": "学完本章，读者应能区分规定性与描述性的语言思维方式、识别心理语法的组成部分、解释人类语言的某些共同属性、描述从事语言科学的若干方法，并讨论从事语言科学的伦理问题。"
+    }
+   ]
+  },
+  "chapter-001-slug-1-1-what-even-is-language": {
+   "title": {
+    "en": "1.1 What even is language?",
+    "zh": "1.1 语言究竟是什么？"
+   },
+   "summary": {
+    "en": "Linguistics is the scientific study of human language, and the word language names several interconnected notions, from individual signed and spoken languages to computer languages and metaphors. Knowing a language means sharing a mental grammar. The section outlines the modality, mental lexicon, articulatory phonetics, phonology, syntax, semantics and pragmatics of that grammar, and explains why reading and writing are secondary parts of it.",
+    "zh": "语言学是对人类语言的科学研究，而 language 一词指称若干彼此关联的概念，从具体的有声语言与手语，到计算机语言和比喻用法。掌握一门语言意味着共享一套心理语法。本节依次说明语法中的模态、心理词库、发音语音学、音系学、句法学、语义学和语用学，并解释为何读和写只是心理语法的次要部分。"
+   },
+   "points": [
+    {
+     "en": "Linguistics is the scientific study of human language, and language names several interconnected concepts.",
+     "zh": "语言学是对人类语言的科学研究，而语言一词指称若干彼此关联的概念。"
+    },
+    {
+     "en": "Languages may be signed or vocalized; modality describes which channel a language uses.",
+     "zh": "语言可以是有声的，也可以是手语的；模态指语言使用哪一种传递渠道。"
+    },
+    {
+     "en": "The mental lexicon links forms with meanings, and most form-meaning links are arbitrary.",
+     "zh": "心理词库把形式与意义联系起来，而多数词的形式与意义的联系是任意的。"
+    },
+    {
+     "en": "Much grammatical knowledge, including phonology and syntax, is implicit and therefore hard to observe.",
+     "zh": "包括音系学和句法学在内的许多语法知识是隐性的，因而难以直接观察。"
+    },
+    {
+     "en": "Reading and writing are secondary parts of the mental grammar, since literacy is not needed for competence.",
+     "zh": "读和写是心理语法的次要部分，因为语法能力并不以识字为前提。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "mental grammar",
+     "zh": "心理语法",
+     "defEn": "The shared system in language users' minds that lets them understand each other.",
+     "defZh": "语言使用者心智中的共享系统，使他们能够相互理解、交流想法。"
+    },
+    {
+     "en": "modality",
+     "zh": "模态",
+     "defEn": "The channel through which a language is produced and received, signed or vocalized.",
+     "defZh": "语言产生与接收所依托的渠道，分为有声语言与手语两大类。"
+    },
+    {
+     "en": "mental lexicon",
+     "zh": "心理词库",
+     "defEn": "The part of the grammar that pairs the forms of words with their meanings.",
+     "defZh": "语法中把词的形式与意义配对的部分，犹如每个人心中的一部词典。"
+    },
+    {
+     "en": "articulatory phonetics",
+     "zh": "发音语音学",
+     "defEn": "The study of how language users control the muscles that produce speech sounds or signs.",
+     "defZh": "研究语言使用者如何控制肌肉以发出语音或做出手语动作。"
+    },
+    {
+     "en": "arbitrary",
+     "zh": "任意性",
+     "defEn": "Describing a form-meaning link that is not motivated by the meaning itself.",
+     "defZh": "指形式与意义的联系并非由意义本身决定，而是约定俗成的。"
+    },
+    {
+     "en": "phonology",
+     "zh": "音系学",
+     "defEn": "Knowledge of how the physical units of language combine and change in context.",
+     "defZh": "关于语言的物理单位如何组合、又在不同语境中如何变化的知识。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "pumpkin, kosmaan",
+     "noteEn": "English and Nishnaabemwin name the same vegetable with forms arbitrarily paired with its meaning.",
+     "noteZh": "英语与尼什纳贝姆温语（Nishnaabemwin）用这两个形式指称同一种蔬菜，形式与意义之间并无自然联系。"
+    },
+    {
+     "text": "cookies, with a z sound at the end",
+     "noteEn": "The z sound at the end of cookies signals that more than one cookie is being offered.",
+     "noteZh": "cookies 末尾的 z 音表示所给的不止一块饼干，这属于形态学知识。"
+    },
+    {
+     "text": "“I have some news,”",
+     "noteEn": "The same sentence can be taken as good news or bad news depending on the context.",
+     "noteZh": "同一句话在不同语境中既可理解为好消息，也可理解为坏消息，这是语用学所管的意义。"
+    },
+    {
+     "text": "the Cyrillic alphabet and traditional Mongolian script",
+     "noteEn": "Speakers understand each other whichever script records their language, so writing is secondary.",
+     "noteZh": "无论用哪种文字记录，蒙古语使用者都能相互听懂，说明文字系统只是心理语法的次要部分。"
+    }
+   ],
+   "body": [
+    {
+     "en": "Language is something every reader already uses, yet the word names several connected notions. It can refer to individual languages such as American Sign Language (ASL), Basque, English, Langue des signes québecoise (LSQ), Nishnaabemwin or Xhosa. It also covers computer languages like Python, R, C++ or Perl, and metaphorical uses such as body language or love languages, which linguistics normally sets aside. Linguistics itself is the scientific study of human language.",
+     "zh": "语言是每位读者都在使用的东西，但这一名称指称若干彼此关联的概念。它既可以指一门门具体的语言，如美国手语（ASL）、巴斯克语、英语、魁北克手语（LSQ）、尼什纳贝姆温语、科萨语，也常用来指 Python、R、C++、Perl 等计算机语言，以及身势语、爱之语之类的比喻用法，而后者通常不在语言学的考察范围之内。语言学则是对人类语言进行的科学研究。"
+    },
+    {
+     "en": "To know a language you first need its modality: it may be signed or vocalized, with information received by ear, eye or touch. Next you segment the stream of sounds or gestures into meaningful units, which is the work of the mental lexicon, where forms pair with meanings. For most words in the world's languages that pairing is arbitrary, though some forms are iconic. Producing a word also requires articulatory phonetics, control of the muscles that make the sounds or signs.",
+     "zh": "认识一种语言，首先要弄清它的模态：语言可能是有声的，也可能是手语的，信息分别由耳朵、眼睛或触觉接收。接着要把连续的声音或手势切分为有意义的单位，这正是心理词库的工作——它把形式与意义配对。世界上大多数语言的词，其形式与意义的联系是任意的，只有少数形式具有象似性。要说出一个词，还需要发音语音学的知识，即控制发音器官或手部动作的能力。"
+    },
+    {
+     "en": "Much of this grammatical knowledge is implicit. You may be fairly conscious of your lexicon and of some morphology, but you are probably not conscious of how you use your articulators to make k or z. Implicit knowledge also includes phonology, how physical units combine and change in context, and syntax, which knows how words combine into phrases and sentences. Syntax works with semantics to calculate meanings, and pragmatics handles meanings that arise in context.",
+     "zh": "这些语法知识中有许多是隐性的。你也许能明确意识到自己的词库以及部分形态学知识，例如懂得 cookies 末尾的 z 表示不止一块饼干，但对如何用发音器官发出 k 或 z 这样的音却往往并不自觉。隐性知识还包括音系学，即语言的物理单位如何组合、在不同语境中如何变化；以及句法学，即词如何组成短语和句子。句法学与语义学共同计算出短语的意义，语用学则说明不同语境中产生的意义。"
+    },
+    {
+     "en": "Reading and writing are not central to this picture, because language users do not need literacy to have a mental grammar. Children in Canada commonly start learning to read and write around age five, yet they are competent in the phonetics, phonology, morphology, syntax and semantics of one or more languages before they go to school. Mongolian currently uses two writing systems, the Cyrillic alphabet and the traditional vertical script, and speakers understand each other either way; signed languages like ASL and LSQ have no written forms at all.",
+     "zh": "读和写并未进入心理语法的核心，因为语言使用者不需要会读写才拥有心理语法。加拿大儿童通常约五岁才开始学习读写，但在入学之前就已经相当熟练地掌握了一门或多门语言的语音、音系、形态、句法和语义。蒙古语目前同时使用西里尔字母和传统蒙古文两种文字系统，无论用哪种文字记录，使用者都能相互听懂；美国手语和魁北克手语等手语则根本没有书面形式。有文化素养的人，读写当然融入其语法之中，但它并不是语法能力的必要条件。"
+    }
+   ]
+  },
+  "chapter-002-slug-1-2-what-grammars-are-and-arent": {
+   "title": {
+    "en": "1.2 What grammars are and aren't",
+    "zh": "1.2 语法是什么，不是什么"
+   },
+   "summary": {
+    "en": "This section contrasts the mental grammar with grammar books and style guides. Every human language has a mental grammar, so the claim that a language has no grammar is false and often serves racist, colonialist or ableist ideas. No grammar is better than another, even though people attach social value to varieties. Grammar is also creative, or productive, which explains why languages always change.",
+    "zh": "本节把心理语法与语法书、写作规范区分开来。每一种人类语言都有心理语法，因此声称某门语言“没有语法”是错误的，这种说法常常服务于种族主义、殖民主义或健全主义观念。尽管人们会给语言变体附加社会价值，但没有哪种语法比别的更好。语法还具有创造性，也就是能产性，这正是语言始终变化的原因。"
+   },
+   "points": [
+    {
+     "en": "The book studies the mental grammar, the system that lets users of a language understand one another.",
+     "zh": "本书研究的是心理语法，即让同一语言的使用者相互理解的系统。"
+    },
+    {
+     "en": "All languages have grammar, and saying a language has none often expresses racist, colonialist or ableist ideas.",
+     "zh": "所有语言都有语法，声称某语言没有语法往往是在表达种族主义、殖民主义或健全主义观念。"
+    },
+    {
+     "en": "No grammar is better than another, although people do use social judgments to build hierarchies of power.",
+     "zh": "没有哪种语法优于其他语法，尽管人们确实用社会评价建构权力等级。"
+    },
+    {
+     "en": "Productivity or generativity means a finite vocabulary and finite principles yield infinite new sentences.",
+     "zh": "能产性（生成性）指有限的词汇与有限的原则可以生成无限多的新句子。"
+    },
+    {
+     "en": "Because grammar is productive, languages always change, even when institutes try to fix their rules.",
+     "zh": "由于语法具有能产性，语言始终在变化，即使官方机构试图规定其规则。"
+    }
+   ],
+   "terms": [
+    {
+     "en": "mental grammar",
+     "zh": "心理语法",
+     "defEn": "The system in your mind that lets you understand others who share your language.",
+     "defZh": "你心智中的系统，使你能够理解同样掌握这门语言的其他人。"
+    },
+    {
+     "en": "productivity",
+     "zh": "能产性",
+     "defEn": "The property of producing infinitely many new words and sentences from finite resources.",
+     "defZh": "用有限的词汇与有限的组合原则，产出无限多新词和新句的属性。"
+    },
+    {
+     "en": "generativity",
+     "zh": "生成性",
+     "defEn": "A synonym for productivity: the capacity to generate ever new expressions in a language.",
+     "defZh": "与能产性同义，指语言能够不断生成前所未有的新词与新句的能力。"
+    },
+    {
+     "en": "dialect",
+     "zh": "方言",
+     "defEn": "A regional or social variety of a language, linguistically as valid as any other.",
+     "defZh": "某语言的地域或社会变体，从语言学看与其他变体同样有效。"
+    },
+    {
+     "en": "variety",
+     "zh": "语言变体",
+     "defEn": "A particular form of a language used by a group or in a setting.",
+     "defZh": "某一特定群体或某一场合中所使用的语言的具体形式，如各种方言。"
+    },
+    {
+     "en": "lexicon",
+     "zh": "词库",
+     "defEn": "A language's vocabulary, where new words for new concepts first show up.",
+     "defZh": "一种语言的词汇总汇，为新概念创造的新词最容易在此显现。"
+    }
+   ],
+   "examples": [
+    {
+     "text": "the verb google",
+     "noteEn": "A new verb entered the lexicon for a new concept and is now used nearly every day.",
+     "noteZh": "动词 google 因新概念进入词库，如今几乎每天都被使用，显示词汇层面的语言变化。"
+    },
+    {
+     "text": "“Oh, I don’t speak real Italian, just a dialect.”",
+     "noteEn": "The speaker treats a dialect as inferior to so-called real Italian, a social rather than linguistic judgment.",
+     "noteZh": "说话人把方言看得不如所谓“真正的意大利语”，这是社会评价而非语言学结论。"
+    },
+    {
+     "text": "“Québec French is just sloppy; it’s not as good as the French they speak in France.”",
+     "noteEn": "Linguists reject such rankings: no variety is linguistically better or worse than another.",
+     "noteZh": "语言学家不接受这类排序：任何语言变体在语言学上都不分优劣。"
+    },
+    {
+     "text": "“Kids these days are ruining English!”",
+     "noteEn": "This complaint has accompanied language change throughout history and is repeated in every generation.",
+     "noteZh": "这类抱怨伴随语言变化自古就有，每一代人都重复类似的指责。"
+    }
+   ],
+   "body": [
+    {
+     "en": "The grammar this book cares about is not the textbook or style guide full of rules that bring penalties when broken. It is the mental grammar, the system in your mind that lets you understand and be understood by others who know your language. Every human language has one. Claims that a language has no grammar are simply false, and they are one way that people express racist, colonialist and ableist ideas.",
+     "zh": "本书所说的语法，与满是规则、违反就要受罚的语法书或写作规范不同。它指的是心理语法，即你心智中的系统，使你能够理解别人，也被懂得这门语言的人理解。每一种人类语言都有心理语法。声称某门语言“没有语法”是完全错误的，这种说法正是人们表达种族主义、殖民主义和健全主义观念的一种方式。"
+    },
+    {
+     "en": "All languages have a system for forming words, a way of organizing words into sentences, and a systematic way of assigning meanings. Even languages without alphabets, dictionaries or published books of rules have users who understand each other, so linguists can study those shared grammars with scientific techniques. No grammar is better than another either: the idea that a dialect, Québec French, Newfoundland English or Texan English is inferior is a social judgment, not a linguistic finding. Scientists do not rank what they study, yet many people, including linguists, do attribute value to varieties and reinforce hierarchies of power and status.",
+     "zh": "所有语言都有构词系统、把词组织成句子的方式，以及系统地指派意义的办法；即使没有字母表、词典或成文规则，使用者仍能相互理解，语言学家因此可以借助科学方法研究这些共享的语法。同时，没有哪种语法比别的更好：说某种方言、魁北克法语、纽芬兰英语或得克萨斯英语低劣，都是社会评价而非语言学结论。科学家不会给自己研究的对象排名，但现实中许多人（包括语言学家）确实会给语言变体赋予价值，并强化权力与地位的等级。"
+    },
+    {
+     "en": "Creativity, better called productivity or generativity, is one of the most fundamental properties of grammar. Every language has a finite vocabulary and a finite set of combining principles, yet it can produce an infinite number of possible new words and sentences. A consequence is that languages always change. Older people have always complained that younger people are ruining the language, and some countries have official institutes that rule on which words and structures are permitted, but change is inevitable as speakers and societies change. Lexical change is easy to observe, as with the verb google, and phonetics, phonology, syntax, morphology and semantics change too.",
+     "zh": "语法最根本的属性之一是创造性，更准确的叫法是能产性或生成性。每种语言的词汇量都有限，组合词的原则也有限，却能产出无限多的可能新词和新句。由此产生的后果是语言始终在变化。自古以来，年长者就抱怨年轻人毁掉了语言；法国、德国等国甚至设有官方机构，规定哪些词和句式允许使用。但随着使用者和社会发生变化，语言的变化不可避免。词汇层面的变化最容易观察，例如动词 google；语音、音系、句法、形态和语义同样都在变化。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "batch": 54,
+ "chapter": "Chapter 10: Language Variation and Change",
+ "out": "data/book/gen/batch-54.json",
+ "sections": [
+  {
+   "id": "chapter-124-slug-10-9-sociolinguistic-correlations-ethnicity",
+   "title": "10.9 Sociolinguistic correlations: Ethnicity",
+   "src": "data/book/src/chapter-124-slug-10-9-sociolinguistic-correlations-ethnicity.txt",
+   "chars": 9618
+  },
+  {
+   "id": "chapter-125-slug-10-10-three-waves-of-sociolinguistics",
+   "title": "10.10 Three waves of sociolinguistics",
+   "src": "data/book/src/chapter-125-slug-10-10-three-waves-of-sociolinguistics.txt",
+   "chars": 6747
+  },
+  {
+   "id": "chapter-126-slug-10-11-summary",
+   "title": "10.11 Summary",
+   "src": "data/book/src/chapter-126-slug-10-11-summary.txt",
+   "chars": 1566
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "batch": 9,
+ "entries": {
+  "saussure": {
+   "summaryEn": "Ferdinand de Saussure (1857-1913) was a Swiss linguist and the founder of modern linguistics. In the Course in General Linguistics he argued that language is a relational system constituted by differences, distinguishing langue from parole, signifier from signified, synchronic from diachronic study, and syntagmatic from paradigmatic relations, thereby laying the theoretical foundations of structuralist linguistics and semiotics.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Ferdinand de Saussure (1857-1913) was born in Geneva, Switzerland, and studied in Leipzig and Berlin as a young man; at the age of twenty-two he made his name with the Memoire sur le systeme primitif des voyelles dans les langues indo-europeennes, whose laryngeal hypothesis was later confirmed by Hittite material. He subsequently taught for many years at the Ecole pratique des hautes etudes in Paris and at the University of Geneva, and his late lectures on general linguistics were compiled by his students Bally and Sechehaye into the Cours de linguistique generale, published in 1916.",
+      "Saussure himself left no systematic linguistic monograph, and his ideas circulated mainly through lecture notes. He repositioned linguistics as a part of semiology, holding that the essence of language lies not in individual sounds or in the historical evolution of etymologies but in the mutual relations among the elements of a synchronic system. This shift from historical comparison to structural description is regarded as the beginning of modern linguistics and of the structuralist turn in the twentieth-century human sciences."
+     ]
+    },
+    {
+     "hEn": "Langue and Parole, Signifier and Signified",
+     "pEn": [
+      "Saussure distinguishes langue from parole. Langue is the abstract system of signs and rules existing in a social collective; parole is the concrete speech produced by individuals in actual communication. The former is social and homogeneous and can be the object of scientific description; the latter is individual and heterogeneous. For example, the tonal system of Chinese belongs to langue, whereas a particular person's pronouncing 妈 on one occasion with a high level tone belongs to parole.",
+      "The linguistic sign consists of two faces, the signifier (sound image) and the signified (concept), and their union is arbitrary: Chinese uses [ma] for 'horse', English uses horse, Japanese uses uma, and there is no natural connection between the phonetic form and the concept. The principle of arbitrariness is the first principle of Saussure's theory of signs; yet he also acknowledged that marginal cases such as onomatopoeia and interjections have partial motivation, and that relative motivation exists in language (as when 'nineteen' is composed of 'ten' and 'nine')."
+     ]
+    },
+    {
+     "hEn": "Synchronic and Diachronic, Syntagmatic and Paradigmatic",
+     "pEn": [
+      "Saussure distinguishes synchronic (synchronie) from diachronic (diachronie) study. Synchronic study describes the relations internal to a system at a given period, such as the rules governing the co-occurrence of initials and finals in Modern Standard Chinese; diachronic study traces the evolution of elements over time, such as the devoicing of the voiced initials of Middle Chinese. He gave priority to synchronic description, because speakers actually confront only the complete system of the present, not scattered historical fragments.",
+      "Within the system, Saussure distinguishes syntagmatic relations from paradigmatic relations. In 他打开了门 ('he opened the door'), the linear linkage 他—打开—了—门 is a syntagmatic relation; 打开 and 推开, 关上 and the like, which can occupy the same position and substitute for one another, constitute a paradigmatic relation. The value of a word is determined precisely by its oppositions to other elements on the two axes: French mouton covers both 'sheep' and 'mutton', whereas English divides the field with sheep and mutton, so the two systems are not equivalent."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Through the Prague School, the Copenhagen School and American descriptive linguistics, Saussure's ideas became the dominant paradigm of twentieth-century linguistics and deeply influenced Levi-Strauss's structuralist anthropology, Barthes's cultural semiotics and structuralist literary criticism, making 'system', 'opposition' and 'difference' common concepts in humanistic research.",
+      "Criticism has centred on three points: an overemphasis on a closed, self-sufficient synchronic system that neglects social variation and actual usage; the langue/parole dichotomy, which is said to sever the individual from the social; and the principle of arbitrariness, which cognitive linguistics and research on iconicity have questioned, arguing that grammatical structure often corresponds to experiential structure. Nevertheless, the questions he established remain the common point of departure for all schools of modern linguistics."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "langue",
+     "dEn": "Saussure's term for the abstract system of signs shared by a speech community, as opposed to individual parole."
+    },
+    {
+     "tEn": "parole",
+     "dEn": "An individual's concrete use of language in actual communication and the utterances produced, being individual and heterogeneous."
+    },
+    {
+     "tEn": "signifier and signified",
+     "dEn": "The sound image and the concept, the two faces of the linguistic sign, whose union is arbitrary."
+    },
+    {
+     "tEn": "syntagmatic relation",
+     "dEn": "The horizontal relation in which linguistic elements are linked and constrain one another in a linear sequence."
+    },
+    {
+     "tEn": "paradigmatic relation",
+     "dEn": "The vertical network of associations among elements that can substitute for one another in the same position."
+    }
+   ]
+  },
+  "halliday": {
+   "summaryEn": "M. A. K. Halliday (1925-2018) was a British linguist and the founder of systemic functional grammar. He held that language is a social semiotic system and that grammar consists of a meaning potential open to choice; he proposed the three metafunctions, ideational, interpersonal and textual, and applied linguistic research widely to language education, discourse analysis and translation studies.",
+   "sectionsEn": [
+    {
+     "hEn": "Life and Academic Background",
+     "pEn": [
+      "Michael Alexander Kirkwood Halliday (1925-2018) was born in Leeds, England. He studied linguistics under Firth at the University of London and went to China to study Chinese and Chinese linguistics. He taught successively at the University of London, Stanford University and the University of Sydney, and was the leading representative of the 'Neo-Firthian' school, that is, systemic functional linguistics.",
+      "In his early years he studied Chinese and Chinese language teaching, and he also observed children's language development over a long period. From the 1960s he gradually built a linguistic theory centred on 'system' and 'function'; his major work An Introduction to Functional Grammar (1985) is widely used as a graduate textbook, and he also published such important books as Explorations in the Functions of Language (1973) and Language as Social Semiotic (1978)."
+     ]
+    },
+    {
+     "hEn": "System and Metafunctions",
+     "pEn": [
+      "Systemic functional grammar treats language as a meaning potential and grammar as a network of systems made up of choices: at each point the speaker chooses among a set of options, and the outcome of those choices constitutes the discourse. In English, for example, a clause may select declarative, interrogative or imperative in the mood system, and material, mental or relational process types in the transitivity system, and the choices made across the systems jointly determine the final form of a clause.",
+      "Halliday holds that language universally serves three metafunctions: the ideational function (expressing experiential processes and logical relations), the interpersonal function (establishing and maintaining social relations and expressing attitudes and judgements) and the textual function (organising information and making discourse a coherent whole). The three are realised simultaneously in every clause; The lion chased the tiger, for instance, combines the representation of an experiential process, the assertion of declarative mood and a theme-rheme organisation of information."
+     ]
+    },
+    {
+     "hEn": "Transitivity, Mood and Theme",
+     "pEn": [
+      "The transitivity system decomposes experience into processes, participants and circumstances. In the English clause The lion chased the tiger, chased is a material process, the lion is the Actor, the tiger is the Goal, and in the forest at the end is a circumstance. In the Chinese sentence 孩子把杯子打破了, 打破 is a material process, 孩子 is the Actor, 杯子 is the affected Goal, and 把 marks the disposal of the patient, a different way of encoding from English word order.",
+      "The mood system realises the interpersonal function. English forms questions by inverting Subject and Finite: He is coming becomes Is he coming?, whereas Chinese uses modal particles such as 吗 and 呢 together with word order to express interrogation and commands. The theme-rheme structure realises the textual function: in Today the museum opens at nine, Today is a marked Theme and serves as the point of departure for the message and for textual cohesion."
+     ]
+    },
+    {
+     "hEn": "Register, Grammatical Metaphor and Social Semiotics",
+     "pEn": [
+      "Halliday proposes that register is determined by three variables: field (the subject matter and activity of the communication), tenor (the role relationships among the participants) and mode (the channel and medium of communication). Together they predict the lexicogrammatical features of a text. Scientific papers, for example, favour passives, nominalisations and noun phrases, advertisements prefer imperatives, ellipsis and second-person forms, and casual conversation abounds in modal particles and incomplete sentences.",
+      "He treats language as a social semiotic system, stresses that language and social structure construct each other, and argues that linguistic research should serve language education, translation and clinical practice. He also proposed the concept of grammatical metaphor, the conversion of a process into a noun (decide becoming decision, develop becoming development), which is a major mechanism behind the rising information density of academic discourse."
+     ]
+    },
+    {
+     "hEn": "Influence and Criticism",
+     "pEn": [
+      "Systemic functional grammar is widely applied in language education, discourse analysis, critical discourse analysis, translation studies and multimodality research, and Halliday is thereby one of the most influential functionalist linguists of the twentieth century; his longitudinal studies of children's language development provided classic material from a functional perspective for research on language acquisition.",
+      "Critics argue that the description of the system networks is rather cumbersome, that the boundaries between some categories are vague and hard to test rigorously, that the rejection of formalisation makes the theory difficult to implement computationally, and that it pays less attention to the mental processing of language than interactional sociolinguistics does. Yet functionally oriented discourse research remains an important paradigm in applied linguistics today."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "metafunction",
+     "dEn": "The three functions universally borne by language: the ideational, the interpersonal and the textual."
+    },
+    {
+     "tEn": "systemic grammar",
+     "dEn": "A grammatical theory that describes grammar as a network of meaningful choices, stressing paradigmatic choice rather than combination alone."
+    },
+    {
+     "tEn": "transitivity",
+     "dEn": "The system in the clause that represents experiential processes, distinguishing process types, participants and circumstances."
+    },
+    {
+     "tEn": "register",
+     "dEn": "A variety of language use determined by field, tenor and mode, such as the scientific or advertising register."
+    },
+    {
+     "tEn": "thematic structure",
+     "dEn": "The functional organisation of the clause into the point of departure (Theme) and what follows (Rheme)."
+    }
+   ]
+  },
+  "vowel-shift": {
+   "summaryEn": "The Great Vowel Shift refers to a series of chain shifts affecting the English long vowels between roughly 1400 and 1700, in which every Middle English long vowel changed in height or position, for example /iː/ becoming /aɪ/ and /uː/ becoming /aʊ/. It left English spelling and pronunciation severely mismatched and is a classic topic in the history of English phonology and in theories of sound change.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Dating",
+     "pEn": [
+      "The Great Vowel Shift is a systematic change of the long vowels in the history of English, occurring from the late Middle English to the early Modern English period, roughly between 1400 and 1700. It affected all the Middle English long vowels, raising them or diphthongising them generally along the dimensions of tongue height or frontness, and thus laid the foundation of the modern English system of long vowels and diphthongs. The term was proposed and popularised by the Danish linguist Jespersen in his grammar of English.",
+      "The Middle English long vowels derive from Old English long vowels and, in part, from lengthening in open syllables, and their spellings have mostly been retained to this day. Because printing spread gradually in the fifteenth and sixteenth centuries, spelling forms were fixed while the sound change was in progress, whereas pronunciation continued to change, producing the present situation in which English spelling reflects Middle English pronunciation while actual pronunciation has moved on."
+     ]
+    },
+    {
+     "hEn": "The Changes Themselves",
+     "pEn": [
+      "The seven Middle English long vowels changed roughly as follows: /iː/ diphthongised to /aɪ/ (as in bite, from [biːtə] to [baɪt]); /eː/ raised to /iː/ (as in meet, from [meːt] to [miːt]); /ɛː/ also raised to /iː/ (as in meat, sea); /aː/ fronted and raised to /eɪ/ (as in name, from [naːmə] to [neɪm]).",
+      "Among the back vowels: /ɔː/ raised to /oʊ/ (as in boat, from [bɔːt] to [boʊt]); /oː/ raised to /uː/ (as in moon, from [moːn] to [muːn]); /uː/ diphthongised to /aʊ/ (as in mouse, from [muːs] to [maʊs]). These changes are interrelated, forming push-chain and drag-chain movements: the position vacated by a vowel that rises is filled by the next vowel, while the highest vowel is forced to diphthongise."
+     ]
+    },
+    {
+     "hEn": "Evidence and Examples",
+     "pEn": [
+      "Evidence for the Great Vowel Shift comes from several directions. First, rhymes and spelling changes in Middle English and early Modern English texts: in Chaucer's time bite and meet could still rhyme, whereas by Shakespeare's time they no longer did. Second, dialect differences: in northern English dialects /uː/ was mostly not diphthongised, so that house is pronounced [huːs] as against the standard [haʊs], which allows the geographical spread of the change to be inferred.",
+      "Third, loanwords and spelling comparisons provide corroborating evidence. French words borrowed into Middle English were equally affected after the change, as with flour and flower, which are etymologically related but diverge in pronunciation; conversely, words borrowed after the Great Vowel Shift did not undergo it, leaving a layered difference in pronunciation. Moreover, the English spelling system itself may be seen as a fossil record from before the change: the spellings of name, time and house still preserve information about the Middle English long vowels."
+     ]
+    },
+    {
+     "hEn": "Causes and Explanations",
+     "pEn": [
+      "Various explanations have been proposed for the causes of the Great Vowel Shift. Structuralist and phonological accounts stress chain shifts internal to the system: the positions of the long vowels in phonological space constrain one another, so that the raising of one sound squeezes a neighbouring phoneme and forces the system as a whole to readjust. Sociolinguistic accounts focus on population movement, dialect contact and social prestige in cities such as London, holding that the change diffused layer by layer through social networks.",
+      "Some scholars link the change to the influx of French loanwords after the Hundred Years' War and to the altered social status of English, or attribute it to an imbalance in the long/short pairing of the vowel system. Recent research uses corpora and the spelling variants and rhyme material of historical documents for quantitative analysis, in an attempt to establish the starting and ending dates and the paths of diffusion, but no unified conclusion has emerged."
+     ]
+    },
+    {
+     "hEn": "Impact and Controversies",
+     "pEn": [
+      "The direct effect of the Great Vowel Shift was to leave English spelling and pronunciation severely mismatched, making it one of the main difficulties for learners of English and prompting later spelling reform proposals and notational tools such as the International Phonetic Alphabet. Theoretically it is regarded as the classic case of chain shifting and is often mentioned alongside Grimm's Law and Verner's Law in discussions of the regularity, directionality and systematicity of sound change.",
+      "The controversies concern mainly whether the change was really a single unified event or a superimposition of several independent changes; whether it was driven by push chains or by drag chains; and its dating and geographical origin, on which no consensus exists. Some scholars also point out that the Great Vowel Shift is not unique to English, since other languages may likewise show raising and diphthongisation of long vowels under similar conditions, so that the change in a single language needs to be considered within a more general typology of sound change."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "Great Vowel Shift",
+     "dEn": "The chain shift between about 1400 and 1700 in which all English long vowels were systematically raised or diphthongised."
+    },
+    {
+     "tEn": "chain shift",
+     "dEn": "A pattern of sound change in which several phonemes move in turn, drawing one another along."
+    },
+    {
+     "tEn": "Middle English",
+     "dEn": "The English stage from about 1100 to 1500, whose long vowels were the input to the Great Vowel Shift."
+    },
+    {
+     "tEn": "diphthongisation",
+     "dEn": "The sound change by which a monophthong becomes a diphthong, as Middle English /iː/ becoming modern English /aɪ/."
+    },
+    {
+     "tEn": "spelling-pronunciation mismatch",
+     "dEn": "The phenomenon whereby written forms preserve an earlier pronunciation while actual speech has changed, as in English through and though."
+    }
+   ]
+  },
+  "indo-european": {
+   "summaryEn": "The Indo-European family is the most widely distributed and most intensively studied language group in the world, comprising several hundred languages of India, Iran, Europe, the Americas and Oceania, and spoken by about half the world's population. Its genealogical relations rest on systematic sound correspondences; the reconstruction of Proto-Indo-European is among the greatest achievements of historical linguistics and the model case in which the comparative method was established.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Status",
+     "pEn": [
+      "The Indo-European family is the family constituted by a large group of languages descended from the common ancestral language Proto-Indo-European. Its members are extremely widely distributed: eastwards to the Indian subcontinent and the Iranian plateau, westwards to the Atlantic coast, and in modern times, through colonisation and migration, to the Americas, Oceania and southern Africa. In terms of numbers of speakers, Indo-European accounts for about half the world's population, and English, Spanish, Hindi, Portuguese and Russian all belong to this family.",
+      "The Indo-European family occupies a special place in the history of linguistics. At the end of the eighteenth century William Jones noticed the striking resemblances between Sanskrit, Greek and Latin in roots and grammatical structure, after which Bopp, Rask, Grimm and others established systematic comparative research, giving linguistics for the first time a testable scientific method. The Indo-European family is thus both the object of historical comparative linguistics and the source of the discipline's methods."
+     ]
+    },
+    {
+     "hEn": "Major Branches",
+     "pEn": [
+      "Traditionally the Indo-European family is divided into a number of branches: Indo-Iranian (Sanskrit, Hindi, Persian, Kurdish and others), Greek (Ancient and Modern Greek), Italic (Latin and its Romance descendants, such as French, Italian and Spanish), Germanic (English, German, Dutch and the Scandinavian languages), Slavic (Russian, Polish, Czech, Serbian and others), Celtic (Irish, Welsh, Breton), Baltic (Lithuanian, Latvian), and single-member branches such as Albanian and Armenian.",
+      "The extinct Anatolian branch (Hittite, Luwian) and Tocharian branch (Tocharian A and B) were important discoveries of the twentieth century; the former preserves the earliest documentary record of Indo-European and directly prompted revisions in the reconstruction of Proto-Indo-European. Branches may be further subdivided, as when Germanic divides into a northern branch, a western branch and the extinct eastern branch (Gothic)."
+     ]
+    },
+    {
+     "hEn": "Phonological and Morphological Features",
+     "pEn": [
+      "The cognate relations among Indo-European languages are shown first of all in systematic sound correspondences. Taking kinship terms and numerals as examples: Latin pater, Greek patēr, Sanskrit pitā correspond to English father, and Latin tres, Greek treis, Sanskrit trayas correspond to English three. Such regular cross-linguistic correspondences are not the result of chance borrowing but traces left by the regular evolution of the same ancestral sound classes in different languages.",
+      "Morphologically, Proto-Indo-European was a typical inflecting language: nouns had the categories of gender, number and case, and verbs inflected for person, tense and mood. Many languages also preserve ablaut, the replacement of vowels within the same root according to grammatical conditions, as in English sing, sang, sung, or Latin tangere ('to touch') and tetigi ('I have touched'). Greek, Sanskrit and Lithuanian are of great value for reconstruction because they preserve comparatively many archaic forms."
+     ]
+    },
+    {
+     "hEn": "Methods and Major Theories",
+     "pEn": [
+      "The basic method of Indo-European research is the comparative method: one first establishes sound correspondences between cognates and grammatical morphemes, and on that basis reconstructs the forms of the ancestral language. Grimm's Law describes the shifting of the Proto-Indo-European stops in Germanic, and Verner's Law explains the exceptions to that regularity conditioned by accent; together they show that sound change is regular in a formalisable way, which was the core claim of the Neogrammarians in the nineteenth century.",
+      "The reconstructed Proto-Indo-European is not a language attested in documents but a formal hypothetical system, conventionally marked with an asterisk, as in *pətēr, *treyes. Its reliability depends on the cross-checking of multiple kinds of evidence: attested languages, dialect geography, loanword strata, and the clues about material culture offered by linguistic palaeontology, such as shared vocabulary relating to the horse, the wheel and dairying."
+     ]
+    },
+    {
+     "hEn": "Controversies and Criticism",
+     "pEn": [
+      "The dating and homeland of Proto-Indo-European have long been debated. The Kurgan hypothesis places the origin in the Pontic-Caspian steppe and links its spread to the chariot and a pastoral economy; the Anatolian hypothesis argues for an earlier origin in Anatolia, with the spread of agriculture as the main driving force. In recent years the intersection of ancient genomics and archaeological linguistics has revived the debate, but no consensus has been reached.",
+      "Another line of criticism concerns the family-tree model itself. Language contact, borrowing and dialect continua make the process of divergence reticulate rather than tree-like, so that certain branch relationships within Indo-European (for example, whether Italic and Celtic form an Italo-Celtic node) are difficult to determine. Moreover, early research sometimes simply equated linguistic genealogy with culture and race, a confusion that modern linguistics has clearly rejected."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "Proto-Indo-European",
+     "dEn": "The ancestor of the Indo-European family, reconstructed by the comparative method from correspondences among later languages and not attested directly."
+    },
+    {
+     "tEn": "comparative method",
+     "dEn": "The historical linguistic method that reconstructs a common ancestor by comparing sound correspondences, vocabulary and morphology across related languages."
+    },
+    {
+     "tEn": "sound correspondence",
+     "dEn": "Regular correspondences between sound classes in different languages, such as Latin p and English f, serving as evidence for cognacy."
+    },
+    {
+     "tEn": "branch",
+     "dEn": "A second-level unit within a language family classified by degree of closeness, such as Germanic, Slavic or Indo-Iranian."
+    },
+    {
+     "tEn": "ablaut",
+     "dEn": "The alternation of vowels within a root according to morphological or grammatical conditions, as in English sing, sang, sung."
+    },
+    {
+     "tEn": "Grimm's Law",
+     "dEn": "The law describing the shifting of Proto-Indo-European stops in Proto-Germanic, a classic example of regularity in sound change."
+    }
+   ]
+  },
+  "ipa": {
+   "summaryEn": "The International Phonetic Alphabet is a transcription system devised by the International Phonetic Association at the end of the nineteenth century, following the principle of one symbol per sound; using a set of Latin-based letters, diacritics and suprasegmental symbols, it records the sounds of the world's languages precisely. It is a fundamental tool of phonetics, dialectology, language teaching and speech technology, and a shared standard of transcription for linguists.",
+   "sectionsEn": [
+    {
+     "hEn": "Definition and Origins",
+     "pEn": [
+      "The International Phonetic Alphabet (IPA) is a system of transcription symbols devised and maintained by the International Phonetic Association for the accurate recording of the sounds occurring in human languages. The Association was founded in Paris in 1886, its members being largely language teachers, and its original purpose was to provide a reliable tool for marking pronunciation in English teaching; the first chart of the alphabet was published in 1888, and it has been revised many times since.",
+      "The design principle of the IPA is 'one phoneme to one symbol, and one symbol for one phoneme only', in an effort to escape the confusion of traditional orthography, in which the same letter stands for several pronunciations. In English enough, for example, gh is pronounced [f], and its pronunciation cannot be inferred from the spelling, whereas written in the IPA as [ɪˈnʌf] it is unambiguous. This principle gives the IPA its cross-linguistic generality."
+     ]
+    },
+    {
+     "hEn": "Symbol System and Structure",
+     "pEn": [
+      "The IPA chart consists mainly of three parts. The consonant chart is arranged by place of articulation (such as bilabial, alveolar, velar) and manner of articulation (such as plosive, fricative, nasal), as with [p], [t], [k], [f], [s], [m], [n]. The vowel chart forms a quadrilateral with tongue height as the vertical axis and tongue backness as the horizontal axis, as with [i], [e], [a], [u], [o]. There are in addition diacritics for marking supplementary features.",
+      "Consonant symbols may also carry diacritics for phonetic detail: aspiration is marked with [ʰ] (Chinese 怕 [pʰa⁵¹]), devoicing with [ ̥ ], and retroflexion with [ ̢ ] or a dedicated letter. Vowels are described in terms of height and backness, lip rounding and nasality. Suprasegmentally, tone may be marked with tone letters, as with the high level tone of Standard Chinese [á] or the five-level system [˥]; stress uses [ˈ] and [ˌ], length uses [ː], and syllable boundaries use [.]."
+     ]
+    },
+    {
+     "hEn": "Transcription Principles: Broad and Narrow",
+     "pEn": [
+      "In using the IPA one distinguishes broad from narrow transcription. Broad transcription takes the phoneme as its unit and is enclosed in slashes, as when English pin is written /pɪn/; it marks only sound classes that have a distinctive function. Narrow transcription takes the phone as its unit and is enclosed in square brackets, as in [pʰɪn]; it also marks phonetic details such as aspiration and tongue position. Researchers choose the degree of narrowness according to the purpose of description; phonemic analysis belongs to phonology, while detailed description belongs to phonetics.",
+      "The IPA also allows the use of 'allophone' notation and statements of 'free variation', but the symbols themselves carry no phonological information about any language. In Standard Chinese, for example, [p] and [pʰ] are two distinct phonemes, whereas in English [p] and [pʰ] are conditioned variants of the single phoneme /p/, and this difference is determined by phonological analysis of the language, not by the symbols themselves."
+     ]
+    },
+    {
+     "hEn": "Applications and Research Significance",
+     "pEn": [
+      "The IPA is a basic tool for fieldwork and language documentation. Faced with a language that has no writing system, investigators use the IPA to record vocabulary, sentences and long texts, producing testable and reproducible material. For the investigation of Chinese dialects, the IPA can record the phonetic values of initials and finals and can also mark the tone systems of individual dialects with tone-value symbols, such as the nine tones of Cantonese.",
+      "In language teaching the IPA is used to mark pronunciations in dictionaries and to correct pronunciation; in speech technology and speech recognition, IPA symbols often serve as the basis of a phone label set; in speech pathology and singing training it is used to describe articulatory problems and diction requirements precisely. Wherever sounds need to be recorded exactly, the IPA is the common point of reference."
+     ]
+    },
+    {
+     "hEn": "Limitations and Controversies",
+     "pEn": [
+      "The IPA is not without limitations. First, the chart was designed on the basis of Indo-European languages and common articulations, so although dedicated symbols have been added for sounds peculiar to certain languages (such as clicks and complex coarticulations), its descriptive capacity still has limits. Second, the number of symbols is finite, and many phonetic differences can only be represented by stacking diacritics, which makes transcriptions long and the notations of different researchers not entirely consistent.",
+      "Third, the IPA is a transcription tool, not a phonological theory, and it cannot by itself tell us whether a given sound is contrastive in a language system. In addition, the actual phonetic value of the same symbol differs subtly from language to language, and the auditory judgement and segmentation of transcribers are also subjective. Modern research therefore often combines the IPA with acoustic measurement and recorded corpora to compensate for the limits of symbolic description."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "International Phonetic Alphabet",
+     "dEn": "A transcription system maintained by the International Phonetic Association, following one symbol per sound and recording the world's languages."
+    },
+    {
+     "tEn": "phone",
+     "dEn": "The minimal speech unit divided off by natural phonetic properties, such as [p] or [a], not necessarily distinctive."
+    },
+    {
+     "tEn": "broad transcription",
+     "dEn": "Transcription using the phoneme as its unit and slant brackets, marking only distinctive sound classes, as in /pɪn/."
+    },
+    {
+     "tEn": "narrow transcription",
+     "dEn": "Transcription using the phone as unit and square brackets, marking details such as aspiration and tongue position, as in [pʰɪn]."
+    },
+    {
+     "tEn": "diacritic",
+     "dEn": "A mark added to a letter to modify its pronunciation, as in Turkish ş, Polish ł or Vietnamese tone marks."
+    },
+    {
+     "tEn": "suprasegmental symbol",
+     "dEn": "A symbol marking non-segmental features such as tone, stress, length and syllable boundaries, for example [ˈ], [ː], [˥] and [.]."
+    }
+   ]
+  },
+  "latin-alphabet": {
+   "summaryEn": "The Latin alphabet is an alphabet originating in Greek letters by way of the Etruscan alphabet as an intermediary; it had 23 letters in the classical period and was standardised at 26 after J, U and W were added in the Middle Ages. Adopted by most of the world's languages and giving rise to many orthographies, it is also the base symbol set of the International Phonetic Alphabet and Pinyin, and the most widely transmitted writing system today.",
+   "sectionsEn": [
+    {
+     "hEn": "Origin and Spread",
+     "pEn": [
+      "The Latin alphabet derives from the Greek alphabet through the intermediary of the Etruscan alphabet of the Italian peninsula, and took shape in Rome around the seventh century BC. In the classical Latin period 23 letters were used, lacking J, U and W: I stood for both the vowel [i] and the consonant [j], and V for both the vowel [u] and the consonant [w]. After the Middle Ages, J and U gradually split off to distinguish pronunciations, and W developed out of the double VV, eventually yielding the 26 letters in use today.",
+      "With the expansion of the Roman Empire and the spread of Christianity, the Latin alphabet reached western, southern and central Europe. Modern colonial and missionary activity carried it further to the Americas, Africa, Oceania and parts of Asia. Today English, French, Spanish, German, Portuguese, Italian, Turkish, Vietnamese and Indonesian all use the Latin alphabet, making it the most widely used alphabet system in the world."
+     ]
+    },
+    {
+     "hEn": "The Alphabet and Its Readings",
+     "pEn": [
+      "The Latin alphabet is a phonemic writing system, in which in theory each letter corresponds to one phoneme. But the number of letters is limited, and each language must adjust the correspondences when it borrows them. English c is read [k] in cat and [s] in city; a may be read [æ], [eɪ], [ɑː], [ə] and so on in different words. Pinyin, by contrast, uses b, d, g for the unaspirated voiceless plosives [p], [t], [k] and p, t, k for the aspirated [pʰ], [tʰ], [kʰ], unlike the English habit of contrasting voiced and voiceless.",
+      "To suit their own sound systems, many languages add diacritics to letters or create new ones. Turkish, for example, uses ı for the high back unrounded vowel [ɯ] and ş for [ʃ]; Polish uses ł for [w] and ą for a nasalised vowel; Czech uses č, š, ž for [tʃ], [ʃ], [ʒ]; Vietnamese uses numerous additional marks to indicate tone. Such adaptations allow one and the same alphabet to record very different phonological systems."
+     ]
+    },
+    {
+     "hEn": "Types of Orthography",
+     "pEn": [
+      "Languages using the Latin alphabet have developed different types of orthography. Phonemic orthography seeks a one-to-one correspondence between letters and phonemes, as in the relatively regular Finnish, Turkish and Spanish. Historical orthography preserves earlier spellings and is therefore considerably out of step with actual pronunciation, English being the most typical case: in through [θruː], though [ðoʊ] and cough [kɒf] the sequence ough is pronounced differently in each. Morphological orthography gives priority to keeping the spelling of a morpheme constant, as with English sign and signature.",
+      "Pinyin is a romanisation scheme designed for Chinese, officially promulgated in 1958 and used to mark the pronunciation of Standard Chinese, to assist literacy and for Chinese information processing. It uses letters for initials and finals and marks tone with diacritics or numerals, as in mā (妈 'mother') and má (麻 'hemp'). Japanese romanisation and Korean romanisation are likewise systems that transcribe non-Latin scripts with Latin letters."
+     ]
+    },
+    {
+     "hEn": "Evaluation and Influence",
+     "pEn": [
+      "The advantages of the Latin alphabet are its small number of letters, its ease of learning and writing, and its convenience for mechanised and digital processing, which are important reasons for its wide adoption. When it is applied to languages whose sound structures differ greatly from Latin, however, diacritics or letter combinations are often required, making spellings long; and the same letter may be read quite differently in different languages, as j is read [dʒ], [j], [ʒ] and [x] in English, German, French and Spanish respectively.",
+      "In the politics of writing, the adoption of the Latin alphabet has often been bound up with language modernisation, national identity and the spread of education. Turkey's script reform of 1928 replaced the Arabic alphabet with Latin letters, and Vietnam replaced chữ Nôm with the romanised quốc ngữ. At the same time, it is argued that a writing tradition carries cultural continuity and that the existing script should be retained, and such debates continue in some speech communities today."
+     ]
+    }
+   ],
+   "termsEn": [
+    {
+     "tEn": "Latin alphabet",
+     "dEn": "A script deriving from Greek letters through the Etruscan alphabet, with 23 letters in the classical period and 26 today."
+    },
+    {
+     "tEn": "orthography",
+     "dEn": "The normative system of spelling in a language, including letter-sound correspondence rules, capitalisation, punctuation and word-division conventions."
+    },
+    {
+     "tEn": "diacritic",
+     "dEn": "A mark added to a letter to modify its pronunciation, as in Turkish ş, Polish ł or Vietnamese tone marks."
+    },
+    {
+     "tEn": "Pinyin",
+     "dEn": "Romanisation scheme for Chinese promulgated in 1958, using letters for Standard Chinese initials and finals and numerals for tone."
+    },
+    {
+     "tEn": "romanisation",
+     "dEn": "A scheme for transcribing a non-Latin script with Latin letters, such as Japanese or Korean romanisation."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,131 @@
+# 14.3 Phonological change
+
+Many of the phonological changes we find diachronically are the same phonological processes that we find synchronically (see Section 4.9 for spoken languages and Section 4.10 for signed languages). A few additional types are discussed in this section.
+
+## Sporadic phonological change
+
+One type of sporadic phonological change is metathesis, in which parts of the pronunciation swap positions with each other. For example, the ASL sign for DEAF1 touches near the ear first and then near the mouth (1a), but there is a metathesized version DEAF2 that swaps the locations, touching near the mouth first and then near the ear (1b).
+
+[表格]
+| | | (1) | | a. | | DEAF | 1 | : | https://www.signingsavvy.com/media2/mp4-ld/23/23017.mp4 | | | | | | | b. | | DEAF | 2 | : | https://www.signingsavvy.com/media2/mp4-ld/23/23016.mp4 | | | |
+
+Other signs in ASL have two variants that similarly differ by metathesis, such as HEAD (2) and RESTAURANT (3), but since this is a sporadic change, it only affects a few signs, so there are many more signs that do not have a variant with metathesis, such as CHILDREN (4) and THING (5) (Liddell and Johnson 1989).
+
+[表格]
+| | | (2) | | a. | | HEAD | 1 | : | https://www.signingsavvy.com/media2/mp4-ld/30/30884.mp4 | | | | | | | b. | | HEAD | 2 | : | https://www.signingsavvy.com/media2/mp4-ld/30/30885.mp4 | | | | | (3) | | a. | | RESTAURANT | 1 | : | https://www.signingsavvy.com/media2/mp4-ld/22/22673.mp4 | | | | | | | b. | | RESTAURANT | 2 | : | https://www.signingsavvy.com/media2/mp4-ld/22/22674.mp4 | | | | | (4) | | | | CHILDREN: | https://www.signingsavvy.com/media2/mp4-ld/21/21593.mp4 | | | | | (5) | | | | THING: | https://www.signingsavvy.com/media2/mp4-ld/29/29617.mp4 | | | |
+
+Metathesis also happens in spoken languages, where it affects the position of phones. For example, the English word ask has undergone metathesis multiple times in its history. In Old English, we find it first attested as ascian with [sk], but we soon find evidence of a metathesized form axian or acsian with [ks]. Both versions persisted in various regions, but axian was dominant enough throughout Old English that it resisted a different Old English sound change, [sk] > [ʃ], that regularly affected words containing [sk] (6).
+
+[表格]
+| | | (6) | | a. | | | bisceop | > | bishop | | | | | | | b. | | | fisc | > | fish | | | | | | | c. | | | scīnan | > | shine | | | | | | | d. | | | wascan | > | wash | | | |
+
+If the original ascian had been stable through Old English, it should now be pronounced like ash in Modern English due to the [sk] > [ʃ] sound change. Any modern word with [sk] must have gotten its [sk] by avoiding this sound change somehow. Some words, like skip and whisk, were borrowed later in Old English, after the [sk] > [ʃ] change was already complete. However, ask existed in Old English, so it must have avoided the sound change some other way. In this case, it was because the axian variant was dominant while the [sk] > [ʃ] sound change was happening, so axian was unaffected, like many other [ks] words (7).
+
+[表格]
+| | | (7) | | a. | | | eaxl | > | axle | | | | | | | b. | | | æx | > | axe | | | | | | | c. | | | fyxen | > | vixen | | | |
+
+The axian variant remained dominant throughout Middle English and into Early Modern English. For example, it can be found multiple times in the Coverdale Bible (1535), the first complete English version of the Bible. See Figure 14.4 for sample text from Matthew 7:7–10 with four instances of the [ks] variant.
+
+[图片：14.4-matthew7.png]
+
+Figure 14.4. Scan of Matthew 7:7–10 from the Coverdale Bible (top left, adapted from The Internet Archive), the same text transcribed (top right), and a more modern equivalent (bottom), with different forms of axe and ask highlighted in each.
+Some time later, metathesis happened again, giving rise to a new [æsk] pronunciation. However, the older [æks] pronunciation has persisted in many dialects due to its long history in English. In many cases of such long-standing variation, we often accept the difference as ordinary. For example, many Canadians say [əˈlumənm̩] aluminum and [ˈvaɪtəmn̩] vitamin, while many Brits say [ˌæljəˈmɪnim̩] aluminium and [ˈvɪtəmn̩]; and many Canadians say [ˈædl̩t] adult, while many Americans say [əˈdʌlt], and these differences are usually treated as no more than points of curiosity and polite joking.
+But with [æks], we often find intense dislike and outright vitriol, despite the fact that it has existed for hundreds of years in English. People who use [æks] are often ridiculed as unintelligent, uneducated, and unworthy of respect. A key factor is that [æks] happens to be popularly associated with African American English, even though it is used in many other dialects. This means that expressing disdain for [æks] (and the people who use it) serves as a way to covertly express racial prejudice through overt linguistic prejudice.
+But the linguistic prejudice is just a convenient mask. No one expresses as much hate towards other cases of metathesis. For example, Old English wæpse and bridd similarly underwent metathesis, but the modern metathesized forms wasp and bird are considered acceptable, not markers of lack of intelligence. However, wasp and bird are not popularly associated with African American English, so underlying racial hatred does not have a chance to leak through like it does for [æks]. Given the issues of language and power that have been discussed throughout this book, especially in Chapter 2, this unfortunate outcome is unsurprising.
+
+## Sporadic sound change
+
+A language change that affects the phonology of a spoken language specifically is known as a sound change. One type of sporadic sound change is a spelling pronunciation, in which the pronunciation of a word shifts to better match its spelling. This happens in English because the connection between spelling and pronunciation is often inconsistent (see Section 3.6), so a spelling pronunciation can help reduce this inconsistency.
+For example, the English word Arctic was originally borrowed into Late Middle English from Middle French artique, which itself is derived from Latin arcticus. The spelling was changed a few hundred years later, with a <c> added based on the Latin spelling, which eventually caused the pronunciation to shift to [ɑrktɪk]. Other examples of spelling pronunciation in English are given in (8).
+
+[表格]
+| | | (8) | | a. | | | falcon | was borrowed from Old French | faucon | , which had no [l]; the borrowing was later respelled to match the original Latin | falcōnem | , and this triggered a spelling pronunciation in English with [l] to match the new spelling | | | | | | b. | | | hectic | was borrowed from Old French | etique | , which had no [h]; the borrowing was later respelled to match the original Latin | hecticus | , and this triggered a spelling pronunciation in English with [h] to match the new spelling | | | | | | c. | | | perfect | was borrowed from Old French | parfit | , which had no [k]; the borrowing was later respelled to match the original Latin | perfectus | , and this triggered a spelling pronunciation in English with [k] to match the new spelling | | |
+
+Interestingly, many people today still pronounce Arctic as [ɑrtɪk], closer to the original Middle English pronunciation, though this pronunciation is often stigmatized and is frequently found on lists of “commonly mispronounced words”. However, this attitude directly contradicts a common belief among language pedants that language change “ruins” language. If change itself is stigmatized, then older forms should always be more prestigious. However, with Arctic, it is the newer pronunciation [ɑrktɪk] that carries prestige, because of its spelling.
+Of course, spelling pronunciations are not always prestigious either. Pronouncing the [h] in honest in not prestigious and would be ridiculed as uneducated. So neither history nor spelling are perfectly reliable guides to what counts as a prestigious pronunciation. In fact, there is no consistent linguistic factor that correlates to prestige. Some prestigious forms are older, some are newer; some are pronounced to match their spelling, some are not. The only real consistency across prestigious forms is that they are used by those who hold social power (see Chapter 2 for more discussion).
+A different type of sporadic sound change involves stereotypes about the pronunciation of words in other languages, and using those stereotypes rather than the original pronunciation. This is known as hyperforeignism. There are many examples of hyperforeignism in English, such as those in (9).
+
+[表格]
+| | | (9) | | a. | | The capital of China is called | Beijing | in English, which is borrowed from Chinese | 北京 (Běijīng) | . The Mandarin pronunciation is [pèɪ.t͡ɕíŋ], which is very similar to a possible English pronunciation [bed͡ʒɪŋ]. However, many English speakers use the hyperforeignism [beʒɪŋ] instead, because [ʒ] is relatively rare in English but does occur in many borrowings ( | azure | , | Dijon | , | genre | , etc.), so it reinforces the foreignness of Beijing as a city in another country. | | | | | | b. | | The word | lingerie | was borrowed from French, in which the final vowel is pronounced [i]. However, many French borrowings in English have a final [e] ( | ballet | , | chez | , | fiancé | , etc.), so the pronunciation of | lingerie | was changed in English to match this stereotype by replacing original final [i] with hyperforeign [e]. | | | | | | c. | | Another stereotype about French is that where English might have a final [s], French does not. We see this in many borrowings from French into English, where the word looks like it should be pronounced with final [s]: | chassis | , | foie gras | , | rendezvous | , etc. However, French does allow final [s], as in the expression | coup de grâce | [ku də ɡʁɑs], but in the borrowed form in English, the final [s] has been deleted, so that it seems more French-like, resulting in the hyperforeignism [ku də ɡrɑ]. | | |
+
+There are many other types of sporadic sound changes, three of which are briefly discussed here. First, dissimilation is when a phone shifts to avoid being too similar to a nearby phone. For example, despite the spelling, governor is often pronounced [ɡʌvənr̩], with no [r] in the second syllable, in order to dissimilate from the [r] in the third syllable (note that [r] in the second syllable is still pronounced in the base verb govern, when there is no following [r] to trigger dissimilation).
+Analogy is when a word shifts to match a pattern found in other words, especially from a rare pattern to a more common pattern. For example, nuclear has a very rare [-klir̩] sequence that many people pronounce by analogy as the more common sequence [-kjəlr̩], as in binocular, circular, molecular, muscular, particular, etc. (See more discussion and examples in Section 14.4.)
+A special subtype of analogy is immediate model, in which a word shifts to match another word that it is frequently used together with, especially in an established sequence. For example, February is normally pronounced [fɛbjəwɛri] rather than [fɛbruɛri], by immediate model with [d͡ʒænjəwɛri] January, since the two words are often said together in sequence.
+
+## Regular phonological change
+
+So far, we have looked mostly at sporadic changes, which affect only a limited number of words. However, a phonological change can be regular instead, which means that it applies uniformly in a consistent environment across every word possible, similar to how synchronic phonological rules apply. For example, if the [sk] > [ks] metathesis had been regular in Old English rather than sporadic, then every word with [sk] would have changed, not just ascian.
+Modality seems to affect the potential for regularity in phonological change. Spoken languages can have both regular and sporadic sound changes, while signed languages seem to undergo only sporadic phonological changes. This is likely for the same reasons that signed languages do not seem to have productive phonological rules, but it could instead be due to our lack of understanding of the phonology of signed languages (see Section 4.10 for discussion). Thus, we focus on regular sound changes here.
+The idea of that sound change could be regular was theorized in the late 1800s. Prior to that, historical linguists primarily focused on describing observed changes in the written record of known languages. However, a group of German linguists known as the Neogrammarians proposed that all sound changes were regular, not sporadic. So every sound change had to affect every word it could; any apparent exceptions must be due to borrowing or some other separate process. This proposal is known as the regularity principle or the Neogrammarian hypothesis.
+We now know that the regularity principle is not fully true. As discussed earlier in this section, many sound changes are indeed sporadic. But even for those sound changes that are regular, they may spread slowly through the lexicon, word by word or morpheme by morpheme, typically affecting higher frequency words first, through a process called lexical diffusion (Wang 1969, Chen 1972, Chen and Wang 1975; see also Schuchardt 1885 for early recognition of this phenomenon). This means that at any given moment, we may see only a partial effect of a sound change, with some words affected, but not others.
+For example, in Philadelphia, words like bad, glad, and mad have a higher/tenser [æ̝] due to a sound change affecting /æ/ before /d/. However, there are lots of other words in the lexicon, such as dad and sad, that still have the lower/laxer [æ] because the sound change has not diffused to them yet (Labov 1981).
+However, despite the flaws of the regularity principle, it was crucial for the development of the field of historical linguistics, turning it from pure description to a predictive science (see Appendix 2.3 for discussion). The regularity principle is the core tool used in Sections 14.8–14.11 for helping us understand and make reasonable hypotheses about the linguistic past.
+
+## Conditioning of regular sound change
+
+Like synchronic phonological rules, a regular sound change may be conditioned, which means that it only happens in a specific set of environments, such as at the end of the word or between vowels. For example, by Middle English, [sw] clusters were pronounced as [s], but only before back vowels. So sword and answer (from Old English andswaru) now have [s] because of the following back vowel, while sweet, swift, and swell have all retained their original [sw] because the following front vowel blocked this change from applying.
+We can notate such conditioned sound changes similarly to how we notated phonological rules in Section 4.7, using the symbols / and ▁ to specify the environment, but using > instead of
+[图片：5110e872195fe28426772eaf3f893be9.png]
+to represent that this is a diachronic sound change rather than a synchronic phonological rule. The conditioned change of [sw] to [s] change could thus be represented as in (10):
+
+[表格]
+| | | (10) | | | | [sw] > [s] / ▁ back vowel | | |
+
+Some regular sound changes are instead unconditioned, which means they occur everywhere, regardless of the environment. For example, Old English had a high front round vowel [y] that changed to [i] everywhere in Middle English, as in brycɡ > bridge and cyssen > kiss. This unconditioned change would be notated as in (11), with no environment.
+
+[表格]
+| | | (11) | | | | [y] > [i] | | |
+
+## Phonemic effects of regular sound change
+
+Sound changes can also be classified by whether they affect the number of phonemes in a language. If a regular sound change decreases the number of phonemes in a language, it is called a phonemic merger or simply merger. The [y] > [i] change was a merger, since /y/ and /i/ were separate phonemes before the merger. We can highlight the phonemic nature of this change by using slashes instead of square brackets: /y/ > /i/. In addition, mergers are sometimes notated with both of the older phonemes on one side, as in /i, y/ > /i/, to highlight that this was a merger.
+When we acquire a language, we do not acquire its history, so once two phonemes have merged, there is no longer any way to reliably distinguish them. Thus, when a child acquires kiss and miss now, they cannot know that 1000 years ago, kiss used to be pronounced with [y] and miss with [i]. The merger has caused these two words to be perfect rhymes in Modern English, even though they used to be pronounced with different vowels in Old English (cyssen with [y] and missan with [i]).
+Other changes can increase the number of phonemes. This is called a phonemic split or just split. An example of a split is the emergence of voiced fricatives as phonemes during Middle English. Old English did not have a phonemic distinction between voiced and voiceless fricatives; they were voiceless by default but had voiced allophones between vowels. For example, cnif ‘knife’ was pronounced [kniːf], while its plural cnifas was pronounced [kniːvas] (we still have that [v] in the plural in Modern English knives). But [f] and [v] were allophones of a single phoneme /f/, until English borrowed a lot of Old French words that had [v] in a position where it was in contrastive distribution with [f], as with fine and vine. As discussed in Chapter 4, once there is contrastive distribution and the potential for minimal pairs, the phones must belong to separate phonemes, which meant a new phoneme /v/ came into existence in Middle English.
+A sound change may also keep the number of phonemes constant, only changing their pronunciation. This is known as non-phonemic shift or just shift. There have been a number of such shifts in the vowel system throughout the history of English. In particular, Late Middle English had four short vowels, [i], [e], [o], and [u], that shifted in pronunciation into Early Modern English by becoming lax, plus an fifth short vowel [a] that did not change (see Figure 14.5). Since there were no pre-existing short lax vowels, these shifts resulted in no mergers, so there was no change in the number of vowels.
+
+[图片：14.5-GVS-short-vowels.png]
+
+Figure 14.5. Shifts in the short vowels from Late Middle English to Early Modern English.
+In this case, the different shifts did not interact with each other, but it is possible for shifts to overlap. This happened with the Middle English long vowels in a shift known as the Great Vowel Shift, which is one of the major features marking the transition from Middle English to Modern English (see Section 14.1).
+
+## The Great Vowel Shift in English
+
+In addition to the five short vowels discussed earlier, Late Middle English also five long vowels that matched the short vowels in vowel quality, [iː], [eː], [aː], [oː], and [uː], plus two other long vowels that did not have a matching short vowel, [ɛː] and [ɔː]. During the Great Vowel Shift, the long vowels changed in pronunciation separately from the short vowels, so that the long-short pairs ended up differing in both length and vowel quality.
+In addition, the long vowels shifted in such a way that their shifts overlapped with each other. For example, [aː] shifted to [ɛː], while [ɛː] shifted to [eː]. Crucially, there was no merger: [aː] and [ɛː] each shifted separately by one step. This kind of overlapping series of non-merging shifts is a called a chain shift. In a chain shift, there are at least two changes, with the newer form of one change being the older form of some other separate change. In this case, the “link” in the chain is [ɛː], which is the newer form of the [aː] > [ɛː] change and the older form of the [ɛː] > [eː] change.
+This chain was actually longer, because of two additional changes: [eː] > [iː] and [iː] > [ai]. The back vowels had a similar chain shift, with [ɔː] > [oː], [oː] > [uː], and [uː] > [au]. Thus, the Great Vowel Shift consisted of two chain shifts, one involving four vowels and one involving three vowels (Figure 14.6).
+
+[图片：14.6-GVS-long-vowels.png]
+
+Figure 14.6. Shifts in the long vowels from Late Middle English to Early Modern English, known as the Great Vowel Shift.
+There are a few ways that a chain shift could happen, depending on when the individual shifts occurred in time with respect to each other. This ordering of separate changes is called their relative chronology. One option is that all the shifts happened more or less simultaneously, so that [aː] shifted up at the same time that [ɛː] did, which was the same time that [eː] did, and so on.
+However, it is more likely that some shifts happened a bit earlier than others. If the high vowels became diphthongs first, this would have left a gap in the vowel space. In general, languages tend to have their vowels evenly distributed throughout the vowel space, so this gap would pull the lower vowels up to keep the spacing more even. This is called a pull chain.
+Instead, the lower vowels at the other end of the chain might have started shifting first, with [aː] and [ɔː] raising toward [ɛː] and [oː]. This would crowd that part of the vowel space, and to avoid a merger, [ɛː] and [oː] would shift higher as well. This would create a chain reaction of each vowel pushing the next vowel up and out of the way, until the high vowels have nowhere to go, so they become diphthongs. This is called a push chain.
+Based on written evidence, it seems like the Great Vowel Shift may have in fact been a bit of a mixture of push and pull chains, with the tense high vowels [eː] and [oː] shifting first. This would push the high vowels [iː] and [uː] while also pulling the lower mid vowels [ɛː] and [ɔː] to fill the gap. All three possibilities are visualized in Figure 14.7.
+
+[图片：14.7-chain-shifts.png]
+
+Figure 14.7. Three different possibilities for the Great Vowel Shift: pull chains starting with [iː] > [ai] and [uː] > [au] (left), push chains starting with [aː] > [ɛː] and [ɔː] > [oː] (centre), and a mixture of both types starting with [eː] > [iː] and [oː] > [uː] (right).
+There were some further changes that affected most of these vowels later in Modern English to give us the vowels we have today (for example, [ɛː] and [eː] merged to [e]), but the changes for the long vowels discussed above are the essence of the Great Vowel Shift.
+Interestingly, German underwent a similar vowel shift, but it did so much earlier than English, before there was widespread printing to standardize the spelling. We can see this in the difference between the German word bei ‘by’ and the related English word by. Both words are pronounced [baɪ], but they originally had [iː] prior to their respective vowel shifts. German shifted [iː] to a diphthong very early, and then sometime later, printing came along, which helped standardize spelling in both languages to match the pronunciation at the time. For German, this spelling was <bei>, while English retained <by>, because this word was still pronounced with [iː]. Finally, after the spelling had been settled, the Great Vowel Shift occurred in English, and the pronunciation of by changed in the same way it had for German bei, but the English spelling was not updated to reflect to new pronunciation.
+We see further evidence of the Great Vowel Shift in the morphology of English. In Middle English, allomorphs could differ in length in predictable ways, so that one allomorph of a morpheme had a long vowel in some environments, while another had a short vowel in other environments. Since the two types of vowels shifted differently due to the Great Vowel Shift, the pronunciation of the relevant allomorphs shifted differently as well. We can see remnants of this older long-short pattern preserved in word pairs like those in (12).
+
+[表格]
+| | | (12) | | a. | | | div | i | ne | – | div | i | nity | , | h | i | de-h | i | d | , etc., with [aɪ]-[ɪ] < [iː]-[i] | | | | | | b. | | | ser | e | ne-ser | e | nity | , | th | ie | f-th | e | ft | , etc., with [i]-[ɛ] < [eː]-[e] | | | | | | c. | | | gr | a | ze-gr | a | ss | , | s | a | ne-s | a | nity | , etc., with [e]-[æ] < [aː]-[a] | | | | | | d. | | | g | oo | se-g | o | sling | , | sch | oo | l-sch | o | larly | , etc. with [u]-[ɒ] < [oː]-[o] | | | | | | e. | | | h | ou | se-h | u | sband | , | pron | ou | nce-pron | u | nciation | , etc. with [aʊ]-[ʌ] < [uː]-[u] | | |
+
+The result is a lot of seemingly arbitrary complexity in the phonology and morphology of Modern English, but it can be traced back to more straightforward alternations in vowel length that were masked by regular sound changes.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=3894#h5p-147
+
+## References
+
+Chen, Matthew Y. 1972. The time dimension: Contribution toward a theory of sound change. Foundations of Language 8(4): 457–498.
+Chen, Matthew Y., and William S-Y. Wang. 1975. Sound change: Actuation and implementation. Language 51(2): 255–281.
+Coverdale, Myles (trans.) 1535. Biblia. The Bible, that is, the holy Scripture of the Olde and New Testament, faithfully and truly translated out of Douche and Latyn in to Englishe. Antwerp: Merten de Keyser.
+Labov, William. 1981. Resolving the Neogrammarian controversy. Language 57(2): 267–308.
+Liddell, Scott K., and Robert E. Johnson. 1989. American Sign Language: The phonological base. Sign Language Studies 64 (Fall): 195–278.
+Nyberg, Henrik Samuel. 1974. A manual of Pahlavi. Part II: Ideograms, glossary, abbreviations, index, grammatical survey, corrigenda to Part I. Wiesbaden: Otto Harrassowitz.
+Schuchardt, Hugo. 1885. Ueber die Lautgesetze. Gegen die Junggrammatiker. Berlin: Oppenheim.
+Wang, William S-Y. 1969. Competing changes as a cause of residue. Language 45(1): 9–25.

@@ -1,0 +1,120 @@
+{
+ "batch": 13,
+ "sections": {
+  "part-003-slug-3-phonetics": {
+   "title": {"en": "Chapter 3: Phonetics", "zh": "第3章：语音学"},
+   "summary": {
+    "en": "Every language has a physical reality: a way of transmitting linguistic signals between people. This chapter introduces that reality by examining the body parts that languages use, the movements that create a linguistic signal, and the ways linguists categorize, describe, and notate these physical properties so that a language can be recorded and studied.",
+    "zh": "任何语言都具有物质现实，即以某种方式在人与人之间传递语言信号。本章从这一现实入手，考察语言所使用的身体部位、这些部位如何运动以产生语言信号，以及语言学家如何对语言的物理属性进行分类、描写与标写，从而使一门语言能够被记录和研究。"
+   },
+   "points": [
+    {"en": "Languages differ not only in grammar but in the physical channel through which signals travel between people.", "zh": "语言之间的差别不仅在语法，还在于信号在人与人之间传递时所借助的物质通道。"},
+    {"en": "The chapter examines the body parts used for language and how they move to create a signal.", "zh": "本章考察语言所使用的身体部位，以及这些部位如何运动以产生语言信号。"},
+    {"en": "Linguists categorize, describe, and notate the physical properties of language so that information can be recorded.", "zh": "语言学家对语言的物理属性进行分类、描写与标写，以便记录并查阅有关某一语言的信息。"},
+    {"en": "Readers should be able to identify the locations and functions of anatomy relevant to spoken and signed articulation.", "zh": "读者应能指出与口语和手语发音相关的身体结构的位置与功能。"},
+    {"en": "Readers should also be able to give articulatory descriptions of phones and signs and read common IPA symbols.", "zh": "读者还应能对音素与手语符号作出发音描写，并识别国际音标中的许多常用符号。"}
+   ],
+   "terms": [
+    {"en": "modality", "zh": "模态", "defEn": "The way a language is physically produced and perceived by its users.", "defZh": "一门语言在物理上被发出并被感知的方式，如口语的声学—听觉模态。"},
+    {"en": "articulation", "zh": "发音（构音）", "defEn": "Using parts of the body to produce a linguistic signal.", "defZh": "运用身体各部位发出语言信号的过程，是语音传递链条的起点。"},
+    {"en": "International Phonetic Alphabet (IPA)", "zh": "国际音标", "defEn": "A notational system whose symbols are used to represent speech sounds.", "defZh": "一套用于标写语音的符号系统，语言学家借以记录各种语言的音素。"}
+   ],
+   "examples": [],
+   "body": [
+    {
+     "en": "A central aspect of any language is its physical reality in the world: the way linguistic signals are transmitted from one person to another. This chapter approaches that reality from three directions. It begins with the parts of the human body that languages rely on, then considers how those parts move in order to create a linguistic signal, and finally asks how linguists categorize, describe, and notate these physical properties so that information about a language can be recorded and later consulted. Speech and sign are both treated as physical phenomena with describable properties.",
+     "zh": "任何语言都有一个核心面向，即它在世界中的物质现实：语言信号如何从一个人传递到另一个人。本章从三个方向切入这一现实：先看语言所依赖的人体各部位，再看这些部位如何运动以产生语言信号，最后讨论语言学家如何对上述物理属性进行分类、描写和标写，从而能够记录并随时查阅有关一门语言的信息。口语与手语在这里都被视为具有可描写属性的物质现象。"
+    },
+    {
+     "en": "By the end of the chapter, readers should be able to identify the locations and functions of the parts of human anatomy relevant to the articulation of spoken and signed languages, provide articulatory descriptions of given examples of phones and signs, and identify the meanings of many common symbols from the International Phonetic Alphabet. These skills support the later study of how sounds pattern in the grammar of a language.",
+     "zh": "学完本章，读者应能达到以下目标：指出与口语和手语发音相关的各人体结构的位置与功能；对给定的音素和手语符号实例作出发音描写；识别国际音标中许多常用符号所表示的音值。这些技能为后续学习语音在语言语法中的组合与分布规律打下基础。"
+    }
+   ]
+  },
+  "chapter-018-slug-3-1-modality": {
+   "title": {"en": "3.1 Modality", "zh": "3.1 模态"},
+   "summary": {
+    "en": "Communication runs from an intended message, through articulation, to a physical signal that another person perceives and interprets. The full chain defines a language's modality. Spoken languages are vocal-auditory and signed languages manual-visual, while other modalities and multimodal communication also exist. The term phonetics now covers the study of linguistic modality in general, with articulatory, perceptual, and acoustic subfields.",
+    "zh": "交际从说话者心中的意图信息开始，经由发音产生物质性的语言信号，再由他人感知并解读，这一完整链条界定了一门语言的模态。口语属于声学—听觉模态，手语属于手部—视觉模态，而 phonetics（语音学）这一术语如今泛指对语言模态的研究。"
+   },
+   "points": [
+    {"en": "Communication begins with an intended message and ends when another person reconstructs it through perception.", "zh": "交际始于说话者想要表达的信息，终于听者通过感知重建这一信息。"},
+    {"en": "Articulation gives the message physical reality, producing sound waves or light waves as the linguistic signal.", "zh": "发音使信息获得物质现实，产生声波或光波作为语言信号。"},
+    {"en": "The modality of a language is the whole chain from articulation to perception, or how it is produced and perceived.", "zh": "语言的模态指从发音到感知的完整链条，即该语言如何被发出、又如何被感知。"},
+    {"en": "Spoken languages are vocal-auditory; signed languages are manual-visual, articulated by hands and arms and received visually.", "zh": "口语属于声学—听觉模态；手语属于手部—视觉模态，由手和手臂发出，由视觉系统接收。"},
+    {"en": "Much communication is multimodal, since speech often accompanies gesture and facial expression, which carry meaning in signed languages.", "zh": "许多交际是多模态的：口语常伴随手势与面部表情，而在手语中面部表情本身也承载意义。"},
+    {"en": "Phonetics, from the Greek word for sound or voice, now names the study of linguistic modality in general.", "zh": "phonetics 源自希腊语中表示声音或嗓音的词，如今指对语言模态的总体研究。"}
+   ],
+   "terms": [
+    {"en": "modality", "zh": "模态", "defEn": "The chain from articulation to perception, or how a language is produced and perceived.", "defZh": "从发音到感知的完整链条，即一门语言如何被发出、又如何被感知。"},
+    {"en": "articulation", "zh": "发音（构音）", "defEn": "Movements and configurations of body parts that give a message physical reality.", "defZh": "身体各部位的运动与配置，使意图信息获得物质现实并成为可传递的信号。"},
+    {"en": "vocal-auditory", "zh": "声学—听觉（模态）", "defEn": "The modality of spoken languages: articulated with the vocal tract and received by hearing.", "defZh": "口语所属的模态：用声道发出，由听觉系统接收，中间以声波传递。"},
+    {"en": "manual-visual", "zh": "手部—视觉（模态）", "defEn": "The modality of signed languages: articulated by hands and arms and received visually.", "defZh": "手语所属的模态：由手和手臂发出，以光波传递，由视觉系统接收。"},
+    {"en": "tactile signing", "zh": "触觉手语", "defEn": "A signing practice in which the perceiver feels the signs rather than seeing them.", "defZh": "一种手语使用方式，接收者以触摸而非观看的方式感知手语符号。"},
+    {"en": "articulatory phonetics", "zh": "发音语音学", "defEn": "The study of how the body creates a linguistic signal.", "defZh": "研究身体如何发出语言信号的语音学分支，是本章集中讨论的内容。"}
+   ],
+   "examples": [
+    {"text": "English and Cantonese", "noteEn": "Spoken languages cited as having the vocal-auditory modality.", "noteZh": "原文举出的口语例子，属于声学—听觉模态。"},
+    {"text": "American Sign Language and Chinese Sign Language", "noteEn": "Signed languages cited as having the manual-visual modality.", "noteZh": "原文举出的手语例子，属于手部—视觉模态。"},
+    {"text": "φωνή (phōnḗ)", "noteEn": "Ancient Greek word meaning sound or voice, the source of phonetics.", "noteZh": "古希腊语中表示声音或嗓音的词，是 phonetics 一词的词源。"}
+   ],
+   "body": [
+    {
+     "en": "An act of communication normally starts when one person constructs an intended message in the mind and then gives it physical reality through articulation, the movements and configurations of their body parts. This produces a physical linguistic signal such as sound waves for spoken languages or light waves for signed languages. Another person receives, senses, and processes that signal through perception, and so reconstructs the intended message. The entire chain from articulation to perception is called the modality of the language: how it is produced and perceived.",
+     "zh": "一次交际通常始于一个人在心中构建想要表达的信息，随后通过发音——即身体各部位的运动与配置——使这一信息获得物质现实。由此产生物质性的语言信号：口语是声波，手语是光波。另一个人通过感知接收、感觉并加工这一信号，从而重建原初的意图信息。从发音到感知的这一完整物质现实链条，就称为该语言的模态，也就是这门语言如何被发出、又如何被感知。"
+    },
+    {
+     "en": "Spoken languages like English and Cantonese are vocal, because they are articulated with the vocal tract; acoustic, because sound waves carry them; and auditory, because the hearing system receives them, a combination usually shortened to vocal-auditory. Signed languages such as American Sign Language and Chinese Sign Language are instead manual, photic, and visual, giving the label manual-visual. Other modalities are possible but are not treated here, one example being the manual-somatic modality of tactile signing, used by some deafblind people who feel rather than see the signs. Communication is also frequently multimodal, since spoken language is commonly accompanied by shrugging, facial expressions, and hand gestures that convey emphasis, attitude, or turn-taking, while facial expressions carry essential meaning in many signed languages.",
+     "zh": "英语、粤语等口语是发声的，因为用声道发音；是声学的，因为靠声波传递；是听觉的，因为由听觉系统接收，这一组合通常简称为声学—听觉模态。美国手语、中国手语等手语则相反，是手部的、光学的、视觉的，因而称为手部—视觉模态。其他模态虽有可能存在，但本书不予讨论，例如某些聋盲人群体的触觉手语采用手部—躯体模态，接收者以触摸而非观看的方式感知手语。交际还常常是多模态的：口语通常伴随耸肩、面部表情和手势，用以传达强调、态度或话轮转换等信息，而在许多手语中，面部表情本身就承载关键意义。"
+    },
+    {
+     "en": "The word phonetics descends from the Ancient Greek φωνή (phōnḗ), meaning sound or voice. For a long time linguistics attended almost exclusively to spoken languages, so the study of language modality was named phonetics after the vocal-auditory modality. Because all human languages share similar underlying properties regardless of modality, the term now refers to the study of linguistic modality in general. Three subfields correspond to the components of modality: articulatory phonetics studies how the body creates a signal, perceptual phonetics studies how the body perceives and processes it, and acoustic phonetics studies linguistic sound waves. No comparable subfield yet studies the physical properties of light waves in the manual-visual modality.",
+     "zh": "phonetics 一词源自古希腊语的 φωνή（phōnḗ），意为声音或嗓音。长期以来语言学几乎只关注口语，因此对语言模态的研究便依声学—听觉模态而被命名为 phonetics。由于所有人类语言无论模态如何都具有相似的底层属性，这一术语如今泛指对语言模态的研究。模态的三个环节各对应一个分支：发音语音学研究身体如何发出信号，感知语音学研究身体如何接收并加工信号，声学语音学研究语言的声波。目前还没有相应的分支来研究手部—视觉模态中光波的物理属性。"
+    }
+   ]
+  },
+  "chapter-019-slug-3-2-speech-articulators": {
+   "title": {"en": "3.2 Speech articulators", "zh": "3.2 发音器官"},
+   "summary": {
+    "en": "Spoken language is articulated mainly in the vocal tract, which linguists depict with a midsagittal diagram. Its three open regions are the oral cavity, pharynx, and nasal cavity, with the trachea supplying most speech air. Individual speech sounds are called phones or segments, and each language counts as phones only those sounds that appear in ordinary words.",
+    "zh": "口语主要在声道中发音，语言学家用矢状剖面图标示声道。声道有三个开阔区域：口腔、咽腔和鼻腔，多数语音的气流来自气管。单个语音单位称为音素或音段，每种语言只把出现在普通词中的音算作自己的音素，打嗝、哼鼻等非语音响声则不算。"
+   },
+   "points": [
+    {"en": "For spoken language, articulation happens primarily in the vocal tract, using the lips, tongue, and mouth and throat.", "zh": "就口语而言，发音主要发生在声道中，使用双唇、舌头以及口腔和咽喉的其他部位。"},
+    {"en": "A midsagittal diagram depicts the vocal tract as if the head were split between the eyes, lips on the left.", "zh": "矢状剖面图把头部设想为沿两眼之间纵向剖开，并约定唇部在左、后脑在右。"},
+    {"en": "The three open regions are the oral cavity, the pharynx behind the tongue, and the nasal cavity above them.", "zh": "三个开阔区域是口腔、舌后的咽腔，以及位于口腔与咽腔上方的鼻腔。"},
+    {"en": "The pharynx splits into the trachea, which leads to the lungs, and the esophagus, which is irrelevant to phonetics.", "zh": "咽腔底部向下分为两条管道：通向肺部的气管，以及同语音学无关、通向胃部的食管。"},
+    {"en": "Individual speech sounds are called phones or segments, and every language has its own inventory of them.", "zh": "单个语音单位称为音素或音段，每种语言都拥有各自不同的音素清单。"},
+    {"en": "A sound counts as a phone only if it appears in ordinary words, not in marginal expressions or non-speech noises.", "zh": "一个音只有出现在普通词中才算作音素，边缘性词语或非语音的响声都不算。"}
+   ],
+   "terms": [
+    {"en": "vocal tract", "zh": "声道", "defEn": "The system of lips, tongue, mouth, and throat where spoken articulation happens.", "defZh": "由双唇、舌头、口腔与咽喉构成的系统，是口语发音主要发生的部位。"},
+    {"en": "midsagittal diagram", "zh": "矢状剖面图", "defEn": "A drawing of the head as if split down the middle between the eyes.", "defZh": "把头部设想为沿两眼之间纵向剖开后所绘的示意图，用于标示声道各部位。"},
+    {"en": "oral cavity", "zh": "口腔", "defEn": "The inside of the mouth, running from the lips to the back of the tongue.", "defZh": "口腔内部的空间，从双唇向后延伸到舌根，是声道中重要的开阔区域。"},
+    {"en": "pharynx", "zh": "咽腔", "defEn": "The region behind the tongue that forms the upper part of the throat.", "defZh": "位于舌后方的区域，构成我们通常所说的咽喉的上部。"},
+    {"en": "nasal cavity", "zh": "鼻腔", "defEn": "The open space above the oral cavity and pharynx, from nostrils to pharynx.", "defZh": "位于口腔与咽腔上方、从鼻孔向后并向下通向咽腔的开阔空间。"},
+    {"en": "trachea", "zh": "气管", "defEn": "The windpipe, which leads down to the lungs and supplies most speech air.", "defZh": "又称风管，向下通向肺部，是大多数口语发音所用气流的来源。"}
+   ],
+   "examples": [
+    {"text": "spill, slip, lisp, and lips", "noteEn": "Four English words containing the same four phones in different orders.", "noteZh": "四个英语词，包含相同的四个音素，只是排列顺序不同。"},
+    {"text": "[θ]", "noteEn": "A sound articulated with the tongue between the teeth, frequent in English.", "noteZh": "舌尖置于齿间发出的音，在英语中相当常见，在多数其他语言中却很罕见。"},
+    {"text": "alveolar click [!] and the lateral click [ǁ]", "noteEn": "Clicks found in Hadza and isiZulu but not counted as phones in English.", "noteZh": "见于哈扎语和祖鲁语的搭嘴音，在英语中不算音素，尽管英语者会非语言地使用。"},
+    {"text": "Ugh, I can’t believe you’re eating that", "noteEn": "A marginal expression whose gravelly sound is not otherwise found in English words.", "noteZh": "一句边缘性表达，其中粗哑的音响并不出现在其他英语词中，故不算英语音素。"}
+   ],
+   "body": [
+    {
+     "en": "Articulation means using parts of the body to produce a language signal, and for spoken language it happens mainly in the vocal tract, using the lips, tongue, and other parts of the mouth and throat. Linguists often picture that tract with a midsagittal diagram, which shows the inside of the head as if it were split down the middle between the eyes. By convention the diagram is oriented with the nostrils and lips on the left and the back of the head on the right.",
+     "zh": "发音指运用身体部位产生语言信号；就口语而言，发音主要发生在声道中，使用双唇、舌头以及口腔和咽喉的其他部位。语言学家常用矢状剖面图来描绘声道，它把头部内部设想为沿两眼之间纵向剖开。按惯例，图的方向是鼻孔与双唇在左、后脑在右。"
+    },
+    {
+     "en": "Three open regions of the vocal tract matter most. The oral cavity is the inside of the mouth, from the lips to the back of the tongue; the pharynx lies behind the tongue and forms the upper part of the throat; the nasal cavity is the space above both, running from the nostrils backward and down to the pharynx. These are general terms without precise boundaries. At its bottom the pharynx splits into two tubes: the trachea, or windpipe, leading to the lungs, and the esophagus, leading to the stomach. Phonetics can ignore the esophagus, but the trachea matters because most spoken language is articulated with air coming from the lungs.",
+     "zh": "声道中有三个最重要的开阔区域。口腔即嘴的内部，从双唇向后直到舌根；咽腔位于舌的后方，构成咽喉上部；鼻腔则是位于二者上方的空间，从鼻孔向后并向下通向咽腔。这些都是笼统的说法，彼此之间并没有精确的界线。咽腔底部向下分为两条管道：一条是通向肺部的气管（又称风管），另一条是通向胃部的食管。语音学无需关注食管，但气管很重要，因为大多数口语都是用来自肺部的气流发音的。"
+    },
+    {
+     "en": "Linguists call individual speech sounds phones or segments, roughly individual units of speech that can be part of a word in a given language. The English words spill, slip, lisp, and lips each contain the same four phones in different orders, though a phone may vary slightly depending on its position. Every language has its own inventory: [θ] is frequent in English but rare elsewhere, while Hadza and isiZulu have clicks such as [!] and [ǁ] that English does not count as phones, even though English speakers use them non-linguistically. The criterion is whether a sound appears in ordinary words, so marginal expressions like ugh do not qualify, and neither do burps, snorts, or raspberries, though such sounds can still convey non-linguistic meaning.",
+     "zh": "语言学家把单个语音称为音素或音段，大致相当于在某一语言中能够充当词的一部分的独立语音单位。英语词 spill、slip、lisp 和 lips 各自都含有相同的四个音素，只是顺序不同；不过同一音素在不同位置上发音会略有变化。每种语言都有各自的音素清单：[θ] 在英语中很常见，在多数其他语言中却很罕见；而哈扎语和祖鲁语有 [!] 和 [ǁ] 这样的搭嘴音，英语并不把它们算作音素，尽管一些英语使用者会在非语言层面用它们表示不满或催促。判断标准是该音是否出现在普通词中，因此像 ugh 这样的边缘性表达不算，打嗝、哼鼻、弹舌之类的响声也不算，尽管这些非语音的声音仍能传达非语言的意义。"
+    }
+   ]
+  }
+ }
+}

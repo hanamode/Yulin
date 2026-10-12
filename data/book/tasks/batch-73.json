@@ -1,0 +1,13 @@
+{
+ "batch": 73,
+ "chapter": "Check Yourself Questions",
+ "out": "data/book/gen/batch-73.json",
+ "sections": [
+  {
+   "id": "back-matter-001-check-yourself-questions",
+   "title": "Check Yourself Questions",
+   "src": "data/book/src/back-matter-001-check-yourself-questions.txt",
+   "chars": 46121
+  }
+ ]
+}

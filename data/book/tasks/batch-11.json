@@ -1,0 +1,25 @@
+{
+ "batch": 11,
+ "chapter": "Chapter 2: Language, Power, and Privilege",
+ "out": "data/book/gen/batch-11.json",
+ "sections": [
+  {
+   "id": "chapter-012-slug-2-3-derogation-toxicity-and-power-imbalances",
+   "title": "2.3 Derogation, toxicity, and power imbalances",
+   "src": "data/book/src/chapter-012-slug-2-3-derogation-toxicity-and-power-imbalances.txt",
+   "chars": 11823
+  },
+  {
+   "id": "chapter-013-slug-2-4-the-power-of-names",
+   "title": "2.4 The power of names",
+   "src": "data/book/src/chapter-013-slug-2-4-the-power-of-names.txt",
+   "chars": 9013
+  },
+  {
+   "id": "chapter-014-slug-2-5-pronouns-language-change-and-the-grammar-police",
+   "title": "2.5 Pronouns, language change, and the grammar police",
+   "src": "data/book/src/chapter-014-slug-2-5-pronouns-language-change-and-the-grammar-police.txt",
+   "chars": 8596
+  }
+ ]
+}

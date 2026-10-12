@@ -1,0 +1,352 @@
+{
+ "batch": 11,
+ "entries": [
+  {
+   "id": "free-bound-morpheme",
+   "title": "自由语素与黏着语素",
+   "en": "Free and Bound Morphemes",
+   "category": "concepts",
+   "tags": [
+    "语素",
+    "词根",
+    "词缀",
+    "形态学",
+    "布龙菲尔德",
+    "分布"
+   ],
+   "summary": "自由语素指能够独立成词、单独出现在句子中的语素，如英语 book、汉语「书」；黏着语素则必须依附于其他语素才能出现，如英语 -s、-ing 和汉语「们」「子」。这一区分由布龙菲尔德在《语言论》中确立，是形态学分析的基本步骤。需要注意的是，自由与黏着的界限并非绝对，同一语素在不同语言或不同语境中可能表现出不同性质。",
+   "summaryEn": "A free morpheme can stand alone as a word, as in English book or Mandarin 书 shū; a bound morpheme must attach to another morpheme and cannot occur independently, as in the English plural -s or the Mandarin plural suffix 们 men. The distinction, standardised by Leonard Bloomfield in Language, underlies morphological analysis. The boundary is not absolute, however: the same morpheme may behave as free in one language or context and as bound in another.",
+   "sections": [
+    {
+     "h": "定义与判定标准",
+     "hEn": "Definition and Criteria",
+     "p": [
+      "自由语素（free morpheme）是能够单独成词、独立充当句法成分的语素。英语 book、run、happy 都可以单独说出来并进入句子，因而属于自由语素。黏着语素（bound morpheme）则不能独立出现，必须与至少一个其他语素结合，例如英语的复数后缀 -s（cats）、进行体后缀 -ing（running）和否定前缀 un-（unhappy）。判定标准是能否独立成词，而不是意义的虚实；汉语的「子」在「桌子」中不能单说，属于黏着语素，而「书」可以单说，属于自由语素。"
+     ],
+     "pEn": [
+      "A free morpheme can stand alone as a word and function as an independent syntactic unit. English book, run and happy can all be uttered in isolation and inserted into sentences, so they are free. A bound morpheme cannot occur independently and must combine with at least one other morpheme, as with the English plural suffix -s in cats, the progressive -ing in running, or the negative prefix un- in unhappy. The test is independent occurrence, not semantic content. In Mandarin, 子 zǐ cannot stand alone in 桌子 zhuōzi 'table' and is therefore bound, whereas 书 shū 'book' can and is free."
+     ]
+    },
+    {
+     "h": "自由语素的两类",
+     "hEn": "Two Types of Free Morphemes",
+     "p": [
+      "自由语素通常分为两类：一类是可以独立成词的词根，如英语 man、water、write，汉语的「山」「走」「红」，它们携带主要词汇意义；另一类是功能词，如英语 the、of、and，汉语「的」「和」「在」，它们本身是自由形式，但主要承担语法功能。传统语法把前者称为实词、后者称为虚词，这一划分与自由语素和黏着语素的区分并不重合：虚词虽然是自由语素，词汇意义却很薄弱。"
+     ],
+     "pEn": [
+      "Free morphemes fall into two broad groups. The first consists of roots that can stand alone as content words, such as English man, water and write, or Mandarin 山 shān 'mountain' and 走 zǒu 'walk'; these carry the main lexical meaning. The second comprises function words such as the, of and and in English, or 的 de and 和 hé in Mandarin, which are free forms but serve mainly grammatical purposes. The traditional division between content and function words does not coincide with the free–bound distinction, since function words are free yet semantically light."
+     ]
+    },
+    {
+     "h": "黏着语素的主要类型",
+     "hEn": "Major Types of Bound Morphemes",
+     "p": [
+      "黏着语素可依其在词中的位置和功能进一步分类。按位置分，有前缀（英语 re-、un-，汉语「老-」如「老虎」）、后缀（英语 -ness、-ed，汉语「-子」「-们」）、中缀（他加禄语 -um-，如 sumulat「写」由 sulat 加中缀构成）和环缀（德语 ge-…-t，如 gemacht「做过」）。按功能分，有派生词缀与屈折词缀：前者改变词义或词类，如 kind → kindness；后者只表达语法范畴，如 walk → walked。词根若不能独立出现，则是黏着词根，如英语 -ceive（receive、perceive）。"
+     ],
+     "pEn": [
+      "Bound morphemes are classified by position and function. Positionally there are prefixes (English re-, un-), suffixes (English -ness, -ed; Mandarin 子 -zi, 们 -men), infixes (Tagalog -um-, as in sumulat 'wrote' from sulat 'write') and circumfixes (German ge-…-t in gemacht 'made'). Functionally they divide into derivational affixes, which alter meaning or word class as in kind → kindness, and inflectional affixes, which mark grammatical categories as in walk → walked. A root that cannot occur alone is a bound root, such as English -ceive in receive and perceive."
+     ]
+    },
+    {
+     "h": "理论意义与争议",
+     "hEn": "Theoretical Significance and Controversy",
+     "p": [
+      "自由与黏着的区分是形态学描写的基本工具，也是判断语言类型的一项指标：汉语、越南语等以自由语素为主，词根可直接成词；爱斯基摩语、许多美洲原住民语言则高度依赖黏着语素，一个词可以包含多个词缀。争议在于界限的模糊性。英语 not 通常被视为自由语素，但口语中 n't 只能依附于助动词，属黏着语素；法语 je 在 je vais 中虽是独立词形，口语却常与动词连读为一个单位。此外，复合词中的自由语素失去句法独立性，如 blackboard 中的 black 不能再受 very 修饰，因此有学者主张区分词的构成成分与句法上的自由形式。"
+     ],
+     "pEn": [
+      "The free–bound distinction is a basic descriptive tool in morphology and an index of language type. Mandarin and Vietnamese rely heavily on free morphemes that can serve directly as words, whereas Eskimo and many Native American languages make extensive use of bound morphemes, so that a single word may contain several affixes. The main controversy concerns borderline cases. English not is usually treated as free, yet its contracted form n't attaches to an auxiliary and is bound; in spoken French je often fuses with the following verb. Moreover, free morphemes lose syntactic independence inside compounds: black in blackboard cannot be modified by very, which has led some scholars to separate word-internal constituents from syntactically free forms."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "自由语素",
+     "tEn": "free morpheme",
+     "d": "能够独立成词、单独进入句子并充当句法成分的语素，如英语 book、汉语「书」。",
+     "dEn": "A morpheme that can stand alone as a word and serve as a syntactic unit."
+    },
+    {
+     "t": "黏着语素",
+     "tEn": "bound morpheme",
+     "d": "不能独立出现、必须依附于其他语素才能进入句子的语素，如英语 -s 和汉语「子」。",
+     "dEn": "A morpheme that cannot occur alone but must attach to another morpheme to appear."
+    },
+    {
+     "t": "词根",
+     "tEn": "root",
+     "d": "承载主要词汇意义、可以附加各种词缀的核心语素，如英语 act、汉语「木」。",
+     "dEn": "The core morpheme that carries the main lexical meaning of a word."
+    },
+    {
+     "t": "词缀",
+     "tEn": "affix",
+     "d": "附着于词根或词干之上、用于构词或变形的黏着语素，分为前缀、后缀、中缀等。",
+     "dEn": "A bound morpheme attached to a root or stem to form or inflect words."
+    },
+    {
+     "t": "黏着词根",
+     "tEn": "bound root",
+     "d": "本身不能独立成词、必须与词缀共同出现才能使用的词根，例如英语的 -ceive、-fer。",
+     "dEn": "A root that cannot stand alone as a word and must occur with affixes."
+    },
+    {
+     "t": "屈折词缀",
+     "tEn": "inflectional affix",
+     "d": "用来表达时、数、格等语法范畴并且不改变词类的词缀，例如英语的 -ed、-s。",
+     "dEn": "An affix that marks grammatical categories without changing the word class."
+    },
+    {
+     "t": "派生词缀",
+     "tEn": "derivational affix",
+     "d": "用来构成新词、通常会使词义或词类发生改变的词缀，例如英语的 -ness、-er。",
+     "dEn": "An affix that forms new words and usually changes meaning or word class."
+    }
+   ],
+   "related": [
+    "morpheme",
+    "allomorphy",
+    "inflection-derivation",
+    "lexical-category",
+    "morphology"
+   ],
+   "sources": [
+    "Wikipedia, \"Morpheme\", https://en.wikipedia.org/wiki/Morpheme",
+    "Bloomfield, Language, 1933"
+   ]
+  },
+  {
+   "id": "lexical-category",
+   "title": "词类",
+   "en": "Lexical Category",
+   "category": "concepts",
+   "tags": [
+    "词类",
+    "词性",
+    "分布",
+    "句法功能",
+    "转类",
+    "兼类"
+   ],
+   "summary": "词类指依据句法分布和形态特征对词所作的语法分类，如名词、动词、形容词、副词、介词等。划分词类的标准通常包括形态变化、句法功能和意义三个方面。汉语缺乏严格意义的形态变化，因此主要依据分布与功能标准。词类与短语类别构成层级系统，是句法分析的出发点，也是语言类型学与自动词性标注研究的基础问题。",
+   "summaryEn": "A lexical category, or part of speech, is a grammatical class of words such as noun, verb, adjective, adverb or preposition, established mainly on the basis of syntactic distribution and morphological behaviour. Criteria include inflection (English verbs take -ed), syntactic function (whether a word can serve as subject or take an object) and meaning. Because Mandarin has little inflection, distributional criteria dominate. Lexical categories form a hierarchy with phrasal categories and provide the starting point for syntactic analysis, typology and automatic part-of-speech tagging.",
+   "sections": [
+    {
+     "h": "定义与词类清单",
+     "hEn": "Definition and Inventory",
+     "p": [
+      "词类（lexical category，又称 part of speech）是词在语法系统中的功能类别。传统语法区分名词、动词、形容词、副词、代词、介词、连词、感叹词等；现代生成语法常把词类归纳为词汇性类别（名词 N、动词 V、形容词 A、副词 Adv）和功能性类别（限定词 D、屈折成分 I、补语连词 C）两大类。例如英语 the 属于限定词，必须出现在名词短语之前；very 属于副词，可以修饰形容词 nice，却不能修饰名词 book，这说明词类由分布关系界定。"
+     ],
+     "pEn": [
+      "A lexical category, traditionally called a part of speech, is a functional class of words in the grammar. Traditional grammar distinguishes noun, verb, adjective, adverb, pronoun, preposition, conjunction and interjection. Modern generative grammar often groups these into lexical categories (N, V, A, Adv) and functional categories (determiner D, inflection I, complementizer C). English the is a determiner and must precede a noun phrase, while very is an adverb that can modify the adjective nice but not the noun book; categories are thus defined by distributional relations."
+     ]
+    },
+    {
+     "h": "划分标准",
+     "hEn": "Criteria for Classification",
+     "p": [
+      "划分词类主要有三条标准。一是形态标准，即词的内部屈折和派生形式，如英语动词有 walk/walks/walked 的对立，而介词没有。二是句法功能标准，即词在句子里能占据的位置和能搭配的成分，如名词可以作主语和宾语，形容词可以被 very 修饰。三是意义标准，如名词指称事物、动词指称动作。单一标准往往不够：汉语「漂亮」既能作定语也能作谓语，英语 love 兼属名词与动词，因此现代研究以分布标准为主，并承认词类具有原型结构，成员在典型性上存在程度差异。"
+     ],
+     "pEn": [
+      "Three criteria are commonly used. Morphological criteria concern inflection and derivation: English verbs show walk/walks/walked, whereas prepositions do not. Distributional criteria concern the positions a word may occupy and the items it may combine with: nouns serve as subject and object, and adjectives can be modified by very. Semantic criteria relate to meaning, nouns denoting entities and verbs denoting events. No single criterion suffices: Mandarin 漂亮 piàoliang can be both attributive and predicative, and English love is both noun and verb. Modern work therefore privileges distribution and treats categories as prototypes whose members differ in typicality."
+     ]
+    },
+    {
+     "h": "转类、兼类与跨语言差异",
+     "hEn": "Conversion and Cross-linguistic Variation",
+     "p": [
+      "词类并非词的固有标签，而常随使用环境变化。英语 water 在 drink water 中是名词，在 water the plants 中是动词，这种现象称为转类或零派生。汉语的兼类现象尤为突出，「学习」「研究」既是动词又是名词，「在」既是动词又是介词。跨语言比较还显示，词类系统并不一一对应：日语用形容词和形容动词两个类别覆盖英语的形容词，许多美洲原住民语言缺乏独立的形容词类，其属性概念由动词表达。语言类型学因此关注词类在具体语言中的分布证据，而非套用印欧语框架。"
+     ],
+     "pEn": [
+      "Categories are not fixed labels attached to words but often shift with context. English water is a noun in drink water and a verb in water the plants, a process called conversion or zero derivation. Mandarin shows this flexibility widely: 学习 xuéxí and 研究 yánjiū are both verbs and nouns, and 在 zài functions as verb and preposition. Cross-linguistic comparison shows that category systems do not match one to one. Japanese distinguishes adjectives from adjectival nouns where English uses one class, and many Native American languages have no separate adjective class, expressing properties through verbs. Typology therefore asks what distributional evidence each language provides rather than imposing Indo-European categories."
+     ]
+    },
+    {
+     "h": "理论地位与争议",
+     "hEn": "Theoretical Status and Controversy",
+     "p": [
+      "词类在语法理论中地位重要。生成语法把名词、动词等视为由形式特征（如名词性特征和动词性特征）定义的抽象类别，词类决定短语的中心语并影响句法操作。功能语言学则强调词类源自交际功能，指称事物的词倾向于成为名词，陈述事件的词倾向于成为动词。争议集中在两点：一是词类是否为普遍范畴，反对者认为个别语言需要独特分类；二是汉语等缺乏形态的语言，词类与句法成分是否存在一一对应。汉语学界长期讨论名动分立问题，朱德熙等主张依据分布划分，反对简单以意义定类。"
+     ],
+     "pEn": [
+      "Lexical categories play a central role in grammatical theory. Generative grammar treats noun and verb as abstract classes defined by formal nominal and verbal features, which determine the head of a phrase and feed syntactic operations. Functional approaches argue instead that categories arise from communicative needs: words referring to entities tend to become nouns and words describing events tend to become verbs. Two disputes persist. One concerns universality, since some languages may require their own category inventory. The other concerns languages such as Mandarin with little inflection, where the relation between category and syntactic function remains debated; Chinese linguists long argued over the noun–verb distinction, with Zhu Dexi insisting on distributional criteria rather than meaning alone."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "词类",
+     "tEn": "lexical category",
+     "d": "依据句法分布和形态特征划分出来的词的功能类别，如名词、动词、形容词等。",
+     "dEn": "A functional class of words defined by distribution and morphology."
+    },
+    {
+     "t": "名词",
+     "tEn": "noun",
+     "d": "主要充当主语和宾语、用来指称事物或人的词类，例如英语的 book、汉语的「书」。",
+     "dEn": "A category typically serving as subject or object and denoting entities."
+    },
+    {
+     "t": "动词",
+     "tEn": "verb",
+     "d": "主要充当谓语、用来表示动作、事件或状态的词类，例如英语的 run、汉语的「跑」。",
+     "dEn": "A category typically serving as predicate and denoting events or states."
+    },
+    {
+     "t": "限定词",
+     "tEn": "determiner",
+     "d": "出现在名词短语之前、用来限定指称范围的词类，例如英语的 the、this、some。",
+     "dEn": "A category that precedes a noun phrase and restricts its reference."
+    },
+    {
+     "t": "转类",
+     "tEn": "conversion",
+     "d": "不改变词形而使一个词由一个词类转为另一词类的构词方式，如 water 用作动词。",
+     "dEn": "A change of grammatical category without any change of word form."
+    },
+    {
+     "t": "分布标准",
+     "tEn": "distributional criterion",
+     "d": "依据词能够出现的句法位置和搭配环境来划分词类的分类标准。",
+     "dEn": "A criterion that classifies words by the syntactic positions they allow."
+    },
+    {
+     "t": "兼类",
+     "tEn": "heterosemy",
+     "d": "同一词形兼具两个或两个以上词类身份的现象，如汉语「在」「学习」。",
+     "dEn": "The property of one word form belonging to two or more categories."
+    }
+   ],
+   "related": [
+    "part-of-speech-tagging",
+    "morpheme",
+    "syntax",
+    "inflection-derivation",
+    "grammatical-case"
+   ],
+   "sources": [
+    "Wikipedia, \"Part of speech\", https://en.wikipedia.org/wiki/Part_of_speech",
+    "《语言学纲要》，北京大学出版社",
+    "Croft, Syntactic Categories and Grammatical Relations, 1991"
+   ]
+  },
+  {
+   "id": "inflection-derivation",
+   "title": "屈折与派生",
+   "en": "Inflection and Derivation",
+   "category": "concepts",
+   "tags": [
+    "屈折",
+    "派生",
+    "词缀",
+    "词位",
+    "能产性",
+    "形态学"
+   ],
+   "summary": "屈折与派生是形态学中词缀功能的两种基本类型。屈折词缀表达语法范畴，如英语 walk/walked、book/books 中的 -ed、-s，以及俄语的格与性数一致；派生词缀构成新词，如 happy → happiness、teach → teacher。通常认为屈折不改变词类和词义的核心部分，派生则可能改变词类并产生新词位。两者在能产性、句法相关性和词库中的地位上存在系统差异，但其界限在具体语言中并不总是清晰。",
+   "summaryEn": "Inflection and derivation are the two basic functions of affixes in morphology. Inflectional affixes express grammatical categories such as tense, number, case and agreement, as in English walk/walked and book/books or the case endings of Russian nouns. Derivational affixes create new words, as in happy → happiness and teach → teacher. Inflection is generally said not to change word class or core meaning, whereas derivation may change both and yields a new lexeme. The two differ systematically in productivity and syntactic relevance, yet the boundary is not always clear in individual languages.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "屈折指通过词缀或词形变化表达语法范畴的过程，其结果是同一词位的不同语法形式，例如英语动词 read 的过去式 read、名词 child 的复数 children、俄语 книга（书，主格）与 книгу（宾格）。派生指通过词缀构造新词位的过程，如英语 nation → national → nationalize，汉语「学」→「学者」「学习」。核心区别在于：屈折形式构成同一词位的屈折范式，派生形式则各自成为独立的词位，通常可以单独收入词典。"
+     ],
+     "pEn": [
+      "Inflection is the marking of grammatical categories by affixation or other formal change, producing different grammatical forms of the same lexeme: English read with its past tense read, child with the plural children, or Russian книга 'book, nominative' beside книгу 'accusative'. Derivation creates new lexemes, as in English nation → national → nationalize or Mandarin 学 xué 'study' → 学者 xuézhě 'scholar'. The core difference is that inflected forms belong to the paradigm of one lexeme, whereas derived forms are separate lexemes and are typically listed independently in dictionaries."
+     ]
+    },
+    {
+     "h": "判定标准",
+     "hEn": "Diagnostic Criteria",
+     "p": [
+      "语言学家提出若干区分标准。第一，词类改变：派生常改变词类，如 read（动词）→ reader（名词），屈折一般不改变，如 walks 仍为动词。第二，能产性：屈折词缀通常高度能产且规则，几乎适用于整个词类，如英语复数 -s；派生词缀的能产性差异很大。第三，句法相关性：屈折由句法要求触发，如主谓一致决定动词形式；派生在词库中完成，不依赖句法环境。第四，语义规则性：屈折意义可预测，派生意义常有特例，如 happy 与 happiness 的关系并不完全规则。第五，位置：屈折词缀一般比派生词缀更靠外层，如英语 nation-al-ize-d 中屈折 -ed 位于派生词缀之外。"
+     ],
+     "pEn": [
+      "Several diagnostics have been proposed. First, category change: derivation often alters word class, as in read (verb) → reader (noun), while inflection normally does not, since walks remains a verb. Second, productivity: inflectional affixes are usually highly productive and apply across a whole class, as with the English plural -s, whereas derivational affixes vary greatly in productivity. Third, syntactic relevance: inflection is triggered by syntactic requirements such as subject–verb agreement, whereas derivation takes place in the lexicon. Fourth, semantic regularity: inflected meanings are predictable, while derived meanings often show idiosyncrasy, as in the relation between happy and happiness. Fifth, ordering: inflectional affixes generally occur outside derivational ones, as the -ed in nation-al-ize-d."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Cross-linguistic Examples",
+     "p": [
+      "不同语言的屈折系统差别很大。英语保留的屈折较少，包括名词复数 -s、所有格 -'s、动词第三人称 -s、过去式 -ed、现在分词 -ing 和形容词比较级 -er/-est。拉丁语名词有六个格、三个性、两个数，动词有人称、数、时态、语态和语气的屈折。汉语缺乏严格意义的屈折，语法关系主要靠语序和虚词表达，如「我吃苹果」与「苹果被我吃」；「了」「着」「过」是体标记，学界对其是否属于屈折词缀仍有争论。派生则普遍存在于各语言中，如汉语「-子」「-头」「-化」（现代化）、英语 -ly、-ness、un-。"
+     ],
+     "pEn": [
+      "Inflectional systems vary widely. English retains relatively little inflection: the plural -s, possessive -'s, third person singular -s, past tense -ed, progressive -ing and comparative -er/-est. Latin nouns inflect for six cases, three genders and two numbers, and Latin verbs for person, number, tense, voice and mood. Mandarin lacks inflection in the strict sense, expressing grammatical relations through word order and function words, as in 我吃苹果 'I eat an apple' versus 苹果被我吃 'the apple was eaten by me'; the aspect markers 了 le, 着 zhe and 过 guo are analysed by some scholars as inflectional. Derivation, by contrast, is found everywhere, as in Mandarin 子 -zi, 头 -tou and 化 -huà 'modernization', or English -ly, -ness and un-."
+     ]
+    },
+    {
+     "h": "理论意义与争议",
+     "hEn": "Theoretical Significance and Controversy",
+     "p": [
+      "屈折与派生的区分直接影响语法理论的组织方式。生成语法主张屈折属于句法部分，功能语类 I（屈折中心语）承担时态与一致特征，派生则在词库中完成；分布式形态学则否认词库与句法的截然分工，认为屈折和派生由同一套句法操作生成，差别只在所处句法层级。功能主义学者强调二者的连续过渡：英语 -ing 既构成进行体屈折，又构成动名词和派生性名词。类型学研究还关注屈折丰富度与语序的关系，如能否通过词缀代替固定语序表达格关系。争论的焦点在于，屈折与派生究竟属于性质不同的两类规则，还是同一连续统的两端。"
+     ],
+     "pEn": [
+      "The distinction shapes how grammatical theory is organised. Generative grammar assigns inflection to the syntax, where a functional head such as Infl carries tense and agreement features, while derivation takes place in the lexicon. Distributed Morphology denies any sharp division between lexicon and syntax, deriving both inflection and derivation from the same syntactic operations at different structural levels. Functionalists stress the continuity between the two: English -ing marks the progressive, forms gerunds and yields lexicalised nouns. Typologists examine how inflectional richness interacts with word order, for example whether case affixes can replace fixed order. The lasting question is whether inflection and derivation are two distinct rule types or opposite ends of a continuum."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "屈折",
+     "tEn": "inflection",
+     "d": "通过词缀或词形变化表达语法范畴、构成同一词位不同形式的过程。",
+     "dEn": "Formal marking of grammatical categories within a single lexeme's paradigm."
+    },
+    {
+     "t": "派生",
+     "tEn": "derivation",
+     "d": "通过添加词缀来构造新词位、常常改变词类的构词过程，例如英语 happy 变为 happiness。",
+     "dEn": "The formation of new lexemes by affixation, often changing the word class."
+    },
+    {
+     "t": "词位",
+     "tEn": "lexeme",
+     "d": "词典中作为一个独立条目收录的抽象词汇单位，涵盖其全部屈折形式。",
+     "dEn": "An abstract lexical unit listed as a single dictionary entry."
+    },
+    {
+     "t": "屈折词缀",
+     "tEn": "inflectional affix",
+     "d": "用来表达时、数、格等语法范畴并且不改变词类的词缀，例如英语的 -ed、-ing。",
+     "dEn": "An affix that marks grammatical categories without changing the word class."
+    },
+    {
+     "t": "派生词缀",
+     "tEn": "derivational affix",
+     "d": "用来构成新词、通常会使词类或词义发生改变的词缀，例如英语的 -ness、un-。",
+     "dEn": "An affix that forms new words and usually changes class or meaning."
+    },
+    {
+     "t": "能产性",
+     "tEn": "productivity",
+     "d": "某一个词缀或构词规则可以自由地用于构造新形式的程度，例如 -ness 比 -th 能产。",
+     "dEn": "The degree to which an affix or rule applies freely to new forms."
+    },
+    {
+     "t": "词形变化表",
+     "tEn": "paradigm",
+     "d": "同一个词位全部屈折形式所构成的系统集合，例如英语动词的 am、is、are。",
+     "dEn": "The complete set of inflected forms belonging to a single lexeme."
+    },
+    {
+     "t": "体标记",
+     "tEn": "aspect marker",
+     "d": "表示动作进行、完成或经历等体意义的语法成分，如汉语「了」「过」。",
+     "dEn": "A grammatical element that marks aspect, e.g. Mandarin 了 le."
+    }
+   ],
+   "related": [
+    "morpheme",
+    "allomorphy",
+    "lexical-category",
+    "agreement",
+    "grammatical-case"
+   ],
+   "sources": [
+    "Wikipedia, \"Inflection\", https://en.wikipedia.org/wiki/Inflection",
+    "Wikipedia, \"Morphological derivation\", https://en.wikipedia.org/wiki/Morphological_derivation",
+    "Aronoff, Word Formation in Generative Grammar, 1976"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "batch": 26,
+ "chapter": "Chapter 5: Morphology",
+ "out": "data/book/gen/batch-26.json",
+ "sections": [
+  {
+   "id": "chapter-051-practice-time",
+   "title": "5.12 Exercise your linguistics skills",
+   "src": "data/book/src/chapter-051-practice-time.txt",
+   "chars": 5037
+  }
+ ]
+}

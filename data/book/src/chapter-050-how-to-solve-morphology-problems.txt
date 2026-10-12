@@ -1,0 +1,38 @@
+# 5.11 How to solve morphology problems
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2424#oembed-1
+An important skill when it comes to morphology is being able to segment words in another language into their individual morphemes—in other words, being able to identify roots and affixes in complex words.
+Remember that a morpheme is a consistent pairing of form (sound or sign) with meaning or function. Finding morphemes requires comparing words whose meanings you know, to see if the shared parts of their meanings correspond to shared parts of their forms.
+Consider the example of singular, dual, and plural nouns in Inuktut:
+
+[表格]
+| | | (1) | | | | | gloss | | | | singular | | | | dual (2) | | | | plural (3+) | | | | | | | | | “door” | | matu | | matuuk | | matuit | | | | | | | | “cloud” | | nuvuja | | nuvujaak | | nuvujait | | |
+
+How can we find the plural morpheme in these examples? If we just start with a single plural word, like matuit “doors (three or more)”, there’s no way to figure out how to divide it (or even if it can be divided). But if we compare words that share only one aspect of their meaning/grammatical function, we can start to divide words:
+matuit : nuvujait
+door.PL : cloud.PL
+The words matuit and nuvujait are both plural. Their sounds don’t overlap very much, but they do share the final -it. This is a consistent pairing of form and meaning, so we can hypothesize that -it is the suffix meaning PLURAL.
+Next we can compare matuit with another word with the meaning “door”.
+matuit : matu
+door.PL : door.SG
+The words matuit and matu both have “door” as part of their meaning; they also both contain the string matu. This is a consistent pairing of form and meaning, so we can identify matu as the root meaning “door”. (This means that matu doesn’t have any suffix meaning singular—that’s common for singular nouns across languages, but note that you will sometimes find a singular suffix. We could also say that there’s a -∅ singular suffix, but that’s not necessary.)
+We can also go back to nuvujait, and see that once we’ve identified the suffix -it we’re left with the string nuvuja, which by hypothesis would be the root meaning “cloud”—and indeed, nuvuja appears in our data with that meaning!
+So far we have three morphemes:
+- matu: “door”, root
+- nuvuja: “cloud”, root
+- -it: PLURAL, suffix
+
+What about the dual? We have two dual nouns in the data set above.
+- matuuk door. (two)
+- nuvujaak clouds (two)
+
+We can separate out the roots that we’ve already identified:
+- matu-uk door. (two)
+- nuvuja-ak clouds (two)
+
+We’re now left with two slightly different suffixes: –uk and –ak. Because we’ve already identified the roots, we can be pretty confident that these suffixes both express the meaning DUAL. They would be allomorphs:
+- -uk/-ak: DUAL, suffix
+
+If we had more data, our next step would be to try to find out if the choice of -uk vs. -ak is predictable in Inuktitut. Based on these two words, we might hypothesize that -uk occurs after [u] and -ak occurs after [a] (an example of phonologically-determined allomorphy), but we would need to check more words to see if that prediction is correct.
+In summary, to segment data from an unfamiliar language into morphemes, start by comparing words that differ in a single aspect of their meaning, and see if you can match the difference in meaning to a difference in form. If you ever get stuck, go back and see if you can change your earlier hypotheses about the boundaries between morphemes in earlier words.
+You can practice segmenting morphemes in an unfamiliar language in the exercises at the end of this chapter.

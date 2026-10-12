@@ -1,0 +1,50 @@
+# 11.4 Early language production
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=521#oembed-1
+
+[图片：Ch12_Fig2_crying-300x225.jpg]
+
+Figure 11.2. Crying Babies.
+We saw in the previous unit that babies are already learning a lot about their language even before they can talk. If they’re learning so much so fast, why don’t they talk right away? When babies are just born, their bodies just aren’t ready yet. Newborns can certainly cry, which uses the lungs and the vocal tract. But a newborn’s larynx is higher in the vocal tract than an adult’s: it starts lowering around age six months. And newborns just aren’t very good at controlling their bodies yet! It takes them a few months to begin to learn how to move their articulators. They begin to gain control of their fingers, hands and forearms first, and their ability to control their jaw, tongue and lips comes a bit later. So in those first few months after birth, their hand movements and vocal productions are kind of random: mostly wiggling and gurgling.
+
+## Babbling
+
+Once babies start to get their bodies organized, their productions tell us that their mental grammars are starting to get organized, too. Starting around age six months, the sounds babies make begin to have some syllable structure. They start to produce reduplicated consonant-vowel syllables. Usually the vowel in these syllables is the low [a] made with the jaw fully open, and the consonants are usually voiced stops. Why voiced stops? They’re still learning to control their vocal tract, so it’s easier to alternate between fully open for vowels and fully obstructed for stops than to produce the consonants with partial obstruction like fricatives or approximants. Same thing for the voicing: if they just keep the vocal folds vibrating for vowels and voiced consonants, it’s easier than alternating between voiced vowels and voiceless consonants. So the classic baby babbling sound, which linguists call canonical babbling, is [babababa] or [dadadada]. As they continue to grow and gain control of their muscles, they start to vary the vowels and consonants, and their babbles might sound more like [badibadi] or [ɡudaɡuda].
+Vocal babbling starts at about age six months for both hearing and deaf babies, but deaf babies gradually produce less vocal babbling as they continue to grow. When the language environment is a signed language, babies start to babble using their hands. Both hearing and deaf babies who grow up with sign as an ambient language produce reduplicated syllables using handshapes from the language environment (Petitto et al., 2004; Petitto & Marentette, 1991). Sign-acquiring babies’ first productions more often use the proximal articulators (the ones closer to the torso, like the elbows and wrists) than the distal ones (the articulators farther from the torso like fingers and knuckles) (Chen Pichler, 2012).
+So we have some evidence that babbling isn’t just random sounds: whether the language environment is vocal or sign, babies start to produce forms that are organized similarly to the language in the environment:
+- Their babbles are made up of repeated patterns that have the structure of syllables.
+- They alternate between handshape and path movement or between a closed and open vocal tract.
+- Their babbles use a subset of the segments/handshapes that appear in the language environment.
+
+So when you see or hear a baby babbling, it might look or sound like random nonsense, but what they’re really doing is exercising their mental grammar!
+
+## First Words
+
+[图片：Ch12_Fig3_bottle-150x150.jpg]
+
+Figure 11.3. Baby Bottle.
+
+[图片：Ch12_Fig4_balls-150x150.jpg]
+
+Figure 11.4. Balls.
+When babies babble, they’re practicing making the forms, that is, the signs or sounds of the language they’re acquiring. Remember that a word links a form with a meaning. So how can we tell if a child who produces a form has a meaning linked to that form? In other words, how can we tell if they’re babbling or producing words? We have to look at the context. If an English-acquiring child says [baba] when they’re reaching for their bottle or for a ball then they’re probably using that form to refer, so it counts as a word even though it doesn’t have the same form that the adult word [bɑɾəl] or [bɑl] does. But if they’re producing [baba] just for the fun of making the sounds, then their utterance is non-referential, – it doesn’t have meaning, so it counts as babbling.
+Babies acquiring sign languages often sign their first words at about age 0;8 or 0;9, while it’s usually later than that for babies acquiring a spoken language, closer to age 1;0. This difference might be because babies develop muscle control of their hands and arms earlier than of their tongues and lips. It could also be because sign words more often have iconic forms than spoken words.
+When children start to produce and understand words, the first words in their vocabulary are quite similar even when we compare across languages and modalities. Usually the first word meanings they acquire are for referring to things that are common and observable in the immediate environment, like names for their family members and pets, the word baby, and words for common objects like milk, ball, shoe. It’s also common for their first words to include greetings like hi and bye, and other expressives like uh-oh and no. If there are verbs in their set of first words, the verbs are likely to refer to actions like cry or eat.
+
+[图片：Ch12_Fig6_pumpkin-150x150.jpg]
+
+Figure 11.5. Pumpkin.
+Of course, because one-year-olds don’t have a lot of experience with the world yet, they often haven’t got adult-like meanings in their mental grammar. For example, I know a toddler who saw a pumpkin for the first time and declared, “Apple!”. If the child hasn’t yet got a mental representation for pumpkins, gourds and squashes, they might well overextend the meaning of apple to include many other roundish fruits. It’s also common for children’s word meanings to be underextended, so, for example, the word elephant might refer to a particular stuffed animal but not to any other elephants, real ones or toy ones. In short, children develop meanings for words based on their experience of encountering the word in their environment.
+Landau and Gleitman (1985) provide some very interesting examples of how children’s word meanings are shaped by their experience of the environment, from their research comparing blind children to sighted children. You might guess that a blind child doesn’t really have a concept for the verb look, since they can’t see, but that’s not actually the case. In one experiment, the researchers asked children to “look up!”. Sighted kids tilted their heads to face the ceiling, even if they were wearing a blindfold. But when they asked a blind child, whom they called Kelli, to “look up”, she kept facing forward and put her hands up toward the ceiling! So does that mean that Kelli’s meaning for the verb look is the same as for the verb touch? In the next experiment, the researchers put an object in front of Kelli and said, “You can touch this but don’t look at it.” She tapped or stroked the object, and then once they told her, “Now you can look at it”, she ran her hands all over the object to explore it. So just like sighted children, Kelli’s mental grammar had two distinct meanings for the two verbs look and touch. It’s just that her meaning for the verb look was different from that of sighted children, since her experience of the world was different.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=521#h5p-79
+
+## References
+
+Chen Pichler, D. (2012). Acquisition. In R. Pfau, M. Steinbach, & B. Woll (Eds.), Sign language: An International Handbook (pp. 647–686). De Gruyter Mouton.
+Landau, B., & Gleitman, L. R. (1985). Language and Experience: Evidence from the Blind Child. Harvard University Press.
+Petitto, L. A., & Marentette, P. F. (1991). Babbling in the Manual Mode: Evidence for the Ontogeny of Language. Science, 251(5000), 1493–1496.
+Petitto, L. A., Holowka, S., Sergio, L. E., Levy, B., & Ostry, D. J. (2004). Baby hands that move to the rhythm of language: Hearing babies acquiring sign languages babble silently on the hands. Cognition, 93(1), 43–73.

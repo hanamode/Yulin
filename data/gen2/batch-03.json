@@ -1,0 +1,360 @@
+{
+ "batch": 3,
+ "entries": [
+  {
+   "id": "clinical-linguistics",
+   "title": "临床语言学",
+   "en": "Clinical Linguistics",
+   "category": "branches",
+   "tags": [
+    "应用语言学",
+    "语言障碍",
+    "失语症",
+    "言语治疗",
+    "语言评估"
+   ],
+   "summary": "临床语言学是应用语言学的一个分支，研究各类沟通障碍者的语言行为，并把语言学的理论与描写方法用于评估、诊断和干预。它借助音系学、形态句法学、语义学和语用学的分析工具，刻画失语症、发展性语言障碍、构音障碍、口吃等表现，为言语-语言病理学提供理论依据。语料主要来自自然会话、标准化测验和实验任务，强调描写的精确、可量化与可复现。",
+   "summaryEn": "Clinical linguistics is the branch of applied linguistics that studies the language behaviour of people with communication disorders and applies linguistic theory and description to assessment, diagnosis and intervention. Drawing on phonology, morphosyntax, semantics and pragmatics, it characterises conditions such as aphasia, developmental language disorder, dysarthria and stuttering. Data come from spontaneous conversation, standardised tests and experimental tasks, and analysis stresses descriptive precision, quantification and replicability.",
+   "sections": [
+    {
+     "h": "定义与研究范围",
+     "hEn": "Definition and Scope",
+     "p": [
+      "临床语言学以语言障碍为研究对象，关注语言系统在病理条件下的表现。它并不等同于言语治疗：治疗师决定治什么、怎么治，语言学家说明患者的语言偏离了哪些规则。克里斯特尔在《临床语言学》中把这一领域确立为一门应用学科，主张先有精确的语言学描写，再谈干预方案。"
+     ],
+     "pEn": [
+      "Clinical linguistics studies language under pathological conditions rather than language in general. It is not identical with speech therapy: therapists decide what to treat and how, while linguists describe precisely which rules the patient's output departs from. Crystal's Clinical Linguistics established the field as an applied discipline, arguing that accurate linguistic description must precede any intervention plan, and that therapy targets should be stated in terms of the linguistic system rather than of behaviour alone."
+     ]
+    },
+    {
+     "h": "研究内容与语言层面",
+     "hEn": "Levels of Linguistic Analysis",
+     "p": [
+      "研究覆盖语言的各个层面。音系层面考察替代与删减，如英语儿童把 red 说成 [wɛd]、把 stop 说成 [tɒp]，属于滑音化与词尾辅音删除等音系过程。形态句法层面关注屈折与功能词的缺失，例如英语语法缺失患者说 boy go store，省略冠词、助动词与过去时标记。语义层面研究命名性失语中的语义错语，患者会把「苹果」叫作「橘子」。语用层面则考察轮次转换、话题维持与会话修补的困难。"
+     ],
+     "pEn": [
+      "Analysis proceeds level by level. At the phonological level, clinicians describe substitution and deletion, for instance an English-speaking child who says [wɛd] for red or [tɒp] for stop, instantiating gliding and final consonant deletion. Morphosyntax concerns missing inflections and function words: an agrammatic speaker may produce boy go store, dropping articles, auxiliaries and the past tense marker. Semantics covers paraphasias such as calling an apple an orange, and pragmatics covers turn-taking and repair."
+     ]
+    },
+    {
+     "h": "研究方法与工具",
+     "hEn": "Methods and Instruments",
+     "p": [
+      "方法上兼用标准化测验、语言样本分析与实验任务。标准化工具如波士顿诊断性失语症检查、皮博迪图片词汇测验提供可比分数；自然语言样本则按平均话语长度（MLU）等指标计算，通常需要数十至上百个话语才能稳定。语音材料用声学分析测量共振峰与基频，会话材料用会话分析描写修补序列。汉语研究还须考察声调、量词与体标记的损伤模式。"
+     ],
+     "pEn": [
+      "Methods combine standardised tests, language-sample analysis and experimental tasks. Instruments such as the Boston Diagnostic Aphasia Examination and the Peabody Picture Vocabulary Test yield comparable scores, while spontaneous samples are quantified by measures like mean length of utterance, which requires dozens to hundreds of utterances to stabilise. Acoustic analysis measures formants and fundamental frequency, and conversation analysis describes repair sequences. Work on Chinese must additionally examine tone, classifiers and aspect markers."
+     ]
+    },
+    {
+     "h": "应用、发展与争议",
+     "hEn": "Applications and Debates",
+     "p": [
+      "临床语言学的成果直接用于干预设计、辅助沟通系统的配置以及失语症康复训练。争议主要有三：其一，语言学的描写目标与临床的实用目标并不总是一致；其二，标准化测验常带有文化与语言偏差，用于多语儿童时容易误判为障碍；其三，跨语言证据不足，许多结论建立在英语语料之上，对声调语言和手语的研究仍显薄弱。"
+     ],
+     "pEn": [
+      "Findings feed directly into intervention design, the configuration of augmentative and alternative communication systems and aphasia rehabilitation. Three debates persist. First, linguistic description and clinical utility do not always coincide. Second, standardised tests carry cultural and linguistic bias and may misclassify multilingual children as impaired. Third, evidence is skewed towards English, leaving tone languages and sign languages comparatively under-researched, so assessment tools seldom transfer cleanly across languages."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "失语症",
+     "tEn": "aphasia",
+     "d": "因脑损伤导致的语言功能受损，患者在理解或表达上出现持久困难。",
+     "dEn": "Language impairment caused by brain damage, affecting comprehension or production."
+    },
+    {
+     "t": "言语-语言病理学",
+     "tEn": "speech-language pathology",
+     "d": "研究与治疗沟通障碍及吞咽障碍的临床学科，与临床语言学密切合作。",
+     "dEn": "The clinical discipline that studies and treats communication and swallowing disorders."
+    },
+    {
+     "t": "语法缺失",
+     "tEn": "agrammatism",
+     "d": "失语症中省略功能词与屈折形态、语序趋于简化的表达障碍。",
+     "dEn": "A disorder in which function words and inflections are omitted and syntax is simplified."
+    },
+    {
+     "t": "音系过程",
+     "tEn": "phonological process",
+     "d": "儿童语音简化中系统性的音位替换、删除或同化规则，如滑音化。",
+     "dEn": "Systematic substitution, deletion or assimilation patterns in children's speech simplification."
+    },
+    {
+     "t": "平均话语长度",
+     "tEn": "mean length of utterance",
+     "d": "以语素为单位计算的话语平均长度，是衡量语法发展的常用指标。",
+     "dEn": "Average utterance length in morphemes, used to index grammatical development."
+    },
+    {
+     "t": "命名性失语",
+     "tEn": "anomia",
+     "d": "以找词困难与命名障碍为主要表现的失语类型，口语流畅但内容空泛。",
+     "dEn": "An aphasic syndrome whose main feature is word-finding difficulty and impaired naming."
+    },
+    {
+     "t": "辅助沟通系统",
+     "tEn": "augmentative and alternative communication",
+     "d": "为重度沟通障碍者提供的非言语沟通手段，包括图片、手势与电子设备。",
+     "dEn": "Non-speech communication methods and devices for people with severe communication impairment."
+    }
+   ],
+   "related": [
+    "neurolinguistics",
+    "aphasia",
+    "psycholinguistics",
+    "applied-linguistics",
+    "language-acquisition"
+   ],
+   "sources": [
+    "Wikipedia, \"Clinical linguistics\", https://en.wikipedia.org/wiki/Clinical_linguistics",
+    "Crystal, D., Clinical Linguistics, 1981",
+    "《语言学纲要》，北京大学出版社"
+   ]
+  },
+  {
+   "id": "forensic-linguistics",
+   "title": "法律语言学",
+   "en": "Forensic Linguistics",
+   "category": "branches",
+   "tags": [
+    "应用语言学",
+    "语言证据",
+    "作者鉴定",
+    "司法语音学",
+    "语言与法律"
+   ],
+   "summary": "法律语言学是研究法律语境中语言的应用语言学分支，范围涵盖法律文本的语言、庭审与讯问中的互动，以及作为证据的语言。核心工作包括作者鉴定、司法语音学与说话人识别、供述与讯问语言分析、商标与警示语争议，以及为寻求庇护者推断来源地的语言分析（LADO）。斯瓦特维克1968年对埃文斯供述的分析常被视为学科起点，1990年代库尔特哈德等人推动其制度化，方法上综合语料库、社会语言学与声学分析。",
+   "summaryEn": "Forensic linguistics is the applied study of language in legal contexts, covering the language of legal texts, interaction in courtrooms and interrogations, and language used as evidence. Core areas include authorship attribution, forensic phonetics and speaker identification, the analysis of confessions and police interviews, trademark and warning-label disputes, and language analysis for the determination of origin. Svartvik's 1968 study of the Evans statements is often taken as the starting point; the field was consolidated in the 1990s, drawing on corpus, sociolinguistic and acoustic methods.",
+   "sections": [
+    {
+     "h": "定义与研究范围",
+     "hEn": "Definition and Scope",
+     "p": [
+      "法律语言学关心语言与法律的全部接触面。库尔特哈德把它分为三部分：法律过程本身的语言，即法律文本与庭审话语；作为证据的语言，即文本与录音的鉴定；以及法律与语言的关系，涉及语言权利与少数群体语言。学科起点通常追溯到斯瓦特维克1968年对埃文斯谋杀案供述的分析，他发现同一份供述中存在两种彼此冲突的语法风格，从而质疑其真实性。"
+     ],
+     "pEn": [
+      "Forensic linguistics examines every point of contact between language and the law. Coulthard divides the field into the language of the legal process, language as evidence, and language and the law in the sense of language rights. Its conventional starting point is Svartvik's 1968 analysis of the statements attributed to Timothy Evans, in which two mutually inconsistent grammatical styles within one statement cast doubt on its authenticity."
+     ]
+    },
+    {
+     "h": "主要研究领域与实例",
+     "hEn": "Major Areas and Examples",
+     "p": [
+      "作者鉴定通过个人语言特征比较未知文本与已知文本，如1995年美国联邦调查局把卡钦斯基的私人信件与「大学航空炸弹客」宣言比对。司法语音学用共振峰、基频与语速进行说话人识别和录音真伪鉴定。供述分析追问警察笔录是否可能出自嫌疑人之口，库尔特哈德在本特利案上诉中指出笔录中 then 的异常用法。此外还有商标侵权、免责声明可读性与原籍语言分析等应用。"
+     ],
+     "pEn": [
+      "Authorship attribution compares an anonymous text with known samples using idiolectal features; in 1995 the FBI matched Theodore Kaczynski's letters against the Unabomber manifesto. Forensic phonetics uses formants, fundamental frequency and speech rate for speaker identification and audio authentication. Confession analysis asks whether a police statement could have been produced by the suspect: Coulthard's evidence in the Bentley appeal turned on anomalous uses of then. Trademark disputes, the readability of legal warnings and origin analysis also belong here."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Methods",
+     "p": [
+      "方法上以语料库为基础设施，常用词频、n元语法、词汇丰富度与句法复杂度等指标，并以对照语料建立作者的个人基线。语音鉴定依赖声学测量与听觉分析相结合的框架，同时强调录音条件、信道与样本时长带来的不确定性。近年也使用机器学习模型进行文本分类，但其可解释性常受法庭质疑。"
+     ],
+     "pEn": [
+      "Corpus methods provide the infrastructure, using word frequency, n-grams, lexical richness and syntactic complexity, with reference corpora establishing an authorial baseline. Speaker comparison combines acoustic measurement with auditory analysis and stresses uncertainty arising from recording conditions, channels and sample length. Machine-learning classifiers are increasingly used for text categorisation, though their interpretability is often challenged in court, and experts are expected to report error rates and the limits of their conclusions."
+     ]
+    },
+    {
+     "h": "争议与伦理",
+     "hEn": "Debates and Ethics",
+     "p": [
+      "学科面临若干批评。司法语音学中的语言指纹主张被多数研究者视为过度概括；原籍语言分析的可靠性也受到质疑，因为语音与词汇特征同国籍、出生地并无必然对应。美国法院依道伯特标准审查专家证言的可检验性与错误率，英国实践则要求专家说明结论的不确定性。伦理问题包括当事人同意、数据保密，以及语言证据可能加剧对移民与少数群体的偏见。"
+     ],
+     "pEn": [
+      "The field faces sustained criticism. Claims about a linguistic fingerprint in speaker identification are widely regarded as overgeneralised, and origin analysis is contested because features of speech do not map reliably onto nationality or birthplace. United States courts assess expert testimony under the Daubert criteria of testability and error rate, while English practice requires experts to state the limits of their conclusions. Consent, data protection and the risk of reinforcing bias against migrants are recurring ethical concerns."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "司法语音学",
+     "tEn": "forensic phonetics",
+     "d": "运用声学与听觉分析进行说话人识别和录音真伪鉴定的分支。",
+     "dEn": "The branch using acoustic and auditory analysis for speaker identification and audio authentication."
+    },
+    {
+     "t": "作者鉴定",
+     "tEn": "authorship attribution",
+     "d": "依据文本中稳定的个人语言特征，推断未知文本作者的分析。",
+     "dEn": "Inferring the author of a text from stable individual linguistic features."
+    },
+    {
+     "t": "个人语言特征",
+     "tEn": "idiolect",
+     "d": "某一说话者或作者独特的语音、词汇与句法使用习惯的总和。",
+     "dEn": "An individual's distinctive habitual use of phonology, vocabulary and syntax."
+    },
+    {
+     "t": "语言证据",
+     "tEn": "language as evidence",
+     "d": "以文本或录音的语言学分析结果作为法庭采信的证据，须说明其可靠性边界。",
+     "dEn": "Linguistic analysis of texts or recordings presented as evidence in court."
+    },
+    {
+     "t": "原籍语言分析",
+     "tEn": "language analysis for the determination of origin",
+     "d": "依据说话人的语音与词汇特征推断其来源地，多用于庇护审查，可靠性有争议。",
+     "dEn": "Inferring a speaker's geographic origin from features of their language."
+    },
+    {
+     "t": "警示语可理解性",
+     "tEn": "comprehensibility of warnings",
+     "d": "研究米兰达警告等法律告知是否被当事人真正理解的领域。",
+     "dEn": "Research on whether legal cautions such as Miranda warnings are genuinely understood."
+    },
+    {
+     "t": "供述分析",
+     "tEn": "confession statement analysis",
+     "d": "通过语法与措辞特征判断笔录是否可能由嫌疑人本人产出。",
+     "dEn": "Judging whether the wording of a statement could have been produced by the suspect."
+    }
+   ],
+   "related": [
+    "applied-linguistics",
+    "sociolinguistics",
+    "discourse-analysis",
+    "corpus-linguistics",
+    "phonetics"
+   ],
+   "sources": [
+    "Wikipedia, \"Forensic linguistics\", https://en.wikipedia.org/wiki/Forensic_linguistics",
+    "Svartvik, J., The Evans Statements: A Case for Forensic Linguistics, 1968",
+    "Coulthard, M. and Johnson, A., An Introduction to Forensic Linguistics, 2007"
+   ]
+  },
+  {
+   "id": "educational-linguistics",
+   "title": "教育语言学",
+   "en": "Educational Linguistics",
+   "category": "branches",
+   "tags": [
+    "应用语言学",
+    "课堂话语",
+    "语言教育",
+    "语言政策",
+    "二语习得"
+   ],
+   "summary": "教育语言学是研究语言与教育相互关系的交叉领域，斯波尔斯基1978年的《教育语言学导论》通常被视为学科奠基。它以学校教育中的语言问题为出发点，研究母语与第二语言教学、课堂话语、语言测试、双语与多语教育、语言政策以及识字教育。与以二语习得为核心的应用语言学相比，它更强调整合语言学的多个分支并回应真实教育情境。系统功能语言学、语言社会化理论与卡明斯的 BICS 与 CALP 区分是重要理论资源。",
+   "summaryEn": "Educational linguistics is the interdisciplinary study of the relationship between language and education, conventionally founded by Spolsky's Educational Linguistics: An Introduction in 1978. Taking language problems in schooling as its starting point, it addresses first and second language teaching, classroom discourse, language testing, bilingual and multilingual education, language policy and literacy. Unlike an applied linguistics centred on second language acquisition, it integrates several linguistic subfields and responds to real educational settings. Systemic functional linguistics, language socialisation and Cummins's distinction between BICS and CALP are key resources.",
+   "sections": [
+    {
+     "h": "定义与学科定位",
+     "hEn": "Definition and Disciplinary Position",
+     "p": [
+      "教育语言学把语言与教育的交界面作为对象，核心问题是学校中的语言如何影响学习。它不同于把语言学理论直接搬进课堂的应用语言学，也不同于只关心教学技巧的教学法，而是先描写教育情境中的语言事实，再讨论干预方案。斯波尔斯基在1978年提出这一名称，主张以教育问题而非语言学分支来组织研究。"
+     ],
+     "pEn": [
+      "Educational linguistics takes the interface of language and education as its object, asking how language shapes learning in schools. It differs from an applied linguistics that simply transfers linguistic theory into classrooms, and from pedagogy, which focuses on techniques; it first describes the language facts of educational settings and only then discusses intervention. Spolsky proposed the name in 1978, arguing that research should be organised around educational problems rather than linguistic subfields."
+     ]
+    },
+    {
+     "h": "研究内容与核心领域",
+     "hEn": "Research Areas",
+     "p": [
+      "研究领域包括课堂互动、读写能力发展、语言测试与评价、语言政策与规划、双语与多语教育、少数族群与移民学生的语言支持以及教师语言意识。课堂话语研究揭示出高度稳定的模式，即教师引发、学生回应、教师反馈的 IRF 结构，例如教师问 What is this?，学生答 It's a pencil.，教师回应 Good, it's a pencil.。卡明斯区分日常会话能力与认知学术语言能力，指出后者通常需要五到七年才能达到同龄水平。"
+     ],
+     "pEn": [
+      "Topics include classroom interaction, literacy development, language testing, language policy and planning, bilingual and multilingual education, support for minority and migrant students, and teacher language awareness. Classroom research reveals an extremely stable pattern, initiation-response-feedback, as in the teacher's What is this?, the pupil's It's a pencil. and the teacher's Good, it's a pencil. Cummins distinguishes conversational fluency from cognitive academic language proficiency, noting that the latter typically takes five to seven years to reach age-appropriate levels."
+     ]
+    },
+    {
+     "h": "主要理论与概念",
+     "hEn": "Main Theories and Concepts",
+     "p": [
+      "理论资源相当多元。韩礼德的系统功能语言学提供语域、元功能与体裁的描述框架，用以分析学科语言的特征；奥克斯与希费林的语言社会化理论说明儿童如何在日常互动中同时习得语言与文化规范；维果茨基的社会文化理论与最近发展区概念支持支架式教学；体裁教学法则把学科写作视为可教的语篇类型。"
+     ],
+     "pEn": [
+      "Theoretical resources are plural. Halliday's systemic functional linguistics supplies descriptions of register, metafunction and genre for analysing subject-specific language. Ochs and Schieffelin's language socialisation shows how children acquire language and cultural norms together through everyday interaction. Vygotsky's sociocultural theory and the zone of proximal development underpin scaffolded instruction, while genre pedagogy treats disciplinary writing as teachable text types and has reshaped literacy curricula in Australia and elsewhere."
+     ]
+    },
+    {
+     "h": "研究方法",
+     "hEn": "Research Methods",
+     "p": [
+      "方法上以课堂观察与话语分析为主，通常需要录音转写并编码话步与序列；民族志研究描述学校的语言生态；语料库方法用于统计教材与课堂语言的特征；实验与准实验设计用于比较教学干预的效果；行动研究则让教师参与问题界定。由于教育情境高度依赖制度与文化，研究者多采用混合方法并详细报告教学环境的背景。"
+     ],
+     "pEn": [
+      "Methods centre on classroom observation and discourse analysis, typically with audio or video transcription and coding of moves and sequences. Ethnography describes the language ecology of a school; corpus methods quantify the language of textbooks and lessons; experimental and quasi-experimental designs compare instructional interventions; action research involves teachers in defining the problem. Because educational settings are institutionally and culturally situated, mixed methods and detailed contextual reporting are common."
+     ]
+    },
+    {
+     "h": "争议与批评",
+     "hEn": "Debates and Criticism",
+     "p": [
+      "批评集中在三点。其一，学科边界模糊，与二语习得、应用语言学的分工缺乏共识。其二，研究与实践之间存在鸿沟，教师常认为研究成果难以直接使用。其三，证据本位教育政策要求随机对照试验式的证据，而课堂研究多为质性设计，双方在什么算作有效知识上争执不下。此外，语言政策研究还被批评忽视权力关系与学习者本人的声音。"
+     ],
+     "pEn": [
+      "Criticism concentrates on three points. The boundary with second language acquisition and applied linguistics remains unsettled. A persistent gap separates research from practice, with teachers finding findings hard to use directly. Evidence-based education policy demands randomised controlled trial evidence, whereas much classroom research is qualitative, and the two sides disagree about what counts as valid knowledge. Language policy research is further criticised for neglecting power relations and learners' own voices."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "t": "教育语言学",
+     "tEn": "educational linguistics",
+     "d": "以学校教育中的语言问题为核心、整合多个语言学分支的研究领域。",
+     "dEn": "A field centred on language problems arising in formal education."
+    },
+    {
+     "t": "课堂话语",
+     "tEn": "classroom discourse",
+     "d": "课堂教学中师生互动的语言结构与交际模式，是重要研究材料。",
+     "dEn": "The linguistic structure and interactional patterns of teacher-student classroom talk."
+    },
+    {
+     "t": "引发-回应-反馈结构",
+     "tEn": "initiation-response-feedback",
+     "d": "由教师引发、学生回应、教师反馈构成的课堂会话基本序列，最为常见。",
+     "dEn": "The basic classroom sequence of teacher initiation, student response and teacher feedback."
+    },
+    {
+     "t": "基本人际沟通技能与认知学术语言能力",
+     "tEn": "BICS and CALP",
+     "d": "卡明斯区分的日常会话能力与学业语言能力，后者发展更慢。",
+     "dEn": "Cummins's distinction between everyday conversational fluency and the academic language proficiency required by schooling."
+    },
+    {
+     "t": "语言政策与规划",
+     "tEn": "language policy and planning",
+     "d": "对学校及社会语言使用与语言教学的制度性安排，涉及选择、推广与保护。",
+     "dEn": "Institutional decisions about language use and language teaching in schools and society."
+    },
+    {
+     "t": "语言意识",
+     "tEn": "language awareness",
+     "d": "学习者与教师对语言形式、功能及其社会作用的自觉认识，是语言教育的目标之一。",
+     "dEn": "Conscious knowledge about language form, function and social role, held by learners and teachers."
+    },
+    {
+     "t": "语言社会化",
+     "tEn": "language socialisation",
+     "d": "在家庭与社区的日常互动中同时习得语言系统与文化规范的过程。",
+     "dEn": "Acquiring language and cultural norms together through everyday social interaction in family and community."
+    },
+    {
+     "t": "学术语言",
+     "tEn": "academic language",
+     "d": "学校各学科学习所需的正式、抽象而脱离语境的语体，如书面论述。",
+     "dEn": "The formal, decontextualised language variety required for school subject learning."
+    }
+   ],
+   "related": [
+    "applied-linguistics",
+    "language-acquisition",
+    "interlanguage",
+    "bilingualism",
+    "language-transfer"
+   ],
+   "sources": [
+    "Wikipedia, \"Language education\", https://en.wikipedia.org/wiki/Language_education",
+    "Spolsky, B., Educational Linguistics: An Introduction, 1978",
+    "Cummins, J., Cognitive/Academic Language Proficiency, Linguistic Interdependence, the Optimum Age Question and Some Other Matters, 1979"
+   ]
+  }
+ ]
+}

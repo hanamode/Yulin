@@ -1,0 +1,24 @@
+{
+ "batch": 22,
+ "out": "data/gen2/batch-22.json",
+ "entries": [
+  {
+   "id": "cognate",
+   "title": "同源词",
+   "en": "Cognate",
+   "category": "concepts"
+  },
+  {
+   "id": "allomorphy",
+   "title": "语素变体",
+   "en": "Allomorphy",
+   "category": "concepts"
+  },
+  {
+   "id": "thematic-role",
+   "title": "题元角色",
+   "en": "Thematic Role",
+   "category": "concepts"
+  }
+ ]
+}

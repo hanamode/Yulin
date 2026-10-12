@@ -1,0 +1,24 @@
+{
+ "batch": 35,
+ "out": "data/gen2/batch-35.json",
+ "entries": [
+  {
+   "id": "afroasiatic",
+   "title": "亚非语系",
+   "en": "Afroasiatic",
+   "category": "writing"
+  },
+  {
+   "id": "uralic",
+   "title": "乌拉尔语系",
+   "en": "Uralic",
+   "category": "writing"
+  },
+  {
+   "id": "austronesian",
+   "title": "南岛语系",
+   "en": "Austronesian",
+   "category": "writing"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+# 5.5 Lexical categories
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2328#oembed-1
+
+## Derivation vs inflection and lexical categories
+
+Morphology is often divided into two types:
+- Derivational morphology: Morphology that changes the meaning or category of its base
+- Inflectional morphology: Morphology that expresses grammatical information appropriate to a word’s category
+
+We can also distinguish compounds, which are words that contain multiple roots into a single word.
+The definitions of derivation and inflection above both refer to to the category of the base to which morphology applies. What do we mean by “category”? The category of a word is often referred to in traditional grammar as its part of speech. In the context of morphology we are often interested in the lexical categories, which is to say nouns, verbs, adjectives, and adverbs. The rest of this section gives an overview of what lexical categories are, and how we can identify them.
+
+## Lexical Categories, aka “Parts of Speech”
+
+Determining the category of a word is an important part of morphological and syntactic analysis. A category of words or morphemes is a group that behave the same way as one another, for grammatical purposes.
+You might be familiar with traditional semantic definitions for the parts of speech—definitions that are based on a word’s meaning. If you ever learned that a noun is a “person, place or thing”, or that a verb is an “action word”, these are semantic tests. However, semantic tests don’t always identify the categories that are relevant for linguistic analysis. They can also be hard to apply in borderline cases, and sometimes yield inconsistent results; for example, surely action and event are “action” words, so according to the semantic definition we might think they’re verbs, but in fact these are both nouns!
+In linguistics we’re interested in making generalizations about where different categories of words or morphemes can occur, and how they can combine with each other. We therefore define categories based on the grammatical contexts in which words or morphemes are used—their distribution. The distribution of different categories varies from language to language. The remainder of this section reviews some of the main distributional tests for lexical categories (nouns, verbs, adjectives, and adverbs) in English. Many of these tests involve syntactic distribution—how each lexical category combines with other words in phrases and sentences. If you aren’t familiar with some of the grammatical terminology used here, you may find it helpful to review 6.2 Word order, which introduces terms like subject and object, and Chapter 6.5, which introduces non-lexical categories and provides distributional tests that can identify them.
+If you know any other language, think about whether any of these tests can be adapted to identify lexical categories in that language, or if there are other morphological or syntactic cues that can be used to distinguish lexical categories in that language.
+
+## Nouns (N)
+
+- Syntactic tests for nouns in English: Can follow a determiner As in: an event or the proposal
+Can be modified by adjectives
+- As in: a happy event or the new proposal
+Can be the subject or object of a verb
+- As in: Events occurred. or We made proposals.
+Can be replaced by a pronoun
+- As in: Events occurred. → They occurred.
+Do not allow objects (without a preposition). Morphological tests for nouns in English:
+- Have singular and plural forms: e.g. books, governments, happinesses Note: The plurals of some abstract nouns can seem odd! Think outside the box to find contexts where they might naturally occur.
+
+## Verbs (V)
+
+- Syntactic tests for verbs in English: Can combine with auxiliary verbs As in: can remain, will know, have thought, be kicking
+Can follow the infinitive marker to
+- As in: to kick, to think, to remain, to know
+Can take an object (without a preposition):
+- As in: kick the ball.
+Morphological tests for verbs in English:
+- Have a third person singular present tense form with -s As in: (she/he/it) kicks, goes, remains
+Have a past tense form, usually (but not always) with -ed
+- As in: (she/he/it) kicked, went, remained
+Have a perfect / passive form, usually with -ed or -en
+- As in: (she/he/it) has kicked, gone, remained
+Have a progressive form with -ing.
+- As in: kicking, going, remaining
+
+## Adjectives (Adj)
+
+- Syntactic tests for adjectives in English: Modify nouns (occur between a determiner and a noun) As in: a happy event or the new proposal
+Can be modified by very (but so can many adverbs!)
+- As in: very happy, very new
+Do not allow noun phrase objects (if objects are possible, they must be introduced in a prepositional phrase)
+- There are a handful of exceptions to the generalization that adjectives only take prepositional phrase objects, depending on your variety of English. Noun phrase objects of adjectives are discussed a bit more in Section 6.13.
+Morphological tests for adjectives in English:
+- Can often be suffixed by -ish
+- May have comparative and superlative forms (e.g. happier, happiest)
+
+## Adverbs (Adv)
+
+- Syntactic tests for adverbs in English: Modify verbs, adjectives, and other adverbs (anything but nouns!)
+- Cannot appear alone between a determiner and a noun.
+- Can be modified by very (but so can adjectives!)
+Morphological tests for adverbs in English:
+- Many (not all) adverbs end in -ly
+
+## Using derivational affixes to identify category
+
+In addition to the morphological tests above, you can also use derivational affixes to help determine the category of a word. For example:
+- Suffixes like -ment and -ness always create nouns; the base that -ment attaches to is always a verb (if it’s a free form), and the base of -ness is usually an adjective.
+- Suffixes like -ify and -ize always create verbs; their bases are nouns (if they’re free forms).
+
+The property of derivational affixes to not only create particular categories, but also to attach to specific categories, is called selection. We discuss selection by derivational morphology further in Section 5.6.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2328#h5p-106

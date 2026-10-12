@@ -1,0 +1,200 @@
+{
+ "batch": 18,
+ "entries": [
+  {
+   "id": "bilingualism",
+   "title": "双语现象",
+   "en": "Bilingualism",
+   "category": "concepts",
+   "tags": ["双语", "语言能力", "语码转换", "语言接触", "社会语言学"],
+   "summary": "双语现象指个人或言语社区在日常生活中使用两种语言的现象。它既包括近乎等同掌握两种语言的平衡双语者，也包括以母语为主、第二语言处于次要地位的主导双语者。研究关注双语的语言、认知与社会维度，涉及语码转换、语言迁移、双言制和传承语保持等课题，并考察双语经验对注意控制、工作记忆与元语言意识的影响。",
+   "summaryEn": "Bilingualism refers to the use of two languages by an individual or a speech community in everyday life. It ranges from balanced bilinguals with near-equal command of both languages to dominant bilinguals whose second language plays a subordinate role. Research addresses linguistic, cognitive and social dimensions, including code-switching, language transfer, diglossia and heritage-language maintenance, and examines how bilingual experience shapes attentional control, working memory and metalinguistic awareness.",
+   "sections": [
+    {
+     "h": "定义",
+     "hEn": "Definition",
+     "p": [
+      "双语现象指个人或社区在日常生活中使用两种语言的现象。定义有宽严之别：最宽的可操作定义把能在两种语言间进行有意义的交际的人都算作双语者，最严的定义要求两种语言达到近乎母语的熟练程度。现代研究多把双语能力看作一个连续统，并把语言技能分为听、说、读、写四个维度分别考察。"
+     ],
+     "pEn": [
+      "Bilingualism is the use of two languages by an individual or a community in everyday life. Definitions vary in strictness: the broadest operational definition counts anyone who can communicate meaningfully in two languages, while the strictest requires near-native proficiency in both. Modern research treats bilingual proficiency as a continuum and assesses listening, speaking, reading and writing as separate dimensions of skill."
+     ]
+    },
+    {
+     "h": "分类与基本概念",
+     "hEn": "Types and Basic Concepts",
+     "p": [
+      "按两种语言的相对水平，可分为平衡双语与主导双语；按习得时间，可分为同时双语（两种语言在幼儿期一并习得）与顺序双语（先掌握母语再习得第二语言）。双语能力常具有领域特殊性，例如儿童在家讲方言或移民语言、在学校讲标准语，两套技能分担不同的交际功能。"
+     ],
+     "pEn": [
+      "According to the relative strength of the two languages, a distinction is drawn between balanced and dominant bilingualism; according to the timing of acquisition, between simultaneous bilingualism, in which both languages are acquired in early childhood, and sequential bilingualism, in which the first language is established before the second is learned. Bilingual proficiency is often domain-specific: a child may speak a dialect or heritage language at home and the standard language at school, the two repertoires serving different communicative functions."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "美国西班牙语—英语双语社区中常见的句内语码转换，如 Estaba leyendo un libro 与英语片段混合出现，说明两套语法系统可被同一个说话人灵活调用。汉语与英语的混合也常见：已经 fix 好了、我来 check 一下。移民第二代的传承语常出现词汇空缺与语法简化，如西班牙语在美国部分社区用 lonche（借自英语 lunch）替代 merienda，反映出语言接触中的借用与替换。"
+     ],
+     "pEn": [
+      "In Spanish-English bilingual communities in the United States, intrasentential code-switching such as Estaba leyendo un libro mixed with English fragments shows that a single speaker can deploy two grammatical systems flexibly. Chinese-English mixing likewise occurs in utterances like yijing fix hao le, where the English verb is inserted into a Chinese frame. Heritage speakers of the second generation often show lexical gaps and grammatical simplification; in some Spanish communities in the United States, lonche, borrowed from English lunch, replaces merienda, reflecting borrowing and replacement under contact."
+     ]
+    },
+    {
+     "h": "认知与社会维度",
+     "hEn": "Cognitive and Social Dimensions",
+     "p": [
+      "认知研究关注双语经验对执行功能的影响，包括抑制、切换与更新能力，但不同研究的效应量并不一致。社会语言学则关注双语者的语域分配、语言态度与语言保持，双言制描述了两种变体在同一社区中分工的稳定格局。教育领域还关注双语教育与传承语教学对学业与身份认同的作用。"
+     ],
+     "pEn": [
+      "Cognitive research examines how bilingual experience affects executive functions such as inhibition, switching and updating, although effect sizes vary across studies. Sociolinguistics focuses on the functional allocation of registers, language attitudes and language maintenance, and diglossia describes a stable division of labour between two varieties within one community. In education, attention is paid to how bilingual programmes and heritage-language teaching shape academic outcomes and identity."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "平衡双语", "tEn": "balanced bilingualism", "d": "两种语言水平大致相当的双语状态。", "dEn": "A state in which two languages are roughly equal in proficiency."},
+    {"t": "主导双语", "tEn": "dominant bilingualism", "d": "一种语言明显强于另一种的双语状态。", "dEn": "Bilingualism in which one language clearly outranks the other."},
+    {"t": "语码转换", "tEn": "code-switching", "d": "同一话语内或话语间交替使用两种语言的现象。", "dEn": "The alternating use of two languages within or across utterances."},
+    {"t": "双言制", "tEn": "diglossia", "d": "同一社区中两种变体按功能分工并存的格局。", "dEn": "A stable functional division between two varieties in one community."},
+    {"t": "语言迁移", "tEn": "language transfer", "d": "一种语言的知识影响另一种语言使用或习得。", "dEn": "The influence of one language on the use or acquisition of another."},
+    {"t": "传承语者", "tEn": "heritage speaker", "d": "在家庭中习得非主流语言、后以主流语言为主的说话人。", "dEn": "A speaker who acquires a minority language at home but becomes dominant in the majority language."}
+   ],
+   "related": ["code-switching", "diglossia", "language-transfer", "language-acquisition", "sociolinguistics"],
+   "sources": [
+    "Wikipedia, \"Bilingualism\", https://en.wikipedia.org/wiki/Bilingualism",
+    "Wikipedia, \"Multilingualism\", https://en.wikipedia.org/wiki/Multilingualism",
+    "Grosjean, F., Life with Two Languages: An Introduction to Bilingualism, Harvard University Press, 1982"
+   ]
+  },
+  {
+   "id": "language-contact",
+   "title": "语言接触",
+   "en": "Language Contact",
+   "category": "concepts",
+   "tags": ["语言接触", "借用", "语言联盟", "社会语言学", "语言变化"],
+   "summary": "语言接触指不同语言或方言的使用者在同一社会空间中长期互动，从而在彼此结构上留下影响的现象。接触可导致词汇借用、结构趋同、语码转换，也可能催生皮钦语与克里奥尔语。社会条件是接触结果的关键变量：借用通常由文化优势推动，而语法的深度干扰多发生在长期的族群双语情境中。",
+   "summaryEn": "Language contact refers to sustained interaction between speakers of different languages or dialects within a shared social space, which leaves traces on one another's structures. Contact may lead to lexical borrowing, structural convergence and code-switching, and can give rise to pidgins and creoles. Social conditions are decisive: borrowing is typically driven by cultural prestige, whereas deep grammatical interference tends to arise in long-term community bilingualism.",
+   "sections": [
+    {
+     "h": "定义与研究内容",
+     "hEn": "Definition and Scope",
+     "p": [
+      "语言接触是不同语言或方言在说话人互动中彼此施加影响的过程与结果。它研究借用的方向与层次、结构趋同的条件、接触引发的语言演变以及新语言变体的形成。接触语言学把语言接触视为解释语法变化的重要机制，与内部驱动的演变机制并列。"
+     ],
+     "pEn": [
+      "Language contact is the process and outcome of mutual influence between languages or dialects whose speakers interact regularly. It studies the direction and level of borrowing, the conditions under which structural convergence occurs, contact-induced change and the formation of new varieties. Contact linguistics treats language contact as a major mechanism of grammatical change, standing alongside internally driven change, and it asks why some contacts remain confined to vocabulary while others reshape morphology and syntax."
+     ]
+    },
+    {
+     "h": "主要类型与结果",
+     "hEn": "Main Types and Outcomes",
+     "p": [
+      "接触的结果可按深度排列：最浅的是文化借用，只涉及词汇，如英语从法语借入 ballet、从意大利语借入 opera；其次是不完全的语言替换，例如诺曼征服后英语借入大量法语词，却保留了日耳曼语法的核心；再深一层是结构借用与语言联盟，如巴尔干地区共享的后置定冠词与格系统的合并；最深的结果是皮钦语化与克里奥尔化，产生新的语言。"
+     ],
+     "pEn": [
+      "Outcomes can be arranged by depth: the shallowest is cultural borrowing, confined to vocabulary, as when English took ballet from French and opera from Italian; next comes incomplete shift, as when English borrowed heavily from French after the Norman Conquest yet retained its Germanic core grammar; deeper still is structural borrowing and the Sprachbund, as in the Balkan region's shared postposed articles and case syncretism; the deepest outcome is pidginisation and creolisation."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "英语与诺曼法语的接触提供了经典案例：日常畜牧词汇保留英语 cow、swine、sheep，而其肉食名称则借自法语 beef、pork、mutton，词汇分工折射社会阶层。日语长期接触汉语，借入大量汉字词，如「電話」「文化」，并保留汉字音读与训读两套读法。汉语则在近现代从日语借回「社会」「经济」等词形，形成回借现象。"
+     ],
+     "pEn": [
+      "Contact between English and Norman French is a classic case: everyday livestock terms survive as cow, swine and sheep, while their meats are French loans beef, pork and mutton, a lexical split that mirrors social hierarchy. Japanese, in long contact with Chinese, borrowed numerous character-based words such as denwa telephone and bunka culture, keeping both on-readings and kun-readings. Chinese in turn borrowed Japanese coinages such as shehui society and jingji economy back into the language."
+     ]
+    },
+    {
+     "h": "理论模型与社会条件",
+     "hEn": "Theoretical Models and Social Conditions",
+     "p": [
+      "Thomason 与 Kaufman 提出借用与底层干扰的层级模型，认为接触结果取决于接触强度而非类型距离；Van Coetsem 区分借用与强加，前者由受语说话人引入，后者由源语说话人施加。语言联盟概念描述地理相邻语言长期趋同的格局。社会条件如人口比例、语言声望与教育制度，决定借用发生在词汇层还是语法层。"
+     ],
+     "pEn": [
+      "Thomason and Kaufman propose a hierarchy of borrowing versus substratum interference, arguing that contact outcomes depend on contact intensity rather than structural distance. Van Coetsem distinguishes borrowing, introduced by speakers of the recipient language, from imposition, driven by speakers of the source language. The notion of the Sprachbund describes convergence among geographically adjacent languages over long periods. Social factors such as demography, prestige and schooling determine whether borrowing remains lexical or reaches grammar."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "借用", "tEn": "borrowing", "d": "一种语言把另一语言的成分吸收进自身系统的过程。", "dEn": "The process by which one language absorbs material from another."},
+    {"t": "语言联盟", "tEn": "Sprachbund", "d": "地理相邻语言长期接触后结构趋同形成的区域格局。", "dEn": "A convergence area formed by long contact among neighbouring languages."},
+    {"t": "底层干扰", "tEn": "substratum interference", "d": "被替换语言在替代语言结构上留下的影响。", "dEn": "Influence of a shifted-away language on the structure of its replacement."},
+    {"t": "强加", "tEn": "imposition", "d": "源语说话人把母语特征带进目标语言的现象。", "dEn": "Carrying source-language features into a target language by its speakers."},
+    {"t": "语言替换", "tEn": "language shift", "d": "一个社区逐渐改用另一种语言的过程。", "dEn": "A gradual community-wide change to another language."},
+    {"t": "回借", "tEn": "reborrowing", "d": "借出的词以新形式重新进入原语言的现象。", "dEn": "A word returning to its original language in a changed form."}
+   ],
+   "related": ["bilingualism", "pidgin-creole", "code-switching", "contact-linguistics", "loanword"],
+   "sources": [
+    "Wikipedia, \"Language contact\", https://en.wikipedia.org/wiki/Language_contact",
+    "Wikipedia, \"Stratum (linguistics)\", https://en.wikipedia.org/wiki/Stratum_(linguistics)",
+    "Weinreich, U., Languages in Contact: Findings and Problems, Linguistic Circle of New York, 1953"
+   ]
+  },
+  {
+   "id": "loanword",
+   "title": "借词",
+   "en": "Loanword",
+   "category": "concepts",
+   "tags": ["借词", "语言接触", "词汇借用", "音系适应性", "仿译"],
+   "summary": "借词是语言从其来源语吸收并纳入自身词汇系统的词，是语言接触最直接、最常见的产物。借词进入受语后通常经历音系与形态的适应性调整，如增音、替换语音或加上词缀，其语义范围也可能缩小或转移。借词的层次与年代可据音韵对应与文献证据推断，是研究语言接触史与文化史的重要线索。",
+   "summaryEn": "A loanword is a word adopted from a source language and integrated into the lexicon of the receiving language, the most direct and widespread product of language contact. Once borrowed, it usually undergoes phonological and morphological adaptation, such as epenthesis, sound substitution or affixation, and its meaning may narrow or shift. The layers and dates of loans can be inferred from sound correspondences and documentary evidence, making them important clues to contact and cultural history.",
+   "sections": [
+    {
+     "h": "定义与基本概念",
+     "hEn": "Definition and Basic Concepts",
+     "p": [
+      "借词指被吸收进受语词汇系统的外来词，也包括仿译词和语义借用等间接形式。直接借词音义一并借入，如英语 piano 借自意大利语；仿译词只借结构与理据，逐语素翻译，如汉语「热狗」仿译英语 hot dog；语义借词则让固有词获得外来新义。借词的对立面是底层词与继承词。"
+     ],
+     "pEn": [
+      "A loanword is an item taken into the lexicon of a receiving language, a category that also covers calques and semantic loans. A direct loan transfers both form and meaning, as English piano from Italian. A calque transfers structure and motivation morpheme by morpheme, as Mandarin regou dog for English hot dog. A semantic loan gives an inherited word a new meaning modelled on a foreign one. Loans contrast with substratum words and inherited vocabulary."
+     ]
+    },
+    {
+     "h": "借用方式与分类",
+     "hEn": "Borrowing Types and Classification",
+     "p": [
+      "按来源可分为直接借词与间接借词，后者经由中介语言传入，如汉语「咖啡」经英语 coffee 转借自荷语 koffie 并上溯阿拉伯语 qahwa。按功能可分为普通借词与专业借词，后者多来自学术或技术优势语言。按适应程度可分完全同化、部分同化与外来词，日语把后者记作片假名「コンピューター」，说明其整合程度较低。"
+     ],
+     "pEn": [
+      "By source, loans may be direct or indirect, the latter passing through an intermediary, as Mandarin kafei, via English coffee, from Dutch koffie and ultimately Arabic qahwa. By function, ordinary loans contrast with technical loans, which typically come from a language of scholarly or technological prestige. By degree of integration, loans may be fully assimilated, partly assimilated, or still recognisably foreign, the last often written in katakana in Japanese, as in konpyuutaa computer."
+     ]
+    },
+    {
+     "h": "语言实例",
+     "hEn": "Linguistic Examples",
+     "p": [
+      "英语借词层次分明：古北欧语借入 give、sky，诺曼法语借入 judge、beef，拉丁语与希腊语词根构成 scientific、telephone，近代又从日语借入 tsunami、karaoke。汉语的「站」借自蒙古语，佛教词汇「菩萨」「涅槃」来自梵语。日语借英语时以元音补足音节，如 strike 说成 sutoraiku、baseball 说成 beesubooru，说明借词必须接受受语音系与音位配列的筛选。"
+     ],
+     "pEn": [
+      "English loans fall into clear layers: Old Norse give and sky, Norman French judge and beef, Latin and Greek roots in scientific and telephone, and more recent Japanese loans such as tsunami and karaoke. Mandarin zhan station is a Mongol loan, while Buddhist vocabulary such as pusa bodhisattva and niepan nirvana came from Sanskrit. Japanese adapts English loans by inserting vowels to satisfy syllable structure, so strike becomes sutoraiku and baseball becomes beesubooru."
+     ]
+    },
+    {
+     "h": "研究方法与演变",
+     "hEn": "Methods and Development",
+     "p": [
+      "借词的识别依靠音韵对应、形态标记与文献年代。中古汉语借入的梵语词保留重纽痕迹，可据以判断借入时间；英语中的法语借词在重音与元音上遵循不同层次，可区分早期与晚期借入。借词进入后常经历语义窄化或专门化，如英语 beef 只指牛肉而不再泛指牛；也可能被本土形式替换或再度扩散。"
+     ],
+     "pEn": [
+      "Identifying loans relies on sound correspondences, morphological marking and documentary dating. Sanskrit words borrowed into Middle Chinese retain evidence of the chongniu distinction, which helps date their entry, while French loans in English fall into phonological layers defined by stress and vowel quality, separating early from later borrowings. Once adopted, a loan often undergoes semantic narrowing or specialisation, as English beef no longer denotes the animal but only its meat, and may later be replaced by native forms or spread still further."
+     ]
+    }
+   ],
+   "terms": [
+    {"t": "直接借词", "tEn": "direct loan", "d": "音义整体借入并纳入受语词汇的外来词。", "dEn": "A word borrowed with both form and meaning into the recipient lexicon."},
+    {"t": "仿译词", "tEn": "calque", "d": "按来源语结构逐语素翻译而成的借词。", "dEn": "A loan created by morpheme-by-morpheme translation of a foreign model."},
+    {"t": "音系适应性", "tEn": "phonological adaptation", "d": "借词为符合受语音系而发生的音段调整。", "dEn": "Sound adjustments making a loan fit the phonology of the recipient language."},
+    {"t": "语义窄化", "tEn": "semantic narrowing", "d": "借词语义范围相对来源语缩小的现象。", "dEn": "A reduction of a loan's meaning range relative to its source."},
+    {"t": "借词层次", "tEn": "loan stratification", "d": "按借入年代与来源语区分的词汇层次。", "dEn": "Lexical layers distinguished by borrowing period and source language."},
+    {"t": "间接借词", "tEn": "indirect loan", "d": "经由中介语言传入受语的外来词。", "dEn": "A loan transmitted through an intermediary language."}
+   ],
+   "related": ["language-contact", "code-switching", "language-transfer", "contact-linguistics", "bilingualism"],
+   "sources": [
+    "Wikipedia, \"Loanword\", https://en.wikipedia.org/wiki/Loanword",
+    "Wikipedia, \"Calque\", https://en.wikipedia.org/wiki/Calque",
+    "Haugen, E., The Analysis of Linguistic Borrowing, Language 26(2), 1950"
+   ]
+  }
+ ]
+}

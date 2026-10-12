@@ -1,0 +1,149 @@
+# 4.9 Types of phonological rules
+
+## Phonation assimilation
+
+There are many types of rules that languages may have. Perhaps the most common general type of phonological rule we find is assimilation, when a phoneme changes to an allophone that matches some aspect of its environment. That is, one or more of the properties in the rule’s change are also present somewhere in the rule’s environment. We see this with French devoicing, where the sonorants become voiceless in an environment that also involves voicelessness.
+Phonation assimilation can also cause voicing rather than devoicing, as in Wemba Wemba (an extinct Kulinic language of the Pama–Nyungan family, formerly spoken in Australia), in which voiceless plosives are voiced after nasal stops, as in the following data (adapted from Hercus 1986).
+
+[表格]
+| | | /panpar/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [panbar] | | ‘shovel’ | | | | /jantaŋ/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [jandaŋ] | | ‘I’ | | | | /taɳʈa/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [taɳɖa] | | ‘touch’ | | |
+
+We can write the relevant rule as follows:
+- plosive
+[图片：5110e872195fe28426772eaf3f893be9.png]
+voiced / voiced nasal stop ▁
+
+In both the French and Wemba Wemba assimilation rules, the crucial part of the environment containing the assimilating property is on the left, but phonation assimilation can also depend on the right side of the environment, as in Polish (a West Slavic language of the Indo-European family, spoken in Poland). In Polish, voiced obstruents become voiceless if followed by a voiceless obstruent (data adapted from Stanisławski 1978 and Rubach 1996).
+
+[表格]
+| | | /dxu/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [txu] | | ‘of breath’ | | | | /rɪbka/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [rɪpka] | | ‘little fish’ | | | | /vçi/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [fçi] | | ‘of village’ | | | | /vɪkaz pism/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [vɪkas pism] | | ‘list of journals’ | | |
+
+The relevant phonological rule can be written as follows:
+- obstruent
+[图片：5110e872195fe28426772eaf3f893be9.png]
+voiceless / ▁ voiceless obstruent
+
+## Place assimilation
+
+Phonation is not the only phonetic property that can assimilate. In Persian (a Southwestern Iranian language of the Indo-European family, spoken in Iran and surrounding areas), we see assimilation of place, with alveolar stops becoming postalveolar before a postalveolar (data adapted from Bijankhan 2018).
+
+[表格]
+| | | /ʔætʃɒn/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [ʔæṯʃɒn] | | ‘parched’ | | | | /χædʃe/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [χæḏʃe] | | ‘flaw’ | | | | /ʔenʃɒ/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [ʔeṉʃɒ] | | ‘essay’ | | |
+
+The relevant phonological rule can be written as follows:
+- alveolar stop
+[图片：5110e872195fe28426772eaf3f893be9.png]
+postalveolar / ▁ postalveolar
+
+## Nasality assimilation
+
+Nasality is also another common property that assimilates, as in Ka’apor (a.k.a. Urubú-Kaapor, a Wayampí language of the Tupian family, spoken in Brazil). In Ka’apor, vowels are nasalized after a nasal stop (data adapted from Kakumasu 1986).
+
+[表格]
+| | | /uruma/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [urumã] | | ‘duck’ | | | | /tamui/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [tamũi] | | ‘old man’ | | | | /mɨra/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [mɨ̃ra] | | ‘wood’ | | | | /nino/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [nĩnõ] | | ‘lie down’ | | | | /niʃoi/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [nĩʃoi] | | ‘none’ | | | | /ne/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [nẽ] | | ‘you (sing.)’ | | |
+
+The relevant phonological rule can be written as follows:
+- V
+[图片：5110e872195fe28426772eaf3f893be9.png]
+nasalized / nasal stop ▁
+
+Most any phonetic property can assimilate, but there are also many rules that do not involve assimilation at all.
+
+## Other kinds of rules
+
+One of the most common non-assimilation rules is final devoicing. This usually affects obstruents, but in some languages, sonorant consonants or even vowels may undergo final devoicing. The end of a word is a particularly natural place for devoicing, because airflow decreases throughout a word, so by the end, we often do not have sufficiently intense airflow to produce full voicing. Even languages without a true phonological rule of final devoicing may still have reduced voicing in final position. A typical example of word-final obstruent devoicing can be seen in Camuno (an endangered variety of Eastern Lombard, a Western Romance language of the Indo-European family, spoken in Val Camonica, Italy; data adapted from Cresci 2014).
+
+[表格]
+| | | /kolomb/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [kolomp] | | ‘pigeon’ | | | | /herad/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [herat] | | ‘closed’ | | | | /horɛɡ/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [horɛk] | | ‘mouse’ | | | | /kaid͡ʒ/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [kait͡ʃ] | | ‘twig’ | | | | /iv/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [if] | | ‘alive’ | | |
+
+The relevant phonological rule can be written as follows:
+- obstruents
+[图片：5110e872195fe28426772eaf3f893be9.png]
+voiceless / ▁ #
+
+Phonemes can be completely removed from a word through deletion. We use the null symbol (∅) in the change part of a rule to indicate deletion. This is a common rule in so-called non-rhotic varieties of English, as used across England and Australia, as well as in some parts of North America, such as New York and Boston. In these varieties of English, /r/ is deleted when it is in a coda, so that words like /kɑr/ ‘car’ and /bɔrdm/ ‘boredom’ are pronounced more like [kɑ] and [bɔdm̩]. The relevant phonological rule can be written as follows:
+- /r/
+[图片：5110e872195fe28426772eaf3f893be9.png]
+∅ / ▁ ]σ
+
+The official IPA symbol [.] for a syllable boundary is a bit small and might be overlooked or misread, so the alternate notation ]σ is often used. The actual notation for indicating coda position would need to be a bit more complicated to fully capture all possibilities, but that is beyond the scope of this textbook.
+Finally, new phonemes can even be added to a word through epenthesis. Since this is the reverse of deletion, we reverse the position of ∅ from the change to the target of the rule, with the epenthetic phone occurring in the change part of the rule. It can be difficult to determine whether a given phone has been epenthesized or whether it is the allophone of a phoneme in the UR; similarly, it can be difficult to determine whether a given phoneme has been deleted or whether it simply does not exist in the UR.
+One informative class of words to look at are loanwords, which are words that have been borrowed from one language (the donor language) into another (the recipient language). When the donor and recipient languages have very different phonologies, the loanword often undergoes loanword adaptation, which causes it to conform to the recipient language’s phonology. This is particularly evident when the donor language has more complicated syllable structure due and more lenient phonotactics.
+Deletion is often used to adapt the loanword to the recipient language’s more restricted syllable structure and phonotactics, but sometimes, the donor language’s phonemes may be preserved, and instead, new phones are epenthesized in the recipient language to allow the donor phonemes to fit into the recipient language’s syllable structure. This happens with some borrowings into Spanish (a West Iberian language of the Indo-European family, spoken in Spain and its former colonies), such as the data below. Here, we use the common assumption that some kind of representation similar to the source language’s pronunciation of the loanword serves as the UR for recipient language, although this assumption is not without problems.
+
+[表格]
+| | | /ski/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [eski] | | ‘ski’ | | | | /skaneɾ/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [eskaneɾ] | | ‘scanner’ | | | | /sloɡan/ | |
+[图片：5110e872195fe28426772eaf3f893be9.png]
+| | [esloɡan] | | ‘slogan’ | | |
+
+This epenthesis occurs at the beginning of the word before /s/ when it is followed by another consonant, because [sC] is not a valid onset in Spanish: *[ski], *[ska.neɾ], and *[slo.ɡan] all violate Spanish phonotactics, while [es.ki], [es.ka.neɾ], and [es.lo.ɡan] are fine, because the epenthetic [e] provides a coda to host the /s/ and to keep it out of the following onset. The relevant phonological rule can be written as follows (again, the actual rule is a bit more complicated, and a full analysis is beyond the scope of this textbook):
+- ∅
+[图片：5110e872195fe28426772eaf3f893be9.png]
+[e] / # ▁ sC
+
+There are many other possible phonological rules, and part of the work of phonologists is discovering what other kinds of rules exist (and more deeply, what patterns we can find across those rules).
+
+## Using common rules types
+
+Knowing what kinds of phonological rules we are likely to find helps narrow down our options when trying to determine what phones are allophones of the same or different phonemes. For example, for the French sonorants, we see that there are natural pairs of voiced and voiceless sonorants, so it would be reasonable to see if the distribution of these match what we know about rules that affect voicing, such as assimilation.
+By taking advantage of our knowledge of common types of rules, this allows us to avoid focusing on likely irrelevant factors. For example, for French, we would know not to worry too much about vowel rounding or place of articulation, since these are not normally triggers for changing phonation. We can also begin looking for patterns based on common rules without even knowing which phones of interest we should examine: maybe there is a pattern in vowel nasality based on the presence or absence of an adjacent nasal stop (indicating assimilation of nasality). Of course, the language we are analyzing won’t have all of these rules, but it might have one, so we can get a head start on analyzing its phonology.
+This means that phonemic analysis and rule discovery go hand in hand. Sometimes, we may use known phonological rules to help uncover distributional patterns in phones, and other times, we may find the distributional patterns first, leading us to posit a phonological rule. Working on a language from both directions can be much more productive than trying to do phonemic analysis directly. This is a method that permeates all of linguistics, not just phonology. Every language we analyze tells us something about how language itself works, and that broader knowledge of how language works helps us to analyze the next language.
+
+## Check your understanding
+
+Coming soon!
+
+## References
+
+Bijankhan, Mahmood. 2018. Phonology. In The Oxford handbook of Persian linguistics, ed. Anousha Sedighi and Pouneh Shabani-Jadidi, Oxford Handbooks in Linguistics, 111–141. Oxford: Oxford University Press.
+Cresci, Michela. 2014. The sound patterns of Camuno: Description and explanation in evolutionary phonology. Doctoral dissertation, City University of New York.
+Hercus, Luise A. 1986. Victorian languages: A late survey. No 77 in Pacific Linguistics Series B. Canberra: The Australian National University.
+Kakumasu, James. 1986. Urubu-kaapor. In Handbook of Amazonian languages, ed. Desmond C. Derbyshire and Geoffrey K. Pullum, vol. 1, 326–404. Berlin: Mouton de Gruyter.
+Rubach, Jerzy. 1996. Nonsyllabic analysis of voice assimilation in Polish. Linguistic Inquiry 21(1): 69–110.
+Stanisławski, Jan. 1978. Wielki słownik polsko-angielski. Warsaw: Wiedza Powszechna.

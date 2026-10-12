@@ -1,0 +1,104 @@
+{
+ "batch": 31,
+ "sections": {
+  "chapter-063-interim-summary": {
+   "title": {"en": "6.12 Interim summary", "zh": "6.12 阶段性小结"},
+   "summary": {
+    "en": "So far the chapter has covered core concepts of syntactic theory: languages are best described through structural relations rather than linear order, a phrase takes its properties from its head, and grammaticality judgements reveal fine syntactic detail. Clause classes such as questions and passives are described by their systematic relation to statements and actives, and the head direction parameter captures word order differences between English and Japanese.",
+    "zh": "本章至此介绍了句法理论的一些核心概念：自然语言更适合用结构关系而非线性顺序来描写，短语的性质由中心语决定，合乎语法性判断可揭示句法的细微之处。疑问句、被动句等小句类别通过与陈述句、主动句的系统性联系得到描写，而中心语方向参数则刻画了英语与日语之间的语序差异。"
+   },
+   "points": [
+    {"en": "Natural languages are better described in terms of structural relations than in terms of linear word order.", "zh": "与词语的线性顺序相比，用结构关系来描写自然语言更为恰当。"},
+    {"en": "The properties of a phrase are determined by its head, the element that gives the phrase its category.", "zh": "短语的性质由其中心语决定，中心语决定整个短语所属的范畴。"},
+    {"en": "Grammaticality judgements let us investigate fine details about the syntax of a language.", "zh": "合乎语法性判断使我们能够考察一种语言句法的细微之处。"},
+    {"en": "Questions and passives can be described through their systematic relation to statements and actives.", "zh": "疑问句和被动句可以通过它们与陈述句、主动句的系统性联系来描写。"},
+    {"en": "The head direction parameter accounts for word order differences between English and Japanese in all clause types.", "zh": "中心语方向参数解释了英语与日语在各类小句中的语序差别。"}
+   ],
+   "terms": [
+    {"en": "structural relation", "zh": "结构关系", "defEn": "A relation between words or phrases in a sentence, such as head and complement.", "defZh": "句子中词语或短语之间的关系，如中心语与补足语的关系，而非单纯的线性顺序。"},
+    {"en": "head", "zh": "中心语", "defEn": "The element that determines the properties and category of the phrase containing it.", "defZh": "决定所在短语的性质与范畴的成分，如名词短语中的名词和动词短语中的动词。"},
+    {"en": "grammaticality judgement", "zh": "合乎语法性判断", "defEn": "A speaker's intuitive judgement about whether a sentence is grammatical in their language.", "defZh": "说话者对本族语中某个句子是否合乎语法所作出的直觉判断。"},
+    {"en": "head direction parameter", "zh": "中心语方向参数", "defEn": "A parameter setting whether heads precede or follow their complements, as in English and Japanese.", "defZh": "决定中心语位于补足语之前还是之后的参数设置，如英语与日语的差异。"}
+   ],
+   "examples": [
+    {"text": "the head direction parameter accounts for differences in word order between English and Japanese in all types of clauses", "noteEn": "The chapter's illustrative case of how one parameter handles cross-linguistic word order variation.", "noteZh": "本章用以说明单一参数即可解释跨语言语序差异的例证。"}
+   ],
+   "body": [
+    {"en": "This chapter has introduced core concepts of syntactic theory and shown how they help us reason about grammatical structures and about relations between classes of sentences. Natural languages are better described in terms of structural relations than in terms of the mere linear order of words. The properties of a phrase are determined by its head, and grammaticality judgements let us investigate fine details about a language's syntax, including which structures its grammar permits and which it rules out.", "zh": "本章介绍了句法理论的一些核心概念，并展示了如何借助它们来思考语法结构以及各类句子之间的关系。与仅仅描写词语的线性顺序相比，用结构关系来描写自然语言更为恰当。短语的性质由其中心语决定，而合乎语法性判断则使我们能够考察一种语言句法的细微之处，例如哪些结构为语法所允许、哪些则被语法所排除。"},
+    {"en": "Certain classes of clauses can be described by their systematic relation to other clauses: questions to statements, and passives to actives. Such concepts also capture syntactic differences across languages; the head direction parameter, for instance, accounts for word order differences between English and Japanese in all types of clauses. The remaining sections introduce tree diagrams and a derivational implementation of X-bar theory, in which grammatical sentences are described by constraints on well-formed trees plus movement transformations.", "zh": "某些类别的小句可以通过它们与其他小句的系统性联系来描写：疑问句与陈述句相联系，被动句与主动句相联系。这些概念同样能够刻画语言之间的句法差异；例如中心语方向参数就解释了英语与日语在各类小句中语序的差别。本章余下的各节将引入树形图这一形式化记法，特别是 X 杠理论的一种推导式实现：一种语言的合乎语法句由关于良构树结构的制约以及可施加于这些结构的移位转换来描写。"},
+     {"en": "Although the focus has been English, we have only scratched the surface of its syntactic grammar. The tools developed here can nevertheless be applied to other phenomena in English, or to the grammar of entirely unrelated languages.", "zh": "尽管我们主要关注英语这一种语言，但我们对英语句法的了解仍然只是冰山一角。不过，这里发展出的工具既可用于英语中的其他现象，也可用于与英语完全无关的语言的语法，帮助我们继续考察它们的句法规律。"},
+     {"en": "The concepts covered include structural relations rather than linear order, the head as the source of a phrase's properties, grammaticality judgements as evidence, the systematic links among clause classes, and the head direction parameter as an account of cross-linguistic word order.", "zh": "这些概念包括：以结构关系而非线性顺序作为描写的基础；中心语决定短语的性质；合乎语法性判断作为句法证据；小句类别之间的系统性联系；以及用中心语方向参数解释跨语言的语序差异。"}
+   ]
+  },
+  "chapter-064-from-constituency-to-tree-diagrams": {
+   "title": {"en": "6.13 From constituency to tree diagrams", "zh": "6.13 从成分到树形图"},
+   "summary": {
+    "en": "This section introduces tree diagrams as a formal notation for phrase and sentence structure. It builds phrase structure rules for NPs, PPs, VPs, and modifier phrases such as AdvPs, AdjPs, and NumPs, showing how recursion arises and how full sentences are analysed. It also notes the dative alternation, the rare adjectives that take NP complements, and the rule for sentences with auxiliaries and negation.",
+    "zh": "本节引入树形图这一表示短语与句子结构的形式化记法，并给出名词短语、介词短语、动词短语以及副词短语、形容词短语、数词短语等修饰语短语的短语结构规则，说明递归如何产生以及整句如何分析。文中还提到与格交替、极少数带名词短语补足语的形容词，以及含助动词与否定的句子规则。"
+   },
+   "points": [
+    {"en": "Phrase structure rules such as S → NP VP express sentence composition and were central to Chomsky 1957.", "zh": "S → NP VP 这样的短语结构规则表达句子的构成，在 Chomsky 1957 的理论中居于核心地位。"},
+    {"en": "Tree diagrams express the same information as several phrase structure rules at once.", "zh": "树形图能一次表达若干条短语结构规则所提供的信息，比逐条罗列更为简洁。"},
+    {"en": "Because a PP can contain an NP that contains another PP, phrase structure rules allow recursion.", "zh": "由于介词短语中可以包含名词短语，而后者又可包含介词短语，短语结构规则容许递归。"},
+    {"en": "Replacement tests with pronouns and with do identify noun phrases and verb phrases in sentences.", "zh": "用代词和 do 进行替代测试，可以判定句子中的名词短语和动词短语。"},
+    {"en": "Ditransitive verbs alternate between [NP NP] and [NP PP], an alternation called the dative alternation.", "zh": "双及物动词可以在 [NP NP] 与 [NP PP] 两种形式之间交替，这种交替称为与格交替。"},
+    {"en": "Complements of adjectives are almost always PPs, with rare NP-complement exceptions such as worth and done.", "zh": "形容词的补足语几乎总是介词短语，仅有 worth、done 等极少数带名词短语补足语的例外。"}
+   ],
+   "terms": [
+    {"en": "phrase structure rule", "zh": "短语结构规则", "defEn": "A rule stating what elements a phrase of a given category may be made up of.", "defZh": "说明某一范畴的短语可以由哪些成分构成的规则，如 S → NP VP 即为一例。"},
+    {"en": "tree diagram", "zh": "树形图", "defEn": "A formal notation representing the hierarchical structure of a phrase or sentence.", "defZh": "表示短语或句子层级结构的形式化图示记法，用来呈现句法成分之间的关系。"},
+    {"en": "recursion", "zh": "递归", "defEn": "The property that a rule can apply to its own output.", "defZh": "规则可以作用于自身输出的性质，如名词短语含介词短语、介词短语又含名词短语。"},
+    {"en": "dative alternation", "zh": "与格交替", "defEn": "The alternation between a ditransitive [NP NP] form and an [NP PP] form.", "defZh": "双及物动词在 [NP NP] 形式与 [NP PP] 形式之间交替出现的现象，如 give 的两种句式。"},
+    {"en": "ditransitive verb", "zh": "双及物动词", "defEn": "A verb that combines with two object noun phrases, such as give.", "defZh": "可以带两个宾语名词短语的动词，如 give 和 put，常可与介词短语形式交替。"},
+    {"en": "Do-support", "zh": "do 支持", "defEn": "The insertion of the auxiliary do when negation or a question requires one but none is present.", "defZh": "当否定或疑问需要助动词而句中又没有助动词时，插入助动词 do 的操作。"}
+   ],
+   "examples": [
+    {"text": "the six small robots from Boston", "noteEn": "A noun phrase built as determiner, numeral, adjective, noun, and prepositional phrase.", "noteZh": "由限定词、数词、形容词、名词和介词短语构成的名词短语。"},
+    {"text": "The spaceship [gave orders to the crew].", "noteEn": "The [NP PP] form of the ditransitive verb give, illustrating the dative alternation.", "noteZh": "双及物动词 give 的 [NP PP] 形式，体现与格交替，即宾语改由介词短语表达。"},
+    {"text": "I am [finished my coffee].", "noteEn": "A deverbal adjective with an NP complement, found in Canadian English.", "noteZh": "由动词派生的形容词带名词短语补足语，见于加拿大英语。"},
+    {"text": "We are happy.", "noteEn": "A verb followed by an adjective phrase, which needs a second rule for VPs.", "noteZh": "动词之后接形容词短语，这种情况需要另立一条动词短语规则。"}
+   ],
+   "body": [
+    {"en": "This section introduces tree diagrams as a formal notation for phrase and sentence structure, so that hypotheses become specific and testable. The phrase structure rule S → NP VP, central to Chomsky 1957 and to generative syntax, says that a sentence may consist of an NP subject and a VP predicate. Trees express several rules at once, and current theories constrain possible trees rather than rules.", "zh": "本节引入树形图这一形式化记法来表示短语与句子的结构，以便提出具体而可检验的假设。句法理论的目标是解释语言使用者关于哪些句子合乎语法、哪些不合乎语法的知识。短语结构规则 S → NP VP 在 Chomsky 1957 的理论中居于核心地位，开启了现代生成句法学：该规则表示句子可以由名词短语主语和动词短语谓语组成。树形图能同时表达若干条规则的信息；当代理论通常以对可能树结构的制约来表述，而非以对短语结构规则的制约来表述。"},
+    {"en": "Noun phrases range from robots to the six small robots from Boston. The rule NP → (Det) (Num) (Adj)n N (PP)n captures them: an optional determiner, an optional numeral, any number of optional adjectives, a required noun, and any number of optional prepositional phrases. Prepositional phrases are simpler, as in from Boston, outside, just outside, and way beyond my knowledge, giving PP → (Deg) P (NP). Since a PP can contain an NP, recursion reappears.", "zh": "名词短语的形态多种多样，从 robots 到 the six small robots from Boston。规则 NP → (Det) (Num) (Adj)n N (PP)n 概括了这些可能：可选限定词、可选数词、任意数量的可选形容词、必需的名词，以及任意数量的可选介词短语。介词短语的形式较少，如 from Boston、outside、just outside、way beyond my knowledge，可概括为 PP → (Deg) P (NP)。由于介词短语中可以包含名词短语，递归现象再次出现。"},
+    {"en": "Verb phrases may be an intransitive verb, a transitive verb with an NP or PP complement, or a ditransitive verb with two object NPs: VP → Vintrans; VP → Vtrans NP; VP → Vditrans NP NP; VP → Vditrans NP PP; VP → Vtrans PP. Many ditransitive verbs alternate between [NP NP] and [NP PP], the dative alternation, and some like put allow only the latter. The general rule is VP → (AdvP) V (NP) (NP/PP) (AdvP)n, plus VP → V AdjP for We are happy and They seem nice.", "zh": "动词短语可以只含一个不及物动词，可以是及物动词带名词短语或介词短语补足语，也可以是双及物动词带两个宾语名词短语，对应规则 VP → Vintrans、VP → Vtrans NP、VP → Vditrans NP NP、VP → Vditrans NP PP 和 VP → Vtrans PP。许多双及物动词可以在 [NP NP] 与 [NP PP] 两种形式之间交替，这称为与格交替；而像 put 这样的动词只允许后者。一般规则为 VP → (AdvP) V (NP) (NP/PP) (AdvP)n；另有少数动词带形容词短语，如 We are happy 和 They seem nice，故需补充一条 VP → V AdjP。"},
+    {"en": "Modifier phrases follow patterns: AdvP → (DegP) Adv (PP) for quickly, very quickly, and quite quickly; AdjP → (DegP) Adj (PP); and NumP → (DegP) Num for exactly six, approximately 30, and very many. Adjective complements are nearly always PPs, with NP-complement exceptions: worth for all speakers, and the deverbal finished and done for many Canadian and some upstate New York and Pennsylvania speakers. Full sentences give S → (AdvP) NP (Aux) (Neg) VP (AdvP); negation needs an auxiliary and triggers Do-support. These rules merely list possible sequences.", "zh": "各类修饰语短语也有相应规则：AdvP → (DegP) Adv (PP)，如 quickly、very quickly、quite quickly；AdjP → (DegP) Adj (PP)；NumP → (DegP) Num，如 exactly six、approximately 30、very many。形容词的补足语几乎总是介词短语，只有极少数例外允许名词短语：对所有说话者而言是 worth，而对多数加拿大英语使用者以及纽约州北部和宾夕法尼亚州的部分使用者而言，还包括由动词派生的 finished 和 done。综合起来得到 S → (AdvP) NP (Aux) (Neg) VP (AdvP)；否定必须借助助动词，因而触发 do 支持。这些规则只是列出可能出现的序列。"}
+   ]
+  },
+  "chapter-065-x-bar-theory-introduction": {
+   "title": {"en": "6.14 Trees: Introducing X-bar theory", "zh": "6.14 树形图：X 杠理论简介"},
+   "summary": {
+    "en": "X-bar theory restricts the shape of possible trees in order to make stronger predictions about grammar. Every phrase has a head of the same category, every head projects a phrase, and every phrase contains a mid-sized intermediate bar level. The section names the specifier and the complement, presents one-replacement and do so evidence for N-bar and V-bar, and shows that bar levels appear even without complements.",
+    "zh": "X 杠理论通过限制可能树结构的形状，对语法作出更强的预测。每个短语都有同范畴的中心语，每个中心语都投射出短语，而每个短语内部都含有一个中等大小的中间杠层级。本节界定了指示语与补足语，用 one 替代和 do so 替代分别论证名词杠与动词杠，并说明即使没有补足语也仍然存在杠层级。"
+   },
+   "points": [
+    {"en": "X-bar theory restricts possible tree shapes and adds an intermediate bar level inside every phrase.", "zh": "X 杠理论限制可能的树形，并在每个短语内部增加一个中间的杠层级。"},
+    {"en": "Every phrase XP has a head of the same category X, and every head X projects a phrase XP.", "zh": "每个短语 XP 都有同范畴的中心语 X，而每个中心语 X 都投射出短语 XP。"},
+    {"en": "Phrases are not flat: the head forms a closer unit with its complement than with anything else.", "zh": "短语并非扁平结构：中心语与其补足语构成的关系比其他成分更紧密。"},
+    {"en": "The specifier is the child of XP and sister of X-bar; the complement is the sibling of the head.", "zh": "指示语是 XP 的子女、X 杠的姐妹节点；补足语则是中心语的姐妹节点。"},
+    {"en": "One-replacement replaces a noun with a following PP, leaving material before the noun behind.", "zh": "one 替代替换名词及其后的介词短语，而把名词之前的成分留在原位。"},
+    {"en": "Ellipsis and do so replacement show that a verb and its object form a single V-bar constituent.", "zh": "省略和 do so 替代表明，动词与其宾语共同构成单一的动词杠成分。"}
+   ],
+   "terms": [
+    {"en": "X-bar theory", "zh": "X 杠理论", "defEn": "A theory restricting possible tree structures, named for the intermediate bar level inside phrases.", "defZh": "一种限制可能树结构的理论，因短语内部的中间杠层级而得名。"},
+    {"en": "bar level", "zh": "杠层级", "defEn": "A mid-sized constituent inside a phrase, lying between the head and the full phrase.", "defZh": "短语内部中等大小的成分，位于中心语与完整短语之间，即所谓的部分短语。"},
+    {"en": "specifier", "zh": "指示语", "defEn": "The child of XP and sister of X-bar, such as a determiner or possessor in an NP.", "defZh": "XP 的子女、X 杠的姐妹节点，如名词短语中的限定词或领属成分等成分。"},
+    {"en": "complement", "zh": "补足语", "defEn": "The sibling of the head, selected by it, such as the object of a verb.", "defZh": "中心语的姐妹节点，由中心语选择，如动词的宾语或介词的宾语。"},
+    {"en": "one-replacement", "zh": "one 替代", "defEn": "A constituency test in which one replaces a noun together with a following PP.", "defZh": "一种成分测试，用 one 替换名词及其后的介词短语，用以检验名词杠成分。"},
+    {"en": "do so replacement", "zh": "do so 替代", "defEn": "A constituency test in which do so replaces a verb together with its object.", "defZh": "一种成分测试，用 do so 替换动词及其宾语，用以检验动词杠成分是否成立。"}
+   ],
+   "examples": [
+    {"text": "Cats sleep.", "noteEn": "Even a two-word sentence consists of an NP followed by a VP.", "noteZh": "即使是两个词的句子，也由名词短语加动词短语构成。"},
+    {"text": "The many very fast spaceships carried a lot of valuable cargo.", "noteEn": "Despite its length, this sentence also consists of an NP and a VP.", "noteZh": "尽管句子很长，它也由名词短语和动词短语构成。"},
+    {"text": "launch of a spaceship", "noteEn": "The noun with its PP complement forms an N-bar constituent that one can replace.", "noteZh": "名词及其介词短语补足语构成名词杠成分，可由 one 替代。"},
+    {"text": "The spaceships landed.", "noteEn": "Every phrase contains a bar level even though no complement is present.", "noteZh": "即使没有补足语，每个短语也含有一个杠层级，句子同样如此。"}
+   ],
+   "body": [
+    {"en": "Constituency tests and phrase structure rules are a useful starting point, but they do not explain why certain structures are grammatical. X-bar theory makes stronger predictions by restricting the shape of trees and adding an intermediate bar level. A rule like NP → V (Adj) PP is impossible, since a noun phrase must contain a noun. X-bar theory therefore assumes that every phrase XP has a head of the same category X, and every head X projects a phrase of the same category XP.", "zh": "成分测试和短语结构规则为思考可能的句子结构提供了有用的起点，但它们并未真正解释某些结构为何合乎语法。X 杠理论通过限制可能树结构的形状来作出更强的预测，并因此在短语内部引入一个额外的结构层次，称为杠层级。像 NP → V (Adj) PP 这样的规则之所以怪异，就在于名词短语中缺少名词。因此 X 杠理论假定：每个短语 XP 都有一个同范畴的中心语 X，而每个中心语 X 都投射出同范畴的短语 XP。"},
+    {"en": "The same constraints are assumed for all categories in all languages, so determiners occur inside DPs and degree words inside DegPs. Phrases are not flat: the head stands in a closer relation to its complement than to anything else, and in English the complement follows the head. Hence every phrase contains a mid-sized intermediate phrase, X-bar, written X′ or X’. The rules are XP → (YP) X’ and X’ → X (ZP), where YP is the specifier and ZP the complement; the head selects its complement.", "zh": "人们假定同样的制约适用于所有范畴和所有语言，因此限定词出现在限定词短语（DP）内，程度词出现在程度短语（DegP）内。短语并非扁平结构：中心语与某一成分的关系比与其他任何成分都更紧密，这个成分就是补足语；在英语中补足语位于中心语之后。因此每个短语内部都存在一个中等大小的部分短语，称为 X 杠，原写作 X̄，如今更常写作 X′ 或 X’。其规则为 XP → (YP) X’ 和 X’ → X (ZP)，其中 YP 是指示语，ZP 是补足语，中心语选择自己的补足语。"},
+    {"en": "Evidence for N-bar comes from showing that a noun is closer to a following PP than to a preceding determiner. One-replacement replaces a noun and a following PP while leaving material before the noun behind, as in the contrast between today's one and today's launch of a spaceship. Replacing a determiner and noun instead is impossible. Determiners and possessors are in complementary distribution as the single specifier of NP, which accounts for this pattern.", "zh": "名词杠的证据在于表明名词与其后介词短语的关系比与前置限定词的关系更紧密。one 替代可以替换名词及其后的介词短语，而把名词之前的成分留在原位，如 today's one 与 today's launch of a spaceship 的对比。反之，替换限定词加名词则不合语法。限定词与领属成分呈互补分布，因为名词短语只有一个指示语位置，只能容纳其中之一，这正解释了上述格局。"},
+    {"en": "Verb phrases show the same pattern: a verb and its object can be elided together, leaving an adverb behind, but not with the object stranded. Do so replacement makes the same point. Verb and object therefore form a V’ constituent. The bar level is simply a mid-sized constituent, which could equally be called an intermediate phrase. Even without a complement every phrase contains a bar level, as in The spaceships landed, where sentences remain headless.", "zh": "动词短语表现出同样的格局：动词与其宾语可以一起被省略，只留下副词，而把宾语孤立留下则不合语法。对许多说话者而言，do so 替代也证明了同一点。可见动词与宾语共同构成 V’ 成分。杠层级只是短语内部中等大小的成分，同样可以称为中间短语。即使没有补足语，每个短语也至少含有一个杠层级，如 The spaceships landed；而句子目前仍没有中心语。"}
+   ]
+  }
+ }
+}

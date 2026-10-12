@@ -1,0 +1,161 @@
+# 6.13 From constituency to tree diagrams
+
+In this section we begin to introduce the formal notation of tree diagrams to represent the structure of phrases and sentences in a way that makes it easier to make specific and testable claims (hypotheses) about them.
+Thinking back to Section 6.1, one way of thinking about the goal of syntactic theory is that it’s aiming to account for what languages users know about which sentences are grammatical, and which sentences are ungrammatical.
+What constituents do we find inside sentences? Well, we know that a sentence consists of (at least) a subject and a predicate, that subjects are (usually) noun phrases, and predicates are often verb phrases. We might express this as a rule, known as a phrase structure rule.
+Phrase structure rules were central to the theory of syntax developed in Chomsky 1957, which kickstarted the modern field of generative syntax.
+
+[表格]
+| | | (1) | | | | S → NP VP | | |
+
+This rule says that wherever you have an S (a sentence), it is possible for that S to be made up of an NP (noun phrase) followed by a VP (a verb phrase).
+
+[图片：613_tree1.png]
+
+Figure 6.1 Schematic tree for S containing an NP subject and VP predicate
+Another way to represent the same idea is with a tree diagram, as in Figure 6.1. Tree diagrams can express the same information as phrase structure rules, but can more efficiently express the output of multiple such rules; current syntactic theories are typically expressed in terms of constraints on possible trees, rather than in terms of constraints on phrase structure rules.
+What kind of structure might we expect to find inside the NP subject? Here are some NPs—you might think of a sentence in which some or all of them can occur (remember that you can tell if a string in a sentence is a single NP by using a replacement test to try substituting a pronoun).
+
+[表格]
+| | | (2) | | a. | | robots | | (N) | | | | | | b. | | some robots | | (D N) | | | | | | c. | | six robots | | (Num N) | | | | | | d. | | the six robots | | (D Num N) | | | | | | e. | | the six small robots | | (D Num Adj N) | | | | | | f. | | robots from Boston | | (N PP) | | | | | | g. | | the robots from Boston | | (D N PP) | | | | | | h. | | the six small robots from Boston | | (D Num Adj N PP) | | |
+
+We could abstract across all of these, and write a general phrase structure rule for NPs, putting parentheses around all optional elements. A subscript “n” indicates that that element can be repeated any number of times.
+
+[表格]
+| | | (3) | | | | NP → (Det) (Num) (Adj) | n | N (PP) | n | | | |
+
+This can be read as:
+> An NP can consist of a determiner (optional), followed by a numeral (optional), followed by any number of adjectives (all optional), followed by a noun (required), followed by any number of prepositional phrases (all optional).
+
+We could represent the structure of some of the specific NPs in (2) as in Figure 6.2. Each of these tree diagrams is consistent with the phrase structure rule in (3). The trees represent the pieces that an NP can be made up of: in Figure 6.2 we see a single N (robots) on the right, a determiner (Det) followed by an N (the robots) in the middle, and a determiner followed by a numeral followed by an adjective followed by a noun followed by a prepositional phrase (the six small robots from Boston) on the right.
+
+[图片：613_tree2.png]
+
+Figure 6.2 Tree diagrams for [robots], [the robots], and [the six small robots from Boston]
+The phrase structure rule for NPs referred to prepositional phrases (PP). These phrases have fewer possible shapes than NPs do:
+
+[表格]
+| | | (4) | | a. | | from Boston | | (P NP) | | | | | | b. | | outside | | (P) | | | | | | c. | | just outside | | (Deg P) | | | | | | d. | | way beyond my knowledge | | (Deg P NP) | | |
+
+Just like we did in (3) for NPs, we can abstract the possibilities for PPs listed in (4) into the single phrase structure rule shown in (5)
+
+[表格]
+| | | (5) | | | | PP → (Deg) P (NP) | | |
+
+We could then expand the “NP” symbol using our phrase structure rule for NPs above. That NP might contain another PP inside it—here we’ve encountered recursion again. Figure 6.3 shows tree structures for some of the PPs in (4).
+
+[图片：613_tree3_PPs.png]
+
+Figure 6.3 Tree diagrams for [from Boston], [outside], and [way beyond my knowledge]
+Now let’s look at some verb phrases (VPs). In the following examples, the VPs are all in [ square brackets ].
+
+[表格]
+| | | (6) | | a. | | The crew [repaired the ship]. | | | | | | b. | | The captain [gave the crew orders]. | | | | | | c. | | The spaceship [arrived]. | | | | | | d. | | The crew [travelled across the galaxy]. | | |
+
+How do we know these are VPs? Well, they come after the subject of the sentence (an NP in all these examples). In one case the predicate is a single word arrived—this word is a verb, so the only thing it could be is a verb phrase. All the other sequences in square brackets could be swapped into the same position as arrived, so they must be phrases of the same type. For example, For example, if we replace the predicate arrived in (6c) with [gave the crew orders], we get another grammatical sentence, shown in (7):
+
+[表格]
+| | | (7) | | | | The spaceship [gave the crew orders]. | | |
+
+This sentence might be a bit pragmatically odd—unless you assume the spaceship is an artificial intelligence that can give orders—but it is grammatical. Another test would be the replacement test for VPs, which involves replacement with do (you can review the replacement test in 6.4 Identifying phrases: Constituency tests).
+Based on these tests, we know that a verb by itself (like arrived) can be a VP, and that the object is inside the VP with the preceding verb. In (6) we have sentences with an intransitive VP containing just a verb, transitive VPs with verbs followed by a complement NP or PP, and a ditransitive VP that contains two object NPs.
+Many ditransitive verbs in English can also appear with an NP and a PP (and some ditransitive verbs, like put, only allow the NP PP version). The alternation between a ditranstive [NP NP] as in (7) and [NP PP] as in (8) is called the dative alternation.
+
+[表格]
+| | | (8) | | | | The spaceship [gave orders to the crew]. | | |
+
+The VPs we’ve seen in this section can be derived with the following phrase structure rules:
+
+[表格]
+| | | (9) | | a. | | VP → V | intrans | | | | | | | b. | | VP → V | trans | NP | | | | | | c. | | VP → V | ditrans | NP NP | | | | | | d. | | VP → V | ditrans | NP PP | | | | | | e. | | VP → V | trans | PP | | |
+
+If we looked at a wider range of VPs we’d also find that adverb phrases can go at the beginning or end of VPs, though not typically in the middle. So we’d end up with the following general phrase structure rule for VP:
+
+[表格]
+| | | (10) | | | | VP → (AdvP) V (NP) (NP/PP) (AdvP) | n | | | |
+
+By putting together the structures we’ve proposed for NPs, PPs, and VPs, we’re now in a position to show some trees for full sentences. Figure 6.4 shows a tree for the sentence [The crew from Mars repaired the spaceship].
+
+[图片：613_tree4_ThecrewfromMars.png]
+
+Figure 6.4 Tree diagram for The crew from Mars repaired the spaceship.
+There are also some cases where a verb can be followed by an adjective phrase (We are happy.; They seem nice.). There isn’t an easy way to collapse this with our previous phrase structure rule, with the notation we’ve introduced so far, so to account for this we could add a second phrase structure rule for VPs (VP → V AdjP).
+We can also formulate phrase structure rules for various modifier phrases: AdvP, AdjP, and NumP.
+Adverb phrases consist of an adverb (11a), preceded by an optional degree phrase (11b). You can also sometimes get a PP after an adverb (11c).
+
+[表格]
+| | | (11) | | a. | | quickly | | | | | | b. | | very quickly | | | | | | c. | | quite quickly for a sloth | | |
+
+This is summarized by the phrase structure rule in (12):
+
+[表格]
+| | | (12) | | | | AdvP → (DegP) Adv (PP) | | |
+
+Adjective phrases are similar:
+
+[表格]
+| | | (13) | | | | The robot is [ | AdjP | very proud of itself]. | | |
+
+[表格]
+| | | (14) | | | | AdjP → (DegP) Adj (PP) | | |
+
+Number phrases are also modified by degree phrases!
+
+[表格]
+| | | (15) | | a. | | exactly six | | | | | | b. | | approximately 30 | | | | | | c. | | very many | | |
+
+[表格]
+| | | (16) | | | | NumP → (DegP) Num | | |
+
+The “objects” of adjectives are almost always expressed by PPs—that is, if there’s something in an AdjP that comes after the adjective, it usually can’t be an NP (or a VP), but instead has to be a PP.
+
+Adjectives with NP complements
+In English there is a very tiny set of exceptions to the generalization that complements of adjectives are PPs, though the exact number is different for different speakers. The one exception that all (or almost all) English speakers have is the adjective worth. So we can say:
+
+[表格]
+| | | (17) | | | | This object is [ | AdjP | worth [ | NP | a lot of money ]. ] | | |
+
+Here the adjective is followed by the NP [a lot of money]. The NP has to be something that expresses a value.
+Some English speakers, including most Canadian English speakers and some speakers in upstate New York and Pennsylvania, have another exception with the deverbal adjectives finished and done:
+
+[表格]
+| | | (18) | | a. | | I am [finished my coffee]. | | | | | | b. | | The children are [done their homework]. | | |
+
+If you aren’t from one of those places, you might need to use the verbal perfect (have finished my coffee), or use the preposition with (are finished with their homework), to express something similar to what’s expressed in (18a–b).
+Some people allow a few more adjectives in this construction, but they’re all deverbal (that is: derived from verbs). For example, people might allow NP complements with the adjectives started and completed. For more about this construction, see the Done My Homework entry at the Yale Grammatical Diversity Project.
+Let’s return to phrase structure rules for whole sentences. We’ve already seen that sentences can consist of an NP followed by a VP:
+
+[表格]
+| | | (19) | | | | [The robot] [repaired the spaceship]. | | |
+
+They can also have an auxiliary (modal or non-modal) as in (20a), and can have adverbs at the beginning or end as in (20b).
+
+[表格]
+| | | (20) | | a. | | [The robot] will [repair the spaceship]. | | | | | | b. | | Maybe [the robot] will [repair the spaceship] tomorrow. | | |
+
+You can also put negation in a sentence, as in (21)—though negation always requires an auxiliary in English (if there isn’t already an auxiliary, we apply Do-support):
+
+[表格]
+| | | (21) | | a. | | [The robot] didn’t [repair the spaceship]. | | | | | | b. | | [The robot] hasn’t [repaired the spaceship]. | | |
+
+From these we can get a full phrase structure rule with several optional elements, but an obligatory NP subject and an obligatory VP predicate:
+
+[表格]
+| | | (22) | | | | S → (AdvP) NP (Aux) (Neg) VP (AdvP) | | |
+
+Phrase structure rules are useful for describing the sequences that can occur in phrases of different types, but neither these rules nor the trees we’ve seen in this section do more than list the elements that can occur in phrases of different types.
+In the remaining sections of this chapter, we’ll explore a theory that limits possible tree structures to a few basic configurations, with the goal of explaining not only how languages can vary, but also explaining limits on the variation seen across human languages.
+
+## Check your understanding
+
+Coming soon!
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.5 Functional categories and the next section is 6.14 Trees: Introducing X-bar theory.
+If your instructor has assigned Appendix 1 instead of the second half of this chapter, you should move on to Appendix 1 now.
+
+## References
+
+Chomsky, Noam. 1957. Syntactic Structures. The Hague: Mouton.
+Wood, Jim. 2014. Done my homework. Yale Grammatical Diversity Project: English in North America. (Available online at http://ygdp.yale.edu/phenomena/done-my-homework. Accessed on 2024-09-12). Updated by Tom McCoy (2015), Katie Martin (2018), and Oliver Shoulson (2020).

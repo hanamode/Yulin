@@ -1,0 +1,150 @@
+# 6.6 Clausal embedding
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1487#oembed-1
+
+## Recursion: Sentences inside sentences
+
+So far we’ve talked about the organization of words into constituents in a single clause. Consider the sentence in (1), which we saw before in 6.4 Identifying phrases: Constituency tests.
+
+[表格]
+| | | (1) | | | | The students saw a movie about dinosaurs. | | |
+
+This sentence has 3 noun phrases: [the students], [dinosaurs], and [a movie about dinosaurs]. The noun phrase [dinosaurs] is inside the bigger constituent [a movie about dinosaurs], and they’re linked together by a preposition about—in fact, [about dinosaurs] is a prepositional phrase. We also have a verb phrase [saw a movie about dinosaurs]—the verb and its object (or its objects, for ditransitive verbs), will always be part of the same verb phrase constituent.
+Now consider the sentences in (2) and (3):
+
+[表格]
+| | | (2) | | | | Deniz said something. | | | | (3) | | | | Samnang might leave. | | |
+
+In (2), the object of the verb said is something; together these form a verb phrase. But now consider a sentence like (4):
+
+[表格]
+| | | (4) | | | | Deniz said that [ Samnang might leave ]. | | |
+
+In (4), the entire clause from (3) appears after the verb said, in the same position that something appeared in (2). Also, if we do constituency tests—for example replacement in (5)—we can see that [said that Samnang might leave] is a verb phrase that can be replaced by do (too).
+
+[表格]
+| | | (5) | | | | Keiko | said that Samnang might leave | , and Deniz | did too | . | | |
+
+What we see here is that the complement of a verb can be a whole clause; in this case we call the clause-inside-a-clause an embedded clause.
+What about the word that? The role of that seems to be to introduce the embedded clause. Words that have this function of introducing an embedded clause belong to the category complementizers (called that because they turn clauses into the complements of verbs).
+Like other categories, complementizers head phrases of the same category: complementizer phrases (CPs). In (4) and (5) the complementizer phrase is [ that Samnang might leave ]; again, you can identify this constituent with tests.
+
+[表格]
+| | | (6) | | | | It was | that Samnang might leave | that | Deniz said __ | . | | |
+
+Just as verbs select how many complements they take, they can also select the category of their complement. Some transitive verbs can combine only with noun phrase objects, some only with prepositional phrases, some only with complementizer phrases—and some with any or all of these.
+For example, the verb know can combine with several different categories of complements:
+
+[表格]
+| | | (7) | | | | They know… | | | | | | | | …this fact. | | (noun phrase) | | | | | | | | …about birds. | | (prepositional phrase) | | | | | | | | …that birds can fly. | | (complementizer phrase) | | |
+
+Other verbs can only take some of these as complements. The examples in (8) show that the verb eat only allows noun phrase complements; if we try either prepositional phrases or complementizer phrases, the result is ungrammatical. The examples in (9) show that the verb say allows both noun phrases and complementizer phrases, but not prepositional phrases; the examples in (10) show that talk allows noun phrases and prepositional phrases, but not complementizer phrases.
+
+[表格]
+| | | (8) | | | | We ate… | | | | | | | | …curry. | | (noun phrase) | | | | | | | | *…about curry. | | (*prepositional phrase) | | | | | | | | *…that curry is for dinner. | | (*complementizer phrase) | | |
+
+[表格]
+| | | (9) | | | | The teacher said… | | | | | | | | …something. | | (noun phrase) | | | | | | | | *…about chocolate. | | (*prepositional phrase) | | | | | | | | …that they like chocolate. | | (complementizer phrase) | | |
+
+[表格]
+| | | (10) | | | | They talked… | | | | | | | | …mythology. | | (noun phrase) | | | | | | | | …about mythology. | | (prepositional phrase) | | | | | | | | *…that mythology is interesting. | | (*complementizer phrase) | | |
+
+(Some people might not find They talked mythology. totally grammatical; whether talk can take a noun phrase object is something that has changed over time in English. Chapter 10: Language Variation and Change looks more at the topic of language change.)
+So far the examples of embedded clauses that we’ve seen are all embedded statements. Is that the only kind of embedded clause that exists in English, or in language in general? Are there any complementizers other than that?
+Take a moment to see if you can think of some other verbs that embed whole clauses, and see if you can identify some element in those sentences that looks like another complementizer. You can do this for English, or for another language that you know.
+
+## Questions inside sentences: Embedded interrogative clauses
+
+We just saw that the English verb know can combine with several different types of complements (complementizer phrases, noun phrases, and prepositional phrases). It also happens to be able to combine with more than one type of embedded clause. Consider the examples in (11).
+
+[表格]
+| | | (11) | | | | I know… | | | | | | | | …( | that | ) ghosts exist. | | | | | | | | … | whether | ghosts exist. | | | | | | | | … | if | ghosts exist. | | |
+
+What we see here is that the verb know can combine not only with clauses introduced by that (or nothing), but also ones introduced by whether or if. Another way to write this would be to use { curly braces } to surround the complementizers allowed after know, as in:
+
+[表格]
+| | | (12) | | | | I know [ | CP | {that, ∅, whether, if} ghosts exist ]. | | |
+
+Not all verbs are equally flexible! Some verbs, like believe, only allow that or ∅, not whether or if, as shown in (13).
+
+[表格]
+| | | (13) | | a. | | I believe [ | CP | {that, ∅} ghosts exist ].̱ | | | | | | b. | | *I believe [ | CP | {whether, if} ghosts exist ].̱ | | |
+
+Other verbs, like wonder, only allow whether or if as complementizers.
+
+[表格]
+| | | (14) | | a. | | *I wonder [ | CP | {that, ∅} ghosts exist ].̱ | | | | | | b. | | I wonder [ | CP | {whether, if} ghosts exist ]. | | |
+
+What this tells us is that the difference between that or ∅ on the one hand, and whether or if on the other hand, is something that verbs can be sensitive to when it comes to selection.
+What, then, is the difference between these two sets of complementizers?
+We can see the difference if we look at their use with verbs of quotation, comparing embedded clauses with direct quotation (indicated in English writing by using “quotation marks”).
+Consider the verb say in (15):
+
+[表格]
+| | | (15) | | | | They said | that | ghosts exist. | | = | | They said: “ | Ghosts exist. | ” | | |
+
+The embedded clause introduced by that can directly paraphrase a directly quoted statement.
+Now compare the verb ask in (16):
+
+[表格]
+| | | (16) | | | | They asked | if | ghosts exist. | | = | | They asked: “ | Do ghosts exist? | ” | | |
+
+In (16) we see that the embedded clause with if corresponds not to a quoted statement, but to a quoted question! This is the difference between that and ∅ versus if and whether:
+- that and ∅: introduce embedded statements they are [–Q] (non-question) complementizers
+if and whether: introduce embedded questions
+- they are [+Q] (question) complementizers
+
+In English, all verbs that can select a CP headed by whether can also select a CP headed by if, though some speakers prefer one or the other, or prefer one to the other for certain verbs. If you’re a fluent English speaker, you can ask yourself if you prefer one of these words to the other one.
+The relationship between that and ∅ is slightly more complex. For the most part, any verb that can select a CP headed by that can also select a CP headed by ∅. But there are a few verbs that strongly prefer an overt that. In my own English, one example is the verb report:
+
+[表格]
+| | | (17) | | a. | | The newspaper reported that there was a demonstration yesterday. | | | | | | b. | | *The newspaper reported ∅ there was a demonstration yesterday. | | |
+
+When a complementizer phrase occurs in a different position in a sentence that is also often obligatory. For example, when a clause is the subject of a sentence, many people find it ungrammatical to leave that out in English.
+
+[表格]
+| | | (18) | | a. | | [That there was a demonstration yesterday] surprised some people. | | | | | | b. | | *[There was a demonstration yesterday] surprised some people. | | | | | | c. | | It surprised some people [that there was a demonstration yesterday]. | | | | | | d. | | *It surprised some people [there was a demonstration yesterday]. | | |
+
+The choice of complementizers is something that varies a lot across different varieties of English. If you or other people in your class don’t share the judgements reported here, see if you can figure out generalizations that describe your own grammar better!
+
+## Embedded nonfinite clauses
+
+Are complementizer phrases all just questions or statements?
+There’s at least one other distinction in types of clauses that verbs can take as complements. Consider, for example, the verb want:
+
+[表格]
+| | | (19) | | a. | | I want [ghosts to exist]. | | | | | | b. | | *I want [{that/∅} ghosts exist]. | | | | | | c. | | *I want [{whether/if} ghosts exist]. | | |
+
+In my English, and maybe in yours, the verb want doesn’t allow any of the complementizers we’ve seen so far. Instead, it requires that the clause it embeds have a nonfinite verb. Is a clause like [ ghosts to exist ] a complementizer phrase, or should we identify it as something else?
+There is reason to think that at least some nonfinite clauses can occur in complementizer phrases: while many nonfinite embedded clauses don’t have any overt complementizer, at least some do. Consider the examples in (20).
+
+[表格]
+| | | (20) | | a. | | I want [ | for | ghosts to exist]. | | | | | | b. | | I prefer [ | for | my coffee to have milk in it]. | | | | | | c. | | I’d like [ | for | you to leave now]. | | |
+
+Not everyone likes for in these examples, but at least some English speakers find it grammatical. Here for appears in the same kind of position we previously saw that, if, or whether in. We can analyze for as a complementizer for nonfinite clauses.
+What makes for possible in (20), for many speakers, is the presence of a subject in the embedded clause. In many languages, including English, it’s possible for nonfinite clauses to lack a subject; we won’t look at such clauses more in this chapter, but in some varieties of English the complementizer for can occur without any subject, resulting in what are called for to infinitives, as in I was happy for to leave. You can read more about this construction, and its distribution across varieties of English, at the Yale Grammatical Diversity Project: for to infinitives.
+Some verbs can take either finite or nonfinite complements. Consider the verb prefer:
+
+[表格]
+| | | (21) | | a. | | I prefer [ | that | cookies have chocolate chips]. | | | | | | b. | | I prefer [ | for | cookies to have chocolate chips]. | | |
+
+So just like the verb know can select either a question or a statement as its complement, the verb prefer can select either a finite or a non-finite clause.
+
+“Nonfinite” and “infinitive” are two words for the same thing—notice that in both cases a negative prefix (non- or in-) attaches to the root finite. Nonfinite verbs in English appear with the infinitive marker to. This marker shows up in the same position occupied by auxiliaries—after the subject but before negation—and it’s in complementary distribution with the modal auxiliaries.
+
+## Summary
+
+In this section we’ve seen that it is possible for clauses to occur inside other clauses. These embedded clauses are introduced by words belonging to a new functional category: complemenizers. When embedded clauses (which we can also call embedded complementizer phrases) occur as the complement of a verb, the verb selects which types of clauses it can occur with, and the options we’ve seen here include embedded statements, embedded questions, and embedded nonfinite clauses.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1487#h5p-155
+
+## Navigation
+
+If you are following the alternative path through this chapter that interleaves core concepts with tree structures, the previous section was 6.17 Trees: Structural ambiguity and the next section is 6.18 Trees: Embedded clauses.
+
+## References
+
+Kaplan, Aidan, Eliza Scruton & Jim Wood. 2017. For to infinitives. Yale Grammatical Diversity Project: English in North America. (Available online at http://ygdp.yale.edu/phenomena/for-to-infinitives. Accessed on 2022-08-19). Updated by Katie Martin (2018).

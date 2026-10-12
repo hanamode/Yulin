@@ -1,0 +1,19 @@
+{
+ "batch": 34,
+ "chapter": "Chapter 6: Syntax",
+ "out": "data/book/gen/batch-34.json",
+ "sections": [
+  {
+   "id": "chapter-072-overview",
+   "title": "6.21 Trees: Summary",
+   "src": "data/book/src/chapter-072-overview.txt",
+   "chars": 1511
+  },
+  {
+   "id": "chapter-073-practice-time-3",
+   "title": "6.22 Exercise your linguistics skills.",
+   "src": "data/book/src/chapter-073-practice-time-3.txt",
+   "chars": 11123
+  }
+ ]
+}

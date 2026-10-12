@@ -1,0 +1,59 @@
+# 8.10 Thinking about illocutionary meaning compositionally
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2714#oembed-1
+What we learned in Chapter 7 is that the meaning of a sentence is compositional. Let’s take the sentence Panks is a cat. If we think denotationally, this means that we combine the meaning of cat (the set of all cats) with the meaning of Panks (the individual Panks), which results in the meaning of the sentence (TRUE if and only if Panks is in the set of all cats). This kind of analysis might suffice if you are interested in the meaning of the sentence in isolation — that is, uttered on its own. A more realistic view of how language works, however, is that sentences don’t get produced in isolation; they are a part of a larger conversation. In fact, you typically don’t get to decide on your own if a sentence is true or not. This is why you have conversations: to consult others to see what is true about the world we are in, and what is false. We want to analyse sentential meaning as something more collaborative and discourse-based like this in this chapter. As introduced in the previous section, this largely concerns the illocutionary meaning of a sentence.
+Before we discuss the details of various types of illocutionary meaning, let’s make sure that we understand some terminology that might potentially be confusing. Consider the pair of sentences in (1)-(2).
+(1) Panks is a cat (assertion)
+(2) Is Panks a cat? (question)
+You likely have the intuition that (1) and (2) are two “versions” of the same thing: (1) is the declarative version of Panks being a cat, and (2) is the interrogative version of it. We can say that (1) and (2) are based on the same proposition: that an individual called Panks is among the set of cats (or, p∈C in set theory terms). A proposition is something that can be assigned a truth value. When a proposition is given a truth value (or truth condition), it is called a statement.
+To understand this better, let’s think about the meaning of (2), Is Panks a cat?. This is not a statement, because questions do not have truth values (You can’t say *It is true that is Panks a cat). However, the meaning of the question still involves the proposition that was introduced earlier: p∈C. In the meaning of a question, you are not saying that the proposition has a certain truth value. Instead, you are asking about the truth value of the proposition: is p∈C true, or is p∈C false?
+In order to understand how illocutionary meaning works, we will assume in this chapter that a TP is simply a proposition, like p∈C (we might also just write a proposition in bold, like Panks is a cat). This means that it doesn’t actually have a truth value yet.
+A proposition on its own has no illocutionary meaning; we have to add illocutionary meaning to it. To do this compositionally, we can posit a silent illocutionary force morpheme that carries illocutionary meaning. For example in English, we can assume that there is a silent ASSERT morpheme that resides in C (the head of the CP). The idea would be that this ASSERT morpheme adds illocutionary meaning to the proposition represented by its sister TP. This structure is shown in Figure 8.3 below.
+
+[图片：Screen-Shot-2022-05-25-at-4.17.59-AM.png]
+
+Figure 8.3. A tree with an ASSERT morpheme in C (irrelevant nodes have been omitted).
+The role of the ASSERT morpheme would be to take a proposition and “do” something with it in the discourse context. For example, if you assert Panks is a cat, this means that ASSERT takes p∈C and says something along the lines of ‘I (the speaker/signer) believe that p∈C is true; do you (the addressee) believe this, too?‘. The underlined part is what we call the illocutionary meaning of a sentence (or illocutionary force): what is being “done” with the proposition in the discourse.
+
+Illocutionary force
+Sometimes, the term illocutionary force is used to refer to the utterer’s intended illocutionary meaning of a sentence. Sometimes this specification is necessary, because illocutionary acts are successful only if the addressee understands the illocutionary meaning properly. For example, for “You’re manspreading” to be a successful illocutionary act of requesting, then the addressee needs to understand it as so. If the addressee fails to see it as an act of requesting, then it’s not clear that this utterance actually has the “illocutionary meaning” of a request. We can say that it does have the illocutionary force of a request though, since that’s what the speaker’s intended illocutionary meaning was. The distinction between “illocutionary meaning” and “illocutionary force” is not super important in this textbook.
+
+Let’s look at questions now. A question would work in a similar way, just with a different illocutionary force morpheme. Let’s call this silent question force morpheme INTERR. Figure 8.4 is the structure we will assume for a question.
+
+[图片：Screen-Shot-2022-05-25-at-4.18.07-AM.png]
+
+Figure 8.4. A tree with an INTERR morpheme in C (irrelevant nodes have been omitted).
+
+As you can see, the question actually has the same TP as the assertion tree we saw before, and thus the same proposition it starts out with: p∈C. This time, the illocutionary morpheme INTERR (for interrogative) would combine with this proposition and give it interrogative illocutionary force. INTERR p∈C roughly means ‘Either p∈C is true or p∈C is false; which one do you think it is?‘. The underlined part is the illocutionary meaning contributed by INTERR.
+Some languages like Korean actually have overt (= unsilent) morphemes for ASSERT and INTERR. Consider (3) and (4).
+
+[表格]
+| | | (3) | | | | | Korean (Brandner, 2004) | | | | | | | | | | | | | | | | | | ku-ka | | seoul-e | | ka | | -ass | | | -ta | | | | | | | | | | he-NOM | | | | Seoul-to | | | | go | | | | -PAST | | | | | -ASSERT | | | | | | | | | | | ‘He went to Seoul’ | | | | | | | |
+
+[表格]
+| | | (4) | | | | | Korean (Brandner, 2004) | | | | | | | | | | | | | ku-ka | | seoul-e | | ka | | -ass | | | -nunya | ? | | | | | | | | he-NOM | | Seoul-to | | go | | -PAST | | | | -INTERR | | | | | | | | | | | ‘Did he go to Seoul?’ | | | | | | | |
+
+In (3), -ta is the morpheme that marks the sentence as an assertion; a non-silent ASSERT. In (4), -nunya is the morpheme that marks it as a question; a non-silent INTERR. These illocutionary force morphemes appear in C in Korean as well. Linearly, it shows up at the end of the sentence because Korean is a head-final language — just like Japanese (recall Chapter 6, Section 6.3).
+With this kind of compositionality of illocutionary meaning in mind, we will begin to address the question of what exactly these ASSERT and INTERR morphemes mean.
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=2714#h5p-96
+
+## References
+
+Brandner, E. (2004). Head-movement in minimalism, and V2 as FORCE-marking. The Syntax and Semantics of the Left Periphery, 97-13
+Farkas, D. F., & Bruce, K. B. (2010). On reacting to assertions and polar questions. Journal of semantics, 27(1), 81-118.
+Ginzburg, J. (1996). Dynamics and the semantics of dialogue. Seligman, Jerry, & Westerst ahl, Dag (eds), Logic, language and computation, 1.
+Groenendijk, J., & Stokhof, M. (1991). Dynamic predicate logic. Linguistics and philosophy, 39-100.
+Gunlogson, C. (2004). True to form: Rising and falling declaratives as questions in English. Routledge.
+Hamblin, C. L. (1971). Mathematical models of dialogue. Theoria, 37(2), 130-155.
+Hamblin, C. L. (1973). Questions in Montague English. Foundations of Language, 10(1). 41–53.
+Heim, I. (1982). The semantics of definite and indefinite noun phrases. University of Massachusetts, Amherst dissertation.
+Heim, I. (2002). File change semantics and the familiarity theory of definiteness. Formal Semantics: The Essential Readings, 223-248.
+Kamp, H. (1981). A theory of truth and semantic representation. Truth, Interpretation and Information, 1–41.
+Kamp, H., Genabith, J. V., & Reyle, U. (2011). Discourse Representation Theory. In Handbook of Philosophical Logic (pp. 125-394). Springer, Dordrecht.
+Roberts, C. (2012). Information structure: Towards an integrated formal theory of pragmatics. Semantics and Pragmatics, 5, 6-1.
+Stalnaker, R. C. (1978). Assertion. In Pragmatics (pp. 315-332). Brill.
+Taniguchi, A. (2017). The formal pragmatics of non-at-issue intensification in English and Japanese. Michigan State University dissertation.

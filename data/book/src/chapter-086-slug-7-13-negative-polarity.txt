@@ -1,0 +1,49 @@
+# 7.13 Negative polarity items
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1595#oembed-1
+When we think of the meaning of linguistic expressions in terms of their denotation, there are some interesting linguistic patterns that we can explain. Consider the following sentences.
+
+[表格]
+| | | (1) | | a. | | | | They did not pet | | anything | | | | yet | | . | | | | | | b. | | | | We did not like the candy | | at all | | . | | | | | | c. | | | | She didn’t see ghosts | | anywhere | | . | | | | | | d. | | | | Nobody | | ever | | dressed up as a dinosaur. | | | | | | e. | | | | I doubt that you saw | | anyone | | . | | | | | | f. | | | | If you bought | | any | | pumpkins, then put them on the counter. | | |
+
+The underlined expressions in (1) are called negative polarity items (NPIs). NPIs are expressions that only appear in certain “negative” grammatical contexts. We call the context in which NPIs can appear its licensing context. The most straight-forward case, NPIs are licensed (= appears) in sentences with the negation not or no, as in (1a)-(1d). Note however, that it is not sufficient for the sentence to just contain negation. Syntactically, the negation must be in a structurally higher position than the NPI in the tree. So although (2a) is well-formed, when the NPI is fronted, it is ungrammatical, as shown in (2b).
+
+[表格]
+| | | (2) | | a. | | | | I did not pet any cats. | | | | | | b. | | * | | Any cats, I did not pet. | | |
+
+(3) shows what happens when the NPI-licensing environments disappear. The sentences are ungrammatical.
+
+[表格]
+| | | (3) | | a. | | * | | They petted | | anything | | | | yet | | . | | | | | | b. | | * | | We liked the candy | | at all | | . | | | | | | c. | | * | | She saw ghosts | | anywhere | | . | | | | | | d. | | * | | Somebody | | ever | | dressed up as a dinosaur. | | | | | | e. | | * | | I know that you saw | | anyone | | . | | | | | | | | | | (Intended interpretation: ‘I know that you saw someone’) | | | | | | f. | | * | | You bought | | any | | pumpkins. | | |
+
+Of interest to us is the fact that you do not literally have to have the negation not for NPIs to be licensed. In (1e), the licensing context is embedding under the verb doubt. In (1f), the licensing context is the antecedent of the conditional: the “if” clause.
+You might have the intuition that doubt is still “inherently negative” in some way. But what about (1f) with the “if” clause? What makes that “negative”? As it turns out, there is a more precise way to characterise NPI-licensing context than “negative”. The contexts in (1a)-(1f) all have something in common when we take set relationships into consideration.
+NPIs are licensed in downward-entailing contexts. Let’s start with the NPI-licensing context “They did not ____” to illustrate downward entailment.
+
+[表格]
+| | | (4) | | Context: | They did not ____ | | | | | | | | | a. | | | | They did not pet | cats | . | | ( | proper superset | ) | | | | | | b. | | | | They did not pet | Siberian Forest Cats | . | | ( | proper | | subset | | ) | | | |
+
+To see if a context is downward-entailing, there are three steps. Step 1: Insert a phrase into the context, and make sure the phrase contains something that denotes a set. In (4a), cats denotes a set of cats. Step 2: Construct another sentence with the same context — but swap out the set from the original sentence with a proper subset of that set. So in (4b), I have chosen Siberian Forest Cats, because the set of Siberian Forest Cats is a proper subset of cats.
+Step 3: Check the entailment relationship between the two sentences you constructed. Does the sentence with the proper superset (=(4a)) entail the sentence with the proper subset (=(4b)), or does the sentence with the proper subset (=(4b)) entail the sentence with the proper superset (=(4a)). In (4), If they did not pet cats, then it necessarily means that they did not pet Siberian Forest Cats. The other way around does not hold: Just because they did not pet Siberian Forest Cats does not mean that they did not pet cats (perhaps they petted a Siamese Cat). So in this case, the sentence with the proper superset (=(4a)) entails the sentence with the proper subset (=(4b)). A context that gives rise to this kind of entailment relationship is called a downward-entailing context. And this seems to be what’s relevant to NPI licensing.
+Let’s try this with a context without negation, which we know is not an NPI-licensing environment. We will try the three steps in (5) again.
+
+[表格]
+| | | (5) | | Context: | They ____ | | | | | | | | | a. | | | | They petted | cats | . | | ( | proper superset | ) | | | | | | b. | | | | They petted | Siberian Forest Cats | . | | ( | proper | | subset | | ) | | | |
+
+OK, now, which one entails which? In this case, (5a) does not entail (5b). Just because they petted cats does not necessarily mean they petted Siberian Forest Cats. However, (5b) does entail (5a): If they petted Siberian Forest Cats, then it necessarily means that they petted cats. A context that gives rise to this opposite kind of entailment relationship is called an upward-entailing context. NPIs are not licensed in upward-entailing contexts.
+Let’s try this with the antecedent of the conditional, which we said was an NPI-licensing environment.
+
+[表格]
+| | | (6) | | Context: If ____, then [declarative sentence]. | | | | | | | | a. | | | | If you buy | pumpkins | , then you get free candy. | | ( | proper | | superset | ) | | | | | | b. | | | | If you buy | orange pumpkins | , then you get free candy. | | ( | proper | | subset | | ) | | | |
+
+Which one entails which? If the rule is that you get free candy for buying pumpkins, then it is necessarily true that you get free candy if you buy orange pumpkins, too. But if the rule was that you get free candy for buying orange pumpkins in particular, do you necessarily get free candy if you buy pumpkins? The answer is no: it’s possible you bought green or yellow pumpkins! Since (6a) entails (6b) but not the other way around, this is a downward-entailing environment.
+So as we can see, thinking about the meaning denotations and sets is actually quite useful!
+
+## Check your understanding
+
+An interactive H5P element has been excluded from this version of the text. You can view it online here:
+https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/?p=1595#h5p-76
+
+## References
+
+Ladusaw, W. (1980). Polarity Sensitivity as Inherent Scope Relations. New York & London: Garland Publishing.
