@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>语林 · 语言学百科</title>
+<meta name="description" content="语林是一个中文语言学百科全书：收录语言学分支学科、核心概念、理论学派、研究方法、语言学家与语系文字等条目，支持全文检索。">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f7f5f0">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23a8442a'/><text y='72' x='50' text-anchor='middle' font-size='58' fill='%23fffdf9' font-family='serif'>语</text></svg>">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#view">跳到正文</a>
+
+<header class="topbar">
+  <button class="icon-btn only-mobile" id="menuBtn" aria-label="打开导航" aria-expanded="false">☰</button>
+
+  <a class="brand" href="#/">
+    <span class="brand-mark" aria-hidden="true">语</span>
+    <span class="brand-text">
+      <strong>语林</strong>
+      <em>语言学百科</em>
+    </span>
+  </a>
+
+  <div class="search" role="search">
+    <span class="search-icon" aria-hidden="true">⌕</span>
+    <input id="searchInput" type="search" placeholder="搜索条目、术语、关键词…"
+           autocomplete="off" spellcheck="false" aria-label="搜索百科条目"
+           aria-expanded="false" aria-controls="suggestBox" role="combobox">
+    <kbd class="search-kbd">/</kbd>
+    <div class="suggest" id="suggestBox" role="listbox" hidden></div>
+  </div>
+
+  <div class="topbar-actions">
+    <button class="icon-btn" id="randomBtn" title="随机条目（R）" aria-label="随机条目">⚄</button>
+    <button class="icon-btn" id="themeBtn" title="切换深浅色主题（T）" aria-label="切换主题">◐</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar" aria-label="分类导航"></aside>
+  <div class="scrim" id="scrim" hidden></div>
+  <main class="view" id="view" tabindex="-1"></main>
+</div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <p><strong>语林 · 语言学百科</strong> — 一个离线可用的中文语言学知识库。</p>
+    <p class="muted">共 <span id="footCount">0</span> 个条目 · 内容用于学习与教学参考，引用请核对原始文献。</p>
+    <p class="muted">快捷键：<kbd>/</kbd> 搜索 · <kbd>R</kbd> 随机 · <kbd>T</kbd> 换主题 · <kbd>Esc</kbd> 返回</p>
+  </div>
+</footer>
+
+<button class="to-top" id="toTop" aria-label="回到顶部" hidden>↑</button>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="data/categories.js"></script>
+<script src="data/entries.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
